@@ -70,4 +70,6 @@ const buscarPersonaje = async (nombrePersonaje) => {
 
 // Uso
 const personaje = await buscarPersonaje('Spike Spiegel');
+console.log(Naruto);
+export default buscarPersonaje; 
 

@@ -70,4 +70,6 @@ const buscarPersonaje = async (nombrePersonaje) => {
 
 // Uso
 const personaje = await buscarPersonaje('Naruto Uzumaki');
+console.log(Sakura);
+export default buscarPersonaje;
 

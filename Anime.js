@@ -4,7 +4,6 @@ import fs from 'fs';
 
 const BASE_URL = "https://graphql.anilist.co";
 
-const page = 1;
 
 const fetchFromAniList = async (query, variables = {}) => {
   try {
@@ -22,7 +21,7 @@ const fetchFromAniList = async (query, variables = {}) => {
   }
 };
 
-const searchAnime = async (numero) => {
+const searchAnime = async (numero, page) => {
   const query = `
             query {
                 Page(page: ${page}, perPage: 50) {
@@ -73,9 +72,11 @@ const searchAnime = async (numero) => {
   return anime;
 };
 
-const buscarAnime = async (numero) => {
+const buscarAnime = async (numero, page) => {
+
+
   try {
-    const anime = await searchAnime(numero);
+    const anime = await searchAnime(numero, page);
     if (!anime) {
       console.log(
         "> No se encontró ningún anime con ese nombre. Intenta nuevamente"
@@ -99,13 +100,13 @@ const buscarAnime = async (numero) => {
   console.log(JSON.stringify(anime, null, 2));
 
 // Leer el archivo JSON
-const json = JSON.parse(fs.readFileSync("./Anime.json", "utf8"));
+const json = JSON.parse(fs.readFileSync("./Anime1.json", "utf8"));
 
 // Agregar el nuevo anime al array
 json.push(anime); // ← asegurate de que `anime` sea un objeto válido
 
 // Escribir el array actualizado al archivo
-fs.writeFileSync("./Anime.json", JSON.stringify(json, null, 2), "utf8");
+fs.writeFileSync("./Anime1.json", JSON.stringify(json, null, 2), "utf8");
 
 
   } catch (error) {
@@ -113,4 +114,26 @@ fs.writeFileSync("./Anime.json", JSON.stringify(json, null, 2), "utf8");
   }
 };
 
-await buscarAnime(1);
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function ejecutar() {
+  let page = 1;
+  let i = 0;
+  
+  while (page <= 20) {
+    await buscarAnime(i, page);
+    await sleep(5000);
+    i++;
+  
+    if (i >= 50) {
+      i = 0;
+      page++;
+    }
+  }
+  
+}
+
+ejecutar();
+

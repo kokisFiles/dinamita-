@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios from "axios";
 import translate from "google-translate-api-x"; // Importa la API de traducción
 
 const BASE_URL = "https://graphql.anilist.co";
@@ -6,25 +6,23 @@ const BASE_URL = "https://graphql.anilist.co";
 const page = 1;
 
 const fetchFromAniList = async (query, variables = {}) => {
-    try {
-      const response = await axios.post(BASE_URL, {
-        query,
-        variables,
-      });
-      return response.data.data;
-    } catch (error) {
-      console.error(
-        "Error al consultar AniList API:",
-        error.response?.data || error.message
-      );
-      throw error;
-    }
-  };
-  
-  
-  const searchAnime = async (numero) => {
+  try {
+    const response = await axios.post(BASE_URL, {
+      query,
+      variables,
+    });
+    return response.data.data;
+  } catch (error) {
+    console.error(
+      "Error al consultar AniList API:",
+      error.response?.data || error.message
+    );
+    throw error;
+  }
+};
 
-      const query = `
+const searchAnime = async (numero) => {
+  const query = `
             query {
                 Page(page: ${page}, perPage: 50) {
                     media(type: ANIME, sort: ID) {
@@ -34,6 +32,19 @@ const fetchFromAniList = async (query, variables = {}) => {
                             english
                             native
                         }
+                        description
+                        coverImage {
+                          large
+                          medium
+                          color
+                          extraLarge
+                        }
+                        status
+                        episodes
+                        genres
+                        popularity
+                        averageScore
+                        format
                         characters {
                             edges {
                                 node {
@@ -52,31 +63,27 @@ const fetchFromAniList = async (query, variables = {}) => {
                 }
             }
         `;
-    
-      // Obtener los datos de los animes
-      const data = await fetchFromAniList(query);
-      console.log(data)
-      const anime =
-    data.Page.media[numero];
 
-    return anime;
-  };
+  // Obtener los datos de los animes
+  const data = await fetchFromAniList(query);
+  console.log(data);
+  const anime = data.Page.media[numero];
 
+  return anime;
+};
 
-  const buscarAnime = async (numero) => {
-  
+const buscarAnime = async (numero) => {
+  try {
+    const anime = await searchAnime(numero);
+    if (!anime) {
+      console.log(
+        "> No se encontró ningún anime con ese nombre. Intenta nuevamente"
+      );
+      return;
+    }
 
-
-  
-    try {
-      const anime = await searchAnime(numero);
-      if (!anime) {
-          console.log("> No se encontró ningún anime con ese nombre. Intenta nuevamente");
-        return;
-      }
-
-      console.log(JSON.stringify(anime, null, 2))
-      /*
+    console.log(JSON.stringify(anime, null, 2));
+    /*
   
       const {
         title,
@@ -122,9 +129,9 @@ const fetchFromAniList = async (query, variables = {}) => {
 
       console.log(`${response}\nImagen: ${imageUrl}`)
       */
-    } catch (error) {
-      console.error("Error al buscar anime:", error.message);
-    }
-  };
+  } catch (error) {
+    console.error("Error al buscar anime:", error.message);
+  }
+};
 
-await buscarAnime(0)
+await buscarAnime(0);

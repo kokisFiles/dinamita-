@@ -1,5 +1,6 @@
 import axios from "axios";
 import translate from "google-translate-api-x"; // Importa la API de traducción
+import fs from 'fs';
 
 const BASE_URL = "https://graphql.anilist.co";
 
@@ -82,56 +83,34 @@ const buscarAnime = async (numero) => {
       return;
     }
 
-    console.log(JSON.stringify(anime, null, 2));
-    /*
-  
-      const {
-        title,
-        description,
-        coverImage,
-        status,
-        episodes,
-        genres,
-        popularity,
-        averageScore,
-        format,
-      } = anime.Media;
-      const imageUrl = coverImage.extraLarge;
-  
-      const cleanedDescription = description
-        ? description.replace(/<[^>]*>/g, "")
-        : "No disponible";
-  
-      const translatedDescription = await translate(cleanedDescription, {
-        to: "es",
-        rejectOnFailure: false,
-      });
-      const popularityFormatted = popularity
-        ? popularity.toLocaleString()
-        : "Desconocido";
-  
-      // Formatear el mensaje con más emojis y detalles
-      const response = `◈  *${
-        title.romaji || title.english || "Título Desconocido"
-      }*  ◈
-  > ${title.native || "---"}
-       
-  ${translatedDescription.text}
-  
-  📝 Episodios:  *${episodes || "Desconocido"}* (${format || "Desconocido"})
-  
-  🎭 Géneros: ${genres ? genres.join(", ") : "No disponible"}
-  
-  🔥 Popularidad:  *${popularityFormatted || "Desconocido"}*
-  
-  📶 Puntuación:  *${averageScore || "N/A"} %*`;
-  
+    const description = anime.description
 
-      console.log(`${response}\nImagen: ${imageUrl}`)
-      */
+    const cleanedDescription = description
+    ? description.replace(/<[^>]*>/g, "")
+    : "No disponible";
+
+  const translatedDescription = await translate(cleanedDescription, {
+    to: "es",
+    rejectOnFailure: false,
+  });
+
+  anime.description = translatedDescription.text
+
+  console.log(JSON.stringify(anime, null, 2));
+
+// Leer el archivo JSON
+const json = JSON.parse(fs.readFileSync("./Anime.json", "utf8"));
+
+// Agregar el nuevo anime al array
+json.push(anime); // ← asegurate de que `anime` sea un objeto válido
+
+// Escribir el array actualizado al archivo
+fs.writeFileSync("./Anime.json", JSON.stringify(json, null, 2), "utf8");
+
+
   } catch (error) {
     console.error("Error al buscar anime:", error.message);
   }
 };
 
-await buscarAnime(0);
+await buscarAnime(1);

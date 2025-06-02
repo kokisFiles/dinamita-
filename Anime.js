@@ -21,7 +21,7 @@ const fetchFromAniList = async (query, variables = {}) => {
   }
 };
 
-const searchAnime = async (numero, page) => {
+const searchAnime = async (page) => {
   const query = `
             query {
                 Page(page: ${page}, perPage: 50) {
@@ -117,23 +117,4 @@ fs.writeFileSync("./Anime1.json", JSON.stringify(json, null, 2), "utf8");
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
-
-async function ejecutar() {
-  let page = 1;
-  let i = 0;
-  
-  while (page <= 20) {
-    await buscarAnime(i, page);
-    await sleep(5000);
-    i++;
-  
-    if (i >= 50) {
-      i = 0;
-      page++;
-    }
-  }
-  
-}
-
-ejecutar();
 

@@ -101,13 +101,13 @@ for (let i = 0; i <= data.Page.media.length; i++){
   console.log(JSON.stringify(anime, null, 2));
 
 // Leer el archivo JSON
-const json = JSON.parse(fs.readFileSync("./Anime1.json", "utf8"));
+const json = JSON.parse(fs.readFileSync("./Anime4.json", "utf8"));
 
 // Agregar el nuevo anime al array
 json.push(anime); // ← asegurate de que `anime` sea un objeto válido
 
 // Escribir el array actualizado al archivo
-fs.writeFileSync("./Anime1.json", JSON.stringify(json, null, 2), "utf8");
+fs.writeFileSync("./Anime4.json", JSON.stringify(json, null, 2), "utf8");
 
 }
   } catch (error) {
@@ -121,7 +121,7 @@ function sleep(ms) {
 
 
 async function inicio(){
-let page = 1;
+let page = 61;
 while (page <= 20) {
   console.log("Iniciando..." + page)
   await buscarAnime(page);

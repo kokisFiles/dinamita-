@@ -66,23 +66,24 @@ const searchAnime = async (page) => {
 
   // Obtener los datos de los animes
   const data = await fetchFromAniList(query);
-  console.log(data);
-  const anime = data.Page.media[numero];
 
-  return anime;
+console.log(`Datos obtenido ${data}`)
+  return data;
 };
 
-const buscarAnime = async (numero, page) => {
+const buscarAnime = async (page) => {
 
 
   try {
-    const anime = await searchAnime(numero, page);
-    if (!anime) {
-      console.log(
-        "> No se encontró ningún anime con ese nombre. Intenta nuevamente"
-      );
-      return;
-    }
+    console.log(`Buscando en la página ${page}`)
+    const data = await searchAnime(page);
+    let anime;
+
+for (let i = 0; i <= data.Page.media.length; i++){
+  console.log(`Guardando el anime id ${i}`)
+  console.log(`Porcentaje de completado > ${i / 1000 * 100}%`)
+    anime = data.Page.media[i];
+
 
     const description = anime.description
 
@@ -108,7 +109,7 @@ json.push(anime); // ← asegurate de que `anime` sea un objeto válido
 // Escribir el array actualizado al archivo
 fs.writeFileSync("./Anime1.json", JSON.stringify(json, null, 2), "utf8");
 
-
+}
   } catch (error) {
     console.error("Error al buscar anime:", error.message);
   }
@@ -118,3 +119,15 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+
+async function inicio(){
+let page = 1;
+while (page <= 20) {
+  console.log("Iniciando..." + page)
+  await buscarAnime(page);
+  await sleep(5000);
+  ++page
+}
+}
+
+await inicio()

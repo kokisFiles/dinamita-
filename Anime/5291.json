@@ -1,0 +1,508 @@
+{
+  "id": 5291,
+  "idMal": 5291,
+  "title": {
+    "native": "ケンシロウ伝",
+    "romaji": "Hokuto no Ken Zero: Kenshirou Den",
+    "english": "Fist of the North Star: The Legend of the True Savior: Legend of Kenshiro"
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "Last of the Shin Kyuuseishu Densetsu pentalogy. A prequel set between Kenshiro's defeat at the hands of Shin and the beginning of the manga. <br><br>\n(Source: Wikipedia)",
+  "startDate": {
+    "year": 2008,
+    "month": 10,
+    "day": 11
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 10,
+    "day": 11
+  },
+  "season": "FALL",
+  "seasonYear": 2008,
+  "seasonInt": 84,
+  "episodes": 1,
+  "duration": 90,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748803381,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5291.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5291.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5291.jpg",
+    "color": "#432878"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5291-grK5kUFqdQrt.jpg",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "synonyms": [
+    "Fist of the North Star: Legend of Kenshiro"
+  ],
+  "averageScore": 71,
+  "meanScore": 73,
+  "popularity": 2679,
+  "favourites": 32,
+  "tags": [
+    {
+      "id": 247,
+      "name": "Slavery",
+      "description": "Prominently features slaves, slavery, or slave trade.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 30,
+      "name": "Martial Arts",
+      "description": "Centers around the use of traditional hand-to-hand combat.",
+      "category": "Theme-Action",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 93,
+      "name": "Post-Apocalyptic",
+      "description": "Partly or completely set in a world or civilization after a global disaster.",
+      "category": "Setting-Universe",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 60,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 4312,
+          "title": {
+            "native": "真救世主伝説 北斗の拳 トキ伝"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 967,
+          "title": {
+            "native": "北斗の拳"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2511,
+          "name": {
+            "first": "Kenshiro",
+            "last": null,
+            "native": "ケンシロウ",
+            "alternative": [
+              "Ken"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2511-I5ff3jioC5Ze.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2511-I5ff3jioC5Ze.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2511"
+        },
+        "voiceActors": [
+          {
+            "id": 110549,
+            "name": {
+              "first": "Hiroshi",
+              "last": "Abe",
+              "native": "阿部寛"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110549-DGkUT055PBnd.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110549-DGkUT055PBnd.png"
+            },
+            "siteUrl": "https://anilist.co/staff/110549"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 186292,
+          "name": {
+            "first": "Danne ",
+            "last": null,
+            "native": "ダンネ",
+            "alternative": [
+              "Dan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186292-WXjPH1uIIwa8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b186292-WXjPH1uIIwa8.png"
+          },
+          "siteUrl": "https://anilist.co/character/186292"
+        },
+        "voiceActors": [
+          {
+            "id": 95082,
+            "name": {
+              "first": "Romi",
+              "last": "Park",
+              "native": "朴璐美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95082-pNGbnYv4cHAK.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95082-pNGbnYv4cHAK.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95082"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 186291,
+          "name": {
+            "first": "Jugai",
+            "last": null,
+            "native": "ジュガイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186291-upRSKHaKTfna.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b186291-upRSKHaKTfna.png"
+          },
+          "siteUrl": "https://anilist.co/character/186291"
+        },
+        "voiceActors": [
+          {
+            "id": 95113,
+            "name": {
+              "first": "Rikiya",
+              "last": "Koyama",
+              "native": "小山力也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95113-z9eyYjTKSTX4.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95113"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 97848,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Okamura",
+            "native": "岡村善行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2848.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2848.jpg"
+          },
+          "description": "__Yoshiyuki Okamura__, also known as **Buronson** (武論尊) or **Sho Fumimura** (史村 翔, Fumimura Shō), is a Japanese manga writer most known by his famous work Hokuto no Ken, known in English as Fist of the North Star.  He graduated from the Japanese Air Force Training School in 1967 and served as an Air Force radar mechanic. In 1969 he discharged from the Japanese Navy and was soon hired by Hiroshi Motomiya as a manga assistant. He started his manga writing career when he wrote the script of Pink Punch: Miyabi in 1972, drawn by Goro Sakai. In 1975 Buronson wrote his first big hit The Doberman Detective, drawn by Shinji Hiramatsu. The famous Hokuto no Ken made its debute as Buronson's greatest hit in 1983, drawn by Tetsuo Hara. In 1989 his story Ourou was released as a manga serialized in Animal Magazine, drawn by Kentarou Miura, and in 1990 a sequel entitled Ourou Den was released by the same manga artist. Buronson also collaborated with the manga artist Ryoichi Ikegami in many works as Strain (manga) , Human (manga) and the famous Sanctuary (manga). Among his other major works are The Phantom Gang, with art by Kaoru Shintani.    Buronson was mainly influenced by movies such as Bruce Lee's, and Mad Max.    The nickname Buronson is a tribute to the American actor Charles Bronson, whose way of growing the mustache was imitated by Yoshiyuki Okamura too.  ",
+          "siteUrl": "https://anilist.co/staff/97848"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 100077,
+          "name": {
+            "first": "Yuki",
+            "last": "Kajiura",
+            "native": "梶浦由記"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100077-EQO5m2lkmUQk.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100077-EQO5m2lkmUQk.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/Fion0806) | [Facebook](https://www.facebook.com/profile.php?id=100001583365922) | [Spotify](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [Apple Music](https://music.apple.com/artist/yuki-kajiura/251013990) | [Deezer](https://www.deezer.com/artist/4663498)\n\nYuki Kajiura was born in Japan but raised in West Germany for most of her childhood. Her father was a big fan of classical and opera music and always desired for Yuki to play the piano for him. Yuki eventually gained a love for music and a love for the piano. Yuki started out as an SE programmer, but changed to music in 1992. She made her grand debut with a female trio called \"[See-Saw](https://anilist.co/staff/104342).\"  In the years to come the group released six singles and two albums. \n\nYuki then went on to work on her solo career composing for artists and some TV, films, and games, such as _Blood: The Last Vampire_ in 2001, and _Xenosaga II_ and _III_. In 2001, Yuki's claim to fame came with the release of the anime [_NOIR_](https://anilist.co/anime/272). The soundtrack sold 50,000 copies. In 2002, she was brought on to project .hack to write the score to [_.hack//SIGN_](https://anilist.co/anime/48), along with vocalist [Chiaki Ishikawa](https://anilist.co/staff/101059) and New York singer [Emily Bindiger](https://anilist.co/staff/103845). Shortly after Yuki comprised an album of original and complied songs known as Fiction, working again with Emily Bindiger as well as _Xenosaga_ vocalist Deb Lyons.  \n\nYuki's other well-known works were for [_Mobile Suite Gundam Seed_](https://anilist.co/anime/93), which hit 5th on the Oricon Charts its first week, and selling over 200,000 copies. Yuki has also become known for her work on CLAMP's [_Tsubasa Chronicle_](https://anilist.co/anime/177) series, [movie](https://anilist.co/anime/807), and [OVAs](https://anilist.co/anime/2685). In 2003, she formed the project [FictionJunction](https://anilist.co/staff/103691) in which pairs Yuki's songwriting and composition with different performing vocalists, first as separate solo works and later into a singular group. In 2007, Yuki formed the band [Kalafina](https://anilist.co/staff/101975), with two partners from FictionJunction, Wakana Ootaki and [Keiko Kubota](https://anilist.co/staff/104664), to perform for the anime [_Kara no Kyoukai_](https://anilist.co/anime/2593), further working on several others. Kalafina disbanded in 2018, with their final lineup including Wakana, Keiko, and [Hikaru](https://anilist.co/staff/168857).",
+          "siteUrl": "https://anilist.co/staff/100077"
+        }
+      },
+      {
+        "role": "Theme Song Performance  (ED)",
+        "node": {
+          "id": 107236,
+          "name": {
+            "first": "",
+            "last": "Garnet Crow",
+            "native": "GARNET CROW"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12236.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/12236.jpg"
+          },
+          "description": "Members include [Yuri Nakamura](https://anilist.co/staff/365002/), Hitoshi Okamoto, [Nana Azuki](https://anilist.co/staff/365000/), and [Hirohito Furui](https://anilist.co/staff/225154/), with Nakamura leading on vocals.",
+          "siteUrl": "https://anilist.co/staff/107236"
+        }
+      },
+      {
+        "role": "ADR Director (French)",
+        "node": {
+          "id": 113869,
+          "name": {
+            "first": "Jacques",
+            "last": "Albaret",
+            "native": null
+          },
+          "language": "FRENCH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113869-wF45sVu1JAxR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n113869-wF45sVu1JAxR.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/113869"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 121207,
+          "name": {
+            "first": "Kouhei",
+            "last": "Hashimoto",
+            "native": "橋本航平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121207-PFYCLklEDsTX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121207-PFYCLklEDsTX.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/121207"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 122442,
+          "name": {
+            "first": "Yuuya",
+            "last": "Kumagai",
+            "native": "熊谷勇也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/122442"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 140342,
+          "name": {
+            "first": "Midori",
+            "last": "Matsuda",
+            "native": "松田翠"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/140342"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 97847,
+          "name": {
+            "first": "Tetsuo",
+            "last": "Hara",
+            "native": "原哲夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97847-KZy48rh54mjN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97847-KZy48rh54mjN.png"
+          },
+          "description": "\n[Official website](http://www.haratetsuo.com/)\n\nAfter graduating from Hongou Senior High School, he became an assistant to comic book artist Yoshihiro Takahashi. Hara's own professional comic artist career began in 1982 with the publication of his first work, \"Mad Fighter\". He won the first prize of the 33rd \"Fresh Jump\" award for \"Super Challenger\". His Weekly Shonen Jump debut was \"Iron Don Quixote\". His distinctive art in \"Hokuto no Ken\" began in 1983; it was his first major work.",
+          "siteUrl": "https://anilist.co/staff/97847"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 73,
+          "name": "TMS Entertainment",
+          "siteUrl": "https://anilist.co/studio/73"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 16869,
+      "rank": 11,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2008,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 16924,
+      "rank": 21,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2008,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 261499,
+          "rating": -1,
+          "media": {
+            "id": 5291,
+            "title": {
+              "native": "ケンシロウ伝"
+            }
+          },
+          "mediaRecommendation": null
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 11
+      },
+      {
+        "score": 40,
+        "amount": 32
+      },
+      {
+        "score": 50,
+        "amount": 60
+      },
+      {
+        "score": 60,
+        "amount": 159
+      },
+      {
+        "score": 70,
+        "amount": 268
+      },
+      {
+        "score": 80,
+        "amount": 245
+      },
+      {
+        "score": 90,
+        "amount": 143
+      },
+      {
+        "score": 100,
+        "amount": 99
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 66
+      },
+      {
+        "status": "PLANNING",
+        "amount": 993
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1530
+      },
+      {
+        "status": "DROPPED",
+        "amount": 43
+      },
+      {
+        "status": "PAUSED",
+        "amount": 47
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/5291",
+  "modNotes": null
+}

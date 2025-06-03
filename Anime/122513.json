@@ -1,0 +1,261 @@
+{
+  "id": 122513,
+  "idMal": 49567,
+  "title": {
+    "native": "AWM极限狙击",
+    "romaji": "AWM Jixian Juji",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "NOT_YET_RELEASED",
+  "description": null,
+  "startDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748877618,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122513-vtojNd5W7EIE.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122513-vtojNd5W7EIE.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx122513-vtojNd5W7EIE.jpg",
+    "color": "#e45dbb"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Romance"
+  ],
+  "synonyms": [
+    "AWM PUBG Mobile",
+    "AWM绝地求生"
+  ],
+  "averageScore": null,
+  "meanScore": null,
+  "popularity": 927,
+  "favourites": 13,
+  "tags": [
+    {
+      "id": 792,
+      "name": "E-Sports",
+      "description": "Prominently features professional video game competitions, tournaments, players, etc.",
+      "category": "Theme-Game",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 308,
+      "name": "Video Games",
+      "description": "Centers around characters playing video games.",
+      "category": "Theme-Game",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 75,
+      "name": "Boys' Love",
+      "description": "Prominently features romance between two males, not inherently sexual.",
+      "category": "Theme-Romance",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 149856,
+          "title": {
+            "native": "AWM绝地求生"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 241229,
+          "name": {
+            "first": "Zui",
+            "last": "Qi",
+            "native": "祁醉",
+            "alternative": [
+              "Drunk"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241229-Dbfir3PqywUB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241229-Dbfir3PqywUB.png"
+          },
+          "siteUrl": "https://anilist.co/character/241229"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 241230,
+          "name": {
+            "first": "Yang",
+            "last": "Yu",
+            "native": "于炀",
+            "alternative": [
+              "Youth"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241230-ZmDsJNwMEOIm.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b241230-ZmDsJNwMEOIm.png"
+          },
+          "siteUrl": "https://anilist.co/character/241230"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 160199,
+          "name": {
+            "first": "Man Man He Qi Duo",
+            "last": null,
+            "native": "漫漫何其多"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n160199-TegC6e00i3or.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n160199-TegC6e00i3or.jpg"
+          },
+          "description": "__Hobbies:__ Painting\n__Favorite Anime:__ One Piece\n\n[Weibo](https://weibo.com/u/2608766715)",
+          "siteUrl": "https://anilist.co/staff/160199"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 177152,
+          "name": {
+            "first": "Ke",
+            "last": "Xiong",
+            "native": "熊可"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n177152-YZ0vYpXd7jln.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n177152-YZ0vYpXd7jln.png"
+          },
+          "description": "__[Weibo](https://weibo.com/u/3840686382)__",
+          "siteUrl": "https://anilist.co/staff/177152"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 6382,
+          "name": "Tencent Penguin Pictures",
+          "siteUrl": "https://anilist.co/studio/6382"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 6485,
+          "name": "B.CMAY PICTURES",
+          "siteUrl": "https://anilist.co/studio/6485"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 22131,
+      "url": "https://www.weibo.com/u/7488347491",
+      "site": "Weibo"
+    },
+    {
+      "id": 22132,
+      "url": "https://v.qq.com/detail/m/mzc002002y88zmz.html",
+      "site": "Tencent Video"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 24
+      },
+      {
+        "status": "PLANNING",
+        "amount": 882
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1
+      },
+      {
+        "status": "DROPPED",
+        "amount": 12
+      },
+      {
+        "status": "PAUSED",
+        "amount": 8
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/122513",
+  "modNotes": null
+}

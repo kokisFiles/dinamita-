@@ -1,0 +1,200 @@
+{
+  "id": 188805,
+  "idMal": 59883,
+  "title": {
+    "native": "메탈카드봇S",
+    "romaji": "Metal Cardbot S",
+    "english": "Metal Cardbot S"
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "Second season of <i>Metal Cardbot</i>.",
+  "startDate": {
+    "year": 2024,
+    "month": 8,
+    "day": 26
+  },
+  "endDate": {
+    "year": 2025,
+    "month": 2,
+    "day": 11
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 26,
+  "duration": 11,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "KR",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": {
+    "id": "EpOz5aec_Fk",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/EpOz5aec_Fk/hqdefault.jpg"
+  },
+  "updatedAt": 1747299776,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188805-6dcpXjHqgocV.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188805-6dcpXjHqgocV.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188805-6dcpXjHqgocV.png",
+    "color": "#f1c950"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 40,
+  "popularity": 12,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 188804,
+          "title": {
+            "native": "메탈카드봇"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 359314,
+          "name": {
+            "first": "Blue Cop",
+            "last": null,
+            "native": "블루캅",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b359314-gnSfsM7qX6vF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b359314-gnSfsM7qX6vF.png"
+          },
+          "siteUrl": "https://anilist.co/character/359314"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 359313,
+          "name": {
+            "first": "Jun",
+            "last": "Grant",
+            "native": "준그랜트",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b359313-KaJrAwSADTVy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b359313-KaJrAwSADTVy.png"
+          },
+          "siteUrl": "https://anilist.co/character/359313"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6792,
+          "name": "SAMG Animation",
+          "siteUrl": "https://anilist.co/studio/6792"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 110711,
+      "url": "https://home.ebs.co.kr/metalcardbots/main",
+      "site": "Official Site"
+    },
+    {
+      "id": 110715,
+      "url": "https://samg.net/en/samg_contents/metal-cardbot/",
+      "site": "Official Site"
+    },
+    {
+      "id": 110716,
+      "url": "https://www.youtube.com/@metalcardbotTV",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 2
+      },
+      {
+        "status": "PLANNING",
+        "amount": 5
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1
+      },
+      {
+        "status": "DROPPED",
+        "amount": 4
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/188805",
+  "modNotes": null
+}

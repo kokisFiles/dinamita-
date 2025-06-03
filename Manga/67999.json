@@ -1,0 +1,689 @@
+{
+  "id": 67999,
+  "idMal": 37999,
+  "title": {
+    "native": "イナズマイレブン GO",
+    "romaji": "Inazuma Eleven Go",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The continuation of Inazuma Eleven ten years later. ",
+  "startDate": {
+    "year": 2011,
+    "month": 11,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 4,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 35,
+  "volumes": 7,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748792858,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37999.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37999.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/37999.jpg",
+    "color": "#f1a135"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sports"
+  ],
+  "synonyms": [],
+  "averageScore": 57,
+  "meanScore": 64,
+  "popularity": 408,
+  "favourites": 7,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 148,
+      "name": "Football",
+      "description": "Centers around the sport of football (known in the USA as \"soccer\").",
+      "category": "Theme-Game-Sport",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 80161,
+          "title": {
+            "native": "イナズマイレブンGO アンソロジー!"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 49315,
+          "title": {
+            "native": "イナズマイレブン"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 10507,
+          "title": {
+            "native": "イナズマイレブン GO"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 41766,
+          "name": {
+            "first": "Tenma",
+            "last": "Matsukaze",
+            "native": "松風天馬",
+            "alternative": [
+              "Arion Sherwind"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41766-9gpqLtVHETiO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b41766-9gpqLtVHETiO.png"
+          },
+          "siteUrl": "https://anilist.co/character/41766"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 41960,
+          "name": {
+            "first": "Kyousuke",
+            "last": "Tsurugi",
+            "native": "剣城京介",
+            "alternative": [
+              "Victor Blade"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41960-wVuedD1Ey8Ls.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b41960-wVuedD1Ey8Ls.png"
+          },
+          "siteUrl": "https://anilist.co/character/41960"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 41961,
+          "name": {
+            "first": "Takuto",
+            "last": "Shindou",
+            "native": "神童拓人",
+            "alternative": [
+              "Shin",
+              "Riccardo Di Rigo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41961-LFI97KskRPyY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b41961-LFI97KskRPyY.png"
+          },
+          "siteUrl": "https://anilist.co/character/41961"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42873,
+          "name": {
+            "first": "Gouichi",
+            "last": "Kurumada",
+            "native": "車田剛一",
+            "alternative": [
+              "Subaru Honda",
+              "Rusty"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42873-nOQOOhQdYlY0.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b42873-nOQOOhQdYlY0.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42873"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42877,
+          "name": {
+            "first": "Taichi",
+            "last": "Sangoku",
+            "native": "三国太一",
+            "alternative": [
+              "Samguk Han",
+              "Sam"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42877-jCC4EJ9LNK8x.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b42877-jCC4EJ9LNK8x.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42877"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42874,
+          "name": {
+            "first": "Kaiji",
+            "last": "Hamano",
+            "native": "浜野海士",
+            "alternative": [
+              "Hama-chan",
+              "Adé Kébé"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42874-6ni7VTiqNnI5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b42874-6ni7VTiqNnI5.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42874"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42875,
+          "name": {
+            "first": "Tsurumasa",
+            "last": "Hayami",
+            "native": "速水鶴正",
+            "alternative": [
+              "Eugene Peabody"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42875-eVWDJDxiXo2f.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b42875-eVWDJDxiXo2f.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42875"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42504,
+          "name": {
+            "first": "Ranmaru",
+            "last": "Kirino",
+            "native": "霧野 蘭丸",
+            "alternative": [
+              "Gabriel Garcia",
+              "Gabi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42504-DbyH9ao8BWSI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b42504-DbyH9ao8BWSI.png"
+          },
+          "siteUrl": "https://anilist.co/character/42504"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31006,
+          "name": {
+            "first": "Terumi",
+            "last": "Afuro",
+            "native": "亜風炉照美",
+            "alternative": [
+              "Aphrodi",
+              "Byron Love"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31006-nO3HCi08kkKy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31006-nO3HCi08kkKy.png"
+          },
+          "siteUrl": "https://anilist.co/character/31006"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 29852,
+          "name": {
+            "first": "Shinichi",
+            "last": "Handa",
+            "native": "半田真一",
+            "alternative": [
+              "Steve Grim",
+              "Shiniti Handa"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b29852-k8JSKO7LWbcj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b29852-k8JSKO7LWbcj.png"
+          },
+          "siteUrl": "https://anilist.co/character/29852"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 29851,
+          "name": {
+            "first": "Ryuugo",
+            "last": "Someoka",
+            "native": "染岡竜吾",
+            "alternative": [
+              "Kevin Dragonfly",
+              "Ryugo Someoka"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b29851-ZYdIel2caMLW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b29851-ZYdIel2caMLW.png"
+          },
+          "siteUrl": "https://anilist.co/character/29851"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31781,
+          "name": {
+            "first": "Hitomiko",
+            "last": "Kira",
+            "native": "吉良 瞳子",
+            "alternative": [
+              "Aquilina",
+              "Lina Schiller"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31781.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31781.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31781"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31779,
+          "name": {
+            "first": "Haruna",
+            "last": "Otonashi",
+            "native": "音無春奈",
+            "alternative": [
+              "Celia Hills"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31779-iQco10alzUvi.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31779-iQco10alzUvi.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31779"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31780,
+          "name": {
+            "first": "Yuuya",
+            "last": "Kogure",
+            "native": "小暮裕也",
+            "alternative": [
+              "Scotty",
+              "Scott Banyan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31780-he92vFCwBPfy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31780-he92vFCwBPfy.png"
+          },
+          "siteUrl": "https://anilist.co/character/31780"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16412,
+          "name": {
+            "first": "Mamoru",
+            "last": "Endou",
+            "native": "円堂守",
+            "alternative": [
+              "Captain",
+              "Goal Keeper",
+              "Mark Evans",
+              "Mamoru Endo",
+              "Satoru Endou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16412-ZsvITu2WWg6Q.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16412-ZsvITu2WWg6Q.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16412"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42872,
+          "name": {
+            "first": "Daichi",
+            "last": "Amagi",
+            "native": "天城大地",
+            "alternative": [
+              "Wanli Changcheng",
+              "Wan-Chang"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42872-GZf3k8a1LGKa.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b42872-GZf3k8a1LGKa.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42872"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16413,
+          "name": {
+            "first": "Shuuya",
+            "last": "Gouenji",
+            "native": "豪炎寺修也",
+            "alternative": [
+              "Shuji Ishido",
+              "Axel Blaze",
+              "Syuya Goenji"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16413-CpiNlFdblxau.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16413-CpiNlFdblxau.png"
+          },
+          "siteUrl": "https://anilist.co/character/16413"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 42878,
+          "name": {
+            "first": "Shinsuke",
+            "last": "Nishizono",
+            "native": "西園 信助",
+            "alternative": [
+              "Jean-Pierre Lapin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42878-FoApplzu65mU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b42878-FoApplzu65mU.png"
+          },
+          "siteUrl": "https://anilist.co/character/42878"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31776,
+          "name": {
+            "first": "Yuuki",
+            "last": "Tachimukai",
+            "native": "立向居勇気",
+            "alternative": [
+              "Darren LaChance"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31776-LaCLP0azyEQ7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31776-LaCLP0azyEQ7.png"
+          },
+          "siteUrl": "https://anilist.co/character/31776"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 26939,
+          "name": {
+            "first": "Shirou",
+            "last": "Fubuki",
+            "native": "吹雪士郎",
+            "alternative": [
+              "Shawn Froste",
+              "Snowfield prince"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b26939-mVxxr0JrtdGf.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b26939-mVxxr0JrtdGf.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/26939"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 22737,
+          "name": {
+            "first": "Yuuto",
+            "last": "Kidou",
+            "native": "鬼道有人",
+            "alternative": [
+              "Jude Sharp"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22737-wpLDlU5r2mat.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b22737-wpLDlU5r2mat.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/22737"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31783,
+          "name": {
+            "first": "Natsumi",
+            "last": "Raimon",
+            "native": "雷門夏未",
+            "alternative": [
+              "Nelly"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31783-F4bSTx1oJiBg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31783-F4bSTx1oJiBg.png"
+          },
+          "siteUrl": "https://anilist.co/character/31783"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 106619,
+          "name": {
+            "first": "Tenya",
+            "last": "Yabuno",
+            "native": "やぶのてんや"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106619-3XLpzMDeyOue.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106619-3XLpzMDeyOue.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/106619"
+        }
+      },
+      {
+        "role": "Translator (Spanish)",
+        "node": {
+          "id": 227587,
+          "name": {
+            "first": "Jesús",
+            "last": "Espí",
+            "native": null
+          },
+          "language": "SPANISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n227587-f8V9iqRhrCNh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n227587-f8V9iqRhrCNh.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/mantisdeimatica)",
+          "siteUrl": "https://anilist.co/staff/227587"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 4
+      },
+      {
+        "score": 40,
+        "amount": 8
+      },
+      {
+        "score": 50,
+        "amount": 16
+      },
+      {
+        "score": 60,
+        "amount": 25
+      },
+      {
+        "score": 70,
+        "amount": 25
+      },
+      {
+        "score": 80,
+        "amount": 13
+      },
+      {
+        "score": 90,
+        "amount": 8
+      },
+      {
+        "score": 100,
+        "amount": 12
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 30
+      },
+      {
+        "status": "PLANNING",
+        "amount": 154
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 178
+      },
+      {
+        "status": "DROPPED",
+        "amount": 24
+      },
+      {
+        "status": "PAUSED",
+        "amount": 22
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/67999",
+  "modNotes": null
+}

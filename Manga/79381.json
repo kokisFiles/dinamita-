@@ -1,0 +1,593 @@
+{
+  "id": 79381,
+  "idMal": 49381,
+  "title": {
+    "native": "Steins;Gate 閉時曲線のエピグラフ",
+    "romaji": "Steins;Gate: Heiji Kyokusen no Epigraph",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "First part of the Epigraph Trilogy, occurring during the winter of 2010 in the Beta Attractor Field around World line divergences 1.129848 and 1.130205%.",
+  "startDate": {
+    "year": 2013,
+    "month": 2,
+    "day": 22
+  },
+  "endDate": {
+    "year": 2013,
+    "month": 12,
+    "day": 27
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 11,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748706041,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx79381-f8GKLhlmGOWB.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx79381-f8GKLhlmGOWB.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx79381-f8GKLhlmGOWB.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Steins;Gate: Epigraph of the Closed Curve"
+  ],
+  "averageScore": 67,
+  "meanScore": 75,
+  "popularity": 720,
+  "favourites": 6,
+  "tags": [
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 85137,
+          "title": {
+            "native": "STEINS;GATE 永劫回帰のパンドラ"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 47517,
+          "title": {
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 91997,
+          "title": {
+            "native": "STEINS;GATE 星屑のデュプレット"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 35255,
+          "name": {
+            "first": "Suzuha",
+            "last": "Amane",
+            "native": "阿万音鈴羽",
+            "alternative": [
+              "Suzu",
+              "Part-Time Warrior",
+              "008",
+              "Suzu-meow",
+              "The Silent Slaughterer"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35255-Ra9Aq5Kn9lYq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35255-Ra9Aq5Kn9lYq.png"
+          },
+          "siteUrl": "https://anilist.co/character/35255"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 83419,
+          "name": {
+            "first": "Maho",
+            "last": "Hiyajou",
+            "native": "比屋定真帆 ",
+            "alternative": [
+              "Hiyajo",
+              "Maho-meow",
+              "Lab Member 009",
+              "Salieri",
+              "Loli Girl",
+              "Safina"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83419-p2gjgTL37GTU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b83419-p2gjgTL37GTU.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/83419"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 35252,
+          "name": {
+            "first": "Rintarou",
+            "last": "Okabe",
+            "native": "岡部倫太郎",
+            "alternative": [
+              "Rintaro",
+              "Hououin Kyouma (鳳凰院凶真)",
+              "Okarin (オカリン)",
+              "Mad Scientist",
+              "Future Gadget Lab Member #001",
+              "Lintahlo",
+              "M3",
+              "Salieri's Neighbor",
+              "Rinta-kun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35252-DY9TW6pusqeh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35252-DY9TW6pusqeh.png"
+          },
+          "siteUrl": "https://anilist.co/character/35252"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 41897,
+          "name": {
+            "first": "Dr. Nakabachi",
+            "last": null,
+            "native": "ドクター中鉢",
+            "alternative": [
+              "Hakase",
+              "Professor"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41897-qc6fWvsXdBVo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b41897-qc6fWvsXdBVo.png"
+          },
+          "siteUrl": "https://anilist.co/character/41897"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35256,
+          "name": {
+            "first": "Rumiho",
+            "last": "Akiha",
+            "native": "秋葉留美穂",
+            "alternative": [
+              "Rumi",
+              "Faris Nyan Nyan",
+              "Feyris",
+              "Cheshire Cat",
+              "Lab Member 007"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35256-A729dmHEgSYQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35256-A729dmHEgSYQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/35256"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 57403,
+          "name": {
+            "first": "Yuki",
+            "last": "Amane",
+            "native": "阿万音由季",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b57403-r7ox34brRVJL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b57403-r7ox34brRVJL.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/57403"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35258,
+          "name": {
+            "first": "Itaru",
+            "last": "Hashida",
+            "native": "橋田至",
+            "alternative": [
+              "Daru",
+              "Perverted Gentleman",
+              "Super Hakar",
+              "Hack",
+              "DaSH",
+              "DaSP",
+              "Mr. Smileybear",
+              "Daru-meow",
+              "Lab Member 003"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35258-FeTGR4LEUNvt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35258-FeTGR4LEUNvt.png"
+          },
+          "siteUrl": "https://anilist.co/character/35258"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35257,
+          "name": {
+            "first": "Moeka",
+            "last": "Kiryuu",
+            "native": "桐生萌郁",
+            "alternative": [
+              "Kiryu",
+              "Shining Finger",
+              "Moe-meow",
+              "Lab Member 005"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35257-uepVZyOvuqhi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35257-uepVZyOvuqhi.png"
+          },
+          "siteUrl": "https://anilist.co/character/35257"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34470,
+          "name": {
+            "first": "Kurisu",
+            "last": "Makise",
+            "native": "牧瀬紅莉栖",
+            "alternative": [
+              "Christina",
+              "Assistant",
+              "American Virgin",
+              "Perverted Genius Girl",
+              "Celeb 17",
+              "The Zombie",
+              "Kuu-meow",
+              "k.makise",
+              "KuriGohan Kamehameha",
+              "Lab Member 004",
+              "KURI_KAME"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b34470-Jw2LXZBL5R8i.png"
+          },
+          "siteUrl": "https://anilist.co/character/34470"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35253,
+          "name": {
+            "first": "Mayuri",
+            "last": "Shiina",
+            "native": "椎名まゆり",
+            "alternative": [
+              "Mayushii",
+              "Mayu",
+              "Lab Member 002"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35253-u6QVgLLyHq2W.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35253-u6QVgLLyHq2W.png"
+          },
+          "siteUrl": "https://anilist.co/character/35253"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 30919,
+          "name": {
+            "first": "Luka",
+            "last": "Urushibara",
+            "native": "漆原るか",
+            "alternative": [
+              "Lukako",
+              "Ruka",
+              "Rukako",
+              "Ruka-meow",
+              "Lab Member 006",
+              "Warrior"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30919-5PjiA4ucfuuJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b30919-5PjiA4ucfuuJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/30919"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 126105,
+          "name": {
+            "first": "Alexis",
+            "last": "Leskinen",
+            "native": "アレクシス・レスキネン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126105-rQd5KLcYgtvi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126105-rQd5KLcYgtvi.png"
+          },
+          "siteUrl": "https://anilist.co/character/126105"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 126251,
+          "name": {
+            "first": "Kaede",
+            "last": "Kurushima",
+            "native": "来嶋かえで",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126251-DCxqXhRRQIaF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126251-DCxqXhRRQIaF.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/126251"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 126253,
+          "name": {
+            "first": "Katsumi",
+            "last": "Nakase",
+            "native": "中瀬克美",
+            "alternative": [
+              "Fubuki",
+              "Fubu-meow"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126253-Dh2Mj3jGm8Ho.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126253-Dh2Mj3jGm8Ho.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/126253"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 120911,
+          "name": {
+            "first": "Masashi",
+            "last": "Takimoto",
+            "native": "たきもとまさし"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/120911"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 114313,
+          "name": {
+            "first": "Chiyomaru",
+            "last": "Shikura",
+            "native": "志倉千代丸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114313-VV4rOrnSb9bU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114313-VV4rOrnSb9bU.png"
+          },
+          "description": "__[Twitter](https://twitter.com/chiyomaru5pb)__ | __[Company Profile (MAGES)](http://mages.co.jp/about/company/)__\n\n__Chiyomaru Shikura__ is a Japanese guitarist, novelist, voice actor, radio personality, moderator, animation planner, animation supervisor, music producer, composer, arranger and the representative director of 5pb./MAGES. \n\nChiyomaru resigns as chairman and representative director of MAGES. on January 4th, 2023.\n\nHe has been the producer and lead animation planner for titles such as Chaos;Head, Steins;Gate, and Robotics;Notes. Shikura is also a very active composer and lyricist. To date, he has written over a hundred theme songs for the video games and anime adaptations he's worked on.",
+          "siteUrl": "https://anilist.co/staff/114313"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 105145,
+          "name": {
+            "first": "huke",
+            "last": "",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105145-DXibwFq2FgcI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105145-DXibwFq2FgcI.png"
+          },
+          "description": "\n__[Blog](http://huke.blog.shinobi.jp/) | [Twitter](https://twitter.com/hukeweb) | [DeviantArt](https://www.deviantart.com/ryoheihuke) | [Pixiv](https://www.pixiv.net/member.php?id=9794) | [Instagram](https://www.instagram.com/ryoheihuke/)__\n\nhuke is a Japanese illustrator who is best known for creating the original character [Black★Rock Shooter](https://anilist.co/character/19706) and working with the Japanese music group [supercell](https://anilist.co/staff/103913). His career as a professional illustrator began when he was involved as a character designer at a game company. He eventually resigned and became freelance, creating original concepts from his experience as a professional. huke soon became involved in certain illustrations based on the game Metal Gear Solid, and to enable and identify himself over the internet, he registered on Pixiv and created a personal blog. On December 2007, he submitted an illustration of Black★Rock Shooter. This inspired [ryo](https://anilist.co/staff/109941), the leader of supercell, and a song became the product of the band's first contact with Black★Rock Shooter. Aside from Black★Rock Shooter, huke also worked on the visual novel Steins;Gate, which was produced by [5pb.](https://anilist.co/staff/109749) and [Nitroplus](https://anilist.co/staff/99960). He also designed Hololive EN 1st Gen VTuber, [Takanashi Kiara](https://anilist.co/staff/206030/Kiara-Takanashi).",
+          "siteUrl": "https://anilist.co/staff/105145"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 114313,
+          "name": {
+            "first": "Chiyomaru",
+            "last": "Shikura",
+            "native": "志倉千代丸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114313-VV4rOrnSb9bU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114313-VV4rOrnSb9bU.png"
+          },
+          "description": "__[Twitter](https://twitter.com/chiyomaru5pb)__ | __[Company Profile (MAGES)](http://mages.co.jp/about/company/)__\n\n__Chiyomaru Shikura__ is a Japanese guitarist, novelist, voice actor, radio personality, moderator, animation planner, animation supervisor, music producer, composer, arranger and the representative director of 5pb./MAGES. \n\nChiyomaru resigns as chairman and representative director of MAGES. on January 4th, 2023.\n\nHe has been the producer and lead animation planner for titles such as Chaos;Head, Steins;Gate, and Robotics;Notes. Shikura is also a very active composer and lyricist. To date, he has written over a hundred theme songs for the video games and anime adaptations he's worked on.",
+          "siteUrl": "https://anilist.co/staff/114313"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 112653,
+          "name": {
+            "first": "Takeshi",
+            "last": "Mizoguchi",
+            "native": "溝口岳史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/mi_zo_gu_chi?t=oCbiPrR4TiAhAASB2I1irg&s=09)",
+          "siteUrl": "https://anilist.co/staff/112653"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 7
+      },
+      {
+        "score": 50,
+        "amount": 7
+      },
+      {
+        "score": 60,
+        "amount": 22
+      },
+      {
+        "score": 70,
+        "amount": 37
+      },
+      {
+        "score": 80,
+        "amount": 49
+      },
+      {
+        "score": 90,
+        "amount": 26
+      },
+      {
+        "score": 100,
+        "amount": 22
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 42
+      },
+      {
+        "status": "PLANNING",
+        "amount": 401
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 247
+      },
+      {
+        "status": "DROPPED",
+        "amount": 13
+      },
+      {
+        "status": "PAUSED",
+        "amount": 17
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/79381",
+  "modNotes": null
+}

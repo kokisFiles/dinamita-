@@ -1,0 +1,223 @@
+{
+  "id": 9290,
+  "idMal": 9290,
+  "title": {
+    "native": "もやしもん",
+    "romaji": "Moyashimon CGI Anime",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "Six minutes long CGI anime of Moyashimon, bundled with the limited edition of the manga volume 9. ",
+  "startDate": {
+    "year": 2010,
+    "month": 7,
+    "day": 6
+  },
+  "endDate": {
+    "year": 2010,
+    "month": 7,
+    "day": 6
+  },
+  "season": "SUMMER",
+  "seasonYear": 2010,
+  "seasonInt": 103,
+  "episodes": 1,
+  "duration": 6,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748883326,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9290.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9290.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9290.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "Tales of Agriculture CGI Anime"
+  ],
+  "averageScore": 50,
+  "meanScore": 52,
+  "popularity": 558,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 90,
+      "name": "CGI",
+      "description": "Prominently features scenes created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 3001,
+          "title": {
+            "native": "もやしもん"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 6126,
+          "name": {
+            "first": "Aspergillus oryzae",
+            "last": null,
+            "native": "アスペルギルス・オリザエ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/6126.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/6126.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6126"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 99522,
+          "name": {
+            "first": "Masayuki",
+            "last": "Ishikawa",
+            "native": "石川雅之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99522-gTdtCaVWeoNu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99522-gTdtCaVWeoNu.png"
+          },
+          "description": "[Website](http://mmmasayuki.la.coocan.jp) | [Twitter](https://twitter.com/isk_ms)\n\n**Masayuki Ishikawa** is a Japanese manga artist. He won the 12th Tezuka Osamu Cultural Prize Grand Prize and the 32th Kodansha Manga Award for *Moyashimon*.",
+          "siteUrl": "https://anilist.co/staff/99522"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 235,
+          "name": "Shirogumi",
+          "siteUrl": "https://anilist.co/studio/235"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 11
+      },
+      {
+        "score": 30,
+        "amount": 7
+      },
+      {
+        "score": 40,
+        "amount": 6
+      },
+      {
+        "score": 50,
+        "amount": 50
+      },
+      {
+        "score": 60,
+        "amount": 39
+      },
+      {
+        "score": 70,
+        "amount": 30
+      },
+      {
+        "score": 80,
+        "amount": 8
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 20
+      },
+      {
+        "status": "PLANNING",
+        "amount": 228
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 264
+      },
+      {
+        "status": "DROPPED",
+        "amount": 27
+      },
+      {
+        "status": "PAUSED",
+        "amount": 19
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/9290",
+  "modNotes": null
+}

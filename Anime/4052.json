@@ -1,0 +1,634 @@
+{
+  "id": 4052,
+  "idMal": 4052,
+  "title": {
+    "native": "メダロット魂",
+    "romaji": "Medarot Damashii",
+    "english": "Medabots Spirits"
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "The sequel to the famous Medabots series, following the continuing adventures of Ikki and Metabee. The two encountered a strange enemy named Jinkai and the so called Death Medabots. Along with Nae and Erica, they will defeat Jinkai and the Death Medabots.<br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 2000,
+    "month": 7,
+    "day": 7
+  },
+  "endDate": {
+    "year": 2001,
+    "month": 3,
+    "day": 30
+  },
+  "season": "SUMMER",
+  "seasonYear": 2000,
+  "seasonInt": 3,
+  "episodes": 39,
+  "duration": 20,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748804040,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4052-TivVPJoOI4mq.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4052-TivVPJoOI4mq.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b4052-TivVPJoOI4mq.jpg",
+    "color": "#f19300"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Medabots II",
+    "Medabots Souls"
+  ],
+  "averageScore": 63,
+  "meanScore": 64,
+  "popularity": 4009,
+  "favourites": 37,
+  "tags": [
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1138,
+          "title": {
+            "native": "メダロット"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 159239,
+          "title": {
+            "native": "メダロット2"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 10335,
+          "name": {
+            "first": "Ikki",
+            "last": "Tenryou",
+            "native": "天領イッキ",
+            "alternative": [
+              "Ikki"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10335.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10335.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10335"
+        },
+        "voiceActors": [
+          {
+            "id": 101662,
+            "name": {
+              "first": "Michiru",
+              "last": "Yamazaki",
+              "native": "山崎みちる"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6662.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6662.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101662"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24996,
+          "name": {
+            "first": "Brass",
+            "last": null,
+            "native": null,
+            "alternative": [
+              "Sailor-Multi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24996.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24996.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24996"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 25006,
+          "name": {
+            "first": "Peppercat",
+            "last": null,
+            "native": "ペッパーキャット",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/25006.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/25006.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/25006"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 12504,
+          "name": {
+            "first": "Metabee",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12504.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12504.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12504"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24995,
+          "name": {
+            "first": "Arika",
+            "last": "Amazake",
+            "native": "甘酒アリカ ",
+            "alternative": [
+              "Erika"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24995.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24995.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24995"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Script  (ep 5, 11, 23, 30)",
+        "node": {
+          "id": 97096,
+          "name": {
+            "first": "Michiko",
+            "last": "Yokote",
+            "native": "横手美智子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97096-j44QglsuY3kx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97096-j44QglsuY3kx.png"
+          },
+          "description": "**Michiko Yokote** is a Japanese scriptwriter. She is the pupil of [Kazunori Itou](https://anilist.co/staff/97941).",
+          "siteUrl": "https://anilist.co/staff/97096"
+        }
+      },
+      {
+        "role": "Mechanical Design",
+        "node": {
+          "id": 101188,
+          "name": {
+            "first": "Hirofumi",
+            "last": "Suzuki",
+            "native": "鈴木博文"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101188-pHKGTeDNvlPC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101188-pHKGTeDNvlPC.png"
+          },
+          "description": "Originating from [Studio Deen](https://anilist.co/studio/37/) where he studied under [Atsuko Nakajima](https://anilist.co/staff/102141/).",
+          "siteUrl": "https://anilist.co/staff/101188"
+        }
+      },
+      {
+        "role": "Key Animation  (OP)",
+        "node": {
+          "id": 101518,
+          "name": {
+            "first": "Masahiro",
+            "last": "Andou",
+            "native": "安藤真裕"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101518-daLPjgrbCaQi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101518-daLPjgrbCaQi.png"
+          },
+          "description": "Originating from Studio Annapuru, where he worked under the supervision of [Osamu Dezaki](https://anilist.co/staff/100393/) and [Akio Sugino](https://anilist.co/staff/103064/). He went independent after leaving the studio in 1991. As a freelancer he worked on numerous works as a key animator and started quickly getting recognized as one of the strongest action animators in the industry.\n\nIn 2000, Andou made his debut as an episode director with [Medarot](https://anilist.co/anime/1138/)'s 49th episode, and started gradually shifting his focus from animating to directing and storyboarding episodes himself. He mainly worked on studio [Bones](https://anilist.co/studio/4/)' productions in the early '00s, and got to direct several episodes of [RahXephon](https://anilist.co/anime/165/), [Wolf's Rain](https://anilist.co/anime/202/) and [Fullmetal Alchemist](https://anilist.co/anime/121/). In 2007, he directed [Sword of the Stranger](https://anilist.co/anime/2418/), a film which was also produced by Bones. He has since directed multiple shows for both Bones and [P.A. Works](https://anilist.co/studio/132/).\n\nNoted for his action storyboards. He is also close friends with [Masahiro Satou](https://anilist.co/staff/134126/) and often works with him.\n\n_Note: Not to be confused with older animator [Masahiro Andou](https://anilist.co/staff/155926/)._",
+          "siteUrl": "https://anilist.co/staff/101518"
+        }
+      },
+      {
+        "role": "Episode Director",
+        "node": {
+          "id": 101952,
+          "name": {
+            "first": "Takayuki",
+            "last": "Hamana",
+            "native": "浜名孝行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101952-ATDDHY2dqKFU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101952-ATDDHY2dqKFU.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/浜名孝行)",
+          "siteUrl": "https://anilist.co/staff/101952"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 101952,
+          "name": {
+            "first": "Takayuki",
+            "last": "Hamana",
+            "native": "浜名孝行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101952-ATDDHY2dqKFU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101952-ATDDHY2dqKFU.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/浜名孝行)",
+          "siteUrl": "https://anilist.co/staff/101952"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 102673,
+          "name": {
+            "first": "Tokuyuki",
+            "last": "Matsutake",
+            "native": "松竹徳幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102673-bzMCG1CxP5sQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102673-bzMCG1CxP5sQ.png"
+          },
+          "description": "Affiliated with [Studio Silver](https://anilist.co/studio/6240/).\n\nHe is known for his sense of timing, which gives his animation often a stop-motion like feeling. He studied as an animator under [Atsuko Nakajima](https://anilist.co/staff/102141/), under whom he often worked on productions like [Ranma ½](https://anilist.co/anime/210/) or [You're Under Arrest](https://anilist.co/anime/1372/). He does also team up often with animator [Hirofumi Suzuki](https://anilist.co/staff/101188/), who has influenced Matsutake's animation.\n\nAside of working on anime he has also worked on several games, mostly the Tales of series, where he served as animation supervisor on the animated sequences in most of the series' games.\n\nAlso close friends with [Atsushi Wakabayashi](https://anilist.co/staff/105805/), [Norio Matsumoto](https://anilist.co/staff/100991/) and [Kou Yoshinari](https://anilist.co/staff/102136/).",
+          "siteUrl": "https://anilist.co/staff/102673"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 103489,
+          "name": {
+            "first": "Yuriko",
+            "last": "Kaida",
+            "native": "貝田由里子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103489-1hxqi9xGLR40.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103489-1hxqi9xGLR40.png"
+          },
+          "description": "[Twitter](https://twitter.com/yurikokaida)\n\nTrained at Kunitachi College of Music, after graduation, she became a studio/live musician, providing vocals and backing chorus to numerous artists in record studios and on tours.    \nYuriko Kaida is a long-time Kajiura vocalist, they first met on NOIR project in 2001. Indeed, she is the singer of the songs which made Yuki break into the anime world : Canta per Me, Lullaby and Salva Nos. Whether it be on the chorus or as a main vocal, it is not rare to hear Yuriko Kaida’s voice in Yuki’s works.    \n(source: www.canta-per-me.net)",
+          "siteUrl": "https://anilist.co/staff/103489"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 103866,
+          "name": {
+            "first": "Osamu",
+            "last": "Tezuka",
+            "native": "手塚理"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103866-W0N0mwFQDObJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103866-W0N0mwFQDObJ.png"
+          },
+          "description": "Studied music composition under the late [Takeo Watanabe](https://anilist.co/staff/106839/).\n\n_Note: Not to be confused with the [famous mangaka](https://anilist.co/staff/96938/)._",
+          "siteUrl": "https://anilist.co/staff/103866"
+        }
+      },
+      {
+        "role": "Storyboard  (eps 21, 29)",
+        "node": {
+          "id": 111209,
+          "name": {
+            "first": "Kaoru",
+            "last": "Suzuki",
+            "native": "鈴木薫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111209-0TEW70qNIfSK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111209-0TEW70qNIfSK.png"
+          },
+          "description": "\n_Note: Not to be confused with the [producer](https://anilist.co/staff/222835/)._",
+          "siteUrl": "https://anilist.co/staff/111209"
+        }
+      },
+      {
+        "role": "Episode Director  (eps 12, 21, 29, 35, 38)",
+        "node": {
+          "id": 111209,
+          "name": {
+            "first": "Kaoru",
+            "last": "Suzuki",
+            "native": "鈴木薫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111209-0TEW70qNIfSK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111209-0TEW70qNIfSK.png"
+          },
+          "description": "\n_Note: Not to be confused with the [producer](https://anilist.co/staff/222835/)._",
+          "siteUrl": "https://anilist.co/staff/111209"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 112999,
+          "name": {
+            "first": "Yuu",
+            "last": "Yamashita",
+            "native": "山下祐"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112999-3wodDW9REZlG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112999-3wodDW9REZlG.png"
+          },
+          "description": "[Twitter](http://twitter.com/i/user/128364216)",
+          "siteUrl": "https://anilist.co/staff/112999"
+        }
+      },
+      {
+        "role": "Storyboard  (eps 3,10,16,27)",
+        "node": {
+          "id": 115038,
+          "name": {
+            "first": "Naoyuki",
+            "last": "Yoshinaga",
+            "native": "吉永尚之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115038-6Ti5pXGlZNgv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115038-6Ti5pXGlZNgv.png"
+          },
+          "description": "Started as an animator, switched focus to directing in the '80s.",
+          "siteUrl": "https://anilist.co/staff/115038"
+        }
+      },
+      {
+        "role": "Screenplay (eps 2, 10, 15-16, 24, 33)",
+        "node": {
+          "id": 135804,
+          "name": {
+            "first": "Takashi",
+            "last": "Yamada",
+            "native": "山田隆司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n135804-6vtcBkk5xNWN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n135804-6vtcBkk5xNWN.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/山田隆司)\n\nHosei University graduate.",
+          "siteUrl": "https://anilist.co/staff/135804"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 10,
+          "name": "Production I.G",
+          "siteUrl": "https://anilist.co/studio/10"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 97,
+          "name": "ADV Films",
+          "siteUrl": "https://anilist.co/studio/97"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 139,
+          "name": "NAS",
+          "siteUrl": "https://anilist.co/studio/139"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 80,
+          "name": "Trans Arts",
+          "siteUrl": "https://anilist.co/studio/80"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 1774,
+      "rank": 35,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2000,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 1813,
+      "rank": 23,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 2000,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 308632,
+          "rating": 2,
+          "media": {
+            "id": 4052,
+            "title": {
+              "native": "メダロット魂"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 527,
+            "title": {
+              "native": "ポケットモンスター"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 311529,
+          "rating": 2,
+          "media": {
+            "id": 4052,
+            "title": {
+              "native": "メダロット魂"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 5725,
+            "title": {
+              "native": "古代王者恐竜キング Dキッズ・アドベンチャー翼竜伝説"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 317522,
+          "rating": 0,
+          "media": {
+            "id": 4052,
+            "title": {
+              "native": "メダロット魂"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1525,
+            "title": {
+              "native": "ポケットモンスター クリスタル ～ライコウ 雷の伝説～"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 20
+      },
+      {
+        "score": 20,
+        "amount": 23
+      },
+      {
+        "score": 30,
+        "amount": 57
+      },
+      {
+        "score": 40,
+        "amount": 85
+      },
+      {
+        "score": 50,
+        "amount": 243
+      },
+      {
+        "score": 60,
+        "amount": 386
+      },
+      {
+        "score": 70,
+        "amount": 466
+      },
+      {
+        "score": 80,
+        "amount": 202
+      },
+      {
+        "score": 90,
+        "amount": 144
+      },
+      {
+        "score": 100,
+        "amount": 58
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 128
+      },
+      {
+        "status": "PLANNING",
+        "amount": 835
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2776
+      },
+      {
+        "status": "DROPPED",
+        "amount": 172
+      },
+      {
+        "status": "PAUSED",
+        "amount": 98
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/4052",
+  "modNotes": null
+}

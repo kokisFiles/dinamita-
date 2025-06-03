@@ -1,0 +1,773 @@
+{
+  "id": 5520,
+  "idMal": 5520,
+  "title": {
+    "native": "おねがい マイメロディ すっきり♪",
+    "romaji": "Onegai My Melody Sukkiri♪",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "The third series of Onegai My Melody.",
+  "startDate": {
+    "year": 2007,
+    "month": 4,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 3,
+    "day": 24
+  },
+  "season": "SPRING",
+  "seasonYear": 2007,
+  "seasonInt": 72,
+  "episodes": 52,
+  "duration": 10,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748803361,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5520.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5520.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5520.jpg",
+    "color": "#e4d650"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "synonyms": [],
+  "averageScore": 62,
+  "meanScore": 67,
+  "popularity": 1072,
+  "favourites": 12,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 4114,
+          "title": {
+            "native": "おねがいマイメロディ くるくるシャッフル！"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 5938,
+          "title": {
+            "native": "おねがいマイメロディ きららっ☆"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 15477,
+          "name": {
+            "first": "Uta",
+            "last": "Yumeno",
+            "native": "夢野歌",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15477.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15477.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15477"
+        },
+        "voiceActors": [
+          {
+            "id": 96121,
+            "name": {
+              "first": "Azusa",
+              "last": "Enoki",
+              "native": "榎あづさ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96121-YIXXoaNmQSnS.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96121-YIXXoaNmQSnS.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96121"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 16330,
+          "name": {
+            "first": "Baku",
+            "last": null,
+            "native": "バク",
+            "alternative": [
+              "Bakuichirou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16330-35T8sISUOlYU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16330-35T8sISUOlYU.png"
+          },
+          "siteUrl": "https://anilist.co/character/16330"
+        },
+        "voiceActors": [
+          {
+            "id": 154356,
+            "name": {
+              "first": "Noboru",
+              "last": "Maeda",
+              "native": "前田登"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n154356-0D4rJfQsNnGV.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n154356-0D4rJfQsNnGV.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/154356"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 15180,
+          "name": {
+            "first": "My Melody",
+            "last": null,
+            "native": "マイメロディ",
+            "alternative": [
+              "My Melo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15180-OAvwuo0bj5E2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15180-OAvwuo0bj5E2.png"
+          },
+          "siteUrl": "https://anilist.co/character/15180"
+        },
+        "voiceActors": [
+          {
+            "id": 96111,
+            "name": {
+              "first": "Rei",
+              "last": "Sakuma",
+              "native": "佐久間レイ "
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96111-69cAO9T9llGo.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96111-69cAO9T9llGo.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96111"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 10441,
+          "name": {
+            "first": "Kuromi",
+            "last": null,
+            "native": "クロミ",
+            "alternative": [
+              "Kurumi",
+              "Kurumi Nui"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10441-NS4YVpm03bBp.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b10441-NS4YVpm03bBp.png"
+          },
+          "siteUrl": "https://anilist.co/character/10441"
+        },
+        "voiceActors": [
+          {
+            "id": 95015,
+            "name": {
+              "first": "Junko",
+              "last": "Takeuchi",
+              "native": "竹内順子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95015-QwI9K4FRe4Cq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95015-QwI9K4FRe4Cq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95015"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35516,
+          "name": {
+            "first": "Piano-chan",
+            "last": null,
+            "native": "ピアノちゃん",
+            "alternative": [
+              "Hitsuji-san",
+              "My Sweet Piano (マイスウィートピアノ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35516-L6LcgmHmMkZS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35516-L6LcgmHmMkZS.png"
+          },
+          "siteUrl": "https://anilist.co/character/35516"
+        },
+        "voiceActors": [
+          {
+            "id": 95015,
+            "name": {
+              "first": "Junko",
+              "last": "Takeuchi",
+              "native": "竹内順子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95015-QwI9K4FRe4Cq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95015-QwI9K4FRe4Cq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95015"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 16394,
+          "name": {
+            "first": "Mana",
+            "last": "Fujisaki",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16394.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16394.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16394"
+        },
+        "voiceActors": [
+          {
+            "id": 96153,
+            "name": {
+              "first": "Yuu",
+              "last": "Sugimoto",
+              "native": "杉本ゆう"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1153.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1153.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96153"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17069,
+          "name": {
+            "first": "Miki",
+            "last": "Sakurazuka",
+            "native": "桜塚 美紀",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17069.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17069.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17069"
+        },
+        "voiceActors": [
+          {
+            "id": 95070,
+            "name": {
+              "first": "Ami",
+              "last": "Koshimizu",
+              "native": "小清水亜美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95070-klkIfKz1VItS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95070"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music",
+        "node": {
+          "id": 109523,
+          "name": {
+            "first": "Cher",
+            "last": "Watanabe",
+            "native": "渡部チェル"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14523.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14523.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/cher_vOwO)\n\n__Cher Watanabe__ is a Japanese musician, composer, arranger and keyboardist.",
+          "siteUrl": "https://anilist.co/staff/109523"
+        }
+      },
+      {
+        "role": "Theme Song Composition  (OP, ED)",
+        "node": {
+          "id": 109523,
+          "name": {
+            "first": "Cher",
+            "last": "Watanabe",
+            "native": "渡部チェル"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14523.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14523.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/cher_vOwO)\n\n__Cher Watanabe__ is a Japanese musician, composer, arranger and keyboardist.",
+          "siteUrl": "https://anilist.co/staff/109523"
+        }
+      },
+      {
+        "role": "Theme Song Arrangement  (OP, ED)",
+        "node": {
+          "id": 109523,
+          "name": {
+            "first": "Cher",
+            "last": "Watanabe",
+            "native": "渡部チェル"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14523.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14523.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/cher_vOwO)\n\n__Cher Watanabe__ is a Japanese musician, composer, arranger and keyboardist.",
+          "siteUrl": "https://anilist.co/staff/109523"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 109581,
+          "name": {
+            "first": "Makoto",
+            "last": "Moriwaki",
+            "native": "森脇真琴"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109581-Jr3RotwlOTla.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n109581-Jr3RotwlOTla.png"
+          },
+          "description": "[Twitter](https://twitter.com/iyaiyaenn/)\n\nShe started working as animator for [Shin-Ei Douga](https://anilist.co/studio/247/ShinEi-Animation), where she later debuted as assistant episode director on [Yakyuukyou no Uta](https://anilist.co/anime/10554//) and [Ikkyuu-san](https://anilist.co/anime/4935/) before she became storyboarder and then episode director on the [Doraemon](https://anilist.co/anime/2471/Doraemon-1979/) television series. In 1982, when another former Shin-ei director, [Fukutomi Hiroshi](https://anilist.co/staff/105280/Hiroshi-Fukutomi), established [Animaru-Ya](https://anilist.co/studio/386/Animaruya) she was one of the founding members together with Sanada Yoshinobu and [Honda Toshiyuki](https://anilist.co/staff/129528/Toshiyuki--Honda). She stayed at Animaru-Ya, which is presently known as [Ekura Animaru](https://anilist.co/studio/6257/Ekura-Animal), until 2004 before leaving to work as freelancer.\n\n(Source: aniDB)",
+          "siteUrl": "https://anilist.co/staff/109581"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 110943,
+          "name": {
+            "first": "Takuya",
+            "last": "Hiramitsu",
+            "native": "平光琢也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110943-GqnL6WbNx5ME.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110943-GqnL6WbNx5ME.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/平光琢也)",
+          "siteUrl": "https://anilist.co/staff/110943"
+        }
+      },
+      {
+        "role": "Key Animation  (ep 11 uncredited)",
+        "node": {
+          "id": 116007,
+          "name": {
+            "first": "Kenichi",
+            "last": "Kutsuna",
+            "native": "沓名健一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116007-C2IDhFfUhc9j.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116007-C2IDhFfUhc9j.png"
+          },
+          "description": "[Website](http://coosun.fc2web.com) | [Twitter](https://twitter.com/coosun)",
+          "siteUrl": "https://anilist.co/staff/116007"
+        }
+      },
+      {
+        "role": "Script (eps 1-2, 6-7, 9, 13, 18, 24, 27, 30, 34, 38, 40-41, 46-47, 51)",
+        "node": {
+          "id": 135804,
+          "name": {
+            "first": "Takashi",
+            "last": "Yamada",
+            "native": "山田隆司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n135804-6vtcBkk5xNWN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n135804-6vtcBkk5xNWN.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/山田隆司)\n\nHosei University graduate.",
+          "siteUrl": "https://anilist.co/staff/135804"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 135804,
+          "name": {
+            "first": "Takashi",
+            "last": "Yamada",
+            "native": "山田隆司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n135804-6vtcBkk5xNWN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n135804-6vtcBkk5xNWN.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/山田隆司)\n\nHosei University graduate.",
+          "siteUrl": "https://anilist.co/staff/135804"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 301076,
+          "name": {
+            "first": "Shouji",
+            "last": "Miyazawa",
+            "native": "宮澤章二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n301076-0rdg5zJOaukt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n301076-0rdg5zJOaukt.png"
+          },
+          "description": "A Japanese poet, lyricist and translator. During his life, he wrote many lyrics for school songs (mainly for school in the Saitama area, in which he wrote more than 300) and nursery rhymes. He is also known for his adaptation of the \"One Horse Open Sleigh\" (popularly known as \"Jingle Bells\"), that despite being written at the end of the 50s, after became the part of the original soundtrack for [Ai Shoujo Pollyanna Monogatari](https://anilist.co/anime/2554/Ai-Shoujo-Pollyanna-Monogatari) started appearing regularly in animes, appearing in the likes of Sailor Moon, One Piece and Nogizaka Haruka no Himitsu. And became widely known after a clip of its usage in the PSP game Fate/Extra gone viral with the meme \"Padoru, Padoru\"",
+          "siteUrl": "https://anilist.co/staff/301076"
+        }
+      },
+      {
+        "role": "Script (Italian)",
+        "node": {
+          "id": 232967,
+          "name": {
+            "first": "Dominique",
+            "last": "Evoli",
+            "native": null
+          },
+          "language": "ITALIAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/232967"
+        }
+      },
+      {
+        "role": "Script (Italian)",
+        "node": {
+          "id": 243693,
+          "name": {
+            "first": "Anna",
+            "last": "Grisoni",
+            "native": null
+          },
+          "language": "ITALIAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/243693"
+        }
+      },
+      {
+        "role": "Mixing Engineer (Italian)",
+        "node": {
+          "id": 158935,
+          "name": {
+            "first": "Moreno Grossi",
+            "last": "Pometti",
+            "native": null
+          },
+          "language": "ITALIAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/158935"
+        }
+      },
+      {
+        "role": "Script (Italian)",
+        "node": {
+          "id": 232105,
+          "name": {
+            "first": "Vittoria",
+            "last": "Ponticelli",
+            "native": null
+          },
+          "language": "ITALIAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/232105"
+        }
+      },
+      {
+        "role": "Script (Italian)",
+        "node": {
+          "id": 115262,
+          "name": {
+            "first": "Oliviero",
+            "last": "Corbetta",
+            "native": null
+          },
+          "language": "ITALIAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115262-ljITrTrLVUPJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115262-ljITrTrLVUPJ.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/115262"
+        }
+      },
+      {
+        "role": "ADR Director (Italian)",
+        "node": {
+          "id": 96268,
+          "name": {
+            "first": "Patrizio",
+            "last": "Prata",
+            "native": null
+          },
+          "language": "ITALIAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96268-zO83Agjsj8HU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96268-zO83Agjsj8HU.png"
+          },
+          "description": "An Italian voice actor, ADR director and dialogue writer, mostly known for his roles as [Roronoa Zoro](https://anilist.co/character/62/), [Artificial Human No. 17](https://anilist.co/character/2147/), adult [Son Goten](https://anilist.co/character/2551/), [Kabuto Yakushi](https://anilist.co/character/2405/), [Judai Yuki](https://anilist.co/character/1300/), [Guts](https://anilist.co/character/422/) and [Keroro](https://anilist.co/character/1245/).",
+          "siteUrl": "https://anilist.co/staff/96268"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 150,
+          "name": "Sanrio",
+          "siteUrl": "https://anilist.co/studio/150"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 126,
+          "name": "Studio Comet",
+          "siteUrl": "https://anilist.co/studio/126"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 12448,
+      "rank": 4,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12459,
+      "rank": 4,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 12485,
+      "rank": 2,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2007,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12488,
+      "rank": 2,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2007,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 370523,
+          "rating": 1,
+          "media": {
+            "id": 5520,
+            "title": {
+              "native": "おねがい マイメロディ すっきり♪"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 3073,
+            "title": {
+              "native": "ロビーとケロビー"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 7
+      },
+      {
+        "score": 40,
+        "amount": 9
+      },
+      {
+        "score": 50,
+        "amount": 31
+      },
+      {
+        "score": 60,
+        "amount": 30
+      },
+      {
+        "score": 70,
+        "amount": 49
+      },
+      {
+        "score": 80,
+        "amount": 27
+      },
+      {
+        "score": 90,
+        "amount": 35
+      },
+      {
+        "score": 100,
+        "amount": 22
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 58
+      },
+      {
+        "status": "PLANNING",
+        "amount": 560
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 347
+      },
+      {
+        "status": "DROPPED",
+        "amount": 54
+      },
+      {
+        "status": "PAUSED",
+        "amount": 53
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/5520",
+  "modNotes": null
+}

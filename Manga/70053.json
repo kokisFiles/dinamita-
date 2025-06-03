@@ -1,0 +1,746 @@
+{
+  "id": 70053,
+  "idMal": 40053,
+  "title": {
+    "native": "そーどあーと☆おんらいん。",
+    "romaji": "Sword Art Online 4-koma",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A series of 4-panel comic strips that touch on the days of Aincrad in a comedic viewpoint.",
+  "startDate": {
+    "year": 2010,
+    "month": 8,
+    "day": 10
+  },
+  "endDate": {
+    "year": 2016,
+    "month": 8,
+    "day": 9
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 39,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748617190,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx70053-Cuz81cGq5DPi.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx70053-Cuz81cGq5DPi.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx70053-Cuz81cGq5DPi.png",
+    "color": "#ffe41a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "ซอร์ดอาร์ตอัลไล"
+  ],
+  "averageScore": 64,
+  "meanScore": 72,
+  "popularity": 714,
+  "favourites": 3,
+  "tags": [
+    {
+      "id": 206,
+      "name": "4-koma",
+      "description": "A manga in the 'yonkoma' format, which consists of four equal-sized panels arranged in a vertical strip.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 112,
+      "name": "Virtual World",
+      "description": "Partly or completely set in the world inside a video game.",
+      "category": "Setting-Universe",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 308,
+      "name": "Video Games",
+      "description": "Centers around characters playing video games.",
+      "category": "Theme-Game",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 143,
+      "name": "Survival",
+      "description": "Centers around the struggle to live in spite of extreme obstacles.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 51479,
+          "title": {
+            "native": "ソードアート・オンライン"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 36765,
+          "name": {
+            "first": "Kazuto",
+            "last": "Kirigaya",
+            "native": "桐ヶ谷和人",
+            "alternative": [
+              "Kirito (キリト)",
+              "The Black Swordsman",
+              "Papa (パパ)",
+              "Daddy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36765-BnLbXg0Tzzh9.png"
+          },
+          "siteUrl": "https://anilist.co/character/36765"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 36828,
+          "name": {
+            "first": "Asuna",
+            "last": "Yuuki",
+            "native": "結城明日奈",
+            "alternative": [
+              "アスナ",
+              "Berserker Healer (バーサクヒーラー)",
+              "Lightning Flash (閃光)",
+              "Mama (ママ)",
+              "Erika (エリカ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36828-j5ib0adAzGMx.png"
+          },
+          "siteUrl": "https://anilist.co/character/36828"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 54777,
+          "name": {
+            "first": "Sachi",
+            "last": null,
+            "native": "サチ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b54777-MduA5ck1lJUy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b54777-MduA5ck1lJUy.png"
+          },
+          "siteUrl": "https://anilist.co/character/54777"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 54779,
+          "name": {
+            "first": "Keita",
+            "last": null,
+            "native": "ケイタ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b54779-1uCYd8WjboiM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b54779-1uCYd8WjboiM.png"
+          },
+          "siteUrl": "https://anilist.co/character/54779"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 66327,
+          "name": {
+            "first": "Kuradeel",
+            "last": null,
+            "native": "クラディール",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/66327.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/66327.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/66327"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72711,
+          "name": {
+            "first": "Kobatz",
+            "last": null,
+            "native": "コーバッツ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72711-bsFEHrmT4rMo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72711-bsFEHrmT4rMo.png"
+          },
+          "siteUrl": "https://anilist.co/character/72711"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 37681,
+          "name": {
+            "first": "Keiko",
+            "last": "Ayano",
+            "native": "綾野珪子",
+            "alternative": [
+              "Silica (シリカ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b37681-GDtOAN6NiJ9M.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b37681-GDtOAN6NiJ9M.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/37681"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36829,
+          "name": {
+            "first": "Akihiko",
+            "last": "Kayaba",
+            "native": "茅場晶彦",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36829-X5zITNEQ7xij.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36829-X5zITNEQ7xij.png"
+          },
+          "siteUrl": "https://anilist.co/character/36829"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 54099,
+          "name": {
+            "first": "Andrew Gilbert",
+            "last": "Mills",
+            "native": "アンドリュー・ギルバート・ミルズ",
+            "alternative": [
+              "エギル",
+              "Agil"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/54099.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/54099.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/54099"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43906,
+          "name": {
+            "first": "Rika",
+            "last": "Shinozaki",
+            "native": "篠崎里香",
+            "alternative": [
+              "Lis (リズ)",
+              "Lisbeth (リズベット)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43906-15QwTm2ZFDse.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b43906-15QwTm2ZFDse.png"
+          },
+          "siteUrl": "https://anilist.co/character/43906"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36830,
+          "name": {
+            "first": "Ryoutarou",
+            "last": "Tsuboi",
+            "native": "壷井遼太郎",
+            "alternative": [
+              "Klein"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36830-41SWIDvhqOo4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36830-41SWIDvhqOo4.png"
+          },
+          "siteUrl": "https://anilist.co/character/36830"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72901,
+          "name": {
+            "first": "Alicia Rue",
+            "last": null,
+            "native": "アリシャ・ルー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72901-nw8klNK66XFl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72901-nw8klNK66XFl.png"
+          },
+          "siteUrl": "https://anilist.co/character/72901"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 70685,
+          "name": {
+            "first": "Shouichi",
+            "last": "Shinkawa",
+            "native": "新川昌一",
+            "alternative": [
+              "Red-Eyed XaXa",
+              "Death Gun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70685-gujlpmSzLQLm.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b70685-gujlpmSzLQLm.png"
+          },
+          "siteUrl": "https://anilist.co/character/70685"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72349,
+          "name": {
+            "first": "Shinichi",
+            "last": "Nagata",
+            "native": "長田伸一",
+            "alternative": [
+              "Recon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72349-iuPCNOtHjPfX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72349-iuPCNOtHjPfX.png"
+          },
+          "siteUrl": "https://anilist.co/character/72349"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 71581,
+          "name": {
+            "first": "Nobuyuki",
+            "last": "Sugou",
+            "native": "須郷伸之",
+            "alternative": [
+              "Fairy King Oberon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71581-FHV6DGAjL6vX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b71581-FHV6DGAjL6vX.png"
+          },
+          "siteUrl": "https://anilist.co/character/71581"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36831,
+          "name": {
+            "first": "Suguha",
+            "last": "Kirigaya",
+            "native": "桐ヶ谷直葉",
+            "alternative": [
+              "Leafa",
+              "Sugu",
+              "Lyfa"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36831-JfyFU7gPPVmr.png"
+          },
+          "siteUrl": "https://anilist.co/character/36831"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72903,
+          "name": {
+            "first": "Eugene",
+            "last": null,
+            "native": "ユージン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72903-sydZD4sXrDTw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72903-sydZD4sXrDTw.png"
+          },
+          "siteUrl": "https://anilist.co/character/72903"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 73811,
+          "name": {
+            "first": "Sakuya",
+            "last": null,
+            "native": "サクヤ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/73811.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/73811.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/73811"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 64523,
+          "name": {
+            "first": "Yuuki",
+            "last": "Konno",
+            "native": "紺野木綿季",
+            "alternative": [
+              "Zekken (絶剣)",
+              "Absolute Sword",
+              "Yuuki (ユウキ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64523-LPeAiw8Yx517.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b64523-LPeAiw8Yx517.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/64523"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 212618,
+          "name": {
+            "first": "Siune",
+            "last": null,
+            "native": "シウネ",
+            "alternative": [
+              "An Si-eun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212618-mOeHTkAfnksH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212618-mOeHTkAfnksH.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/212618"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 212621,
+          "name": {
+            "first": "Jun",
+            "last": null,
+            "native": "ジュン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212621-oaBRcdKJrh2c.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212621-oaBRcdKJrh2c.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/212621"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 212619,
+          "name": {
+            "first": "Tecchi",
+            "last": null,
+            "native": "テッチ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212619-cKHBwja5exTi.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212619-cKHBwja5exTi.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/212619"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 55147,
+          "name": {
+            "first": "Shino",
+            "last": "Asada",
+            "native": "朝田詩乃",
+            "alternative": [
+              "Sinon (シノン)",
+              "Hecate"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b55147-1fCU8lONEuZQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/55147"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 212207,
+          "name": {
+            "first": "Nori",
+            "last": null,
+            "native": "ノリ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212207-a6NcnlEq9jai.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212207-a6NcnlEq9jai.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/212207"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43892,
+          "name": {
+            "first": "Yui",
+            "last": null,
+            "native": "ユイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b43892-Ig6ZMdUbQDO2.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43892"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 106466,
+          "name": {
+            "first": "Reki",
+            "last": "Kawahara",
+            "native": "川原礫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106466-JH3Egpsfnb2j.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106466-JH3Egpsfnb2j.jpg"
+          },
+          "description": "__Current Residence:__ Nerima, Tokyo, Japan\n__Doujin Circle:__ WordGear\n\nKawahara Reki graduated from the Aoyama Gakuin University.\n\n[Official Website](http://wordgear.sblo.jp/) | [Twitter](https://twitter.com/kunori)",
+          "siteUrl": "https://anilist.co/staff/106466"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 113193,
+          "name": {
+            "first": "Minami",
+            "last": "Juusei",
+            "native": "字星南十"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/113193"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 16
+      },
+      {
+        "score": 60,
+        "amount": 21
+      },
+      {
+        "score": 70,
+        "amount": 34
+      },
+      {
+        "score": 80,
+        "amount": 35
+      },
+      {
+        "score": 90,
+        "amount": 24
+      },
+      {
+        "score": 100,
+        "amount": 21
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 125
+      },
+      {
+        "status": "PLANNING",
+        "amount": 359
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 139
+      },
+      {
+        "status": "DROPPED",
+        "amount": 51
+      },
+      {
+        "status": "PAUSED",
+        "amount": 40
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/70053",
+  "modNotes": null
+}

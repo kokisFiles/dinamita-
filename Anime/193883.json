@@ -1,0 +1,975 @@
+{
+  "id": 193883,
+  "idMal": 61765,
+  "title": {
+    "native": "ちびゴジラの逆襲(第3期)",
+    "romaji": "Chibi Godzilla no Gyakushuu 3",
+    "english": "Chibi Godzilla Raids Again Season 3"
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "NOT_YET_RELEASED",
+  "description": "Sequel to <i>Chibi Godzilla no Gyakushuu 2</i>.",
+  "startDate": {
+    "year": 2025,
+    "month": 7,
+    "day": 2
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": "SUMMER",
+  "seasonYear": 2025,
+  "seasonInt": 253,
+  "episodes": null,
+  "duration": 3,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": "#ちびゴジラの逆襲 #ちびゴジラ",
+  "trailer": {
+    "id": "ki-dtolF7wY",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/ki-dtolF7wY/hqdefault.jpg"
+  },
+  "updatedAt": 1748906334,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193883-Im5tNHwtfAmz.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193883-Im5tNHwtfAmz.jpg",
+    "color": "#f1ae43"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Chibi Godzilla no Gyakushuu 2025",
+    "Chibi Gojira no Gyakushuu 3"
+  ],
+  "averageScore": null,
+  "meanScore": null,
+  "popularity": 0,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 276,
+      "name": "Kaiju",
+      "description": "Prominently features giant monsters.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 175869,
+          "title": {
+            "native": "ちびゴジラの逆襲２"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 299801,
+          "name": {
+            "first": "Chibi Mechagodzilla",
+            "last": null,
+            "native": "ちびメカゴジラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299801-ayBpjDjghs62.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299801-ayBpjDjghs62.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/299801"
+        },
+        "voiceActors": [
+          {
+            "id": 106817,
+            "name": {
+              "first": "Yoshitsugu",
+              "last": "Matsuoka",
+              "native": "松岡禎丞"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106817-mioGQjbTWWQ6.png"
+            },
+            "siteUrl": "https://anilist.co/staff/106817"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 183239,
+          "name": {
+            "first": "Chibi Godzilla",
+            "last": null,
+            "native": "ちびゴジラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183239-xDX8hejmhFMp.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b183239-xDX8hejmhFMp.png"
+          },
+          "siteUrl": "https://anilist.co/character/183239"
+        },
+        "voiceActors": [
+          {
+            "id": 95086,
+            "name": {
+              "first": "Jun",
+              "last": "Fukuyama",
+              "native": "福山潤"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95086-cwKYmhOFNtH5.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95086"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 203452,
+          "name": {
+            "first": "Chibi Mothra",
+            "last": null,
+            "native": "ちびモスラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b203452-Kl28hqnUfcRi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b203452-Kl28hqnUfcRi.png"
+          },
+          "siteUrl": "https://anilist.co/character/203452"
+        },
+        "voiceActors": [
+          {
+            "id": 119331,
+            "name": {
+              "first": "Rie",
+              "last": "Takahashi",
+              "native": "高橋李依"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119331-5dPuMCxu4RWf.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/119331"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 203454,
+          "name": {
+            "first": "Chibi Ghidorah",
+            "last": null,
+            "native": "ちびギドラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b203454-ajFPSgF1odpw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b203454-ajFPSgF1odpw.png"
+          },
+          "siteUrl": "https://anilist.co/character/203454"
+        },
+        "voiceActors": [
+          {
+            "id": 102695,
+            "name": {
+              "first": "Takuya",
+              "last": "Eguchi",
+              "native": "江口拓也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102695-dGzsJkor0KMj.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102695-dGzsJkor0KMj.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102695"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 299800,
+          "name": {
+            "first": "Chibi Biollante",
+            "last": null,
+            "native": "ちびビオランテ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299800-mV58FuGp4xfL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299800-mV58FuGp4xfL.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/299800"
+        },
+        "voiceActors": [
+          {
+            "id": 95099,
+            "name": {
+              "first": "Miyuki",
+              "last": "Sawashiro",
+              "native": "沢城みゆき"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95099-jKP4LfPWqetk.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95099"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 203453,
+          "name": {
+            "first": "Chibi Rodan",
+            "last": null,
+            "native": "ちびラドン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b203453-4ARC0zainirM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b203453-4ARC0zainirM.png"
+          },
+          "siteUrl": "https://anilist.co/character/203453"
+        },
+        "voiceActors": [
+          {
+            "id": 95356,
+            "name": {
+              "first": "Hiro",
+              "last": "Shimono",
+              "native": "下野紘"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95356-PFaZRlI9oJ56.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95356-PFaZRlI9oJ56.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95356"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 26845,
+          "name": {
+            "first": "Gojira",
+            "last": null,
+            "native": "ゴジラ",
+            "alternative": [
+              "Godzilla",
+              "King of the Monsters",
+              "Gigantis",
+              "呉爾羅"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b26845-FYwdjDa6drVc.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b26845-FYwdjDa6drVc.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/26845"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 299798,
+          "name": {
+            "first": "Chibi Hedorah",
+            "last": null,
+            "native": "ちびヘドラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299798-MojRSxJ6nuU1.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299798-MojRSxJ6nuU1.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/299798"
+        },
+        "voiceActors": [
+          {
+            "id": 95284,
+            "name": {
+              "first": "Fumihiko",
+              "last": "Tachiki",
+              "native": "立木文彦"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95284-k97k9dULn4vr.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95284-k97k9dULn4vr.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95284"
+          },
+          {
+            "id": 110919,
+            "name": {
+              "first": "Ayumu",
+              "last": "Murase",
+              "native": "村瀬歩"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110919-zz5dq39kyzNC.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110919-zz5dq39kyzNC.png"
+            },
+            "siteUrl": "https://anilist.co/staff/110919"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 338075,
+          "name": {
+            "first": "Chibi Gabara",
+            "last": null,
+            "native": "ちびガバラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338075-mJ4BilU2X5R2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338075-mJ4BilU2X5R2.png"
+          },
+          "siteUrl": "https://anilist.co/character/338075"
+        },
+        "voiceActors": [
+          {
+            "id": 96762,
+            "name": {
+              "first": "Ryouhei",
+              "last": "Kimura",
+              "native": "木村良平"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96762-DNKMFBA2vWRr.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96762-DNKMFBA2vWRr.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96762"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 299797,
+          "name": {
+            "first": "Shoubijin (Ane)",
+            "last": null,
+            "native": "小美人（姉）",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299797-ru0ZppTfZXNA.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299797-ru0ZppTfZXNA.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/299797"
+        },
+        "voiceActors": [
+          {
+            "id": 118602,
+            "name": {
+              "first": "Reina",
+              "last": "Ueda",
+              "native": "上田麗奈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118602-SFsQabl6KLu9.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118602-SFsQabl6KLu9.png"
+            },
+            "siteUrl": "https://anilist.co/staff/118602"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 299799,
+          "name": {
+            "first": "Shoubijin (Imouto)",
+            "last": null,
+            "native": "小美人（妹）",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299799-zYxa4HLNPEbu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299799-zYxa4HLNPEbu.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/299799"
+        },
+        "voiceActors": [
+          {
+            "id": 119722,
+            "name": {
+              "first": "Akari",
+              "last": "Kitou",
+              "native": "鬼頭明里"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119722-Ls7ORfBejJEP.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119722-Ls7ORfBejJEP.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/119722"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 308194,
+          "name": {
+            "first": "Chibi Anguirus",
+            "last": null,
+            "native": "ちびアンギラス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308194-BOK0kvR3l8l9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b308194-BOK0kvR3l8l9.png"
+          },
+          "siteUrl": "https://anilist.co/character/308194"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 268625,
+          "name": {
+            "first": "Chibi Minilla",
+            "last": "",
+            "native": "ちびミニラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b268625-10nBmVCa42wq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b268625-10nBmVCa42wq.png"
+          },
+          "siteUrl": "https://anilist.co/character/268625"
+        },
+        "voiceActors": [
+          {
+            "id": 108639,
+            "name": {
+              "first": "Maaya",
+              "last": "Uchida",
+              "native": "内田真礼"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n108639-LLrR4WptCh5s.png"
+            },
+            "siteUrl": "https://anilist.co/staff/108639"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 343947,
+          "name": {
+            "first": "Chibi Chitano",
+            "last": null,
+            "native": "ちびチタノ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b343947-3R5zCybN1YZJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b343947-3R5zCybN1YZJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/343947"
+        },
+        "voiceActors": [
+          {
+            "id": 107480,
+            "name": {
+              "first": "Subaru",
+              "last": "Kimura",
+              "native": "木村昴"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107480-h2RgLXNP7hcj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107480-h2RgLXNP7hcj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/107480"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 154983,
+          "name": {
+            "first": "Taketo",
+            "last": "Shinkai",
+            "native": "新海岳人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n154983-okowhlE73ReR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n154983-okowhlE73ReR.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/taketoshinkai) | [YouTube](https://www.youtube.com/channel/UClYRKOpjFguesdz7DmoWwRA)\n\nCreative director and co-founder of animation studio Pie in the sky.",
+          "siteUrl": "https://anilist.co/staff/154983"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 286888,
+          "name": {
+            "first": "Suiyoubi no Campanella",
+            "last": null,
+            "native": "水曜日のカンパネラ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n286888-t1qbRQLSp0hh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n286888-t1qbRQLSp0hh.png"
+          },
+          "description": "[Website](http://wed-camp.com/) | [Twitter](https://x.com/wed_camp) | [Facebook](https://www.facebook.com/WednesdayCampanella) | [Spotify](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [YouTube](https://www.youtube.com/channel/UCt30iKDSksaJ0hbd363ETfA)\n\nWednesday Campanella is a Japanese music group formed in 2012 combining musical genres such as EDM, J-pop, and hip hop into a unique stylistic blend. From 2013 until 2021, the trio consisted of KOM_I, Kenmochi Hidefumi, and Dir.F. KOM_I departed in September 2021, with new vocalist Utaha joining the group.\n\nMembers\n• [Kenmochi Hidefumi](https://anilist.co/staff/155114/Hidefumi-Kenmochi) (釼持英郁 or ケンモチヒデフミ) - music, lyrics - born August 2, 1981, in Shinagawa.\n• Utaha (詩羽) - performer, singer - born August 9, 2001, in Tokyo.\n• Dir.F. (Yasutomo Fukunaga, 福永泰朋) - director, utility man - born in 1982.\n\n**Former members**\n• [KOM_I](https://anilist.co/staff/156650/KOM-I) (コムアイ) - performer, singer - born July 22, 1992, in Kanagawa.",
+          "siteUrl": "https://anilist.co/staff/286888"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 299933,
+          "name": {
+            "first": "Chiharu",
+            "last": "Sakazaki",
+            "native": "坂崎千春"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/299933"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6121,
+          "name": "Pie in the sky",
+          "siteUrl": "https://anilist.co/studio/6121"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 245,
+          "name": "Toho",
+          "siteUrl": "https://anilist.co/studio/245"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 397355,
+          "airingAt": 1751407560,
+          "episode": 1,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397356,
+          "airingAt": 1752012360,
+          "episode": 2,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397357,
+          "airingAt": 1752617160,
+          "episode": 3,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397358,
+          "airingAt": 1753221960,
+          "episode": 4,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397359,
+          "airingAt": 1753826760,
+          "episode": 5,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397360,
+          "airingAt": 1754431560,
+          "episode": 6,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397361,
+          "airingAt": 1755036360,
+          "episode": 7,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397362,
+          "airingAt": 1755641160,
+          "episode": 8,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397363,
+          "airingAt": 1756245960,
+          "episode": 9,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397364,
+          "airingAt": 1756850760,
+          "episode": 10,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397365,
+          "airingAt": 1757455560,
+          "episode": 11,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397366,
+          "airingAt": 1758060360,
+          "episode": 12,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397367,
+          "airingAt": 1758665160,
+          "episode": 13,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397368,
+          "airingAt": 1759269960,
+          "episode": 14,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397369,
+          "airingAt": 1759874760,
+          "episode": 15,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397370,
+          "airingAt": 1760479560,
+          "episode": 16,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397371,
+          "airingAt": 1761084360,
+          "episode": 17,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397372,
+          "airingAt": 1761689160,
+          "episode": 18,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397373,
+          "airingAt": 1762293960,
+          "episode": 19,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397374,
+          "airingAt": 1762898760,
+          "episode": 20,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397375,
+          "airingAt": 1763503560,
+          "episode": 21,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397376,
+          "airingAt": 1764108360,
+          "episode": 22,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397377,
+          "airingAt": 1764713160,
+          "episode": 23,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397378,
+          "airingAt": 1765317960,
+          "episode": 24,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 397379,
+          "airingAt": 1765922760,
+          "episode": 25,
+          "mediaId": 193883,
+          "media": {
+            "id": 193883
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 120489,
+      "url": "https://chibigodzilla.jp/",
+      "site": "Official Site"
+    },
+    {
+      "id": 120490,
+      "url": "https://www.tiktok.com/@chibigodzi",
+      "site": "TikTok"
+    },
+    {
+      "id": 120491,
+      "url": "https://www.youtube.com/@GodzillaToho/",
+      "site": "YouTube"
+    },
+    {
+      "id": 120492,
+      "url": "https://x.com/chibigodzi",
+      "site": "Twitter"
+    },
+    {
+      "id": 120493,
+      "url": "https://www.youtube.com/@chibigodzi_official",
+      "site": "YouTube"
+    },
+    {
+      "id": 120494,
+      "url": "https://www.instagram.com/chibig_official/",
+      "site": "Instagram"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": null,
+    "statusDistribution": null
+  },
+  "siteUrl": "https://anilist.co/anime/193883",
+  "modNotes": null
+}

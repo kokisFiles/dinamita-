@@ -1,0 +1,2402 @@
+{
+  "id": 21340,
+  "idMal": 33003,
+  "title": {
+    "native": "魔法少女育成計画",
+    "romaji": "Mahou Shoujo Ikusei Keikaku",
+    "english": "Magical Girl Raising Project"
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "A social game called The Magical Girl Raising Project allows one in tens of thousands of people to be a \"magical girl\" — possessing extraordinary physical capabilities and looks, as well as special magical powers that set them apart from the rest of the human race. But one day, in a district containing 16 magical girls, the administration announces that it must halve the number of magical girls to solve the problem of magical energy.<br><br>\n\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 2016,
+    "month": 10,
+    "day": 2
+  },
+  "endDate": {
+    "year": 2016,
+    "month": 12,
+    "day": 18
+  },
+  "season": "FALL",
+  "seasonYear": 2016,
+  "seasonInt": 164,
+  "episodes": 12,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "LIGHT_NOVEL",
+  "hashtag": "#mahoiku",
+  "trailer": {
+    "id": "VsqzoJ11TW4",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/VsqzoJ11TW4/hqdefault.jpg"
+  },
+  "updatedAt": 1748906334,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21340-0fOhJK8Qynmy.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21340-0fOhJK8Qynmy.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21340-0fOhJK8Qynmy.jpg",
+    "color": null
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21340-lOE9N0ddMQzD.jpg",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Horror",
+    "Mahou Shoujo",
+    "Psychological",
+    "Thriller"
+  ],
+  "synonyms": [],
+  "averageScore": 66,
+  "meanScore": 66,
+  "popularity": 41878,
+  "favourites": 494,
+  "tags": [
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 95,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 101,
+      "name": "Battle Royale",
+      "description": "Centers around a fierce group competition, often violent and with only one winner.",
+      "category": "Theme-Action",
+      "rank": 94,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 615,
+      "name": "Death Game",
+      "description": "Features characters participating in a game, where failure results in death.",
+      "category": "Theme-Other",
+      "rank": 93,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 90,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 86,
+      "name": "Primarily Female Cast",
+      "description": "Main cast is mostly composed of female characters.",
+      "category": "Cast-Main Cast",
+      "rank": 81,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 321,
+      "name": "Urban Fantasy",
+      "description": "Set in a world similar to the real world, but with the existence of magic or other supernatural elements.",
+      "category": "Setting-Universe",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 779,
+      "name": "Kuudere",
+      "description": "Prominently features a character who generally retains a cold, blunt and cynical exterior, but once one gets to know them, they have a very warm and loving interior.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 179,
+      "name": "Witch",
+      "description": "Prominently features a character who is a witch.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 43,
+      "name": "Swordplay",
+      "description": "Prominently features the use of swords in combat.",
+      "category": "Theme-Action",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 595,
+      "name": "Urban",
+      "description": "Partly or completely set in a city.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 308,
+      "name": "Video Games",
+      "description": "Centers around characters playing video games.",
+      "category": "Theme-Game",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1292,
+      "name": "Spearplay",
+      "description": "Prominently features the use of spears in combat.",
+      "category": "Theme-Action",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 598,
+      "name": "Elf",
+      "description": "Prominently features a character who is an elf.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 164,
+      "name": "Tsundere",
+      "description": "Prominently features a character who acts cold and hostile in order to mask warmer emotions.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 252,
+      "name": "Revenge",
+      "description": "Prominently features a character who aims to exact punishment in a resentful or vindictive manner.",
+      "category": "Theme-Drama",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 172,
+      "name": "Superhero",
+      "description": "Prominently features super-powered humans who aim to serve the greater good.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 99,
+      "name": "Henshin",
+      "description": "Prominently features character or costume transformations which often grant special abilities.",
+      "category": "Theme-Fantasy",
+      "rank": 74,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 74,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 94,
+      "name": "Gore",
+      "description": "Prominently features graphic bloodshed and violence.",
+      "category": "Theme-Other",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 1068,
+      "name": "Angels",
+      "description": "Prominently features spiritual beings usually represented with wings and halos and believed to be attendants of God.",
+      "category": "Cast-Traits",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1228,
+      "name": "Primarily Teen Cast",
+      "description": "Main cast is mostly composed of teen characters.",
+      "category": "Cast-Main Cast",
+      "rank": 68,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1046,
+      "name": "Suicide",
+      "description": "The act or an instance of taking or attempting to take one's own life voluntarily and intentionally.",
+      "category": "Theme-Drama",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 157,
+      "name": "Guns",
+      "description": "Prominently features the use of guns in combat.",
+      "category": "Theme-Action",
+      "rank": 57,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 614,
+      "name": "Nun",
+      "description": "Prominently features a character who is a nun.",
+      "category": "Cast-Traits",
+      "rank": 56,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 494,
+      "name": "Twins",
+      "description": "Prominently features two or more siblings that were born at one birth.",
+      "category": "Cast-Traits",
+      "rank": 55,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 483,
+      "name": "LGBTQ+ Themes",
+      "description": "Prominently features characters or themes associated with the LGBTQ+ community, such as sexuality or gender identity.",
+      "category": "Theme-Other",
+      "rank": 55,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 76,
+      "name": "Yuri",
+      "description": "Prominently features romance between two females, not inherently sexual. Also known as Girls' Love.",
+      "category": "Theme-Romance",
+      "rank": 54,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 648,
+      "name": "Crime",
+      "description": "Centers around unlawful activities punishable by the state or other authority.",
+      "category": "Theme-Other",
+      "rank": 48,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 77,
+      "name": "Gender Bending",
+      "description": "Prominently features a character who dresses and behaves in a way characteristic of another gender, or has been transformed into a person of another gender.",
+      "category": "Theme-Other",
+      "rank": 47,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 1165,
+      "name": "Transgender",
+      "description": "Features a character whose gender identity differs from the sex they were assigned at birth.",
+      "category": "Cast-Traits",
+      "rank": 44,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 244,
+      "name": "Isekai",
+      "description": "Features characters being transported into an alternate world setting and having to adapt to their new surroundings.",
+      "category": "Theme-Fantasy",
+      "rank": 30,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 171,
+      "name": "Bullying",
+      "description": "Prominently features the use of force for intimidation, often in a school setting.",
+      "category": "Theme-Drama",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 931,
+      "name": "Tomboy",
+      "description": "Features a girl who exhibits characteristics or behaviors considered in many cultures to be typical of boys.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 91588,
+          "title": {
+            "native": "魔法少女育成計画"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 99815,
+          "title": {
+            "native": "魔法少女育成計画"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 160803,
+          "title": {
+            "native": "魔法少女育成計画 restart"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 122100,
+          "name": {
+            "first": "Koyuki",
+            "last": "Himekawa",
+            "native": "姫河小雪",
+            "alternative": [
+              "Snow White"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122100-IKjkZasCEpby.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122100-IKjkZasCEpby.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122100"
+        },
+        "voiceActors": [
+          {
+            "id": 106184,
+            "name": {
+              "first": "Nao",
+              "last": "Touyama",
+              "native": "東山奈央"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106184-rFA0sHFJrbk4.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106184-rFA0sHFJrbk4.png"
+            },
+            "siteUrl": "https://anilist.co/staff/106184"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 122101,
+          "name": {
+            "first": "Kano",
+            "last": "Sazanami",
+            "native": "細波華乃",
+            "alternative": [
+              "Ripple"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122101-yIA7gB3Qsb4v.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122101-yIA7gB3Qsb4v.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122101"
+        },
+        "voiceActors": [
+          {
+            "id": 104973,
+            "name": {
+              "first": "Manami",
+              "last": "Numakura",
+              "native": "沼倉愛美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104973-rymSxCu8uP0Y.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104973-rymSxCu8uP0Y.png"
+            },
+            "siteUrl": "https://anilist.co/staff/104973"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122103,
+          "name": {
+            "first": "Souta",
+            "last": "Kishibe",
+            "native": "岸辺颯太",
+            "alternative": [
+              "La Pucelle"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122103-BsuUIpgEIIEv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122103-BsuUIpgEIIEv.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122103"
+        },
+        "voiceActors": [
+          {
+            "id": 106622,
+            "name": {
+              "first": "Ayane",
+              "last": "Sakura",
+              "native": "佐倉綾音"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106622-yemj6ymLz4lY.png"
+            },
+            "siteUrl": "https://anilist.co/staff/106622"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122330,
+          "name": {
+            "first": "Ayana",
+            "last": "Sakanagi",
+            "native": "坂凪綾名",
+            "alternative": [
+              "Swim Swim"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122330-FO8fPhBjTfEq.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/122330-FO8fPhBjTfEq.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122330"
+        },
+        "voiceActors": [
+          {
+            "id": 106297,
+            "name": {
+              "first": "Inori",
+              "last": "Minase",
+              "native": "水瀬いのり"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106297-DYjwI6p4yZNJ.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106297-DYjwI6p4yZNJ.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/106297"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122334,
+          "name": {
+            "first": "Sanae",
+            "last": "Mukuou",
+            "native": "木王早苗",
+            "alternative": [
+              "Ruler"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122334-jpzQrXhEs8gD.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/122334-jpzQrXhEs8gD.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122334"
+        },
+        "voiceActors": [
+          {
+            "id": 102263,
+            "name": {
+              "first": "Youko",
+              "last": "Hikasa",
+              "native": "日笠陽子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102263-aaPZtNXVUljW.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102263"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122336,
+          "name": {
+            "first": "Tsubame",
+            "last": "Murota",
+            "native": "室田つばめ",
+            "alternative": [
+              "Top Speed"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122336-Glhfvc4ynGY2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/122336-Glhfvc4ynGY2.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122336"
+        },
+        "voiceActors": [
+          {
+            "id": 106784,
+            "name": {
+              "first": "Yumi",
+              "last": "Uchiyama",
+              "native": "内山夕実"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106784-reDoHBLWxi7J.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106784-reDoHBLWxi7J.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/106784"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122425,
+          "name": {
+            "first": "Ako",
+            "last": "Hatoda",
+            "native": "亜子鳩田",
+            "alternative": [
+              "Hardgore Alice"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122425-4LTRumTtS3jr.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122425-4LTRumTtS3jr.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122425"
+        },
+        "voiceActors": [
+          {
+            "id": 100250,
+            "name": {
+              "first": "Rina",
+              "last": "Hidaka",
+              "native": "日高里菜"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100250-L8WsoaLevibT.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100250-L8WsoaLevibT.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/100250"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122426,
+          "name": {
+            "first": "Fav",
+            "last": null,
+            "native": "ファヴ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122426-GtgA7gmmYq2e.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/122426-GtgA7gmmYq2e.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122426"
+        },
+        "voiceActors": [
+          {
+            "id": 95500,
+            "name": {
+              "first": "Kurumi",
+              "last": "Mamiya",
+              "native": "間宮くるみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95500-eEWlj7eCm3Ab.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95500-eEWlj7eCm3Ab.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95500"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122427,
+          "name": {
+            "first": "Nana",
+            "last": "Habutae",
+            "native": "羽二重奈々",
+            "alternative": [
+              "Sister Nana"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122427-9e2gnhFjEh6r.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/122427-9e2gnhFjEh6r.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122427"
+        },
+        "voiceActors": [
+          {
+            "id": 95869,
+            "name": {
+              "first": "Saori",
+              "last": "Hayami",
+              "native": "早見沙織"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95869-qCQ0EaWpq1QT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95869"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122428,
+          "name": {
+            "first": "Shizuku",
+            "last": "Ashuu",
+            "native": "亜柊雫",
+            "alternative": [
+              "Weiss Winterprison"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122428-e2JIKOG3s2VU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/122428-e2JIKOG3s2VU.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122428"
+        },
+        "voiceActors": [
+          {
+            "id": 95034,
+            "name": {
+              "first": "Yuu",
+              "last": "Kobayashi",
+              "native": "小林ゆう"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95034-AwobjrcmkMi9.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95034-AwobjrcmkMi9.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95034"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122429,
+          "name": {
+            "first": "Makoto",
+            "last": "Andou",
+            "native": "安藤真琴",
+            "alternative": [
+              "Magicaroid 44"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122429-vWY8etq1LnKG.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/122429-vWY8etq1LnKG.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122429"
+        },
+        "voiceActors": [
+          {
+            "id": 95124,
+            "name": {
+              "first": "Satomi",
+              "last": "Arai",
+              "native": "新井里美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95124-8C0BORTX7Bfd.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95124-8C0BORTX7Bfd.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95124"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122475,
+          "name": {
+            "first": "Naoko",
+            "last": "Yamamoto",
+            "native": "山元奈緒子",
+            "alternative": [
+              "Calamity Mary"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122475-9H9yGlA3V33P.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/122475-9H9yGlA3V33P.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122475"
+        },
+        "voiceActors": [
+          {
+            "id": 95195,
+            "name": {
+              "first": "Kikuko",
+              "last": "Inoue",
+              "native": "井上喜久子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95195-nLvtZl5sCK0D.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95195"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122476,
+          "name": {
+            "first": "Yuna",
+            "last": "Amasato",
+            "native": "天里 優奈",
+            "alternative": [
+              "Peaky Angels"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122476-LWEFLwzPhUpj.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/122476-LWEFLwzPhUpj.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122476"
+        },
+        "voiceActors": [
+          {
+            "id": 119959,
+            "name": {
+              "first": "Satsumi",
+              "last": "Matsuda",
+              "native": "松田颯水"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119959-dN9jj8PMUmiU.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119959-dN9jj8PMUmiU.png"
+            },
+            "siteUrl": "https://anilist.co/staff/119959"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122495,
+          "name": {
+            "first": "",
+            "last": "Mori no Ongakuka Cranberry",
+            "native": "森の音楽家クラムベリー",
+            "alternative": [
+              "The Forest Musician"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122495-cZ04geoZTphX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/122495-cZ04geoZTphX.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122495"
+        },
+        "voiceActors": [
+          {
+            "id": 95287,
+            "name": {
+              "first": "Megumi",
+              "last": "Ogata",
+              "native": "緒方恵美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95287-3moX16xmYedv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95287-3moX16xmYedv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95287"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122497,
+          "name": {
+            "first": "Nemu",
+            "last": "Sanjou",
+            "native": "三条合歓",
+            "alternative": [
+              "Nemurin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122497-gf8CLgdxlPBS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122497-gf8CLgdxlPBS.png"
+          },
+          "siteUrl": "https://anilist.co/character/122497"
+        },
+        "voiceActors": [
+          {
+            "id": 116543,
+            "name": {
+              "first": "Yumiri",
+              "last": "Hanamori",
+              "native": "花守ゆみり"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116543-nDWFpolRN9dM.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116543-nDWFpolRN9dM.png"
+            },
+            "siteUrl": "https://anilist.co/staff/116543"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122498,
+          "name": {
+            "first": "Tama",
+            "last": "Inubouzaki",
+            "native": "犬吠埼 珠",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122498-nrnOZy0g5pGx.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/122498-nrnOZy0g5pGx.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122498"
+        },
+        "voiceActors": [
+          {
+            "id": 105707,
+            "name": {
+              "first": "Asuka",
+              "last": "Nishi",
+              "native": "西明日香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105707-FFTBOiKJwGeh.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105707-FFTBOiKJwGeh.png"
+            },
+            "siteUrl": "https://anilist.co/staff/105707"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122499,
+          "name": {
+            "first": "Mina",
+            "last": "Amasato",
+            "native": "天里 美奈",
+            "alternative": [
+              "Peaky Angels"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122499-udFEXxwCN9xa.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/122499-udFEXxwCN9xa.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/122499"
+        },
+        "voiceActors": [
+          {
+            "id": 119960,
+            "name": {
+              "first": "Risae",
+              "last": "Matsuda",
+              "native": "松田利冴"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119960-1b9eah3Af5f2.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119960-1b9eah3Af5f2.png"
+            },
+            "siteUrl": "https://anilist.co/staff/119960"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 123828,
+          "name": {
+            "first": "Yoshiko",
+            "last": "Yoshinoura",
+            "native": "吉乃浦芳子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/123828-H4lo0pZGXUsD.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/123828-H4lo0pZGXUsD.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/123828"
+        },
+        "voiceActors": [
+          {
+            "id": 108643,
+            "name": {
+              "first": "Haruka",
+              "last": "Yamazaki",
+              "native": "山崎はるか"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108643-vppbn6dvvdQu.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n108643-vppbn6dvvdQu.png"
+            },
+            "siteUrl": "https://anilist.co/staff/108643"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 123829,
+          "name": {
+            "first": "Sumire",
+            "last": null,
+            "native": "すみれ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/123829-QIZciiAO71FO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/123829-QIZciiAO71FO.png"
+          },
+          "siteUrl": "https://anilist.co/character/123829"
+        },
+        "voiceActors": [
+          {
+            "id": 119416,
+            "name": {
+              "first": "Kaede",
+              "last": "Hondo",
+              "native": "本渡楓"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119416-7RC2mPKDKydB.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119416-7RC2mPKDKydB.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/119416"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 119796,
+          "name": {
+            "first": "Asari",
+            "last": "Endou",
+            "native": "遠藤浅蜊"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/AsariEndou)",
+          "siteUrl": "https://anilist.co/staff/119796"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 119797,
+          "name": {
+            "first": "Maruino",
+            "last": null,
+            "native": "マルイノ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119797-wzkcNHz4yKCd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119797-wzkcNHz4yKCd.png"
+          },
+          "description": "[Website](http://psyco.jp/gaaaze/) | [Twitter](https://twitter.com/malluino) | [Pixiv](https://www.pixiv.net/member.php?id=87337)",
+          "siteUrl": "https://anilist.co/staff/119797"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 109787,
+          "name": {
+            "first": "Takao",
+            "last": "Yoshioka",
+            "native": "吉岡たかを"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109787-bMhkuLl8Bjy9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n109787-bMhkuLl8Bjy9.jpg"
+          },
+          "description": "Currently freelance he resides in Tokyo. Yoshioka is a member of the Writers' Guild of Japan and the Television and Radio Writers' Association of Japan.\n\n[Website](http://www.takawo.com/) | [Twitter](https://twitter.com/takawoy) | [Twitter 2](https://twitter.com/takawoyy)\n",
+          "siteUrl": "https://anilist.co/staff/109787"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 118960,
+          "name": {
+            "first": "Hiroyuki",
+            "last": "Hashimoto",
+            "native": "橋本裕之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/118960-3nMQ4I3OI0oX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/118960-3nMQ4I3OI0oX.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/lainnet01)",
+          "siteUrl": "https://anilist.co/staff/118960"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 110945,
+          "name": {
+            "first": "Yukiko",
+            "last": "Aikei",
+            "native": "愛敬由紀子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/110945-fExoMVUx72f6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/110945-fExoMVUx72f6.jpg"
+          },
+          "description": "[Website](http://www.studio-ik.com/)\n\nMarried to [Kyouhei Ishiguro](https://anilist.co/staff/118624).",
+          "siteUrl": "https://anilist.co/staff/110945"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 104973,
+          "name": {
+            "first": "Manami",
+            "last": "Numakura",
+            "native": "沼倉愛美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104973-rymSxCu8uP0Y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104973-rymSxCu8uP0Y.png"
+          },
+          "description": "__Height:__ 162 cm (5'4\")\n\n[Profile](http://www.artsvision.co.jp/talent/715/) | [Twitter](https://twitter.com/numakura_manami) | [Instagram](https://www.instagram.com/nu_manami/) | [Blog](http://blog.livedoor.jp/mnm_n_/) \n\nA voice actor affiliated with Arts Vision. She is married to fellow seiyuu [Ryouta Oosaka](https://anilist.co/staff/110743) as of October 23, 2019.",
+          "siteUrl": "https://anilist.co/staff/104973"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 111479,
+          "name": {
+            "first": "nano",
+            "last": null,
+            "native": "ナノ "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111479-ePIZcFF2Z8Mh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111479-ePIZcFF2Z8Mh.jpg"
+          },
+          "description": "[Official Website](https://nanonano.me/) | [Twitter](https://twitter.com/nanonano_me?s=20&t=4VTA1umvQXVSsyul5mYvQg) | [Youtube](https://www.youtube.com/user/officialnanoTV) | [Instagram](https://www.instagram.com/nanonano_me/?hl=ja)\n\n\nnano is a female singer/song writer on NicoNicoDouga who covers Vocaloid and non-Vocaloid songs in Japanese and English. She has participated in many translations and collaborations because of fluency. nano moved back to Japan during middle school. This is where the “帰国子女” in one of his or her video titles comes from. Kikokushijo means “one who has returned to their homeland”.",
+          "siteUrl": "https://anilist.co/staff/111479"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 121390,
+          "name": {
+            "first": "Takurou",
+            "last": "Iga",
+            "native": "伊賀拓郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/121390-btoHH2jpOfxa.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/121390-btoHH2jpOfxa.jpg"
+          },
+          "description": "[Twitter](https://x.com/igatakurou) | [Instagram](https://www.instagram.com/igatakuro_official/) | [Youtube](https://www.youtube.com/channel/UC2NL6lmshSoFIAdD3BX4Exg?app=desktop)",
+          "siteUrl": "https://anilist.co/staff/121390"
+        }
+      },
+      {
+        "role": "Effects Animation Director",
+        "node": {
+          "id": 118452,
+          "name": {
+            "first": "Takashi",
+            "last": "Hashimoto",
+            "native": "橋本敬史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118452-ywaQReEXaWRv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118452-ywaQReEXaWRv.png"
+          },
+          "description": "Veteran animator specialized in effects animation.",
+          "siteUrl": "https://anilist.co/staff/118452"
+        }
+      },
+      {
+        "role": "Sound Effects",
+        "node": {
+          "id": 192507,
+          "name": {
+            "first": "Masafumi",
+            "last": "Watanabe",
+            "native": "渡邊雅文"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/192507"
+        }
+      },
+      {
+        "role": "Recording Adjustment",
+        "node": {
+          "id": 179861,
+          "name": {
+            "first": "Tomonari",
+            "last": "Tokuhisa",
+            "native": "徳久智成"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/179861"
+        }
+      },
+      {
+        "role": "Chief Producer",
+        "node": {
+          "id": 148178,
+          "name": {
+            "first": "Muneyuki",
+            "last": "Kanbe",
+            "native": "神部宗之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/148178"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 158369,
+          "name": {
+            "first": "Tomoyuki",
+            "last": "Kunii",
+            "native": "國井智行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n158369-NR1LYmbn185s.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n158369-NR1LYmbn185s.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/158369"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 104326,
+          "name": {
+            "first": "Shirou",
+            "last": "Sasaki",
+            "native": "佐々木史朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104326-IDhVhFXOpj3F.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104326-IDhVhFXOpj3F.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/佐々木史朗_(音楽プロデューサー%29) | [Flying Dog](https://www.jvcmusic.co.jp/flyingdog/)\n\nThe founder of record label [flying DOG](https://anilist.co/studio/464/flying-DOG).",
+          "siteUrl": "https://anilist.co/staff/104326"
+        }
+      },
+      {
+        "role": "Prop Design",
+        "node": {
+          "id": 147532,
+          "name": {
+            "first": "Makoto",
+            "last": "Iino",
+            "native": "飯野誠"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n147532-9JJnWeuZoUF8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n147532-9JJnWeuZoUF8.png"
+          },
+          "description": "[Twitter](https://twitter.com/mugitorogohann)",
+          "siteUrl": "https://anilist.co/staff/147532"
+        }
+      },
+      {
+        "role": "Weapon Design",
+        "node": {
+          "id": 192814,
+          "name": {
+            "first": "Takao",
+            "last": "Takegami",
+            "native": "竹上貴雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/192814"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 222908,
+          "name": {
+            "first": "Emi",
+            "last": "Kashimura",
+            "native": "鹿志村絵美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n222908-kEAAaMO58xGe.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n222908-kEAAaMO58xGe.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/222908"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 142244,
+          "name": {
+            "first": "Takeshi",
+            "last": "Minami",
+            "native": "南健"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142244-HLtDKmXUKJoo.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n142244-HLtDKmXUKJoo.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/142244"
+        }
+      },
+      {
+        "role": "Music Producer",
+        "node": {
+          "id": 156185,
+          "name": {
+            "first": "Makoto",
+            "last": "Nishibe",
+            "native": "西辺誠"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156185-2lm1H8MFlZtl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n156185-2lm1H8MFlZtl.png"
+          },
+          "description": "[Twitter](https://twitter.com/nishibe_makoto)\n\nAffiliated with Bilibili.",
+          "siteUrl": "https://anilist.co/staff/156185"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 105169,
+          "name": {
+            "first": "Tarou",
+            "last": "Maki",
+            "native": "真木太郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105169-B4nIkRmO8wKR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105169-B4nIkRmO8wKR.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/真木太郎)\n\nTarou Maki is a producer. He graduated from the Department of Law at Waseda University in 1977 and joined Pioneer. In 1997 he founded production studio [Genco](https://anilist.co/studio/79/) and serves today still as its president.",
+          "siteUrl": "https://anilist.co/staff/105169"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 146153,
+          "name": {
+            "first": "Hirofune",
+            "last": "Hane",
+            "native": "羽根広舟"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/146153"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 147496,
+          "name": {
+            "first": "Masaki",
+            "last": "Sakamoto",
+            "native": "坂本雅紀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/147496"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 118912,
+          "name": {
+            "first": "Satoki",
+            "last": "Iida",
+            "native": "飯田里樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118912-bijGF9kyBmMN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118912-bijGF9kyBmMN.jpg"
+          },
+          "description": "**Iida Satoki** is a Japanese freelance sound director.",
+          "siteUrl": "https://anilist.co/staff/118912"
+        }
+      },
+      {
+        "role": "Art Design",
+        "node": {
+          "id": 132400,
+          "name": {
+            "first": "Satoru",
+            "last": "Hirayanagi",
+            "native": "平柳悟"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n132400-to5C1TwIgWxv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n132400-to5C1TwIgWxv.jpg"
+          },
+          "description": "A former Studio Easter employee. Debuted as an art director on [Guin Saga](https://anilist.co/anime/5041/).",
+          "siteUrl": "https://anilist.co/staff/132400"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 221342,
+          "name": {
+            "first": "Naoya",
+            "last": "Imamura",
+            "native": "今村直哉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/221342"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 456,
+          "name": "Lerche",
+          "siteUrl": "https://anilist.co/studio/456"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 464,
+          "name": "flying DOG",
+          "siteUrl": "https://anilist.co/studio/464"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 117337,
+          "airingAt": 1475334000,
+          "episode": 1,
+          "mediaId": 21340,
+          "media": {
+            "id": 21340
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 117338,
+          "airingAt": 1475938800,
+          "episode": 2,
+          "mediaId": 21340,
+          "media": {
+            "id": 21340
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 117339,
+          "airingAt": 1476543600,
+          "episode": 3,
+          "mediaId": 21340,
+          "media": {
+            "id": 21340
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 117340,
+          "airingAt": 1477148400,
+          "episode": 4,
+          "mediaId": 21340,
+          "media": {
+            "id": 21340
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 117341,
+          "airingAt": 1477753200,
+          "episode": 5,
+          "mediaId": 21340,
+          "media": {
+            "id": 21340
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 117342,
+          "airingAt": 1478358000,
+          "episode": 6,
+          "mediaId": 21340,
+          "media": {
+            "id": 21340
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 117343,
+          "airingAt": 1478962800,
+          "episode": 7,
+          "mediaId": 21340,
+          "media": {
+            "id": 21340
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 117344,
+          "airingAt": 1479567600,
+          "episode": 8,
+          "mediaId": 21340,
+          "media": {
+            "id": 21340
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 117345,
+          "airingAt": 1480172400,
+          "episode": 9,
+          "mediaId": 21340,
+          "media": {
+            "id": 21340
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 117346,
+          "airingAt": 1480777200,
+          "episode": 10,
+          "mediaId": 21340,
+          "media": {
+            "id": 21340
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 117347,
+          "airingAt": 1481382000,
+          "episode": 11,
+          "mediaId": 21340,
+          "media": {
+            "id": 21340
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 117348,
+          "airingAt": 1481986800,
+          "episode": 12,
+          "mediaId": 21340,
+          "media": {
+            "id": 21340
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 2789,
+      "url": "http://mahoiku.jp/",
+      "site": "Official Site"
+    },
+    {
+      "id": 2790,
+      "url": "https://twitter.com/mahoiku_anime",
+      "site": "Twitter"
+    },
+    {
+      "id": 3405,
+      "url": "http://www.crunchyroll.com/magical-girl-raising-project",
+      "site": "Crunchyroll"
+    }
+  ],
+  "streamingEpisodes": [
+    {
+      "title": "Episode 1 - Welcome to a World of Dreams and Magic!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/054bf78ef7caefcce5de45d626277da21475286878_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G0DUN87MP/welcome-to-a-world-of-dreams-and-magic",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 2 - Collect Magical Candies!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/8a253c72e1d7b7fc146845feb4ea63a91475692561_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GEVUZE9W9/collect-magical-candies",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 3 - Update Notice!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/acab06fcabc2c12184e917d3d72770a01476225743_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G7PU49Q39/update-notice",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 4 - Add More Friends!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/36e92471179c87f2dc05ff7ffc32d0e91477149626_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GX9UQ053J/add-more-friends",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 5 - New Character!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/f9a7bc60d63ecf92869e68deb0e0abd31477710066_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G14U4MNV7/new-character",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 6 - Get the Super-Rare Items!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/3cb7a91b7e566fd6718bb527b3c110ab1478352169_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GJWU2VZKN/get-the-super-rare-items",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 7 - Up Your Friendship!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/55a41515362971c7ef291f837af784e21478959934_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GMKUXVK0X/up-your-friendship",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 8 - Sudden Event In Session!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/eb196717242e126c31df1226085fa9f91479517339_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G31UX9G88/sudden-event-in-session",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 9 - Notice of New Rules",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/6e9ead75ec3298279a40b29e59ad1a051480155820_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GPWUKGPM2/notice-of-new-rules",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 10 - Super-Hot! Back-to-Back Battle Events!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/1d8470c652d8f07f1d47869c3f6bdd4d1480776898_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GZ7UV4Z97/super-hot-back-to-back-battle-events",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 11 - Server Down for Maintenance",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/520a5c276d756aa977d0ebf5b6322d0b1481378566_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GD9UVX572/server-down-for-maintenance",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 12 - File Not Found",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/359f29ab2449f4fee7a3d45f92dca2681481968153_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GWDU8D105/file-not-found",
+      "site": "Crunchyroll"
+    }
+  ],
+  "rankings": [
+    {
+      "id": 7626,
+      "rank": 84,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2016,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 7706,
+      "rank": 64,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 2016,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 7945,
+      "rank": 25,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2016,
+      "season": "FALL",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 7963,
+      "rank": 13,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 2016,
+      "season": "FALL",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1223,
+          "rating": 15,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 108147,
+            "title": {
+              "native": "グランベルム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 5152,
+          "rating": 19,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 103222,
+            "title": {
+              "native": "魔法少女特殊戦あすか"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 5723,
+          "rating": 57,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 100010,
+            "title": {
+              "native": "魔法少女サイト"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 7252,
+          "rating": 67,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 9756,
+            "title": {
+              "native": "魔法少女まどか☆マギカ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 7254,
+          "rating": 26,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 20754,
+            "title": {
+              "native": "がっこうぐらし!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 7701,
+          "rating": 12,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 98,
+            "title": {
+              "native": "舞-HiME"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 9016,
+          "rating": 13,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 17651,
+            "title": {
+              "native": "幻影ヲ駆ケル太陽"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 13344,
+          "rating": 17,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 16592,
+            "title": {
+              "native": "ダンガンロンパ 希望の学園と絶望の高校生 The Animation"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 15651,
+          "rating": 7,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 10620,
+            "title": {
+              "native": "未来日記"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 15653,
+          "rating": 27,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 20800,
+            "title": {
+              "native": "結城友奈は勇者である"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 15655,
+          "rating": 8,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 98443,
+            "title": {
+              "native": "十二大戦"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 15657,
+          "rating": 11,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 20615,
+            "title": {
+              "native": "selector infected WIXOSS"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 15659,
+          "rating": 11,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 19429,
+            "title": {
+              "native": "悪魔のリドル"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 15661,
+          "rating": 3,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 14345,
+            "title": {
+              "native": "BTOOOM！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 15663,
+          "rating": 7,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 20613,
+            "title": {
+              "native": "アカメが斬る！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 15665,
+          "rating": 5,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1690,
+            "title": {
+              "native": "ぼくらの"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 15667,
+          "rating": 2,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 99698,
+            "title": {
+              "native": "王様ゲーム The Animation"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 19761,
+          "rating": 5,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 105190,
+            "title": {
+              "native": "ダーウィンズゲーム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 20579,
+          "rating": 19,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 104051,
+            "title": {
+              "native": "マギアレコード 魔法少女まどか☆マギカ外伝"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 67719,
+          "rating": 1,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 21025,
+            "title": {
+              "native": "6HP(シックスハートプリンセス)"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 68933,
+          "rating": 13,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 124845,
+            "title": {
+              "native": "ワンダーエッグ・プライオリティ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 74991,
+          "rating": 3,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 117343,
+            "title": {
+              "native": "無能なナナ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 76947,
+          "rating": -1,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 5020,
+            "title": {
+              "native": "絶対衝激～プラトニックハート～"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 81310,
+          "rating": 2,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 129814,
+            "title": {
+              "native": "BLUE REFLECTION RAY/澪"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 93653,
+          "rating": 3,
+          "media": {
+            "id": 21340,
+            "title": {
+              "native": "魔法少女育成計画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 117002,
+            "title": {
+              "native": "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 223
+      },
+      {
+        "score": 20,
+        "amount": 200
+      },
+      {
+        "score": 30,
+        "amount": 552
+      },
+      {
+        "score": 40,
+        "amount": 936
+      },
+      {
+        "score": 50,
+        "amount": 1648
+      },
+      {
+        "score": 60,
+        "amount": 2830
+      },
+      {
+        "score": 70,
+        "amount": 4203
+      },
+      {
+        "score": 80,
+        "amount": 3096
+      },
+      {
+        "score": 90,
+        "amount": 1560
+      },
+      {
+        "score": 100,
+        "amount": 778
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 1827
+      },
+      {
+        "status": "PLANNING",
+        "amount": 15239
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 20953
+      },
+      {
+        "status": "DROPPED",
+        "amount": 2541
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1318
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/21340",
+  "modNotes": null
+}

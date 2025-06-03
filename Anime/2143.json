@@ -1,0 +1,682 @@
+{
+  "id": 2143,
+  "idMal": 2143,
+  "title": {
+    "native": "最遊記RELOAD -burial-",
+    "romaji": "Saiyuuki RELOAD: burial",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "Taking place in the past it offers a view at the Saiyuki quartet before their formation and their journey to the west. First OVA starts with Sanzo and his master, also with Ukoku (known as a later Ni Jianyi). Second OVA shows first meeting of Goku and Sanzo. Third OVA considers the events after Hakkai's sins and his trial (that we know from first season of \"Saiyuki\") and his decision to live in Gojyo's house.",
+  "startDate": {
+    "year": 2007,
+    "month": 4,
+    "day": 28
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 3,
+    "day": 28
+  },
+  "season": "SPRING",
+  "seasonYear": 2007,
+  "seasonInt": 72,
+  "episodes": 3,
+  "duration": 30,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748885026,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2143-6Qo53JtMFhxT.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2143-6Qo53JtMFhxT.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2143-6Qo53JtMFhxT.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Saiyuki Reload: Burial"
+  ],
+  "averageScore": 69,
+  "meanScore": 71,
+  "popularity": 2232,
+  "favourites": 12,
+  "tags": [
+    {
+      "id": 27,
+      "name": "Josei",
+      "description": "Target demographic is adult females.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 9088,
+          "title": {
+            "native": "最遊記外伝"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 129,
+          "title": {
+            "native": "幻想魔伝 最遊記"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 30510,
+          "title": {
+            "native": "最遊記RELOAD"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 219,
+          "name": {
+            "first": "Hakkai",
+            "last": "Cho",
+            "native": "豬八戒",
+            "alternative": [
+              "Cho Gonou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219-JDw11bFgEtRX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b219-JDw11bFgEtRX.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/219"
+        },
+        "voiceActors": [
+          {
+            "id": 95017,
+            "name": {
+              "first": "Akira",
+              "last": "Ishida",
+              "native": "石田彰"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95017-GSRcmQ97a8ZT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95017"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 218,
+          "name": {
+            "first": "Goku",
+            "last": "Son",
+            "native": "孫悟空",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b218-UaEK4iDyciUg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b218-UaEK4iDyciUg.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/218"
+        },
+        "voiceActors": [
+          {
+            "id": 95030,
+            "name": {
+              "first": "Souichirou",
+              "last": "Hoshi",
+              "native": "保志総一朗"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95030-kj64Uy6Zr3bq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95030-kj64Uy6Zr3bq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95030"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 220,
+          "name": {
+            "first": "Gojou",
+            "last": "Sha",
+            "native": "沙悟浄",
+            "alternative": [
+              "Gojyo Sha",
+              "Ero Kappa"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b220-4P4VnGFyZYA6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b220-4P4VnGFyZYA6.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/220"
+        },
+        "voiceActors": [
+          {
+            "id": 95125,
+            "name": {
+              "first": "Hiroaki",
+              "last": "Hirata",
+              "native": "平田広明"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95125-NeFFiJupoDVj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95125-NeFFiJupoDVj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95125"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 217,
+          "name": {
+            "first": "Sanzou",
+            "last": "Genjou",
+            "native": "玄奘三蔵",
+            "alternative": [
+              "Sanzo Genjo",
+              "Kouryuu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217-G6yuMoUz5QwJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b217-G6yuMoUz5QwJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/217"
+        },
+        "voiceActors": [
+          {
+            "id": 95129,
+            "name": {
+              "first": "Toshihiko",
+              "last": "Seki",
+              "native": "関俊彦"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95129-AAL7kfwAPpgR.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95129-AAL7kfwAPpgR.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95129"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9263,
+          "name": {
+            "first": "Ni",
+            "last": "Jianyi",
+            "native": "你健一",
+            "alternative": [
+              "Ukoku Sanzo",
+              "Ken'yuu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9263.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9263.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9263"
+        },
+        "voiceActors": [
+          {
+            "id": 95097,
+            "name": {
+              "first": "Kousuke",
+              "last": "Toriumi",
+              "native": "鳥海浩輔"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95097-BhSegy6KBLbE.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95097-BhSegy6KBLbE.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95097"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 12133,
+          "name": {
+            "first": "Banri",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12133.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12133.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12133"
+        },
+        "voiceActors": [
+          {
+            "id": 95801,
+            "name": {
+              "first": "Yasuyuki",
+              "last": "Kase",
+              "native": "加瀬康之"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95801-Jno6Y2OawOII.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95801-Jno6Y2OawOII.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95801"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9469,
+          "name": {
+            "first": "Sanzo",
+            "last": "Koumyou",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n9469-TPSIi15j3CKX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n9469-TPSIi15j3CKX.png"
+          },
+          "siteUrl": "https://anilist.co/character/9469"
+        },
+        "voiceActors": [
+          {
+            "id": 96469,
+            "name": {
+              "first": "Mitsuru",
+              "last": "Miyamoto",
+              "native": "宮本充"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96469-uVRO2mYXvXxP.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96469-uVRO2mYXvXxP.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96469"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 95030,
+          "name": {
+            "first": "Souichirou",
+            "last": "Hoshi",
+            "native": "保志総一朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95030-kj64Uy6Zr3bq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95030-kj64Uy6Zr3bq.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/95030"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 95125,
+          "name": {
+            "first": "Hiroaki",
+            "last": "Hirata",
+            "native": "平田広明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95125-NeFFiJupoDVj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95125-NeFFiJupoDVj.png"
+          },
+          "description": "[Website](http://www.hiratahiroaki.com/)",
+          "siteUrl": "https://anilist.co/staff/95125"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97182,
+          "name": {
+            "first": "Kazuya",
+            "last": "Minekura",
+            "native": "峰倉かずや"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97182-Rh0eWU1pZMOo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97182-Rh0eWU1pZMOo.png"
+          },
+          "description": "[Website](http://minekura.net) | [Blog](http://shop.minekura.net/blog/) | [Twitter](https://twitter.com/kaz_minekura)\n\nA Japanese manga artist most known for the Saiyuki series. Her other manga series include Wild Adapter, Shiritsu Araiso Koto Gakko Seitokai Shikkobu (Araiso Private School Student Council Executive Committee), and Stigma. Stigma is notable for being a full-color work, unusual as manga is generally drawn in black and white.",
+          "siteUrl": "https://anilist.co/staff/97182"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100986,
+          "name": {
+            "first": "Kouichi",
+            "last": "Oohata",
+            "native": "大畑晃一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100986-OwYQCiPLmFJK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100986-OwYQCiPLmFJK.png"
+          },
+          "description": "Kouichi Oohata is a director and mecha designer best known for creating the Gunbuster from *Top wo Nerae!*",
+          "siteUrl": "https://anilist.co/staff/100986"
+        }
+      },
+      {
+        "role": "Art Director (ep 1)",
+        "node": {
+          "id": 101824,
+          "name": {
+            "first": "Yuuji",
+            "last": "Ikeda",
+            "native": "池田祐二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101824-HoIsy6GnenC9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101824-HoIsy6GnenC9.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/池田祐二) | [Studio Wyeth](https://www.studio-wyeth.jp/)\n\nA prominent art director, as well as the founder and representative director of Studio Wyeth.\n\n_Note: Not to be confused with animator [Yuuji Ikeda](https://anilist.co/staff/144426/)._",
+          "siteUrl": "https://anilist.co/staff/101824"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 114327,
+          "name": {
+            "first": "Hajime",
+            "last": "Takakuwa",
+            "native": "高桑一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/114327-trM6GXihBrlC.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/114327-trM6GXihBrlC.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/高桑一)",
+          "siteUrl": "https://anilist.co/staff/114327"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 98071,
+          "name": {
+            "first": "Katsuyuki",
+            "last": "Sumisawa",
+            "native": "隅沢克之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98071-o9rRauEp6UP7.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98071-o9rRauEp6UP7.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/隅沢克之)\n\nFrequently involved with [Sunrise](https://anilist.co/studio/14/Sunrise), [Toei Animation](https://anilist.co/studio/18/Toei-Animation), and [Studio Pierrot](https://anilist.co/studio/1/Studio-Pierrot) productions.",
+          "siteUrl": "https://anilist.co/staff/98071"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 129400,
+          "name": {
+            "first": "Takeshi",
+            "last": "Seyama",
+            "native": "瀬山武司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129400-M3PB5LGHKEH6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n129400-M3PB5LGHKEH6.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/瀬山武司) | [Wiki (en)](https://en.wikipedia.org/wiki/Takeshi_Seyama)",
+          "siteUrl": "https://anilist.co/staff/129400"
+        }
+      },
+      {
+        "role": "Art Director (eps 2, 3)",
+        "node": {
+          "id": 110647,
+          "name": {
+            "first": "Shigemi",
+            "last": "Ikeda",
+            "native": "池田繁美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110647-oGP3Qn0HItjN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110647-oGP3Qn0HItjN.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/池田繁美)\n\nFounder and representative director of Atelier Musa.",
+          "siteUrl": "https://anilist.co/staff/110647"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 154401,
+          "name": {
+            "first": "Keiko",
+            "last": "Kai",
+            "native": "甲斐けいこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/154401"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 154403,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Yoshida",
+            "native": "吉田寛"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "\n_Note: Not to be confused with the [director](https://anilist.co/staff/115140/)._",
+          "siteUrl": "https://anilist.co/staff/154403"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 1,
+          "name": "Studio Pierrot",
+          "siteUrl": "https://anilist.co/studio/1"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 53,
+          "name": "Dentsu",
+          "siteUrl": "https://anilist.co/studio/53"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 38,
+          "name": "Arms",
+          "siteUrl": "https://anilist.co/studio/38"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 16,
+          "name": "TV Tokyo",
+          "siteUrl": "https://anilist.co/studio/16"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 20947,
+      "rank": 7,
+      "type": "RATED",
+      "format": "OVA",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 20999,
+      "rank": 29,
+      "type": "POPULAR",
+      "format": "OVA",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 10
+      },
+      {
+        "score": 20,
+        "amount": 10
+      },
+      {
+        "score": 30,
+        "amount": 18
+      },
+      {
+        "score": 40,
+        "amount": 11
+      },
+      {
+        "score": 50,
+        "amount": 37
+      },
+      {
+        "score": 60,
+        "amount": 52
+      },
+      {
+        "score": 70,
+        "amount": 151
+      },
+      {
+        "score": 80,
+        "amount": 147
+      },
+      {
+        "score": 90,
+        "amount": 76
+      },
+      {
+        "score": 100,
+        "amount": 51
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 114
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1100
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 932
+      },
+      {
+        "status": "DROPPED",
+        "amount": 42
+      },
+      {
+        "status": "PAUSED",
+        "amount": 44
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/2143",
+  "modNotes": null
+}

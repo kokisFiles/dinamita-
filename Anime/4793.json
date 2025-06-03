@@ -1,0 +1,707 @@
+{
+  "id": 4793,
+  "idMal": 4793,
+  "title": {
+    "native": "ピチューとピカチュウ",
+    "romaji": "Pichu to Pikachu",
+    "english": "Pokémon: Pikachu and Pichu"
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "Pikachu meets the Pichu brothers and goes on an adventure through the city with them while trying to get back to the building where the rest of Ash's Pokémon are.",
+  "startDate": {
+    "year": 2000,
+    "month": 7,
+    "day": 8
+  },
+  "endDate": {
+    "year": 2000,
+    "month": 7,
+    "day": 8
+  },
+  "season": "SUMMER",
+  "seasonYear": 2000,
+  "seasonInt": 3,
+  "episodes": 1,
+  "duration": 23,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748908937,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4793.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4793.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4793.jpg",
+    "color": "#e4a10d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4793-au2BwSXdb5H7.jpg",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Pikachu & Pichu",
+    "Pokémon: Pikachu i Pichu"
+  ],
+  "averageScore": 64,
+  "meanScore": 64,
+  "popularity": 9581,
+  "favourites": 40,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 595,
+      "name": "Urban",
+      "description": "Partly or completely set in a city.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1118,
+          "title": {
+            "native": "劇場版ポケットモンスター 結晶塔の帝王 ENTEI"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3854,
+          "name": {
+            "first": "Takeshi",
+            "last": null,
+            "native": "タケシ",
+            "alternative": [
+              "Brock",
+              "Pierre",
+              "Rocko",
+              "Caesar Salad"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3854-qMVUF2YmWYoW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3854-qMVUF2YmWYoW.png"
+          },
+          "siteUrl": "https://anilist.co/character/3854"
+        },
+        "voiceActors": [
+          {
+            "id": 95058,
+            "name": {
+              "first": "Yuuji",
+              "last": "Ueda",
+              "native": "うえだゆうじ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95058-fGnId7E4tgx3.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95058-fGnId7E4tgx3.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95058"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3891,
+          "name": {
+            "first": "Pikachu",
+            "last": null,
+            "native": "ピカチュウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3891-edgrZOgCJ9do.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3891"
+        },
+        "voiceActors": [
+          {
+            "id": 95128,
+            "name": {
+              "first": "Ikue",
+              "last": "Ootani",
+              "native": "大谷育江"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95128-9YWpE1d2U8Sj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95128"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2473,
+          "name": {
+            "first": "Satoshi",
+            "last": null,
+            "native": "サトシ",
+            "alternative": [
+              "Ash Ketchum",
+              "Sacha Ketchum"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2473-JDoo3I82Km4l.png"
+          },
+          "siteUrl": "https://anilist.co/character/2473"
+        },
+        "voiceActors": [
+          {
+            "id": 95678,
+            "name": {
+              "first": "Rica",
+              "last": "Matsumoto",
+              "native": "松本梨香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95678-U0iKFbhteND6.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95678-U0iKFbhteND6.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95678"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3937,
+          "name": {
+            "first": "Nyarth",
+            "last": null,
+            "native": "ニャース",
+            "alternative": [
+              "Meowth",
+              "Nyaasu",
+              "Miaouss"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3937-qBtTAn2SZqhB.png"
+          },
+          "siteUrl": "https://anilist.co/character/3937"
+        },
+        "voiceActors": [
+          {
+            "id": 96024,
+            "name": {
+              "first": "Inuko",
+              "last": "Inuyama",
+              "native": "犬山イヌコ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96024-z7W9WbvflI6S.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96024-z7W9WbvflI6S.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96024"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2909,
+          "name": {
+            "first": "Kasumi",
+            "last": null,
+            "native": "カスミ",
+            "alternative": [
+              "Misty",
+              "Ondine"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2909-wNDR5aaxwDdi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2909-wNDR5aaxwDdi.png"
+          },
+          "siteUrl": "https://anilist.co/character/2909"
+        },
+        "voiceActors": [
+          {
+            "id": 95273,
+            "name": {
+              "first": "Mayumi",
+              "last": "Iizuka",
+              "native": "飯塚雅弓"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95273-qtMQIJyybJ7O.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95273-qtMQIJyybJ7O.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95273"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 53521,
+          "name": {
+            "first": "Togepy",
+            "last": null,
+            "native": "トゲピー",
+            "alternative": [
+              "Togepi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b53521-5reh4aWyEZfN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b53521-5reh4aWyEZfN.png"
+          },
+          "siteUrl": "https://anilist.co/character/53521"
+        },
+        "voiceActors": [
+          {
+            "id": 95470,
+            "name": {
+              "first": "Satomi",
+              "last": "Koorogi",
+              "native": "こおろぎさとみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95470-xZYG14WGMlmS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95470-xZYG14WGMlmS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95470"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36309,
+          "name": {
+            "first": "Narrator",
+            "last": null,
+            "native": "ナレーター",
+            "alternative": [
+              "語り手",
+              "ナレーション",
+              "Narrador",
+              "Rozprávač",
+              "Vyprávěč",
+              "Dış ses",
+              "Narratore",
+              "Pripovjedač",
+              "Narradora",
+              "Рассказчик",
+              "Người dẫn chuyện",
+              "Tagapagsalaysay",
+              "내레이터",
+              "Narratore",
+              "Erzählperson",
+              "מספר",
+              "Narrátor",
+              "讲述人",
+              "راوي",
+              "Forteller",
+              "Berättare",
+              "Αφηγητής",
+              "Narrateur",
+              "なれーしょん",
+              "旁白",
+              "Narrato"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36309"
+        },
+        "voiceActors": [
+          {
+            "id": 106972,
+            "name": {
+              "first": "Noriko",
+              "last": "Sakai",
+              "native": "酒井法子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11972.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11972.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/106972"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 100372,
+          "name": {
+            "first": "Satoshi",
+            "last": "Tajiri",
+            "native": "田尻智"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100372-ztnZ3FtrHMlw.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100372-ztnZ3FtrHMlw.jpg"
+          },
+          "description": "Satoshi is the creator of Pocket Monsters and Game Freak company",
+          "siteUrl": "https://anilist.co/staff/100372"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 107479,
+          "name": {
+            "first": "Ken",
+            "last": "Sugimori",
+            "native": "杉森建"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12479.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/12479.jpg"
+          },
+          "description": "Ken Sugimori is a Japanese video game designer, illustrator, manga artist, and director. He is most famous as the character designer and art director for the Pokémon franchise. Sugimori is also credited with the art direction for other titles, including Pulseman.  \n\nSugimori drew all of the original 151 Pokémon himself. He has worked on the various Pokémon movies, trading cards, and other games like the Super Smash Bros. series. From early 1981 until 1986, Sugimori illustrated a gaming fanzine called Game Freak, which had been started by Satoshi Tajiri. Sugimori discovered the magazine in a doujinshi shop, and decided to get involved. Eventually, the two decided to pitch an arcade game design idea to Namco; they reworked Game Freak into a development company and produced Mendel Palace. \n\nSugimori is most famous as the character designer and art director for the Pokémon franchise. He has worked on the various Pokémon movies, trading cards, and other games. For Pokémon Black and White, Sugimori directed a team of 17 people in designing new characters for the games, though he always drew the final designs. He drew much of his inspiration from observing animals in aquariums and zoos. \n\nSugimori has also written and illustrated original manga, including one which was distributed with pre-orders of Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness. When he begins a new character, his process normally involves making a rough sketch, then tracing it on to film paper while polishing it and making the illustration more professional looking. After that, he draws the character many times, changing its proportions until he is satisfied.",
+          "siteUrl": "https://anilist.co/staff/107479"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 111749,
+          "name": {
+            "first": "Masafumi",
+            "last": "Mima",
+            "native": "三間雅文"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111749-xD6V05u2FQig.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111749-xD6V05u2FQig.png"
+          },
+          "description": "[Twitter](https://twitter.com/Sunma47) | [Wiki (jp)](https://ja.wikipedia.org/wiki/三間雅文)\n\nOne of the industry's most prolific sound directors, having worked on more than 300 productions.\n\nAfter having graduated college, Mima joined Magic Capsule, a sound production company ran by his relative [Susumu Aketagawa](https://anilist.co/staff/120062/). In 1986, he debuted as a sound director on [MD Geist](https://anilist.co/anime/1285/MD-Geist/). He left Magic Capsule in 1996, and later joined Techno Sound. In 2004, he became the studio's representative director.",
+          "siteUrl": "https://anilist.co/staff/111749"
+        }
+      },
+      {
+        "role": "Animation Supervisor",
+        "node": {
+          "id": 115532,
+          "name": {
+            "first": "Youichi",
+            "last": "Kotabe",
+            "native": "小田部羊一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115532-VmKLXiikh0vr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115532-VmKLXiikh0vr.png"
+          },
+          "description": "While studying at Tokyo University of the Arts, Kotabe was impressed by the film [The Tale of the White Serpent](https://anilist.co/anime/4513/) and the animator [Yasuji Mori](https://anilist.co/staff/103602/), and immediately applied to work at [Toei Animation](https://anilist.co/studio/18/).\n\nHis first project there was [Magic Boy](https://anilist.co/anime/4948/), the first ever anime to be released theatrically in North America. At the studio he also met [Hayao Miyazaki](https://anilist.co/staff/96870/) and [Isao Takahata](https://anilist.co/staff/100579/), with whom he later left in order to work at A Pro, and they began work on an adaptation of Pippi Longstocking. That project was eventually canceled, and work began on the two-film series [Panda! Go Panda!](https://anilist.co/anime/2611/).\n\nKotabe then worked as character designer on two highly influential series directed by Takahata: [Heidi, Girl of the Alps](https://anilist.co/anime/2225/), and [3000 Leagues in Search of Mother](https://anilist.co/anime/1663/). Miyazaki also took part working on scene design and layouts.\n\nIn 1985, he was scouted by Nintendo and assumed the position of the game development advisor. He worked at Nintendo for over two decades until leaving in 2007.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/115532"
+        }
+      },
+      {
+        "role": "Executive Producer",
+        "node": {
+          "id": 103211,
+          "name": {
+            "first": "Masakazu",
+            "last": "Kubo",
+            "native": "久保雅一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103211-PsUILAEMPJTL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103211-PsUILAEMPJTL.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/103211"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 121688,
+          "name": {
+            "first": "Hideki",
+            "last": "Sonoda",
+            "native": "園田英樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121688-QWQYhyTv10Tu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121688-QWQYhyTv10Tu.png"
+          },
+          "description": "[Twitter](https://twitter.com/sonodahideki)",
+          "siteUrl": "https://anilist.co/staff/121688"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 105247,
+          "name": {
+            "first": "Norihiro",
+            "last": "Matsubara",
+            "native": "松原徳弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Long-time employee of [OLM](https://anilist.co/studio/28/)'s.",
+          "siteUrl": "https://anilist.co/staff/105247"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 106972,
+          "name": {
+            "first": "Noriko",
+            "last": "Sakai",
+            "native": "酒井法子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11972.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11972.jpg"
+          },
+          "description": "[Website](http://norikosakai.co.jp/)\n\nNoriko Sakai is a Japanese singer and actress. Under her former stage name Nori-P, Sakai released her first single, \"Otoko no Ko ni Naritai\" on February 5, 1987, nine days short of her sixteenth birthday. Over 40,000 copies of the single were sold. She is particularly popular in Hong Kong and Taiwan. Her best-selling single to date is \"Aoi Usagi\".\n\nIn August 2009, Sakai was arrested on suspicion of possession and abuse of drugs and sentenced to probation for three years. She divorced her husband Yūichi Takasō after the incident and temporarily stayed away from the media circle. After her probation ended, she began rehearsals for the theater, and signed on with Office Nigun Niiba, as a first step towards returning to the media community. On May 1, 2021, she left Office Nigun Niiba and joined Smile.",
+          "siteUrl": "https://anilist.co/staff/106972"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100180,
+          "name": {
+            "first": "Kunihiko",
+            "last": "Yuyama",
+            "native": "湯山邦彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100180-iex6OEpSH5kG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100180-iex6OEpSH5kG.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/100180"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 103964,
+          "name": {
+            "first": "Shichirou",
+            "last": "Kobayashi",
+            "native": "小林七郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103964-1Da7Vx9y0nlo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103964-1Da7Vx9y0nlo.png"
+          },
+          "description": "[Instagram](https://www.instagram.com/shichiro_kobayashi/)\n\nA former art director and a guest professor at Kobe Design University.\n\nKobayashi graduated from Musashino Art University and first became an elementary school art teacher. It was only later that he joined the animation industry in 1964. He started quickly making a name for himself as a background artist and consequently established his own background art studio Kobayashi Production, in 1968. During this time thick poster paint was dominating the backgrounds in anime, but Kobayashi started a new style with much thinner painting and colored pencil strokes.\n\nHe has worked as an art director on over 100 titles and is one of the most distinguished art directors in the medium. Notable works include [Gamba no Bouken](https://anilist.co/anime/5267/), [Ie Naki Ko](https://anilist.co/anime/2828/), [Takarajima](https://anilist.co/anime/2618/), [Tenshi no Tamago](https://anilist.co/anime/885/), [Utena](https://anilist.co/anime/440/), [Berserk](https://anilist.co/anime/33/) and [Nodame Cantabile](https://anilist.co/anime/1698/).\n\nKobayashi retired from the industry in 2010, which was followed by his studio's closedown a year later.\n\nIn a 2015 [interview](https://youtu.be/V1tiKOsCz2M), Kobayashi talked about his life and passion in painting touring his atelier and showcasing his work.",
+          "siteUrl": "https://anilist.co/staff/103964"
+        }
+      },
+      {
+        "role": "ADR Director",
+        "node": {
+          "id": 166734,
+          "name": {
+            "first": "Daniel",
+            "last": "Nicodème",
+            "native": null
+          },
+          "language": "FRENCH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n166734-Mg8i2Unonowe.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n166734-Mg8i2Unonowe.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/166734"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 28,
+          "name": "OLM",
+          "siteUrl": "https://anilist.co/studio/28"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 2524,
+          "name": "4Kids Entertainment",
+          "siteUrl": "https://anilist.co/studio/2524"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 415,
+          "name": "Warner Bros. Japan",
+          "siteUrl": "https://anilist.co/studio/415"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 128247,
+          "rating": 2,
+          "media": {
+            "id": 4793,
+            "title": {
+              "native": "ピチューとピカチュウ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 6877,
+            "title": {
+              "native": "ぼくたちピチューブラザーズ　～パーティはおおさわぎ！のまき～"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 33
+      },
+      {
+        "score": 20,
+        "amount": 58
+      },
+      {
+        "score": 30,
+        "amount": 130
+      },
+      {
+        "score": 40,
+        "amount": 262
+      },
+      {
+        "score": 50,
+        "amount": 734
+      },
+      {
+        "score": 60,
+        "amount": 1181
+      },
+      {
+        "score": 70,
+        "amount": 1335
+      },
+      {
+        "score": 80,
+        "amount": 553
+      },
+      {
+        "score": 90,
+        "amount": 330
+      },
+      {
+        "score": 100,
+        "amount": 232
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 86
+      },
+      {
+        "status": "PLANNING",
+        "amount": 599
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 8770
+      },
+      {
+        "status": "DROPPED",
+        "amount": 85
+      },
+      {
+        "status": "PAUSED",
+        "amount": 41
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/4793",
+  "modNotes": null
+}

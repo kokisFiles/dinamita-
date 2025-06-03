@@ -1,0 +1,323 @@
+{
+  "id": 42135,
+  "idMal": 12135,
+  "title": {
+    "native": "みい子で～す！ ",
+    "romaji": "Miiko Desu!",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Miiko brings us to see how things are from the eyes of a 4th grade child. This one will be fun to read, not only for kids, but also for adults who want to remember how everything was from the child's perspective. must read! <br><br>\n(Source: fairyfly) ",
+  "startDate": {
+    "year": 1990,
+    "month": 10,
+    "day": null
+  },
+  "endDate": {
+    "year": 1991,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 40,
+  "volumes": 4,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747661857,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42135-Ebde1zGGBsBX.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42135-Ebde1zGGBsBX.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx42135-Ebde1zGGBsBX.jpg",
+    "color": "#f1bb50"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "It's Miiko!",
+    "Namaku Miiko!"
+  ],
+  "averageScore": 59,
+  "meanScore": 74,
+  "popularity": 219,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 53,
+      "name": "Shoujo",
+      "description": "Target demographic is teenage and young adult females.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 446,
+      "name": "Primarily Child Cast",
+      "description": "Main cast is mostly composed of characters below a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 50554,
+          "title": {
+            "native": "こっちむいて！みい子"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 73499,
+          "name": {
+            "first": "Tappei",
+            "last": "Eguchi",
+            "native": "江口竜平",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/73499.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/73499.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/73499"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 84049,
+          "name": {
+            "first": "Yuuko",
+            "last": "Ogawa",
+            "native": "小川ゆう子",
+            "alternative": [
+              "Yukko"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/84049.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/84049.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/84049"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 29181,
+          "name": {
+            "first": "Miiko",
+            "last": "Yamada",
+            "native": "山田みい子",
+            "alternative": [
+              "Miiko"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29181.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29181.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29181"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 69065,
+          "name": {
+            "first": "Yuka",
+            "last": "Kobayashi",
+            "native": "小林ゆか",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69065.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/69065.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/69065"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 99460,
+          "name": {
+            "first": "Eriko",
+            "last": "Ono",
+            "native": "おのえりこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99460-GhthC7WeVwQk.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99460-GhthC7WeVwQk.jpg"
+          },
+          "description": "Sometimes mistakenly known as Riko Onoe.\n\n[Twitter](https://twitter.com/marimiiko)",
+          "siteUrl": "https://anilist.co/staff/99460"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 65228,
+      "url": "https://ciao.shogakukan.co.jp/comics/title/00078/episode/4905",
+      "site": "Ciao Plus"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 24269,
+      "rank": 28,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 1990,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 24329,
+      "rank": 44,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 1990,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 133953,
+          "rating": 1,
+          "media": {
+            "id": 42135,
+            "title": {
+              "native": "みい子で～す！ "
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30018,
+            "title": {
+              "native": "こどものおもちゃ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 50,
+        "amount": 5
+      },
+      {
+        "score": 60,
+        "amount": 7
+      },
+      {
+        "score": 70,
+        "amount": 20
+      },
+      {
+        "score": 80,
+        "amount": 14
+      },
+      {
+        "score": 90,
+        "amount": 11
+      },
+      {
+        "score": 100,
+        "amount": 6
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 22
+      },
+      {
+        "status": "PLANNING",
+        "amount": 84
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 95
+      },
+      {
+        "status": "DROPPED",
+        "amount": 10
+      },
+      {
+        "status": "PAUSED",
+        "amount": 8
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/42135",
+  "modNotes": null
+}

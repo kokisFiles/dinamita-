@@ -1,0 +1,624 @@
+{
+  "id": 110419,
+  "idMal": 39674,
+  "title": {
+    "native": "ガンダムvsハローキティ",
+    "romaji": "Gundam vs Hello Kitty",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "A collaboration to celebrate the 40th anniversary of Gundam and the 45th anniversary of Hello Kitty.",
+  "startDate": {
+    "year": 2019,
+    "month": 3,
+    "day": 29
+  },
+  "endDate": {
+    "year": 2020,
+    "month": 1,
+    "day": 15
+  },
+  "season": "WINTER",
+  "seasonYear": 2019,
+  "seasonInt": 191,
+  "episodes": 3,
+  "duration": 3,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": {
+    "id": "0yCR6f5C5UQ",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/0yCR6f5C5UQ/hqdefault.jpg"
+  },
+  "updatedAt": 1748861812,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110419-cXl0m924Yrz1.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110419-cXl0m924Yrz1.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx110419-cXl0m924Yrz1.jpg",
+    "color": "#e45078"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Mecha"
+  ],
+  "synonyms": [],
+  "averageScore": 64,
+  "meanScore": 65,
+  "popularity": 4063,
+  "favourites": 35,
+  "tags": [
+    {
+      "id": 158,
+      "name": "Crossover",
+      "description": "Centers around the placement of two or more otherwise discrete fictional characters, settings, or universes into the context of a single story.",
+      "category": "Theme-Other",
+      "rank": 94,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 88,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 159,
+      "name": "Super Robot",
+      "description": "Prominently features large robots often piloted by hot-blooded protagonists.",
+      "category": "Theme-Sci-Fi-Mecha",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 63,
+      "name": "Space",
+      "description": "Partly or completely set in outer space.",
+      "category": "Setting-Universe",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 157,
+      "name": "Guns",
+      "description": "Prominently features the use of guns in combat.",
+      "category": "Theme-Action",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 244,
+      "name": "Isekai",
+      "description": "Features characters being transported into an alternate world setting and having to adapt to their new surroundings.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 391,
+      "name": "Philosophy",
+      "description": "Relating or devoted to the study of the fundamental nature of knowledge, reality, and existence.",
+      "category": "Theme-Other",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 505,
+      "name": "Advertisement",
+      "description": "Produced in order to promote the products of a certain company.",
+      "category": "Technical",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 111,
+      "name": "War",
+      "description": "Partly or completely set during wartime.",
+      "category": "Theme-Other",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 65,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 80,
+          "title": {
+            "native": "機動戦士ガンダム"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 4024,
+          "title": {
+            "native": "サンリオ・アニメ世界名作劇場"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7312,
+          "name": {
+            "first": "Kitty",
+            "last": "White",
+            "native": "キティ・ホワイト",
+            "alternative": [
+              "Hello Kitty (ハローキティ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7312-6WxhtT4XOPNF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7312-6WxhtT4XOPNF.png"
+          },
+          "siteUrl": "https://anilist.co/character/7312"
+        },
+        "voiceActors": [
+          {
+            "id": 95014,
+            "name": {
+              "first": "Megumi",
+              "last": "Hayashibara",
+              "native": "林原めぐみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95014-tFYQYYhlVOF0.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95014-tFYQYYhlVOF0.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95014"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1340,
+          "name": {
+            "first": "Haro",
+            "last": null,
+            "native": "ハロ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1340-o4bQN75dH1CL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1340-o4bQN75dH1CL.png"
+          },
+          "siteUrl": "https://anilist.co/character/1340"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1335,
+          "name": {
+            "first": "Amuro",
+            "last": "Ray",
+            "native": "アムロ・レイ",
+            "alternative": [
+              "White Devil",
+              "White Unicorn",
+              "White Shooting Star"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1335-uzT1UsLOu3nE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1335-uzT1UsLOu3nE.png"
+          },
+          "siteUrl": "https://anilist.co/character/1335"
+        },
+        "voiceActors": [
+          {
+            "id": 95326,
+            "name": {
+              "first": "Tooru",
+              "last": "Furuya",
+              "native": "古谷徹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95326-OfRv2DBnFVZU.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95326-OfRv2DBnFVZU.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95326"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 144518,
+          "name": {
+            "first": "Sadayoshi",
+            "last": "Fujino",
+            "native": "藤野貞義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144518-T0nNmXtCdoNh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n144518-T0nNmXtCdoNh.jpg"
+          },
+          "description": "Fujino Sadayoshi is a sound director working for Cruise. He has mostly worked on anime shows produced by Sunrise and Nippon Animation. He was married to actress and voice actress [Fujii Kayoko](https://anilist.co/staff/105105/Kayoko-Fujii). ",
+          "siteUrl": "https://anilist.co/staff/144518"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 176752,
+          "name": {
+            "first": "Ga-Hui",
+            "last": "Im",
+            "native": "임가희"
+          },
+          "language": "KOREAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n176752-0j8AzIt9iBbK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n176752-0j8AzIt9iBbK.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/l_kahee)",
+          "siteUrl": "https://anilist.co/staff/176752"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 142140,
+          "name": {
+            "first": "Yuuki",
+            "last": "Kawashita",
+            "native": "川下裕樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142140-WimsyCOAcoYv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n142140-WimsyCOAcoYv.png"
+          },
+          "description": "[Twitter](https://twitter.com/Kawasi_Y)\n\nAffiliated with Madbox.",
+          "siteUrl": "https://anilist.co/staff/142140"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 186574,
+          "name": {
+            "first": "Masakazu",
+            "last": "Yamagishi",
+            "native": "山岸正和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/186574"
+        }
+      },
+      {
+        "role": "Sound Effects",
+        "node": {
+          "id": 128839,
+          "name": {
+            "first": "Mutsuhiro",
+            "last": "Nishimura",
+            "native": "西村睦弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128839-U4PhDg7aT4je.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n128839-U4PhDg7aT4je.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/128839"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 97965,
+          "name": {
+            "first": "Tsukasa",
+            "last": "Kotobuki",
+            "native": "ことぶきつかさ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97965-KyfY2qfAxKF2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97965-KyfY2qfAxKF2.png"
+          },
+          "description": "__[Twitter](https://twitter.com/t_kotobuki)__",
+          "siteUrl": "https://anilist.co/staff/97965"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 152751,
+          "name": {
+            "first": "Naoki",
+            "last": "Yamamura",
+            "native": "山村直己"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with [Sunrise](https://anilist.co/studio/14/Sunrise).",
+          "siteUrl": "https://anilist.co/staff/152751"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 111457,
+          "name": {
+            "first": "Yuuji",
+            "last": "Kaneko",
+            "native": "金子雄司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111457-uIBrQSzAppG9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111457-uIBrQSzAppG9.png"
+          },
+          "description": "[Twitter](https://twitter.com/yujikaneko)\n\nFounder and representative director of Aoshashin.",
+          "siteUrl": "https://anilist.co/staff/111457"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 159229,
+          "name": {
+            "first": "Kazuhiro",
+            "last": "Nii",
+            "native": "新居和弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/159229"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 102468,
+          "name": {
+            "first": "Nagisa",
+            "last": "Abe",
+            "native": "安部なぎさ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102468-V8x00jvGOjzJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102468-V8x00jvGOjzJ.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/1119032840736296960)",
+          "siteUrl": "https://anilist.co/staff/102468"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 176752,
+          "name": {
+            "first": "Ga-Hui",
+            "last": "Im",
+            "native": "임가희"
+          },
+          "language": "KOREAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n176752-0j8AzIt9iBbK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n176752-0j8AzIt9iBbK.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/l_kahee)",
+          "siteUrl": "https://anilist.co/staff/176752"
+        }
+      },
+      {
+        "role": "Insert Song Performance",
+        "node": {
+          "id": 250227,
+          "name": {
+            "first": "Daisuke",
+            "last": "Inoue",
+            "native": "井上大輔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n250227-AkSra7dsOFgo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n250227-AkSra7dsOFgo.png"
+          },
+          "description": "Daisuke Inoue is a japanese pop singer and compositor known for Mobile Suit Gundam Movie songs. Daisuke graduated from  Nihon University Toyoyama High School and Nihon University College of Art, where he studied with [Yoshiyuki Tomino](https://anilist.co/staff/97337/Yoshiyuki-Tomino). Previously in his life, his true name was Tadao Inoue but he changed it to Daisuke Inoue in 1981. ",
+          "siteUrl": "https://anilist.co/staff/250227"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 150,
+          "name": "Sanrio",
+          "siteUrl": "https://anilist.co/studio/150"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 14,
+          "name": "Sunrise",
+          "siteUrl": "https://anilist.co/studio/14"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 10566,
+      "url": "https://www.gundamvskitty.com/",
+      "site": "Official Site"
+    },
+    {
+      "id": 10567,
+      "url": "https://twitter.com/gundamvskitty",
+      "site": "Twitter"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22881,
+      "rank": 28,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 43
+      },
+      {
+        "score": 20,
+        "amount": 43
+      },
+      {
+        "score": 30,
+        "amount": 81
+      },
+      {
+        "score": 40,
+        "amount": 101
+      },
+      {
+        "score": 50,
+        "amount": 263
+      },
+      {
+        "score": 60,
+        "amount": 361
+      },
+      {
+        "score": 70,
+        "amount": 272
+      },
+      {
+        "score": 80,
+        "amount": 134
+      },
+      {
+        "score": 90,
+        "amount": 129
+      },
+      {
+        "score": 100,
+        "amount": 305
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 107
+      },
+      {
+        "status": "PLANNING",
+        "amount": 954
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2893
+      },
+      {
+        "status": "DROPPED",
+        "amount": 60
+      },
+      {
+        "status": "PAUSED",
+        "amount": 49
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/110419",
+  "modNotes": null
+}

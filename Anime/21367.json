@@ -1,0 +1,654 @@
+{
+  "id": 21367,
+  "idMal": 31640,
+  "title": {
+    "native": "ふうせんいぬティニー 第2シリーズ",
+    "romaji": "Fuusen Inu Tinny 2nd Season",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "Follows a dog and his friends who wear balloons and explore a kingdom in the clouds.",
+  "startDate": {
+    "year": 2015,
+    "month": 9,
+    "day": 25
+  },
+  "endDate": {
+    "year": 2016,
+    "month": 3,
+    "day": 25
+  },
+  "season": "FALL",
+  "seasonYear": 2015,
+  "seasonInt": 154,
+  "episodes": 26,
+  "duration": 5,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748796500,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21367-m1r4Ow3N8Acw.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21367-m1r4Ow3N8Acw.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21367-m1r4Ow3N8Acw.png",
+    "color": "#e4ae0d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure"
+  ],
+  "synonyms": [
+    "Balloon Dog Tinny 2nd Season"
+  ],
+  "averageScore": null,
+  "meanScore": 43,
+  "popularity": 145,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1601,
+      "name": "Primarily Animal Cast",
+      "description": "Main cast is mostly composed animal or animal-like characters.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 20865,
+          "title": {
+            "native": "ふうせんいぬティニー"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 115345,
+          "title": {
+            "native": "ふうせんいぬティニー なんだかふしぎなきょうりゅうのくに！"
+          }
+        },
+        "relationType": "OTHER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 346586,
+          "name": {
+            "first": "Tinny",
+            "last": null,
+            "native": "ティニー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b346586-XkSZuifDlzoF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b346586-XkSZuifDlzoF.png"
+          },
+          "siteUrl": "https://anilist.co/character/346586"
+        },
+        "voiceActors": [
+          {
+            "id": 95539,
+            "name": {
+              "first": "Yumiko",
+              "last": "Kobayashi",
+              "native": "小林由美子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95539-vFLypMio70hC.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95539-vFLypMio70hC.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95539"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 346588,
+          "name": {
+            "first": "Piggy",
+            "last": null,
+            "native": "ピギー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b346588-5cBaZqq8tGaR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b346588-5cBaZqq8tGaR.png"
+          },
+          "siteUrl": "https://anilist.co/character/346588"
+        },
+        "voiceActors": [
+          {
+            "id": 95048,
+            "name": {
+              "first": "Fumie",
+              "last": "Mizusawa",
+              "native": "水沢史絵"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95048-JO5aLRIedGxl.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95048-JO5aLRIedGxl.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95048"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 346587,
+          "name": {
+            "first": "Lyeon",
+            "last": null,
+            "native": "リオン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b346587-Yvqj1tGPj1UC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b346587-Yvqj1tGPj1UC.png"
+          },
+          "siteUrl": "https://anilist.co/character/346587"
+        },
+        "voiceActors": [
+          {
+            "id": 96818,
+            "name": {
+              "first": "Shintarou",
+              "last": "Oohata",
+              "native": "大畑伸太郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96818-yAH3Krh7Y7Uy.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96818-yAH3Krh7Y7Uy.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96818"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 36309,
+          "name": {
+            "first": "Narrator",
+            "last": null,
+            "native": "ナレーター",
+            "alternative": [
+              "語り手",
+              "ナレーション",
+              "Narrador",
+              "Rozprávač",
+              "Vyprávěč",
+              "Dış ses",
+              "Narratore",
+              "Pripovjedač",
+              "Narradora",
+              "Рассказчик",
+              "Người dẫn chuyện",
+              "Tagapagsalaysay",
+              "내레이터",
+              "Narratore",
+              "Erzählperson",
+              "מספר",
+              "Narrátor",
+              "讲述人",
+              "راوي",
+              "Forteller",
+              "Berättare",
+              "Αφηγητής",
+              "Narrateur",
+              "なれーしょん",
+              "旁白",
+              "Narrato"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36309"
+        },
+        "voiceActors": [
+          {
+            "id": 95011,
+            "name": {
+              "first": "Kouichi",
+              "last": "Yamadera",
+              "native": "山寺宏一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95011-2RfLzncNyvbR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95011"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 346583,
+          "name": {
+            "first": "Gwinn",
+            "last": null,
+            "native": "ギン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b346583-uLPsvT5wyTgf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b346583-uLPsvT5wyTgf.png"
+          },
+          "siteUrl": "https://anilist.co/character/346583"
+        },
+        "voiceActors": [
+          {
+            "id": 95061,
+            "name": {
+              "first": "Chiwa",
+              "last": "Saitou",
+              "native": "斎藤千和"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-R8YSAYX7UFCO.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95061-R8YSAYX7UFCO.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95061"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 346585,
+          "name": {
+            "first": "Rabby",
+            "last": null,
+            "native": "ラビィ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b346585-kopllmO3T17B.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b346585-kopllmO3T17B.png"
+          },
+          "siteUrl": "https://anilist.co/character/346585"
+        },
+        "voiceActors": [
+          {
+            "id": 95207,
+            "name": {
+              "first": "Misato",
+              "last": "Fukuen",
+              "native": "福圓美里"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95207-TYPMa0JKUDAf.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95207-TYPMa0JKUDAf.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95207"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 346584,
+          "name": {
+            "first": "Penny",
+            "last": null,
+            "native": "ペン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b346584-0l2UyLijNl8z.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b346584-0l2UyLijNl8z.png"
+          },
+          "siteUrl": "https://anilist.co/character/346584"
+        },
+        "voiceActors": [
+          {
+            "id": 95061,
+            "name": {
+              "first": "Chiwa",
+              "last": "Saitou",
+              "native": "斎藤千和"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-R8YSAYX7UFCO.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95061-R8YSAYX7UFCO.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95061"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 131615,
+          "name": {
+            "first": "Genki",
+            "last": "Kawamura",
+            "native": "川村元気"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131615-Gxnjc7sYRHIM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n131615-Gxnjc7sYRHIM.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/784323932)",
+          "siteUrl": "https://anilist.co/staff/131615"
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (ED)",
+        "node": {
+          "id": 315834,
+          "name": {
+            "first": "Miyu",
+            "last": "Hachisu",
+            "native": "蜂須みゆ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n315834-YKrhHRcOMJQd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n315834-YKrhHRcOMJQd.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/315834"
+        }
+      },
+      {
+        "role": "Theme Song Lyrics (OP)",
+        "node": {
+          "id": 131615,
+          "name": {
+            "first": "Genki",
+            "last": "Kawamura",
+            "native": "川村元気"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131615-Gxnjc7sYRHIM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n131615-Gxnjc7sYRHIM.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/784323932)",
+          "siteUrl": "https://anilist.co/staff/131615"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 106404,
+          "name": {
+            "first": "Sumire",
+            "last": "Morohoshi",
+            "native": "諸星すみれ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106404-uodatsBbsnJh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106404-uodatsBbsnJh.png"
+          },
+          "description": "__Agency:__ Gekidan Himawari\n\n[Profile](https://profile.himawari.net/view/1622) | [Twitter](https://twitter.com/smileysuu) | [Instagram](https://www.instagram.com/sumire&#95;&#95;morohoshi/) | [YouTube](https://youtube.com/channel/UCTlieWyDS62ZGG3yMFswS5g) | [Wiki (en)](https://en.wikipedia.org/wiki/Sumire_Morohoshi) | [Wiki (jp)](https://ja.wikipedia.org/wiki/%E8%AB%B8%E6%98%9F%E3%81%99%E3%81%BF%E3%82%8C)\n\nSumire Morohoshi is a Japanese actress, voice actress and singer from Kanagawa Prefecture. She is affiliated with Himawari Theatre Group, and debuted as a solo singer under the record label Flying Dog.\n\n**Non-Anime Roles**:\n- Pela - Honkai: Star Rail (VG)\n- Yuni - Goddess of Victory: Nikke (VG)\n- Product 08 - Goddess of Victory: Nikke (VG)\n- Gallica - Metaphor: ReFantazio (VG)\n- Yaiyai Yarucar - Bakuage Sentai Boonboomger (TV Series)",
+          "siteUrl": "https://anilist.co/staff/106404"
+        }
+      },
+      {
+        "role": "Theme Song Composition (OP)",
+        "node": {
+          "id": 315834,
+          "name": {
+            "first": "Miyu",
+            "last": "Hachisu",
+            "native": "蜂須みゆ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n315834-YKrhHRcOMJQd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n315834-YKrhHRcOMJQd.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/315834"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 160082,
+          "name": {
+            "first": "Kenjirou",
+            "last": "Sano",
+            "native": "佐野研二郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n160082-CWwC1PHT4NGx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n160082-CWwC1PHT4NGx.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/160082"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 160077,
+          "name": {
+            "first": "Daiki",
+            "last": "Inaba",
+            "native": "稲葉大樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n160077-dZn6IEE4pauP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n160077-dZn6IEE4pauP.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/160077"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 118493,
+          "name": {
+            "first": "Kimiko",
+            "last": "Ueno",
+            "native": "うえのきみこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118493-zaypQQMzsi1m.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118493-zaypQQMzsi1m.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/うえのきみこ)",
+          "siteUrl": "https://anilist.co/staff/118493"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 160083,
+          "name": {
+            "first": "Shojirou",
+            "last": "Nakaoka",
+            "native": "中岡将二郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Website](https://www.shojironakaoka.com/) | [Twitter](https://twitter.com/shojironakaoka)",
+          "siteUrl": "https://anilist.co/staff/160083"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6062,
+          "name": "STEVE N' STEVEN",
+          "siteUrl": "https://anilist.co/studio/6062"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 1985,
+      "url": "https://tinnyballoon.com/",
+      "site": "Official Site"
+    },
+    {
+      "id": 107422,
+      "url": "https://www.youtube.com/@ふうせんいぬティニー-d3q",
+      "site": "YouTube"
+    },
+    {
+      "id": 107423,
+      "url": "https://www.facebook.com/tinnyballoon/",
+      "site": "Facebook"
+    },
+    {
+      "id": 107424,
+      "url": "https://www.instagram.com/tinnyballoon/",
+      "site": "Instagram"
+    },
+    {
+      "id": 107425,
+      "url": "https://x.com/tinnyballoon",
+      "site": "Twitter"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 13497,
+      "rank": 23,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2015,
+      "season": "FALL",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 5
+      },
+      {
+        "score": 60,
+        "amount": 4
+      },
+      {
+        "score": 70,
+        "amount": 3
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 15
+      },
+      {
+        "status": "PLANNING",
+        "amount": 43
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 58
+      },
+      {
+        "status": "DROPPED",
+        "amount": 26
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/21367",
+  "modNotes": null
+}

@@ -1,0 +1,203 @@
+{
+  "id": 45428,
+  "idMal": 15428,
+  "title": {
+    "native": "リン",
+    "romaji": "Rin",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": " ",
+  "startDate": {
+    "year": 2005,
+    "month": 8,
+    "day": 10
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 10,
+    "day": 17
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": 4,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748736291,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45428-Un5ZSh1XYeel.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45428-Un5ZSh1XYeel.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx45428-Un5ZSh1XYeel.jpg",
+    "color": "#e45d6b"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Drama",
+    "Sports"
+  ],
+  "synonyms": [
+    "The Most Elegant of Champions"
+  ],
+  "averageScore": null,
+  "meanScore": 81,
+  "popularity": 183,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 45427,
+          "title": {
+            "native": "シュガー"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 258897,
+          "name": {
+            "first": "Rin",
+            "last": "Ichikawa",
+            "native": "石川凛",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b258897-d7we8fgwev9o.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b258897-d7we8fgwev9o.png"
+          },
+          "siteUrl": "https://anilist.co/character/258897"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 98035,
+          "name": {
+            "first": "Hideki",
+            "last": "Arai",
+            "native": "新井英樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98035-nLUrhesj2TzY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98035-nLUrhesj2TzY.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/arai_h_official) | [Wiki (jp)](https://ja.wikipedia.org/wiki/新井英樹)\n\nAfter studying at Meiji University, he worked at an office supplies company for a year while focusing on his passion for drawing. His manga The World is Mine was chosen by the editors of Pulp for their Manga Hell list of controversial manga. He is married to the mangaka [Kiwa Irie](https://anilist.co/staff/149869/Kiwa-Irie).",
+          "siteUrl": "https://anilist.co/staff/98035"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 107321,
+          "rating": 2,
+          "media": {
+            "id": 45428,
+            "title": {
+              "native": "リン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 45427,
+            "title": {
+              "native": "シュガー"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 2
+      },
+      {
+        "score": 80,
+        "amount": 3
+      },
+      {
+        "score": 90,
+        "amount": 5
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 5
+      },
+      {
+        "status": "PLANNING",
+        "amount": 154
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 23
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/45428",
+  "modNotes": null
+}

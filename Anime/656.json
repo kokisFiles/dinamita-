@@ -1,0 +1,917 @@
+{
+  "id": 656,
+  "idMal": 656,
+  "title": {
+    "native": "AIR イン サマー",
+    "romaji": "AIR in Summer",
+    "english": "Air in Summer"
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "An extension of the summer-arc in the Air TV-series, showing more of what happened during Kanna's, Ryuya's and Uraha's journey to find Kanna's mother.",
+  "startDate": {
+    "year": 2005,
+    "month": 8,
+    "day": 28
+  },
+  "endDate": {
+    "year": 2005,
+    "month": 9,
+    "day": 4
+  },
+  "season": "SUMMER",
+  "seasonYear": 2005,
+  "seasonInt": 53,
+  "episodes": 2,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VISUAL_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748885655,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/656.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/656.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/656.jpg",
+    "color": "#289393"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/656-6lTE6rxaVO1T.jpg",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "Air in Summer Special"
+  ],
+  "averageScore": 68,
+  "meanScore": 69,
+  "popularity": 7893,
+  "favourites": 31,
+  "tags": [
+    {
+      "id": 25,
+      "name": "Historical",
+      "description": "Partly or completely set during a real period of world history.",
+      "category": "Setting-Time",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1045,
+      "name": "Heterosexual",
+      "description": "Prominently features a romance between a man and a woman, not inherently sexual.",
+      "category": "Theme-Romance",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 291,
+      "name": "Samurai",
+      "description": "Prominently features warriors of medieval Japanese nobility bound by a code of honor.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 111,
+      "name": "War",
+      "description": "Partly or completely set during wartime.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 164,
+      "name": "Tsundere",
+      "description": "Prominently features a character who acts cold and hostile in order to mask warmer emotions.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 779,
+      "name": "Kuudere",
+      "description": "Prominently features a character who generally retains a cold, blunt and cynical exterior, but once one gets to know them, they have a very warm and loving interior.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 86,
+      "name": "Primarily Female Cast",
+      "description": "Main cast is mostly composed of female characters.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 109,
+      "name": "Primarily Adult Cast",
+      "description": "Main cast is mostly composed of characters above a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1760,
+      "name": "Wilderness",
+      "description": "Predominantly features a location with little to no human activity, such as a deserted island, a jungle, or a snowy mountain range.",
+      "category": "Setting-Scene",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 101,
+          "title": {
+            "native": "AIR"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 132528,
+          "title": {
+            "native": "かぎなど"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 143150,
+          "title": {
+            "native": "かぎなど シーズン２"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 389,
+          "name": {
+            "first": "Ryuuya",
+            "last": null,
+            "native": "柳也",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b389-RnphvvZusuns.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b389-RnphvvZusuns.png"
+          },
+          "siteUrl": "https://anilist.co/character/389"
+        },
+        "voiceActors": [
+          {
+            "id": 95096,
+            "name": {
+              "first": "Nobutoshi",
+              "last": "Kanna",
+              "native": "神奈延年"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95096-7XONtZWj5lIw.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95096-7XONtZWj5lIw.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95096"
+          },
+          {
+            "id": 95061,
+            "name": {
+              "first": "Chiwa",
+              "last": "Saitou",
+              "native": "斎藤千和"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-R8YSAYX7UFCO.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95061-R8YSAYX7UFCO.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95061"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 388,
+          "name": {
+            "first": "Uraha",
+            "last": null,
+            "native": "裏葉",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b388-3F9x3CsI5siF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b388-3F9x3CsI5siF.png"
+          },
+          "siteUrl": "https://anilist.co/character/388"
+        },
+        "voiceActors": [
+          {
+            "id": 95195,
+            "name": {
+              "first": "Kikuko",
+              "last": "Inoue",
+              "native": "井上喜久子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95195-nLvtZl5sCK0D.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95195"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 387,
+          "name": {
+            "first": "Kanna",
+            "last": null,
+            "native": "神奈備命",
+            "alternative": [
+              "Kannabi no Mikoto"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b387-HlnHkQQoL3ct.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b387-HlnHkQQoL3ct.png"
+          },
+          "siteUrl": "https://anilist.co/character/387"
+        },
+        "voiceActors": [
+          {
+            "id": 95553,
+            "name": {
+              "first": "Chinami",
+              "last": "Nishimura",
+              "native": "西村ちなみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95553-m1IIC7sNSQ2h.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95553-m1IIC7sNSQ2h.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95553"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97885,
+          "name": {
+            "first": "",
+            "last": "Key",
+            "native": "Key"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2885.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2885.jpg"
+          },
+          "description": "Key is a Japanese visual novel studio. It is known for making dramatic and plot-oriented visual novels. Some of their most famous works include CLANNAD, planetarian, and Little Busters!, among others. Several of their visual novels have received anime adaptations, making them quite well-known even outside of the visual novel community.\n\nThey've also formed Key Sounds Label for their music tracks, and they produced an Internet radio show called Key Net Radio which is now defunct as of 2010. Key works under the publishing company Visual Arts, where it originally sprung out of.",
+          "siteUrl": "https://anilist.co/staff/97885"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100055,
+          "name": {
+            "first": "Tatsuya",
+            "last": "Ishihara",
+            "native": "石原立也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100055-nZQ0hBIYNwW0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100055-nZQ0hBIYNwW0.png"
+          },
+          "description": "A prominent director and a key member of [Kyoto Animation](https://anilist.co/studio/2/).\n\nAfter graduating from Osaka Designers' College in the late '80s, Ishihara joined Kyoto Animation and began his career as an animator. In 1991, he made his debut as a director with [Shiawasette Naani](https://anilist.co/anime/13441/). After that, he switched his focus to directing. Back then Kyoto Animation was still a sub-contracting studio, so therefore Ishihara could only get a handful of opportunities directing. Some of the shows in which Ishihara got to direct multiple episodes were [Tenchi Muyou!](https://anilist.co/anime/696/), [Aka-chan to Boku](https://anilist.co/anime/1485/), [Hyper Police](https://anilist.co/anime/1180/), and [Inuyasha](https://anilist.co/anime/249/). He also storyboarded the majority of the episodes he directed.\n\nIn 2003, Kyoto Animation started their transformation into a full-fledged animation studio producing their first anime series, [Fullmetal Panic? Fumoffu](https://anilist.co/anime/72/). Ishihara directed and storyboarded the 7th episode of the show. Two years later in 2005, he made his proper directorial debut directing the studio's second TV show, [Air](https://anilist.co/anime/101/). The following year he directed the award winning anime series, [The Melancholy of Haruhi Suzumiya](https://anilist.co/anime/849/). From here Ishihara has gone on to direct multiple of Kyoto Animation's acclaimed works.",
+          "siteUrl": "https://anilist.co/staff/100055"
+        }
+      },
+      {
+        "role": "Episode Director",
+        "node": {
+          "id": 100055,
+          "name": {
+            "first": "Tatsuya",
+            "last": "Ishihara",
+            "native": "石原立也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100055-nZQ0hBIYNwW0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100055-nZQ0hBIYNwW0.png"
+          },
+          "description": "A prominent director and a key member of [Kyoto Animation](https://anilist.co/studio/2/).\n\nAfter graduating from Osaka Designers' College in the late '80s, Ishihara joined Kyoto Animation and began his career as an animator. In 1991, he made his debut as a director with [Shiawasette Naani](https://anilist.co/anime/13441/). After that, he switched his focus to directing. Back then Kyoto Animation was still a sub-contracting studio, so therefore Ishihara could only get a handful of opportunities directing. Some of the shows in which Ishihara got to direct multiple episodes were [Tenchi Muyou!](https://anilist.co/anime/696/), [Aka-chan to Boku](https://anilist.co/anime/1485/), [Hyper Police](https://anilist.co/anime/1180/), and [Inuyasha](https://anilist.co/anime/249/). He also storyboarded the majority of the episodes he directed.\n\nIn 2003, Kyoto Animation started their transformation into a full-fledged animation studio producing their first anime series, [Fullmetal Panic? Fumoffu](https://anilist.co/anime/72/). Ishihara directed and storyboarded the 7th episode of the show. Two years later in 2005, he made his proper directorial debut directing the studio's second TV show, [Air](https://anilist.co/anime/101/). The following year he directed the award winning anime series, [The Melancholy of Haruhi Suzumiya](https://anilist.co/anime/849/). From here Ishihara has gone on to direct multiple of Kyoto Animation's acclaimed works.",
+          "siteUrl": "https://anilist.co/staff/100055"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 100055,
+          "name": {
+            "first": "Tatsuya",
+            "last": "Ishihara",
+            "native": "石原立也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100055-nZQ0hBIYNwW0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100055-nZQ0hBIYNwW0.png"
+          },
+          "description": "A prominent director and a key member of [Kyoto Animation](https://anilist.co/studio/2/).\n\nAfter graduating from Osaka Designers' College in the late '80s, Ishihara joined Kyoto Animation and began his career as an animator. In 1991, he made his debut as a director with [Shiawasette Naani](https://anilist.co/anime/13441/). After that, he switched his focus to directing. Back then Kyoto Animation was still a sub-contracting studio, so therefore Ishihara could only get a handful of opportunities directing. Some of the shows in which Ishihara got to direct multiple episodes were [Tenchi Muyou!](https://anilist.co/anime/696/), [Aka-chan to Boku](https://anilist.co/anime/1485/), [Hyper Police](https://anilist.co/anime/1180/), and [Inuyasha](https://anilist.co/anime/249/). He also storyboarded the majority of the episodes he directed.\n\nIn 2003, Kyoto Animation started their transformation into a full-fledged animation studio producing their first anime series, [Fullmetal Panic? Fumoffu](https://anilist.co/anime/72/). Ishihara directed and storyboarded the 7th episode of the show. Two years later in 2005, he made his proper directorial debut directing the studio's second TV show, [Air](https://anilist.co/anime/101/). The following year he directed the award winning anime series, [The Melancholy of Haruhi Suzumiya](https://anilist.co/anime/849/). From here Ishihara has gone on to direct multiple of Kyoto Animation's acclaimed works.",
+          "siteUrl": "https://anilist.co/staff/100055"
+        }
+      },
+      {
+        "role": "Theme Song Composition",
+        "node": {
+          "id": 100347,
+          "name": {
+            "first": "Shinji",
+            "last": "Orito",
+            "native": "折戸伸治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5347-AU9gUmXaPkNu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5347-AU9gUmXaPkNu.jpg"
+          },
+          "description": "Musical composer, widely known for his work in Air TV, Kanon, Clannad, Little Busters, and other Key pieces.",
+          "siteUrl": "https://anilist.co/staff/100347"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 100347,
+          "name": {
+            "first": "Shinji",
+            "last": "Orito",
+            "native": "折戸伸治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5347-AU9gUmXaPkNu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5347-AU9gUmXaPkNu.jpg"
+          },
+          "description": "Musical composer, widely known for his work in Air TV, Kanon, Clannad, Little Busters, and other Key pieces.",
+          "siteUrl": "https://anilist.co/staff/100347"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 100671,
+          "name": {
+            "first": "Itaru",
+            "last": "Hinoue",
+            "native": "樋上いたる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100671-v5SVcdIVQsNF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100671-v5SVcdIVQsNF.png"
+          },
+          "description": "[Twitter](https://twitter.com/hinoueitaru) | [Website](https://hinoueitaru.com/)\nArtist for various bishoujo games, mainly Key.",
+          "siteUrl": "https://anilist.co/staff/100671"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 101513,
+          "name": {
+            "first": "Lia",
+            "last": "",
+            "native": "リア"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101513-PsVRqrcRuT75.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101513-PsVRqrcRuT75.png"
+          },
+          "description": "[Official Website](https://lia-music.jp/) | [Twitter](https://x.com/Liabobo3) | [Instagram](https://www.instagram.com/lia_vocalist/?hl=en)\n\nShe is affiliated with the group, Veil.  Sampling voice for Vocaloid, [IA](https://anilist.co/staff/124349/IA)",
+          "siteUrl": "https://anilist.co/staff/101513"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 102194,
+          "name": {
+            "first": "Youta",
+            "last": "Tsuruoka",
+            "native": "鶴岡陽太"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102194-sNl1LjAzgxNe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102194-sNl1LjAzgxNe.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/鶴岡陽太)\n\nFounder and representative director of [Rakuonsha](https://anilist.co/studio/211/).",
+          "siteUrl": "https://anilist.co/staff/102194"
+        }
+      },
+      {
+        "role": "Key Animation (OP)",
+        "node": {
+          "id": 102497,
+          "name": {
+            "first": "Yukiko",
+            "last": "Horiguchi",
+            "native": "堀口悠紀子 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7497.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/7497.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/dochibibi)\n\n<b>Yukiko Horiguchi</b> is an animator, illustrator and character designer formerly belonging to Kyoto Animation.\n\nShe joined Kyoto Animation in 2003 after graduating from a junior college (tanki daigaku). She started as inbetweener on Shin-Chan, before making a debut as key animator on the KyoAni in-house OVA Munto. In 2007 she was given the chance to design characters for the anime adaptation of the Lucky Star yon-koma manga.\n\nHoriguchi is particularly known for the shape she gives her drawings, resulting in a certain roundness and the distinctly fine outline and peculiar shading. Her characters appear to be very child-like and cute, and full of energy, which is a major appeal to the fans.\n\nThe illustrator [BUNBUN](https://anilist.co/staff/112785) is her younger brother.",
+          "siteUrl": "https://anilist.co/staff/102497"
+        }
+      },
+      {
+        "role": "Executive Producer (English; ADV)",
+        "node": {
+          "id": 102621,
+          "name": {
+            "first": "John",
+            "last": "Ledford",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7621.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/7621.jpg"
+          },
+          "description": "John Ledford is an entrepreneur and leader in the North American anime industry. In 1992, he founded A.D. Vision (ADV), paving the way for other businesses and the exponential growth anime has had within North America. With ADV's success, Ledford turned his sights to making the imaginative world of anime even more accessible with Anime Network's founding, North America’s first cable TV network dedicated to anime. He later partnered with Kadokawa Publishing and began Newtype USA with translated Japanese content and exclusive U.S. material related to all things anime, manga, and model reviews. This endeavor expanded into ADV Manga, which obtained licensing and publishing rights for hundreds of Japanese manga and Korean manhwa.\n\nIn 2008, Ledford founded a new anime-focused company called Sentai Filmworks (Sentai). Since its founding, Sentai provides thousands of hours of content across traditional and digital platforms. Sentai’s dedication to bringing captivating stories, including acclaimed titles such as Grave of the Fireflies, Ninja Scroll, and High School of the Dead to audiences, is ongoing.\n\nLedford’s most recent success is with the 2017 founding of the streaming service HIDIVE. Since launching, HIDIVE is now available via a web browser, mobile devices, gaming platforms, and more. HIDIVE offers new simulcasts every season, an ever-growing collection of dubs, and exclusive titles. The service features DUBCAST SM editions, early access local-language dubs of simulcasts directly produced by HIDIVE, as early as two weeks after the original Japanese broadcast.\n\nFor nearly thirty years now, Ledford continues his goal to further the expansion of anime and the Japanese culture as a whole.",
+          "siteUrl": "https://anilist.co/staff/102621"
+        }
+      },
+      {
+        "role": "Key Animation (OP)",
+        "node": {
+          "id": 102724,
+          "name": {
+            "first": "Kazumi",
+            "last": "Ikeda",
+            "native": "池田和美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102724-wfKOpfenxcLL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102724-wfKOpfenxcLL.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/池田和美)\n\nKazumi Ikeda is a Japanese animator and character designer currently affiliated with [Kyoto Animation](https://anilist.co/studio/2/). She joined KyoAni in 1995 after graduating from Yoyogi Animation Gakuin and transferred to the studio's Osaka branch [Animation Do](https://anilist.co/studio/929/Animation-Do) when it was established in 2000.\n\nShe is best known for doing the character designs in KyoAni's anime adaptations of Key's most prominent visual novels, [Kanon](https://anilist.co/anime/1530/Kanon-2006/) and [Clannad](https://anilist.co/anime/2167/Clannad/), marking also her debut as chief animation director on the Kanon remake.\n\nShe has no blood relationship with late [Shouko Ikeda](https://anilist.co/staff/102736/).",
+          "siteUrl": "https://anilist.co/staff/102724"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 103067,
+          "name": {
+            "first": "Fumihiko",
+            "last": "Shimo",
+            "native": "志茂文彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103067-cOr24JB3Tyms.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103067-cOr24JB3Tyms.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/志茂文彦) | [Wiki (en)](https://en.wikipedia.org/wiki/Fumihiko_Shimo)\n\nNoted for writing the scripts for Kyoto Animation's anime adaptations of Key visual novels.\n\nBegan his career as a production assistant on [Grave of the Fireflies](https://anilist.co/anime/578/), but switched to writing right after.",
+          "siteUrl": "https://anilist.co/staff/103067"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 103080,
+          "name": {
+            "first": "Tomoe",
+            "last": "Aratani",
+            "native": "荒谷朋恵"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103080-kWKNdHj51qCr.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103080-kWKNdHj51qCr.jpg"
+          },
+          "description": "Tomoe Aratani is a cinematic scene planner for Nintendo EPD. She originally worked with Kyoto Animation on various series including The Melancholy of Haruhi Suzumiya and Lucky Star. She joined Nintendo in 2010.",
+          "siteUrl": "https://anilist.co/staff/103080"
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 103080,
+          "name": {
+            "first": "Tomoe",
+            "last": "Aratani",
+            "native": "荒谷朋恵"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103080-kWKNdHj51qCr.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103080-kWKNdHj51qCr.jpg"
+          },
+          "description": "Tomoe Aratani is a cinematic scene planner for Nintendo EPD. She originally worked with Kyoto Animation on various series including The Melancholy of Haruhi Suzumiya and Lucky Star. She joined Nintendo in 2010.",
+          "siteUrl": "https://anilist.co/staff/103080"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 103080,
+          "name": {
+            "first": "Tomoe",
+            "last": "Aratani",
+            "native": "荒谷朋恵"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103080-kWKNdHj51qCr.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103080-kWKNdHj51qCr.jpg"
+          },
+          "description": "Tomoe Aratani is a cinematic scene planner for Nintendo EPD. She originally worked with Kyoto Animation on various series including The Melancholy of Haruhi Suzumiya and Lucky Star. She joined Nintendo in 2010.",
+          "siteUrl": "https://anilist.co/staff/103080"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 103080,
+          "name": {
+            "first": "Tomoe",
+            "last": "Aratani",
+            "native": "荒谷朋恵"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103080-kWKNdHj51qCr.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103080-kWKNdHj51qCr.jpg"
+          },
+          "description": "Tomoe Aratani is a cinematic scene planner for Nintendo EPD. She originally worked with Kyoto Animation on various series including The Melancholy of Haruhi Suzumiya and Lucky Star. She joined Nintendo in 2010.",
+          "siteUrl": "https://anilist.co/staff/103080"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 103081,
+          "name": {
+            "first": "Jouji",
+            "last": "Unoguchi",
+            "native": "鵜ノ口穣二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with [Kyoto Animation](https://anilist.co/studio/2/) since 1989.\n\nWorked as an animator in the beginning of his career.",
+          "siteUrl": "https://anilist.co/staff/103081"
+        }
+      },
+      {
+        "role": "Key Animation (OP)",
+        "node": {
+          "id": 103083,
+          "name": {
+            "first": "Satoshi",
+            "last": "Kadowaki",
+            "native": "門脇聡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103083-ISBLVu8AlYPp.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103083-ISBLVu8AlYPp.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/1519543115367206913)\n\nOriginating from [Kyoto Animation](https://anilist.co/studio/2/). Currently affiliated with [Wit Studio](https://anilist.co/studio/858/).",
+          "siteUrl": "https://anilist.co/staff/103083"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 103084,
+          "name": {
+            "first": "Ryuuta",
+            "last": "Nakagami",
+            "native": "中上竜太"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/103084"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 103085,
+          "name": {
+            "first": "Youko",
+            "last": "Hatta",
+            "native": "八田陽子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Began as a painter at Mushi Production then left and established Kyoto Animation with her husband [Hideaki Hatta](https://anilist.co/staff/107789/Hideaki-Hatta).",
+          "siteUrl": "https://anilist.co/staff/103085"
+        }
+      },
+      {
+        "role": "In-Between Animation (ep 2)",
+        "node": {
+          "id": 103086,
+          "name": {
+            "first": "Chitose",
+            "last": "Nakamine",
+            "native": "中峰ちとせ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/103086"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 103087,
+          "name": {
+            "first": "Emi",
+            "last": "Nakano",
+            "native": "中野恵美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103087-6OHb2gW1OKo8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103087-6OHb2gW1OKo8.png"
+          },
+          "description": "Affiliated with Kyoto Animation.\n\n_Note: Not to be confused with the [other animator](https://anilist.co/staff/236110/)._",
+          "siteUrl": "https://anilist.co/staff/103087"
+        }
+      },
+      {
+        "role": "In-Between Animation (ep 1)",
+        "node": {
+          "id": 103089,
+          "name": {
+            "first": "Kenji",
+            "last": "Murayama",
+            "native": "村山健治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/103089"
+        }
+      },
+      {
+        "role": "Background Art (ep 2)",
+        "node": {
+          "id": 103091,
+          "name": {
+            "first": "Mutsuo",
+            "last": "Shinohara",
+            "native": "篠原睦雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/103091-M6s8WhROlsyU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/103091-M6s8WhROlsyU.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/103091"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 2,
+          "name": "Kyoto Animation",
+          "siteUrl": "https://anilist.co/studio/2"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 144,
+          "name": "Pony Canyon",
+          "siteUrl": "https://anilist.co/studio/144"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 47948,
+          "rating": 6,
+          "media": {
+            "id": 656,
+            "title": {
+              "native": "AIR イン サマー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2167,
+            "title": {
+              "native": "ＣＬＡＮＮＡＤ -クラナド-"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 226870,
+          "rating": 3,
+          "media": {
+            "id": 656,
+            "title": {
+              "native": "AIR イン サマー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1530,
+            "title": {
+              "native": "カノン (2006)"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 26
+      },
+      {
+        "score": 20,
+        "amount": 33
+      },
+      {
+        "score": 30,
+        "amount": 82
+      },
+      {
+        "score": 40,
+        "amount": 170
+      },
+      {
+        "score": 50,
+        "amount": 392
+      },
+      {
+        "score": 60,
+        "amount": 739
+      },
+      {
+        "score": 70,
+        "amount": 1266
+      },
+      {
+        "score": 80,
+        "amount": 915
+      },
+      {
+        "score": 90,
+        "amount": 411
+      },
+      {
+        "score": 100,
+        "amount": 212
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 96
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1626
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 6056
+      },
+      {
+        "status": "DROPPED",
+        "amount": 55
+      },
+      {
+        "status": "PAUSED",
+        "amount": 60
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/656",
+  "modNotes": null
+}

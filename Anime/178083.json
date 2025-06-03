@@ -1,0 +1,624 @@
+{
+  "id": 178083,
+  "idMal": 59088,
+  "title": {
+    "native": "東京リベンジャーズ 三天戦争編",
+    "romaji": "Tokyo Revengers: Santen Sensou-hen",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "NOT_YET_RELEASED",
+  "description": "Sequel to <i>Tokyo Revengers: Tenjiku-hen</i>.",
+  "startDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": "#東京リベンジャーズ #toman_anime #東リベ",
+  "trailer": {
+    "id": "pKPXdN32w8g",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/pKPXdN32w8g/hqdefault.jpg"
+  },
+  "updatedAt": 1748905857,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-ORQ5BtwQsTbY.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-ORQ5BtwQsTbY.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178083-ORQ5BtwQsTbY.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "Tokyo Revengers (Sequel)"
+  ],
+  "averageScore": null,
+  "meanScore": null,
+  "popularity": 10530,
+  "favourites": 122,
+  "tags": [
+    {
+      "id": 106,
+      "name": "Gangs",
+      "description": "Centers around gang organizations.",
+      "category": "Theme-Other-Organisations",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 395,
+      "name": "Delinquents",
+      "description": "Features characters with a notorious image and attitude, sometimes referred to as \"yankees\".",
+      "category": "Cast-Traits",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 595,
+      "name": "Urban",
+      "description": "Partly or completely set in a city.",
+      "category": "Setting-Scene",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 163329,
+          "title": {
+            "native": "東京リベンジャーズ 天竺編"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 102988,
+          "title": {
+            "native": "東京卍リベンジャーズ"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 178084,
+          "title": {
+            "native": "童話リベンジャーズ"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 145341,
+          "name": {
+            "first": "Manjirou",
+            "last": "Sano",
+            "native": "佐野万次郎",
+            "alternative": [
+              "Mikey",
+              "マイキー",
+              "Invincible Mikey",
+              "Shrimp",
+              "Michael"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145341-CuPldCLZMvvf.png"
+          },
+          "siteUrl": "https://anilist.co/character/145341"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 145342,
+          "name": {
+            "first": "Takemichi",
+            "last": "Hanagaki",
+            "native": "花垣武道",
+            "alternative": [
+              "Takemitchy",
+              "Crybaby",
+              "Hero",
+              "Wuss-boy",
+              "Shitty-michi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145342-GSUutL83jGgI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145342-GSUutL83jGgI.png"
+          },
+          "siteUrl": "https://anilist.co/character/145342"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 105463,
+          "name": {
+            "first": "Ken",
+            "last": "Wakui",
+            "native": "和久井健"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105463-LuJZiJDjBCMF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105463-LuJZiJDjBCMF.jpg"
+          },
+          "description": "Received a Young Magazine Newcomer Manga Award Honorable Mention for his _Shinjuku Swan_ one-shot in 2004.",
+          "siteUrl": "https://anilist.co/staff/105463"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 134005,
+          "name": {
+            "first": "Yasuyuki",
+            "last": "Mutou",
+            "native": "武藤泰之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n134005-othjM2uapAk3.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n134005-othjM2uapAk3.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/ippikihitsuji)",
+          "siteUrl": "https://anilist.co/staff/134005"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 123020,
+          "name": {
+            "first": "Kenichi",
+            "last": "Oonuki",
+            "native": "大貫健一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123020-mD5Szlx1rRoF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n123020-mD5Szlx1rRoF.png"
+          },
+          "description": "[Website](http://www.ekakiyahonpo.com)\n\nFreelancer originating from [Ajia-do](https://anilist.co/studio/30/).",
+          "siteUrl": "https://anilist.co/staff/123020"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 120008,
+          "name": {
+            "first": "Keiko",
+            "last": "Oota",
+            "native": "太田恵子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/120008"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 163312,
+          "name": {
+            "first": "Rumi",
+            "last": "Matsumoto",
+            "native": "松本留美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/163312"
+        }
+      },
+      {
+        "role": "Art Design",
+        "node": {
+          "id": 128826,
+          "name": {
+            "first": "Yuuho",
+            "last": "Taniuchi",
+            "native": "谷内優穂"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128826-fYOXZ4wG3kkV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n128826-fYOXZ4wG3kkV.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/YuhoTaniuchi)",
+          "siteUrl": "https://anilist.co/staff/128826"
+        }
+      },
+      {
+        "role": "Prop Design",
+        "node": {
+          "id": 146152,
+          "name": {
+            "first": "Hideki",
+            "last": "Fukushima",
+            "native": "福島秀機"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/146152"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 105139,
+          "name": {
+            "first": "Kunio",
+            "last": "Tsujita",
+            "native": "辻田邦夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105139-Q9WvKiNsxY6P.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105139-Q9WvKiNsxY6P.jpg"
+          },
+          "description": "[Website](http://www.kunion.com) | [Twitter](https://twitter.com/92on) | [Facebook](https://www.facebook.com/tsujitakunio)",
+          "siteUrl": "https://anilist.co/staff/105139"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 118912,
+          "name": {
+            "first": "Satoki",
+            "last": "Iida",
+            "native": "飯田里樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118912-bijGF9kyBmMN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118912-bijGF9kyBmMN.jpg"
+          },
+          "description": "**Iida Satoki** is a Japanese freelance sound director.",
+          "siteUrl": "https://anilist.co/staff/118912"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 120019,
+          "name": {
+            "first": "Hiroaki",
+            "last": "Tsutsumi",
+            "native": "堤博明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120019-mfFCxPI5Tt4o.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n120019-mfFCxPI5Tt4o.png"
+          },
+          "description": "[Profile (Miracle Bus)](http://miraclebus.com/composer/hiroakitsutsumi) | [Twitter](https://twitter.com/hiroaki850605)",
+          "siteUrl": "https://anilist.co/staff/120019"
+        }
+      },
+      {
+        "role": "Bike Design",
+        "node": {
+          "id": 146152,
+          "name": {
+            "first": "Hideki",
+            "last": "Fukushima",
+            "native": "福島秀機"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/146152"
+        }
+      },
+      {
+        "role": "Bike Design",
+        "node": {
+          "id": 147504,
+          "name": {
+            "first": "Yoshitomo",
+            "last": "Hara",
+            "native": "原由知"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n147504-mlpxYvNjZDm4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n147504-mlpxYvNjZDm4.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/hanzow_kage)",
+          "siteUrl": "https://anilist.co/staff/147504"
+        }
+      },
+      {
+        "role": "Prop Design",
+        "node": {
+          "id": 147504,
+          "name": {
+            "first": "Yoshitomo",
+            "last": "Hara",
+            "native": "原由知"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n147504-mlpxYvNjZDm4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n147504-mlpxYvNjZDm4.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/hanzow_kage)",
+          "siteUrl": "https://anilist.co/staff/147504"
+        }
+      },
+      {
+        "role": "Series Composition Assistance",
+        "node": {
+          "id": 120163,
+          "name": {
+            "first": "Kouichi",
+            "last": "Hatsumi",
+            "native": "初見浩一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120163-XQAHYjlyHaPG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n120163-XQAHYjlyHaPG.png"
+          },
+          "description": "**Hatsumi Kouichi** is a Japanese director, character designer, animation director, episode director and storyboard artist.",
+          "siteUrl": "https://anilist.co/staff/120163"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 219913,
+          "name": {
+            "first": "Airi",
+            "last": "Tsuyuki",
+            "native": "露木愛里"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/219913"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 146668,
+          "name": {
+            "first": "Maki",
+            "last": "Kodaira",
+            "native": "小平麻紀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Animates on occasions.",
+          "siteUrl": "https://anilist.co/staff/146668"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 210270,
+          "name": {
+            "first": "Kae",
+            "last": "Takakura",
+            "native": "高倉香恵"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n210270-QHKBxHUJFYe4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n210270-QHKBxHUJFYe4.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/takakura00)",
+          "siteUrl": "https://anilist.co/staff/210270"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 283688,
+          "name": {
+            "first": "Kouji",
+            "last": "Ietaka",
+            "native": "家高浩司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/283688"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 144,
+          "name": "Pony Canyon",
+          "siteUrl": "https://anilist.co/studio/144"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 839,
+          "name": "LIDENFILMS",
+          "siteUrl": "https://anilist.co/studio/839"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 93270,
+      "url": "https://tokyo-revengers-anime.com/",
+      "site": "Official Site"
+    },
+    {
+      "id": 93271,
+      "url": "https://www.tiktok.com/@anime_toman_official",
+      "site": "TikTok"
+    },
+    {
+      "id": 93272,
+      "url": "https://www.youtube.com/@animetoman",
+      "site": "YouTube"
+    },
+    {
+      "id": 93273,
+      "url": "https://twitter.com/anime_toman",
+      "site": "Twitter"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 5
+      },
+      {
+        "score": 60,
+        "amount": 6
+      },
+      {
+        "score": 70,
+        "amount": 15
+      },
+      {
+        "score": 80,
+        "amount": 14
+      },
+      {
+        "score": 90,
+        "amount": 48
+      },
+      {
+        "score": 100,
+        "amount": 37
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 233
+      },
+      {
+        "status": "PLANNING",
+        "amount": 9994
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 151
+      },
+      {
+        "status": "DROPPED",
+        "amount": 51
+      },
+      {
+        "status": "PAUSED",
+        "amount": 101
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/178083",
+  "modNotes": null
+}

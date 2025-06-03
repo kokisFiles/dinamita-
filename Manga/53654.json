@@ -1,0 +1,182 @@
+{
+  "id": 53654,
+  "idMal": 23654,
+  "title": {
+    "native": "かぜ伝説彦佐 かぜの絆",
+    "romaji": "Kaze Densetsu Hikoza: Kaze no Kizuna",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "N/A",
+  "startDate": {
+    "year": 2000,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1741349858,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53654-wwlxAO3HwpgA.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53654-wwlxAO3HwpgA.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx53654-wwlxAO3HwpgA.png",
+    "color": "#fed650"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 75,
+  "popularity": 14,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 25,
+      "name": "Historical",
+      "description": "Partly or completely set during a real period of world history.",
+      "category": "Setting-Time",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 53652,
+          "title": {
+            "native": "疾風伝説彦佐"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 68187,
+          "name": {
+            "first": "Hikoza",
+            "last": null,
+            "native": null,
+            "alternative": [
+              "Hikoza The Storm"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/68187.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/68187.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/68187"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 117463,
+          "name": {
+            "first": "Akira",
+            "last": "Yamamoto",
+            "native": "山本晃"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/117463"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 70,
+        "amount": 1
+      },
+      {
+        "score": 80,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 2
+      },
+      {
+        "status": "PLANNING",
+        "amount": 4
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 6
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/53654",
+  "modNotes": null
+}

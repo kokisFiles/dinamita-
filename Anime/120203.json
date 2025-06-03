@@ -1,0 +1,457 @@
+{
+  "id": 120203,
+  "idMal": 44513,
+  "title": {
+    "native": "我是大神仙",
+    "romaji": "Wo Shi Da Shenxian",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2020,
+    "month": 11,
+    "day": 12
+  },
+  "endDate": {
+    "year": 2021,
+    "month": 2,
+    "day": 18
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 16,
+  "duration": 20,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": {
+    "id": "beWCvpuwMyU",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/beWCvpuwMyU/hqdefault.jpg"
+  },
+  "updatedAt": 1748774341,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120203-i2kkh2joRb3b.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120203-i2kkh2joRb3b.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx120203-i2kkh2joRb3b.jpg",
+    "color": "#e44350"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "I Am A Great God"
+  ],
+  "averageScore": 60,
+  "meanScore": 67,
+  "popularity": 515,
+  "favourites": 18,
+  "tags": [
+    {
+      "id": 89,
+      "name": "Full CGI",
+      "description": "Almost entirely created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 244,
+      "name": "Isekai",
+      "description": "Features characters being transported into an alternate world setting and having to adapt to their new surroundings.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 326,
+      "name": "Cultivation",
+      "description": "Features characters using training, often martial arts-related, and other special methods to cultivate qi (a component of traditional Chinese philosophy, described as \"life force\") and gain strength or immortality.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 105513,
+          "title": {
+            "native": "我是大神仙"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 130354,
+          "title": {
+            "native": "我是大神仙 第二季"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 234726,
+          "name": {
+            "first": "Ziyu",
+            "last": "Zhou",
+            "native": "周紫雨",
+            "alternative": [
+              "Yu Er"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b234726-IzLm7qjLF6et.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b234726-IzLm7qjLF6et.png"
+          },
+          "siteUrl": "https://anilist.co/character/234726"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 6382,
+          "name": "Tencent Penguin Pictures",
+          "siteUrl": "https://anilist.co/studio/6382"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6129,
+          "name": "Tencent Animation & Comics",
+          "siteUrl": "https://anilist.co/studio/6129"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 6543,
+          "name": "IDREAM Entertainment",
+          "siteUrl": "https://anilist.co/studio/6543"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 300128,
+          "airingAt": 1605146400,
+          "episode": 2,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300129,
+          "airingAt": 1605751200,
+          "episode": 3,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300130,
+          "airingAt": 1606356000,
+          "episode": 4,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300131,
+          "airingAt": 1606960800,
+          "episode": 5,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300132,
+          "airingAt": 1607565600,
+          "episode": 6,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300133,
+          "airingAt": 1608170400,
+          "episode": 7,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300134,
+          "airingAt": 1608775200,
+          "episode": 8,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300135,
+          "airingAt": 1609380000,
+          "episode": 9,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300136,
+          "airingAt": 1609984800,
+          "episode": 10,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300137,
+          "airingAt": 1610589600,
+          "episode": 11,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300138,
+          "airingAt": 1611194400,
+          "episode": 12,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300139,
+          "airingAt": 1611799200,
+          "episode": 13,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300140,
+          "airingAt": 1612404000,
+          "episode": 14,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300141,
+          "airingAt": 1613008800,
+          "episode": 15,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 300142,
+          "airingAt": 1613613600,
+          "episode": 16,
+          "mediaId": 120203,
+          "media": {
+            "id": 120203
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 19699,
+      "url": "https://v.qq.com/detail/m/mzc002009u3yfca.html",
+      "site": "Tencent Video"
+    },
+    {
+      "id": 22115,
+      "url": "https://www.weibo.com/u/7207092394",
+      "site": "Weibo"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 5
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 18
+      },
+      {
+        "score": 60,
+        "amount": 17
+      },
+      {
+        "score": 70,
+        "amount": 42
+      },
+      {
+        "score": 80,
+        "amount": 27
+      },
+      {
+        "score": 90,
+        "amount": 14
+      },
+      {
+        "score": 100,
+        "amount": 14
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 69
+      },
+      {
+        "status": "PLANNING",
+        "amount": 141
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 263
+      },
+      {
+        "status": "DROPPED",
+        "amount": 30
+      },
+      {
+        "status": "PAUSED",
+        "amount": 12
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/120203",
+  "modNotes": null
+}

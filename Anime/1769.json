@@ -1,0 +1,972 @@
+{
+  "id": 1769,
+  "idMal": 1769,
+  "title": {
+    "native": "OH! スーパーミルクチャン",
+    "romaji": "OH! Super Milk-Chan",
+    "english": "The Super Milk-Chan Show"
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "Milk-chan is a drooling, potty-mouthed baby who lives in an apartment with an obsolete robot named Tetsuko, a slug named Hanage, and an uncontrollable pet named Robodog. Whenever the President calls, Milk-chan and the gang rush to the scene to solve any type of problem - whether it's stopping a money counterfeiter hungry for Belgian waffles or counselling a school of drunk fish. At the same time, they have to avoid a nagging landlord, as they're six months behind their rent.\n<br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 2000,
+    "month": 1,
+    "day": 27
+  },
+  "endDate": {
+    "year": 2000,
+    "month": 4,
+    "day": 13
+  },
+  "season": "WINTER",
+  "seasonYear": 2000,
+  "seasonInt": 1,
+  "episodes": 12,
+  "duration": 21,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748885132,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1769-MGY3oe7BBpD0.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1769-MGY3oe7BBpD0.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1769-MGY3oe7BBpD0.jpg",
+    "color": "#f15d6b"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": 58,
+  "meanScore": 60,
+  "popularity": 1544,
+  "favourites": 35,
+  "tags": [
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 281,
+      "name": "Surreal Comedy",
+      "description": "Prominently features comedic moments that defy casual reasoning, resulting in illogical events.",
+      "category": "Theme-Comedy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1743,
+          "title": {
+            "native": "スーパーミルクチャン"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 18815,
+          "title": {
+            "native": "OH！スーパーミルクチャン～ミルクのノーマーシー！不倫は文化だ！"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 12722,
+          "name": {
+            "first": "Tetsuko",
+            "last": null,
+            "native": "テツコ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12722.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12722.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12722"
+        },
+        "voiceActors": [
+          {
+            "id": 95141,
+            "name": {
+              "first": "Ryouka",
+              "last": "Yuzuki",
+              "native": "柚木涼香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95141-RUTdfZUbNcUv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95141-RUTdfZUbNcUv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95141"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 12721,
+          "name": {
+            "first": "Super",
+            "last": "Milk Chan",
+            "native": "ミルクチャン",
+            "alternative": [
+              "Milk"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12721-SPfEqnl6Q5jI.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12721-SPfEqnl6Q5jI.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12721"
+        },
+        "voiceActors": [
+          {
+            "id": 116959,
+            "name": {
+              "first": "Haruka",
+              "last": "Nakamura",
+              "native": "中村春香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116959-aosIVTJMmlJB.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116959-aosIVTJMmlJB.png"
+            },
+            "siteUrl": "https://anilist.co/staff/116959"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 12725,
+          "name": {
+            "first": "Dr.",
+            "last": "Eyepatch",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12725.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12725.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12725"
+        },
+        "voiceActors": [
+          {
+            "id": 95157,
+            "name": {
+              "first": "Nobuo",
+              "last": "Tobita",
+              "native": "飛田展男"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95157-td6WhlGehuDJ.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95157-td6WhlGehuDJ.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95157"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 12724,
+          "name": {
+            "first": "Daitouryou",
+            "last": "",
+            "native": "大統領",
+            "alternative": [
+              "President"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12724.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12724.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12724"
+        },
+        "voiceActors": [
+          {
+            "id": 95898,
+            "name": {
+              "first": "Choo",
+              "last": "",
+              "native": "チョー "
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95898-XHSESV65G8Jv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95898-XHSESV65G8Jv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95898"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 12726,
+          "name": {
+            "first": "The",
+            "last": "Landlord",
+            "native": null,
+            "alternative": [
+              "Lalo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12726.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12726.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12726"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 12723,
+          "name": {
+            "first": "Hanage",
+            "last": null,
+            "native": "Hanage",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12723.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12723.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12723"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 12727,
+          "name": {
+            "first": "Robodog",
+            "last": "No. 1",
+            "native": null,
+            "alternative": [
+              "Robodog-Dog No. 1"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12727.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12727.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12727"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Storyboard (eps 2, 5, 8, 10)",
+        "node": {
+          "id": 100055,
+          "name": {
+            "first": "Tatsuya",
+            "last": "Ishihara",
+            "native": "石原立也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100055-nZQ0hBIYNwW0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100055-nZQ0hBIYNwW0.png"
+          },
+          "description": "A prominent director and a key member of [Kyoto Animation](https://anilist.co/studio/2/).\n\nAfter graduating from Osaka Designers' College in the late '80s, Ishihara joined Kyoto Animation and began his career as an animator. In 1991, he made his debut as a director with [Shiawasette Naani](https://anilist.co/anime/13441/). After that, he switched his focus to directing. Back then Kyoto Animation was still a sub-contracting studio, so therefore Ishihara could only get a handful of opportunities directing. Some of the shows in which Ishihara got to direct multiple episodes were [Tenchi Muyou!](https://anilist.co/anime/696/), [Aka-chan to Boku](https://anilist.co/anime/1485/), [Hyper Police](https://anilist.co/anime/1180/), and [Inuyasha](https://anilist.co/anime/249/). He also storyboarded the majority of the episodes he directed.\n\nIn 2003, Kyoto Animation started their transformation into a full-fledged animation studio producing their first anime series, [Fullmetal Panic? Fumoffu](https://anilist.co/anime/72/). Ishihara directed and storyboarded the 7th episode of the show. Two years later in 2005, he made his proper directorial debut directing the studio's second TV show, [Air](https://anilist.co/anime/101/). The following year he directed the award winning anime series, [The Melancholy of Haruhi Suzumiya](https://anilist.co/anime/849/). From here Ishihara has gone on to direct multiple of Kyoto Animation's acclaimed works.",
+          "siteUrl": "https://anilist.co/staff/100055"
+        }
+      },
+      {
+        "role": "Episode Director (eps 2, 5, 8, 10, 11)",
+        "node": {
+          "id": 100055,
+          "name": {
+            "first": "Tatsuya",
+            "last": "Ishihara",
+            "native": "石原立也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100055-nZQ0hBIYNwW0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100055-nZQ0hBIYNwW0.png"
+          },
+          "description": "A prominent director and a key member of [Kyoto Animation](https://anilist.co/studio/2/).\n\nAfter graduating from Osaka Designers' College in the late '80s, Ishihara joined Kyoto Animation and began his career as an animator. In 1991, he made his debut as a director with [Shiawasette Naani](https://anilist.co/anime/13441/). After that, he switched his focus to directing. Back then Kyoto Animation was still a sub-contracting studio, so therefore Ishihara could only get a handful of opportunities directing. Some of the shows in which Ishihara got to direct multiple episodes were [Tenchi Muyou!](https://anilist.co/anime/696/), [Aka-chan to Boku](https://anilist.co/anime/1485/), [Hyper Police](https://anilist.co/anime/1180/), and [Inuyasha](https://anilist.co/anime/249/). He also storyboarded the majority of the episodes he directed.\n\nIn 2003, Kyoto Animation started their transformation into a full-fledged animation studio producing their first anime series, [Fullmetal Panic? Fumoffu](https://anilist.co/anime/72/). Ishihara directed and storyboarded the 7th episode of the show. Two years later in 2005, he made his proper directorial debut directing the studio's second TV show, [Air](https://anilist.co/anime/101/). The following year he directed the award winning anime series, [The Melancholy of Haruhi Suzumiya](https://anilist.co/anime/849/). From here Ishihara has gone on to direct multiple of Kyoto Animation's acclaimed works.",
+          "siteUrl": "https://anilist.co/staff/100055"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 101016,
+          "name": {
+            "first": "Yoshikazu",
+            "last": "Iwanami",
+            "native": "岩浪美和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101016-H7RaX55ooWr0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101016-H7RaX55ooWr0.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/岩浪美和) | [Twitter](https://x.com/i/user/169097071)",
+          "siteUrl": "https://anilist.co/staff/101016"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 101187,
+          "name": {
+            "first": "Takahiro",
+            "last": "Yoshimatsu",
+            "native": "吉松孝博"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101187-r707iYOUsA1n.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101187-r707iYOUsA1n.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/75655903) | [Instagram](https://www.instagram.com/something_Yoshimatsu/)\n\nAffiliated with Studio Live since 1982. Studied under [Toyoo Ashida](https://anilist.co/staff/110953/). He has deep ties into [Madhouse](https://anilist.co/studio/11/) ever since working as a character designer on [Trigun](https://anilist.co/anime/6/) in 1998. A member of the Japanese Animation Creators Association (JAniCA).\n\nWorks as a mangaka under the name Something Yoshimatsu (サムシング吉松).",
+          "siteUrl": "https://anilist.co/staff/101187"
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 101671,
+          "name": {
+            "first": "Takahiro",
+            "last": "Oomori",
+            "native": "大森貴弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101671-EmRY0EMXCafO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101671-EmRY0EMXCafO.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/t0mori)",
+          "siteUrl": "https://anilist.co/staff/101671"
+        }
+      },
+      {
+        "role": "Animation Director (eps 1, 4, 6, 9, 11)",
+        "node": {
+          "id": 102986,
+          "name": {
+            "first": "Tadashi",
+            "last": "Shida",
+            "native": "志田ただし"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/志田ただし)",
+          "siteUrl": "https://anilist.co/staff/102986"
+        }
+      },
+      {
+        "role": "ADR Script (English)",
+        "node": {
+          "id": 106631,
+          "name": {
+            "first": "Steven",
+            "last": "Foster",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11631.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11631.jpg"
+          },
+          "description": " [Instagram](https://www.instagram.com/ste7en_foster/) | [Facebook](https://www.facebook.com/foster.steven)",
+          "siteUrl": "https://anilist.co/staff/106631"
+        }
+      },
+      {
+        "role": "ADR Director (English)",
+        "node": {
+          "id": 106631,
+          "name": {
+            "first": "Steven",
+            "last": "Foster",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11631.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11631.jpg"
+          },
+          "description": " [Instagram](https://www.instagram.com/ste7en_foster/) | [Facebook](https://www.facebook.com/foster.steven)",
+          "siteUrl": "https://anilist.co/staff/106631"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 116959,
+          "name": {
+            "first": "Haruka",
+            "last": "Nakamura",
+            "native": "中村春香"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116959-aosIVTJMmlJB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116959-aosIVTJMmlJB.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/116959"
+        }
+      },
+      {
+        "role": "ADR Director (Brazilian Portuguese)",
+        "node": {
+          "id": 102974,
+          "name": {
+            "first": "Wellington",
+            "last": "Lima",
+            "native": null
+          },
+          "language": "PORTUGUESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102974-PW4xc2DMIK0d.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102974-PW4xc2DMIK0d.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/102974"
+        }
+      },
+      {
+        "role": "Design",
+        "node": {
+          "id": 302429,
+          "name": {
+            "first": "Hideyuki",
+            "last": "Tanaka",
+            "native": "田中秀幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n302429-NWLhM68MkKYc.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n302429-NWLhM68MkKYc.jpg"
+          },
+          "description": "Hideyuki Tanaka ( Hideyuki Tanaka, born July 25, 1962 ) is a Japanese art director and graphic designer. \nHe is the representative of FrameGraphics Co., Ltd.",
+          "siteUrl": "https://anilist.co/staff/302429"
+        }
+      },
+      {
+        "role": "Storyboard (eps 1-5, 7, 9-12)",
+        "node": {
+          "id": 302429,
+          "name": {
+            "first": "Hideyuki",
+            "last": "Tanaka",
+            "native": "田中秀幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n302429-NWLhM68MkKYc.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n302429-NWLhM68MkKYc.jpg"
+          },
+          "description": "Hideyuki Tanaka ( Hideyuki Tanaka, born July 25, 1962 ) is a Japanese art director and graphic designer. \nHe is the representative of FrameGraphics Co., Ltd.",
+          "siteUrl": "https://anilist.co/staff/302429"
+        }
+      },
+      {
+        "role": "Original Plan",
+        "node": {
+          "id": 302429,
+          "name": {
+            "first": "Hideyuki",
+            "last": "Tanaka",
+            "native": "田中秀幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n302429-NWLhM68MkKYc.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n302429-NWLhM68MkKYc.jpg"
+          },
+          "description": "Hideyuki Tanaka ( Hideyuki Tanaka, born July 25, 1962 ) is a Japanese art director and graphic designer. \nHe is the representative of FrameGraphics Co., Ltd.",
+          "siteUrl": "https://anilist.co/staff/302429"
+        }
+      },
+      {
+        "role": "Script (eps 1-12)",
+        "node": {
+          "id": 302417,
+          "name": {
+            "first": "Motoki",
+            "last": "Shiina",
+            "native": "椎名基樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "椎名基樹 ( Hideyuki Tanaka, born July 25, 1962 ) is a Japanese art director and graphic designer . He is the representative of Flame Graphics Co., Ltd.",
+          "siteUrl": "https://anilist.co/staff/302417"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 302429,
+          "name": {
+            "first": "Hideyuki",
+            "last": "Tanaka",
+            "native": "田中秀幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n302429-NWLhM68MkKYc.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n302429-NWLhM68MkKYc.jpg"
+          },
+          "description": "Hideyuki Tanaka ( Hideyuki Tanaka, born July 25, 1962 ) is a Japanese art director and graphic designer. \nHe is the representative of FrameGraphics Co., Ltd.",
+          "siteUrl": "https://anilist.co/staff/302429"
+        }
+      },
+      {
+        "role": "Assistant Director",
+        "node": {
+          "id": 145249,
+          "name": {
+            "first": "Kiyotaka",
+            "last": "Oohata",
+            "native": "大畑清隆"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/大畑清隆)",
+          "siteUrl": "https://anilist.co/staff/145249"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 144599,
+          "name": {
+            "first": "Tomoaki",
+            "last": "Okada",
+            "native": "岡田有章"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/岡田有章)",
+          "siteUrl": "https://anilist.co/staff/144599"
+        }
+      },
+      {
+        "role": "Episode Director (ep 1)",
+        "node": {
+          "id": 101671,
+          "name": {
+            "first": "Takahiro",
+            "last": "Oomori",
+            "native": "大森貴弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101671-EmRY0EMXCafO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101671-EmRY0EMXCafO.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/t0mori)",
+          "siteUrl": "https://anilist.co/staff/101671"
+        }
+      },
+      {
+        "role": "Storyboard (eps 1, 6, 9, 11)",
+        "node": {
+          "id": 101671,
+          "name": {
+            "first": "Takahiro",
+            "last": "Oomori",
+            "native": "大森貴弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101671-EmRY0EMXCafO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101671-EmRY0EMXCafO.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/t0mori)",
+          "siteUrl": "https://anilist.co/staff/101671"
+        }
+      },
+      {
+        "role": "Script (ep 7)",
+        "node": {
+          "id": 154927,
+          "name": {
+            "first": "Masanori",
+            "last": "Taki",
+            "native": "瀧正則"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n154927-hpgBgBNAAAaZ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n154927-hpgBgBNAAAaZ.jpg"
+          },
+          "description": "[Website](https://www.denkigroove.com/) | [Twitter](https://twitter.com/PierreTaki)",
+          "siteUrl": "https://anilist.co/staff/154927"
+        }
+      },
+      {
+        "role": "Storyboard (eps 3, 7, 12)",
+        "node": {
+          "id": 145249,
+          "name": {
+            "first": "Kiyotaka",
+            "last": "Oohata",
+            "native": "大畑清隆"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/大畑清隆)",
+          "siteUrl": "https://anilist.co/staff/145249"
+        }
+      },
+      {
+        "role": "Episode Director (eps 3, 7, 11, 12)",
+        "node": {
+          "id": 145249,
+          "name": {
+            "first": "Kiyotaka",
+            "last": "Oohata",
+            "native": "大畑清隆"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/大畑清隆)",
+          "siteUrl": "https://anilist.co/staff/145249"
+        }
+      },
+      {
+        "role": "Storyboard (ep 4)",
+        "node": {
+          "id": 105319,
+          "name": {
+            "first": "Atsushi",
+            "last": "Matsumoto",
+            "native": "松本淳"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105319-wYqXMmTy4wE2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105319-wYqXMmTy4wE2.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/105319"
+        }
+      },
+      {
+        "role": "Episode Director (eps 4, 6, 9, 11)",
+        "node": {
+          "id": 105319,
+          "name": {
+            "first": "Atsushi",
+            "last": "Matsumoto",
+            "native": "松本淳"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105319-wYqXMmTy4wE2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105319-wYqXMmTy4wE2.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/105319"
+        }
+      },
+      {
+        "role": "Animation Director (eps 2, 5, 8, 10, 11)",
+        "node": {
+          "id": 102736,
+          "name": {
+            "first": "Shouko",
+            "last": "Ikeda",
+            "native": "池田晶子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102736-MZqM6G022CqR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102736-MZqM6G022CqR.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/池田晶子_(アニメーター%29)\n\nShouko Ikeda was one of [Kyoto Animation](https://anilist.co/studio/2/)'s leading animators.\n\nShe went through the Yoyogi animation school and upon graduating joined Kyoto Animation in 1996. The same year she made her debut as an in-betweener on [Doraemon](https://anilist.co/anime/2471/). She also notably served as an animation director on the [Inuyasha](https://anilist.co/anime/249/) episodes that were outsourced to Kyoto Animation. In 2006, she was brought to the spotlight with [The Melancholy of Haruhi Suzumiya](https://anilist.co/anime/849/), a show in which she was the character designer and sole chief animation director. The designs of the series, as well as the general presentation was very well received amongst animation fans.\n\nShe has no blood relationship with [Kazumi Ikeda](https://anilist.co/staff/102724/).\n\nOn July 18, 2019, Ikeda was tragically killed alongside 34 of her colleagues in the Kyoto Animation arson attack.",
+          "siteUrl": "https://anilist.co/staff/102736"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 1,
+          "name": "Studio Pierrot",
+          "siteUrl": "https://anilist.co/studio/1"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 204,
+          "name": "Pioneer LDC",
+          "siteUrl": "https://anilist.co/studio/204"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 1839,
+      "url": "http://www.hulu.com/super-milk-chan-flash",
+      "site": "Hulu"
+    },
+    {
+      "id": 93544,
+      "url": "https://www.supermilkchan.com/",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 1783,
+      "rank": 44,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2000,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 1825,
+      "rank": 35,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 2000,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 101569,
+          "rating": 4,
+          "media": {
+            "id": 1769,
+            "title": {
+              "native": "OH! スーパーミルクチャン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 98549,
+            "title": {
+              "native": "ポプテピピック"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 214039,
+          "rating": 4,
+          "media": {
+            "id": 1769,
+            "title": {
+              "native": "OH! スーパーミルクチャン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 163832,
+            "title": {
+              "native": "リトルビレッジピープル"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 390542,
+          "rating": 1,
+          "media": {
+            "id": 1769,
+            "title": {
+              "native": "OH! スーパーミルクチャン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 21079,
+            "title": {
+              "native": "高宮なすのです！〜てーきゅうスピンオフ〜"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 390544,
+          "rating": 1,
+          "media": {
+            "id": 1769,
+            "title": {
+              "native": "OH! スーパーミルクチャン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 15125,
+            "title": {
+              "native": "てーきゅう"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 31
+      },
+      {
+        "score": 20,
+        "amount": 28
+      },
+      {
+        "score": 30,
+        "amount": 39
+      },
+      {
+        "score": 40,
+        "amount": 50
+      },
+      {
+        "score": 50,
+        "amount": 65
+      },
+      {
+        "score": 60,
+        "amount": 88
+      },
+      {
+        "score": 70,
+        "amount": 80
+      },
+      {
+        "score": 80,
+        "amount": 89
+      },
+      {
+        "score": 90,
+        "amount": 71
+      },
+      {
+        "score": 100,
+        "amount": 33
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 97
+      },
+      {
+        "status": "PLANNING",
+        "amount": 480
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 756
+      },
+      {
+        "status": "DROPPED",
+        "amount": 144
+      },
+      {
+        "status": "PAUSED",
+        "amount": 67
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/1769",
+  "modNotes": null
+}

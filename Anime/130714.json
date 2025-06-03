@@ -1,0 +1,527 @@
+{
+  "id": 130714,
+  "idMal": 48439,
+  "title": {
+    "native": "Boy",
+    "romaji": "Boy",
+    "english": "Boy"
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Music video for Kazuyoshi Saito's song <i>Boy</i>, directed and animated by mangaka Naoki Urasawa.",
+  "startDate": {
+    "year": 2021,
+    "month": 3,
+    "day": 10
+  },
+  "endDate": {
+    "year": 2021,
+    "month": 3,
+    "day": 10
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 5,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": {
+    "id": "U-dvOieSh34",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/U-dvOieSh34/hqdefault.jpg"
+  },
+  "updatedAt": 1748859485,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130714-1S0RuBXpTKfK.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130714-1S0RuBXpTKfK.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b130714-1S0RuBXpTKfK.jpg",
+    "color": null
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130714-Wa9xxaqzwNAh.jpg",
+  "genres": [],
+  "synonyms": [],
+  "averageScore": 66,
+  "meanScore": 71,
+  "popularity": 824,
+  "favourites": 14,
+  "tags": [
+    {
+      "id": 110,
+      "name": "Band",
+      "description": "Main cast is a group of musicians.",
+      "category": "Theme-Arts-Music",
+      "rank": 100,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 446,
+      "name": "Primarily Child Cast",
+      "description": "Main cast is mostly composed of characters below a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 102,
+      "name": "Coming of Age",
+      "description": "Centers around a character's transition from childhood to adulthood.",
+      "category": "Theme-Drama",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 118,
+      "name": "Drawing",
+      "description": "Centers around the art of drawing, including manga and doujinshi.",
+      "category": "Theme-Arts",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 710,
+      "name": "Achromatic",
+      "description": "Contains animation that is primarily done in black and white.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 30003,
+          "title": {
+            "native": "20世紀少年"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3442,
+          "name": {
+            "first": "Kenji",
+            "last": "Endou",
+            "native": "遠藤健児",
+            "alternative": [
+              "Bob Lennon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3442-QdMHJOKv2Xos.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3442-QdMHJOKv2Xos.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3442"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 82555,
+          "name": {
+            "first": "Yuuichi",
+            "last": "Imano",
+            "native": "今野裕一",
+            "alternative": [
+              "Konchi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82555-ffR6IFQFdYmC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b82555-ffR6IFQFdYmC.png"
+          },
+          "siteUrl": "https://anilist.co/character/82555"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 26415,
+          "name": {
+            "first": "Maruo",
+            "last": null,
+            "native": "マルオ",
+            "alternative": [
+              "Maruko Bashi",
+              "丸尾"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b26415-UscLxuyXVpbD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b26415-UscLxuyXVpbD.png"
+          },
+          "siteUrl": "https://anilist.co/character/26415"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 96867,
+          "name": {
+            "first": "Naoki",
+            "last": "Urasawa",
+            "native": "浦沢直樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96867-fKcOe2X1Phki.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96867-fKcOe2X1Phki.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/urasawa_naoki) | [YouTube](https://www.youtube.com/channel/UCkIFOAoFm47XOAlJwTa6Ieg) | [Spotify](https://open.spotify.com/artist/4kmbC7n35u81LaR7VKyaaX)\n\nNaoki Urasawa's career as a manga artist spans more than twenty years and has firmly established him as one of the true manga masters of Japan. Born in Tokyo in 1960, Urasawa debuted with BETA! in 1983 and hasn't stopped his impressive output since. Well-versed in a variety of genres, Urasawa's oeuvre encompasses a multitude of different subjects, such as a romantic comedy ([Yawara! A Fashionable Judo Girl](https://anilist.co/manga/30853/Yawara/)), a suspenseful human drama about a former mercenary ([Pineapple ARMY](https://anilist.co/manga/30859/Pineapple-Army/); story by [Kazuya Kudo](https://anilist.co/staff/97206/Kazuya-Kudo)), a captivating psychological suspense story ([Monster](https://anilist.co/manga/30001/Monster/)), a sci-fi adventure manga ([20th Century Boys](https://anilist.co/manga/30003/20th-Century-Boys/)), and a modern reinterpretation of the work of the God of Manga, [Osamu Tezuka](https://anilist.co/staff/96938/Osamu-Tezuka) ([Pluto: Urasawa x Tezuka](https://anilist.co/manga/30745/Pluto/); co-authored with [Takashi Nagasaki](https://anilist.co/staff/112205/Takashi-Nagasaki), supervised by [Makoto Tezuka](https://anilist.co/staff/104143/Makoto-Tezuka), and with the cooperation of [Tezuka Productions](https://anilist.co/studio/200/Tezuka-Productions)). Many of his books have spawned popular animated and live-action TV programs and films, and 2008 saw the theatrical release of the first of three live-action Japanese films based on 20th Century Boys.  \n\nNo stranger to accolades and awards, Urasawa is a three-time recipient of the prestigious Shogakukan Manga Award, a two-time recipient of the Osamu Tezuka Cultural Prize, and has received the Kodansha Manga Award. Similarly, Monster has been nominated twice for the Eisner Award in America. Urasawa has also become involved in the world of academia, and in 2008 accepted a guest teaching post at Nagoya Zokei University, where he teaches courses in, of course, manga.",
+          "siteUrl": "https://anilist.co/staff/96867"
+        }
+      },
+      {
+        "role": "Music Electric Bass Performance",
+        "node": {
+          "id": 162407,
+          "name": {
+            "first": "Hiroo",
+            "last": "Yamaguchi",
+            "native": "山口寛雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n162407-heyzCxfCacI4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n162407-heyzCxfCacI4.png"
+          },
+          "description": "__[Twitter](https://twitter.com/hiroobass)__\n\n__Birthplace:__ Nagasaki Prefecture, Japan\n__Nickname:__ ヒロくん (Hiro-kun)\n\n__Hiroo Yamaguchi__ is a Japanese bassist, lyricist, composer, arranger and member of  the band 100s (Hyaku-Shiki)",
+          "siteUrl": "https://anilist.co/staff/162407"
+        }
+      },
+      {
+        "role": "Music Drums Performance",
+        "node": {
+          "id": 211739,
+          "name": {
+            "first": "Shuuichi",
+            "last": "Hirasato",
+            "native": "平里修一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/211739"
+        }
+      },
+      {
+        "role": "Music Electric Guitar Performance",
+        "node": {
+          "id": 211740,
+          "name": {
+            "first": "Makabe",
+            "last": "Youhei",
+            "native": "真壁陽平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/makabeyouhei)",
+          "siteUrl": "https://anilist.co/staff/211740"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 211741,
+          "name": {
+            "first": "Kazuyoshi",
+            "last": "Saitou",
+            "native": "斉藤和義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n211741-mUeanZTQMTCY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n211741-mUeanZTQMTCY.jpg"
+          },
+          "description": "[Youtube](https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA) | [Instagram](https://www.instagram.com/kazuyoshisaito_official/) | [Twitter](https://twitter.com/saitokazuyoshi) | [Official Site](http://www.kazuyoshi-saito.com/)",
+          "siteUrl": "https://anilist.co/staff/211741"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 96867,
+          "name": {
+            "first": "Naoki",
+            "last": "Urasawa",
+            "native": "浦沢直樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96867-fKcOe2X1Phki.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96867-fKcOe2X1Phki.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/urasawa_naoki) | [YouTube](https://www.youtube.com/channel/UCkIFOAoFm47XOAlJwTa6Ieg) | [Spotify](https://open.spotify.com/artist/4kmbC7n35u81LaR7VKyaaX)\n\nNaoki Urasawa's career as a manga artist spans more than twenty years and has firmly established him as one of the true manga masters of Japan. Born in Tokyo in 1960, Urasawa debuted with BETA! in 1983 and hasn't stopped his impressive output since. Well-versed in a variety of genres, Urasawa's oeuvre encompasses a multitude of different subjects, such as a romantic comedy ([Yawara! A Fashionable Judo Girl](https://anilist.co/manga/30853/Yawara/)), a suspenseful human drama about a former mercenary ([Pineapple ARMY](https://anilist.co/manga/30859/Pineapple-Army/); story by [Kazuya Kudo](https://anilist.co/staff/97206/Kazuya-Kudo)), a captivating psychological suspense story ([Monster](https://anilist.co/manga/30001/Monster/)), a sci-fi adventure manga ([20th Century Boys](https://anilist.co/manga/30003/20th-Century-Boys/)), and a modern reinterpretation of the work of the God of Manga, [Osamu Tezuka](https://anilist.co/staff/96938/Osamu-Tezuka) ([Pluto: Urasawa x Tezuka](https://anilist.co/manga/30745/Pluto/); co-authored with [Takashi Nagasaki](https://anilist.co/staff/112205/Takashi-Nagasaki), supervised by [Makoto Tezuka](https://anilist.co/staff/104143/Makoto-Tezuka), and with the cooperation of [Tezuka Productions](https://anilist.co/studio/200/Tezuka-Productions)). Many of his books have spawned popular animated and live-action TV programs and films, and 2008 saw the theatrical release of the first of three live-action Japanese films based on 20th Century Boys.  \n\nNo stranger to accolades and awards, Urasawa is a three-time recipient of the prestigious Shogakukan Manga Award, a two-time recipient of the Osamu Tezuka Cultural Prize, and has received the Kodansha Manga Award. Similarly, Monster has been nominated twice for the Eisner Award in America. Urasawa has also become involved in the world of academia, and in 2008 accepted a guest teaching post at Nagoya Zokei University, where he teaches courses in, of course, manga.",
+          "siteUrl": "https://anilist.co/staff/96867"
+        }
+      },
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 211741,
+          "name": {
+            "first": "Kazuyoshi",
+            "last": "Saitou",
+            "native": "斉藤和義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n211741-mUeanZTQMTCY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n211741-mUeanZTQMTCY.jpg"
+          },
+          "description": "[Youtube](https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA) | [Instagram](https://www.instagram.com/kazuyoshisaito_official/) | [Twitter](https://twitter.com/saitokazuyoshi) | [Official Site](http://www.kazuyoshi-saito.com/)",
+          "siteUrl": "https://anilist.co/staff/211741"
+        }
+      },
+      {
+        "role": "Music Electric Guitar Performance",
+        "node": {
+          "id": 211741,
+          "name": {
+            "first": "Kazuyoshi",
+            "last": "Saitou",
+            "native": "斉藤和義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n211741-mUeanZTQMTCY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n211741-mUeanZTQMTCY.jpg"
+          },
+          "description": "[Youtube](https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA) | [Instagram](https://www.instagram.com/kazuyoshisaito_official/) | [Twitter](https://twitter.com/saitokazuyoshi) | [Official Site](http://www.kazuyoshi-saito.com/)",
+          "siteUrl": "https://anilist.co/staff/211741"
+        }
+      },
+      {
+        "role": "Music Arrangement",
+        "node": {
+          "id": 211741,
+          "name": {
+            "first": "Kazuyoshi",
+            "last": "Saitou",
+            "native": "斉藤和義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n211741-mUeanZTQMTCY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n211741-mUeanZTQMTCY.jpg"
+          },
+          "description": "[Youtube](https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA) | [Instagram](https://www.instagram.com/kazuyoshisaito_official/) | [Twitter](https://twitter.com/saitokazuyoshi) | [Official Site](http://www.kazuyoshi-saito.com/)",
+          "siteUrl": "https://anilist.co/staff/211741"
+        }
+      },
+      {
+        "role": "Music Drum Machine Performance",
+        "node": {
+          "id": 211741,
+          "name": {
+            "first": "Kazuyoshi",
+            "last": "Saitou",
+            "native": "斉藤和義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n211741-mUeanZTQMTCY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n211741-mUeanZTQMTCY.jpg"
+          },
+          "description": "[Youtube](https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA) | [Instagram](https://www.instagram.com/kazuyoshisaito_official/) | [Twitter](https://twitter.com/saitokazuyoshi) | [Official Site](http://www.kazuyoshi-saito.com/)",
+          "siteUrl": "https://anilist.co/staff/211741"
+        }
+      },
+      {
+        "role": "Music Electric Slide Guitar Performance",
+        "node": {
+          "id": 211741,
+          "name": {
+            "first": "Kazuyoshi",
+            "last": "Saitou",
+            "native": "斉藤和義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n211741-mUeanZTQMTCY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n211741-mUeanZTQMTCY.jpg"
+          },
+          "description": "[Youtube](https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA) | [Instagram](https://www.instagram.com/kazuyoshisaito_official/) | [Twitter](https://twitter.com/saitokazuyoshi) | [Official Site](http://www.kazuyoshi-saito.com/)",
+          "siteUrl": "https://anilist.co/staff/211741"
+        }
+      },
+      {
+        "role": "Music Acoustic Guitar Performance",
+        "node": {
+          "id": 211741,
+          "name": {
+            "first": "Kazuyoshi",
+            "last": "Saitou",
+            "native": "斉藤和義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n211741-mUeanZTQMTCY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n211741-mUeanZTQMTCY.jpg"
+          },
+          "description": "[Youtube](https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA) | [Instagram](https://www.instagram.com/kazuyoshisaito_official/) | [Twitter](https://twitter.com/saitokazuyoshi) | [Official Site](http://www.kazuyoshi-saito.com/)",
+          "siteUrl": "https://anilist.co/staff/211741"
+        }
+      },
+      {
+        "role": "Music Performance",
+        "node": {
+          "id": 211741,
+          "name": {
+            "first": "Kazuyoshi",
+            "last": "Saitou",
+            "native": "斉藤和義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n211741-mUeanZTQMTCY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n211741-mUeanZTQMTCY.jpg"
+          },
+          "description": "[Youtube](https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA) | [Instagram](https://www.instagram.com/kazuyoshisaito_official/) | [Twitter](https://twitter.com/saitokazuyoshi) | [Official Site](http://www.kazuyoshi-saito.com/)",
+          "siteUrl": "https://anilist.co/staff/211741"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 29282,
+      "url": "https://www.youtube.com/watch?v=U-dvOieSh34",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 273678,
+          "rating": 1,
+          "media": {
+            "id": 130714,
+            "title": {
+              "native": "Boy"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 169081,
+            "title": {
+              "native": "見つかんない,　見つかんない"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 7
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 27
+      },
+      {
+        "score": 60,
+        "amount": 38
+      },
+      {
+        "score": 70,
+        "amount": 81
+      },
+      {
+        "score": 80,
+        "amount": 59
+      },
+      {
+        "score": 90,
+        "amount": 48
+      },
+      {
+        "score": 100,
+        "amount": 22
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 5
+      },
+      {
+        "status": "PLANNING",
+        "amount": 117
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 692
+      },
+      {
+        "status": "DROPPED",
+        "amount": 8
+      },
+      {
+        "status": "PAUSED",
+        "amount": 2
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/130714",
+  "modNotes": null
+}

@@ -1,0 +1,3392 @@
+{
+  "id": 80,
+  "idMal": 80,
+  "title": {
+    "native": "機動戦士ガンダム",
+    "romaji": "Kidou Senshi Gundam",
+    "english": "Mobile Suit Gundam"
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "What would you do if you suddenly found yourself in the middle of a war? Teenager Amuro Ray sees his life shattered when war comes to his home. During the chaos, Amuro finds himself inside the mobile suit Gundam, the Earth Federation's new secret weapon, and he somehow gets it to work. Amuro and the other refugees flee their homeland on the warship White Base. This group of children and inexperienced soldiers will change the outcome of the war. <br><br>\n(Source: Sunrise)",
+  "startDate": {
+    "year": 1979,
+    "month": 4,
+    "day": 7
+  },
+  "endDate": {
+    "year": 1980,
+    "month": 1,
+    "day": 26
+  },
+  "season": "SPRING",
+  "seasonYear": 1979,
+  "seasonInt": 792,
+  "episodes": 43,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748905881,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx80-pdYJ12vSTmad.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx80-pdYJ12vSTmad.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx80-pdYJ12vSTmad.jpg",
+    "color": "#e48650"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/80-LcQhJ600WeDn.jpg",
+  "genres": [
+    "Drama",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "MSG",
+    "Mobile Suit Gundam: 0079"
+  ],
+  "averageScore": 76,
+  "meanScore": 76,
+  "popularity": 39276,
+  "favourites": 1528,
+  "tags": [
+    {
+      "id": 111,
+      "name": "War",
+      "description": "Partly or completely set during wartime.",
+      "category": "Theme-Other",
+      "rank": 98,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 96,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 160,
+      "name": "Real Robot",
+      "description": "Prominently features mechanical designs loosely influenced by real-world robotics.",
+      "category": "Theme-Sci-Fi-Mecha",
+      "rank": 95,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 63,
+      "name": "Space",
+      "description": "Partly or completely set in outer space.",
+      "category": "Setting-Universe",
+      "rank": 90,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 162,
+      "name": "Space Opera",
+      "description": "Centers around space warfare, advanced technology, chivalric romance and adventure.",
+      "category": "Theme-Sci-Fi",
+      "rank": 88,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 103,
+      "name": "Politics",
+      "description": "Centers around politics, politicians, or government activities.",
+      "category": "Theme-Other",
+      "rank": 85,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1310,
+      "name": "Travel",
+      "description": "Centers around character(s) moving between places a significant distance apart.",
+      "category": "Theme-Other",
+      "rank": 85,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1228,
+      "name": "Primarily Teen Cast",
+      "description": "Main cast is mostly composed of teen characters.",
+      "category": "Cast-Main Cast",
+      "rank": 84,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 80,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 102,
+      "name": "Coming of Age",
+      "description": "Centers around a character's transition from childhood to adulthood.",
+      "category": "Theme-Drama",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 456,
+      "name": "Conspiracy",
+      "description": "Contains one or more factions controlling or attempting to control the world from the shadows.",
+      "category": "Theme-Drama",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 198,
+      "name": "Foreign",
+      "description": "Partly or completely set in a country outside the country of origin.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 174,
+      "name": "Tanks",
+      "description": "Prominently features the use of tanks or other armoured vehicles.",
+      "category": "Theme-Other-Vehicle",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 355,
+      "name": "Aviation",
+      "description": "Regarding the flying or operation of aircraft.",
+      "category": "Theme-Other-Vehicle",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 76,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 252,
+      "name": "Revenge",
+      "description": "Prominently features a character who aims to exact punishment in a resentful or vindictive manner.",
+      "category": "Theme-Drama",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 65,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 104,
+      "name": "Anti-Hero",
+      "description": "Features a protagonist who lacks conventional heroic attributes and may be considered a borderline villain.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 342,
+      "name": "Environmental",
+      "description": "Concern with the state of the natural world and how humans interact with it.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 157,
+      "name": "Guns",
+      "description": "Prominently features the use of guns in combat.",
+      "category": "Theme-Action",
+      "rank": 56,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 159,
+      "name": "Super Robot",
+      "description": "Prominently features large robots often piloted by hot-blooded protagonists.",
+      "category": "Theme-Sci-Fi-Mecha",
+      "rank": 53,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 43,
+      "name": "Swordplay",
+      "description": "Prominently features the use of swords in combat.",
+      "category": "Theme-Action",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1453,
+      "name": "Desert",
+      "description": "Prominently features a desert environment.",
+      "category": "Setting-Scene",
+      "rank": 48,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 139,
+      "name": "Love Triangle",
+      "description": "Centered around romantic feelings between more than two people. Includes all love polygons.",
+      "category": "Theme-Romance",
+      "rank": 46,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 96,
+      "name": "Time Manipulation",
+      "description": "Prominently features time-traveling or other time-warping phenomena.",
+      "category": "Theme-Sci-Fi",
+      "rank": 10,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 85,
+          "title": {
+            "native": "機動戦士Zガンダム"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 1917,
+          "title": {
+            "native": "機動戦士ガンダム MS IGLOO: 1年戦争秘録"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 4540,
+          "title": {
+            "native": "ガンダムミッション・トゥ・ザ・ライズ"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 1090,
+          "title": {
+            "native": "機動戦士ガンダムⅠ"
+          }
+        },
+        "relationType": "SUMMARY"
+      },
+      {
+        "node": {
+          "id": 1091,
+          "title": {
+            "native": "機動戦士ガンダムⅡ　哀・戦士編"
+          }
+        },
+        "relationType": "SUMMARY"
+      },
+      {
+        "node": {
+          "id": 1092,
+          "title": {
+            "native": "機動戦士ガンダムⅢ　めぐりあい宇宙編"
+          }
+        },
+        "relationType": "SUMMARY"
+      },
+      {
+        "node": {
+          "id": 20756,
+          "title": {
+            "native": "機動戦士ガンダムさん"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 21458,
+          "title": {
+            "native": "機動戦士ガンダム サンダーボルト"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 20355,
+          "title": {
+            "native": "ジオニックトヨタ スペシャルムービー"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 30214,
+          "title": {
+            "native": "機動戦士ガンダム The Origin"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 30206,
+          "title": {
+            "native": "機動戦士ガンダム0079"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 39889,
+          "title": {
+            "native": "機動戦士ガンダム"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 39977,
+          "title": {
+            "native": "機動戦士ガンダム"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 20947,
+          "title": {
+            "native": "日本アニメ（ーター）見本市"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 10937,
+          "title": {
+            "native": "機動戦士ガンダムTHE ORIGIN"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 96243,
+          "title": {
+            "native": "アパートメント・オブ・ガンダム"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 108039,
+          "title": {
+            "native": "機動戦士ガンダム THE ORIGIN 前夜 赤い彗星"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 82,
+          "title": {
+            "native": "機動戦士ガンダム 0080 ポケットの中の戦争"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 81,
+          "title": {
+            "native": "機動戦士ガンダム 第08MS小隊"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 5270,
+          "title": {
+            "native": "ALL THAT GUNDAM"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 14007,
+          "title": {
+            "native": "赤い肖像　～シャア、そしてフロンタルへ～"
+          }
+        },
+        "relationType": "SUMMARY"
+      },
+      {
+        "node": {
+          "id": 9040,
+          "title": {
+            "native": "模型戦士 ガンプラ ビルダーズ ビギニングG"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 18449,
+          "title": {
+            "native": "機動戦士ガンダム戦記 アバンタイトル"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 8287,
+          "title": {
+            "native": "SDガンダム三国伝 Brave Battle Warriors"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 2391,
+          "title": {
+            "native": "SDガンダムフォース"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 108041,
+          "title": {
+            "native": "SDガンダムワールド 三国創傑伝"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 19977,
+          "title": {
+            "native": "The Impression of First GUNDAM"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 2302,
+          "title": {
+            "native": "機動戦士SDガンダム"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 84,
+          "title": {
+            "native": "機動戦士ガンダム0083 STARDUST MEMORY"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 7113,
+          "title": {
+            "native": "30th GUNDAM PERFECT MISSION"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 111457,
+          "title": {
+            "native": "「ガンダム」を創った男たち。"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 20477,
+          "title": {
+            "native": "ジオニックフロント 機動戦士ガンダム0079"
+          }
+        },
+        "relationType": "SUMMARY"
+      },
+      {
+        "node": {
+          "id": 93,
+          "title": {
+            "native": "機動戦士ガンダムSEED"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 2581,
+          "title": {
+            "native": "機動戦士ガンダム00"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 96,
+          "title": {
+            "native": "機動武闘伝Gガンダム"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 7060,
+          "title": {
+            "native": "リング　オブ　ガンダム"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 92,
+          "title": {
+            "native": "機動新世紀ガンダムX"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 90,
+          "title": {
+            "native": "新機動戦記ガンダムW"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 10808,
+          "title": {
+            "native": "機動戦士ガンダムAGE"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 3288,
+          "title": {
+            "native": "ガンダムEVOLVE"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 21268,
+          "title": {
+            "native": "機動戦士ガンダム 鉄血のオルフェンズ"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 95,
+          "title": {
+            "native": "∀ガンダム"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 20658,
+          "title": {
+            "native": "ガンダム Gのレコンギスタ"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 1967,
+          "title": {
+            "native": "機動戦士Ζガンダム A New Translation -星を継ぐ者-"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 21893,
+          "title": {
+            "native": "機動戦士ガンダム サンダーボルト December Sky"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 19319,
+          "title": {
+            "native": "ガンダムビルドファイターズ"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 112450,
+          "title": {
+            "native": "機動戦士ガンダムＵＣepisode EX｢百年の孤独｣"
+          }
+        },
+        "relationType": "SUMMARY"
+      },
+      {
+        "node": {
+          "id": 113138,
+          "title": {
+            "native": "機動戦士ガンダム 光る命 Chronicle U.C."
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 114841,
+          "title": {
+            "native": "機動戦士ガンダムG40"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 117253,
+          "title": {
+            "native": "シャアとアムロと老いと ー安らぎの地平へー"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 88196,
+          "title": {
+            "native": "機動戦士ガンダム ハイブリッド4コマ大戦線"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 126625,
+          "title": {
+            "native": "機動戦士ガンダム異伝 二十四歳職業OL、転生先でキシリアやってます"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 129287,
+          "title": {
+            "native": "機動戦士ガンダム U.C.戦記 追憶のシャア・アズナブル"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 110419,
+          "title": {
+            "native": "ガンダムvsハローキティ"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 130818,
+          "title": {
+            "native": "機動戦士ガンダム THE ANTHOLOGY"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 133614,
+          "title": {
+            "native": "機動戦士ガンダム外伝 Ｇの影忍"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 136679,
+          "title": {
+            "native": "機動戦士ガンダム ゼロの旧ザク"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 136712,
+          "title": {
+            "native": "ガンダムパイロット列伝 蒼穹の勇者達"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 135645,
+          "title": {
+            "native": "ガンダムブレイカー バトルローグ"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 138344,
+          "title": {
+            "native": "機動戦士ガンダム ピューリッツァー －アムロ・レイは極光の彼方へー"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 139273,
+          "title": {
+            "native": "機動戦士ガンダム ククルス・ドアンの島"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 126626,
+          "title": {
+            "native": "ラル飯～ランバ・ラルの背徳ごはん～"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 143002,
+          "title": {
+            "native": "機動戦士ガンダム バトルオペレーション Code Fairy"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 124798,
+          "title": {
+            "native": "機動戦士ガンダム バンディエラ"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 145713,
+          "title": {
+            "native": "機動戦士ガンダム ラストホライズン"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 72401,
+          "title": {
+            "native": "機動戦士ガンダムMSV戦記 ジョニー・ライデン"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 146662,
+          "title": {
+            "native": "アムロと僕"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 146958,
+          "title": {
+            "native": "アウターガンダム"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 147017,
+          "title": {
+            "native": "アッガイ博士"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 147052,
+          "title": {
+            "native": "機動戦士ガンダム ANAHEIM RECORD"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 93628,
+          "title": {
+            "native": "機動戦士ガンダム MS BOYS －ボクたちのジオン独立戦争－"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 147408,
+          "title": {
+            "native": "魔法の少尉ブラスターマリ"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 147409,
+          "title": {
+            "native": "ジュピターミラージュ"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 96933,
+          "title": {
+            "native": "機動戦士ガンダム 黒衣の狩人"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 147460,
+          "title": {
+            "native": "機動戦士ガンダムUC 虹にのれなかった男"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 147504,
+          "title": {
+            "native": "俺は生ガンダム"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 64033,
+          "title": {
+            "native": "機動戦士ガンダムU.C. HARD GRAPH 鉄の駻馬"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 81179,
+          "title": {
+            "native": "機動戦士ガンダムMSV‐R 宇宙世紀英雄伝説 虹霓のシン・マツナガ"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 121263,
+          "title": {
+            "native": "プラモ狂四郎"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 148339,
+          "title": {
+            "native": "機動戦士ガンダム ブレイジングシャドウ"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 39854,
+          "title": {
+            "native": "ソロモンの悪夢"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 149558,
+          "title": {
+            "native": "Gundam 0079 - ソロモンの悪夢"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 150134,
+          "title": {
+            "native": "機動戦士ガンダム FAR EAST JAPAN"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 30353,
+          "title": {
+            "native": "機動戦士ガンダム戦記 Lost War Chronicles"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 139274,
+          "title": {
+            "native": "機動戦士ガンダム 水星の魔女"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 120600,
+          "title": {
+            "native": "機動戦士ガンダム アグレッサー"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 152997,
+          "title": {
+            "native": "機動絶記ガンダム SEQUEL"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 154050,
+          "title": {
+            "native": "機動戦士ガンダム N-EXTREME"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 155275,
+          "title": {
+            "native": "フォー・ザ・バレル"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 84123,
+          "title": {
+            "native": "ガンダム EXA"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 117779,
+          "title": {
+            "native": "ガンダム EXA VS"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 159265,
+          "title": {
+            "native": "笑撃戦隊Gアームズ"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 159405,
+          "title": {
+            "native": "SDガンダム 武っちゃムチャ○伝"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 159411,
+          "title": {
+            "native": "SDガンダム フルカラー劇場"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 164329,
+          "title": {
+            "native": "機動戦士ガンダム赤い三巨星"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 165481,
+          "title": {
+            "native": "機動戦士ガンダム フラナガン・ブーン戦記"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 166703,
+          "title": {
+            "native": "機動戦士ガンダム 復讐のレクイエム"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 185213,
+          "title": {
+            "native": "機動戦士Gundam GQuuuuuuX"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 183651,
+          "title": {
+            "native": "機動戦士ガンダム ALC ENCOUNTER"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 191532,
+          "title": {
+            "native": "機動戦士ガンダムエイト"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43118,
+          "name": {
+            "first": "Woody",
+            "last": "Malden",
+            "native": "ウッディ・マルデン ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/43118.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43118.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43118"
+        },
+        "voiceActors": [
+          {
+            "id": 95234,
+            "name": {
+              "first": "Hideyuki",
+              "last": "Tanaka",
+              "native": "田中秀幸"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95234-YAu7XmoSIIS7.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95234-YAu7XmoSIIS7.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95234"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1342,
+          "name": {
+            "first": "Kai",
+            "last": "Shiden",
+            "native": "カイ・シデン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/1342.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1342.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1342"
+        },
+        "voiceActors": [
+          {
+            "id": 95673,
+            "name": {
+              "first": "Toshio",
+              "last": "Furukawa",
+              "native": "古川登志夫"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95673-jNN4GqGgpssj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95673-jNN4GqGgpssj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95673"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1335,
+          "name": {
+            "first": "Amuro",
+            "last": "Ray",
+            "native": "アムロ・レイ",
+            "alternative": [
+              "White Devil",
+              "White Unicorn",
+              "White Shooting Star"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1335-uzT1UsLOu3nE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1335-uzT1UsLOu3nE.png"
+          },
+          "siteUrl": "https://anilist.co/character/1335"
+        },
+        "voiceActors": [
+          {
+            "id": 95326,
+            "name": {
+              "first": "Tooru",
+              "last": "Furuya",
+              "native": "古谷徹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95326-OfRv2DBnFVZU.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95326-OfRv2DBnFVZU.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95326"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 29686,
+          "name": {
+            "first": "Gihren",
+            "last": "Zabi",
+            "native": "ギレン・ザビ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b29686-PYiwjItps3LV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b29686-PYiwjItps3LV.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29686"
+        },
+        "voiceActors": [
+          {
+            "id": 95330,
+            "name": {
+              "first": "Banjou",
+              "last": "Ginga",
+              "native": "銀河万丈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95330-PHDm9uDhKAsT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95330-PHDm9uDhKAsT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95330"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42318,
+          "name": {
+            "first": "Tem",
+            "last": "Ray",
+            "native": "テム・レイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/42318.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42318.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42318"
+        },
+        "voiceActors": [
+          {
+            "id": 95333,
+            "name": {
+              "first": "Motomu",
+              "last": "Kiyokawa",
+              "native": "清川元夢"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95333-11aYjXsaWLIp.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95333-11aYjXsaWLIp.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95333"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43138,
+          "name": {
+            "first": "Cameron",
+            "last": "Bloom",
+            "native": "カムラン・ブルーム",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/43138.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43138.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43138"
+        },
+        "voiceActors": [
+          {
+            "id": 95424,
+            "name": {
+              "first": "Kaneto",
+              "last": "Shiozawa",
+              "native": "塩沢兼人"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95424-Zd7vHDVhSWKs.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95424-Zd7vHDVhSWKs.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95424"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24770,
+          "name": {
+            "first": "Job",
+            "last": "John",
+            "native": "ジョブ・ジョン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24770.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24770.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24770"
+        },
+        "voiceActors": [
+          {
+            "id": 95424,
+            "name": {
+              "first": "Kaneto",
+              "last": "Shiozawa",
+              "native": "塩沢兼人"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95424-Zd7vHDVhSWKs.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95424-Zd7vHDVhSWKs.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95424"
+          },
+          {
+            "id": 95629,
+            "name": {
+              "first": "Issei",
+              "last": "Futamata",
+              "native": "二又一成"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95629-WgKFV9c2Wxpu.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95629-WgKFV9c2Wxpu.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95629"
+          },
+          {
+            "id": 96129,
+            "name": {
+              "first": "Kiyonobu",
+              "last": "Suzuki",
+              "native": "鈴木清信"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96129-7bThBoEPzMsd.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96129-7bThBoEPzMsd.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96129"
+          },
+          {
+            "id": 95673,
+            "name": {
+              "first": "Toshio",
+              "last": "Furukawa",
+              "native": "古川登志夫"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95673-jNN4GqGgpssj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95673-jNN4GqGgpssj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95673"
+          },
+          {
+            "id": 96522,
+            "name": {
+              "first": "Naoki",
+              "last": "Tatsuta",
+              "native": "龍田直樹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1522.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1522.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96522"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1352,
+          "name": {
+            "first": "Mirai",
+            "last": "Yashima",
+            "native": "ミライ・ヤシマ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/1352.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1352.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1352"
+        },
+        "voiceActors": [
+          {
+            "id": 103860,
+            "name": {
+              "first": "Fuyumi",
+              "last": "Shiraishi",
+              "native": "白石冬美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103860-jVyAdLz2MZf1.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103860-jVyAdLz2MZf1.png"
+            },
+            "siteUrl": "https://anilist.co/staff/103860"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1384,
+          "name": {
+            "first": "Katz",
+            "last": "Hawin",
+            "native": "カツ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1384-mHp3tPYkLcVN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1384-mHp3tPYkLcVN.png"
+          },
+          "siteUrl": "https://anilist.co/character/1384"
+        },
+        "voiceActors": [
+          {
+            "id": 103860,
+            "name": {
+              "first": "Fuyumi",
+              "last": "Shiraishi",
+              "native": "白石冬美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103860-jVyAdLz2MZf1.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103860-jVyAdLz2MZf1.png"
+            },
+            "siteUrl": "https://anilist.co/staff/103860"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35017,
+          "name": {
+            "first": "Johann Abraham",
+            "last": "Revil",
+            "native": "レビル将軍",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/35017.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/35017.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/35017"
+        },
+        "voiceActors": [
+          {
+            "id": 95803,
+            "name": {
+              "first": "Masaru",
+              "last": "Ikeda",
+              "native": "池田勝"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/803.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/803.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95803"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35020,
+          "name": {
+            "first": "Kycilia",
+            "last": "Zabi",
+            "native": "キシリア・ザビ",
+            "alternative": [
+              "Kacilia"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/35020.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/35020.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/35020"
+        },
+        "voiceActors": [
+          {
+            "id": 95571,
+            "name": {
+              "first": "Mami",
+              "last": "Koyama",
+              "native": "小山茉美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95571-QuL7zlRwRcxa.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95571-QuL7zlRwRcxa.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95571"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1337,
+          "name": {
+            "first": "Bright",
+            "last": "Noa",
+            "native": "ブライト・ノア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1337-1Onnawv89DVo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1337-1Onnawv89DVo.png"
+          },
+          "siteUrl": "https://anilist.co/character/1337"
+        },
+        "voiceActors": [
+          {
+            "id": 95572,
+            "name": {
+              "first": "Hirotaka",
+              "last": "Suzuoki",
+              "native": "鈴置洋孝"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95572-H6tkZ7SsId5E.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95572-H6tkZ7SsId5E.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95572"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1336,
+          "name": {
+            "first": "Char",
+            "last": "Aznable",
+            "native": "シャア・アズナブル",
+            "alternative": [
+              "The Red Comet",
+              "Edward Mass",
+              "Casval Rem Deikun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1336-VjllcTHMDuhI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1336-VjllcTHMDuhI.png"
+          },
+          "siteUrl": "https://anilist.co/character/1336"
+        },
+        "voiceActors": [
+          {
+            "id": 95598,
+            "name": {
+              "first": "Shuuichi",
+              "last": "Ikeda",
+              "native": "池田秀一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95598-IZBrsaxRsACg.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95598-IZBrsaxRsACg.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95598"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35018,
+          "name": {
+            "first": "Crowley",
+            "last": "Hamon",
+            "native": "クラウレ・ハモン",
+            "alternative": [
+              "Lady Hamon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35018-EIUoFU9rfCNR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35018-EIUoFU9rfCNR.png"
+          },
+          "siteUrl": "https://anilist.co/character/35018"
+        },
+        "voiceActors": [
+          {
+            "id": 100855,
+            "name": {
+              "first": "Yumi",
+              "last": "Nakatani",
+              "native": "中谷ゆみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100855-QZf0q1T9yttC.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100855-QZf0q1T9yttC.png"
+            },
+            "siteUrl": "https://anilist.co/staff/100855"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42329,
+          "name": {
+            "first": "",
+            "last": "Eschonbach",
+            "native": "エッシェンバッハ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/42329.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42329.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42329"
+        },
+        "voiceActors": [
+          {
+            "id": 95726,
+            "name": {
+              "first": "Shouzou",
+              "last": "Iizuka",
+              "native": "飯塚昭三"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95726-SddF7dYKZshB.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95726-SddF7dYKZshB.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95726"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1350,
+          "name": {
+            "first": "Ryu",
+            "last": "Jose",
+            "native": "リュウ・ホセイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/1350.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1350.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1350"
+        },
+        "voiceActors": [
+          {
+            "id": 95726,
+            "name": {
+              "first": "Shouzou",
+              "last": "Iizuka",
+              "native": "飯塚昭三"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95726-SddF7dYKZshB.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95726-SddF7dYKZshB.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95726"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 30965,
+          "name": {
+            "first": "Dozle",
+            "last": "Zabi",
+            "native": "ドズル・ザビ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/30965.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/30965.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/30965"
+        },
+        "voiceActors": [
+          {
+            "id": 95744,
+            "name": {
+              "first": "Daisuke",
+              "last": "Gouri",
+              "native": "郷里大輔"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95744-Iu1p0eNvShfN.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95744-Iu1p0eNvShfN.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95744"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42328,
+          "name": {
+            "first": "Icelina",
+            "last": "Eschonbach",
+            "native": "イセリナ・エッシェンバッハ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/42328.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42328.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42328"
+        },
+        "voiceActors": [
+          {
+            "id": 95760,
+            "name": {
+              "first": "Keiko",
+              "last": "Han",
+              "native": "潘恵子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95760-aatvqsrxbFZN.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95760-aatvqsrxbFZN.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95760"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1386,
+          "name": {
+            "first": "Lalah",
+            "last": "Sune",
+            "native": "ララァ・スン",
+            "alternative": [
+              "Ghost of Solomon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1386-fIq9Mgd3pAZ2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1386-fIq9Mgd3pAZ2.png"
+          },
+          "siteUrl": "https://anilist.co/character/1386"
+        },
+        "voiceActors": [
+          {
+            "id": 95760,
+            "name": {
+              "first": "Keiko",
+              "last": "Han",
+              "native": "潘恵子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95760-aatvqsrxbFZN.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95760-aatvqsrxbFZN.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95760"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1351,
+          "name": {
+            "first": "Sleggar",
+            "last": "Law",
+            "native": "スレッガー・ロウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/1351.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1351.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1351"
+        },
+        "voiceActors": [
+          {
+            "id": 95761,
+            "name": {
+              "first": "Tesshou",
+              "last": "Genda",
+              "native": "玄田哲章"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95761-nwndYRCqJxno.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95761-nwndYRCqJxno.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95761"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1349,
+          "name": {
+            "first": "Frau",
+            "last": "Bow",
+            "native": "フラウ・ボゥ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1349-ux4GeDXXSirU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1349-ux4GeDXXSirU.png"
+          },
+          "siteUrl": "https://anilist.co/character/1349"
+        },
+        "voiceActors": [
+          {
+            "id": 101196,
+            "name": {
+              "first": "Rumiko",
+              "last": "Ukai",
+              "native": "鵜飼るみ子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101196-Tg0G2LlgkoKa.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101196-Tg0G2LlgkoKa.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101196"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1339,
+          "name": {
+            "first": "Hayato",
+            "last": "Kobayashi",
+            "native": "ハヤト コバヤシ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/1339.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1339.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1339"
+        },
+        "voiceActors": [
+          {
+            "id": 96129,
+            "name": {
+              "first": "Kiyonobu",
+              "last": "Suzuki",
+              "native": "鈴木清信"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96129-7bThBoEPzMsd.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96129-7bThBoEPzMsd.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96129"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 16282,
+          "name": {
+            "first": "Ramba",
+            "last": "Ral",
+            "native": "ランバ・ラル",
+            "alternative": [
+              "Blue Giant"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16282.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16282.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16282"
+        },
+        "voiceActors": [
+          {
+            "id": 102886,
+            "name": {
+              "first": "Masashi",
+              "last": "Hirose",
+              "native": "広瀬正志"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7886.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/7886.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102886"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35019,
+          "name": {
+            "first": "Garma",
+            "last": "Zabi",
+            "native": "ガルマ・ザビ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/35019.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/35019.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/35019"
+        },
+        "voiceActors": [
+          {
+            "id": 95921,
+            "name": {
+              "first": "Katsuji",
+              "last": "Mori",
+              "native": "森功至"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/921.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/921.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95921"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1338,
+          "name": {
+            "first": "Sayla",
+            "last": "Mass",
+            "native": "セイラ・マス",
+            "alternative": [
+              "Artesia Som Deikun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1338-gAbM9bSiwexP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1338-gAbM9bSiwexP.png"
+          },
+          "siteUrl": "https://anilist.co/character/1338"
+        },
+        "voiceActors": [
+          {
+            "id": 96066,
+            "name": {
+              "first": "You",
+              "last": "Inoue",
+              "native": "井上瑤"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1066.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1066.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96066"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97197,
+          "name": {
+            "first": "Hajime",
+            "last": "Yatate",
+            "native": "矢立肇"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97197-6NsKNt4EPoul.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97197-6NsKNt4EPoul.jpg"
+          },
+          "description": "[Website](http://www.yatate.net/) | [Twitter](https://twitter.com/yatate_hajime) | [Wiki (jp)](https://ja.wikipedia.org/wiki/矢立肇) | [Wiki (en)](https://en.wikipedia.org/wiki/Hajime_Yatate)\n\nHajime Yatate is a collective pseudonym for [Sunrise](https://anilist.co/studio/14/)'s staff.",
+          "siteUrl": "https://anilist.co/staff/97197"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 97220,
+          "name": {
+            "first": "Yoshikazu",
+            "last": "Yasuhiko",
+            "native": "安彦良和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97220-puLgNyzC7Yep.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97220-puLgNyzC7Yep.jpg"
+          },
+          "description": "An animator turned mangaka, Yasuhiko was born in Hokkaido in December 1947, he dropped out of Hirosaki University in 1970 to work for MushiPro as an animator. In the 70s he became a freelancer and worked on TV anime. Some of his most famous work as a character designer or director are \"Space Battleship Yamato\", \"Brave Raideen\", \"Combattler V\" and \"Mobile Suit Gundam\".\n\nIn 1979, he made his debut as a mangaka with \"Arion\" serialized in the newly founded magazine \"Ryu\". Following this, Yasuhiko alternated between the Anime and Manga worlds with works like \"Kiba - The Legend of White Fang\", \"Crusher Joe\", and \"Giant Gorg\", and \"Star of the Kurds\", \"C-Court\", and \"Venus Wars\".\n\nThese worlds would overlap, when his manga \"Arion\" would get adapted into an anime film in 1986 with the title \"Neo Heroic Fantasia: Arion\". Following this, he would adapt his SF Military Chronicle \"Venus Wars\" into an anime film in 1989. The anime film adaptation for \"Venus Wars\" came at an unfortunate point for Yasuhiko, and the film was sealed, preventing it from being made readily available on home video formats in Japan (though still made accessible overseas). He turned to manga completely and had gained a respectable reputation as a history mangaka with works focusing on both Japanese history with \"Jinmu\", \"Namuji\", \"Yamato Takeru\" and European history with \"Alexandros\", \"Joan\", and Theology with \"Jesus\".\n\nIn 2001 he adapted the First Gundam anime into a manga with \"Mobile Suit Gundam: The Origin\" and was colossally popular, being serialized for 24 Tankoban volumes.\n\nWith over 50 years worth of experience across multiple mediums of entertainment and showing no signs of stopping, Yasuhiko's terrific worldview continues to touch the hearts of many around the world.\n\nIn 1981, he won the Seiun Award in the Art category. In 1992, he received the Japan Cartoonists Association Award for his work \"Namuji\". From 1979 to 1982, he ranked first in the Anime Grand Prix for Character Design. In 2000, he won the Japan Media Arts Festival Excellence Prize in the Manga category for \"Ōdō no Inu\". In 2012, he won the Seiun Award in the Best Comic category for \"Mobile Suit Gundam: The Origin\". In 2015, he received the Animation Kobe Special Award.",
+          "siteUrl": "https://anilist.co/staff/97220"
+        }
+      },
+      {
+        "role": "Animation Director (eps 1-3, 6, 7, 9, 10, 13, 17, 19, 22, 24, 26, 29-31)",
+        "node": {
+          "id": 97220,
+          "name": {
+            "first": "Yoshikazu",
+            "last": "Yasuhiko",
+            "native": "安彦良和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97220-puLgNyzC7Yep.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97220-puLgNyzC7Yep.jpg"
+          },
+          "description": "An animator turned mangaka, Yasuhiko was born in Hokkaido in December 1947, he dropped out of Hirosaki University in 1970 to work for MushiPro as an animator. In the 70s he became a freelancer and worked on TV anime. Some of his most famous work as a character designer or director are \"Space Battleship Yamato\", \"Brave Raideen\", \"Combattler V\" and \"Mobile Suit Gundam\".\n\nIn 1979, he made his debut as a mangaka with \"Arion\" serialized in the newly founded magazine \"Ryu\". Following this, Yasuhiko alternated between the Anime and Manga worlds with works like \"Kiba - The Legend of White Fang\", \"Crusher Joe\", and \"Giant Gorg\", and \"Star of the Kurds\", \"C-Court\", and \"Venus Wars\".\n\nThese worlds would overlap, when his manga \"Arion\" would get adapted into an anime film in 1986 with the title \"Neo Heroic Fantasia: Arion\". Following this, he would adapt his SF Military Chronicle \"Venus Wars\" into an anime film in 1989. The anime film adaptation for \"Venus Wars\" came at an unfortunate point for Yasuhiko, and the film was sealed, preventing it from being made readily available on home video formats in Japan (though still made accessible overseas). He turned to manga completely and had gained a respectable reputation as a history mangaka with works focusing on both Japanese history with \"Jinmu\", \"Namuji\", \"Yamato Takeru\" and European history with \"Alexandros\", \"Joan\", and Theology with \"Jesus\".\n\nIn 2001 he adapted the First Gundam anime into a manga with \"Mobile Suit Gundam: The Origin\" and was colossally popular, being serialized for 24 Tankoban volumes.\n\nWith over 50 years worth of experience across multiple mediums of entertainment and showing no signs of stopping, Yasuhiko's terrific worldview continues to touch the hearts of many around the world.\n\nIn 1981, he won the Seiun Award in the Art category. In 1992, he received the Japan Cartoonists Association Award for his work \"Namuji\". From 1979 to 1982, he ranked first in the Anime Grand Prix for Character Design. In 2000, he won the Japan Media Arts Festival Excellence Prize in the Manga category for \"Ōdō no Inu\". In 2012, he won the Seiun Award in the Best Comic category for \"Mobile Suit Gundam: The Origin\". In 2015, he received the Animation Kobe Special Award.",
+          "siteUrl": "https://anilist.co/staff/97220"
+        }
+      },
+      {
+        "role": "Chief Director",
+        "node": {
+          "id": 97337,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Tomino",
+            "native": "富野由悠季"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97337-kXpaK7OANmr9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97337-kXpaK7OANmr9.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/富野由悠季) | [Wiki (en)](https://en.wikipedia.org/wiki/Yoshiyuki_Tomino)\n\nYoshiyuki Tomino is an anime creator best known for creating the Gundam anime franchise.\n\nBegan his career in 1963 with [Osamu Tezuka](https://anilist.co/staff/96938/)'s company, [Mushi Production](https://anilist.co/studio/68/), scripting and directing episodes of the first Japanese anime television series, [Astro Boy](https://anilist.co/anime/2747/). He later became one of the most important members of the anime studio [Sunrise](https://anilist.co/studio/14/), going on to direct numerous anime through the '70s, '80s and '90s. He is perhaps best known for his transformation of the \"Super Robot\" mecha anime genre into the \"Real Robot\" genre with 1979's [Mobile Suit Gundam](https://anilist.co/anime/80/), the first in the Gundam franchise.\n\nKnown for using numerous pseudonyms.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/97337"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97337,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Tomino",
+            "native": "富野由悠季"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97337-kXpaK7OANmr9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97337-kXpaK7OANmr9.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/富野由悠季) | [Wiki (en)](https://en.wikipedia.org/wiki/Yoshiyuki_Tomino)\n\nYoshiyuki Tomino is an anime creator best known for creating the Gundam anime franchise.\n\nBegan his career in 1963 with [Osamu Tezuka](https://anilist.co/staff/96938/)'s company, [Mushi Production](https://anilist.co/studio/68/), scripting and directing episodes of the first Japanese anime television series, [Astro Boy](https://anilist.co/anime/2747/). He later became one of the most important members of the anime studio [Sunrise](https://anilist.co/studio/14/), going on to direct numerous anime through the '70s, '80s and '90s. He is perhaps best known for his transformation of the \"Super Robot\" mecha anime genre into the \"Real Robot\" genre with 1979's [Mobile Suit Gundam](https://anilist.co/anime/80/), the first in the Gundam franchise.\n\nKnown for using numerous pseudonyms.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/97337"
+        }
+      },
+      {
+        "role": "Script (ep 14)",
+        "node": {
+          "id": 97337,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Tomino",
+            "native": "富野由悠季"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97337-kXpaK7OANmr9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97337-kXpaK7OANmr9.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/富野由悠季) | [Wiki (en)](https://en.wikipedia.org/wiki/Yoshiyuki_Tomino)\n\nYoshiyuki Tomino is an anime creator best known for creating the Gundam anime franchise.\n\nBegan his career in 1963 with [Osamu Tezuka](https://anilist.co/staff/96938/)'s company, [Mushi Production](https://anilist.co/studio/68/), scripting and directing episodes of the first Japanese anime television series, [Astro Boy](https://anilist.co/anime/2747/). He later became one of the most important members of the anime studio [Sunrise](https://anilist.co/studio/14/), going on to direct numerous anime through the '70s, '80s and '90s. He is perhaps best known for his transformation of the \"Super Robot\" mecha anime genre into the \"Real Robot\" genre with 1979's [Mobile Suit Gundam](https://anilist.co/anime/80/), the first in the Gundam franchise.\n\nKnown for using numerous pseudonyms.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/97337"
+        }
+      },
+      {
+        "role": "Mechanical Design",
+        "node": {
+          "id": 101417,
+          "name": {
+            "first": "Kunio",
+            "last": "Okawara",
+            "native": "大河原邦男"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101417-S71ZdLN57Udo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101417-S71ZdLN57Udo.png"
+          },
+          "description": "Originating from [Tatsunoko Production](https://anilist.co/studio/103/).\nKunio Okawara was the first in the industry to be specifically credited as a mechanical designer. He is the designer of numerous Real Robots and Super Robots. ",
+          "siteUrl": "https://anilist.co/staff/101417"
+        }
+      },
+      {
+        "role": "Art Design",
+        "node": {
+          "id": 103191,
+          "name": {
+            "first": "Mitsuki",
+            "last": "Nakamura",
+            "native": "中村光毅"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8191.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8191.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/103191"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 103268,
+          "name": {
+            "first": "Ichirou",
+            "last": "Itano",
+            "native": "板野一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103268-6Z38ssL2kEAs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103268-6Z38ssL2kEAs.png"
+          },
+          "description": "Ichirou Itano is a Japanese director, producer, animator and mechanical designer. He has worked in a number of science fiction anime series, especially mecha-themed ones. Director of works such as [Angel Cop](https://anilist.co/anime/1351/), [Battle Royal High School](https://anilist.co/anime/3625/), [Gantz](https://anilist.co/anime/384/) and more.\n\nItano is best known among anime fans for a style of action scene that he developed, usually nicknamed \"Itano Circus\" by fans; it refers to a highly stylized and acrobatic method of depicting aerial combat and dogfights in many anime.\n\nThe production in [Space Runaway Ideon](https://anilist.co/anime/930/) became a hot topic in the anime industry, and it came to be called this by comparing the brisk movement of mechanics to the air acrobatics of the circus. The technique became more famous when Itano used it for the \"dogfights\" depicted in [The Super Dimension Fortress Macross](https://anilist.co/anime/1088/) anime TV series in 1982. It's characterized by detailed, fluid shading of the mecha, the close-range acrobatic moves the dueling fighters make in combat, as well as twisting contrails left by fighters and missiles. It is also commonly used in specific reference to an attack where a mecha or spaceship launches a large swarm of guided missiles with meticulously animated spiraling smoke trails and erratic trajectories and its target is repeatedly dodging those missiles at a high speed.\n\nAccording to him, [Hideaki Anno](https://anilist.co/staff/100111/), [Masami Gotou](https://anilist.co/staff/129865/) and [Yasushi Muraki](https://anilist.co/staff/105090/) are the only animators to have fully mastered Itano Circus.",
+          "siteUrl": "https://anilist.co/staff/103268"
+        }
+      },
+      {
+        "role": "Animation (eps 29, 34, 35, 38, 41, 43)",
+        "node": {
+          "id": 103268,
+          "name": {
+            "first": "Ichirou",
+            "last": "Itano",
+            "native": "板野一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103268-6Z38ssL2kEAs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103268-6Z38ssL2kEAs.png"
+          },
+          "description": "Ichirou Itano is a Japanese director, producer, animator and mechanical designer. He has worked in a number of science fiction anime series, especially mecha-themed ones. Director of works such as [Angel Cop](https://anilist.co/anime/1351/), [Battle Royal High School](https://anilist.co/anime/3625/), [Gantz](https://anilist.co/anime/384/) and more.\n\nItano is best known among anime fans for a style of action scene that he developed, usually nicknamed \"Itano Circus\" by fans; it refers to a highly stylized and acrobatic method of depicting aerial combat and dogfights in many anime.\n\nThe production in [Space Runaway Ideon](https://anilist.co/anime/930/) became a hot topic in the anime industry, and it came to be called this by comparing the brisk movement of mechanics to the air acrobatics of the circus. The technique became more famous when Itano used it for the \"dogfights\" depicted in [The Super Dimension Fortress Macross](https://anilist.co/anime/1088/) anime TV series in 1982. It's characterized by detailed, fluid shading of the mecha, the close-range acrobatic moves the dueling fighters make in combat, as well as twisting contrails left by fighters and missiles. It is also commonly used in specific reference to an attack where a mecha or spaceship launches a large swarm of guided missiles with meticulously animated spiraling smoke trails and erratic trajectories and its target is repeatedly dodging those missiles at a high speed.\n\nAccording to him, [Hideaki Anno](https://anilist.co/staff/100111/), [Masami Gotou](https://anilist.co/staff/129865/) and [Yasushi Muraki](https://anilist.co/staff/105090/) are the only animators to have fully mastered Itano Circus.",
+          "siteUrl": "https://anilist.co/staff/103268"
+        }
+      },
+      {
+        "role": "Animation (ep 1)",
+        "node": {
+          "id": 106398,
+          "name": {
+            "first": "Yoshinori",
+            "last": "Kanada",
+            "native": "金田伊功"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106398-xNTLM6NCgBZW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106398-xNTLM6NCgBZW.png"
+          },
+          "description": "A highly prolific and an extremely influential animator.\n\nKnow for his experimentation with the timing of keyframes, his dynamic poses, and his peculiar effects Kanada pioneered a number of techniques and concepts that permeated and shaped the Japanese animation industry, influencing not only his peers but also the generations to come.\n\nKanada's ability and his tendency to be very personal with his drawings, even to the point of ignoring storyboards if the situation required, popularized in the industry the concept of letting the individual animator's talents shine instead of being uniformed into anonymity. This precept is still respected today and it's one of the reasons Japanese animation is so distinctly unique. His career is also a testament to his ethos that expressive and vibrant animation is not achieved simply through increasing the number of frames but through playing with movement, poses and timing.\n\nIn the early '00s, Kanada became an employee at Square Enix.\n\nNotable Square Enix titles in which he was credited:\n\n~!\n- 2002, Final Fantasy XI (Motion Capture, Animation Director)\n- 2005, Musashiden II: Blade Master (Storyboard)\n- 2006, Dawn of Mana (Facial Setting)\n- 2007, Final Fantasy 4 DS Version (Storyboard)\n- 2009, Final Fantasy XIII (Storyboard Director) - *Posthumous credit.*\n- 2011, Final Fantasy XIII-2 (Storyboard) - *Posthumous credit.*\n- 2012, Dragon Quest X (Storyboard)  - *Posthumous credit.* !~",
+          "siteUrl": "https://anilist.co/staff/106398"
+        }
+      },
+      {
+        "role": "Script (eps 1, 5, 9, 13, 19, 23, 27, 31, 34, 42, 43)",
+        "node": {
+          "id": 106506,
+          "name": {
+            "first": "Hiroyuki",
+            "last": "Hoshiyama",
+            "native": "星山博之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106506-HubkT6MHxdML.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106506-HubkT6MHxdML.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/%E6%98%9F%E5%B1%B1%E5%8D%9A%E4%B9%8B)\n\nHiroyuki Hoshiyama was a renown screenwriter. He started his career in [Mushi Production](https://anilist.co/studio/68/) in 1967, but left it later in 1973 and worked as a freelancer until his passing.",
+          "siteUrl": "https://anilist.co/staff/106506"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 106839,
+          "name": {
+            "first": "Takeo",
+            "last": "Watanabe",
+            "native": "渡辺岳夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106839-WnsEFFU6zXHA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106839-WnsEFFU6zXHA.png"
+          },
+          "description": "He was a music composer for anime, drama and jidaigeki from Tokyo, Japan. He passed away from renal failure.",
+          "siteUrl": "https://anilist.co/staff/106839"
+        }
+      },
+      {
+        "role": "Script (eps 2, 8, 12, 17, 18, 22, 26, 32, 35, 36, 38, 41)",
+        "node": {
+          "id": 109957,
+          "name": {
+            "first": "Kenichi",
+            "last": "Matsuzaki",
+            "native": "松崎健一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109957-j2YofXsdkVEy.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n109957-j2YofXsdkVEy.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/109957"
+        }
+      },
+      {
+        "role": "Script (eps 3, 7, 11, 15, 21, 25, 29, 40)",
+        "node": {
+          "id": 147064,
+          "name": {
+            "first": "Yoshihisa",
+            "last": "Araki",
+            "native": "荒木芳久"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n147064-EbVxrlZhXjn9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n147064-EbVxrlZhXjn9.png"
+          },
+          "description": "He was active in the 70s, 80s and the first half of 90s. In Transformers he wrote some episodes of The Headmasters, Super-God Masterforce, and Victory. Outside of Transformers, he wrote episodes for other giant mecha shows such as Mobile Suit Gundam, Daitarn 3, Xabungle and the second Tetsujin 28 show (aka New Gigantor), as well as non-mecha anime.\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/147064"
+        }
+      },
+      {
+        "role": "Script (eps 4, 6, 10, 16, 20, 24, 28, 30, 33, 37, 39)",
+        "node": {
+          "id": 130882,
+          "name": {
+            "first": "Yuu",
+            "last": "Yamamoto",
+            "native": "山本優"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n130882-YKf1QjRHPN3f.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n130882-YKf1QjRHPN3f.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/130882"
+        }
+      },
+      {
+        "role": "Storyboard (eps 1-3, 5, 9, 12, 14, 16, 17, 19-21, 24, 26-29, 31-33, 36, 37, 39, 40, 42, 43)",
+        "node": {
+          "id": 97337,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Tomino",
+            "native": "富野由悠季"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97337-kXpaK7OANmr9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97337-kXpaK7OANmr9.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/富野由悠季) | [Wiki (en)](https://en.wikipedia.org/wiki/Yoshiyuki_Tomino)\n\nYoshiyuki Tomino is an anime creator best known for creating the Gundam anime franchise.\n\nBegan his career in 1963 with [Osamu Tezuka](https://anilist.co/staff/96938/)'s company, [Mushi Production](https://anilist.co/studio/68/), scripting and directing episodes of the first Japanese anime television series, [Astro Boy](https://anilist.co/anime/2747/). He later became one of the most important members of the anime studio [Sunrise](https://anilist.co/studio/14/), going on to direct numerous anime through the '70s, '80s and '90s. He is perhaps best known for his transformation of the \"Super Robot\" mecha anime genre into the \"Real Robot\" genre with 1979's [Mobile Suit Gundam](https://anilist.co/anime/80/), the first in the Gundam franchise.\n\nKnown for using numerous pseudonyms.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/97337"
+        }
+      },
+      {
+        "role": "Storyboard (eps 7, 10, 13, 23, 30, 34, 38)",
+        "node": {
+          "id": 152372,
+          "name": {
+            "first": "Ryouji",
+            "last": "Fujiwara",
+            "native": "藤原良二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n152372-XGNlVqPEuGY6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n152372-XGNlVqPEuGY6.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/藤原良二)",
+          "siteUrl": "https://anilist.co/staff/152372"
+        }
+      },
+      {
+        "role": "Storyboard (ep 6)",
+        "node": {
+          "id": 103823,
+          "name": {
+            "first": "Kazuo",
+            "last": "Yamazaki",
+            "native": "やまざきかずお"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8823.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8823.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%BE%E3%81%96%E3%81%8D%E3%81%8B%E3%81%9A%E3%81%8A)\n\nKazuo Yamazaki is a director, animator, screenwriter and storyboard artist.",
+          "siteUrl": "https://anilist.co/staff/103823"
+        }
+      },
+      {
+        "role": "Storyboard (eps 27, 35)",
+        "node": {
+          "id": 128895,
+          "name": {
+            "first": "Hiromichi",
+            "last": "Matano",
+            "native": "又野弘道"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/又野弘道)",
+          "siteUrl": "https://anilist.co/staff/128895"
+        }
+      },
+      {
+        "role": "Episode Director (eps 1, 4, 8, 11, 14, 18, 22, 25, 29, 33, 37, 41)",
+        "node": {
+          "id": 114611,
+          "name": {
+            "first": "Shinya",
+            "last": "Sadamitsu",
+            "native": "貞光紳也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114611-tFOvyU4Umx4e.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114611-tFOvyU4Umx4e.jpg"
+          },
+          "description": "He is a director who belonged formerly to Studio Z, Studio Number One, Tatsunoko Pro and is now affiliated with Production I.G. ",
+          "siteUrl": "https://anilist.co/staff/114611"
+        }
+      },
+      {
+        "role": "Storyboard (eps 4, 8, 11, 15, 18, 22, 25, 41)",
+        "node": {
+          "id": 114611,
+          "name": {
+            "first": "Shinya",
+            "last": "Sadamitsu",
+            "native": "貞光紳也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114611-tFOvyU4Umx4e.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114611-tFOvyU4Umx4e.jpg"
+          },
+          "description": "He is a director who belonged formerly to Studio Z, Studio Number One, Tatsunoko Pro and is now affiliated with Production I.G. ",
+          "siteUrl": "https://anilist.co/staff/114611"
+        }
+      },
+      {
+        "role": "Episode Director (eps 2, 5, 7, 10, 13, 17, 20, 23, 26, 30, 34, 38, 42)",
+        "node": {
+          "id": 152372,
+          "name": {
+            "first": "Ryouji",
+            "last": "Fujiwara",
+            "native": "藤原良二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n152372-XGNlVqPEuGY6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n152372-XGNlVqPEuGY6.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/藤原良二)",
+          "siteUrl": "https://anilist.co/staff/152372"
+        }
+      },
+      {
+        "role": "Episode Director (ep 12)",
+        "node": {
+          "id": 104682,
+          "name": {
+            "first": "Takeyuki",
+            "last": "Kanda",
+            "native": "神田武幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104682-V924RY8J7OAb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104682-V924RY8J7OAb.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/神田武幸)\n\nPassed away suddenly in 1996. The final episode of The 08th MS Team, the movie Miller's Report and the first episode of Ginga Hyouryuu Vifam 13 were all dedicated in his memory.",
+          "siteUrl": "https://anilist.co/staff/104682"
+        }
+      },
+      {
+        "role": "Episode Director (eps 15, 16)",
+        "node": {
+          "id": 97337,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Tomino",
+            "native": "富野由悠季"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97337-kXpaK7OANmr9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97337-kXpaK7OANmr9.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/富野由悠季) | [Wiki (en)](https://en.wikipedia.org/wiki/Yoshiyuki_Tomino)\n\nYoshiyuki Tomino is an anime creator best known for creating the Gundam anime franchise.\n\nBegan his career in 1963 with [Osamu Tezuka](https://anilist.co/staff/96938/)'s company, [Mushi Production](https://anilist.co/studio/68/), scripting and directing episodes of the first Japanese anime television series, [Astro Boy](https://anilist.co/anime/2747/). He later became one of the most important members of the anime studio [Sunrise](https://anilist.co/studio/14/), going on to direct numerous anime through the '70s, '80s and '90s. He is perhaps best known for his transformation of the \"Super Robot\" mecha anime genre into the \"Real Robot\" genre with 1979's [Mobile Suit Gundam](https://anilist.co/anime/80/), the first in the Gundam franchise.\n\nKnown for using numerous pseudonyms.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/97337"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 14,
+          "name": "Sunrise",
+          "siteUrl": "https://anilist.co/studio/14"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 233,
+          "name": "Bandai Entertainment",
+          "siteUrl": "https://anilist.co/studio/233"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 24836,
+      "url": "https://www.netflix.com/watch/80124040",
+      "site": "Netflix"
+    },
+    {
+      "id": 27633,
+      "url": "https://www.crunchyroll.com/mobile-suit-gundam",
+      "site": "Crunchyroll"
+    }
+  ],
+  "streamingEpisodes": [
+    {
+      "title": "Episode 1 - Gundam Rising",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/9d1187c5b4a523489a69963858f094a81611142946_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GVWU0VDPQ/gundam-rising",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 2 - Destroy Gundam!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/41ead1b10b0607da8f0c929e7a4dd2501611143346_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G31UXPM7D/destroy-gundam",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 3 - Vote to Attack",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/0a81c43da810e970a2f9eaae8e0a345f1611143711_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G2XU02Z5E/vote-to-attack",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 4 - Escape from Luna II",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/13facd1dc1d5e6e28042b3f022dce11a1611144011_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GZ7UV7NP1/escape-from-luna-ii",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 5 - Re-entry to Earth",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/4136991428569950cfae2e10b5ef3c281611144429_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GQJUGD4E3/re-entry-to-earth",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 6 - Garma Strikes",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/108f2461864e719f1770e39f1680d0a81611144850_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GWDU89NKV/garma-strikes",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 7 - The Core Fighter's Escape",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/803e306397db12cd34e8b82d55e5ffa91611145209_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G0DUN3Q0X/the-core-fighters-escape",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 8 - Winds of War",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/7ee870293c67ef99d5c263494ab8b9b71611145576_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G7PU45KV3/winds-of-war",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 9 - Fly, Gundam!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/210afcfe1b8f7072514a27eeda03004b1611146047_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GX9UQDN78/fly-gundam",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 10 - Garma's Fate",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/3e3793bd09a077bcfb2262895c07bc5f1611146242_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G14U438E8/garmas-fate",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 11 - Icelina - Love's Remains",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/bd70dda20df371b320e0a44967d77cc11611146712_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GN7UDZ57W/icelina-loves-remains",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 12 - The Threat of Zeon",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/5f7ccd1da0f62ba08bb0f300aca116e21611147066_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GMKUXZJ4W/the-threat-of-zeon",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 13 - Coming Home",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/ddabc6d30050045cd783c1fb55e9c4b41611147488_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G31UXPM3D/coming-home",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 14 - Time, Be Still",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/f6341f31a158858725b8d83bc49cda671611147790_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G2XU02Z3E/time-be-still",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 15 - Sayla's Agony",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/a98aa47658f54d35b5025aa654f0f79a1611148270_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GZ7UV7NX1/saylas-agony",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 16 - Amuro Deserts",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/3feb038352815613f7ffe263ea9dd1951611148812_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G50UZ2J40/amuro-deserts",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 17 - Zeon's Secret Mine",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/5cb306a5b245ab3c7d68f30e5d2292701611149350_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GWDU89NGV/zeons-secret-mine",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 18 - Ramba Ral's Attack",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/597e2a07352ae29c9082ddc91ce7f9341611162260_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GG1U2M705/ramba-rals-attack",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 19 - Hand-to-Hand Combat",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/9f2e371374aeaf7d411b3662210127d41611150310_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G0DUN3Q4X/hand-to-hand-combat",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 20 - Sorrow and Hatred",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/42d854dec4b8654647a4d96b4a4318381611150730_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G7PU45K03/sorrow-and-hatred",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 21 - The Trap of M'Quve",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/5f4cf50a57c13f6308ad2c0c9d1fc0941611150797_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G9DUEXW74/the-trap-of-mquve",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 22 - Matilda's Rescue",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/68fa497811898d9246a3125d7663d7ac1611151045_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G4VUQ3PZG/matildas-rescue",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 23 - Black Tri-Star",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/96d7974ed34e434417d72781033b20ef1611151449_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GN7UDZ5GW/black-tri-star",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 24 - The Battle of Odessa",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/669507d5f563932dfdb1111862decd711611151810_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G50UZ2JWW/the-battle-of-odessa",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 25 - Char Returns",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/5f38e0ffc538c42eb77c4c998e798ff71611152171_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GG1U2M70Q/char-returns",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 26 - A Spy on Board",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/8f50ec8ed56989bc0f335b6a935c2a301611153973_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G7PU45K09/a-spy-on-board",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 27 - Across the Atlantic Ocean",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/73aa812d22213de0f174405faabe51491611154090_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G9DUEXW7G/across-the-atlantic-ocean",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 28 - Tragedy in Jaburo",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/da1d5d3d697aeece16be388a7a1118721611154509_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GX9UQDN9J/tragedy-in-jaburo",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 29 - A Wish of War Orphans",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/a1050a75fa47097260055994d8376e511611154877_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GJWU2M45N/a-wish-of-war-orphans",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 30 - A Decoy in Space",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/8242432577bca0668b3e5e82aaaf6fd81611155288_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GMKUXZJ8X/a-decoy-in-space",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 31 - Breakthrough",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/27acf4fae65cc95ef26d898e24a72d8c1611155651_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G31UXPM08/breakthrough",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 32 - Farewell in Side Six",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/a659fd3a8ef2d577d9f29a56936a24c81611155893_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G8WUND949/farewell-in-side-six",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 33 - A Fateful Encounter",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/abbff9245f73a7001199a222b2ddc0491611156263_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GD9UVN4P2/a-fateful-encounter",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 34 - The Glory of Solomon",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/4b50d304ab2f462eeace659a818688141611156610_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G50UZ2J7W/the-glory-of-solomon",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 35 - Big-Zam's Last Stand",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/c677548d180d8dc56c04a919cce1a53d1611157096_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GG1U2M73Q/big-zams-last-stand",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 36 - The Duel in Texas",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/0c0789432b01feb465043aaad0d87c6a1611157396_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GEVUZP549/the-duel-in-texas",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 37 - Char and Sayla",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/10d35a57e23f07a0bc779c1dae775eb41611158471_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G9DUEXW1G/char-and-sayla",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 38 - The Newtype: Challia Bull",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/75d9ab1bbd53770bf86fd4280869cdcb1611158686_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G4VUQ3PEV/the-newtype-challia-bull",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 39 - Lalah's Dilemma",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/abd842cf4059a6cc3a989c52e0066fbf1611158659_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G14U438W7/lalahs-dilemma",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 40 - A Cosmic Glow",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/f350a9c9adfad7b95bf6e0b367917ada1611158958_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GJWU2M4GN/a-cosmic-glow",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 41 - Space Fortress: A Baoa Qu",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/da9b9bacf2577aacd4293bc08c2162a41611159249_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GK9U3Z70N/space-fortress-a-baoa-qu",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 42 - Escape",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/16e5e34a991f7dc07e47062795ec9a911611159606_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GPWUKQW42/escape",
+      "site": "Crunchyroll"
+    }
+  ],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1415,
+          "rating": 96,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 930,
+            "title": {
+              "native": "伝説巨神イデオン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 3868,
+          "rating": 43,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1650,
+            "title": {
+              "native": "宇宙戦艦ヤマト"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 4953,
+          "rating": 83,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30,
+            "title": {
+              "native": "新世紀エヴァンゲリオン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 5157,
+          "rating": 58,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2582,
+            "title": {
+              "native": "装甲騎兵ボトムズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 8149,
+          "rating": 119,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 820,
+            "title": {
+              "native": "銀河英雄伝説"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 8170,
+          "rating": 15,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 865,
+            "title": {
+              "native": "機甲戦記ドラグナー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 9180,
+          "rating": 57,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1088,
+            "title": {
+              "native": "超時空要塞マクロス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 9182,
+          "rating": 30,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2257,
+            "title": {
+              "native": "太陽の牙ダグラム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 11406,
+          "rating": 13,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1575,
+            "title": {
+              "native": "コードギアス 反逆のルルーシュ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 14793,
+          "rating": 6,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1694,
+            "title": {
+              "native": "アイドルマスター ゼノグラシア"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 17679,
+          "rating": 9,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2987,
+            "title": {
+              "native": "銀河漂流バイファム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 23271,
+          "rating": 4,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 20618,
+            "title": {
+              "native": "ブレイク ブレイド"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 27109,
+          "rating": 19,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2200,
+            "title": {
+              "native": "無敵超人ザンボット３"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 29478,
+          "rating": 4,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 3327,
+            "title": {
+              "native": "巨神ゴーグ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 36158,
+          "rating": 18,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2001,
+            "title": {
+              "native": "天元突破グレンラガン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 43983,
+          "rating": 0,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 16822,
+            "title": {
+              "native": "우주 흑기사"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 46054,
+          "rating": 20,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 237,
+            "title": {
+              "native": "交響詩篇エウレカセブン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 47949,
+          "rating": 13,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 6336,
+            "title": {
+              "native": "機動戦士ガンダムUC"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 50465,
+          "rating": 2,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 20762,
+            "title": {
+              "native": "シドニアの騎士　第九惑星戦役"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 50467,
+          "rating": 3,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 19775,
+            "title": {
+              "native": "シドニアの騎士"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 50923,
+          "rating": 20,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 89,
+            "title": {
+              "native": "機動戦士Vガンダム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 67150,
+          "rating": 5,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 71,
+            "title": {
+              "native": "フルメタル・パニック！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 71563,
+          "rating": 10,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 116589,
+            "title": {
+              "native": "86－エイティシックス－"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 75029,
+          "rating": 5,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 3079,
+            "title": {
+              "native": "蒼き流星SPTレイズナー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 75941,
+          "rating": 2,
+          "media": {
+            "id": 80,
+            "title": {
+              "native": "機動戦士ガンダム"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 98089,
+            "title": {
+              "native": "未来のワタシ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 59
+      },
+      {
+        "score": 20,
+        "amount": 32
+      },
+      {
+        "score": 30,
+        "amount": 99
+      },
+      {
+        "score": 40,
+        "amount": 164
+      },
+      {
+        "score": 50,
+        "amount": 542
+      },
+      {
+        "score": 60,
+        "amount": 1211
+      },
+      {
+        "score": 70,
+        "amount": 3445
+      },
+      {
+        "score": 80,
+        "amount": 4218
+      },
+      {
+        "score": 90,
+        "amount": 2809
+      },
+      {
+        "score": 100,
+        "amount": 1350
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 4379
+      },
+      {
+        "status": "PLANNING",
+        "amount": 13324
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 18329
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1077
+      },
+      {
+        "status": "PAUSED",
+        "amount": 2167
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/80",
+  "modNotes": null
+}

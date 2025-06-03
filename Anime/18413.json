@@ -1,0 +1,577 @@
+{
+  "id": 18413,
+  "idMal": 18413,
+  "title": {
+    "native": "ぷちっとがるがんてぃあ",
+    "romaji": "Puchitto Gargantia",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "Short episodes streamed on the anime's official site after every episode, giving background information about the show.",
+  "startDate": {
+    "year": 2013,
+    "month": 4,
+    "day": 10
+  },
+  "endDate": {
+    "year": 2013,
+    "month": 7,
+    "day": 3
+  },
+  "season": "SPRING",
+  "seasonYear": 2013,
+  "seasonInt": 132,
+  "episodes": 13,
+  "duration": 1,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748360586,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18413.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18413.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/18413.jpg",
+    "color": "#28bbfe"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Petit Gargantia"
+  ],
+  "averageScore": 59,
+  "meanScore": 60,
+  "popularity": 2489,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 144,
+      "name": "Meta",
+      "description": "Features fourth wall-breaking references to itself or genre tropes.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 159,
+      "name": "Super Robot",
+      "description": "Prominently features large robots often piloted by hot-blooded protagonists.",
+      "category": "Theme-Sci-Fi-Mecha",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 305,
+      "name": "Ships",
+      "description": "Prominently features the use of sea-based transportation vessels.",
+      "category": "Theme-Other-Vehicle",
+      "rank": 30,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 16524,
+          "title": {
+            "native": "翠星のガルガンティア"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 21863,
+          "title": {
+            "native": "ぷちっとがるがんてぃあ"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 75358,
+          "name": {
+            "first": "Ledo",
+            "last": null,
+            "native": "レド",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75358-8eCNQysvHKZr.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b75358-8eCNQysvHKZr.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/75358"
+        },
+        "voiceActors": [
+          {
+            "id": 115156,
+            "name": {
+              "first": "Kaito",
+              "last": "Ishikawa",
+              "native": "石川界人"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115156-ngYfqBazlxYQ.png"
+            },
+            "siteUrl": "https://anilist.co/staff/115156"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 82073,
+          "name": {
+            "first": "Chamber",
+            "last": null,
+            "native": "チェインバー",
+            "alternative": [
+              "Tin can"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82073-URXvxIMTTad4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b82073-URXvxIMTTad4.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/82073"
+        },
+        "voiceActors": [
+          {
+            "id": 95002,
+            "name": {
+              "first": "Tomokazu",
+              "last": "Sugita",
+              "native": "杉田智和"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95002-nDIvHaynicEg.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95002"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 76250,
+          "name": {
+            "first": "Bellows",
+            "last": null,
+            "native": "ベローズ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76250-FFJB0oyXjfbI.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b76250-FFJB0oyXjfbI.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/76250"
+        },
+        "voiceActors": [
+          {
+            "id": 95093,
+            "name": {
+              "first": "Shizuka",
+              "last": "Itou",
+              "native": "伊藤静"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95093-MApaH7qqtmVN.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95093"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 76244,
+          "name": {
+            "first": "Amy",
+            "last": null,
+            "native": "エイミー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76244-NfNr0uwu3ESq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b76244-NfNr0uwu3ESq.png"
+          },
+          "siteUrl": "https://anilist.co/character/76244"
+        },
+        "voiceActors": [
+          {
+            "id": 103555,
+            "name": {
+              "first": "Hisako",
+              "last": "Kanemoto",
+              "native": "金元寿子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103555-2ZtBwZfy9DTi.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103555-2ZtBwZfy9DTi.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/103555"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 76252,
+          "name": {
+            "first": "Ridget",
+            "last": null,
+            "native": "リジット",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76252-eRy2Py1YR5uL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b76252-eRy2Py1YR5uL.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/76252"
+        },
+        "voiceActors": [
+          {
+            "id": 95092,
+            "name": {
+              "first": "Sayaka",
+              "last": "Oohara",
+              "native": "大原さやか"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95092-dQXsTFQXLg3o.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95092"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 76254,
+          "name": {
+            "first": "Pinion",
+            "last": null,
+            "native": "ピニオン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76254-uE6gyGXrYf2P.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b76254-uE6gyGXrYf2P.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/76254"
+        },
+        "voiceActors": [
+          {
+            "id": 95020,
+            "name": {
+              "first": "Katsuyuki",
+              "last": "Konishi",
+              "native": "小西克幸"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95020-uOJO2IlwpcX0.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95020"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 76246,
+          "name": {
+            "first": "Saaya",
+            "last": null,
+            "native": "サーヤ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76246-LiYVIwR5PSE5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b76246-LiYVIwR5PSE5.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/76246"
+        },
+        "voiceActors": [
+          {
+            "id": 105765,
+            "name": {
+              "first": "Ai",
+              "last": "Kayano",
+              "native": "茅野愛衣"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105765-DDK94me8axVv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105765-DDK94me8axVv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/105765"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 76248,
+          "name": {
+            "first": "Melty",
+            "last": null,
+            "native": "メルティ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76248-ny6rrZkZgmos.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b76248-ny6rrZkZgmos.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/76248"
+        },
+        "voiceActors": [
+          {
+            "id": 95817,
+            "name": {
+              "first": "Kana",
+              "last": "Asumi",
+              "native": "阿澄佳奈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95817-UHqRZ5xuSJgW.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95817-UHqRZ5xuSJgW.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95817"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 106987,
+          "name": {
+            "first": "Minoru",
+            "last": "Ashina",
+            "native": "芦名みのる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106987-zVVAaggOCOJO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106987-zVVAaggOCOJO.jpg"
+          },
+          "description": "[Website](http://ashina.info/) | [Twitter](https://twitter.com/minopu)\n\nMinoru Ashina is a Japanese anime director and veterinarian.",
+          "siteUrl": "https://anilist.co/staff/106987"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 176645,
+          "name": {
+            "first": "Kuu",
+            "last": null,
+            "native": "くう。"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/176645"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 10,
+          "name": "Production I.G",
+          "siteUrl": "https://anilist.co/studio/10"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 443,
+          "name": "Studio PuYUKAI",
+          "siteUrl": "https://anilist.co/studio/443"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22476,
+      "rank": 13,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2013,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 22509,
+      "rank": 16,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2013,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 36997,
+          "rating": 2,
+          "media": {
+            "id": 18413,
+            "title": {
+              "native": "ぷちっとがるがんてぃあ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 7017,
+            "title": {
+              "native": "うらおん!"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 16
+      },
+      {
+        "score": 20,
+        "amount": 21
+      },
+      {
+        "score": 30,
+        "amount": 51
+      },
+      {
+        "score": 40,
+        "amount": 79
+      },
+      {
+        "score": 50,
+        "amount": 259
+      },
+      {
+        "score": 60,
+        "amount": 348
+      },
+      {
+        "score": 70,
+        "amount": 292
+      },
+      {
+        "score": 80,
+        "amount": 115
+      },
+      {
+        "score": 90,
+        "amount": 48
+      },
+      {
+        "score": 100,
+        "amount": 24
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 107
+      },
+      {
+        "status": "PLANNING",
+        "amount": 405
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1721
+      },
+      {
+        "status": "DROPPED",
+        "amount": 133
+      },
+      {
+        "status": "PAUSED",
+        "amount": 123
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/18413",
+  "modNotes": null
+}

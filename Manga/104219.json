@@ -1,0 +1,783 @@
+{
+  "id": 104219,
+  "idMal": 87213,
+  "title": {
+    "native": "ひだまりスケッチアンソロジーコミック",
+    "romaji": "Hidamari Sketch Anthology Comic",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "An anthology comic of Hidamari Sketch by various mangaka.",
+  "startDate": {
+    "year": 2007,
+    "month": 2,
+    "day": 27
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 10,
+    "day": 27
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 61,
+  "volumes": 5,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748863244,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx104219-ODpzI9diryBY.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104219-ODpzI9diryBY.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx104219-ODpzI9diryBY.jpg",
+    "color": "#e4f135"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 74,
+  "popularity": 131,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 471,
+      "name": "Anthology",
+      "description": "A collection of separate works collated into a single release.",
+      "category": "Technical",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 31362,
+          "title": {
+            "native": "ひだまりスケッチ"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2627,
+          "name": {
+            "first": "Miyako",
+            "last": null,
+            "native": "宮子",
+            "alternative": [
+              "Miya"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2627-n5xznWloPmtK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2627-n5xznWloPmtK.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2627"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3216,
+          "name": {
+            "first": "Hiro",
+            "last": null,
+            "native": "ヒロ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3216-D59lqQQIZwKb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3216-D59lqQQIZwKb.png"
+          },
+          "siteUrl": "https://anilist.co/character/3216"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3215,
+          "name": {
+            "first": "Sae",
+            "last": null,
+            "native": "沙英",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3215-U2D4R53NnbUj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3215-U2D4R53NnbUj.png"
+          },
+          "siteUrl": "https://anilist.co/character/3215"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 14913,
+          "name": {
+            "first": "Nazuna",
+            "last": null,
+            "native": "なずな",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14913-mseomf5ztM5N.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14913-mseomf5ztM5N.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14913"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 14914,
+          "name": {
+            "first": "Nori",
+            "last": null,
+            "native": "乃莉",
+            "alternative": [
+              "Norippe"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/14914.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14914.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14914"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2528,
+          "name": {
+            "first": "Yuno",
+            "last": null,
+            "native": "ゆの",
+            "alternative": [
+              "Yunocchi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2528.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2528.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2528"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 130220,
+          "name": {
+            "first": "",
+            "last": "Eretto",
+            "native": "えれっと"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n130220-Lh2Nx5rG8Ke0.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n130220-Lh2Nx5rG8Ke0.jpg"
+          },
+          "description": "__Doujin circle:__ Utsura Uraraka (うつらうららか)\n\n[Website](http://u-u.2-d.jp/) | [Twitter](https://twitter.com/eretto_) | [Pixiv](https://www.pixiv.net/en/users/290340) | [Pixiv Fanbox](https://eretto.fanbox.cc/) | [YouTube](https://www.youtube.com/erettochannel)\n\n",
+          "siteUrl": "https://anilist.co/staff/130220"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 98878,
+          "name": {
+            "first": "Shoko",
+            "last": "Iwami",
+            "native": "石見翔子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98878-Z4xyZ9HecZKl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98878-Z4xyZ9HecZKl.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/misyouko) | [Official Website](http://www013.upp.so-net.ne.jp/anzendaiichi/) | [Pixiv](https://www.pixiv.net/member.php?id=1845573)",
+          "siteUrl": "https://anilist.co/staff/98878"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 131374,
+          "name": {
+            "first": "Sou",
+            "last": "Hamayumiba",
+            "native": "浜弓場双"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131374-y7mm038Nt7Fq.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n131374-y7mm038Nt7Fq.jpg"
+          },
+          "description": "__Doujinshi Circle:__ Sekitou (赤橙) \n\n[Twitter](https://twitter.com/sou_hmymb)",
+          "siteUrl": "https://anilist.co/staff/131374"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 98327,
+          "name": {
+            "first": "Mera",
+            "last": "Hakamada",
+            "native": "袴田めら"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98327-Kfgq3sgSDseO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98327-Kfgq3sgSDseO.jpg"
+          },
+          "description": "[Website](http://mera.hacca.jp/) | [Twitter](https://twitter.com/madamera) | [Pixiv](https://www.pixiv.net/member.php?id=16795) | [Fanbox](https://www.pixiv.net/fanbox/creator/16795)",
+          "siteUrl": "https://anilist.co/staff/98327"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 100676,
+          "name": {
+            "first": "Ayami",
+            "last": "Kazama",
+            "native": "カザマアヤミ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/100676-RGBl9wGjstSj.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/100676-RGBl9wGjstSj.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/aya_zamalog) | [Youtube](https://www.youtube.com/@user-vm6dm5kk3b/featured)\n\nMarried to [Konno Azure](https://anilist.co/staff/101516/AzureKonno). Her younger sister, [Nao Kuruse](https://anilist.co/staff/120111), is also a mangaka. She usually streams with [Tsukasa Unohana](https://anilist.co/staff/104064/Tsukasa-Unohana), mangaka of Anima Yell! She has one child, and she documented her pregnancy and childbirth experiences in one of her [manga](https://anilist.co/manga/110352/). ",
+          "siteUrl": "https://anilist.co/staff/100676"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 102602,
+          "name": {
+            "first": "Gurigura",
+            "last": "Kuchihacchou",
+            "native": "口八丁ぐりぐら"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102602-yDe3CDvBdlWj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102602-yDe3CDvBdlWj.png"
+          },
+          "description": "[Official Website](http://kuchihaccho.blog60.fc2.com) | [Twitter](https://twitter.com/gurininja)",
+          "siteUrl": "https://anilist.co/staff/102602"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 114523,
+          "name": {
+            "first": "Yuusuke",
+            "last": "Shiba",
+            "native": "シバユウスケ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/114523-EoVMQsVfHAqE.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/114523-EoVMQsVfHAqE.jpg"
+          },
+          "description": "[Website](http://polyzm.mods.jp/) | [Twitter](https://twitter.com/yusukeshiba) | [Pixiv](https://www.pixiv.net/member.php?id=4197)",
+          "siteUrl": "https://anilist.co/staff/114523"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 106057,
+          "name": {
+            "first": "Tasuke",
+            "last": "Sakura",
+            "native": "櫻太助 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106057-yv6pfOkEYmoS.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106057-yv6pfOkEYmoS.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/tskskr) | [Pixiv](https://www.pixiv.net/users/3441634)",
+          "siteUrl": "https://anilist.co/staff/106057"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 104000,
+          "name": {
+            "first": "Masaru",
+            "last": "Kaneko",
+            "native": "カネコマサル"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/104000-KrIrNZRvR4Qu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/104000-KrIrNZRvR4Qu.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/msl666) | [Pixiv](https://www.pixiv.net/member.php?id=613901)",
+          "siteUrl": "https://anilist.co/staff/104000"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 105069,
+          "name": {
+            "first": "Kazuho",
+            "last": "",
+            "native": "カヅホ "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105069-YcPHVaFAk6uW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105069-YcPHVaFAk6uW.png"
+          },
+          "description": "__Residency:__ Tokyo, Japan\n\n__[Website](http://kaduho.cyber-ninja.jp/) | [Twitter](https://twitter.com/kaduho)__\n\n__Kazuho__ is a Japanese mangaka and illustrator, who is primarily known for being the author of Kill Me Baby and Kagaku Chop.",
+          "siteUrl": "https://anilist.co/staff/105069"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 100480,
+          "name": {
+            "first": "Kashmir",
+            "last": "",
+            "native": "Kashmir"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100480-qwDRBTTEqlgb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100480-qwDRBTTEqlgb.png"
+          },
+          "description": "[Website](http://picnic.to/~kashmir/index.html) | [Twitter](https://twitter.com/picnic2kashmir)",
+          "siteUrl": "https://anilist.co/staff/100480"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 173521,
+          "name": {
+            "first": "Nagomi",
+            "last": "Tozakura",
+            "native": "都桜和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/173521"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 104064,
+          "name": {
+            "first": "Tsukasa",
+            "last": "Unohana",
+            "native": "卯花つかさ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104064-ZuxTICrGFayY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104064-ZuxTICrGFayY.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/unotsuka) | [Pixiv](https://www.pixiv.net/member.php?id=10103) | [YouTube](https://www.youtube.com/channel/UCmA7aRy2lwcYSFR7zgxog1Q)",
+          "siteUrl": "https://anilist.co/staff/104064"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 101488,
+          "name": {
+            "first": "Matsuda98",
+            "last": "",
+            "native": "MATSUDA98"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101488-QIZLADcZN0H4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101488-QIZLADcZN0H4.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/_matsuda98_) | [Alternative Twitter](https://twitter.com/mazdanakanohito) | [Pixiv](https://www.pixiv.net/en/users/254096) | [Alternative Pixiv](https://www.pixiv.net/en/users/479080)\n\nMATSUDA98 was classmates with [AOKI Ume](https://anilist.co/staff/97969/Ume-Aoki), creator of [Hidamari Sketch](https://anilist.co/anime/1852/Hidamari-Sketch/).",
+          "siteUrl": "https://anilist.co/staff/101488"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 106156,
+          "name": {
+            "first": "Touko",
+            "last": "Shiwasu",
+            "native": "師走冬子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106156-0GU3Hlojtfgk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106156-0GU3Hlojtfgk.png"
+          },
+          "description": "[Twitter](https://twitter.com/tokopu) | [Blog](http://salpho.blog43.fc2.com/)",
+          "siteUrl": "https://anilist.co/staff/106156"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 107349,
+          "name": {
+            "first": "Aya",
+            "last": "Yamabuki",
+            "native": "ぶき綾  やま"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/107349"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 114671,
+          "name": {
+            "first": "Komata",
+            "last": "Mikami",
+            "native": "三上小又"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/114671-E07Oa5xtJyJA.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/114671-E07Oa5xtJyJA.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/mikamikomata) | [Pixiv](https://www.pixiv.net/member.php?id=873657)",
+          "siteUrl": "https://anilist.co/staff/114671"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 104207,
+          "name": {
+            "first": "Ikki",
+            "last": "Sanada",
+            "native": "真田一輝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9207.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9207.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/sanadaikki)",
+          "siteUrl": "https://anilist.co/staff/104207"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 113351,
+          "name": {
+            "first": "",
+            "last": "Nagian",
+            "native": "凪庵"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113351-EwI2yyiJxTc4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n113351-EwI2yyiJxTc4.jpg"
+          },
+          "description": "[Official Website](http://yoroz.jp/main.html) | [Twitter](https://twitter.com/nagian)",
+          "siteUrl": "https://anilist.co/staff/113351"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 106228,
+          "name": {
+            "first": "Kakashi",
+            "last": "Oniyazu",
+            "native": "鬼八頭かかし"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/106228-Bv20DCpC9P8q.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/106228-Bv20DCpC9P8q.jpg"
+          },
+          "description": "[Official Website](http://odr.dee.cc) | [Twitter](https://twitter.com/oniyazu)",
+          "siteUrl": "https://anilist.co/staff/106228"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 118535,
+          "name": {
+            "first": "Asaki",
+            "last": "Nakama",
+            "native": "なかま亜咲"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118535-8DwlBYMIO6V9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118535-8DwlBYMIO6V9.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/118535"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 106371,
+          "name": {
+            "first": "",
+            "last": "Purapa",
+            "native": "ぷらぱ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106371-vvRIaHp8tusR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106371-vvRIaHp8tusR.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/purapa) | [Pixiv](https://www.pixiv.net/users/160149)",
+          "siteUrl": "https://anilist.co/staff/106371"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 106323,
+          "name": {
+            "first": "Rui",
+            "last": "Tamachi",
+            "native": "るい・たまち"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/106323-vCbswjiHEiy7.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/106323-vCbswjiHEiy7.jpg"
+          },
+          "description": "\n[Twitter](https://twitter.com/ruitamati)",
+          "siteUrl": "https://anilist.co/staff/106323"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 117547,
+          "name": {
+            "first": "",
+            "last": "Mook",
+            "native": "むっく"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/117547"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 122285,
+          "name": {
+            "first": "Rein",
+            "last": "Kuwashima",
+            "native": "桑島黎音"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122285-AUNNjMQHTXOu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n122285-AUNNjMQHTXOu.jpg"
+          },
+          "description": "[Website](http://akaneironosola.blog96.fc2.com) | [Twitter](https://www.twitter.com/kuwashima_rein) | [Pixiv](http://www.pixiv.net/member.php?id=62336)",
+          "siteUrl": "https://anilist.co/staff/122285"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 175521,
+          "rating": 2,
+          "media": {
+            "id": 104219,
+            "title": {
+              "native": "ひだまりスケッチアンソロジーコミック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 49017,
+            "title": {
+              "native": "らき　☆　すたコミックアラカルト　～はっぴーストライク！～"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 257011,
+          "rating": 2,
+          "media": {
+            "id": 104219,
+            "title": {
+              "native": "ひだまりスケッチアンソロジーコミック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 58961,
+            "title": {
+              "native": "魔法少女まどか★マギカ アンソロジーコミック"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 282413,
+          "rating": 1,
+          "media": {
+            "id": 104219,
+            "title": {
+              "native": "ひだまりスケッチアンソロジーコミック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 104220,
+            "title": {
+              "native": "ひだまりスケッチ ストーリーアンソロジーコミック"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 3
+      },
+      {
+        "score": 70,
+        "amount": 10
+      },
+      {
+        "score": 80,
+        "amount": 3
+      },
+      {
+        "score": 90,
+        "amount": 3
+      },
+      {
+        "score": 100,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 26
+      },
+      {
+        "status": "PLANNING",
+        "amount": 67
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 29
+      },
+      {
+        "status": "DROPPED",
+        "amount": 3
+      },
+      {
+        "status": "PAUSED",
+        "amount": 6
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/104219",
+  "modNotes": null
+}

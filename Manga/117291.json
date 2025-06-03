@@ -1,0 +1,236 @@
+{
+  "id": 117291,
+  "idMal": 167307,
+  "title": {
+    "native": "星のカービィ 今日もまんまる日記!",
+    "romaji": "Hoshi no Kirby: Kyou mo Manmaru Nikki!",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "RELEASING",
+  "description": null,
+  "startDate": {
+    "year": 2016,
+    "month": 5,
+    "day": 21
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748860801,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117291-7arNTVqgF0RK.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117291-7arNTVqgF0RK.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx117291-7arNTVqgF0RK.jpg",
+    "color": "#f1c90d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Kirby of the Stars: Daily Round Diary!"
+  ],
+  "averageScore": null,
+  "meanScore": 82,
+  "popularity": 59,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 50253,
+          "title": {
+            "native": "星のカービィ"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 145133,
+          "title": {
+            "native": "星のカービィ 〜まんぷくプププファンタジー〜"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 159412,
+          "title": {
+            "native": "星のカービィ プププヒーロー"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 170613,
+          "title": {
+            "native": "タッチ!カービィ4コマギャグバトル"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5471,
+          "name": {
+            "first": "Kirby",
+            "last": "",
+            "native": "カービィ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5471-eeOkCyhMvIHH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5471-eeOkCyhMvIHH.png"
+          },
+          "siteUrl": "https://anilist.co/character/5471"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5473,
+          "name": {
+            "first": "Dedede Daiou",
+            "last": null,
+            "native": "デデデ大王",
+            "alternative": [
+              "King Dedede"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5473-Wsi4svMqk7Sh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5473-Wsi4svMqk7Sh.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5473"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5472,
+          "name": {
+            "first": "Meta Knight",
+            "last": null,
+            "native": "メタナイト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5472-d2woNUc2CRdm.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5472-d2woNUc2CRdm.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5472"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 165951,
+          "name": {
+            "first": "Dynamic Tarou",
+            "last": null,
+            "native": "ダイナミック太郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n165951-dzqqQE5nUFPb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n165951-dzqqQE5nUFPb.jpg"
+          },
+          "description": "[Blog](https://dynamic-t.blog.ss-blog.jp/)",
+          "siteUrl": "https://anilist.co/staff/165951"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 13
+      },
+      {
+        "status": "PLANNING",
+        "amount": 36
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 4
+      },
+      {
+        "status": "DROPPED",
+        "amount": 3
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/117291",
+  "modNotes": null
+}

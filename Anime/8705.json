@@ -1,0 +1,262 @@
+{
+  "id": 8705,
+  "idMal": 8705,
+  "title": {
+    "native": null,
+    "romaji": "Phantom: Requiem for the Phantom Picture Drama",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "DVD/BD specials.",
+  "startDate": {
+    "year": 2009,
+    "month": 7,
+    "day": 24
+  },
+  "endDate": {
+    "year": 2010,
+    "month": 2,
+    "day": 25
+  },
+  "season": "SUMMER",
+  "seasonYear": 2009,
+  "seasonInt": 93,
+  "episodes": 12,
+  "duration": 6,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VISUAL_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748809382,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8705.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8705.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8705.jpg",
+    "color": "#c9506b"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [],
+  "averageScore": 56,
+  "meanScore": 58,
+  "popularity": 1734,
+  "favourites": 7,
+  "tags": [
+    {
+      "id": 322,
+      "name": "Assassins",
+      "description": "Centers around characters who murder people as a profession.",
+      "category": "Theme-Other-Organisations",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 5682,
+          "title": {
+            "native": "Phantom 〜Requiem for the Phantom〜"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 18160,
+          "name": {
+            "first": "Zwei",
+            "last": null,
+            "native": "ツヴァイ",
+            "alternative": [
+              "Reiji Azuma",
+              "Phantom"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18160-iCYEgv0VxbjZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b18160-iCYEgv0VxbjZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/18160"
+        },
+        "voiceActors": [
+          {
+            "id": 95088,
+            "name": {
+              "first": "Miyu",
+              "last": "Irino",
+              "native": "入野自由"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95088-BHyqnkadBEqi.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95088-BHyqnkadBEqi.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95088"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director  (Image Director)",
+        "node": {
+          "id": 104309,
+          "name": {
+            "first": "Ayumi",
+            "last": "Kamo",
+            "native": "加茂あゆみ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/104309"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 99960,
+          "name": {
+            "first": "Nitro Plus",
+            "last": "",
+            "native": "ニトロプラス"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99960-hDXMZ30LKO3f.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99960-hDXMZ30LKO3f.png"
+          },
+          "description": "Nitro Plus, sometimes written as Nitro+, is a Japanese visual novel developer that has developed a number of visual novels, including eroge. They have been collaborating with TYPE-MOON (another developer) to create the light novel series, Fate/Zero.  They also have a branch of the company called Nitro+Chiral, which focuses on BL visual novels. Their works usually have dark themes such as reanimation of the dead and murder.",
+          "siteUrl": "https://anilist.co/staff/99960"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 5,
+          "name": "Bee Train",
+          "siteUrl": "https://anilist.co/studio/5"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 79,
+          "name": "Genco",
+          "siteUrl": "https://anilist.co/studio/79"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 102,
+          "name": "Funimation",
+          "siteUrl": "https://anilist.co/studio/102"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 19
+      },
+      {
+        "score": 20,
+        "amount": 11
+      },
+      {
+        "score": 30,
+        "amount": 20
+      },
+      {
+        "score": 40,
+        "amount": 23
+      },
+      {
+        "score": 50,
+        "amount": 63
+      },
+      {
+        "score": 60,
+        "amount": 79
+      },
+      {
+        "score": 70,
+        "amount": 66
+      },
+      {
+        "score": 80,
+        "amount": 37
+      },
+      {
+        "score": 90,
+        "amount": 16
+      },
+      {
+        "score": 100,
+        "amount": 22
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 52
+      },
+      {
+        "status": "PLANNING",
+        "amount": 958
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 622
+      },
+      {
+        "status": "DROPPED",
+        "amount": 60
+      },
+      {
+        "status": "PAUSED",
+        "amount": 42
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/8705",
+  "modNotes": null
+}

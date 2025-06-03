@@ -1,0 +1,557 @@
+{
+  "id": 4616,
+  "idMal": 4616,
+  "title": {
+    "native": "夢見るトッポ・ジージョ",
+    "romaji": "Yumemiru Topo Gigio",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "A continuation of the Topo Gigio anime, with production changing from Asahi Broadcasting to TV Tokyo.",
+  "startDate": {
+    "year": 1988,
+    "month": 10,
+    "day": 7
+  },
+  "endDate": {
+    "year": 1988,
+    "month": 12,
+    "day": 30
+  },
+  "season": "FALL",
+  "seasonYear": 1988,
+  "seasonInt": 884,
+  "episodes": 13,
+  "duration": 26,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747842504,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4616.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4616.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4616.jpg",
+    "color": "#e4c986"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Dreaming Topo Gigio",
+    "Yumemiru Toppo Jijo"
+  ],
+  "averageScore": 50,
+  "meanScore": 55,
+  "popularity": 305,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 193,
+      "name": "Episodic",
+      "description": "Features story arcs that are loosely tied or lack an overarching plot.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1304,
+      "name": "Anthropomorphism",
+      "description": "Contains non-human character(s) that have attributes or characteristics of a human being.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 4584,
+          "title": {
+            "native": "トッポ・ジージョ"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 74211,
+          "name": {
+            "first": "Topo",
+            "last": "Gigio",
+            "native": "トッポ ジージョ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74211.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74211.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74211"
+        },
+        "voiceActors": [
+          {
+            "id": 95259,
+            "name": {
+              "first": "Ryuusei",
+              "last": "Nakao",
+              "native": "中尾隆聖"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95259-A1sNVqfD2MWp.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95259-A1sNVqfD2MWp.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95259"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 74219,
+          "name": {
+            "first": "Kato",
+            "last": null,
+            "native": "カート",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74219.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74219.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74219"
+        },
+        "voiceActors": [
+          {
+            "id": 95481,
+            "name": {
+              "first": "Kenichi",
+              "last": "Ogata",
+              "native": "緒方賢一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95481-1dPQbwMpvjul.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95481-1dPQbwMpvjul.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95481"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 74215,
+          "name": {
+            "first": "Mimi",
+            "last": null,
+            "native": "ミミ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74215-og5dxOVviC79.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b74215-og5dxOVviC79.png"
+          },
+          "siteUrl": "https://anilist.co/character/74215"
+        },
+        "voiceActors": [
+          {
+            "id": 95485,
+            "name": {
+              "first": "Yuuko",
+              "last": "Mizutani",
+              "native": "水谷優子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95485-fKXiqJdcVHHs.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95485-fKXiqJdcVHHs.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95485"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 74213,
+          "name": {
+            "first": "Megaro",
+            "last": null,
+            "native": "メガロ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74213.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74213.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74213"
+        },
+        "voiceActors": [
+          {
+            "id": 95744,
+            "name": {
+              "first": "Daisuke",
+              "last": "Gouri",
+              "native": "郷里大輔"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95744-Iu1p0eNvShfN.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95744-Iu1p0eNvShfN.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95744"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 74217,
+          "name": {
+            "first": "Gina",
+            "last": null,
+            "native": "ジーナ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74217.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74217.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74217"
+        },
+        "voiceActors": [
+          {
+            "id": 112115,
+            "name": {
+              "first": "Satoko",
+              "last": "Yamano",
+              "native": "さと子山野"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/17115.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/17115.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/112115"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 74221,
+          "name": {
+            "first": "Alunor",
+            "last": null,
+            "native": "アルノール",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74221.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74221.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74221"
+        },
+        "voiceActors": [
+          {
+            "id": 106819,
+            "name": {
+              "first": "Minoru",
+              "last": "Yada",
+              "native": "矢田稔"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106819-0BhkgrYd31wo.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106819-0BhkgrYd31wo.png"
+            },
+            "siteUrl": "https://anilist.co/staff/106819"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 100095,
+          "name": {
+            "first": "Noboru",
+            "last": "Ishiguro",
+            "native": "石黒昇"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100095-KQyYqf7WpJ6J.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100095-KQyYqf7WpJ6J.png"
+          },
+          "description": "[Wiki (en)](https://en.wikipedia.org/wiki/Noboru_Ishiguro) | [Wiki (jp)](https://ja.wikipedia.org/wiki/石黒昇)\n\nNoboru Ishiguro was noteworthy for directing classic anime series like [Macross](https://anilist.co/anime/1088/), [Orguss](https://anilist.co/anime/2089/) and [Legend of the Galactic Heroes](https://anilist.co/anime/820/).\n\nHe was in a Hawaiian-style music band in his youth. Therefore, he is known as an animation director who can actually read musical scores and has made the best use of his previous experience for works such as [Macross: Do You Remember Love?](https://anilist.co/anime/1089/) and Legend of the Galactic Heroes. He entered Nihon University in the Department of Art and graduated in 1964. He joined Onishi Pro where he first worked as a key animator on subcontracted Astro Boy episodes. In 1978, he founded [Artland](https://anilist.co/studio/8/) for which he served as an executive director until he passed away in 2012.",
+          "siteUrl": "https://anilist.co/staff/100095"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100095,
+          "name": {
+            "first": "Noboru",
+            "last": "Ishiguro",
+            "native": "石黒昇"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100095-KQyYqf7WpJ6J.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100095-KQyYqf7WpJ6J.png"
+          },
+          "description": "[Wiki (en)](https://en.wikipedia.org/wiki/Noboru_Ishiguro) | [Wiki (jp)](https://ja.wikipedia.org/wiki/石黒昇)\n\nNoboru Ishiguro was noteworthy for directing classic anime series like [Macross](https://anilist.co/anime/1088/), [Orguss](https://anilist.co/anime/2089/) and [Legend of the Galactic Heroes](https://anilist.co/anime/820/).\n\nHe was in a Hawaiian-style music band in his youth. Therefore, he is known as an animation director who can actually read musical scores and has made the best use of his previous experience for works such as [Macross: Do You Remember Love?](https://anilist.co/anime/1089/) and Legend of the Galactic Heroes. He entered Nihon University in the Department of Art and graduated in 1964. He joined Onishi Pro where he first worked as a key animator on subcontracted Astro Boy episodes. In 1978, he founded [Artland](https://anilist.co/studio/8/) for which he served as an executive director until he passed away in 2012.",
+          "siteUrl": "https://anilist.co/staff/100095"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 105102,
+          "name": {
+            "first": "Shigeo",
+            "last": "Koshi",
+            "native": "腰繁男"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10102.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/10102.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/105102"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 105102,
+          "name": {
+            "first": "Shigeo",
+            "last": "Koshi",
+            "native": "腰繁男"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10102.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/10102.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/105102"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 116365,
+          "name": {
+            "first": "Minoru",
+            "last": "Kibata",
+            "native": "木場田実"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/116365"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 116615,
+          "name": {
+            "first": "Mami",
+            "last": "Watanabe",
+            "native": "渡辺麻実"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116615-9HD4kwtBUqju.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116615-9HD4kwtBUqju.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/渡辺麻実)",
+          "siteUrl": "https://anilist.co/staff/116615"
+        }
+      },
+      {
+        "role": "Key Animation (ep 13)",
+        "node": {
+          "id": 121203,
+          "name": {
+            "first": "Hiroko",
+            "last": "Kazui",
+            "native": "数井浩子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121203-GQErzz9HQVdA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121203-GQErzz9HQVdA.png"
+          },
+          "description": "Directs on occasions.",
+          "siteUrl": "https://anilist.co/staff/121203"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 124674,
+          "name": {
+            "first": "Kazushige",
+            "last": "Yusa",
+            "native": "遊佐かずしげ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124674-PQtk6S4ruRDv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124674-PQtk6S4ruRDv.png"
+          },
+          "description": "[Twitter](https://twitter.com/sorakurayusa) | [Wiki (JP)](https://ja.wikipedia.org/wiki/%E9%81%8A%E4%BD%90%E3%81%8B%E3%81%9A%E3%81%97%E3%81%92)\n\nJapanese animator and director. He is president and CEO of animation studio Mobius Tone. He is married to animator [Rie Ooshima](https://anilist.co/staff/330764).",
+          "siteUrl": "https://anilist.co/staff/124674"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 22,
+          "name": "Nippon Animation",
+          "siteUrl": "https://anilist.co/studio/22"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 16,
+          "name": "TV Tokyo",
+          "siteUrl": "https://anilist.co/studio/16"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 10
+      },
+      {
+        "score": 40,
+        "amount": 9
+      },
+      {
+        "score": 50,
+        "amount": 14
+      },
+      {
+        "score": 60,
+        "amount": 24
+      },
+      {
+        "score": 70,
+        "amount": 17
+      },
+      {
+        "score": 80,
+        "amount": 7
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 11
+      },
+      {
+        "status": "PLANNING",
+        "amount": 87
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 164
+      },
+      {
+        "status": "DROPPED",
+        "amount": 33
+      },
+      {
+        "status": "PAUSED",
+        "amount": 10
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/4616",
+  "modNotes": null
+}

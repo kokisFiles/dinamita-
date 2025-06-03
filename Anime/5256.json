@@ -1,0 +1,851 @@
+{
+  "id": 5256,
+  "idMal": 5256,
+  "title": {
+    "native": "ポケモン不思議のダンジョン 時の探検隊・闇の探検隊",
+    "romaji": "Pokémon Fushigi no Dungeon: Toki no Tankentai, Yami no Tankentai",
+    "english": "Pokémon Mystery Dungeon: Explorers of Time and Darkness"
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "Based on Nintendo DS game; Pok&eacute;mon Mystery Dungeon 2: Time &amp; Darkness. <br><br>\n(Source: AniDB) ",
+  "startDate": {
+    "year": 2007,
+    "month": 9,
+    "day": 9
+  },
+  "endDate": {
+    "year": 2007,
+    "month": 9,
+    "day": 9
+  },
+  "season": "FALL",
+  "seasonYear": 2007,
+  "seasonInt": 74,
+  "episodes": 1,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": {
+    "id": "V0PlwsTLoM0",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/V0PlwsTLoM0/hqdefault.jpg"
+  },
+  "updatedAt": 1748803389,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5256-Bq5nSK2B5kHp.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5256-Bq5nSK2B5kHp.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5256-Bq5nSK2B5kHp.jpg",
+    "color": "#e4ae50"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Pokemon Mystery Dungeon: Time Expedition & Darkness Expedition"
+  ],
+  "averageScore": 62,
+  "meanScore": 63,
+  "popularity": 2569,
+  "favourites": 7,
+  "tags": [
+    {
+      "id": 244,
+      "name": "Isekai",
+      "description": "Features characters being transported into an alternate world setting and having to adapt to their new surroundings.",
+      "category": "Theme-Fantasy",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 6275,
+          "title": {
+            "native": "ポケモン不思議のダンジョン 空の探検隊～時と闇をめぐる最後の冒険～"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 54234,
+          "title": {
+            "native": "ポケモン不思議のダンジョン 炎の探検隊"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 1565,
+          "title": {
+            "native": "ポケットモンスター ダイヤモンド&パール"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 169027,
+          "name": {
+            "first": "Hikozaru",
+            "last": null,
+            "native": "ヒコザル",
+            "alternative": [
+              "Chimchar",
+              "Ouisticram",
+              "Panflam"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169027-phU6SpQvXhNc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169027-phU6SpQvXhNc.png"
+          },
+          "siteUrl": "https://anilist.co/character/169027"
+        },
+        "voiceActors": [
+          {
+            "id": 95067,
+            "name": {
+              "first": "Kappei",
+              "last": "Yamaguchi",
+              "native": "山口勝平"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95067-hqIpNxMfAuN2.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95067-hqIpNxMfAuN2.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95067"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 156006,
+          "name": {
+            "first": "Strike",
+            "last": null,
+            "native": "ストライク",
+            "alternative": [
+              "Scyther"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156006-5HHh4IkxyHBJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b156006-5HHh4IkxyHBJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/156006"
+        },
+        "voiceActors": [
+          {
+            "id": 131995,
+            "name": {
+              "first": "Youhei",
+              "last": "Nishina",
+              "native": "仁科洋平"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131995-Qdx8p7NY0Sa0.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n131995-Qdx8p7NY0Sa0.png"
+            },
+            "siteUrl": "https://anilist.co/staff/131995"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 133224,
+          "name": {
+            "first": "Pocchama",
+            "last": null,
+            "native": "ポッチャマ ",
+            "alternative": [
+              "Piplup"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133224-e024AiBEkKQY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133224-e024AiBEkKQY.png"
+          },
+          "siteUrl": "https://anilist.co/character/133224"
+        },
+        "voiceActors": [
+          {
+            "id": 95500,
+            "name": {
+              "first": "Kurumi",
+              "last": "Mamiya",
+              "native": "間宮くるみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95500-eEWlj7eCm3Ab.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95500-eEWlj7eCm3Ab.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95500"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 100372,
+          "name": {
+            "first": "Satoshi",
+            "last": "Tajiri",
+            "native": "田尻智"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100372-ztnZ3FtrHMlw.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100372-ztnZ3FtrHMlw.jpg"
+          },
+          "description": "Satoshi is the creator of Pocket Monsters and Game Freak company",
+          "siteUrl": "https://anilist.co/staff/100372"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 107479,
+          "name": {
+            "first": "Ken",
+            "last": "Sugimori",
+            "native": "杉森建"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12479.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/12479.jpg"
+          },
+          "description": "Ken Sugimori is a Japanese video game designer, illustrator, manga artist, and director. He is most famous as the character designer and art director for the Pokémon franchise. Sugimori is also credited with the art direction for other titles, including Pulseman.  \n\nSugimori drew all of the original 151 Pokémon himself. He has worked on the various Pokémon movies, trading cards, and other games like the Super Smash Bros. series. From early 1981 until 1986, Sugimori illustrated a gaming fanzine called Game Freak, which had been started by Satoshi Tajiri. Sugimori discovered the magazine in a doujinshi shop, and decided to get involved. Eventually, the two decided to pitch an arcade game design idea to Namco; they reworked Game Freak into a development company and produced Mendel Palace. \n\nSugimori is most famous as the character designer and art director for the Pokémon franchise. He has worked on the various Pokémon movies, trading cards, and other games. For Pokémon Black and White, Sugimori directed a team of 17 people in designing new characters for the games, though he always drew the final designs. He drew much of his inspiration from observing animals in aquariums and zoos. \n\nSugimori has also written and illustrated original manga, including one which was distributed with pre-orders of Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness. When he begins a new character, his process normally involves making a rough sketch, then tracing it on to film paper while polishing it and making the illustration more professional looking. After that, he draws the character many times, changing its proportions until he is satisfied.",
+          "siteUrl": "https://anilist.co/staff/107479"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 111749,
+          "name": {
+            "first": "Masafumi",
+            "last": "Mima",
+            "native": "三間雅文"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111749-xD6V05u2FQig.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111749-xD6V05u2FQig.png"
+          },
+          "description": "[Twitter](https://twitter.com/Sunma47) | [Wiki (jp)](https://ja.wikipedia.org/wiki/三間雅文)\n\nOne of the industry's most prolific sound directors, having worked on more than 300 productions.\n\nAfter having graduated college, Mima joined Magic Capsule, a sound production company ran by his relative [Susumu Aketagawa](https://anilist.co/staff/120062/). In 1986, he debuted as a sound director on [MD Geist](https://anilist.co/anime/1285/MD-Geist/). He left Magic Capsule in 1996, and later joined Techno Sound. In 2004, he became the studio's representative director.",
+          "siteUrl": "https://anilist.co/staff/111749"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 112799,
+          "name": {
+            "first": "Masaaki",
+            "last": "Iwane",
+            "native": "岩根雅明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112799-pClZsM8JYwZ7.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112799-pClZsM8JYwZ7.jpg"
+          },
+          "description": "**Alma mater:** Osaka Designers' College\n\n[Twitter](https://twitter.com/animator1965) | [YouTube](https://www.youtube.com/channel/UCkprQIMhYv7mZAvCsD6t0Lw)",
+          "siteUrl": "https://anilist.co/staff/112799"
+        }
+      },
+      {
+        "role": "Animation Producer",
+        "node": {
+          "id": 146872,
+          "name": {
+            "first": "Toshiaki",
+            "last": "Okuno",
+            "native": "奥野敏聡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146872-lQIMEckyrVrs.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146872-lQIMEckyrVrs.jpg"
+          },
+          "description": "He is an anime producer and planner. He was formerly working at [OB Planning](https://anilist.co/studio/67/), before establishing OLM, where he is still currently the representative director and founder of it with [Yuriko Chiba](https://anilist.co/staff/103307/) and [Naohito Takahashi](https://anilist.co/staff/105248/).",
+          "siteUrl": "https://anilist.co/staff/146872"
+        }
+      },
+      {
+        "role": "Animation Supervisor",
+        "node": {
+          "id": 115532,
+          "name": {
+            "first": "Youichi",
+            "last": "Kotabe",
+            "native": "小田部羊一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115532-VmKLXiikh0vr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115532-VmKLXiikh0vr.png"
+          },
+          "description": "While studying at Tokyo University of the Arts, Kotabe was impressed by the film [The Tale of the White Serpent](https://anilist.co/anime/4513/) and the animator [Yasuji Mori](https://anilist.co/staff/103602/), and immediately applied to work at [Toei Animation](https://anilist.co/studio/18/).\n\nHis first project there was [Magic Boy](https://anilist.co/anime/4948/), the first ever anime to be released theatrically in North America. At the studio he also met [Hayao Miyazaki](https://anilist.co/staff/96870/) and [Isao Takahata](https://anilist.co/staff/100579/), with whom he later left in order to work at A Pro, and they began work on an adaptation of Pippi Longstocking. That project was eventually canceled, and work began on the two-film series [Panda! Go Panda!](https://anilist.co/anime/2611/).\n\nKotabe then worked as character designer on two highly influential series directed by Takahata: [Heidi, Girl of the Alps](https://anilist.co/anime/2225/), and [3000 Leagues in Search of Mother](https://anilist.co/anime/1663/). Miyazaki also took part working on scene design and layouts.\n\nIn 1985, he was scouted by Nintendo and assumed the position of the game development advisor. He worked at Nintendo for over two decades until leaving in 2007.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/115532"
+        }
+      },
+      {
+        "role": "Associate Producer",
+        "node": {
+          "id": 103211,
+          "name": {
+            "first": "Masakazu",
+            "last": "Kubo",
+            "native": "久保雅一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103211-PsUILAEMPJTL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103211-PsUILAEMPJTL.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/103211"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 200452,
+          "name": {
+            "first": "Kunimi",
+            "last": "Kawamura",
+            "native": "川村久仁美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/200452"
+        }
+      },
+      {
+        "role": "Screenplay",
+        "node": {
+          "id": 140090,
+          "name": {
+            "first": "Aya",
+            "last": "Matsui",
+            "native": "松井亜弥"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n140090-y01Fq4gpHqvr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n140090-y01Fq4gpHqvr.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/624583750)",
+          "siteUrl": "https://anilist.co/staff/140090"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 146871,
+          "name": {
+            "first": "Takemoto",
+            "last": "Mori",
+            "native": "盛武源"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/146871"
+        }
+      },
+      {
+        "role": "Executive Producer",
+        "node": {
+          "id": 149415,
+          "name": {
+            "first": "Tsunekazu",
+            "last": "Ishihara",
+            "native": "石原恒和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n149415-YUm9OdRgEtC2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n149415-YUm9OdRgEtC2.jpg"
+          },
+          "description": "Video game designer and current representative director of The Pokémon Company as well as the founder and representative director of Creatures.",
+          "siteUrl": "https://anilist.co/staff/149415"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 199584,
+          "name": {
+            "first": "Takaaki",
+            "last": "Kii",
+            "native": "紀伊高明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Takaaki Kii is a producer.",
+          "siteUrl": "https://anilist.co/staff/199584"
+        }
+      },
+      {
+        "role": "Assistant Producer",
+        "node": {
+          "id": 199656,
+          "name": {
+            "first": "Yuuko",
+            "last": "Shimamura",
+            "native": "島村優子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Yuuko Shimamura is a producer.",
+          "siteUrl": "https://anilist.co/staff/199656"
+        }
+      },
+      {
+        "role": "Animation Producer",
+        "node": {
+          "id": 146873,
+          "name": {
+            "first": "Shukichi",
+            "last": "Kanda",
+            "native": "神田修吉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Was affiliated with OLM.",
+          "siteUrl": "https://anilist.co/staff/146873"
+        }
+      },
+      {
+        "role": "Associate Producer",
+        "node": {
+          "id": 146875,
+          "name": {
+            "first": "Chouji",
+            "last": "Yoshikawa",
+            "native": "吉川兆二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/146875"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100180,
+          "name": {
+            "first": "Kunihiko",
+            "last": "Yuyama",
+            "native": "湯山邦彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100180-iex6OEpSH5kG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100180-iex6OEpSH5kG.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/100180"
+        }
+      },
+      {
+        "role": "Coordinators",
+        "node": {
+          "id": 200468,
+          "name": {
+            "first": "Hizuki",
+            "last": "Misono",
+            "native": "御園日月"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/200468"
+        }
+      },
+      {
+        "role": "Assistant Director",
+        "node": {
+          "id": 146599,
+          "name": {
+            "first": "Yuuji",
+            "last": "Asada",
+            "native": "浅田裕二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146599-EWOxanM5ue7n.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146599-EWOxanM5ue7n.png"
+          },
+          "description": "[Twitter](https://twitter.com/you_director)",
+          "siteUrl": "https://anilist.co/staff/146599"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 100180,
+          "name": {
+            "first": "Kunihiko",
+            "last": "Yuyama",
+            "native": "湯山邦彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100180-iex6OEpSH5kG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100180-iex6OEpSH5kG.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/100180"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 128908,
+          "name": {
+            "first": "Toshio",
+            "last": "Henmi",
+            "native": "辺見俊夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/128908"
+        }
+      },
+      {
+        "role": "Special Effects",
+        "node": {
+          "id": 146599,
+          "name": {
+            "first": "Yuuji",
+            "last": "Asada",
+            "native": "浅田裕二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146599-EWOxanM5ue7n.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146599-EWOxanM5ue7n.png"
+          },
+          "description": "[Twitter](https://twitter.com/you_director)",
+          "siteUrl": "https://anilist.co/staff/146599"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 147256,
+          "name": {
+            "first": "Akihiro",
+            "last": "Tamagawa",
+            "native": "玉川明洋"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/147256"
+        }
+      },
+      {
+        "role": "Sound Producer",
+        "node": {
+          "id": 160826,
+          "name": {
+            "first": "Takeshi",
+            "last": "Nishina",
+            "native": "西名武"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/160826"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 200833,
+          "name": {
+            "first": "Moririn",
+            "last": "Tada",
+            "native": "モリリン多田"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/200833"
+        }
+      },
+      {
+        "role": "Sound Producer",
+        "node": {
+          "id": 199659,
+          "name": {
+            "first": "Michiyoshi",
+            "last": "Minamisawa",
+            "native": "南沢道義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n199659-8QuXnze7ck4A.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n199659-8QuXnze7ck4A.jpg"
+          },
+          "description": "Michiyoshi Minamisawa is a sound producer and the representative director of 81 Produce.",
+          "siteUrl": "https://anilist.co/staff/199659"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 28,
+          "name": "OLM",
+          "siteUrl": "https://anilist.co/studio/28"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 499,
+          "name": "The Pokemon Company International",
+          "siteUrl": "https://anilist.co/studio/499"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 505,
+          "name": "Nintendo of America",
+          "siteUrl": "https://anilist.co/studio/505"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 829,
+          "name": "Studio Jack",
+          "siteUrl": "https://anilist.co/studio/829"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 24426,
+      "url": "https://www.youtube.com/watch?v=V0PlwsTLoM0",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 50085,
+          "rating": 5,
+          "media": {
+            "id": 5256,
+            "title": {
+              "native": "ポケモン不思議のダンジョン 時の探検隊・闇の探検隊"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 126294,
+            "title": {
+              "native": "ポケモン不思議のダンジョン マグナゲートと∞迷宮"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 53047,
+          "rating": 1,
+          "media": {
+            "id": 5256,
+            "title": {
+              "native": "ポケモン不思議のダンジョン 時の探検隊・闇の探検隊"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2842,
+            "title": {
+              "native": "ポケモン不思議のダンジョン 出動ポケモン救助隊ガンバルズ！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 265703,
+          "rating": 1,
+          "media": {
+            "id": 5256,
+            "title": {
+              "native": "ポケモン不思議のダンジョン 時の探検隊・闇の探検隊"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 8438,
+            "title": {
+              "native": "ポケモンレンジャー 光の軌跡"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 14
+      },
+      {
+        "score": 20,
+        "amount": 22
+      },
+      {
+        "score": 30,
+        "amount": 45
+      },
+      {
+        "score": 40,
+        "amount": 65
+      },
+      {
+        "score": 50,
+        "amount": 202
+      },
+      {
+        "score": 60,
+        "amount": 298
+      },
+      {
+        "score": 70,
+        "amount": 267
+      },
+      {
+        "score": 80,
+        "amount": 171
+      },
+      {
+        "score": 90,
+        "amount": 62
+      },
+      {
+        "score": 100,
+        "amount": 56
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 24
+      },
+      {
+        "status": "PLANNING",
+        "amount": 447
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2028
+      },
+      {
+        "status": "DROPPED",
+        "amount": 51
+      },
+      {
+        "status": "PAUSED",
+        "amount": 19
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/5256",
+  "modNotes": null
+}

@@ -1,0 +1,828 @@
+{
+  "id": 43192,
+  "idMal": 13192,
+  "title": {
+    "native": "サザエさん",
+    "romaji": "Sazae-San",
+    "english": "The Wonderful World of Sazae-San"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Slice of Life manga about a woman named Sazae and her family.",
+  "startDate": {
+    "year": 1946,
+    "month": 4,
+    "day": 22
+  },
+  "endDate": {
+    "year": 1974,
+    "month": 2,
+    "day": 21
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 6477,
+  "volumes": 45,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748793817,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b43192-lBoylrcHjwWA.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b43192-lBoylrcHjwWA.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b43192-lBoylrcHjwWA.jpg",
+    "color": "#e4ae5d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Heisei no Sazae-san",
+    "The Wonderful World of Sazae-san"
+  ],
+  "averageScore": 52,
+  "meanScore": 63,
+  "popularity": 360,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 27,
+      "name": "Josei",
+      "description": "Target demographic is adult females.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 206,
+      "name": "4-koma",
+      "description": "A manga in the 'yonkoma' format, which consists of four equal-sized panels arranged in a vertical strip.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2406,
+          "title": {
+            "native": "サザエさん"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 79895,
+          "name": {
+            "first": "Masuo",
+            "last": "Fuguta",
+            "native": "フグ田マスオ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b79895-yMEOvPvivSpB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b79895-yMEOvPvivSpB.png"
+          },
+          "siteUrl": "https://anilist.co/character/79895"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 41112,
+          "name": {
+            "first": "Sazae",
+            "last": "Fuguta",
+            "native": "フグ田サザエ",
+            "alternative": [
+              "Sazae Isono"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/41112.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/41112.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/41112"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247361,
+          "name": {
+            "first": "Namihei",
+            "last": "Isono",
+            "native": "磯野波平",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247361-T9YHlvS4myOo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247361-T9YHlvS4myOo.png"
+          },
+          "siteUrl": "https://anilist.co/character/247361"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247364,
+          "name": {
+            "first": "Wakame",
+            "last": "Isono",
+            "native": "磯野ワカメ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247364-zourWm0RSwvv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247364-zourWm0RSwvv.png"
+          },
+          "siteUrl": "https://anilist.co/character/247364"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247369,
+          "name": {
+            "first": "Tama",
+            "last": null,
+            "native": "タマ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247369-wdniLOCLTbsj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247369-wdniLOCLTbsj.png"
+          },
+          "siteUrl": "https://anilist.co/character/247369"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247363,
+          "name": {
+            "first": "Fune",
+            "last": "Isono",
+            "native": "磯野フネ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247363-e1nIn8fXxhzE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247363-e1nIn8fXxhzE.png"
+          },
+          "siteUrl": "https://anilist.co/character/247363"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247412,
+          "name": {
+            "first": "Nagie",
+            "last": "Namino",
+            "native": "波野なぎえ",
+            "alternative": [
+              "Norisuke no Haha (ノリスケの母)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247412-doL779mztHfG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247412-doL779mztHfG.png"
+          },
+          "siteUrl": "https://anilist.co/character/247412"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247365,
+          "name": {
+            "first": "Tarao",
+            "last": "Fuguta",
+            "native": "フグ田タラオ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247365-He1H2zM1D34o.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247365-He1H2zM1D34o.png"
+          },
+          "siteUrl": "https://anilist.co/character/247365"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 79867,
+          "name": {
+            "first": "Katsuo",
+            "last": "Isono",
+            "native": "磯野カツオ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b79867-2f2Cdk6YjzPc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b79867-2f2Cdk6YjzPc.png"
+          },
+          "siteUrl": "https://anilist.co/character/79867"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247419,
+          "name": {
+            "first": "Norio",
+            "last": "Fuguta",
+            "native": "フグ田ノリオ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247419-JPHB7lvyvMG9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247419-JPHB7lvyvMG9.png"
+          },
+          "siteUrl": "https://anilist.co/character/247419"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 257440,
+          "name": {
+            "first": "Ura no Obaachan",
+            "last": null,
+            "native": "裏のおばあちゃん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/257440"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 257446,
+          "name": {
+            "first": "Craftflash Royalway Gooddalmatian Montana",
+            "last": null,
+            "native": "クラフトフラッシュ・ローヤルウェイ・グッドダルマシヤン・モンタナ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/257446"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247415,
+          "name": {
+            "first": "Okoze",
+            "last": "Ishida",
+            "native": "石田おこぜ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247415-dHO4h4jGF10K.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247415-dHO4h4jGF10K.png"
+          },
+          "siteUrl": "https://anilist.co/character/247415"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 257444,
+          "name": {
+            "first": "Kasefu-san",
+            "last": null,
+            "native": "家政婦さん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/257444"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247414,
+          "name": {
+            "first": "Taizou",
+            "last": "Ishida",
+            "native": "石田鯛造",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247414-iZapJHlgwIen.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247414-iZapJHlgwIen.png"
+          },
+          "siteUrl": "https://anilist.co/character/247414"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 257438,
+          "name": {
+            "first": "Ukie",
+            "last": "Isasaka",
+            "native": "伊佐坂浮江",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/257438"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247416,
+          "name": {
+            "first": "Irie",
+            "last": "Fuguta",
+            "native": "フグ田入江",
+            "alternative": [
+              "Masuo no Haha (マスオの母)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247416-YtcUXjqNAgXi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247416-YtcUXjqNAgXi.png"
+          },
+          "siteUrl": "https://anilist.co/character/247416"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247417,
+          "name": {
+            "first": "Sakeo",
+            "last": "Fuguta",
+            "native": "フグ田サケオ",
+            "alternative": [
+              "Masuo no Ani (マスオの兄)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247417-jJH3LbcYkhW1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247417-jJH3LbcYkhW1.png"
+          },
+          "siteUrl": "https://anilist.co/character/247417"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247418,
+          "name": {
+            "first": null,
+            "last": "Masuo no Aniyome",
+            "native": "マスオの兄嫁",
+            "alternative": [
+              "Masuo's Sister-in-Law"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247418-Y6rs4PuqvPEf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247418-Y6rs4PuqvPEf.png"
+          },
+          "siteUrl": "https://anilist.co/character/247418"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 257436,
+          "name": {
+            "first": "Okaru",
+            "last": "Isasaka",
+            "native": "伊佐坂お軽",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/257436"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 257445,
+          "name": {
+            "first": "Untenshu-san",
+            "last": null,
+            "native": "運転手さん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/257445"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 257451,
+          "name": {
+            "first": "Anago-san",
+            "last": null,
+            "native": "穴子さん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/257451"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247421,
+          "name": {
+            "first": "Taiko",
+            "last": "Namino",
+            "native": "波野タイ子",
+            "alternative": [
+              "波野タイコ"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247421-gtaEqrEJCep8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247421-gtaEqrEJCep8.png"
+          },
+          "siteUrl": "https://anilist.co/character/247421"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 257447,
+          "name": {
+            "first": "Saburo-san",
+            "last": null,
+            "native": "三郎さん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/257447"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 14891,
+          "name": {
+            "first": "Anago",
+            "last": null,
+            "native": "あなご",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14891"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 107050,
+          "name": {
+            "first": "Machiko",
+            "last": "Hasegawa",
+            "native": "長谷川町子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12050.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/12050.jpg"
+          },
+          "description": "Machiko Hasegawa was one of the first female manga artists. She started her own comic strip, Sazae-san, in 1946. It reached national circulation via the Asahi Shimbun in 1949, and ran daily until Hasegawa decided to retire in February 1974. Her comic strip was turned into a dramatic radio series in 1955 and a weekly animated series in 1969, which is still running as of 2021.  She received People's Honor Award in 1992. She died of heart failure at the age of 72 on May 27, 1992.\n\nShe has been awarded with a post mortem award on the Special Prize category of the 24th Annual Tezuka Osamu Cultural Prize awards. ",
+          "siteUrl": "https://anilist.co/staff/107050"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 59274,
+          "rating": 1,
+          "media": {
+            "id": 43192,
+            "title": {
+              "native": "サザエさん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30728,
+            "title": {
+              "native": "鉄腕 アトム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 59488,
+          "rating": 4,
+          "media": {
+            "id": 43192,
+            "title": {
+              "native": "サザエさん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 52202,
+            "title": {
+              "native": "マアチャンの日記帳"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 94582,
+          "rating": 6,
+          "media": {
+            "id": 43192,
+            "title": {
+              "native": "サザエさん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 45530,
+            "title": {
+              "native": "ちびまる子ちゃん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 94584,
+          "rating": 5,
+          "media": {
+            "id": 43192,
+            "title": {
+              "native": "サザエさん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 32435,
+            "title": {
+              "native": "クレヨンしんちゃん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 94586,
+          "rating": 1,
+          "media": {
+            "id": 43192,
+            "title": {
+              "native": "サザエさん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 52910,
+            "title": {
+              "native": "コボちゃん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 94592,
+          "rating": 3,
+          "media": {
+            "id": 43192,
+            "title": {
+              "native": "サザエさん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31032,
+            "title": {
+              "native": "ドラえもん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 114853,
+          "rating": 1,
+          "media": {
+            "id": 43192,
+            "title": {
+              "native": "サザエさん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 127968,
+            "title": {
+              "native": "じゃりン子チエ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 114867,
+          "rating": 1,
+          "media": {
+            "id": 43192,
+            "title": {
+              "native": "サザエさん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30733,
+            "title": {
+              "native": "こちら葛飾区亀有公園前派出所"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 312898,
+          "rating": 1,
+          "media": {
+            "id": 43192,
+            "title": {
+              "native": "サザエさん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 96776,
+            "title": {
+              "native": "少年アシベ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 7
+      },
+      {
+        "score": 60,
+        "amount": 12
+      },
+      {
+        "score": 70,
+        "amount": 8
+      },
+      {
+        "score": 80,
+        "amount": 4
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 8
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 41
+      },
+      {
+        "status": "PLANNING",
+        "amount": 222
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 57
+      },
+      {
+        "status": "DROPPED",
+        "amount": 24
+      },
+      {
+        "status": "PAUSED",
+        "amount": 16
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/43192",
+  "modNotes": null
+}

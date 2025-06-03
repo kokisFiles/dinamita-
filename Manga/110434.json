@@ -1,0 +1,434 @@
+{
+  "id": 110434,
+  "idMal": 120721,
+  "title": {
+    "native": "遊☆戯☆王OCGストラクチャーズ",
+    "romaji": "Yu☆Gi☆Oh OCG Structures",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "RELEASING",
+  "description": "It’s a multiple chapter serial by Masashi Satou, artist of the Yu-Gi-Oh! 5D’s manga. Unlike previous manga in V Jump, it will be a story intentionally including cards from the real card game.",
+  "startDate": {
+    "year": 2019,
+    "month": 6,
+    "day": 21
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748861811,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110434-xl9M2XMxHLVV.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110434-xl9M2XMxHLVV.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx110434-xl9M2XMxHLVV.jpg",
+    "color": "#f1ae50"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action"
+  ],
+  "synonyms": [],
+  "averageScore": 55,
+  "meanScore": 65,
+  "popularity": 498,
+  "favourites": 6,
+  "tags": [
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 178,
+      "name": "Card Battle",
+      "description": "Centers around individuals competing in card games.",
+      "category": "Theme-Game-Card & Board Game",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 446,
+      "name": "Primarily Child Cast",
+      "description": "Main cast is mostly composed of characters below a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 30054,
+          "title": {
+            "native": "遊☆戯☆王"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 141791,
+          "name": {
+            "first": "Shouma",
+            "last": null,
+            "native": "尚磨",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141791-IIIWmGxll4ap.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141791-IIIWmGxll4ap.png"
+          },
+          "siteUrl": "https://anilist.co/character/141791"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 39184,
+          "name": {
+            "first": "Astral",
+            "last": null,
+            "native": "アストラル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/39184.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/39184.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/39184"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 39180,
+          "name": {
+            "first": "Yuma",
+            "last": "Tsukumo",
+            "native": "九十九 遊馬",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/39180.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/39180.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/39180"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43687,
+          "name": {
+            "first": "Kaito",
+            "last": "Tenjou",
+            "native": "天城カイト",
+            "alternative": [
+              "Kite"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/43687.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43687.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43687"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 17519,
+          "name": {
+            "first": "Kyosuke",
+            "last": "Kiryu",
+            "native": "鬼柳 京介",
+            "alternative": [
+              "Kalin Kessler"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17519.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17519.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17519"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 87762,
+          "name": {
+            "first": "Yuuya",
+            "last": "Sakaki",
+            "native": "榊 遊矢",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87762-Z8rnp4fyHfif.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/87762-Z8rnp4fyHfif.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/87762"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 113725,
+          "name": {
+            "first": "Masashi",
+            "last": "Satou",
+            "native": "佐藤雅史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113725-bG2LAFWGzsJe.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n113725-bG2LAFWGzsJe.jpg"
+          },
+          "description": "Author of the Yu-Gi-Oh! 5D's manga alongside Masahiro Hikokubo.",
+          "siteUrl": "https://anilist.co/staff/113725"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 96913,
+          "name": {
+            "first": "Kazuki",
+            "last": "Takahashi",
+            "native": "高橋和希"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96913-TSPMjgSu9Vre.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96913-TSPMjgSu9Vre.jpg"
+          },
+          "description": "The creator of Yu-Gi-Oh! He loved playing shogi, mahjong, card games, and tabletop role-playing games.\n\nIn an interview with Shonen Jump, Takahashi stated that his favorite manga from other authors included Akira by Katsuhiro Otomo, JoJo's Bizarre Adventure by Hirohiko Araki, and Dragon Ball by Akira Toriyama. He also enjoyed reading American comics, with Hellboy being his favorite American comic book character.\n\nOn July 6, 2022, a body in snorkeling gear was found off the coast of Nago City, Okinawa, which was identified the following day as Takahashi. It was revealed by a U.S. Army Officer that Takahashi attempted to aid in the rescue of three people at a riptide in Mermaid's Grotto, Onna, on July 4, 2022.",
+          "siteUrl": "https://anilist.co/staff/96913"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 90172,
+          "rating": 1,
+          "media": {
+            "id": 110434,
+            "title": {
+              "native": "遊☆戯☆王OCGストラクチャーズ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33041,
+            "title": {
+              "native": "遊☆戯☆王GX"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 90174,
+          "rating": 2,
+          "media": {
+            "id": 110434,
+            "title": {
+              "native": "遊☆戯☆王OCGストラクチャーズ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 45372,
+            "title": {
+              "native": "遊☆戯☆王ファイブディーズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 90176,
+          "rating": 3,
+          "media": {
+            "id": 110434,
+            "title": {
+              "native": "遊☆戯☆王OCGストラクチャーズ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 54915,
+            "title": {
+              "native": "遊☆戯☆王 ZEXAL"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 90178,
+          "rating": 1,
+          "media": {
+            "id": 110434,
+            "title": {
+              "native": "遊☆戯☆王OCGストラクチャーズ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 95866,
+            "title": {
+              "native": "遊☆戯☆王ARC-V"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 90180,
+          "rating": 1,
+          "media": {
+            "id": 110434,
+            "title": {
+              "native": "遊☆戯☆王OCGストラクチャーズ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 97172,
+            "title": {
+              "native": "遊☆戯☆王 TRANSCEND・GAME"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 4
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 7
+      },
+      {
+        "score": 60,
+        "amount": 15
+      },
+      {
+        "score": 70,
+        "amount": 20
+      },
+      {
+        "score": 80,
+        "amount": 7
+      },
+      {
+        "score": 90,
+        "amount": 10
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 224
+      },
+      {
+        "status": "PLANNING",
+        "amount": 194
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 11
+      },
+      {
+        "status": "DROPPED",
+        "amount": 32
+      },
+      {
+        "status": "PAUSED",
+        "amount": 37
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/110434",
+  "modNotes": null
+}

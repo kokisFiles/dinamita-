@@ -1,0 +1,975 @@
+{
+  "id": 1645,
+  "idMal": 1645,
+  "title": {
+    "native": "ハーロック・サーガ ニーベルングの指環",
+    "romaji": "Harlock Saga: Nibelung no Yubiwa",
+    "english": "Harlock Saga: The Ring of the Nibelung"
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "Captain Harlock is drawn into a saga of intergalactic proportions when the son of a deceased comrade unwittingly forges the Ring of the Niebelung. Evil forces gather to wage war against the last remaining superpowers of the galaxy led by a demented outcast. Harlock must counter the amassed armadas that threaten the last gods and recover the ring before Paradise is lost. <br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 1999,
+    "month": 1,
+    "day": 25
+  },
+  "endDate": {
+    "year": 1999,
+    "month": 11,
+    "day": 25
+  },
+  "season": "WINTER",
+  "seasonYear": 1999,
+  "seasonInt": 991,
+  "episodes": 6,
+  "duration": 30,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748885235,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1645-P6yalm0MORsY.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1645-P6yalm0MORsY.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1645-P6yalm0MORsY.jpg",
+    "color": "#d6431a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": 62,
+  "meanScore": 64,
+  "popularity": 1774,
+  "favourites": 10,
+  "tags": [
+    {
+      "id": 201,
+      "name": "Pirates",
+      "description": "Prominently features sea-faring adventurers branded as criminals by the law.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 191,
+      "name": "Aliens",
+      "description": "Prominently features extraterrestrial lifeforms.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 96,
+      "name": "Time Manipulation",
+      "description": "Prominently features time-traveling or other time-warping phenomena.",
+      "category": "Theme-Sci-Fi",
+      "rank": 20,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1000,
+          "title": {
+            "native": "宇宙海賊キャプテンハーロック"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 1495,
+          "title": {
+            "native": "メーテルレジェンド"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 1706,
+          "title": {
+            "native": "ガンフロンティア"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7951,
+          "name": {
+            "first": "Tochiro",
+            "last": "Ooyama",
+            "native": "大山トチロー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7951.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7951.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7951"
+        },
+        "voiceActors": [
+          {
+            "id": 95011,
+            "name": {
+              "first": "Kouichi",
+              "last": "Yamadera",
+              "native": "山寺宏一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95011-2RfLzncNyvbR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95011"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2888,
+          "name": {
+            "first": "Captain Harlock",
+            "last": "",
+            "native": "キャプテン・ハーロック",
+            "alternative": [
+              "Phantom Harlock",
+              "Herlock",
+              "Albator"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2888.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2888.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2888"
+        },
+        "voiceActors": [
+          {
+            "id": 95011,
+            "name": {
+              "first": "Kouichi",
+              "last": "Yamadera",
+              "native": "山寺宏一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95011-2RfLzncNyvbR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95011"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 25025,
+          "name": {
+            "first": "Tadashi",
+            "last": "Daiba",
+            "native": "台場正",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/25025.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/25025.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/25025"
+        },
+        "voiceActors": [
+          {
+            "id": 95129,
+            "name": {
+              "first": "Toshihiko",
+              "last": "Seki",
+              "native": "関俊彦"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95129-AAL7kfwAPpgR.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95129-AAL7kfwAPpgR.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95129"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 14004,
+          "name": {
+            "first": "Yattaran",
+            "last": null,
+            "native": "ヤッタラン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/14004.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14004.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14004"
+        },
+        "voiceActors": [
+          {
+            "id": 95255,
+            "name": {
+              "first": "Shigeru",
+              "last": "Chiba",
+              "native": "千葉繁"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95255-VOwYfPMZuZGQ.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95255-VOwYfPMZuZGQ.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95255"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7952,
+          "name": {
+            "first": "Emeraldas",
+            "last": null,
+            "native": "エメラルダス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7952-hkBjM2liTLlL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7952-hkBjM2liTLlL.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7952"
+        },
+        "voiceActors": [
+          {
+            "id": 95342,
+            "name": {
+              "first": "Masako",
+              "last": "Katsuki",
+              "native": "勝生真沙子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95342-pC8tGadzfTNb.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95342-pC8tGadzfTNb.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95342"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 25028,
+          "name": {
+            "first": "Miime",
+            "last": null,
+            "native": "ミーメ ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/25028.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/25028.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/25028"
+        },
+        "voiceActors": [
+          {
+            "id": 100299,
+            "name": {
+              "first": "Kazuko",
+              "last": "Yanaga",
+              "native": "弥永和子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5299.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5299.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/100299"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6321,
+          "name": {
+            "first": "Maetel",
+            "last": "",
+            "native": "メーテル",
+            "alternative": [
+              "Maysha"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6321-zecC2IPZiFxq.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b6321-zecC2IPZiFxq.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6321"
+        },
+        "voiceActors": [
+          {
+            "id": 96149,
+            "name": {
+              "first": "Masako",
+              "last": "Ikeda",
+              "native": "池田昌子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96149-oZnf7Y3W77bl.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96149-oZnf7Y3W77bl.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96149"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 159470,
+          "name": {
+            "first": "Alberich",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b159470-hi38FspFFB2P.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b159470-hi38FspFFB2P.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/159470"
+        },
+        "voiceActors": [
+          {
+            "id": 96245,
+            "name": {
+              "first": "Yoshito",
+              "last": "Yasuhara",
+              "native": "安原義人"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1245.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1245.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96245"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 160424,
+          "name": {
+            "first": "Computer",
+            "last": "Voice",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160424-VeFG9ZyJlpRw.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160424-VeFG9ZyJlpRw.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/160424"
+        },
+        "voiceActors": [
+          {
+            "id": 96145,
+            "name": {
+              "first": "Kouichi",
+              "last": "Sakaguchi",
+              "native": "坂口候一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96145-5FqzsN2pOiB4.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96145-5FqzsN2pOiB4.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96145"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 160425,
+          "name": {
+            "first": "Wotan",
+            "last": null,
+            "native": "ヴォータン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160425-rp449EsfIyYn.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160425-rp449EsfIyYn.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/160425"
+        },
+        "voiceActors": [
+          {
+            "id": 96252,
+            "name": {
+              "first": "Tarou",
+              "last": "Ishida",
+              "native": "石田太郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1252.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1252.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96252"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 160426,
+          "name": {
+            "first": "Freya",
+            "last": null,
+            "native": "フライア",
+            "alternative": [
+              "Freija"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160426-hLUkwaApKF2f.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160426-hLUkwaApKF2f.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/160426"
+        },
+        "voiceActors": [
+          {
+            "id": 95438,
+            "name": {
+              "first": "Emi",
+              "last": "Shinohara",
+              "native": "篠原恵美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95438-dNxTPna4mfhR.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95438-dNxTPna4mfhR.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95438"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 160427,
+          "name": {
+            "first": "Erda",
+            "last": null,
+            "native": "エルダ",
+            "alternative": [
+              "Elda"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160427-mTuAirVN6liR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160427-mTuAirVN6liR.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/160427"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 160428,
+          "name": {
+            "first": "Fricka",
+            "last": null,
+            "native": "フリッカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160428-6uuIF6o4S7nT.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160428-6uuIF6o4S7nT.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/160428"
+        },
+        "voiceActors": [
+          {
+            "id": 95919,
+            "name": {
+              "first": "Miyuki",
+              "last": "Ueda",
+              "native": "上田みゆき"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/919.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/919.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95919"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 160429,
+          "name": {
+            "first": "Ship Captain",
+            "last": "",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160429-qNMcuMaahVqN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160429-qNMcuMaahVqN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/160429"
+        },
+        "voiceActors": [
+          {
+            "id": 106822,
+            "name": {
+              "first": "Kumiko",
+              "last": "Hironaka",
+              "native": "くみ子弘中"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11822.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11822.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/106822"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 160604,
+          "name": {
+            "first": "Fasolt",
+            "last": null,
+            "native": "ファゾルト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160604-828wrc0rPM7t.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160604-828wrc0rPM7t.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/160604"
+        },
+        "voiceActors": [
+          {
+            "id": 95160,
+            "name": {
+              "first": "Takehito",
+              "last": "Koyasu",
+              "native": "子安武人"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95160-jWevcH7BmfE1.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95160"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 160603,
+          "name": {
+            "first": "Fafner",
+            "last": null,
+            "native": "ファフナー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160603-07tdOXHUxwF4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b160603-07tdOXHUxwF4.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/160603"
+        },
+        "voiceActors": [
+          {
+            "id": 95022,
+            "name": {
+              "first": "Shinichirou",
+              "last": "Miki",
+              "native": "三木眞一郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95022-BXggjIr4KHqd.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95022"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97597,
+          "name": {
+            "first": "Leiji",
+            "last": "Matsumoto",
+            "native": "松本零士"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97597-6SFzeXGMXD11.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97597-6SFzeXGMXD11.png"
+          },
+          "description": "[Twitter](https://twitter.com/leijimatsumoto)\n\nMatsumoto's art might take some getting used to, but he is renowned for coming up with great stories and brilliant new concepts. Debuting in 1953 with a 16 page manga \"Mitsubachi no Bouken\" in Manga Shounen, he has authored nearly thirty manga series.\n\nHis big break came in 1971, in the years between 53 and 71 he mostly produced Shoujo manga, much to his displeasure. In the late '70s and the early '80s, there was a big Matsumoto-boom when he drew his best known series. After that, things became more quiet around him, but the late '90s show a revival.\n\nThe trademarks of Matsumoto are his unusual artstyle, the space opera and the manly romance stories.\n\nIn 1997, Matsumoto began to create new adventures of Captain Harlock which can be admired on the Web in Japanese and in English.\n\nOne of Matsumoto Reiji's former assistants is [Sennou Knife](https://anilist.co/staff/99382), who was also an assistant of [Maki Miyako](https://anilist.co/staff/114821/). He went solo in the mid-80s and enjoyed modest success with Yami no Silhouette.\n\nHis real name is Matsumoto Akira. Reiji is a pseudonym and means something like \"Zero Warrior\". His name is often rendered in romaji as \"Matsumoto Leiji\". Matsumoto is married to Maki Miyako.\n\nHe died of heart failure on February 13, 2023 in a hospital in Tokyo.",
+          "siteUrl": "https://anilist.co/staff/97597"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 100112,
+          "name": {
+            "first": "Kaoru",
+            "last": "Wada",
+            "native": "和田薫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5112.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5112.jpg"
+          },
+          "description": "[Website](http://www.kaoru-wada.com/) | [Twitter](https://twitter.com/kaoru_wadash) | [Spotify](https://open.spotify.com/artist/4zbQfESCpBlXi1XlpnlG95)\n\nHe is a Japanese music composer. Married to voice actress [Akiko Nakagawa](https://anilist.co/staff/95749/Akiko-Nakagawa).",
+          "siteUrl": "https://anilist.co/staff/100112"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 101637,
+          "name": {
+            "first": "Shigeru",
+            "last": "Watanabe",
+            "native": "渡辺繁"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101637-PdEzbdRyqByD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101637-PdEzbdRyqByD.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/1399705447058137088)\n\nAffiliated with [Bandai Visual](https://anilist.co/studio/23/).",
+          "siteUrl": "https://anilist.co/staff/101637"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 104618,
+          "name": {
+            "first": "Richard",
+            "last": "Wagner",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9618.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9618.jpg"
+          },
+          "description": "Wilhelm Richard Wagner was a German composer, theatre director, polemicist, and conductor who is chiefly known for his operas/music dramas.",
+          "siteUrl": "https://anilist.co/staff/104618"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 105950,
+          "name": {
+            "first": "Masaharu",
+            "last": "Okuwaki",
+            "native": "奥脇雅晴"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/奥脇雅晴)",
+          "siteUrl": "https://anilist.co/staff/105950"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 114986,
+          "name": {
+            "first": "Osamu",
+            "last": "Honda",
+            "native": "本田修"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/114986"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 115629,
+          "name": {
+            "first": "Hideyuki",
+            "last": "Motohashi",
+            "native": "本橋秀之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115629-9p7Sfesji7op.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115629-9p7Sfesji7op.png"
+          },
+          "description": "He is an animator and character designer. Motohashi started working at Studio Z. Later, after leaving Studio Z, he started together with Hirayama Satoshi and Kamegaki Hajime Studio Z5. Today he is affiliated with Xebec and is the representative director of its subsidiary Xebec M2.\n\n",
+          "siteUrl": "https://anilist.co/staff/115629"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 115629,
+          "name": {
+            "first": "Hideyuki",
+            "last": "Motohashi",
+            "native": "本橋秀之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115629-9p7Sfesji7op.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115629-9p7Sfesji7op.png"
+          },
+          "description": "He is an animator and character designer. Motohashi started working at Studio Z. Later, after leaving Studio Z, he started together with Hirayama Satoshi and Kamegaki Hajime Studio Z5. Today he is affiliated with Xebec and is the representative director of its subsidiary Xebec M2.\n\n",
+          "siteUrl": "https://anilist.co/staff/115629"
+        }
+      },
+      {
+        "role": "Associate Producer",
+        "node": {
+          "id": 128749,
+          "name": {
+            "first": "Shunji",
+            "last": "Ooga",
+            "native": "大賀俊二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128749-gJHxn76CMzSN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n128749-gJHxn76CMzSN.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/128749"
+        }
+      },
+      {
+        "role": "Opening",
+        "node": {
+          "id": 141306,
+          "name": {
+            "first": "Marisuke",
+            "last": "Eguchi ",
+            "native": "江口摩吏介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n141306-rRETFDVgSfgj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n141306-rRETFDVgSfgj.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/江口摩吏介)",
+          "siteUrl": "https://anilist.co/staff/141306"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 23,
+          "name": "Bandai Visual",
+          "siteUrl": "https://anilist.co/studio/23"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 20467,
+      "rank": 7,
+      "type": "RATED",
+      "format": "OVA",
+      "year": 1999,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 20500,
+      "rank": 10,
+      "type": "POPULAR",
+      "format": "OVA",
+      "year": 1999,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 126152,
+          "rating": 3,
+          "media": {
+            "id": 1645,
+            "title": {
+              "native": "ハーロック・サーガ ニーベルングの指環"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 3602,
+            "title": {
+              "native": "銀河鉄道９９９ エターナルファンタジー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 276002,
+          "rating": 2,
+          "media": {
+            "id": 1645,
+            "title": {
+              "native": "ハーロック・サーガ ニーベルングの指環"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1553,
+            "title": {
+              "native": "クィーン・エメラルダス"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 14
+      },
+      {
+        "score": 20,
+        "amount": 13
+      },
+      {
+        "score": 30,
+        "amount": 19
+      },
+      {
+        "score": 40,
+        "amount": 38
+      },
+      {
+        "score": 50,
+        "amount": 67
+      },
+      {
+        "score": 60,
+        "amount": 123
+      },
+      {
+        "score": 70,
+        "amount": 145
+      },
+      {
+        "score": 80,
+        "amount": 97
+      },
+      {
+        "score": 90,
+        "amount": 47
+      },
+      {
+        "score": 100,
+        "amount": 28
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 48
+      },
+      {
+        "status": "PLANNING",
+        "amount": 830
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 823
+      },
+      {
+        "status": "DROPPED",
+        "amount": 41
+      },
+      {
+        "status": "PAUSED",
+        "amount": 32
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/1645",
+  "modNotes": null
+}

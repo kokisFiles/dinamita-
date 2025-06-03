@@ -1,0 +1,930 @@
+{
+  "id": 979,
+  "idMal": 979,
+  "title": {
+    "native": "ストリートファイターZERO - THE ANIMATION -",
+    "romaji": "Street Fighter ZERO: THE ANIMATION",
+    "english": "Street Fighter Alpha"
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "Ryu, the current Street Fighter champion, must overcome the power of the \"Dark Hadou\" which consumed Akuma, the brother of his sensei, Gouken. Plus, he deals with the unexpected arrival of Shun, a young boy who proclaims to be his long-lost brother.\n<br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 1999,
+    "month": 12,
+    "day": 22
+  },
+  "endDate": {
+    "year": 1999,
+    "month": 12,
+    "day": 22
+  },
+  "season": "FALL",
+  "seasonYear": 1999,
+  "seasonInt": 994,
+  "episodes": 1,
+  "duration": 94,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748807028,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx979-xmxAyIxWBSld.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx979-xmxAyIxWBSld.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx979-xmxAyIxWBSld.png",
+    "color": "#f15d0d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "synonyms": [
+    "Street Fighter Alpha: The Movie"
+  ],
+  "averageScore": 61,
+  "meanScore": 61,
+  "popularity": 3184,
+  "favourites": 25,
+  "tags": [
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 30,
+      "name": "Martial Arts",
+      "description": "Centers around the use of traditional hand-to-hand combat.",
+      "category": "Theme-Action",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 950,
+          "title": {
+            "native": "ストリートファイターZERO: ジェネレーションズ"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9313,
+          "name": {
+            "first": "Ken",
+            "last": "Masters",
+            "native": "ケン・マスターズ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9313-T4jq0jGXmmyN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9313-T4jq0jGXmmyN.png"
+          },
+          "siteUrl": "https://anilist.co/character/9313"
+        },
+        "voiceActors": [
+          {
+            "id": 96519,
+            "name": {
+              "first": "Kazuya",
+              "last": "Ichijou",
+              "native": "一条和矢"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1519.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1519.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96519"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9315,
+          "name": {
+            "first": "Sakura",
+            "last": "Kasugano",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9315.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9315.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9315"
+        },
+        "voiceActors": [
+          {
+            "id": 96464,
+            "name": {
+              "first": "Chiaki",
+              "last": "Osawa",
+              "native": "大沢千秋"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1464.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1464.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96464"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 77497,
+          "name": {
+            "first": "Adon",
+            "last": null,
+            "native": "アドン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/77497.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/77497.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/77497"
+        },
+        "voiceActors": [
+          {
+            "id": 95133,
+            "name": {
+              "first": "Wataru",
+              "last": "Takagi",
+              "native": "高木渉"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95133-cqDtu078voZ1.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95133-cqDtu078voZ1.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95133"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9318,
+          "name": {
+            "first": "Rose",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9318-DXJxHbTx84RO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9318-DXJxHbTx84RO.png"
+          },
+          "siteUrl": "https://anilist.co/character/9318"
+        },
+        "voiceActors": [
+          {
+            "id": 95208,
+            "name": {
+              "first": "Ai",
+              "last": "Orikasa",
+              "native": "折笠愛"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95208-DIfpWvWN401M.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95208-DIfpWvWN401M.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95208"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 6723,
+          "name": {
+            "first": "Ryuu",
+            "last": null,
+            "native": "リュウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6723-KL01Q7pi0nc8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b6723-KL01Q7pi0nc8.png"
+          },
+          "siteUrl": "https://anilist.co/character/6723"
+        },
+        "voiceActors": [
+          {
+            "id": 174036,
+            "name": {
+              "first": "Kane",
+              "last": "Kosugi",
+              "native": "コスギケイン"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/174036"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5165,
+          "name": {
+            "first": "Chun-Li",
+            "last": null,
+            "native": "チュンリー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5165-g0Vo7XosHh4I.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5165-g0Vo7XosHh4I.png"
+          },
+          "siteUrl": "https://anilist.co/character/5165"
+        },
+        "voiceActors": [
+          {
+            "id": 95435,
+            "name": {
+              "first": "Yumi",
+              "last": "Touma",
+              "native": "冬馬由美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95435-REiTyMQqIfH4.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95435-REiTyMQqIfH4.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95435"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9316,
+          "name": {
+            "first": "Birdie",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9316.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9316.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9316"
+        },
+        "voiceActors": [
+          {
+            "id": 95836,
+            "name": {
+              "first": "Ryuuzaburou",
+              "last": "Ootomo",
+              "native": "大友龍三郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95836-cHQyycQ0PWo2.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95836-cHQyycQ0PWo2.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95836"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 19316,
+          "name": {
+            "first": "Dan",
+            "last": "Hibiki",
+            "native": "火引 弾",
+            "alternative": [
+              "Dan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/19316.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/19316.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/19316"
+        },
+        "voiceActors": [
+          {
+            "id": 174037,
+            "name": {
+              "first": "Kazuyuki",
+              "last": "Ishikawa",
+              "native": "石川 和之"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/174037"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9223,
+          "name": {
+            "first": "Gouki",
+            "last": null,
+            "native": "豪鬼",
+            "alternative": [
+              "Akuma (アクマ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9223-5RlCrs6xq76Y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9223-5RlCrs6xq76Y.png"
+          },
+          "siteUrl": "https://anilist.co/character/9223"
+        },
+        "voiceActors": [
+          {
+            "id": 101175,
+            "name": {
+              "first": "Tomomichi",
+              "last": "Nishimura",
+              "native": "西村知道"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6175.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6175.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101175"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9317,
+          "name": {
+            "first": "Zangief",
+            "last": null,
+            "native": "ザンギエフ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9317-gmNxaVNfqvDX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9317-gmNxaVNfqvDX.png"
+          },
+          "siteUrl": "https://anilist.co/character/9317"
+        },
+        "voiceActors": [
+          {
+            "id": 103022,
+            "name": {
+              "first": "Hidenari",
+              "last": "Ugaki",
+              "native": "宇垣秀成"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103022-eePmaoJGrs94.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103022-eePmaoJGrs94.png"
+            },
+            "siteUrl": "https://anilist.co/staff/103022"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 101458,
+          "name": {
+            "first": "Yoshihiko",
+            "last": "Umakoshi",
+            "native": "馬越嘉彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101458-bGvJKzGP927H.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101458-bGvJKzGP927H.png"
+          },
+          "description": "[Twitter](https://twitter.com/ushimou730) | [Wiki (jp)](https://ja.wikipedia.org/wiki/馬越嘉彦)\n\nA highly prolific and respected character designer.\n\nOriginating from Monsieur Onion, where he spent his in-betweening days studying under [Hirotoshi Takaya](https://anilist.co/staff/117473/) and [Junichi Hayama](https://anilist.co/staff/140660/). In 1991, he moved to Studio Cockpit with [Hisashi Kagawa](https://anilist.co/staff/120432/) and [Tatsufumi Tamakawa](https://anilist.co/staff/109607/). A few years later he debuted as a character designer on [Grappler Baki](https://anilist.co/anime/1859/) in 1994.\n\nHe is said to be a very fast and efficient worker, and according to himself, he much rather participates in TV productions than theatrical ones. Close friends with [Hiroshi Nagahama](https://anilist.co/staff/99346/) whom he often works with. They first worked together on [Juubei-chan 2](https://anilist.co/anime/636/), for which Umakoshi provided the designs for and served as the chief animation director on all 13 episodes. The following year, the duo teamed up again for [Mushishi](https://anilist.co/anime/457/), which's production quality was unusually high for a TV production. Umakoshi designed the characters and worked as the chief animation director on all 26 episodes of the series and hit a burn-out. After this he took a step back on major roles for a few years. Both him and Nagahama reprised their roles on Mushishi's revival in 2014.\n\nIn 2016, Umakoshi was appointed as the character designer on [My Hero Academia](https://anilist.co/anime/21459/), and has since been highly involved with the series' production as both an animation director and animator.",
+          "siteUrl": "https://anilist.co/staff/101458"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 101458,
+          "name": {
+            "first": "Yoshihiko",
+            "last": "Umakoshi",
+            "native": "馬越嘉彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101458-bGvJKzGP927H.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101458-bGvJKzGP927H.png"
+          },
+          "description": "[Twitter](https://twitter.com/ushimou730) | [Wiki (jp)](https://ja.wikipedia.org/wiki/馬越嘉彦)\n\nA highly prolific and respected character designer.\n\nOriginating from Monsieur Onion, where he spent his in-betweening days studying under [Hirotoshi Takaya](https://anilist.co/staff/117473/) and [Junichi Hayama](https://anilist.co/staff/140660/). In 1991, he moved to Studio Cockpit with [Hisashi Kagawa](https://anilist.co/staff/120432/) and [Tatsufumi Tamakawa](https://anilist.co/staff/109607/). A few years later he debuted as a character designer on [Grappler Baki](https://anilist.co/anime/1859/) in 1994.\n\nHe is said to be a very fast and efficient worker, and according to himself, he much rather participates in TV productions than theatrical ones. Close friends with [Hiroshi Nagahama](https://anilist.co/staff/99346/) whom he often works with. They first worked together on [Juubei-chan 2](https://anilist.co/anime/636/), for which Umakoshi provided the designs for and served as the chief animation director on all 13 episodes. The following year, the duo teamed up again for [Mushishi](https://anilist.co/anime/457/), which's production quality was unusually high for a TV production. Umakoshi designed the characters and worked as the chief animation director on all 26 episodes of the series and hit a burn-out. After this he took a step back on major roles for a few years. Both him and Nagahama reprised their roles on Mushishi's revival in 2014.\n\nIn 2016, Umakoshi was appointed as the character designer on [My Hero Academia](https://anilist.co/anime/21459/), and has since been highly involved with the series' production as both an animation director and animator.",
+          "siteUrl": "https://anilist.co/staff/101458"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 101458,
+          "name": {
+            "first": "Yoshihiko",
+            "last": "Umakoshi",
+            "native": "馬越嘉彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101458-bGvJKzGP927H.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101458-bGvJKzGP927H.png"
+          },
+          "description": "[Twitter](https://twitter.com/ushimou730) | [Wiki (jp)](https://ja.wikipedia.org/wiki/馬越嘉彦)\n\nA highly prolific and respected character designer.\n\nOriginating from Monsieur Onion, where he spent his in-betweening days studying under [Hirotoshi Takaya](https://anilist.co/staff/117473/) and [Junichi Hayama](https://anilist.co/staff/140660/). In 1991, he moved to Studio Cockpit with [Hisashi Kagawa](https://anilist.co/staff/120432/) and [Tatsufumi Tamakawa](https://anilist.co/staff/109607/). A few years later he debuted as a character designer on [Grappler Baki](https://anilist.co/anime/1859/) in 1994.\n\nHe is said to be a very fast and efficient worker, and according to himself, he much rather participates in TV productions than theatrical ones. Close friends with [Hiroshi Nagahama](https://anilist.co/staff/99346/) whom he often works with. They first worked together on [Juubei-chan 2](https://anilist.co/anime/636/), for which Umakoshi provided the designs for and served as the chief animation director on all 13 episodes. The following year, the duo teamed up again for [Mushishi](https://anilist.co/anime/457/), which's production quality was unusually high for a TV production. Umakoshi designed the characters and worked as the chief animation director on all 26 episodes of the series and hit a burn-out. After this he took a step back on major roles for a few years. Both him and Nagahama reprised their roles on Mushishi's revival in 2014.\n\nIn 2016, Umakoshi was appointed as the character designer on [My Hero Academia](https://anilist.co/anime/21459/), and has since been highly involved with the series' production as both an animation director and animator.",
+          "siteUrl": "https://anilist.co/staff/101458"
+        }
+      },
+      {
+        "role": "2nd Key Animation",
+        "node": {
+          "id": 101459,
+          "name": {
+            "first": "Shigeyasu",
+            "last": "Yamauchi",
+            "native": "山内重保"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101459-dbrtGqU0hX1h.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101459-dbrtGqU0hX1h.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/magushigeyasu)",
+          "siteUrl": "https://anilist.co/staff/101459"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 101459,
+          "name": {
+            "first": "Shigeyasu",
+            "last": "Yamauchi",
+            "native": "山内重保"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101459-dbrtGqU0hX1h.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101459-dbrtGqU0hX1h.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/magushigeyasu)",
+          "siteUrl": "https://anilist.co/staff/101459"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 101727,
+          "name": {
+            "first": "Takahiro",
+            "last": "Kagami",
+            "native": "加々美高浩"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101727-BscMKGNhO7Di.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101727-BscMKGNhO7Di.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/jetikariya50)\n\nAcknowledged internationally for his work on [Yu☆Gi☆Oh!](https://anilist.co/anime/481/) and [Death Note](https://anilist.co/anime/1535/).\n\nFamous for his depictions of fingers and the \"Joey Chin\" in Yu-Gi-Oh!.",
+          "siteUrl": "https://anilist.co/staff/101727"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 105803,
+          "name": {
+            "first": "Akira",
+            "last": "Itou",
+            "native": "伊藤聖"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "An art director and the representative director of Studio Ara.",
+          "siteUrl": "https://anilist.co/staff/105803"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 106019,
+          "name": {
+            "first": "Hayato",
+            "last": "Matsuo",
+            "native": "松尾早人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106019-RvhUWbGK7bAA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106019-RvhUWbGK7bAA.png"
+          },
+          "description": "**Hayato Matsuo** is a Japanese arranger, composer, orchestrator and musician.\n\nHayato is a composer, arranger and orchestrator for both the video game industry and the anime industry. He has worked on titles such as Front Mission 3, Final Fantasy XII, the Shenmue Series, and Magic Knight Rayearth. Inspired by his mother, who was a piano teacher, he graduated from the music composition department of Tokyo University of the Arts.\n\nWhile in college, he composed for the band G-Clef, and occasionally stood in for the members of the band. Upon graduating, he went to work under <a href=\"https://anidb.net/cr5311\">Sugiyama Kouichi</a>, the composer of the popular Dragon Quest video game series, arranging his pieces for Dragon Quest anime shows and soundtracks.\n\nIn 1991, Hayato began to work as a video game music composer himself, writing the score to Master of Monsters. Over the next few years, he worked as an independent composer on several games and anime series, including Ogre Battle: March of the Black Queen.\n\nIn 1995, he joined the independent music composition group Imagine. He has continued since then to compose and orchestrate works for over 20 games and anime shows, as well as the television show Kamen Rider 555, and a few pieces a part of original albums.",
+          "siteUrl": "https://anilist.co/staff/106019"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 107584,
+          "name": {
+            "first": "Terumi",
+            "last": "Nishii",
+            "native": "西位輝実"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107584-CPAvAAk43Ih0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107584-CPAvAAk43Ih0.png"
+          },
+          "description": "[1st Twitter](https://twitter.com/NishiiTerumi) | [2nd Twitter](https://twitter.com/Nishiiterumi1) | [Bluesky](https://bsky.app/profile/teruminishii.bsky.social) | [Youtube](https://www.youtube.com/channel/UCRVXG5v77o6zvzBxb9NxffQ) | [Instagram](https://www.instagram.com/terumi_nishii/) | [Pixiv](https://www.pixiv.net/member.php?id=17680136) | [Website](http://studio-meiris.com/)\n\nInitially wanting to become a mangaka, it wasn't until while studying at Osaka Designers' College that Ishii thought about becoming an animator after having seen [Revolutionary Girl Utena](https://anilist.co/anime/440/), a show directed by [Kunihiko Ikuhara](https://anilist.co/staff/100082/). Shortly thereafter a re-telling movie for the series was announced and Nishii set her sights on being part of the production. After graduating she joined Studio Cockpit and managed to make her debut on the film as an in-betweener.\n\nIn 2011, she made her debut as a character designer on [Penguindrum](https://anilist.co/anime/10721/), another show of Ikuhara's.",
+          "siteUrl": "https://anilist.co/staff/107584"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 109955,
+          "name": {
+            "first": "",
+            "last": "Capcom",
+            "native": "カプコン "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14955.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14955.jpg"
+          },
+          "description": "Capcom began in Japan in 1979 as a manufacturer and distributor of electronic game machines. In 1983 Capcom Co., LTD was founded and soon built a reputation for introducing cutting-edge technology and software to the video game market.  Building on its origins as a game machine manufacturer, Capcom is now involved in all areas of the video game industry and has offices in Tokyo, Osaka, California, England, Germany, and Hong Kong.",
+          "siteUrl": "https://anilist.co/staff/109955"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 112995,
+          "name": {
+            "first": "Kazuki",
+            "last": "Higashiji",
+            "native": "東地和生"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112995-bXCTjJ1ULYfZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112995-bXCTjJ1ULYfZ.png"
+          },
+          "description": "[Twitter](https://twitter.com/Higashiji)",
+          "siteUrl": "https://anilist.co/staff/112995"
+        }
+      },
+      {
+        "role": "Executive Producer (English)",
+        "node": {
+          "id": 141305,
+          "name": {
+            "first": "Laurence",
+            "last": "Guinness",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Co-founder of Manga Entertainment",
+          "siteUrl": "https://anilist.co/staff/141305"
+        }
+      },
+      {
+        "role": "ADR Director (English)",
+        "node": {
+          "id": 104693,
+          "name": {
+            "first": "Joe",
+            "last": "Romersa",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9693.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9693.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/104693"
+        }
+      },
+      {
+        "role": "ADR Script (English)",
+        "node": {
+          "id": 95232,
+          "name": {
+            "first": "Kirk",
+            "last": "Thornton",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/232.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/232.jpg"
+          },
+          "description": "He is known for playing tough or grouchy men in dubbed anime and video games. His career includes Hotohori in Fushigi Yūgi and Jin in Samurai Champloo. He also played numerous cameos and minor characters in Rurouni Kenshin, in addition to the major character of Hajime Saito. He also does Don Patch in Bobobo-bo Bo-bobo as well as Gabumon and other voices in Digimon.  According to Anime News Network, Thornton has the most credits of any male voice actor and he is second in total voice actor credits only next to Wendee Lee. He has been in nearly two hundred voice-over productions for Japanese animation.  Thornton is also well-known for having played many different minor voice roles throughout the Power Rangers franchise (and similar series such as VR Troopers and Masked Rider).  Thornton has also had experience with ADR direction. Currently, he is co-directing the ADR for the popular anime series Bleach alongside Wendee Lee.",
+          "siteUrl": "https://anilist.co/staff/95232"
+        }
+      },
+      {
+        "role": "ADR Script (English)",
+        "node": {
+          "id": 104693,
+          "name": {
+            "first": "Joe",
+            "last": "Romersa",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9693.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9693.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/104693"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 107,
+          "name": "Plum",
+          "siteUrl": "https://anilist.co/studio/107"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 240,
+          "name": "Capcom",
+          "siteUrl": "https://anilist.co/studio/240"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6444,
+          "name": "Manga Entertainment",
+          "siteUrl": "https://anilist.co/studio/6444"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 16206,
+      "url": "https://www.youtube.com/watch?v=QfkjVttkFJ4",
+      "site": "YouTube"
+    },
+    {
+      "id": 19167,
+      "url": "https://tubitv.com/movies/284003/street_fighter_alpha",
+      "site": "Tubi TV"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 20471,
+      "rank": 11,
+      "type": "RATED",
+      "format": "OVA",
+      "year": 1999,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 20495,
+      "rank": 5,
+      "type": "POPULAR",
+      "format": "OVA",
+      "year": 1999,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 60118,
+          "rating": 2,
+          "media": {
+            "id": 979,
+            "title": {
+              "native": "ストリートファイターZERO - THE ANIMATION -"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 825,
+            "title": {
+              "native": "ザ・キング・オブ・ファイターズ アナザーデイ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 60120,
+          "rating": 1,
+          "media": {
+            "id": 979,
+            "title": {
+              "native": "ストリートファイターZERO - THE ANIMATION -"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 99934,
+            "title": {
+              "native": "拳皇命运"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 105433,
+          "rating": 3,
+          "media": {
+            "id": 979,
+            "title": {
+              "native": "ストリートファイターZERO - THE ANIMATION -"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1362,
+            "title": {
+              "native": "ストリートファイターII"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 166159,
+          "rating": 1,
+          "media": {
+            "id": 979,
+            "title": {
+              "native": "ストリートファイターZERO - THE ANIMATION -"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 153906,
+            "title": {
+              "native": "Tekken: Bloodline"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 270807,
+          "rating": 1,
+          "media": {
+            "id": 979,
+            "title": {
+              "native": "ストリートファイターZERO - THE ANIMATION -"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 177106,
+            "title": {
+              "native": "餓狼伝: The Way of the Lone Wolf"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 14
+      },
+      {
+        "score": 20,
+        "amount": 33
+      },
+      {
+        "score": 30,
+        "amount": 73
+      },
+      {
+        "score": 40,
+        "amount": 108
+      },
+      {
+        "score": 50,
+        "amount": 227
+      },
+      {
+        "score": 60,
+        "amount": 336
+      },
+      {
+        "score": 70,
+        "amount": 319
+      },
+      {
+        "score": 80,
+        "amount": 170
+      },
+      {
+        "score": 90,
+        "amount": 107
+      },
+      {
+        "score": 100,
+        "amount": 48
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 70
+      },
+      {
+        "status": "PLANNING",
+        "amount": 829
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2234
+      },
+      {
+        "status": "DROPPED",
+        "amount": 22
+      },
+      {
+        "status": "PAUSED",
+        "amount": 29
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/979",
+  "modNotes": null
+}

@@ -1,0 +1,560 @@
+{
+  "id": 123803,
+  "idMal": 42831,
+  "title": {
+    "native": "無能なナナ ミニアニメ",
+    "romaji": "Munou na Nana: Mini Anime",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "Mini anime for <i>Munou na Nana</i> released weekly on the official Twitter and website.\n<br><br>",
+  "startDate": {
+    "year": 2020,
+    "month": 10,
+    "day": 9
+  },
+  "endDate": {
+    "year": 2020,
+    "month": 12,
+    "day": 25
+  },
+  "season": "FALL",
+  "seasonYear": 2020,
+  "seasonInt": 204,
+  "episodes": 12,
+  "duration": 3,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": "#無能なナナ",
+  "trailer": null,
+  "updatedAt": 1748891851,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123803-frGulQh4dlMH.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123803-frGulQh4dlMH.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b123803-frGulQh4dlMH.png",
+    "color": "#e45078"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Talentless Nana Mini Anime"
+  ],
+  "averageScore": 55,
+  "meanScore": 57,
+  "popularity": 1872,
+  "favourites": 12,
+  "tags": [
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 772,
+      "name": "Shapeshifting",
+      "description": "Features character(s) who changes one's appearance or form.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 117343,
+          "title": {
+            "native": "無能なナナ"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 157172,
+          "title": {
+            "native": "無能なナナ ミニアニメ「やみなべぱーてぃー」"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 166102,
+          "name": {
+            "first": "Nana",
+            "last": "Hiiragi",
+            "native": "柊ナナ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b166102-mv0gaP8QVFLz.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b166102-mv0gaP8QVFLz.png"
+          },
+          "siteUrl": "https://anilist.co/character/166102"
+        },
+        "voiceActors": [
+          {
+            "id": 107041,
+            "name": {
+              "first": "Rumi",
+              "last": "Ookubo",
+              "native": "大久保瑠美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107041-ZqPloXZhcuQw.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107041-ZqPloXZhcuQw.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/107041"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 188207,
+          "name": {
+            "first": "Tannin Kyoushi",
+            "last": null,
+            "native": "担任教師",
+            "alternative": [
+              "Homeroom teacher"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b188207-zYeumVd08DI6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b188207-zYeumVd08DI6.png"
+          },
+          "siteUrl": "https://anilist.co/character/188207"
+        },
+        "voiceActors": [
+          {
+            "id": 101968,
+            "name": {
+              "first": "Atsushi",
+              "last": "Kousaka",
+              "native": "髙坂篤志"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101968-MbkpqticPIk4.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101968-MbkpqticPIk4.png"
+            },
+            "siteUrl": "https://anilist.co/staff/101968"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 166105,
+          "name": {
+            "first": "Moguo",
+            "last": "Iijima",
+            "native": "飯島モグオ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b166105-hyp5KgMXrjUc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b166105-hyp5KgMXrjUc.png"
+          },
+          "siteUrl": "https://anilist.co/character/166105"
+        },
+        "voiceActors": [
+          {
+            "id": 142107,
+            "name": {
+              "first": "Takuya",
+              "last": "Nakashima",
+              "native": "中島卓也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142107-tc4KxRPG1m8w.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n142107-tc4KxRPG1m8w.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/142107"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 166116,
+          "name": {
+            "first": "Yuuka",
+            "last": "Sasaki",
+            "native": "佐々木ユウカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b166116-t1ujw5cQvpJw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b166116-t1ujw5cQvpJw.png"
+          },
+          "siteUrl": "https://anilist.co/character/166116"
+        },
+        "voiceActors": [
+          {
+            "id": 119518,
+            "name": {
+              "first": "Miyu",
+              "last": "Tomita",
+              "native": "富田美憂"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119518-vZN7TPy12iuu.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119518-vZN7TPy12iuu.png"
+            },
+            "siteUrl": "https://anilist.co/staff/119518"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 166103,
+          "name": {
+            "first": "Kyouya",
+            "last": "Onodera",
+            "native": "小野寺キョウヤ",
+            "alternative": [
+              "Kyoya"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b166103-TtYXCB3f4C5X.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b166103-TtYXCB3f4C5X.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/166103"
+        },
+        "voiceActors": [
+          {
+            "id": 95513,
+            "name": {
+              "first": "Yuuichi",
+              "last": "Nakamura",
+              "native": "中村悠一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95513-up9ZDuocHgRs.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95513"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 166106,
+          "name": {
+            "first": "Michiru",
+            "last": "Inukai",
+            "native": "犬飼ミチル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b166106-393709jJH1aG.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b166106-393709jJH1aG.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/166106"
+        },
+        "voiceActors": [
+          {
+            "id": 95031,
+            "name": {
+              "first": "Mai",
+              "last": "Nakahara",
+              "native": "中原麻衣"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95031-tipPIz2k0Ncw.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95031-tipPIz2k0Ncw.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95031"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 166109,
+          "name": {
+            "first": "Seiya",
+            "last": "Koori",
+            "native": "郡セイヤ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b166109-Ml3yMWlHBhX8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b166109-Ml3yMWlHBhX8.png"
+          },
+          "siteUrl": "https://anilist.co/character/166109"
+        },
+        "voiceActors": [
+          {
+            "id": 119724,
+            "name": {
+              "first": "Hiromichi",
+              "last": "Tezuka",
+              "native": "手塚ヒロミチ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119724-BHqgrwh0AHie.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119724-BHqgrwh0AHie.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/119724"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 166108,
+          "name": {
+            "first": "Jin",
+            "last": "Tachibana",
+            "native": "橘ジン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b166108-sHTjzabDni9P.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b166108-sHTjzabDni9P.png"
+          },
+          "siteUrl": "https://anilist.co/character/166108"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 122826,
+          "name": {
+            "first": "Iori",
+            "last": "Furuya",
+            "native": "古屋庵"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122826-3NioTGQUR6vF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n122826-3NioTGQUR6vF.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/furrfuruya)",
+          "siteUrl": "https://anilist.co/staff/122826"
+        }
+      },
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 113805,
+          "name": {
+            "first": "",
+            "last": "Loose Boy",
+            "native": "るーすぼーい "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/18805.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/18805.jpg"
+          },
+          "description": "Game scenario writer of notable visual novel like Sharin no Kuni, A Profile and G-Senjou no Maou, all developed by the japanese company AkabeiSoft2.   It was stated by the author himself that he likes to listen to classical music while working, and that those pieces will be used to fit in the scene he was writing. For example the Bach compositions in G-Senjou no Maou.",
+          "siteUrl": "https://anilist.co/staff/113805"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 397,
+          "name": "Bridge",
+          "siteUrl": "https://anilist.co/studio/397"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 23196,
+      "url": "https://twitter.com/munounanana",
+      "site": "Twitter"
+    },
+    {
+      "id": 24433,
+      "url": "https://munounanana.com/special/mini-anime.html",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 60011,
+          "rating": 1,
+          "media": {
+            "id": 123803,
+            "title": {
+              "native": "無能なナナ ミニアニメ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 120700,
+            "title": {
+              "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 2nd Season"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 62981,
+          "rating": 2,
+          "media": {
+            "id": 123803,
+            "title": {
+              "native": "無能なナナ ミニアニメ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 120150,
+            "title": {
+              "native": "文豪ストレイドッグス わん！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 70645,
+          "rating": 1,
+          "media": {
+            "id": 123803,
+            "title": {
+              "native": "無能なナナ ミニアニメ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 132096,
+            "title": {
+              "native": "小林さんちのメイドラゴンＳミニドラ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 20,
+        "amount": 14
+      },
+      {
+        "score": 30,
+        "amount": 23
+      },
+      {
+        "score": 40,
+        "amount": 37
+      },
+      {
+        "score": 50,
+        "amount": 97
+      },
+      {
+        "score": 60,
+        "amount": 79
+      },
+      {
+        "score": 70,
+        "amount": 65
+      },
+      {
+        "score": 80,
+        "amount": 31
+      },
+      {
+        "score": 90,
+        "amount": 20
+      },
+      {
+        "score": 100,
+        "amount": 19
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 88
+      },
+      {
+        "status": "PLANNING",
+        "amount": 962
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 704
+      },
+      {
+        "status": "DROPPED",
+        "amount": 65
+      },
+      {
+        "status": "PAUSED",
+        "amount": 53
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/123803",
+  "modNotes": null
+}

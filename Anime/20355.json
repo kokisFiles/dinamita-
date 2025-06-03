@@ -1,0 +1,316 @@
+{
+  "id": 20355,
+  "idMal": 20355,
+  "title": {
+    "native": "ジオニックトヨタ スペシャルムービー",
+    "romaji": "Zeonic Toyota Special Movie",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "Toyota Auris advertisement on Japanese television, featuring Char Aznable from Gundam series.\n",
+  "startDate": {
+    "year": 2013,
+    "month": 8,
+    "day": 25
+  },
+  "endDate": {
+    "year": 2015,
+    "month": 9,
+    "day": 23
+  },
+  "season": "SUMMER",
+  "seasonYear": 2013,
+  "seasonInt": 133,
+  "episodes": 2,
+  "duration": 1,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": "#Toyota #トヨタ",
+  "trailer": null,
+  "updatedAt": 1748880235,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20355.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20355.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/20355.jpg",
+    "color": "#e45d5d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20355-6vOxUgaAz1jf.png",
+  "genres": [],
+  "synonyms": [
+    "Gundam x Toyota",
+    "Char Aznable x Auris",
+    "Zeonic Toyota"
+  ],
+  "averageScore": 62,
+  "meanScore": 63,
+  "popularity": 1558,
+  "favourites": 12,
+  "tags": [
+    {
+      "id": 10,
+      "name": "Cars",
+      "description": "Centers around the use of automotive vehicles.",
+      "category": "Theme-Other-Vehicle",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 505,
+      "name": "Advertisement",
+      "description": "Produced in order to promote the products of a certain company.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 80,
+          "title": {
+            "native": "機動戦士ガンダム"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1336,
+          "name": {
+            "first": "Char",
+            "last": "Aznable",
+            "native": "シャア・アズナブル",
+            "alternative": [
+              "The Red Comet",
+              "Edward Mass",
+              "Casval Rem Deikun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1336-VjllcTHMDuhI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1336-VjllcTHMDuhI.png"
+          },
+          "siteUrl": "https://anilist.co/character/1336"
+        },
+        "voiceActors": [
+          {
+            "id": 95598,
+            "name": {
+              "first": "Shuuichi",
+              "last": "Ikeda",
+              "native": "池田秀一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95598-IZBrsaxRsACg.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95598-IZBrsaxRsACg.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95598"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1386,
+          "name": {
+            "first": "Lalah",
+            "last": "Sune",
+            "native": "ララァ・スン",
+            "alternative": [
+              "Ghost of Solomon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1386-fIq9Mgd3pAZ2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1386-fIq9Mgd3pAZ2.png"
+          },
+          "siteUrl": "https://anilist.co/character/1386"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 14,
+          "name": "Sunrise",
+          "siteUrl": "https://anilist.co/studio/14"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 2814,
+      "url": "http://toyota.jp/auris/cp/zeonictoyota/",
+      "site": "Official Site"
+    },
+    {
+      "id": 2815,
+      "url": "https://twitter.com/TOYOTA_PR/",
+      "site": "Twitter"
+    },
+    {
+      "id": 2816,
+      "url": "https://www.youtube.com/user/toyotajpchannel",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22473,
+      "rank": 10,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2013,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 22512,
+      "rank": 19,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2013,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 102496,
+          "rating": 8,
+          "media": {
+            "id": 20355,
+            "title": {
+              "native": "ジオニックトヨタ スペシャルムービー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 16331,
+            "title": {
+              "native": null
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 237641,
+          "rating": 2,
+          "media": {
+            "id": 20355,
+            "title": {
+              "native": "ジオニックトヨタ スペシャルムービー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 103015,
+            "title": {
+              "native": "The new A-Class. -Next Stage with YOU-"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 20
+      },
+      {
+        "score": 20,
+        "amount": 24
+      },
+      {
+        "score": 30,
+        "amount": 22
+      },
+      {
+        "score": 40,
+        "amount": 52
+      },
+      {
+        "score": 50,
+        "amount": 149
+      },
+      {
+        "score": 60,
+        "amount": 130
+      },
+      {
+        "score": 70,
+        "amount": 104
+      },
+      {
+        "score": 80,
+        "amount": 46
+      },
+      {
+        "score": 90,
+        "amount": 40
+      },
+      {
+        "score": 100,
+        "amount": 121
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 18
+      },
+      {
+        "status": "PLANNING",
+        "amount": 254
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1246
+      },
+      {
+        "status": "DROPPED",
+        "amount": 26
+      },
+      {
+        "status": "PAUSED",
+        "amount": 14
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/20355",
+  "modNotes": null
+}

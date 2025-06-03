@@ -1,0 +1,874 @@
+{
+  "id": 121971,
+  "idMal": 130025,
+  "title": {
+    "native": "クレイジーフードトラック",
+    "romaji": "Crazy Food Truck",
+    "english": "Crazy Food Truck"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Zero customers, a naked young lady, and an armed militia—it's just another post-apocalyptic day for this food truck owner!.<br><br>\n(Source: Viz)",
+  "startDate": {
+    "year": 2020,
+    "month": 7,
+    "day": 21
+  },
+  "endDate": {
+    "year": 2021,
+    "month": 12,
+    "day": 20
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 16,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748963844,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121971-DSglSK0tDJ3p.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121971-DSglSK0tDJ3p.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx121971-DSglSK0tDJ3p.jpg",
+    "color": "#e4c950"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/121971-n3Ce1KwBX8Ds.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Ecchi"
+  ],
+  "synonyms": [],
+  "averageScore": 66,
+  "meanScore": 67,
+  "popularity": 5860,
+  "favourites": 69,
+  "tags": [
+    {
+      "id": 142,
+      "name": "Food",
+      "description": "Centers around cooking or food appraisal.",
+      "category": "Theme-Arts",
+      "rank": 92,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1310,
+      "name": "Travel",
+      "description": "Centers around character(s) moving between places a significant distance apart.",
+      "category": "Theme-Other",
+      "rank": 90,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 86,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 85,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 226,
+      "name": "Fugitive",
+      "description": "Prominently features a character evading capture by an individual or organization.",
+      "category": "Theme-Action",
+      "rank": 84,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 83,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1045,
+      "name": "Heterosexual",
+      "description": "Prominently features a romance between a man and a woman, not inherently sexual.",
+      "category": "Theme-Romance",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 79,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 93,
+      "name": "Post-Apocalyptic",
+      "description": "Partly or completely set in a world or civilization after a global disaster.",
+      "category": "Setting-Universe",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1453,
+      "name": "Desert",
+      "description": "Prominently features a desert environment.",
+      "category": "Setting-Scene",
+      "rank": 68,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 100,
+      "name": "Nudity",
+      "description": "Features a character wearing no clothing or exposing intimate body parts.",
+      "category": "Cast-Traits",
+      "rank": 67,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 157,
+      "name": "Guns",
+      "description": "Prominently features the use of guns in combat.",
+      "category": "Theme-Action",
+      "rank": 63,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 153,
+      "name": "Time Skip",
+      "description": "Features a gap in time used to advance the story.",
+      "category": "Setting-Time",
+      "rank": 50,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 1647,
+      "name": "Restaurant",
+      "description": "Features a business that prepares and serves food and drinks to customers. Also encompasses cafes and bistros.",
+      "category": "Setting-Scene",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": []
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 191752,
+          "name": {
+            "first": "Alisa",
+            "last": null,
+            "native": "アリサ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191752-3OMMOKK4ozA7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191752-3OMMOKK4ozA7.png"
+          },
+          "siteUrl": "https://anilist.co/character/191752"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 191753,
+          "name": {
+            "first": "Gordon",
+            "last": null,
+            "native": "ゴードン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b191753-3hipDybarMIh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b191753-3hipDybarMIh.png"
+          },
+          "siteUrl": "https://anilist.co/character/191753"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 116659,
+          "name": {
+            "first": "Rokurou",
+            "last": "Ogaki",
+            "native": "大柿ロクロウ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/116659-pt5uwG8EgV32.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/116659-pt5uwG8EgV32.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/ogakirokurou)",
+          "siteUrl": "https://anilist.co/staff/116659"
+        }
+      },
+      {
+        "role": "Translator (English)",
+        "node": {
+          "id": 219063,
+          "name": {
+            "first": "Amanda",
+            "last": "Haley",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n219063-rkAzyjaS9H9P.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n219063-rkAzyjaS9H9P.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/219063"
+        }
+      },
+      {
+        "role": "Translator (Portuguese)",
+        "node": {
+          "id": 220675,
+          "name": {
+            "first": "Drik",
+            "last": "Sada",
+            "native": null
+          },
+          "language": "PORTUGUESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n220675-UiZ1LedAUzTi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n220675-UiZ1LedAUzTi.png"
+          },
+          "description": "[Twitter](https://twitter.com/driksada)",
+          "siteUrl": "https://anilist.co/staff/220675"
+        }
+      },
+      {
+        "role": "Editor (Portuguese)",
+        "node": {
+          "id": 356924,
+          "name": {
+            "first": "Thiago",
+            "last": "Ferreira",
+            "native": null
+          },
+          "language": "PORTUGUESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n356924-lQuYpF8rza9c.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n356924-lQuYpF8rza9c.jpg"
+          },
+          "description": "\n[Twitter](https://x.com/thiagoferreira) [ [Youtube](https://www.youtube.com/@canalcomixzone)\n\nCo-founder of comix zone publisher and youtuber channel of same name.\n",
+          "siteUrl": "https://anilist.co/staff/356924"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 53440,
+      "url": "https://www.viz.com/crazy-food-truck",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 43609,
+          "rating": 1,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 98293,
+            "title": {
+              "native": "クミカのミカク"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 50160,
+          "rating": 8,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 86082,
+            "title": {
+              "native": "ダンジョン飯"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 50162,
+          "rating": 4,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 97675,
+            "title": {
+              "native": "空挺ドラゴンズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 56296,
+          "rating": 29,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 125828,
+            "title": {
+              "native": "SAKAMOTO DAYS"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 78310,
+          "rating": 3,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 40016,
+            "title": {
+              "native": "砂ぼうず"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 78312,
+          "rating": 2,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 53897,
+            "title": {
+              "native": "究極宇宙味帝シーザー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 82978,
+          "rating": 5,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31133,
+            "title": {
+              "native": "ドロヘドロ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99993,
+          "rating": 6,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 101233,
+            "title": {
+              "native": "極主夫道"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 114320,
+          "rating": 2,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30703,
+            "title": {
+              "native": "トライガン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 118339,
+          "rating": 1,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 125860,
+            "title": {
+              "native": "ニーナはパパを暗殺したい"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 118351,
+          "rating": 1,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 93660,
+            "title": {
+              "native": "アリスと蔵六"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 118479,
+          "rating": 1,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 66413,
+            "title": {
+              "native": "ヒナまつり"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 120847,
+          "rating": 1,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 46704,
+            "title": {
+              "native": "レキオス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 172034,
+          "rating": 3,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 98911,
+            "title": {
+              "native": "異世界食堂"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 174109,
+          "rating": 5,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 100309,
+            "title": {
+              "native": "異世界料理道"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 206762,
+          "rating": 0,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 85412,
+            "title": {
+              "native": "少女終末旅行"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 231329,
+          "rating": 4,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 163148,
+            "title": {
+              "native": "接客無双"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 231435,
+          "rating": 1,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 138111,
+            "title": {
+              "native": "野湯ガール"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 293976,
+          "rating": 1,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 103215,
+            "title": {
+              "native": "あの人の胃には僕が足りない"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 354742,
+          "rating": 2,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 133125,
+            "title": {
+              "native": "異世界食堂 ～洋食のねこや～"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 397179,
+          "rating": 1,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 175615,
+            "title": {
+              "native": "トラックめいめいとビールのおとも"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 397182,
+          "rating": 2,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 75757,
+            "title": {
+              "native": "食戟のソーマ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 397183,
+          "rating": 2,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 110654,
+            "title": {
+              "native": "マズ飯エルフと遊牧暮らし"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 401173,
+          "rating": 1,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 45480,
+            "title": {
+              "native": "カナーン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 412181,
+          "rating": 1,
+          "media": {
+            "id": 121971,
+            "title": {
+              "native": "クレイジーフードトラック"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 191061,
+            "title": {
+              "native": "GGG-ジージージー-"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 10
+      },
+      {
+        "score": 20,
+        "amount": 15
+      },
+      {
+        "score": 30,
+        "amount": 35
+      },
+      {
+        "score": 40,
+        "amount": 58
+      },
+      {
+        "score": 50,
+        "amount": 134
+      },
+      {
+        "score": 60,
+        "amount": 231
+      },
+      {
+        "score": 70,
+        "amount": 415
+      },
+      {
+        "score": 80,
+        "amount": 305
+      },
+      {
+        "score": 90,
+        "amount": 137
+      },
+      {
+        "score": 100,
+        "amount": 44
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 1660
+      },
+      {
+        "status": "PLANNING",
+        "amount": 2190
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1352
+      },
+      {
+        "status": "DROPPED",
+        "amount": 334
+      },
+      {
+        "status": "PAUSED",
+        "amount": 324
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/121971",
+  "modNotes": null
+}

@@ -1,0 +1,221 @@
+{
+  "id": 51296,
+  "idMal": 21296,
+  "title": {
+    "native": "GOD EATER -the spiral fate-",
+    "romaji": "God Eater: The Spiral Fate",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A God Eater manga serialised in Bandai's \"Side-BN\" magazine.",
+  "startDate": {
+    "year": 2009,
+    "month": 9,
+    "day": 3
+  },
+  "endDate": {
+    "year": 2010,
+    "month": 11,
+    "day": 4
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 17,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748350034,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21296.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21296.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/21296.jpg",
+    "color": "#d61a1a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "God Eater Spiral Fate"
+  ],
+  "averageScore": 55,
+  "meanScore": 68,
+  "popularity": 310,
+  "favourites": 3,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 72031,
+          "title": {
+            "native": "ゴッドイーター ザ サマーウォーズ"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 37154,
+          "name": {
+            "first": "Alisa",
+            "last": "Ilichina Amiella",
+            "native": "アリサ・イリーニチナ・アミエーラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b37154-RandT6dKNHlS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b37154-RandT6dKNHlS.png"
+          },
+          "siteUrl": "https://anilist.co/character/37154"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Art",
+        "node": {
+          "id": 115729,
+          "name": {
+            "first": "Rokuro",
+            "last": "Saitou",
+            "native": "斉藤ロクロ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115729-4rlpErVpKEFW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115729-4rlpErVpKEFW.png"
+          },
+          "description": "[Twitter](https://twitter.com/s_696) | [Pixiv](https://www.pixiv.net/users/575188)",
+          "siteUrl": "https://anilist.co/staff/115729"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 334759,
+          "rating": 1,
+          "media": {
+            "id": 51296,
+            "title": {
+              "native": "GOD EATER -the spiral fate-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 41664,
+            "title": {
+              "native": "戦場のヴァルキュリア -Gallian Chronicles-"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 13
+      },
+      {
+        "score": 70,
+        "amount": 11
+      },
+      {
+        "score": 80,
+        "amount": 13
+      },
+      {
+        "score": 90,
+        "amount": 6
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 33
+      },
+      {
+        "status": "PLANNING",
+        "amount": 182
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 70
+      },
+      {
+        "status": "DROPPED",
+        "amount": 11
+      },
+      {
+        "status": "PAUSED",
+        "amount": 14
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/51296",
+  "modNotes": null
+}

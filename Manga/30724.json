@@ -1,0 +1,942 @@
+{
+  "id": 30724,
+  "idMal": 724,
+  "title": {
+    "native": "サンドランド",
+    "romaji": "Sand Land",
+    "english": "Sand Land"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "In the far future, war has destroyed the entire Earth, leaving only a barren wasteland where the supply of water is controlled by the greedy king. In search of a long-lost lake, Sheriff Rao asked the king of the demons for help...and got the king's son, Beelzebub, and his assistant, Thief. Together the unlikely trio sets off across the desert, facing dragons, bandits and the deadliest foe of all... the King's army itself! It's travel adventure and tank action in this new story from Akira Toriyama, the creator of Dragon Ball Z!\n<br><br>\n(Source: Viz Media)",
+  "startDate": {
+    "year": 2000,
+    "month": 5,
+    "day": 9
+  },
+  "endDate": {
+    "year": 2000,
+    "month": 8,
+    "day": 8
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 14,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748876478,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30724-EIciYgxgyUqs.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30724-EIciYgxgyUqs.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx30724-EIciYgxgyUqs.jpg",
+    "color": "#e4bb50"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/30724-FAD9VPXXUthG.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "synonyms": [],
+  "averageScore": 70,
+  "meanScore": 71,
+  "popularity": 4451,
+  "favourites": 99,
+  "tags": [
+    {
+      "id": 15,
+      "name": "Demons",
+      "description": "Prominently features malevolent otherworldly creatures.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 93,
+      "name": "Post-Apocalyptic",
+      "description": "Partly or completely set in a world or civilization after a global disaster.",
+      "category": "Setting-Universe",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1453,
+      "name": "Desert",
+      "description": "Prominently features a desert environment.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1310,
+      "name": "Travel",
+      "description": "Centers around character(s) moving between places a significant distance apart.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 111,
+      "name": "War",
+      "description": "Partly or completely set during wartime.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 456,
+      "name": "Conspiracy",
+      "description": "Contains one or more factions controlling or attempting to control the world from the shadows.",
+      "category": "Theme-Drama",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 174,
+      "name": "Tanks",
+      "description": "Prominently features the use of tanks or other armoured vehicles.",
+      "category": "Theme-Other-Vehicle",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 30,
+      "name": "Martial Arts",
+      "description": "Centers around the use of traditional hand-to-hand combat.",
+      "category": "Theme-Action",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 158896,
+          "title": {
+            "native": "SAND LAND"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 175642,
+          "title": {
+            "native": "SAND LAND: THE SERIES"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7241,
+          "name": {
+            "first": "Beelzebub",
+            "last": null,
+            "native": "ベルゼブブ",
+            "alternative": [
+              "Belz (ベルゼ)",
+              "Ouji (王子)",
+              "Prince"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7241-J5YbfXsA2KvN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7241-J5YbfXsA2KvN.png"
+          },
+          "siteUrl": "https://anilist.co/character/7241"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 13697,
+          "name": {
+            "first": "Thief",
+            "last": null,
+            "native": "シーフ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13697-f2mnOBiwo16K.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13697-f2mnOBiwo16K.png"
+          },
+          "siteUrl": "https://anilist.co/character/13697"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 13698,
+          "name": {
+            "first": "Rao",
+            "last": null,
+            "native": "ラオ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13698-y7Xo9uLs3ami.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13698-y7Xo9uLs3ami.png"
+          },
+          "siteUrl": "https://anilist.co/character/13698"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 301647,
+          "name": {
+            "first": "Are Shougun",
+            "last": null,
+            "native": "アレ将軍",
+            "alternative": [
+              "General Are"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301647-cv5XurSnkgMV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301647-cv5XurSnkgMV.png"
+          },
+          "siteUrl": "https://anilist.co/character/301647"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 301648,
+          "name": {
+            "first": "Zeu Daishougun",
+            "last": null,
+            "native": "ゼウ大将軍",
+            "alternative": [
+              "General Zeu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301648-MJYkwGvqSrvL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301648-MJYkwGvqSrvL.png"
+          },
+          "siteUrl": "https://anilist.co/character/301648"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 331386,
+          "name": {
+            "first": "Swimmers Pike",
+            "last": null,
+            "native": "スイマーズ・パイク",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331386-Dcgj0Sl26kNc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331386-Dcgj0Sl26kNc.png"
+          },
+          "siteUrl": "https://anilist.co/character/331386"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 331384,
+          "name": {
+            "first": "Sand Land Kokuou",
+            "last": null,
+            "native": "サンドランド国王",
+            "alternative": [
+              "King of Sand Land"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331384-gHVwV8p7jH71.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331384-gHVwV8p7jH71.png"
+          },
+          "siteUrl": "https://anilist.co/character/331384"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 331385,
+          "name": {
+            "first": "Swimmers Papa",
+            "last": null,
+            "native": "スイマーズ・パパ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331385-DSrqIID9DuAa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331385-DSrqIID9DuAa.png"
+          },
+          "siteUrl": "https://anilist.co/character/331385"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 331389,
+          "name": {
+            "first": "Satan",
+            "last": null,
+            "native": "サタン",
+            "alternative": [
+              "Lucifer"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331389-sr0Kcpm9I3Mi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331389-sr0Kcpm9I3Mi.png"
+          },
+          "siteUrl": "https://anilist.co/character/331389"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 331388,
+          "name": {
+            "first": "Swimmers Guppy",
+            "last": null,
+            "native": "スイマーズ・グッピー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331388-mPXgVto8SNoj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331388-mPXgVto8SNoj.png"
+          },
+          "siteUrl": "https://anilist.co/character/331388"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 331387,
+          "name": {
+            "first": "Swimmers Shark",
+            "last": null,
+            "native": "スイマーズ・シャーク",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331387-HYdWSEwg5Nmg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331387-HYdWSEwg5Nmg.png"
+          },
+          "siteUrl": "https://anilist.co/character/331387"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 331393,
+          "name": {
+            "first": "Centaurus",
+            "last": null,
+            "native": "ケンタウロス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331393-A5vfYWTIbEll.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331393-A5vfYWTIbEll.png"
+          },
+          "siteUrl": "https://anilist.co/character/331393"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 331394,
+          "name": {
+            "first": "Kamaitachi",
+            "last": null,
+            "native": "カマイタチ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331394-MAMDU60SEBhh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b331394-MAMDU60SEBhh.png"
+          },
+          "siteUrl": "https://anilist.co/character/331394"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 96901,
+          "name": {
+            "first": "Akira",
+            "last": "Toriyama",
+            "native": "鳥山明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96901-f40brDFeIlzf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96901-f40brDFeIlzf.png"
+          },
+          "description": "He debuted in 1979 with the story [Wonder Island](https://anilist.co/manga/112596/Wonder-Island/), published in Weekly Shounen Jump, and first gained popularity for the anime and manga series [Dr. Slump](https://anilist.co/manga/30796/Dr-Slump/), originally serialized weekly in Shounen Jump from 1980 to 1984. In 1982, he won the Shogakukan Manga Award for Dr. Slump for best shounen or shoujo manga series of the year.  In 1984, Toriyama was responsible for developing [Dragon Ball](https://anilist.co/manga/30042/Dragon-Ball/) which was initially serialized in Weekly Shōnen Jump. It became an instant accomplishment—primarily selling over 35,000,000 copies in Japan, Dragon Ball eventually became a record-breaking best seller with over 120,000,000 copies sold. Aside from the Japanese fame, the series was equally successful internationally as well, including in Europe (1988), Canada (1996) and Latin America. Its success encouraged Toriyama to continue working on Dragon Ball from 1984 to 1995. During that eleven-year period, he produced 519 chapters, collected into 42 volumes. Each volume has an average of 200 pages. Moreover, the benefit of the manga led to three anime adaptations, numerous feature-length animated movies, several video games, and mega-merchandising. Toriyama's studio is called \"Bird Studio\", which is a play on his name, \"tori\" meaning \"bird.\"\n\nToriyama married his wife [Yoshimi Kato](https://anilist.co/staff/311142/Nachi-Mikami) on May 2, 1982. She is a former manga artist from Nagoya under the pen name \"Nachi Mikami\" and occasionally helped Toriyama and his assistant on Dr. Slump when they were short on time. Together with his wife, he had two children: a son born in 1987, and a daughter born in 1990. He was a well-known recluse, who avoided appearing in public or media.\n\nOn March 8, 2024, it was announced that Toriyama passed away at the age of 68 from acute subdural hematoma.",
+          "siteUrl": "https://anilist.co/staff/96901"
+        }
+      },
+      {
+        "role": "Translator (Norwegian)",
+        "node": {
+          "id": 215014,
+          "name": {
+            "first": "Terje",
+            "last": "Nordberg",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n215014-rYrMIHwsESjg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n215014-rYrMIHwsESjg.jpg"
+          },
+          "description": "**Birthplace:** Oslo, Norway\n\nTerje Nordberg is a Norwegian comics artist, writer, translator and magazine editor.",
+          "siteUrl": "https://anilist.co/staff/215014"
+        }
+      },
+      {
+        "role": "Translator (Swedish)",
+        "node": {
+          "id": 281706,
+          "name": {
+            "first": "Simon",
+            "last": "Hammar",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n281706-WwAKBpwxneQA.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n281706-WwAKBpwxneQA.jpg"
+          },
+          "description": "When *Dragon Ball* started to be published in Swedish in 2000 as the trailblazer for the Swedish '00s manga boom, Lundström – who had many years prior co-founded Mangakai, Sweden's at the time largest (and nowadays oldest still existing) Japanese pop culture society – was instrumental in facilitating the project business-wise. \n\nHe went on to be one of Sweden's most prolific manga translators, until he was arrested in 2009 and the publisher with whom he worked transferred his titles to other translators. \n\nAlthough he was acquitted on all counts, by the time the legal dispute was over in 2012, the Swedish manga industry had collapsed, and – bar volume 66 of One Piece, the last one ever published in Swedish – there was no work to return to. In 2021, he returned to the manga sphere for the first time in almost a decade, to translate Nosebleed Studio's first licensed manga, *Vampires vs. Zombies*.",
+          "siteUrl": "https://anilist.co/staff/281706"
+        }
+      },
+      {
+        "role": "Translator (Spanish)",
+        "node": {
+          "id": 214718,
+          "name": {
+            "first": "Marc",
+            "last": "Bernabé",
+            "native": null
+          },
+          "language": "SPANISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n214718-EZfh6IyUJaQx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n214718-EZfh6IyUJaQx.png"
+          },
+          "description": "[Twitter](https://twitter.com/marcbernabe) |  [Official Website](https://www.japonesenvinetas.com)\n\nHe is a translator and interpreter of Japanese, with special emphasis on the translation of manga and anime, a field in which he has a background of hundreds of volumes and episodes translated. In addition, he's a  specialist in didactics of the Japanese language and culture for Spanish speakers. He also has published many books about Japan and Asia.\n\nHe is famous for appearing in a Shin-chan's episode where the family goes to Spain.",
+          "siteUrl": "https://anilist.co/staff/214718"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 102386,
+      "url": "https://www.viz.com/sand-land",
+      "site": "Official Site"
+    },
+    {
+      "id": 102518,
+      "url": "https://www.viz.com/shonenjump/chapters/sand-land",
+      "site": "Viz"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 26000,
+      "rank": 35,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2000,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 26083,
+      "rank": 18,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 2000,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 9767,
+          "rating": 18,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30042,
+            "title": {
+              "native": "ドラゴンボール"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 18229,
+          "rating": 5,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30032,
+            "title": {
+              "native": "666〜サタン〜"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 29356,
+          "rating": 1,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 87386,
+            "title": {
+              "native": "花侍のサハラ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 161192,
+          "rating": 1,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 50561,
+            "title": {
+              "native": "デジモンクロスウォーズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 188563,
+          "rating": 2,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 92162,
+            "title": {
+              "native": "小さな恋のものがたり"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 200506,
+          "rating": 2,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 84627,
+            "title": {
+              "native": "銀河パトロールジャコ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 208710,
+          "rating": 1,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 134340,
+            "title": {
+              "native": "ピンク"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 243780,
+          "rating": 1,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 32556,
+            "title": {
+              "native": "こわ!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 258744,
+          "rating": 6,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30796,
+            "title": {
+              "native": "ドクタースランプ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 267769,
+          "rating": 3,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 114388,
+            "title": {
+              "native": "王様ランキング"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 271649,
+          "rating": 2,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 40016,
+            "title": {
+              "native": "砂ぼうず"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 278515,
+          "rating": 2,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 47005,
+            "title": {
+              "native": "コロッケ!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 282783,
+          "rating": 2,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30896,
+            "title": {
+              "native": "カジカ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 284901,
+          "rating": 3,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 180132,
+            "title": {
+              "native": "砂の海のイフリート"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 288423,
+          "rating": 1,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 113461,
+            "title": {
+              "native": "最果てのソルテ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 290793,
+          "rating": 1,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 162351,
+            "title": {
+              "native": "DOGA"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 290960,
+          "rating": 1,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 147995,
+            "title": {
+              "native": "スター・ウォーズ：マンダロリアン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 410057,
+          "rating": -1,
+          "media": {
+            "id": 30724,
+            "title": {
+              "native": "サンドランド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 186517,
+            "title": {
+              "native": "The Marshal King"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 6
+      },
+      {
+        "score": 30,
+        "amount": 20
+      },
+      {
+        "score": 40,
+        "amount": 38
+      },
+      {
+        "score": 50,
+        "amount": 127
+      },
+      {
+        "score": 60,
+        "amount": 263
+      },
+      {
+        "score": 70,
+        "amount": 643
+      },
+      {
+        "score": 80,
+        "amount": 481
+      },
+      {
+        "score": 90,
+        "amount": 262
+      },
+      {
+        "score": 100,
+        "amount": 72
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 183
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1530
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2684
+      },
+      {
+        "status": "DROPPED",
+        "amount": 26
+      },
+      {
+        "status": "PAUSED",
+        "amount": 28
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/30724",
+  "modNotes": null
+}

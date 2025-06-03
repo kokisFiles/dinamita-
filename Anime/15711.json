@@ -1,0 +1,298 @@
+{
+  "id": 15711,
+  "idMal": 15711,
+  "title": {
+    "native": "バクマン。 スペシャル「デラマン。」",
+    "romaji": "Bakuman. Special: Deraman.",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "First Episode: Summary of the previous two seasons of Bakuman<br><br>\nSecond Episode: Shows many of the mangakas' works. Main cast members also talk about which \"Bakuman.\" works they would like to see animated",
+  "startDate": {
+    "year": 2012,
+    "month": 9,
+    "day": 29
+  },
+  "endDate": {
+    "year": 2013,
+    "month": 1,
+    "day": 2
+  },
+  "season": "FALL",
+  "seasonYear": 2012,
+  "seasonInt": 124,
+  "episodes": 2,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748882290,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15711.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15711.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/15711.jpg",
+    "color": "#e4785d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [],
+  "averageScore": 65,
+  "meanScore": 67,
+  "popularity": 2910,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 12365,
+          "title": {
+            "native": "バクマン。3"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 7674,
+          "title": {
+            "native": "バクマン。"
+          }
+        },
+        "relationType": "SUMMARY"
+      },
+      {
+        "node": {
+          "id": 10030,
+          "title": {
+            "native": "バクマン。2"
+          }
+        },
+        "relationType": "SUMMARY"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 14552,
+          "name": {
+            "first": "Akito",
+            "last": "Takagi",
+            "native": "高木秋人",
+            "alternative": [
+              "Shujin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14552-l5hN8i6wFfTl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14552-l5hN8i6wFfTl.png"
+          },
+          "siteUrl": "https://anilist.co/character/14552"
+        },
+        "voiceActors": [
+          {
+            "id": 95245,
+            "name": {
+              "first": "Satoshi",
+              "last": "Hino",
+              "native": "日野聡"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95245-prBoWpg0HaGX.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95245-prBoWpg0HaGX.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95245"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 14545,
+          "name": {
+            "first": "Moritaka",
+            "last": "Mashiro",
+            "native": "真城最高",
+            "alternative": [
+              "Saiko"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14545-WjCGUsYLCEVn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14545-WjCGUsYLCEVn.png"
+          },
+          "siteUrl": "https://anilist.co/character/14545"
+        },
+        "voiceActors": [
+          {
+            "id": 95991,
+            "name": {
+              "first": "Atsushi",
+              "last": "Abe",
+              "native": "阿部敦"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95991-4u24gUBgqeTA.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95991-4u24gUBgqeTA.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95991"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Insert Song Performance",
+        "node": {
+          "id": 101461,
+          "name": {
+            "first": "Shuhei",
+            "last": "Kita",
+            "native": "喜多修平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101461-a82byzmCE0km.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101461-a82byzmCE0km.png"
+          },
+          "description": "[Website](http://kitashuhei.com/) | [Twitter](http://twitter.com/KITAPONG)\n\nHe won Anison Grand Prix and went to sing opening themes for Persona -trinity soul- and Natsume Yuujinchou.\nHis first single 'Breakin' through' debuted at #26 on the Oricon ranking chart for CD singles in March.\nHe also performs Persona 3 Portable opening theme, Soul Phase, and Love Lebo Portable theme song, Secret Garden.",
+          "siteUrl": "https://anilist.co/staff/101461"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 7,
+          "name": "J.C.STAFF",
+          "siteUrl": "https://anilist.co/studio/7"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 111,
+          "name": "NHK",
+          "siteUrl": "https://anilist.co/studio/111"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 11
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 14
+      },
+      {
+        "score": 40,
+        "amount": 26
+      },
+      {
+        "score": 50,
+        "amount": 96
+      },
+      {
+        "score": 60,
+        "amount": 171
+      },
+      {
+        "score": 70,
+        "amount": 290
+      },
+      {
+        "score": 80,
+        "amount": 127
+      },
+      {
+        "score": 90,
+        "amount": 50
+      },
+      {
+        "score": 100,
+        "amount": 49
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 52
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1317
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1420
+      },
+      {
+        "status": "DROPPED",
+        "amount": 62
+      },
+      {
+        "status": "PAUSED",
+        "amount": 59
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/15711",
+  "modNotes": null
+}

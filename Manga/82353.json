@@ -1,0 +1,351 @@
+{
+  "id": 82353,
+  "idMal": 52353,
+  "title": {
+    "native": "チョッパーマン",
+    "romaji": "Chopperman",
+    "english": "Chopperman"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "One Piece spin off starring Chopper.",
+  "startDate": {
+    "year": 2012,
+    "month": 2,
+    "day": 5
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 1,
+    "day": 4
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 25,
+  "volumes": 5,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748792470,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/52353.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/52353.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/52353.jpg",
+    "color": "#e4a150"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/n82353-WKG59OkcaUcK.jpg",
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "synonyms": [],
+  "averageScore": 51,
+  "meanScore": 56,
+  "popularity": 435,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 53251,
+          "title": {
+            "native": "チョッパーマン ゆけゆけ!みんなのチョッパー先生"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 30013,
+          "title": {
+            "native": "ONE PIECE"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 723,
+          "name": {
+            "first": "Nami",
+            "last": "",
+            "native": "ナミ",
+            "alternative": [
+              "Cat Burglar",
+              "O-Nami",
+              "Namizo",
+              "Namiland"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b723-vp5hPptgnNEC.png"
+          },
+          "siteUrl": "https://anilist.co/character/723"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 309,
+          "name": {
+            "first": "Chopper",
+            "last": "Tony Tony",
+            "native": "トニートニー・チョッパー",
+            "alternative": [
+              "Tanuki",
+              "Chopperman",
+              "Cotton Candy Lover",
+              "Racoon Dog",
+              "Chobro",
+              "Chopa-emon  (チョッパえもん)",
+              "Chopperemon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309-H64NhbJ2ywIQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/309"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 62,
+          "name": {
+            "first": "Zoro",
+            "last": "Roronoa",
+            "native": "ロロノア・ゾロ",
+            "alternative": [
+              "Zolo",
+              "Pirate Hunter",
+              "Marimo Head",
+              "Mr. Bushido",
+              "Zorojuro",
+              "Moss Head",
+              "Lorenor Zorro"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62-S7oAeA9WInjV.png"
+          },
+          "siteUrl": "https://anilist.co/character/62"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 111485,
+          "name": {
+            "first": "Hirofumi",
+            "last": "Takei",
+            "native": "宏文 武井"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "His older brother is Hiroyuki Takei.",
+          "siteUrl": "https://anilist.co/staff/111485"
+        }
+      },
+      {
+        "role": "Translator (Spanish)",
+        "node": {
+          "id": 230252,
+          "name": {
+            "first": "Ayako",
+            "last": "Koike",
+            "native": null
+          },
+          "language": "SPANISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n230252-PPpvl2apQ3k6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n230252-PPpvl2apQ3k6.jpg"
+          },
+          "description": "__Currently living:__ Almería, Spain\n\n[Twitter](https://twitter.com/ayakokoike)",
+          "siteUrl": "https://anilist.co/staff/230252"
+        }
+      },
+      {
+        "role": "Translator (German)",
+        "node": {
+          "id": 225598,
+          "name": {
+            "first": "Antje",
+            "last": "Bockel",
+            "native": null
+          },
+          "language": "GERMAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n225598-mSEXZ0ZAAksU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n225598-mSEXZ0ZAAksU.jpg"
+          },
+          "description": "A Japanese to German translator.",
+          "siteUrl": "https://anilist.co/staff/225598"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 61223,
+          "rating": 0,
+          "media": {
+            "id": 82353,
+            "title": {
+              "native": "チョッパーマン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 110715,
+            "title": {
+              "native": "ONE PIECE学園!!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 231835,
+          "rating": 3,
+          "media": {
+            "id": 82353,
+            "title": {
+              "native": "チョッパーマン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 60541,
+            "title": {
+              "native": "BLEACH4コマ コマブリ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 6
+      },
+      {
+        "score": 30,
+        "amount": 7
+      },
+      {
+        "score": 40,
+        "amount": 8
+      },
+      {
+        "score": 50,
+        "amount": 21
+      },
+      {
+        "score": 60,
+        "amount": 25
+      },
+      {
+        "score": 70,
+        "amount": 15
+      },
+      {
+        "score": 80,
+        "amount": 9
+      },
+      {
+        "score": 90,
+        "amount": 7
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 21
+      },
+      {
+        "status": "PLANNING",
+        "amount": 215
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 149
+      },
+      {
+        "status": "DROPPED",
+        "amount": 28
+      },
+      {
+        "status": "PAUSED",
+        "amount": 22
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/82353",
+  "modNotes": null
+}

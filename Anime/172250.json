@@ -1,0 +1,913 @@
+{
+  "id": 172250,
+  "idMal": null,
+  "title": {
+    "native": "JUVENILE",
+    "romaji": "JUVENILE",
+    "english": "JUVENILE"
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Music video directed by Riri Yamashita for the song <i>JUVENILE</i> by JIN feat. Hatsune Miku. This song and corresponding music video is apart of \"Project VOLTAGE\", a collaborative project between Pokémon and Hatsune Miku.",
+  "startDate": {
+    "year": 2023,
+    "month": 12,
+    "day": 22
+  },
+  "endDate": {
+    "year": 2023,
+    "month": 12,
+    "day": 22
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 5,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": "#JUVENILE",
+  "trailer": {
+    "id": "N2-HzUpMY7c",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/N2-HzUpMY7c/hqdefault.jpg"
+  },
+  "updatedAt": 1748776922,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b172250-dvgSD6AvWuvX.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b172250-dvgSD6AvWuvX.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b172250-dvgSD6AvWuvX.png",
+    "color": "#e4ae50"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172250-0uU001sghTNm.jpg",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": 61,
+  "meanScore": 68,
+  "popularity": 396,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 102,
+      "name": "Coming of Age",
+      "description": "Centers around a character's transition from childhood to adulthood.",
+      "category": "Theme-Drama",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1310,
+      "name": "Travel",
+      "description": "Centers around character(s) moving between places a significant distance apart.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1490,
+      "name": "Proxy Battle",
+      "description": "A proxy battle is a battle where humans use creatures/robots to do the fighting for them, either by commanding those creatures/robots or by simply evolving them/changing them into battle mode.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1690,
+      "name": "Vocal Synth",
+      "description": "Features one or more singers or characters that are products of a synthesize singing program. Popular examples are Vocaloids, UTAUloids, and CeVIOs.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 158,
+      "name": "Crossover",
+      "description": "Centers around the placement of two or more otherwise discrete fictional characters, settings, or universes into the context of a single story.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 153,
+      "name": "Time Skip",
+      "description": "Features a gap in time used to advance the story.",
+      "category": "Setting-Time",
+      "rank": 50,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 341,
+      "name": "No Dialogue",
+      "description": "This work contains no dialogue.",
+      "category": "Technical",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1228,
+      "name": "Primarily Teen Cast",
+      "description": "Main cast is mostly composed of teen characters.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 158871,
+          "title": {
+            "native": "ポケットモンスター (2023)"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 135979,
+          "name": {
+            "first": "Eievui",
+            "last": null,
+            "native": "イーブイ",
+            "alternative": [
+              "Eevee",
+              "Évoli",
+              "Evoli"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135979-8fTB1j4rvc9E.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135979-8fTB1j4rvc9E.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/135979"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224575,
+          "name": {
+            "first": "Laplace",
+            "last": null,
+            "native": "ラプラス",
+            "alternative": [
+              "Lapras",
+              "Lokhlass"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224575-QAmzeADDKgBh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224575-QAmzeADDKgBh.png"
+          },
+          "siteUrl": "https://anilist.co/character/224575"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3891,
+          "name": {
+            "first": "Pikachu",
+            "last": null,
+            "native": "ピカチュウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3891-edgrZOgCJ9do.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3891"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 206362,
+          "name": {
+            "first": "Glacia",
+            "last": null,
+            "native": "グレイシア",
+            "alternative": [
+              "Glaceon",
+              "Glaziola",
+              "Givrali"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206362-t3JfnlWSLAVI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206362-t3JfnlWSLAVI.png"
+          },
+          "siteUrl": "https://anilist.co/character/206362"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 144635,
+          "name": {
+            "first": "Sonans",
+            "last": null,
+            "native": "ソーナンス",
+            "alternative": [
+              "Wobbuffet",
+              "Woingenau",
+              "Qulbutoké"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144635-gUHUUYtPcxuV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144635-gUHUUYtPcxuV.png"
+          },
+          "siteUrl": "https://anilist.co/character/144635"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169028,
+          "name": {
+            "first": "Naetle",
+            "last": null,
+            "native": "ナエトル",
+            "alternative": [
+              "Turtwig",
+              "Chelast"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169028-wxKcFhl4DJB6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169028-wxKcFhl4DJB6.png"
+          },
+          "siteUrl": "https://anilist.co/character/169028"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 152903,
+          "name": {
+            "first": "Wanpachi",
+            "last": null,
+            "native": "ワンパチ",
+            "alternative": [
+              "Yamper"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b152903-UOTrBckoJYHy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b152903-UOTrBckoJYHy.png"
+          },
+          "siteUrl": "https://anilist.co/character/152903"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9274,
+          "name": {
+            "first": "Len",
+            "last": "Kagamine",
+            "native": "鏡音レン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9274-CcJGYzAAEUH4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9274-CcJGYzAAEUH4.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9274"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7156,
+          "name": {
+            "first": "Miku",
+            "last": "Hatsune",
+            "native": "初音ミク",
+            "alternative": [
+              "CV01",
+              "Chūyīn Wèilái (初音未来)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7156-ElNl8t269bUs.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7156-ElNl8t269bUs.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7156"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 113249,
+          "name": {
+            "first": "Jin",
+            "last": "",
+            "native": "じん"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/18249.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/18249.jpg"
+          },
+          "description": "[Website](https://jin-jin-suruyo.com/) | [Twitter](https://twitter.com/jin_jin_suruyo)\n\n Jin, also known as Shizen no Teki-P is a sound producer, composer, and arranger from Japan He was influenced by his keyboardist uncle and started learning keyboard at the age of 6. He has also been influenced by bands such as THE BACK HORN and composers such as Satoru Kosaki.  He is a relatively new producer, having only been active since early 2011, but is quickly becoming well known. On September 30, 2011, Jin submitted the song “Kagerou Days” (カゲロウデイズ) to Nico Nico Douga. The song quickly gained popularity and has since been viewed more than 3,000,000 times.",
+          "siteUrl": "https://anilist.co/staff/113249"
+        }
+      },
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 113249,
+          "name": {
+            "first": "Jin",
+            "last": "",
+            "native": "じん"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/18249.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/18249.jpg"
+          },
+          "description": "[Website](https://jin-jin-suruyo.com/) | [Twitter](https://twitter.com/jin_jin_suruyo)\n\n Jin, also known as Shizen no Teki-P is a sound producer, composer, and arranger from Japan He was influenced by his keyboardist uncle and started learning keyboard at the age of 6. He has also been influenced by bands such as THE BACK HORN and composers such as Satoru Kosaki.  He is a relatively new producer, having only been active since early 2011, but is quickly becoming well known. On September 30, 2011, Jin submitted the song “Kagerou Days” (カゲロウデイズ) to Nico Nico Douga. The song quickly gained popularity and has since been viewed more than 3,000,000 times.",
+          "siteUrl": "https://anilist.co/staff/113249"
+        }
+      },
+      {
+        "role": "Music Rhythm Guitar Performance",
+        "node": {
+          "id": 113249,
+          "name": {
+            "first": "Jin",
+            "last": "",
+            "native": "じん"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/18249.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/18249.jpg"
+          },
+          "description": "[Website](https://jin-jin-suruyo.com/) | [Twitter](https://twitter.com/jin_jin_suruyo)\n\n Jin, also known as Shizen no Teki-P is a sound producer, composer, and arranger from Japan He was influenced by his keyboardist uncle and started learning keyboard at the age of 6. He has also been influenced by bands such as THE BACK HORN and composers such as Satoru Kosaki.  He is a relatively new producer, having only been active since early 2011, but is quickly becoming well known. On September 30, 2011, Jin submitted the song “Kagerou Days” (カゲロウデイズ) to Nico Nico Douga. The song quickly gained popularity and has since been viewed more than 3,000,000 times.",
+          "siteUrl": "https://anilist.co/staff/113249"
+        }
+      },
+      {
+        "role": "Music Vocal Performance",
+        "node": {
+          "id": 110205,
+          "name": {
+            "first": "Miku",
+            "last": "Hatsune",
+            "native": "初音ミク"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/110205-FMAuSWAQ9I2H.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/110205-FMAuSWAQ9I2H.jpg"
+          },
+          "description": "__Age:__ 16\n__Height:__ 158 cm (5'2\")\n<br>\nThe first Japanese VOCALOID to be both developed and distributed by Crypton Future Media, Inc.. She was initially released in August 2007 for the VOCALOID2 engine and was the first member of the Character Vocal Series, as well as the seventh VOCALOID overall and the second VOCALOID2 vocal released to be released for the engine. Her voice is provided by the Japanese voice actress [Saki Fujita](https://anilist.co/staff/95504/Saki-Fujita).\n\nThere have since been numerous installments, such as additional voice libraries dubbed 'Append', as well as an upgrade for the VOCALOID3 engine, which contained an English vocal release. She received a VOCALOID4 update to her Japanese and English voicebanks in August 2016, as well as a Mandarin Chinese voicebank in September 2017.\n\nMiku is considered the most popular and well known Vocaloid and the first to become a pop idol. The name of the title and the character of the software were chosen by combining Hatsu (初, first), Ne (音, sound), and Miku (未来, future) thus meaning \"the first sound from the future.\" Her name was based on her concept of that when a sound is first spoken.\n\nWhen KEI illustrated Miku, he was given a color scheme to work with (based on the YAMAHA synthesizers' signature blue-green colour) and was asked to draw Miku as an android. Crypton also provided KEI with Miku's detailed concepts, however, Crypton said it was not easy to explain what a \"Vocaloid\" was to him. KEI said he could not create an image of a \"singing computer\" at first, as he did not even know what a \"synthesizer\" was. It took him more than a month to complete the commission. ",
+          "siteUrl": "https://anilist.co/staff/110205"
+        }
+      },
+      {
+        "role": "Vocaloid Edit",
+        "node": {
+          "id": 272959,
+          "name": {
+            "first": "Bibi",
+            "last": null,
+            "native": "びび"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n272959-eoOpHuDXrDps.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n272959-eoOpHuDXrDps.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/bibian0115) | [Pixiv](https://www.pixiv.net/en/users/16807163) | [Youtube](https://www.youtube.com/channel/UCwf1a72ugdpr9b9HXJx3qrQ) | [NicoNico](https://www.nicovideo.jp/user/30471090/mylist/38610717)",
+          "siteUrl": "https://anilist.co/staff/272959"
+        }
+      },
+      {
+        "role": "Animation",
+        "node": {
+          "id": 205978,
+          "name": {
+            "first": "Riri",
+            "last": "Yamashita",
+            "native": "山下RIRI"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n205978-Wxl5vZ1InJWK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n205978-Wxl5vZ1InJWK.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/RIRI45309899)",
+          "siteUrl": "https://anilist.co/staff/205978"
+        }
+      },
+      {
+        "role": "Photography",
+        "node": {
+          "id": 205978,
+          "name": {
+            "first": "Riri",
+            "last": "Yamashita",
+            "native": "山下RIRI"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n205978-Wxl5vZ1InJWK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n205978-Wxl5vZ1InJWK.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/RIRI45309899)",
+          "siteUrl": "https://anilist.co/staff/205978"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 205978,
+          "name": {
+            "first": "Riri",
+            "last": "Yamashita",
+            "native": "山下RIRI"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n205978-Wxl5vZ1InJWK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n205978-Wxl5vZ1InJWK.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/RIRI45309899)",
+          "siteUrl": "https://anilist.co/staff/205978"
+        }
+      },
+      {
+        "role": "Digital Paint",
+        "node": {
+          "id": 205978,
+          "name": {
+            "first": "Riri",
+            "last": "Yamashita",
+            "native": "山下RIRI"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n205978-Wxl5vZ1InJWK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n205978-Wxl5vZ1InJWK.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/RIRI45309899)",
+          "siteUrl": "https://anilist.co/staff/205978"
+        }
+      },
+      {
+        "role": "Digital Paint",
+        "node": {
+          "id": 294431,
+          "name": {
+            "first": "Reon",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n294431-nZD9lxIgVCQP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n294431-nZD9lxIgVCQP.png"
+          },
+          "description": "[Twitter](https://x.com/reon_282)\n\nAffiliated with Xenotoon Inc.",
+          "siteUrl": "https://anilist.co/staff/294431"
+        }
+      },
+      {
+        "role": "Background Art",
+        "node": {
+          "id": 321907,
+          "name": {
+            "first": "NaBaBa",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n321907-RrP0OpazIukb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n321907-RrP0OpazIukb.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/NaBaBa/) | [Pixiv](https://www.pixiv.net/en/users/60201)",
+          "siteUrl": "https://anilist.co/staff/321907"
+        }
+      },
+      {
+        "role": "Arrangement Assistance",
+        "node": {
+          "id": 321908,
+          "name": {
+            "first": "Yuruto",
+            "last": null,
+            "native": "緩斗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n321908-jjhLpoKd5VZC.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n321908-jjhLpoKd5VZC.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/Yuruto5)",
+          "siteUrl": "https://anilist.co/staff/321908"
+        }
+      },
+      {
+        "role": "Music Bass Performance",
+        "node": {
+          "id": 321909,
+          "name": {
+            "first": "Yuuki",
+            "last": "Natsume",
+            "native": "ナツメ ユウキ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n321909-BAfwsGJ84SeS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n321909-BAfwsGJ84SeS.png"
+          },
+          "description": "[Twitter](https://twitter.com/n2_8_)",
+          "siteUrl": "https://anilist.co/staff/321909"
+        }
+      },
+      {
+        "role": "Music Piano Performance",
+        "node": {
+          "id": 321910,
+          "name": {
+            "first": "Marasy",
+            "last": null,
+            "native": "まらしぃ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n321910-H5D36IgITRk2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n321910-H5D36IgITRk2.png"
+          },
+          "description": "[Twiiter](https://twitter.com/marasy8) | [Official Site](https://marasy8.jp/profile/)",
+          "siteUrl": "https://anilist.co/staff/321910"
+        }
+      },
+      {
+        "role": "Music Drums Performance",
+        "node": {
+          "id": 321912,
+          "name": {
+            "first": "Janku",
+            "last": null,
+            "native": "ジャンク"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n321912-gIJxpQAK1Hgk.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n321912-gIJxpQAK1Hgk.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/Janku712)",
+          "siteUrl": "https://anilist.co/staff/321912"
+        }
+      },
+      {
+        "role": "Music Guitar Performance",
+        "node": {
+          "id": 321911,
+          "name": {
+            "first": "SYOKEN",
+            "last": null,
+            "native": "しょけん"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n321911-kIodgVLybj8i.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n321911-kIodgVLybj8i.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/SYOKEN_g)",
+          "siteUrl": "https://anilist.co/staff/321911"
+        }
+      },
+      {
+        "role": "Music Arrangement",
+        "node": {
+          "id": 113249,
+          "name": {
+            "first": "Jin",
+            "last": "",
+            "native": "じん"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/18249.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/18249.jpg"
+          },
+          "description": "[Website](https://jin-jin-suruyo.com/) | [Twitter](https://twitter.com/jin_jin_suruyo)\n\n Jin, also known as Shizen no Teki-P is a sound producer, composer, and arranger from Japan He was influenced by his keyboardist uncle and started learning keyboard at the age of 6. He has also been influenced by bands such as THE BACK HORN and composers such as Satoru Kosaki.  He is a relatively new producer, having only been active since early 2011, but is quickly becoming well known. On September 30, 2011, Jin submitted the song “Kagerou Days” (カゲロウデイズ) to Nico Nico Douga. The song quickly gained popularity and has since been viewed more than 3,000,000 times.",
+          "siteUrl": "https://anilist.co/staff/113249"
+        }
+      },
+      {
+        "role": "Director ",
+        "node": {
+          "id": 205978,
+          "name": {
+            "first": "Riri",
+            "last": "Yamashita",
+            "native": "山下RIRI"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n205978-Wxl5vZ1InJWK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n205978-Wxl5vZ1InJWK.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/RIRI45309899)",
+          "siteUrl": "https://anilist.co/staff/205978"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 84313,
+      "url": "https://www.youtube.com/watch?v=N2-HzUpMY7c",
+      "site": "YouTube"
+    },
+    {
+      "id": 87434,
+      "url": "https://www.project-voltage.jp/music.html#mv08",
+      "site": "Official Site"
+    },
+    {
+      "id": 87435,
+      "url": "https://www.nicovideo.jp/watch/sm43166484",
+      "site": "Niconico Video"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 249238,
+          "rating": 5,
+          "media": {
+            "id": 172250,
+            "title": {
+              "native": "JUVENILE"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 170983,
+            "title": {
+              "native": "Biri-Biri"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 255896,
+          "rating": 3,
+          "media": {
+            "id": 172250,
+            "title": {
+              "native": "JUVENILE"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 124561,
+            "title": {
+              "native": "GOTCHA!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 255994,
+          "rating": 4,
+          "media": {
+            "id": 172250,
+            "title": {
+              "native": "JUVENILE"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 174975,
+            "title": {
+              "native": "ひゅ〜どろどろ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 258229,
+          "rating": 8,
+          "media": {
+            "id": 172250,
+            "title": {
+              "native": "JUVENILE"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 175867,
+            "title": {
+              "native": "Glorious Day"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 269509,
+          "rating": 5,
+          "media": {
+            "id": 172250,
+            "title": {
+              "native": "JUVENILE"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 177547,
+            "title": {
+              "native": "アフターエポックス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 280043,
+          "rating": 2,
+          "media": {
+            "id": 172250,
+            "title": {
+              "native": "JUVENILE"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 177688,
+            "title": {
+              "native": "Lucky (feat. UMI)"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 302130,
+          "rating": 2,
+          "media": {
+            "id": 172250,
+            "title": {
+              "native": "JUVENILE"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 183487,
+            "title": {
+              "native": "ポケットのモンスター"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 7
+      },
+      {
+        "score": 50,
+        "amount": 13
+      },
+      {
+        "score": 60,
+        "amount": 28
+      },
+      {
+        "score": 70,
+        "amount": 40
+      },
+      {
+        "score": 80,
+        "amount": 19
+      },
+      {
+        "score": 90,
+        "amount": 24
+      },
+      {
+        "score": 100,
+        "amount": 6
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 4
+      },
+      {
+        "status": "PLANNING",
+        "amount": 54
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 328
+      },
+      {
+        "status": "DROPPED",
+        "amount": 8
+      },
+      {
+        "status": "PAUSED",
+        "amount": 2
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/172250",
+  "modNotes": null
+}

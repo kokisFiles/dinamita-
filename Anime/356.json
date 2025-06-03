@@ -1,0 +1,2425 @@
+{
+  "id": 356,
+  "idMal": 356,
+  "title": {
+    "native": "Fate/stay night",
+    "romaji": "Fate/stay night",
+    "english": "Fate/stay night"
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "Raised by a mysterious sorcerer after the death of his parents in a catastrophic fire, Shirou Emiya has only just begun to learn small tidbits of magic. When he is caught in a battle between two powerful Magi, however, he ends up performing a spell above his expected ability, accidentally summoning a beautiful woman knight to protect him. \n<br><br>\nShirou is thus unwillingly thrust into the competition known as the Holy Grail War where Seven Magi called Masters, together with their spirit partners called Servants, fight to acquire a powerful artifact said to grant every wish. \n",
+  "startDate": {
+    "year": 2006,
+    "month": 1,
+    "day": 7
+  },
+  "endDate": {
+    "year": 2006,
+    "month": 6,
+    "day": 17
+  },
+  "season": "WINTER",
+  "seasonYear": 2006,
+  "seasonInt": 61,
+  "episodes": 24,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VISUAL_NOVEL",
+  "hashtag": null,
+  "trailer": {
+    "id": "aFyxNcwl3U0",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/aFyxNcwl3U0/hqdefault.jpg"
+  },
+  "updatedAt": 1748905850,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx356-mTpMvtillumS.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx356-mTpMvtillumS.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx356-mTpMvtillumS.png",
+    "color": "#ff5d43"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/356-0VzS7BcObayT.jpg",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Romance",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "フェイト/ステイナイト"
+  ],
+  "averageScore": 68,
+  "meanScore": 68,
+  "popularity": 162435,
+  "favourites": 2080,
+  "tags": [
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 95,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 101,
+      "name": "Battle Royale",
+      "description": "Centers around a fierce group competition, often violent and with only one winner.",
+      "category": "Theme-Action",
+      "rank": 95,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 615,
+      "name": "Death Game",
+      "description": "Features characters participating in a game, where failure results in death.",
+      "category": "Theme-Other",
+      "rank": 92,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 321,
+      "name": "Urban Fantasy",
+      "description": "Set in a world similar to the real world, but with the existence of magic or other supernatural elements.",
+      "category": "Setting-Universe",
+      "rank": 85,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 208,
+      "name": "Mythology",
+      "description": "Prominently features mythological elements, especially those from religious or cultural tradition.",
+      "category": "Theme-Fantasy",
+      "rank": 82,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1292,
+      "name": "Spearplay",
+      "description": "Prominently features the use of spears in combat.",
+      "category": "Theme-Action",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 291,
+      "name": "Samurai",
+      "description": "Prominently features warriors of medieval Japanese nobility bound by a code of honor.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 43,
+      "name": "Swordplay",
+      "description": "Prominently features the use of swords in combat.",
+      "category": "Theme-Action",
+      "rank": 74,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1045,
+      "name": "Heterosexual",
+      "description": "Prominently features a romance between a man and a woman, not inherently sexual.",
+      "category": "Theme-Romance",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 179,
+      "name": "Witch",
+      "description": "Prominently features a character who is a witch.",
+      "category": "Cast-Traits",
+      "rank": 72,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 595,
+      "name": "Urban",
+      "description": "Partly or completely set in a city.",
+      "category": "Setting-Scene",
+      "rank": 62,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1382,
+      "name": "Orphan",
+      "description": "Prominently features a character that is an orphan.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1753,
+      "name": "Cohabitation",
+      "description": "Features two or more people who live in the same household and develop a romantic or sexual relationship.",
+      "category": "Theme-Romance",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1752,
+      "name": "Medieval",
+      "description": "Partially or completely set in the Middle Ages or a Middle Ages-inspired setting. Commonly features elements such as European castles and knights.",
+      "category": "Setting-Time",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 56,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 322,
+      "name": "Assassins",
+      "description": "Centers around characters who murder people as a profession.",
+      "category": "Theme-Other-Organisations",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 164,
+      "name": "Tsundere",
+      "description": "Prominently features a character who acts cold and hostile in order to mask warmer emotions.",
+      "category": "Cast-Traits",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 779,
+      "name": "Kuudere",
+      "description": "Prominently features a character who generally retains a cold, blunt and cynical exterior, but once one gets to know them, they have a very warm and loving interior.",
+      "category": "Cast-Traits",
+      "rank": 36,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 90,
+      "name": "CGI",
+      "description": "Prominently features scenes created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 26,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 11741,
+          "title": {
+            "native": "Fate/Zero 2ndシーズン"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 10012,
+          "title": {
+            "native": "カーニバル・ファンタズム"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 6922,
+          "title": {
+            "native": "劇場版 Fate/stay night UNLIMITED BLADE WORKS"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 12565,
+          "title": {
+            "native": "Fate/Prototype"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 19603,
+          "title": {
+            "native": "Fate/stay night [Unlimited Blade Works]"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 20791,
+          "title": {
+            "native": "Fate/stay night[Heaven's Feel] Ⅰ.presage flower"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 14829,
+          "title": {
+            "native": "Fate/kaleid liner プリズマ☆イリヤ"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 100855,
+          "title": {
+            "native": "衛宮さんちの今日のごはん"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 30715,
+          "title": {
+            "native": "Fate/stay night"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 98035,
+          "title": {
+            "native": "Fate/Apocrypha"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 21717,
+          "title": {
+            "native": "Fate/EXTRA Last Encore"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 97815,
+          "title": {
+            "native": "Fate/Grand Order -First Order-"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 159559,
+          "title": {
+            "native": "16bitセンセーション ANOTHER LAYER"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2514,
+          "name": {
+            "first": "Gilgamesh",
+            "last": "",
+            "native": "ギルガメッシュ",
+            "alternative": [
+              "Archer",
+              "King of Heroes",
+              "King of Kings",
+              "Golden King",
+              "King of Babylon",
+              "Oldest King",
+              "AUO",
+              "Gil-kun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2514-hnE6LEdqm7Su.png"
+          },
+          "siteUrl": "https://anilist.co/character/2514"
+        },
+        "voiceActors": [
+          {
+            "id": 95001,
+            "name": {
+              "first": "Tomokazu",
+              "last": "Seki",
+              "native": "関智一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95001-vm0RtZhmlzhK.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95001"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 497,
+          "name": {
+            "first": "Artoria",
+            "last": "Pendragon",
+            "native": "アルトリア・ペンドラゴン",
+            "alternative": [
+              "Saber (セイバー)",
+              "Altria Pendragon",
+              "King Arthur",
+              "King of Knights",
+              "Blue Saber",
+              "Arturia Pendragon",
+              "Goddess Rhongomyniad",
+              "Lion King",
+              "Elise Watoson",
+              "Once and Future King",
+              "Proud Knight-King",
+              "Arthur Pendragon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b497-Yg5pNmC8kxzs.png"
+          },
+          "siteUrl": "https://anilist.co/character/497"
+        },
+        "voiceActors": [
+          {
+            "id": 95013,
+            "name": {
+              "first": "Ayako",
+              "last": "Kawasumi",
+              "native": "川澄綾子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95013-cwl64qXuP2r7.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95013-cwl64qXuP2r7.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95013"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 496,
+          "name": {
+            "first": "Shirou",
+            "last": "Emiya",
+            "native": "衛宮士郎",
+            "alternative": [
+              "Emiyan",
+              "Sherou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b496-GI0waavDjyk3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b496-GI0waavDjyk3.png"
+          },
+          "siteUrl": "https://anilist.co/character/496"
+        },
+        "voiceActors": [
+          {
+            "id": 95016,
+            "name": {
+              "first": "Noriaki",
+              "last": "Sugiyama",
+              "native": "杉山紀彰"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95016-03m7lAUZBMDv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95016-03m7lAUZBMDv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95016"
+          },
+          {
+            "id": 95277,
+            "name": {
+              "first": "Junko",
+              "last": "Noda",
+              "native": "野田順子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95277-hcE9l52SPjNP.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95277-hcE9l52SPjNP.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95277"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2585,
+          "name": {
+            "first": "Kojirou",
+            "last": "Sasaki",
+            "native": "佐々木小次郎",
+            "alternative": [
+              "Assassin (アサシン)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2585-rWFs7LihpIFZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2585-rWFs7LihpIFZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/2585"
+        },
+        "voiceActors": [
+          {
+            "id": 95022,
+            "name": {
+              "first": "Shinichirou",
+              "last": "Miki",
+              "native": "三木眞一郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95022-BXggjIr4KHqd.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95022"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 8941,
+          "name": {
+            "first": "Bedivere",
+            "last": null,
+            "native": "ベディヴィエール",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8941-RP2I1mzSKcb6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8941-RP2I1mzSKcb6.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8941"
+        },
+        "voiceActors": [
+          {
+            "id": 95040,
+            "name": {
+              "first": "Mamiko",
+              "last": "Noto",
+              "native": "能登麻美子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95040-hSONMMOAmiJ6.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95040"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21024,
+          "name": {
+            "first": "Ayako",
+            "last": "Mitsuzuri",
+            "native": "美綴綾子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21024-IMc09tprmaQe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b21024-IMc09tprmaQe.png"
+          },
+          "siteUrl": "https://anilist.co/character/21024"
+        },
+        "voiceActors": [
+          {
+            "id": 95048,
+            "name": {
+              "first": "Fumie",
+              "last": "Mizusawa",
+              "native": "水沢史絵"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95048-JO5aLRIedGxl.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95048-JO5aLRIedGxl.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95048"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 55977,
+          "name": {
+            "first": "Mordred",
+            "last": "Pendragon",
+            "native": "モードレッド",
+            "alternative": [
+              "The Knight of Treachery",
+              "Saber of Red",
+              "Aka no Saber"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55977-wqiEfiJUuEFw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b55977-wqiEfiJUuEFw.png"
+          },
+          "siteUrl": "https://anilist.co/character/55977"
+        },
+        "voiceActors": [
+          {
+            "id": 95057,
+            "name": {
+              "first": "Houko",
+              "last": "Kuwashima",
+              "native": "桑島法子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95057-zkd7yTPVxfyu.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95057-zkd7yTPVxfyu.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95057"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 505,
+          "name": {
+            "first": "Taiga",
+            "last": "Fujimura",
+            "native": "藤村大河",
+            "alternative": [
+              "Tiger-sensei",
+              "Fuji-nee",
+              "Disciple no. Zero",
+              "Zecchan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b505-QL0cNIE6Q0RI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b505-QL0cNIE6Q0RI.png"
+          },
+          "siteUrl": "https://anilist.co/character/505"
+        },
+        "voiceActors": [
+          {
+            "id": 95121,
+            "name": {
+              "first": "Miki",
+              "last": "Itou",
+              "native": "伊藤美紀 "
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95121-FCp9NcoFgKZk.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95121-FCp9NcoFgKZk.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95121"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 506,
+          "name": {
+            "first": "Kirei",
+            "last": "Kotomine",
+            "native": "言峰綺礼",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b506-qeg0TqitdCMS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b506-qeg0TqitdCMS.png"
+          },
+          "siteUrl": "https://anilist.co/character/506"
+        },
+        "voiceActors": [
+          {
+            "id": 95091,
+            "name": {
+              "first": "Jouji",
+              "last": "Nakata",
+              "native": "中田譲治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95091-idoMaN26z80B.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95091-idoMaN26z80B.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95091"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2087,
+          "name": {
+            "first": "Archer",
+            "last": null,
+            "native": "アーチャー",
+            "alternative": [
+              "Wrought Iron Hero (錬鉄の英霊)",
+              "Faker (フェイカー)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2087-l5WP4W4vmfJJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2087-l5WP4W4vmfJJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/2087"
+        },
+        "voiceActors": [
+          {
+            "id": 95095,
+            "name": {
+              "first": "Junichi",
+              "last": "Suwabe",
+              "native": "諏訪部順一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95095-DvSjTQnqcgXP.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95095"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 499,
+          "name": {
+            "first": "Cú ",
+            "last": "Chulainn",
+            "native": "クー・フーリン",
+            "alternative": [
+              "Lancer",
+              "光の御子",
+              "Child of Light",
+              "Blue Spearman of the Wind",
+              "クランの猛犬",
+              "Beast of Culann",
+              "Hound of Culann",
+              "Sétanta",
+              "Child of the Sun",
+              "Cú Alter",
+              "Mad King Cú Chulainn",
+              "Cú Chulainn (Alter)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b499-gS5RAdupSKWQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b499-gS5RAdupSKWQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/499"
+        },
+        "voiceActors": [
+          {
+            "id": 95096,
+            "name": {
+              "first": "Nobutoshi",
+              "last": "Kanna",
+              "native": "神奈延年"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95096-7XONtZWj5lIw.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95096-7XONtZWj5lIw.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95096"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3440,
+          "name": {
+            "first": "Medea",
+            "last": null,
+            "native": "メデイア",
+            "alternative": [
+              "Caster (キャスター)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3440-134Ip9KiQeZL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3440-134Ip9KiQeZL.png"
+          },
+          "siteUrl": "https://anilist.co/character/3440"
+        },
+        "voiceActors": [
+          {
+            "id": 95100,
+            "name": {
+              "first": "Atsuko",
+              "last": "Tanaka",
+              "native": "田中敦子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-v07xvA8V2Yeh.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95100-v07xvA8V2Yeh.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95100"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 10010,
+          "name": {
+            "first": "Kiritsugu",
+            "last": "Emiya",
+            "native": "衛宮切嗣",
+            "alternative": [
+              "Magus Killer",
+              "Kerry",
+              "EMIYA (Assassin)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10010-fNspzan5MzNk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b10010-fNspzan5MzNk.png"
+          },
+          "siteUrl": "https://anilist.co/character/10010"
+        },
+        "voiceActors": [
+          {
+            "id": 95113,
+            "name": {
+              "first": "Rikiya",
+              "last": "Koyama",
+              "native": "小山力也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95113-z9eyYjTKSTX4.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95113"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 498,
+          "name": {
+            "first": "Rin",
+            "last": "Tohsaka",
+            "native": "遠坂凛",
+            "alternative": [
+              "Rin Tousaka",
+              "Poppins of July",
+              "Red Devil",
+              "The Consultant",
+              "Red Evil",
+              "Kischur's Nightmare"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b498-lwawtSpLyATL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b498-lwawtSpLyATL.png"
+          },
+          "siteUrl": "https://anilist.co/character/498"
+        },
+        "voiceActors": [
+          {
+            "id": 95116,
+            "name": {
+              "first": "Kana",
+              "last": "Ueda",
+              "native": "植田佳奈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95116-NvhEn6vNMiAq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95116"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 503,
+          "name": {
+            "first": "Illyasviel",
+            "last": "von Einzbern",
+            "native": "イリヤスフィール・フォン・アインツベルン",
+            "alternative": [
+              "Illya"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b503-SmS87yq6l2tD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b503-SmS87yq6l2tD.png"
+          },
+          "siteUrl": "https://anilist.co/character/503"
+        },
+        "voiceActors": [
+          {
+            "id": 95117,
+            "name": {
+              "first": "Mai",
+              "last": "Kadowaki",
+              "native": "門脇舞以"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95117-TpLo1AeJRfVJ.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95117-TpLo1AeJRfVJ.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95117"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 501,
+          "name": {
+            "first": "Shinji",
+            "last": "Matou",
+            "native": "間桐慎二",
+            "alternative": [
+              "Seaweed"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b501-yg63fxGVC6cK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b501-yg63fxGVC6cK.png"
+          },
+          "siteUrl": "https://anilist.co/character/501"
+        },
+        "voiceActors": [
+          {
+            "id": 95118,
+            "name": {
+              "first": "Hiroshi",
+              "last": "Kamiya",
+              "native": "神谷浩史"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95118-oOElrn1aSaiC.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95118"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 502,
+          "name": {
+            "first": "Medusa",
+            "last": null,
+            "native": "メドゥーサ",
+            "alternative": [
+              "Rider (ライダー)",
+              "Bewitching Black Serpent",
+              "Gorgon (ゴルゴーン)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b502-Nc5U3ghTR7Gy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b502-Nc5U3ghTR7Gy.png"
+          },
+          "siteUrl": "https://anilist.co/character/502"
+        },
+        "voiceActors": [
+          {
+            "id": 95119,
+            "name": {
+              "first": "Yuu",
+              "last": "Asakawa",
+              "native": "浅川悠"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95119-ExV6YzTBbIZE.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95119-ExV6YzTBbIZE.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95119"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 500,
+          "name": {
+            "first": "Sakura",
+            "last": "Matou",
+            "native": "間桐桜",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b500-NQrLbnBr1sDv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b500-NQrLbnBr1sDv.png"
+          },
+          "siteUrl": "https://anilist.co/character/500"
+        },
+        "voiceActors": [
+          {
+            "id": 95120,
+            "name": {
+              "first": "Noriko",
+              "last": "Shitaya",
+              "native": "下屋則子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95120-XwX1WdxBi5C2.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95120-XwX1WdxBi5C2.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95120"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3439,
+          "name": {
+            "first": "Soichirou",
+            "last": "Kuzuki",
+            "native": "葛木宗一郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3439-N3HN8zxumCDP.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3439-N3HN8zxumCDP.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3439"
+        },
+        "voiceActors": [
+          {
+            "id": 95122,
+            "name": {
+              "first": "Kazuhiro",
+              "last": "Nakata",
+              "native": "中田和宏"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/122.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/122.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95122"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15937,
+          "name": {
+            "first": "Issei",
+            "last": "Ryuudou",
+            "native": "柳洞一成",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15937-WpiTqk0Wr6RP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15937-WpiTqk0Wr6RP.png"
+          },
+          "siteUrl": "https://anilist.co/character/15937"
+        },
+        "voiceActors": [
+          {
+            "id": 95394,
+            "name": {
+              "first": "Mitsuaki",
+              "last": "Madono",
+              "native": "真殿光昭"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95394-BMiqrbgY0gIp.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95394-BMiqrbgY0gIp.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95394"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 504,
+          "name": {
+            "first": "Heracles",
+            "last": null,
+            "native": "ヘラクレス",
+            "alternative": [
+              "Berserker",
+              "バーサーカー",
+              "Hercules",
+              "Alcides",
+              "True Archer",
+              "Megalos"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b504-2k7LldrHYSAP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b504-2k7LldrHYSAP.png"
+          },
+          "siteUrl": "https://anilist.co/character/504"
+        },
+        "voiceActors": [
+          {
+            "id": 96359,
+            "name": {
+              "first": "Tadahisa",
+              "last": "Saizen",
+              "native": "西前忠久"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1359.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1359.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96359"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 16017,
+          "name": {
+            "first": "Tokiomi",
+            "last": "Toosaka",
+            "native": "遠坂時臣",
+            "alternative": [
+              "Tokiomi Tohsaka"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16017-YvEqC99MKJzv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16017-YvEqC99MKJzv.png"
+          },
+          "siteUrl": "https://anilist.co/character/16017"
+        },
+        "voiceActors": [
+          {
+            "id": 95063,
+            "name": {
+              "first": "Keiji",
+              "last": "Fujiwara",
+              "native": "藤原啓治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95063-xAsEUzspuLMG.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95063-xAsEUzspuLMG.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95063"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 24332,
+          "name": {
+            "first": "Bazett",
+            "last": "Fraga McRemitz",
+            "native": "バゼット・フラガ・マクレミッツ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24332-NEHkGpDbEjSb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24332-NEHkGpDbEjSb.png"
+          },
+          "siteUrl": "https://anilist.co/character/24332"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 220895,
+          "name": {
+            "first": "Gai",
+            "last": "Gotou",
+            "native": "後藤劾以",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b220895-xZiciF0ZpKbG.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b220895-xZiciF0ZpKbG.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/220895"
+        },
+        "voiceActors": [
+          {
+            "id": 229671,
+            "name": {
+              "first": "Masanori",
+              "last": "Katsuragi",
+              "native": "葛城政典"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n229671-lCI2WZymAzS3.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n229671-lCI2WZymAzS3.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/229671"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 187774,
+          "name": {
+            "first": "Otoko",
+            "last": "Hotaruzuka",
+            "native": "蛍塚音子",
+            "alternative": [
+              "Neko"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187774-1v8yZwK0s2de.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187774-1v8yZwK0s2de.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/187774"
+        },
+        "voiceActors": [
+          {
+            "id": 95277,
+            "name": {
+              "first": "Junko",
+              "last": "Noda",
+              "native": "野田順子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95277-hcE9l52SPjNP.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95277-hcE9l52SPjNP.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95277"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 97307,
+          "name": {
+            "first": "Keiji",
+            "last": "Gotou",
+            "native": "後藤圭二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97307-zziUpWjBxWFO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97307-zziUpWjBxWFO.png"
+          },
+          "description": "__[Website](http://goto.cute.or.jp)__\n\nGotou began his career as an animator at Atorie. After the closing of Atorie, he worked for other studios such as Project Team Muu and Fenx before going freelancer. He serves as character designer, animation director and animator on countless anime series and contributes to a monthly comic strip to Newtype magazine.\n\nHe has been an animator since he graduated from high school at 18. Unlike most other animators Gotou had never gone to an art school. He became interested in animation after seeing an advertisement in an animation magazine saying that animators were needed. Without having any connections within the industry he went on and joined Atelier Giga and studied there for a year under [Akihiko Yamashita](https://anilist.co/staff/103299/) before marking his debut as animator on [Mister Ajikko](https://anilist.co/anime/3437/).\n\nIn 1988 Studio Atelier declared bancrupcy and he went to Project Team Muu, which later became Phoenix Entertainment. His first work there was as animator on Anime Sanjushi. When working on the Yuusha Saga, he met Ishida Atsuko on Densetsu no Yuusha Da Garn, who influenced Gotou in his character design, particularly the design of the eyes. Together with the experience from training under Yamashita Akihiko this influence resulted in Gotou's so called \"gocky picture\" later.\n\nHe made his debut as character designer on Choujin Densetsu Urotsukidouji 4 and his debut as series director on Kiddy Grade.\n\nMarried to [Megumi Kadonosono](https://anilist.co/staff/100963/).\n\n(Source: Anidb)",
+          "siteUrl": "https://anilist.co/staff/97307"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97582,
+          "name": {
+            "first": "",
+            "last": "Type-Moon",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97582-3Mi4DbWITF4T.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97582-3Mi4DbWITF4T.jpg"
+          },
+          "description": "__Headquarters:__ Tokyo, Japan\n\n__[Website](http://typemoon.com/) | [Twitter](https://twitter.com/tmitterofficial)__\n\n__Introduction:__\nType-Moon is a Japanese game company was founded by artist [Takashi Takeuchi](https://anilist.co/staff/99054/Takashi-Takeuchi) and writer [Kinoko Nasu](https://anilist.co/staff/98250/Kinoko-Nasu), who were also schoolmates. The names \"TYPE-MOON\" and \"Notes.\" come from one of their early works, Notes..\n\n__History:__\nOriginally formed as a Doujin Soft in 2000 and created the popular visual novel Tsukihime, but turned into a Commercial Organization on January 30, 2004 and in the same year, they released their PC-based eroge visual novel game Fate/stay night, which is their most well known title.",
+          "siteUrl": "https://anilist.co/staff/97582"
+        }
+      },
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 98250,
+          "name": {
+            "first": "Kinoko",
+            "last": "Nasu",
+            "native": "奈須きのこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98250-ouNNikoA7L9c.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98250-ouNNikoA7L9c.jpg"
+          },
+          "description": "__[The BAMBOO BROOM (Blog)](http://www.remus.dti.ne.jp/~takeucto/)__\n\nA Japanese author best known for writing the visual novels Tsukihime and Fate/stay night. Renowned for a unique style of storytelling and prose, Nasu is amongst the most prominent visual novelists in Japan. \n\nTogether with high school classmate and friend, [Takeuchi Takashi](https://anilist.co/staff/99054/Takashi-Takeuchi), Nasu formed [TYPE-MOON](https://anilist.co/staff/97582) in 2000, originally as a doujin group to create the visual novel Tsukihime. It soon gained immense popularity, much of which is attributed to Nasu's unique style of storytelling. A sequel to Tsukihime, Kagetsu Tohya, was released on August 2001. \n\n54563 Kinokonasu is named after him",
+          "siteUrl": "https://anilist.co/staff/98250"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 99054,
+          "name": {
+            "first": "Tomotaka",
+            "last": "Takeuchi",
+            "native": "竹内友崇"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/4054.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/4054.jpg"
+          },
+          "description": "__[The BAMBOO BROOM (Blog)](http://www.remus.dti.ne.jp/~takeucto/)__\n\nTakashi Takeuchi is a Japanese artist, noted as the co-founder of Japanese visual novel and anime development and production enterprise [TYPE-MOON](https://anilist.co/staff/97582), and for his illustrations on TYPE-MOON's visual novels, Tsukihime and Fate/stay night.",
+          "siteUrl": "https://anilist.co/staff/99054"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP1, ED3)",
+        "node": {
+          "id": 100227,
+          "name": {
+            "first": "Sachi",
+            "last": "Tainaka",
+            "native": "タイナカ彩智"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100227-DkQ7NlZUIsuc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100227-DkQ7NlZUIsuc.png"
+          },
+          "description": "__[Website](http://tainakasachi.net) | [Blog](https://ameblo.jp/tainakasachi/) | [Twitter](https://twitter.com/tainakasachi) | [Instagram](https://www.instagram.com/sachitainaka/) | [Youtube](http://www.youtube.com/user/tainakasachi0430)__\n\nA Japanese singer who is best known for her vocals in the opening songs of the anime version of Fate/stay night, and her amazing voice range (3 octaves), as shown in the intro of “Saikō no Kataomoi”. She states that she was singing by a river, when she was suddenly able to sing extremely high notes.",
+          "siteUrl": "https://anilist.co/staff/100227"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 100234,
+          "name": {
+            "first": "",
+            "last": "Jyukai",
+            "native": "樹海 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5234.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5234.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/100234"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 100304,
+          "name": {
+            "first": "Kenji",
+            "last": "Kawai",
+            "native": "川井憲次"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100304-jqOrPZIUxRVl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100304-jqOrPZIUxRVl.jpg"
+          },
+          "description": "[Website](http://www.kenjikawai.com/index_e.html) | [Wiki (jp)](https://ja.wikipedia.org/wiki/%E5%B7%9D%E4%BA%95%E6%86%B2%E6%AC%A1)\n\nAfter dropping out of a nuclear engineering program at Tokai University, Kawai Kenji began studying music at Shobi Music Academy. However, he dropped out after half a year. With a few friends, he created the band Muse, playing fusion rock and participating in music competitions. Through competing in such contests, the band members became technically competent to enter the music industry and decided to part ways.\n\nAfter leaving Muse, Kawai Kenji began composing music for commercials in his home studio. While recording music for [Yuji Mitsuya](https://anilist.co/staff/95874/) he met music director Naoko Asari, who advised him to compose anime soundtracks. Some of his most famous anime soundtracks can be found in [Patlabor](https://anilist.co/anime/1288/), [Ranma ½](https://anilist.co/anime/210/), [Ghost in the Shell](https://anilist.co/anime/43/), [Fate/Stay Night](https://anilist.co/anime/356/), [When They Cry](https://anilist.co/anime/934/) and more recently in [Mob Psycho 100](https://anilist.co/anime/21507/).\n\nHe has worked on several projects with the director [Mamoru Oshii](https://anilist.co/staff/99097/) and has written scores for all of Hideo Nakata's films. Kenji Kawai's music has received the Annie award and Hong Kong Film Award in 2005, for [Ghost in The Shell 2: Innocence](https://anilist.co/anime/468/) he was nominated for an Annie award.\n\nFollowing his success as an anime music composer, he became involved in live action movies. He contributed music to horror films: Ring, Ring 2, Dark Water, Japanese-Polish science-fiction film Avalon and the Hong Kong film Seven Swords.\n\nFor the music found in Seven Swords and A Battle of Wits he was nominated for Best Original Film Score Awards at both the 25th and 26th Hong Kong Film Awards in 2006 and 2007.\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/100304"
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (OP 1)",
+        "node": {
+          "id": 100304,
+          "name": {
+            "first": "Kenji",
+            "last": "Kawai",
+            "native": "川井憲次"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100304-jqOrPZIUxRVl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100304-jqOrPZIUxRVl.jpg"
+          },
+          "description": "[Website](http://www.kenjikawai.com/index_e.html) | [Wiki (jp)](https://ja.wikipedia.org/wiki/%E5%B7%9D%E4%BA%95%E6%86%B2%E6%AC%A1)\n\nAfter dropping out of a nuclear engineering program at Tokai University, Kawai Kenji began studying music at Shobi Music Academy. However, he dropped out after half a year. With a few friends, he created the band Muse, playing fusion rock and participating in music competitions. Through competing in such contests, the band members became technically competent to enter the music industry and decided to part ways.\n\nAfter leaving Muse, Kawai Kenji began composing music for commercials in his home studio. While recording music for [Yuji Mitsuya](https://anilist.co/staff/95874/) he met music director Naoko Asari, who advised him to compose anime soundtracks. Some of his most famous anime soundtracks can be found in [Patlabor](https://anilist.co/anime/1288/), [Ranma ½](https://anilist.co/anime/210/), [Ghost in the Shell](https://anilist.co/anime/43/), [Fate/Stay Night](https://anilist.co/anime/356/), [When They Cry](https://anilist.co/anime/934/) and more recently in [Mob Psycho 100](https://anilist.co/anime/21507/).\n\nHe has worked on several projects with the director [Mamoru Oshii](https://anilist.co/staff/99097/) and has written scores for all of Hideo Nakata's films. Kenji Kawai's music has received the Annie award and Hong Kong Film Award in 2005, for [Ghost in The Shell 2: Innocence](https://anilist.co/anime/468/) he was nominated for an Annie award.\n\nFollowing his success as an anime music composer, he became involved in live action movies. He contributed music to horror films: Ring, Ring 2, Dark Water, Japanese-Polish science-fiction film Avalon and the Hong Kong film Seven Swords.\n\nFor the music found in Seven Swords and A Battle of Wits he was nominated for Best Original Film Score Awards at both the 25th and 26th Hong Kong Film Awards in 2006 and 2007.\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/100304"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 100981,
+          "name": {
+            "first": "Hisashi",
+            "last": "Saitou",
+            "native": "斎藤久"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100981-Qzj2CvEVu7k7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100981-Qzj2CvEVu7k7.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/100981"
+        }
+      },
+      {
+        "role": "Animation Director (ep 7)",
+        "node": {
+          "id": 101081,
+          "name": {
+            "first": "Maki",
+            "last": "Fujii",
+            "native": "藤井まき"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101081-qk3icCB9wbSS.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101081-qk3icCB9wbSS.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/mirumodake)\n\nAfter graduating from an animation school she was working on many productions for Yumeta Company and Studio Deen.\n\nMarried to [Tetsuya Yanagisawa](https://anilist.co/staff/109785/).",
+          "siteUrl": "https://anilist.co/staff/101081"
+        }
+      },
+      {
+        "role": "Episode Director  (ep 11, 17, 19)",
+        "node": {
+          "id": 101468,
+          "name": {
+            "first": "Shigeru",
+            "last": "Ueda",
+            "native": "うえだしげる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101468-EyxvVWNj5dJ3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101468-EyxvVWNj5dJ3.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/31969571)\n\nOriginating from [Aubec](https://anilist.co/studio/6090/).\n\n_Note: Not to be confused with the [other director](https://anilist.co/staff/242744/) by the same name._",
+          "siteUrl": "https://anilist.co/staff/101468"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 101890,
+          "name": {
+            "first": "Yoshiharu",
+            "last": "Ishihara",
+            "native": "石原恵治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/101890-quLbBHKeOMC6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/101890-quLbBHKeOMC6.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/voss714) | [Wiki (jp)](https://ja.wikipedia.org/wiki/石原恵治)",
+          "siteUrl": "https://anilist.co/staff/101890"
+        }
+      },
+      {
+        "role": "Chief Animation Director (eps 1, 3, 5, 7, 9, 12, 14, 16, 20)",
+        "node": {
+          "id": 101890,
+          "name": {
+            "first": "Yoshiharu",
+            "last": "Ishihara",
+            "native": "石原恵治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/101890-quLbBHKeOMC6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/101890-quLbBHKeOMC6.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/voss714) | [Wiki (jp)](https://ja.wikipedia.org/wiki/石原恵治)",
+          "siteUrl": "https://anilist.co/staff/101890"
+        }
+      },
+      {
+        "role": "Animation Director (ep 24)",
+        "node": {
+          "id": 101890,
+          "name": {
+            "first": "Yoshiharu",
+            "last": "Ishihara",
+            "native": "石原恵治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/101890-quLbBHKeOMC6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/101890-quLbBHKeOMC6.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/voss714) | [Wiki (jp)](https://ja.wikipedia.org/wiki/石原恵治)",
+          "siteUrl": "https://anilist.co/staff/101890"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 104572,
+          "name": {
+            "first": "Takuya",
+            "last": "Satou",
+            "native": "佐藤卓哉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104572-tyo8yAeTxpjE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104572-tyo8yAeTxpjE.png"
+          },
+          "description": "[Twitter](https://twitter.com/tak_tea3)\n\nAnimates on rare occasions.",
+          "siteUrl": "https://anilist.co/staff/104572"
+        }
+      },
+      {
+        "role": "Script (eps 5, 7, 14, 18, 21)",
+        "node": {
+          "id": 107198,
+          "name": {
+            "first": "Jukki",
+            "last": "Hanada",
+            "native": "花田十輝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107198-VFEYV6mJjsAF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107198-VFEYV6mJjsAF.png"
+          },
+          "description": "[Twitter](https://twitter.com/oitan125) | [Wiki (jp)](https://ja.wikipedia.org/wiki/花田十輝)\n\nJukki Hanada is a Japanese screenwriter and novelist. He is the grandson of literary critic and essayist Kiyoteru Hanada. He formerly belonged to [Takao Koyama's](https://anilist.co/staff/117575/Takao-Koyama) Brother Noppo anime scenario house. He's currently affiliated with SATZ.\n\nHe's a big fan of professional baseball and supports the Hiroshima Toyo Carp.",
+          "siteUrl": "https://anilist.co/staff/107198"
+        }
+      },
+      {
+        "role": "Storyboard  (ep 2, 7, 12, 18, 23)",
+        "node": {
+          "id": 109785,
+          "name": {
+            "first": "Tetsuya",
+            "last": "Yanagisawa",
+            "native": "柳沢哲也 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/109785-PYdnjqBBQaNV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/109785-PYdnjqBBQaNV.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/436797162)\n\nMarried to animator [Maki Fujii](https://anilist.co/staff/101081/).",
+          "siteUrl": "https://anilist.co/staff/109785"
+        }
+      },
+      {
+        "role": "Animation Director (ep 1)",
+        "node": {
+          "id": 111163,
+          "name": {
+            "first": "Asako",
+            "last": "Nishida",
+            "native": "西田亜沙子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111163-bWDj3pJN0qGD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111163-bWDj3pJN0qGD.png"
+          },
+          "description": "[Twitter](https://twitter.com/asakonishida) | [Pixiv](https://www.pixiv.net/en/users/24387) | [Wiki (jp)](https://ja.wikipedia.org/wiki/西田亜沙子)\n\nOriginating from Studio Muu.\n\n\nMarried to fellow animator [Seiichi Nakatani](https://anilist.co/staff/107409/Seiichi-Nakatani).",
+          "siteUrl": "https://anilist.co/staff/111163"
+        }
+      },
+      {
+        "role": "Episode Director (eps 1, 7, 12, 14, 18, 23)",
+        "node": {
+          "id": 114333,
+          "name": {
+            "first": "Shunji",
+            "last": "Yoshida",
+            "native": "吉田俊司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114333-bML8y9NEKvOP.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114333-bML8y9NEKvOP.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/114333"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 114842,
+          "name": {
+            "first": "Yuuji",
+            "last": "Yamaguchi",
+            "native": "山口祐司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114842-t295soVhd9YL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114842-t295soVhd9YL.jpg"
+          },
+          "description": "He passed away from undisclosed causes in January 2020.",
+          "siteUrl": "https://anilist.co/staff/114842"
+        }
+      },
+      {
+        "role": "Storyboard  (eps 1, 16, 19, 22, 24)",
+        "node": {
+          "id": 114842,
+          "name": {
+            "first": "Yuuji",
+            "last": "Yamaguchi",
+            "native": "山口祐司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114842-t295soVhd9YL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114842-t295soVhd9YL.jpg"
+          },
+          "description": "He passed away from undisclosed causes in January 2020.",
+          "siteUrl": "https://anilist.co/staff/114842"
+        }
+      },
+      {
+        "role": "Episode Director  (ep 24)",
+        "node": {
+          "id": 114842,
+          "name": {
+            "first": "Yuuji",
+            "last": "Yamaguchi",
+            "native": "山口祐司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114842-t295soVhd9YL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114842-t295soVhd9YL.jpg"
+          },
+          "description": "He passed away from undisclosed causes in January 2020.",
+          "siteUrl": "https://anilist.co/staff/114842"
+        }
+      },
+      {
+        "role": "Chief Animation Director (eps 2, 4, 6, 8, 10, 11, 13, 15, 17, 19, 21, 23)",
+        "node": {
+          "id": 116819,
+          "name": {
+            "first": "Toshimitsu",
+            "last": "Kobayashi",
+            "native": "小林利充"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/116819-nUSr5EbGKeSM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/116819-nUSr5EbGKeSM.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/116819"
+        }
+      },
+      {
+        "role": "ADR Director (English)",
+        "node": {
+          "id": 117201,
+          "name": {
+            "first": "Kristi",
+            "last": "Reed",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117201-Syyq4RGc0pYF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n117201-Syyq4RGc0pYF.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/DangKristi)",
+          "siteUrl": "https://anilist.co/staff/117201"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 120167,
+          "name": {
+            "first": "Katsuya",
+            "last": "Kikuchi",
+            "native": "菊池勝也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120167-0mey1oxcxpUQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n120167-0mey1oxcxpUQ.png"
+          },
+          "description": "[Twitter](https://twitter.com/kikukatu79)",
+          "siteUrl": "https://anilist.co/staff/120167"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 31,
+          "name": "NBCUniversal Entertainment Japan",
+          "siteUrl": "https://anilist.co/studio/31"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 37,
+          "name": "Studio DEEN",
+          "siteUrl": "https://anilist.co/studio/37"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 61,
+          "name": "Frontier Works",
+          "siteUrl": "https://anilist.co/studio/61"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 145,
+          "name": "TBS",
+          "siteUrl": "https://anilist.co/studio/145"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 376,
+          "name": "Sentai Filmworks",
+          "siteUrl": "https://anilist.co/studio/376"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 703,
+          "name": "Notes",
+          "siteUrl": "https://anilist.co/studio/703"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 635,
+          "name": "CREi",
+          "siteUrl": "https://anilist.co/studio/635"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 469,
+      "url": "http://www.hulu.com/fate-stay-night",
+      "site": "Hulu"
+    },
+    {
+      "id": 2388,
+      "url": "http://www.staynight.com/",
+      "site": "Official Site"
+    },
+    {
+      "id": 8548,
+      "url": "https://www.hidive.com/tv/fate-stay-night",
+      "site": "HIDIVE"
+    },
+    {
+      "id": 21710,
+      "url": "https://tubitv.com/series/4452/fate_stay_night",
+      "site": "Tubi TV"
+    },
+    {
+      "id": 36090,
+      "url": "https://www.netflix.com/title/80067250",
+      "site": "Netflix"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 770,
+      "rank": 270,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": null,
+      "season": null,
+      "allTime": true,
+      "context": "most popular all time"
+    },
+    {
+      "id": 3495,
+      "rank": 49,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2006,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 3555,
+      "rank": 9,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 2006,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 3654,
+      "rank": 8,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2006,
+      "season": "WINTER",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 3670,
+      "rank": 1,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 2006,
+      "season": "WINTER",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2693,
+          "rating": 31,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2593,
+            "title": {
+              "native": "空の境界 俯瞰風景"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 9480,
+          "rating": 33,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 169,
+            "title": {
+              "native": "真月譚 月姫"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 10698,
+          "rating": 13,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 98035,
+            "title": {
+              "native": "Fate/Apocrypha"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 15762,
+          "rating": 7,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 10620,
+            "title": {
+              "native": "未来日記"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 20541,
+          "rating": 9,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 105190,
+            "title": {
+              "native": "ダーウィンズゲーム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 21693,
+          "rating": 8,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 21717,
+            "title": {
+              "native": "Fate/EXTRA Last Encore"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 30989,
+          "rating": 9,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 355,
+            "title": {
+              "native": "灼眼のシャナ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 43367,
+          "rating": 13,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 21719,
+            "title": {
+              "native": "Fate/stay night[Heaven's Feel] ⅠⅠⅠ.spring song"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 46590,
+          "rating": 3,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 246,
+            "title": {
+              "native": "GROOVE ADVENTURE RAVE"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 51683,
+          "rating": 6,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 103276,
+            "title": {
+              "native": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- 前編 Wandering; Agateram"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 57815,
+          "rating": 19,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 106918,
+            "title": {
+              "native": "ロード・エルメロイⅡ世の事件簿 {魔眼蒐集列車} Grace note"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 62376,
+          "rating": 10,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 4654,
+            "title": {
+              "native": "とある魔術の禁書目録"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 69097,
+          "rating": 6,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 97980,
+            "title": {
+              "native": "Re:CREATORS"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 83685,
+          "rating": 7,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 114389,
+            "title": {
+              "native": "Fate/strange Fake TVCM"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 104885,
+          "rating": 0,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 127401,
+            "title": {
+              "native": "プラチナエンド"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 108869,
+          "rating": 7,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 131565,
+            "title": {
+              "native": "takt op.Destiny"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 118765,
+          "rating": 5,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 20613,
+            "title": {
+              "native": "アカメが斬る！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 125803,
+          "rating": 0,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 5079,
+            "title": {
+              "native": "黒神 The Animation"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 126817,
+          "rating": 10,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 269,
+            "title": {
+              "native": "BLEACH"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 129778,
+          "rating": 10,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1536,
+            "title": {
+              "native": "武装錬金"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 132743,
+          "rating": 4,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 103275,
+            "title": {
+              "native": "Fate/Grand Order -絶対魔獣戦線バビロニア-"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 226293,
+          "rating": 3,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 154966,
+            "title": {
+              "native": "Fate/strange Fake -Whispers of Dawn-"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 229405,
+          "rating": 3,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 21318,
+            "title": {
+              "native": "Fate/stay night [Unlimited Blade Works] 2ndシーズン - sunny day"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 234246,
+          "rating": 4,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 21555,
+            "title": {
+              "native": "ディエス・イレ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 241273,
+          "rating": 2,
+          "media": {
+            "id": 356,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 100728,
+            "title": {
+              "native": "Fate/Grand Order -MOONLIGHT/LOSTROOM-"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 711
+      },
+      {
+        "score": 20,
+        "amount": 769
+      },
+      {
+        "score": 30,
+        "amount": 1842
+      },
+      {
+        "score": 40,
+        "amount": 3573
+      },
+      {
+        "score": 50,
+        "amount": 6648
+      },
+      {
+        "score": 60,
+        "amount": 12317
+      },
+      {
+        "score": 70,
+        "amount": 20356
+      },
+      {
+        "score": 80,
+        "amount": 15547
+      },
+      {
+        "score": 90,
+        "amount": 8280
+      },
+      {
+        "score": 100,
+        "amount": 4398
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 6777
+      },
+      {
+        "status": "PLANNING",
+        "amount": 37494
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 108220
+      },
+      {
+        "status": "DROPPED",
+        "amount": 5678
+      },
+      {
+        "status": "PAUSED",
+        "amount": 4266
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/356",
+  "modNotes": null
+}

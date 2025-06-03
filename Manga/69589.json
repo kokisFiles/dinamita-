@@ -1,0 +1,523 @@
+{
+  "id": 69589,
+  "idMal": 39589,
+  "title": {
+    "native": "キテレツ大百科",
+    "romaji": "Kiteretsu Daihyakka",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The main character is a scientific genius boy named Kiteretsu, who has built a companion robot named Korosuke. He frequently travels in time with his friends and Korosuke in the time machine he built. Miyoko is a girl in his neighborhood who is basically his girlfriend. Tongari is his rival, who happen to share some similar traits of Honekawa Suneo. Buta Gorilla (Kumada Kaoru) is a typical neighborhood bully, who also share similar traits of Gian (Takeshi Goda) except that he often antagonizes Korosuke (though they are in grade school).\n",
+  "startDate": {
+    "year": 1974,
+    "month": 4,
+    "day": 1
+  },
+  "endDate": {
+    "year": 1977,
+    "month": 7,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 33,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747747155,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39589.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39589.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/39589.jpg",
+    "color": "#78e45d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Sci-Fi",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Kiteretsu Encyclopedia"
+  ],
+  "averageScore": null,
+  "meanScore": 74,
+  "popularity": 175,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 96,
+      "name": "Time Manipulation",
+      "description": "Prominently features time-traveling or other time-warping phenomena.",
+      "category": "Theme-Sci-Fi",
+      "rank": 20,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 6509,
+          "title": {
+            "native": "キテレツ大百科"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 142902,
+          "title": {
+            "native": "新キテレツ大百科"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 80097,
+          "name": {
+            "first": "Korosuke",
+            "last": null,
+            "native": "コロ助",
+            "alternative": [
+              "Korochan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/80097.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/80097.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/80097"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 78737,
+          "name": {
+            "first": "Eiichi",
+            "last": "Kite",
+            "native": "木手英一",
+            "alternative": [
+              "Kiteretsu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/78737.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/78737.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/78737"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 80105,
+          "name": {
+            "first": "Kaoru",
+            "last": "Kumada",
+            "native": "熊田薫",
+            "alternative": [
+              "Butagorira"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/80105.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/80105.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/80105"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 80103,
+          "name": {
+            "first": "Miyoko",
+            "last": "Nonohana",
+            "native": "野々花みよ子",
+            "alternative": [
+              "Miyochan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80103-s4CEiS3tuCik.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b80103-s4CEiS3tuCik.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/80103"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 80107,
+          "name": {
+            "first": "Kouji",
+            "last": "Tongari",
+            "native": "尖浩二",
+            "alternative": [
+              "Tongari"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/80107.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/80107.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/80107"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 219230,
+          "name": {
+            "first": "Fujio",
+            "last": "Fujiko",
+            "native": "藤子不二雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n219230-UJh5fTeZacTM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n219230-UJh5fTeZacTM.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/藤子不二雄) | [Wiki (en)](https://en.wikipedia.org/wiki/Fujiko_Fujio)\n\nFujiko Fujio was the pen-name of a mangaka duo formed by two Japanese manga artists, [Hiroshi Fujimoto](https://anilist.co/staff/97610/) and [Motoo Abiko](https://anilist.co/staff/108941/).\n\nThe duo formed their partnership in 1951, and used the Fujiko Fujio name from 1954 until dissolution of the partnership in 1987. Throughout their career they won many individual and collaborative awards, and are best known for creating the popular and long-running series [Doraemon](https://anilist.co/manga/31032/), the main character of which is officially recognized as a cultural icon of modern Japan.",
+          "siteUrl": "https://anilist.co/staff/219230"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 41909,
+      "url": "https://www.shogakukan.co.jp/pr/tencomi/kiteretsu/",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 43267,
+          "rating": 8,
+          "media": {
+            "id": 69589,
+            "title": {
+              "native": "キテレツ大百科"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 119499,
+            "title": {
+              "native": "僕とロボコ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 113647,
+          "rating": 2,
+          "media": {
+            "id": 69589,
+            "title": {
+              "native": "キテレツ大百科"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 142291,
+            "title": {
+              "native": "ドビンソン漂流記"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 113769,
+          "rating": 2,
+          "media": {
+            "id": 69589,
+            "title": {
+              "native": "キテレツ大百科"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 142315,
+            "title": {
+              "native": "21エモン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115713,
+          "rating": 1,
+          "media": {
+            "id": 69589,
+            "title": {
+              "native": "キテレツ大百科"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 142737,
+            "title": {
+              "native": "宙犬トッピ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115817,
+          "rating": 2,
+          "media": {
+            "id": 69589,
+            "title": {
+              "native": "キテレツ大百科"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 142779,
+            "title": {
+              "native": "パーマン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 190245,
+          "rating": 1,
+          "media": {
+            "id": 69589,
+            "title": {
+              "native": "キテレツ大百科"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 72177,
+            "title": {
+              "native": "チンプイ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 271051,
+          "rating": 2,
+          "media": {
+            "id": 69589,
+            "title": {
+              "native": "キテレツ大百科"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 169928,
+            "title": {
+              "native": "T・Pぼん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 280884,
+          "rating": 3,
+          "media": {
+            "id": 69589,
+            "title": {
+              "native": "キテレツ大百科"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31032,
+            "title": {
+              "native": "ドラえもん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 280886,
+          "rating": 1,
+          "media": {
+            "id": 69589,
+            "title": {
+              "native": "キテレツ大百科"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 55187,
+            "title": {
+              "native": "オバケのQ太郎"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 280888,
+          "rating": 1,
+          "media": {
+            "id": 69589,
+            "title": {
+              "native": "キテレツ大百科"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 51407,
+            "title": {
+              "native": "忍者ハットリくん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 419725,
+          "rating": 1,
+          "media": {
+            "id": 69589,
+            "title": {
+              "native": "キテレツ大百科"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 187210,
+            "title": {
+              "native": "チャックび〜んず"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 7
+      },
+      {
+        "score": 70,
+        "amount": 12
+      },
+      {
+        "score": 80,
+        "amount": 9
+      },
+      {
+        "score": 90,
+        "amount": 8
+      },
+      {
+        "score": 100,
+        "amount": 8
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 22
+      },
+      {
+        "status": "PLANNING",
+        "amount": 62
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 77
+      },
+      {
+        "status": "DROPPED",
+        "amount": 9
+      },
+      {
+        "status": "PAUSED",
+        "amount": 5
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/69589",
+  "modNotes": null
+}

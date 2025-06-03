@@ -1,0 +1,255 @@
+{
+  "id": 96697,
+  "idMal": 95699,
+  "title": {
+    "native": "イース",
+    "romaji": "Ys",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Adol Christin, a young man from the mainland, sails to the besieged land of Esteria in search of adventure. Esteria is being overrun by beasts under the control of the evil priest Dark Fact, and the people of the land are running out of time. However, there is a prophecy that tells of a hero from another land who will come to save Esteria—and his name would be Adol Christin.\n",
+  "startDate": {
+    "year": 2009,
+    "month": 10,
+    "day": null
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 5,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 29,
+  "volumes": 4,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748346863,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n96697-chCxgYlICk0R.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n96697-chCxgYlICk0R.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/n96697-chCxgYlICk0R.png",
+    "color": "#35bbe4"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/n96697-lNMMcnc65SuU.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Ancient Books of Ys"
+  ],
+  "averageScore": null,
+  "meanScore": 88,
+  "popularity": 62,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 56469,
+          "title": {
+            "native": "イース太陽の仮面"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 1276,
+          "title": {
+            "native": "Ys イース"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5752,
+          "name": {
+            "first": "Adol",
+            "last": "Christin",
+            "native": "アドル・クリスティン",
+            "alternative": [
+              "Red hair",
+              "Adol the Red"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5752-j2oFeKIeswp8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5752-j2oFeKIeswp8.png"
+          },
+          "siteUrl": "https://anilist.co/character/5752"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24038,
+          "name": {
+            "first": "Reah",
+            "last": null,
+            "native": "レア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24038-TQu63QdPAoCD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24038-TQu63QdPAoCD.png"
+          },
+          "siteUrl": "https://anilist.co/character/24038"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24037,
+          "name": {
+            "first": "Feena",
+            "last": null,
+            "native": "フィーナ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24037-biaPn3tbkUWL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24037-biaPn3tbkUWL.png"
+          },
+          "siteUrl": "https://anilist.co/character/24037"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24045,
+          "name": {
+            "first": "Dark",
+            "last": "Fact",
+            "native": "ダルク・ファクト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24045-vTcG87GAu5tn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24045-vTcG87GAu5tn.png"
+          },
+          "siteUrl": "https://anilist.co/character/24045"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24041,
+          "name": {
+            "first": "Dogi",
+            "last": null,
+            "native": "ドギ",
+            "alternative": [
+              "Dogi the Wallcrusher"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24041-wrp9fnTZUmpu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24041-wrp9fnTZUmpu.png"
+          },
+          "siteUrl": "https://anilist.co/character/24041"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 132242,
+          "name": {
+            "first": "Hideki",
+            "last": "Maeda",
+            "native": "前田 英紀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/132242"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 90,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 3
+      },
+      {
+        "status": "PLANNING",
+        "amount": 53
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 6
+      },
+      {
+        "status": "DROPPED",
+        "amount": 0
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/96697",
+  "modNotes": null
+}

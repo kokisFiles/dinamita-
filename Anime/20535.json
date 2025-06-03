@@ -1,0 +1,890 @@
+{
+  "id": 20535,
+  "idMal": 21395,
+  "title": {
+    "native": "映画クレヨンしんちゃん　ガチンコ! 逆襲のロボとーちゃん",
+    "romaji": "Crayon Shin-chan: Gachinko! Gyakushuu no Robo Tou-chan",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "Shinnosuke's father, Hiroshi, gets converted into a robot.",
+  "startDate": {
+    "year": 2014,
+    "month": 4,
+    "day": 19
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 4,
+    "day": 19
+  },
+  "season": "SPRING",
+  "seasonYear": 2014,
+  "seasonInt": 142,
+  "episodes": 1,
+  "duration": 95,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": {
+    "id": "kht38yOv_0A",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/kht38yOv_0A/hqdefault.jpg"
+  },
+  "updatedAt": 1748880027,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20535-xBganwVg6Jjy.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20535-xBganwVg6Jjy.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20535-xBganwVg6Jjy.jpg",
+    "color": "#e4a128"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Crayon Shin-chan: Serious Battle! Robot Dad Strikes Back",
+    "Shin Chan: Papá Robot"
+  ],
+  "averageScore": 73,
+  "meanScore": 75,
+  "popularity": 2583,
+  "favourites": 34,
+  "tags": [
+    {
+      "id": 87,
+      "name": "Family Life",
+      "description": "Centers around the activities of a family unit.",
+      "category": "Theme-Slice of Life",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 17113,
+          "title": {
+            "native": "映画クレヨンしんちゃん バカうまっ! B級グルメサバイバル!!"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 966,
+          "title": {
+            "native": "クレヨンしんちゃん"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 98744,
+          "title": {
+            "native": "クレヨンしんちゃん オラの引越し物語～サボテン大襲撃～"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2951,
+          "name": {
+            "first": "Shinnosuke",
+            "last": "Nohara",
+            "native": "野原しんのすけ",
+            "alternative": [
+              "Shin-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2951-Bs571jmT5Xym.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2951-Bs571jmT5Xym.png"
+          },
+          "siteUrl": "https://anilist.co/character/2951"
+        },
+        "voiceActors": [
+          {
+            "id": 95148,
+            "name": {
+              "first": "Aki",
+              "last": "Uechi",
+              "native": "うえちあき"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95148-JiNi79wg9ScS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95148-JiNi79wg9ScS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95148"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7854,
+          "name": {
+            "first": "Misae",
+            "last": "Nohara",
+            "native": "野原美冴",
+            "alternative": [
+              "nee Koyama",
+              "Mitzi",
+              "Misty"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7854.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7854.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7854"
+        },
+        "voiceActors": [
+          {
+            "id": 96600,
+            "name": {
+              "first": "Miki",
+              "last": "Narahashi",
+              "native": "ならはしみき"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96600-v6elhY0JP2iR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96600-v6elhY0JP2iR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96600"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 33466,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Nohara",
+            "native": "野原広志",
+            "alternative": [
+              "Hiroshi",
+              "Hiro",
+              "Harry"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/33466.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/33466.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/33466"
+        },
+        "voiceActors": [
+          {
+            "id": 95063,
+            "name": {
+              "first": "Keiji",
+              "last": "Fujiwara",
+              "native": "藤原啓治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95063-xAsEUzspuLMG.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95063-xAsEUzspuLMG.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95063"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7855,
+          "name": {
+            "first": "Himawari",
+            "last": "Nohara",
+            "native": "野原ひまわり",
+            "alternative": [
+              "Hima",
+              "Daisy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7855.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7855.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7855"
+        },
+        "voiceActors": [
+          {
+            "id": 95470,
+            "name": {
+              "first": "Satomi",
+              "last": "Koorogi",
+              "native": "こおろぎさとみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95470-xZYG14WGMlmS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95470-xZYG14WGMlmS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95470"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 98293,
+          "name": {
+            "first": "Yoshito",
+            "last": "Usui",
+            "native": "臼井儀人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98293-sPwWTGzCRKp3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98293-sPwWTGzCRKp3.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/臼井儀人)\n\nA mangaka known for the popular [Crayon Shin-chan](https://anilist.co/manga/32435/) series.",
+          "siteUrl": "https://anilist.co/staff/98293"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 98328,
+          "name": {
+            "first": "Kazuki",
+            "last": "Nakashima",
+            "native": "中島かずき"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/3328.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/3328.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/k_z_ki)",
+          "siteUrl": "https://anilist.co/staff/98328"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 118513,
+          "name": {
+            "first": "Wataru",
+            "last": "Takahashi",
+            "native": "高橋渉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118513-gybp7H53Qt4x.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118513-gybp7H53Qt4x.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/高橋渉_(アニメ演出家%29)",
+          "siteUrl": "https://anilist.co/staff/118513"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 118684,
+          "name": {
+            "first": "Kyary",
+            "last": "Pamyu Pamyu",
+            "native": "きゃりーぱみゅぱみゅ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118684-VWnEceosjCtI.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118684-VWnEceosjCtI.jpg"
+          },
+          "description": "<a href=\"http://kyary.asobisystem.com/\">official website</a> | <a href=\"https://twitter.com/pamyurin\">twitter (pamyurin)</a> | <a href=\"https://www.instagram.com/kyarypappa/\">instagram (kyarypappa)</a>\n\n<b>Kiriko Takemura</b> (竹村桐子), born January 29, 1993 in Tanashi, Tokyo, professionally known as <b>Kyary Pamyu Pamyu</b> is a Japanese singer, model, and blogger. Her public image is associated with Japan's <i>kawaii</i> and <i>decora</i> culture, centered in the famous Harajuku neighborhood of Tokyo. Pamyu Pamyu's music is produced by <i>Yasutaka Nakata</i> of electronic music duo <i>CAPSULE</i>. Though most of her success as a recording artist has been in Asia, she has gained popularity in the west in part due to viral internet videos. Media outlets have referred to Pamyu Pamyu as \"Harajuku's Pop Princess\", and she has been photographed for magazines such as <i>Dazed & Confused</i>. In 2013, she signed a distribution deal with Sire Records to release her material in the United States.\n\nDespite being raised in a traditional strict household and her very critical mother, Takemura started as a fashion blogger and then began her professional career as a model for Harajuku fashion magazines such as <i>Kera!</i> and <i>Zipper</i>. She would find her stage name after a friend called her \"Kyari\" for embracing Western culture and looking like a foreign girl. The name stuck, but eventually Pamyu Pamyu was added on because it sounded cute. Takemura would eventually meet Yasutaka Nakata at his club event. Nakata took interest in her because of her involvement in the fashion industry and encouraged her to debut as a singer.\n\n<b>Career</b>\n\nHer first promo single, <a href=\"https://www.youtube.com/watch?v=yzC4hFK5P3g\"><i>Pon Pon Pon</i></a> was an immediate success, leading to it being reported on by MTV and The Huffington Post. She released her debut album, <a href=\"https://www.youtube.com/watch?v=NOV5LqsH1Ek\"><i>moshi moshi Harajuku</i></a>, in August 2011. A week later she released an autobiography about her rise to fame titled, <i>Oh! My God!! Harajuku Girl</i>.\n\nHer debut full-length album, <a href=\"https://open.spotify.com/album/0dYoEirIRah6OKJl1okk6Z?si=lkoWvcmzSUuceKhd2dBpNg\"><i>Pamyu Pamyu Revolution</i></a>, was released in May 2012. She toured around Japan in 2012, and went on to tour worldwide on the <i>100% KPP World Tour</i> that began in February 2013.\n\nShe received a great deal of media attention from Asian and Western outlets alike, with many reviewers highly praising her music and exciting aesthetic. Significant music publications like MTV, The Fader, and Stereogum wrote such articles. She was also interviewed by several news channels such as the Swedish <i>Svenska Dagbladet</i>, the French <i>Le Petit Journal</i>, and <i>The Wall Street Journal</i>.\n\nPamyu Pamyu's second studio album, <a href=\"https://open.spotify.com/album/284CrOYQvoB5GQAcmx5Xkx?si=pUatWmaBRhSL92q64O-FLA\"><i>Nanda Collection</i></a> was released in June 2013. Several months later she announced a second world tour. She would continue to receive much attention from the worldwide press and positive reviews from music publications. She would release her third studio album, <a href=\"https://open.spotify.com/album/3v6YUUTE2UWuIAnGo8m5fu?si=O7EKOp-4S4mUix4sM0hKiw\"><i>Pika Pika Fantajin</i></a> in July 2014. She held a nation-wide arena hall tour.\n\nIn January 2015, <i>the Hollywood Reporter</i> mentioned her as one of the major recent sellers for Warner Music Group alongside world stars such as Coldplay and Ed Sheeran. In May 2016, a compilation album, <a href=\"https://open.spotify.com/album/5kyCkj26Vh8y8jne35hNR1?si=-1IjeiRyROqz4U2-niu1Kg\"><i>KPP Best</i></a> was released, with a third world tour following closely after. She remained greatly involved in other endeavors, such as fashion and art exhibitions. \n\nIn 2017 Pamyu Pamyu would perform 6 more international concerts, after which she stated in an interview with <i>Billboard Japan</i> that her style had evolved, but hoped to maintain the basic 'kawaii' style her music and style was known for. In September 2018 she released her first studio album in four years: <a href=\"https://open.spotify.com/album/3cuyBP6yrFniMuoc3gIac2?si=I5TxAxq4SKuwJkCG0W-hUA\"><i>Japamyu</i></a> \n\nPamyu Pamyu has mentioned that she's into anime and manga. She called <i>Crayon Shin-chan</i> her favorite anime and has also mentioned she's a Vocaloid fan.\n",
+          "siteUrl": "https://anilist.co/staff/118684"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 124082,
+          "name": {
+            "first": "Hideo",
+            "last": "Hariganeya",
+            "native": "針金屋英郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124082-mB52fv12523Y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124082-mB52fv12523Y.png"
+          },
+          "description": "[Twitter](https://x.com/Hariganeyan)",
+          "siteUrl": "https://anilist.co/staff/124082"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 124082,
+          "name": {
+            "first": "Hideo",
+            "last": "Hariganeya",
+            "native": "針金屋英郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124082-mB52fv12523Y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124082-mB52fv12523Y.png"
+          },
+          "description": "[Twitter](https://x.com/Hariganeyan)",
+          "siteUrl": "https://anilist.co/staff/124082"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 124202,
+          "name": {
+            "first": "You​",
+            "last": "Morioka",
+            "native": "森岡庸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/124202"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 124676,
+          "name": {
+            "first": "Satomi",
+            "last": "Hashimoto",
+            "native": "橋本里美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/124676"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 103366,
+          "name": {
+            "first": "Mitsuru",
+            "last": "Hongou",
+            "native": "本郷みつる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103366-MWuorTUIDF5k.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103366-MWuorTUIDF5k.png"
+          },
+          "description": "[Twitter](https://twitter.com/megatenhongo) | [Wiki (jp)](https://ja.wikipedia.org/wiki/本郷みつる)",
+          "siteUrl": "https://anilist.co/staff/103366"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 118513,
+          "name": {
+            "first": "Wataru",
+            "last": "Takahashi",
+            "native": "高橋渉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118513-gybp7H53Qt4x.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118513-gybp7H53Qt4x.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/高橋渉_(アニメ演出家%29)",
+          "siteUrl": "https://anilist.co/staff/118513"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 100068,
+          "name": {
+            "first": "Masaaki",
+            "last": "Yuasa",
+            "native": "湯浅政明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100068-6DCiwXuyBESm.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100068-6DCiwXuyBESm.png"
+          },
+          "description": "[Twitter](https://twitter.com/masaakiyuasa)\n\nAn acclaimed anime director known for his wild, freeform style. \n\nAfter graduating from the Kyushu Sangyo University's Faculty of Arts in 1987 he joined studio [Ajia-do](https://anilist.co/studio/30/Ajiado), initially as in-betweener but rapidly moving to key animation. \n\nIn the first part of his career Yuasa established himself as an idiosyncratic creator while working on several child friendly anime, such as [Chibi Maruko-chan](https://anilist.co/anime/951/Chibi-Marukochan/) and [Doraemon](https://anilist.co/anime/2677/Doraemon-Nobitas-Animal-Planet/), but especially on [Crayon Shin-chan](https://anilist.co/anime/966/Shin-Chan/), a project he was involved with for most of the '90s. \n\nOne of his breakthrough roles in this period was his participation on the second part of [The Hakkenden](https://anilist.co/anime/12715/The-Hakkenden-Legend-of-the-Dog-Warriors-Part-2/), working as animation director under [Shinya Oohira](https://anilist.co/staff/103893/Shinya-Oohira)'s direction. This OVA was an important outing of the '90s, uniting many veteran artists and talented newcomers. \n\nHe debuted as director on [Mind Game](https://anilist.co/anime/875/Mind-Game/), an abstract piece combining animation and live-action footage, winning the 2004 Japan Media Arts Festival (overcoming even Hayao Miyazaki's [Howl's Moving Castle](https://anilist.co/anime/431/Howls-Moving-Castle/)), and earning [Yoshiyuki Tomino](https://anilist.co/staff/97337/Yoshiyuki-Tomino)'s praise, who acted as the chief judge. After Mind Game Yuasa spent several years at [MADHOUSE](https://anilist.co/studio/11/MADHOUSE) working on various projects. In 2013, he founded [Science SARU](https://anilist.co/studio/6145/Science-SARU) alongside his close affiliate [Eun-Yeong Choi](https://anilist.co/staff/115088/EunYeong-Choi).\n\nOn March 25, 2020 it was announced Yuasa stepped down as the CEO of Science SARU. He would work there as director until the completion of his latest Movie, [Inu-Oh](https://anilist.co/anime/109928/InuOh/), and would later cease any affiliation with the studio.\n\nOn February 17, 2025 it was announced that Yuasa would launch of his own animation studio, ame pippin. Their debut project would be the film [Daisy's Life](https://anilist.co/anime/190574/Hinagiku-no-Jinsei/).",
+          "siteUrl": "https://anilist.co/staff/100068"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 138584,
+          "name": {
+            "first": "Christophe",
+            "last": "Ferreira",
+            "native": null
+          },
+          "language": "FRENCH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n138584-6Fvh6Hw7YhLw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n138584-6Fvh6Hw7YhLw.png"
+          },
+          "description": "[Twitter](https://twitter.com/lebuta) | [Tumblr](https://lebuta.tumblr.com/)",
+          "siteUrl": "https://anilist.co/staff/138584"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 105429,
+          "name": {
+            "first": "Takashi",
+            "last": "Ikehata",
+            "native": "池端隆史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105429-Tv05dsQmkJdb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105429-Tv05dsQmkJdb.png"
+          },
+          "description": "[Twitter](https://twitter.com/animeo0015) | [Website](http://yonisumu.fc2web.com/)\n\nWorked as a composite artist in the beginning of his career.",
+          "siteUrl": "https://anilist.co/staff/105429"
+        }
+      },
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 105429,
+          "name": {
+            "first": "Takashi",
+            "last": "Ikehata",
+            "native": "池端隆史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105429-Tv05dsQmkJdb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105429-Tv05dsQmkJdb.png"
+          },
+          "description": "[Twitter](https://twitter.com/animeo0015) | [Website](http://yonisumu.fc2web.com/)\n\nWorked as a composite artist in the beginning of his career.",
+          "siteUrl": "https://anilist.co/staff/105429"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 136121,
+          "name": {
+            "first": "Kinuko ",
+            "last": "Izumi",
+            "native": "和泉絹子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with [Yumeta Company](https://anilist.co/studio/96/Yumeta-Company).",
+          "siteUrl": "https://anilist.co/staff/136121"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 197608,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Suzuki",
+            "native": "鈴木大司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Hiroshi Suzuki is an animator.",
+          "siteUrl": "https://anilist.co/staff/197608"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 171912,
+          "name": {
+            "first": "Masahiko",
+            "last": "Matsuyama",
+            "native": "松山正彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/171912"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 118933,
+          "name": {
+            "first": "Michio",
+            "last": "Mihara",
+            "native": "三原三千夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/23933-x9FWh7rrvQ3J.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/23933-x9FWh7rrvQ3J.png"
+          },
+          "description": "[Twitter](https://twitter.com/3and15) | [Wiki (jp)](https://ja.wikipedia.org/wiki/三原三千夫)",
+          "siteUrl": "https://anilist.co/staff/118933"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 130912,
+          "name": {
+            "first": "Hiromi",
+            "last": "Ishigami",
+            "native": "石上ひろ美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n130912-nBceoMiYNEa0.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n130912-nBceoMiYNEa0.jpg"
+          },
+          "description": "Freelancer originating from Studio Graffiti.\n\n[Twitter](https://x.com/tatman35)",
+          "siteUrl": "https://anilist.co/staff/130912"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 159113,
+          "name": {
+            "first": "Wataru",
+            "last": "Sekimoto",
+            "native": "関本渡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/159113"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 131009,
+          "name": {
+            "first": "Maiko",
+            "last": "Kobayashi",
+            "native": "小林麻衣子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131009-NnoyNs17iyUf.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n131009-NnoyNs17iyUf.jpg"
+          },
+          "description": "[Twitter](https://x.com/onikuppa)\n\nOriginating from studio Jungle Gym.",
+          "siteUrl": "https://anilist.co/staff/131009"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 130910,
+          "name": {
+            "first": "Yuuichirou",
+            "last": "Sueyoshi",
+            "native": "末吉裕一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n130910-70yLdyhGVN6V.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n130910-70yLdyhGVN6V.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/末吉裕一郎)",
+          "siteUrl": "https://anilist.co/staff/130910"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 209424,
+          "name": {
+            "first": "Masahiro",
+            "last": "Shigemoto",
+            "native": "重本雅博"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/209424"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 144005,
+          "name": {
+            "first": "Saori",
+            "last": "Kasai",
+            "native": "葛西さおり"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/144005"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 222617,
+          "name": {
+            "first": "Masami",
+            "last": "Ootsuka",
+            "native": "大塚正実"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[WIki (jp)](https://ja.wikipedia.org/wiki/大塚正実)",
+          "siteUrl": "https://anilist.co/staff/222617"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 247,
+          "name": "Shin-Ei Animation",
+          "siteUrl": "https://anilist.co/studio/247"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 17827,
+      "rank": 16,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2014,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 17917,
+      "rank": 32,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2014,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 99001,
+          "rating": 5,
+          "media": {
+            "id": 20535,
+            "title": {
+              "native": "映画クレヨンしんちゃん　ガチンコ! 逆襲のロボとーちゃん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2450,
+            "title": {
+              "native": "映画　クレヨンしんちゃん　嵐を呼ぶモーレツ！オトナ帝国の逆襲"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 127539,
+          "rating": 1,
+          "media": {
+            "id": 20535,
+            "title": {
+              "native": "映画クレヨンしんちゃん　ガチンコ! 逆襲のロボとーちゃん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1122,
+            "title": {
+              "native": "ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 237573,
+          "rating": 1,
+          "media": {
+            "id": 20535,
+            "title": {
+              "native": "映画クレヨンしんちゃん　ガチンコ! 逆襲のロボとーちゃん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 8367,
+            "title": {
+              "native": "クレヨンしんちゃん ちょ～嵐を呼ぶ 金矛の勇者"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 11
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 14
+      },
+      {
+        "score": 40,
+        "amount": 12
+      },
+      {
+        "score": 50,
+        "amount": 65
+      },
+      {
+        "score": 60,
+        "amount": 152
+      },
+      {
+        "score": 70,
+        "amount": 347
+      },
+      {
+        "score": 80,
+        "amount": 298
+      },
+      {
+        "score": 90,
+        "amount": 232
+      },
+      {
+        "score": 100,
+        "amount": 123
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 44
+      },
+      {
+        "status": "PLANNING",
+        "amount": 372
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2111
+      },
+      {
+        "status": "DROPPED",
+        "amount": 35
+      },
+      {
+        "status": "PAUSED",
+        "amount": 21
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/20535",
+  "modNotes": null
+}

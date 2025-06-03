@@ -1,0 +1,480 @@
+{
+  "id": 114761,
+  "idMal": 40970,
+  "title": {
+    "native": "A-RA-SHI : Reborn",
+    "romaji": "A-RA-SHI : Reborn",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Eiichiro Oda's One Piece manga is collaborating with the japanese boy band Arashi on a music video to be released on January 4. Jun Matsumoto from Arashi commented that the timing of the collaboration was chosen to coincide with both the One Piece anime and Arashi's 20th anniversaries.",
+  "startDate": {
+    "year": 2020,
+    "month": 1,
+    "day": 4
+  },
+  "endDate": {
+    "year": 2020,
+    "month": 1,
+    "day": 4
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 4,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": {
+    "id": "woqtlIbFJGU",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/woqtlIbFJGU/hqdefault.jpg"
+  },
+  "updatedAt": 1748602426,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114761-C2xOMuA44zKY.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114761-C2xOMuA44zKY.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b114761-C2xOMuA44zKY.png",
+    "color": "#0dbbfe"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114761-cgU5ZD6nQ911.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "synonyms": [],
+  "averageScore": 56,
+  "meanScore": 59,
+  "popularity": 711,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 341,
+      "name": "No Dialogue",
+      "description": "This work contains no dialogue.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 158,
+      "name": "Crossover",
+      "description": "Centers around the placement of two or more otherwise discrete fictional characters, settings, or universes into the context of a single story.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 21,
+          "title": {
+            "native": "ONE PIECE"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 723,
+          "name": {
+            "first": "Nami",
+            "last": "",
+            "native": "ナミ",
+            "alternative": [
+              "Cat Burglar",
+              "O-Nami",
+              "Namizo",
+              "Namiland"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b723-vp5hPptgnNEC.png"
+          },
+          "siteUrl": "https://anilist.co/character/723"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62,
+          "name": {
+            "first": "Zoro",
+            "last": "Roronoa",
+            "native": "ロロノア・ゾロ",
+            "alternative": [
+              "Zolo",
+              "Pirate Hunter",
+              "Marimo Head",
+              "Mr. Bushido",
+              "Zorojuro",
+              "Moss Head",
+              "Lorenor Zorro"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62-S7oAeA9WInjV.png"
+          },
+          "siteUrl": "https://anilist.co/character/62"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 61,
+          "name": {
+            "first": "Robin",
+            "last": "Nico",
+            "native": "ニコロビン",
+            "alternative": [
+              "Demon Child",
+              "Miss All Sunday",
+              "Light of the Revolution",
+              "O-Robi",
+              "Robiland",
+              "Ms. Sunday",
+              "Devil Child"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b61-ywXUyyocEEqt.png"
+          },
+          "siteUrl": "https://anilist.co/character/61"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 40,
+          "name": {
+            "first": "Luffy",
+            "last": "Monkey",
+            "native": "モンキー・D・ルフィ",
+            "alternative": [
+              "Straw Hat",
+              "Mugiwara",
+              "Straw",
+              "Mugi",
+              "Lucy",
+              "Luffyland",
+              "Mugiwara no Luffy",
+              "Mugiwara-ya",
+              "Ruffy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b40-MNypXsxSRb1R.png"
+          },
+          "siteUrl": "https://anilist.co/character/40"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 309,
+          "name": {
+            "first": "Chopper",
+            "last": "Tony Tony",
+            "native": "トニートニー・チョッパー",
+            "alternative": [
+              "Tanuki",
+              "Chopperman",
+              "Cotton Candy Lover",
+              "Racoon Dog",
+              "Chobro",
+              "Chopa-emon  (チョッパえもん)",
+              "Chopperemon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309-H64NhbJ2ywIQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/309"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 64,
+          "name": {
+            "first": "Franky",
+            "last": "",
+            "native": "フランキー",
+            "alternative": [
+              "Cyborg",
+              "Bakanky",
+              "Iron Man",
+              "Fraland",
+              "Franosuke",
+              "Frankie"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n64-ChX6ZzHHjXqA.png"
+          },
+          "siteUrl": "https://anilist.co/character/64"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5627,
+          "name": {
+            "first": "Brook",
+            "last": "",
+            "native": "ブルック",
+            "alternative": [
+              "Dead Bones",
+              "Soul King",
+              "Satan-sama",
+              "Boneland",
+              "Honekichi",
+              "Bonekichi",
+              "The Starving Skeleton",
+              "Humming Brook"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5627-av8oD3zhKvDl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5627-av8oD3zhKvDl.png"
+          },
+          "siteUrl": "https://anilist.co/character/5627"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 305,
+          "name": {
+            "first": "Sanji",
+            "last": "",
+            "native": "サンジ",
+            "alternative": [
+              "Black Leg",
+              "Mr. Prince",
+              "Love Cook",
+              "Ero Cook",
+              "Curly Eyebrows",
+              "O-Soba Mask",
+              "Sangoro",
+              "Mr. Nosebleed",
+              "San-gorou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305-6lisPmHtCnLT.png"
+          },
+          "siteUrl": "https://anilist.co/character/305"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 18938,
+          "name": {
+            "first": "Jinbe",
+            "last": null,
+            "native": "ジンベエ",
+            "alternative": [
+              "Kaikyou no Jinbe",
+              "Knight of the Sea",
+              "First Son of the Sea",
+              "Jimbei",
+              "Jinbei",
+              "Jinbee",
+              "Boss Jinbe"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18938-yZANEfjsVhW4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b18938-yZANEfjsVhW4.png"
+          },
+          "siteUrl": "https://anilist.co/character/18938"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 96881,
+          "name": {
+            "first": "Eiichirou",
+            "last": "Oda",
+            "native": "尾田栄一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96881-Cyv6wFJxpDw7.png"
+          },
+          "description": "__Favorite Animal:__ Big gentle dogs\n__Favorite Mangaka:__ [Akira Toriyama](https://anilist.co/staff/96901/Akira-Toriyama)\n__Favorite Music:__ '70s soul music\n__Favorite Real-Life Pirate:__ Edward Teach (Blackbeard)\n__Favorite Video Game:__ Puyo Puyo\n__Trivia:__\n- Oda is married to Chiaki Inaba, who had played Nami during Jump Festa One Piece stage performances.\n- In a recent Japanese fan poll, Oda is currently ranked the 48th Most Popular Character in [One Piece](https://anilist.co/manga/30013/One-Piece/), despite the fact that he has never included himself in any issue of the manga (excluding SBS).\n- He voiced the character [\"Odacchi\" (オダッチ)](https://anilist.co/character/12281/Eiichirou-Oda) in a [soccer-themed short](https://anilist.co/anime/2386/ONE-PIECE-Yume-no-Soccer-Ou/) that aired with the [3rd One Piece Movie](https://anilist.co/anime/461/One-Piece-Choppers-Kingdom-on-the-Island-of-Strange-Animals/). \"Odacchi\" is Oda's nickname, and he played soccer when he was younger.\n- Oda is a fan of rapper Eminem, filmmaker Quentin Tarantino and [Tim Burton](https://anilist.co/staff/323667/Timothy-Walter-Burton).\n- Oda's 3 favorite movies are Seven Samurai, The Nightmare Before Christmas, and Young Guns.\n- According to Oda in an interview for US Shonen Jump, his favorite villain in One Piece is [Buggy the Clown](https://anilist.co/character/725/Buggy) (he joked that he literally threw him together).",
+          "siteUrl": "https://anilist.co/staff/96881"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 104829,
+          "name": {
+            "first": "Arashi",
+            "last": "",
+            "native": "嵐 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9829.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9829.jpg"
+          },
+          "description": "[Twitter](https://x.com/arashi5official)\n\nA Japanese boy band/idol group from Tokyo, Japan. Consisting of Satoshi Ohno, Sho Sakurai, Masaki Aiba, Kazunari Ninomiya, and Jun Matsumoto, the band was formed on September 15, 1999 in Honolulu, Hawaii. The band became the best-selling artist of 2019, their tenth anniversary, as they had simultaneously topped the singles, album, and music DVD charts.\n\nOn January 27, 2019, Arashi announced that group activities would be suspended as of December 31, 2020.",
+          "siteUrl": "https://anilist.co/staff/104829"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 18,
+          "name": "Toei Animation",
+          "siteUrl": "https://anilist.co/studio/18"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 21504,
+          "rating": 1,
+          "media": {
+            "id": 114761,
+            "title": {
+              "native": "A-RA-SHI : Reborn"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 8921,
+            "title": {
+              "native": "Believe"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 5
+      },
+      {
+        "score": 30,
+        "amount": 7
+      },
+      {
+        "score": 40,
+        "amount": 27
+      },
+      {
+        "score": 50,
+        "amount": 56
+      },
+      {
+        "score": 60,
+        "amount": 68
+      },
+      {
+        "score": 70,
+        "amount": 56
+      },
+      {
+        "score": 80,
+        "amount": 19
+      },
+      {
+        "score": 90,
+        "amount": 19
+      },
+      {
+        "score": 100,
+        "amount": 13
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 9
+      },
+      {
+        "status": "PLANNING",
+        "amount": 110
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 566
+      },
+      {
+        "status": "DROPPED",
+        "amount": 17
+      },
+      {
+        "status": "PAUSED",
+        "amount": 9
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/114761",
+  "modNotes": null
+}

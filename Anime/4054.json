@@ -1,0 +1,825 @@
+{
+  "id": 4054,
+  "idMal": 4054,
+  "title": {
+    "native": "ぶぶチャチャ",
+    "romaji": "BuBu ChaCha",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "Bubu Chacha is about a dog who died due to an fateful accident and was ressurected as a toy car. Together, he and Bubu learned many new things about the world and about friendship that never dies.",
+  "startDate": {
+    "year": 1999,
+    "month": 4,
+    "day": 29
+  },
+  "endDate": {
+    "year": 1999,
+    "month": 11,
+    "day": 25
+  },
+  "season": "SPRING",
+  "seasonYear": 1999,
+  "seasonInt": 992,
+  "episodes": 26,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748626687,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4054-dQfIeUrIVg7J.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4054-dQfIeUrIVg7J.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4054-dQfIeUrIVg7J.png",
+    "color": "#e4ae5d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": 60,
+  "meanScore": 67,
+  "popularity": 461,
+  "favourites": 12,
+  "tags": [
+    {
+      "id": 243,
+      "name": "Reincarnation",
+      "description": "Features a character being born again after death, typically as another person or in another world.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 10,
+      "name": "Cars",
+      "description": "Centers around the use of automotive vehicles.",
+      "category": "Theme-Other-Vehicle",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 4586,
+          "title": {
+            "native": "だいすき! ぶぶチャチャ"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 17742,
+          "name": {
+            "first": "Randy",
+            "last": "Rand",
+            "native": "ランディ・ランド",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17742-epLAiAItDRhZ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17742-epLAiAItDRhZ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17742"
+        },
+        "voiceActors": [
+          {
+            "id": 95503,
+            "name": {
+              "first": "Yuuko",
+              "last": "Sasamoto",
+              "native": "笹本優子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95503-GnKAFk8sIBPc.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95503-GnKAFk8sIBPc.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95503"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17745,
+          "name": {
+            "first": "Mary",
+            "last": null,
+            "native": "マリー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17745-ZVdydwvjjcwa.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17745-ZVdydwvjjcwa.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17745"
+        },
+        "voiceActors": [
+          {
+            "id": 96410,
+            "name": {
+              "first": "Taeko",
+              "last": "Kawata",
+              "native": "川田妙子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96410-l2Mnnebzk6M1.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96410-l2Mnnebzk6M1.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96410"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 17743,
+          "name": {
+            "first": "Chacha",
+            "last": null,
+            "native": "チャチャ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17743.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17743.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17743"
+        },
+        "voiceActors": [
+          {
+            "id": 95898,
+            "name": {
+              "first": "Choo",
+              "last": "",
+              "native": "チョー "
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95898-XHSESV65G8Jv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95898-XHSESV65G8Jv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95898"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17744,
+          "name": {
+            "first": "Catherine",
+            "last": "Rand",
+            "native": "キャサリン・ランド",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17744-KqPyyUMeYCwN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17744-KqPyyUMeYCwN.png"
+          },
+          "siteUrl": "https://anilist.co/character/17744"
+        },
+        "voiceActors": [
+          {
+            "id": 95984,
+            "name": {
+              "first": "Yumi",
+              "last": "Takada",
+              "native": "高田由美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95984-CH3CaTnNBoQv.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95984-CH3CaTnNBoQv.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95984"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music",
+        "node": {
+          "id": 196798,
+          "name": {
+            "first": "Gouji",
+            "last": "Tsuno",
+            "native": "つのごうじ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n196798-khs573YvysvN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n196798-khs573YvysvN.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%AE%E3%81%94%E3%81%86%E3%81%98)\n\nGouji Tsuno is a composer, arranger and singer.",
+          "siteUrl": "https://anilist.co/staff/196798"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 147713,
+          "name": {
+            "first": "Akira",
+            "last": "Okeya",
+            "native": "桶谷顕"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/桶谷顕)",
+          "siteUrl": "https://anilist.co/staff/147713"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 102528,
+          "name": {
+            "first": "Shinji",
+            "last": "Ochi",
+            "native": "越智信次"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with [Wit Studio](https://anilist.co/studio/858/).",
+          "siteUrl": "https://anilist.co/staff/102528"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 104826,
+          "name": {
+            "first": "Tetsurou",
+            "last": "Amino",
+            "native": "アミノテツロー"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104826-Bdux9THDLcw5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104826-Bdux9THDLcw5.png"
+          },
+          "description": "[Blog](http://aminon.asablo.jp/blog/) | [Wiki (jp)](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9F%E3%83%8E%E3%83%86%E3%83%84%E3%83%AD%E3%83%BC) | [Wiki (en)](https://en.wikipedia.org/wiki/Tetsur%C5%8D_Amino)\n\nTetsurou Amino is a Japanese director, screenwriter and storyboard artist.\n\nIn 1988, he started using his name in katakana.",
+          "siteUrl": "https://anilist.co/staff/104826"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 130395,
+          "name": {
+            "first": "Kanji",
+            "last": "Nishida",
+            "native": "西田寛治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n130395-ofSyIkwhg8sP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n130395-ofSyIkwhg8sP.png"
+          },
+          "description": "Noted for his work on [Studio Pierrot](https://anilist.co/studio/1/)'s shows in the '90s. Alike to [Yoshinori Kanada](https://anilist.co/staff/106398/) and [Mamoru Kurosawa](https://anilist.co/staff/121209/) among others, Nishida worked for Square Enix in Honolulu, Hawaii for the first decade of the 2000s and wasn't active in the anime industry.",
+          "siteUrl": "https://anilist.co/staff/130395"
+        }
+      },
+      {
+        "role": "Storyboard (eps 8, 12, 16, 21)",
+        "node": {
+          "id": 144429,
+          "name": {
+            "first": "Shigeharu",
+            "last": "Takahashi",
+            "native": "高橋滋春"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/144429"
+        }
+      },
+      {
+        "role": "Storyboard (eps 3, 7, 13, 19, 23)",
+        "node": {
+          "id": 122072,
+          "name": {
+            "first": "Mitsuo",
+            "last": "Hashimoto",
+            "native": "橋本みつお"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122072-YxNtfYs3C8l1.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n122072-YxNtfYs3C8l1.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/122072"
+        }
+      },
+      {
+        "role": "Storyboard (eps 1, 14, 25, 26)",
+        "node": {
+          "id": 104826,
+          "name": {
+            "first": "Tetsurou",
+            "last": "Amino",
+            "native": "アミノテツロー"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104826-Bdux9THDLcw5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104826-Bdux9THDLcw5.png"
+          },
+          "description": "[Blog](http://aminon.asablo.jp/blog/) | [Wiki (jp)](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9F%E3%83%8E%E3%83%86%E3%83%84%E3%83%AD%E3%83%BC) | [Wiki (en)](https://en.wikipedia.org/wiki/Tetsur%C5%8D_Amino)\n\nTetsurou Amino is a Japanese director, screenwriter and storyboard artist.\n\nIn 1988, he started using his name in katakana.",
+          "siteUrl": "https://anilist.co/staff/104826"
+        }
+      },
+      {
+        "role": "Storyboard (eps 4, 10, 17)",
+        "node": {
+          "id": 104572,
+          "name": {
+            "first": "Takuya",
+            "last": "Satou",
+            "native": "佐藤卓哉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104572-tyo8yAeTxpjE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104572-tyo8yAeTxpjE.png"
+          },
+          "description": "[Twitter](https://twitter.com/tak_tea3)\n\nAnimates on rare occasions.",
+          "siteUrl": "https://anilist.co/staff/104572"
+        }
+      },
+      {
+        "role": "Storyboard (eps 5, 9)",
+        "node": {
+          "id": 151872,
+          "name": {
+            "first": "Shougo",
+            "last": "Koumoto",
+            "native": "河本昇悟"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Originating from [Sunrise](https://anilist.co/studio/14/).",
+          "siteUrl": "https://anilist.co/staff/151872"
+        }
+      },
+      {
+        "role": "Storyboard (eps 15, 22)",
+        "node": {
+          "id": 143999,
+          "name": {
+            "first": "Kouji",
+            "last": "Ogawa",
+            "native": "小川浩司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/143999"
+        }
+      },
+      {
+        "role": "Storyboard (eps 2, 6, 11, 18, 20, 24)",
+        "node": {
+          "id": 134975,
+          "name": {
+            "first": "Kiyoshi",
+            "last": "Fukumoto",
+            "native": "福本潔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/福本潔)",
+          "siteUrl": "https://anilist.co/staff/134975"
+        }
+      },
+      {
+        "role": "Episode Director (ep 5)",
+        "node": {
+          "id": 149261,
+          "name": {
+            "first": "Yukio",
+            "last": "Okazaki",
+            "native": "岡崎幸男"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/149261"
+        }
+      },
+      {
+        "role": "Episode Director (eps 8, 12, 16, 21)",
+        "node": {
+          "id": 144429,
+          "name": {
+            "first": "Shigeharu",
+            "last": "Takahashi",
+            "native": "高橋滋春"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/144429"
+        }
+      },
+      {
+        "role": "Animation Director (eps 3, 7, 13, 18, 23)",
+        "node": {
+          "id": 212922,
+          "name": {
+            "first": "Masaru",
+            "last": "Hamada",
+            "native": "浜田勝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/212922"
+        }
+      },
+      {
+        "role": "Episode Director (eps 4, 14, 19, 24)",
+        "node": {
+          "id": 214850,
+          "name": {
+            "first": "Toshiyuki",
+            "last": "Kashiyama",
+            "native": "樫山聡之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/214850"
+        }
+      },
+      {
+        "role": "Animation Director (eps 5, 8, 12, 16, 21)",
+        "node": {
+          "id": 151678,
+          "name": {
+            "first": "Ryouko",
+            "last": "Hata",
+            "native": "畑良子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/151678"
+        }
+      },
+      {
+        "role": "Episode Director (eps 2, 6, 11, 18, 20, 26)",
+        "node": {
+          "id": 134975,
+          "name": {
+            "first": "Kiyoshi",
+            "last": "Fukumoto",
+            "native": "福本潔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/福本潔)",
+          "siteUrl": "https://anilist.co/staff/134975"
+        }
+      },
+      {
+        "role": "Animation Director (ep 17)",
+        "node": {
+          "id": 154510,
+          "name": {
+            "first": "Norio",
+            "last": "Kaneko",
+            "native": "金子紀男"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/154510"
+        }
+      },
+      {
+        "role": "Episode Director (ep 9)",
+        "node": {
+          "id": 100843,
+          "name": {
+            "first": "Hayato",
+            "last": "Date",
+            "native": "伊達勇登"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100843-UfgTQMMcv5fg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100843-UfgTQMMcv5fg.png"
+          },
+          "description": "[Twitter](https://twitter.com/7hDKNaV6VyMhi0r) \n\nAffiliated with [Studio Pierrot](https://anilist.co/studio/1/).\n",
+          "siteUrl": "https://anilist.co/staff/100843"
+        }
+      },
+      {
+        "role": "Episode Director (eps 15, 22)",
+        "node": {
+          "id": 143999,
+          "name": {
+            "first": "Kouji",
+            "last": "Ogawa",
+            "native": "小川浩司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/143999"
+        }
+      },
+      {
+        "role": "Animation Director (eps 9, 15, 22)",
+        "node": {
+          "id": 192232,
+          "name": {
+            "first": "Kazuhiko",
+            "last": "Abe",
+            "native": "阿部和彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/192232"
+        }
+      },
+      {
+        "role": "Episode Director (eps 1, 7, 13, 23)",
+        "node": {
+          "id": 122072,
+          "name": {
+            "first": "Mitsuo",
+            "last": "Hashimoto",
+            "native": "橋本みつお"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122072-YxNtfYs3C8l1.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n122072-YxNtfYs3C8l1.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/122072"
+        }
+      },
+      {
+        "role": "Animation Director (eps 4, 14, 19, 24)",
+        "node": {
+          "id": 133754,
+          "name": {
+            "first": "Ryoutarou",
+            "last": "Akao",
+            "native": "赤尾良太郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Ryoutarou Akao is the founder and representative director of Studio Gao.",
+          "siteUrl": "https://anilist.co/staff/133754"
+        }
+      },
+      {
+        "role": "Animation Director (eps 2, 10)",
+        "node": {
+          "id": 172052,
+          "name": {
+            "first": "Makoto",
+            "last": "Arisawa",
+            "native": "有沢誠"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/172052"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 39,
+          "name": "Daume",
+          "siteUrl": "https://anilist.co/studio/39"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 1658,
+      "rank": 50,
+      "type": "RATED",
+      "format": "TV",
+      "year": 1999,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 1731,
+      "rank": 59,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 1999,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 132419,
+          "rating": 1,
+          "media": {
+            "id": 4054,
+            "title": {
+              "native": "ぶぶチャチャ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 3458,
+            "title": {
+              "native": "ピポパポパトルくん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 169012,
+          "rating": 3,
+          "media": {
+            "id": 4054,
+            "title": {
+              "native": "ぶぶチャチャ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 233,
+            "title": {
+              "native": "だぁ! だぁ! だぁ!"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 16
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 8
+      },
+      {
+        "score": 60,
+        "amount": 14
+      },
+      {
+        "score": 70,
+        "amount": 22
+      },
+      {
+        "score": 80,
+        "amount": 35
+      },
+      {
+        "score": 90,
+        "amount": 17
+      },
+      {
+        "score": 100,
+        "amount": 16
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 23
+      },
+      {
+        "status": "PLANNING",
+        "amount": 168
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 214
+      },
+      {
+        "status": "DROPPED",
+        "amount": 44
+      },
+      {
+        "status": "PAUSED",
+        "amount": 12
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/4054",
+  "modNotes": null
+}

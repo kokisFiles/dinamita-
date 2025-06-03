@@ -1,0 +1,645 @@
+{
+  "id": 6482,
+  "idMal": 6482,
+  "title": {
+    "native": "シュガーバニーズ ショコラ！",
+    "romaji": "Sugar Bunnies Chocolate!",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "Sequel to Sugar Bunnies.",
+  "startDate": {
+    "year": 2008,
+    "month": 4,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 9,
+    "day": 30
+  },
+  "season": "SPRING",
+  "seasonYear": 2008,
+  "seasonInt": 82,
+  "episodes": 26,
+  "duration": 9,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748362524,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6482.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6482.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6482.jpg",
+    "color": "#e4ae5d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Sugar Bunnies 2",
+    "Sugarbunnies Sjokolade",
+    "Sukkerkaninene",
+    "Sötnoskaninerna"
+  ],
+  "averageScore": 48,
+  "meanScore": 54,
+  "popularity": 345,
+  "favourites": 3,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 142,
+      "name": "Food",
+      "description": "Centers around cooking or food appraisal.",
+      "category": "Theme-Arts",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 198,
+      "name": "Foreign",
+      "description": "Partly or completely set in a country outside the country of origin.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 126881,
+          "title": {
+            "native": "シュガーバニーズ ショコラ！OVA"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 126882,
+          "title": {
+            "native": "シュガーバニーズ 大切な友達へ…"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 21859,
+          "name": {
+            "first": "Sophia",
+            "last": "Cherbourg",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21859"
+        },
+        "voiceActors": [
+          {
+            "id": 95116,
+            "name": {
+              "first": "Kana",
+              "last": "Ueda",
+              "native": "植田佳奈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95116-NvhEn6vNMiAq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95116"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21875,
+          "name": {
+            "first": "Komugi",
+            "last": "Usa",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21875"
+        },
+        "voiceActors": [
+          {
+            "id": 95298,
+            "name": {
+              "first": "Yumi",
+              "last": "Kakazu",
+              "native": "かかずゆみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95298-wWENaJp9ERf7.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95298-wWENaJp9ERf7.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95298"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 21861,
+          "name": {
+            "first": "Shiro",
+            "last": "Usa",
+            "native": "しろうさ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21861.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21861.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21861"
+        },
+        "voiceActors": [
+          {
+            "id": 95028,
+            "name": {
+              "first": "Yui",
+              "last": "Horie",
+              "native": "堀江由衣"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95028-MHT1m3E5wGZx.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95028-MHT1m3E5wGZx.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95028"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21862,
+          "name": {
+            "first": "Buchi",
+            "last": "Usa",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21862"
+        },
+        "voiceActors": [
+          {
+            "id": 95116,
+            "name": {
+              "first": "Kana",
+              "last": "Ueda",
+              "native": "植田佳奈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95116-NvhEn6vNMiAq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95116"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 21860,
+          "name": {
+            "first": "Kuro",
+            "last": "Usa",
+            "native": "くろうさ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21860.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21860.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21860"
+        },
+        "voiceActors": [
+          {
+            "id": 95467,
+            "name": {
+              "first": "Akiko",
+              "last": "Kimura",
+              "native": "木村亜希子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/467.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/467.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95467"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21864,
+          "name": {
+            "first": "Bernard",
+            "last": "Cherbourg",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21864"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21872,
+          "name": {
+            "first": "Pierre",
+            "last": "Jeunet",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21872"
+        },
+        "voiceActors": [
+          {
+            "id": 95106,
+            "name": {
+              "first": "Yuki",
+              "last": "Masuda",
+              "native": "増田ゆき"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95106-ZQbE62vyMG9R.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95106-ZQbE62vyMG9R.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95106"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21865,
+          "name": {
+            "first": "Rosalie",
+            "last": "Cherbourg",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21865"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "ADR Director (Norwegian)",
+        "node": {
+          "id": 279404,
+          "name": {
+            "first": "Harald",
+            "last": "Lindebrekke",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "**Harald Lindebrekke** is a Norwegian audio engineer and ADR director. He currently works for NorDubb Studios AS. ",
+          "siteUrl": "https://anilist.co/staff/279404"
+        }
+      },
+      {
+        "role": "ADR Mixing Engineer (Norwegian)",
+        "node": {
+          "id": 276248,
+          "name": {
+            "first": "Vegard",
+            "last": "Dyvik",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n276248-MVWj6w9yCGmG.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n276248-MVWj6w9yCGmG.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/276248"
+        }
+      },
+      {
+        "role": "ADR Translator (Norwegian)",
+        "node": {
+          "id": 279403,
+          "name": {
+            "first": "Terje",
+            "last": "Sæther",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/279403"
+        }
+      },
+      {
+        "role": "Executive Producer",
+        "node": {
+          "id": 240109,
+          "name": {
+            "first": "Shintarou",
+            "last": "Tsuji",
+            "native": "辻信太郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n240109-PF8WUknczBAK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n240109-PF8WUknczBAK.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/辻信太郎)\n\nThe founder and representative director of [Sanrio](https://anilist.co/studio/150/).\n\n In 2020, Tsuji stepped down as president of Sanrio, and was succeeded by his grandson, Tomokuni.",
+          "siteUrl": "https://anilist.co/staff/240109"
+        }
+      },
+      {
+        "role": "Executive Producer",
+        "node": {
+          "id": 234893,
+          "name": {
+            "first": "Makoto",
+            "last": "Satou",
+            "native": "佐藤誠"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/234893"
+        }
+      },
+      {
+        "role": "ADR Translator (Swedish)",
+        "node": {
+          "id": 327016,
+          "name": {
+            "first": "Lars",
+            "last": "Öberg",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/327016"
+        }
+      },
+      {
+        "role": "Theme Song Performance (Norwegian; ED)",
+        "node": {
+          "id": 236258,
+          "name": {
+            "first": "Malin",
+            "last": "Pettersen",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n236258-1qCWjZf5e2jG.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n236258-1qCWjZf5e2jG.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/236258"
+        }
+      },
+      {
+        "role": "ADR Director (Swedish)",
+        "node": {
+          "id": 332728,
+          "name": {
+            "first": "Mattias",
+            "last": "Söderberg",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/332728"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 150,
+          "name": "Sanrio",
+          "siteUrl": "https://anilist.co/studio/150"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 406,
+          "name": "Asahi Production",
+          "siteUrl": "https://anilist.co/studio/406"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 12525,
+      "rank": 13,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2008,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12542,
+      "rank": 13,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2008,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 12572,
+      "rank": 7,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2008,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12579,
+      "rank": 6,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2008,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 9
+      },
+      {
+        "score": 30,
+        "amount": 5
+      },
+      {
+        "score": 40,
+        "amount": 3
+      },
+      {
+        "score": 50,
+        "amount": 12
+      },
+      {
+        "score": 60,
+        "amount": 10
+      },
+      {
+        "score": 70,
+        "amount": 9
+      },
+      {
+        "score": 80,
+        "amount": 6
+      },
+      {
+        "score": 90,
+        "amount": 5
+      },
+      {
+        "score": 100,
+        "amount": 5
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 17
+      },
+      {
+        "status": "PLANNING",
+        "amount": 166
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 119
+      },
+      {
+        "status": "DROPPED",
+        "amount": 34
+      },
+      {
+        "status": "PAUSED",
+        "amount": 9
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/6482",
+  "modNotes": null
+}

@@ -1,0 +1,303 @@
+{
+  "id": 8815,
+  "idMal": 8815,
+  "title": {
+    "native": "どーもくん",
+    "romaji": "Domo TV",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "A co-production between Nickelodeon and NHK featuring the stop-motion character Domo-kun, aired both in the US and Japan.",
+  "startDate": {
+    "year": 2008,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": 2008,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 26,
+  "duration": 2,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748883427,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8815.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8815.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8815.jpg",
+    "color": "#a1bb28"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Domo-kun TV"
+  ],
+  "averageScore": 53,
+  "meanScore": 56,
+  "popularity": 500,
+  "favourites": 3,
+  "tags": [
+    {
+      "id": 281,
+      "name": "Surreal Comedy",
+      "description": "Prominently features comedic moments that defy casual reasoning, resulting in illogical events.",
+      "category": "Theme-Comedy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 323,
+      "name": "Stop Motion",
+      "description": "Animation style characterized by physical objects being moved incrementally between frames to create the illusion of movement.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 83,
+      "name": "Slapstick",
+      "description": "Prominently features comedy based on deliberately clumsy actions or embarrassing events.",
+      "category": "Theme-Comedy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 7643,
+          "title": {
+            "native": "どーもくん"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 126202,
+          "title": {
+            "native": "花は咲く 東北に咲く"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 32282,
+          "name": {
+            "first": "Domo-kun",
+            "last": null,
+            "native": "どーもくん",
+            "alternative": [
+              "Domo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/32282.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/32282.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/32282"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 32885,
+          "name": {
+            "first": "Usajii",
+            "last": null,
+            "native": "うさじい",
+            "alternative": [
+              "Mr. Usaji"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/32885.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/32885.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/32885"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 111,
+          "name": "NHK",
+          "siteUrl": "https://anilist.co/studio/111"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 6179,
+          "name": "dwarf",
+          "siteUrl": "https://anilist.co/studio/6179"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 12519,
+      "rank": 7,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2008,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12540,
+      "rank": 11,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2008,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 187424,
+          "rating": 2,
+          "media": {
+            "id": 8815,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 127690,
+            "title": {
+              "native": "PUI PUI モルカー"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 15
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 11
+      },
+      {
+        "score": 40,
+        "amount": 16
+      },
+      {
+        "score": 50,
+        "amount": 35
+      },
+      {
+        "score": 60,
+        "amount": 49
+      },
+      {
+        "score": 70,
+        "amount": 31
+      },
+      {
+        "score": 80,
+        "amount": 15
+      },
+      {
+        "score": 90,
+        "amount": 12
+      },
+      {
+        "score": 100,
+        "amount": 10
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 11
+      },
+      {
+        "status": "PLANNING",
+        "amount": 137
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 306
+      },
+      {
+        "status": "DROPPED",
+        "amount": 35
+      },
+      {
+        "status": "PAUSED",
+        "amount": 11
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/8815",
+  "modNotes": null
+}

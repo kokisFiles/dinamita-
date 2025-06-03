@@ -1,0 +1,424 @@
+{
+  "id": 102607,
+  "idMal": 23043,
+  "title": {
+    "native": "リブート",
+    "romaji": "Re Boot",
+    "english": "Re Boot"
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Re Boot is a short movie involving the Vocaloids Hatsune Miku, Megurine Luka and their childhood friend Samune Zimi.",
+  "startDate": {
+    "year": 2012,
+    "month": 12,
+    "day": 13
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 12,
+    "day": 13
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 4,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748781099,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102607-5OwJNTXCihUg.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102607-5OwJNTXCihUg.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/102607-5OwJNTXCihUg.jpg",
+    "color": "#50bbe4"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Drama",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Re-Boot",
+    "ReBoot",
+    "reboot"
+  ],
+  "averageScore": 68,
+  "meanScore": 70,
+  "popularity": 1239,
+  "favourites": 15,
+  "tags": [
+    {
+      "id": 1690,
+      "name": "Vocal Synth",
+      "description": "Features one or more singers or characters that are products of a synthesize singing program. Popular examples are Vocaloids, UTAUloids, and CeVIOs.",
+      "category": "Theme-Other",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 623,
+      "name": "Astronomy",
+      "description": "Relating or centered around the study of celestial objects and phenomena, space, or the universe.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 220,
+      "name": "Ghost",
+      "description": "Prominently features a character who is a ghost.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 20,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": []
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 19274,
+          "name": {
+            "first": "Luka",
+            "last": "Megurine",
+            "native": "巡音ルカ",
+            "alternative": [
+              "Ruka Megurine"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19274-ss1vl76VcLtU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19274-ss1vl76VcLtU.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/19274"
+        },
+        "voiceActors": [
+          {
+            "id": 194185,
+            "name": {
+              "first": "Luka",
+              "last": "Megurine",
+              "native": "巡音ルカ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n194185-hzHMOsBimBUg.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n194185-hzHMOsBimBUg.png"
+            },
+            "siteUrl": "https://anilist.co/staff/194185"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7156,
+          "name": {
+            "first": "Miku",
+            "last": "Hatsune",
+            "native": "初音ミク",
+            "alternative": [
+              "CV01",
+              "Chūyīn Wèilái (初音未来)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7156-ElNl8t269bUs.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7156-ElNl8t269bUs.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7156"
+        },
+        "voiceActors": [
+          {
+            "id": 110205,
+            "name": {
+              "first": "Miku",
+              "last": "Hatsune",
+              "native": "初音ミク"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/110205-FMAuSWAQ9I2H.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/110205-FMAuSWAQ9I2H.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/110205"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 110205,
+          "name": {
+            "first": "Miku",
+            "last": "Hatsune",
+            "native": "初音ミク"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/110205-FMAuSWAQ9I2H.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/110205-FMAuSWAQ9I2H.jpg"
+          },
+          "description": "__Age:__ 16\n__Height:__ 158 cm (5'2\")\n<br>\nThe first Japanese VOCALOID to be both developed and distributed by Crypton Future Media, Inc.. She was initially released in August 2007 for the VOCALOID2 engine and was the first member of the Character Vocal Series, as well as the seventh VOCALOID overall and the second VOCALOID2 vocal released to be released for the engine. Her voice is provided by the Japanese voice actress [Saki Fujita](https://anilist.co/staff/95504/Saki-Fujita).\n\nThere have since been numerous installments, such as additional voice libraries dubbed 'Append', as well as an upgrade for the VOCALOID3 engine, which contained an English vocal release. She received a VOCALOID4 update to her Japanese and English voicebanks in August 2016, as well as a Mandarin Chinese voicebank in September 2017.\n\nMiku is considered the most popular and well known Vocaloid and the first to become a pop idol. The name of the title and the character of the software were chosen by combining Hatsu (初, first), Ne (音, sound), and Miku (未来, future) thus meaning \"the first sound from the future.\" Her name was based on her concept of that when a sound is first spoken.\n\nWhen KEI illustrated Miku, he was given a color scheme to work with (based on the YAMAHA synthesizers' signature blue-green colour) and was asked to draw Miku as an android. Crypton also provided KEI with Miku's detailed concepts, however, Crypton said it was not easy to explain what a \"Vocaloid\" was to him. KEI said he could not create an image of a \"singing computer\" at first, as he did not even know what a \"synthesizer\" was. It took him more than a month to complete the commission. ",
+          "siteUrl": "https://anilist.co/staff/110205"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 194185,
+          "name": {
+            "first": "Luka",
+            "last": "Megurine",
+            "native": "巡音ルカ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n194185-hzHMOsBimBUg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n194185-hzHMOsBimBUg.png"
+          },
+          "description": "Megurine Luka, codenamed CV03, is a Japanese VOCALOID developed and distributed by Crypton Future Media, Inc., and was initially released in January 2009 for the VOCALOID2 engine. She is the third release of Crypton's Character Vocal Series and is a Character Voice VOCALOID.\n\nHer voice is provided by the Japanese voice actress and singer, [Yuu Asakawa](https://anilist.co/staff/95119), who was recorded in Japanese and English for the voicebank.",
+          "siteUrl": "https://anilist.co/staff/194185"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 200195,
+          "rating": 1,
+          "media": {
+            "id": 102607,
+            "title": {
+              "native": "リブート"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 104095,
+            "title": {
+              "native": "絵の上手かった友達"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 359133,
+          "rating": 1,
+          "media": {
+            "id": 102607,
+            "title": {
+              "native": "リブート"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 108877,
+            "title": {
+              "native": "アッカンベーダ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 359141,
+          "rating": 1,
+          "media": {
+            "id": 102607,
+            "title": {
+              "native": "リブート"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 111942,
+            "title": {
+              "native": "1year"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 359181,
+          "rating": 1,
+          "media": {
+            "id": 102607,
+            "title": {
+              "native": "リブート"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 119940,
+            "title": {
+              "native": "きみも悪い人でよかった"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 362132,
+          "rating": 1,
+          "media": {
+            "id": 102607,
+            "title": {
+              "native": "リブート"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 149055,
+            "title": {
+              "native": "スチールワンダー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 362134,
+          "rating": 1,
+          "media": {
+            "id": 102607,
+            "title": {
+              "native": "リブート"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 110279,
+            "title": {
+              "native": "再会"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 362136,
+          "rating": 1,
+          "media": {
+            "id": 102607,
+            "title": {
+              "native": "リブート"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 104575,
+            "title": {
+              "native": "文学少年の憂鬱"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 10
+      },
+      {
+        "score": 30,
+        "amount": 32
+      },
+      {
+        "score": 40,
+        "amount": 21
+      },
+      {
+        "score": 50,
+        "amount": 84
+      },
+      {
+        "score": 60,
+        "amount": 96
+      },
+      {
+        "score": 70,
+        "amount": 125
+      },
+      {
+        "score": 80,
+        "amount": 82
+      },
+      {
+        "score": 90,
+        "amount": 105
+      },
+      {
+        "score": 100,
+        "amount": 99
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 11
+      },
+      {
+        "status": "PLANNING",
+        "amount": 193
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1016
+      },
+      {
+        "status": "DROPPED",
+        "amount": 13
+      },
+      {
+        "status": "PAUSED",
+        "amount": 6
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/102607",
+  "modNotes": null
+}

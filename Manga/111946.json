@@ -1,0 +1,289 @@
+{
+  "id": 111946,
+  "idMal": 121515,
+  "title": {
+    "native": "音楽と漫画",
+    "romaji": "Ongaku to Manga",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The story revolves around a rock band formed by a trio of punks, none of whom had prior experience with musical instruments.<br><br>\n<i>Includes one shots:</i> Yama (山), Ramen (ラーメン), Manga (漫画)",
+  "startDate": {
+    "year": 2005,
+    "month": 10,
+    "day": 17
+  },
+  "endDate": {
+    "year": 2005,
+    "month": 10,
+    "day": 17
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 16,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747566195,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111946-oP7mCG532ben.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111946-oP7mCG532ben.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b111946-oP7mCG532ben.jpg",
+    "color": "#e4d643"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Music",
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 60,
+  "popularity": 96,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 395,
+      "name": "Delinquents",
+      "description": "Features characters with a notorious image and attitude, sometimes referred to as \"yankees\".",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 110,
+      "name": "Band",
+      "description": "Main cast is a group of musicians.",
+      "category": "Theme-Arts-Music",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 111944,
+          "title": {
+            "native": "音楽"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 146035,
+          "name": {
+            "first": "Asakura",
+            "last": null,
+            "native": "朝倉",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b146035-4qpuoHmNKV96.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b146035-4qpuoHmNKV96.png"
+          },
+          "siteUrl": "https://anilist.co/character/146035"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 146036,
+          "name": {
+            "first": "Ota",
+            "last": null,
+            "native": "太田",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b146036-bzeeIKaa31ts.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b146036-bzeeIKaa31ts.png"
+          },
+          "siteUrl": "https://anilist.co/character/146036"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 146033,
+          "name": {
+            "first": "Kenji",
+            "last": null,
+            "native": "研二",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b146033-4SpqthBoZZgx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b146033-4SpqthBoZZgx.png"
+          },
+          "siteUrl": "https://anilist.co/character/146033"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 146034,
+          "name": {
+            "first": "Morita",
+            "last": null,
+            "native": "森田",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b146034-EzXmuCzdYGda.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b146034-EzXmuCzdYGda.png"
+          },
+          "siteUrl": "https://anilist.co/character/146034"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 146032,
+          "name": {
+            "first": "Oba",
+            "last": null,
+            "native": "大場",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b146032-9fkG0dmiPNiK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b146032-9fkG0dmiPNiK.png"
+          },
+          "siteUrl": "https://anilist.co/character/146032"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 146037,
+          "name": {
+            "first": "Aya",
+            "last": null,
+            "native": "亜矢",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b146037-WniNhcm80XLP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b146037-WniNhcm80XLP.png"
+          },
+          "siteUrl": "https://anilist.co/character/146037"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 146056,
+          "name": {
+            "first": "Hiroyuki",
+            "last": "Oohashi",
+            "native": "大橋裕之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146056-xyxZtwrxOZxK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146056-xyxZtwrxOZxK.png"
+          },
+          "description": "[Twitter](https://twitter.com/osirioisosiru) | [Blog](http://blog.livedoor.jp/ohashihiroyuki/)",
+          "siteUrl": "https://anilist.co/staff/146056"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 54978,
+          "rating": 0,
+          "media": {
+            "id": 111946,
+            "title": {
+              "native": "音楽と漫画"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 58393,
+            "title": {
+              "native": "坂道のアポロン"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 80,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 3
+      },
+      {
+        "status": "PLANNING",
+        "amount": 79
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 11
+      },
+      {
+        "status": "DROPPED",
+        "amount": 3
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/111946",
+  "modNotes": null
+}

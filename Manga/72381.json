@@ -1,0 +1,291 @@
+{
+  "id": 72381,
+  "idMal": 42381,
+  "title": {
+    "native": "コードギアス　双貌のオズ",
+    "romaji": "Code Geass: Soubou no Oz",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Code Geass: Oz the Reflection is a spinoff published in Hobby Japan magazine and Kadokawa Shoten's Newtype Ace magazine. It tells a story from the viewpoints of two different protagonists.<br><br>\nThe story takes place between the first and second seasons of the TV anime and is told from two perspectives. The photo story in Hobby Japan centers around Orpheus Zevon (Jivon), a young terrorist with the Knightmare Frame (KMF) Byakuen who is in pursuit of his lover's killer. The manga in Newtype Ace revolves around Oldrin Zevon, a girl in the Britannia Empire's anti-terrorist unit Glinda Knights who pilots the KMF Lancelot Grail.<br><br>\n(Source: Code Geass Wiki)",
+  "startDate": {
+    "year": 2012,
+    "month": 4,
+    "day": 10
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 7,
+    "day": 26
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 24,
+  "volumes": 5,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748874605,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx72381-3Vyt9ODPNkrJ.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx72381-3Vyt9ODPNkrJ.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx72381-3Vyt9ODPNkrJ.jpg",
+    "color": "#e4bb5d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "Code Geass: Oz the Reflection"
+  ],
+  "averageScore": 57,
+  "meanScore": 68,
+  "popularity": 527,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 17277,
+          "title": {
+            "native": "コードギアス 双貌のオズ ピクチャードマラ"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 141972,
+          "title": {
+            "native": "コードギアス 双貌のオズO2"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 1575,
+          "title": {
+            "native": "コードギアス 反逆のルルーシュ"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 68881,
+          "name": {
+            "first": "Oldrin",
+            "last": "Zevon",
+            "native": "オルドリン・ジヴォン",
+            "alternative": [
+              "Oz"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/68881.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/68881.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/68881"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 105511,
+          "name": {
+            "first": "Shigeru",
+            "last": "Morita",
+            "native": "森田繁"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105511-cyavem8uYFjA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105511-cyavem8uYFjA.png"
+          },
+          "description": "[Twitter](https://twitter.com/siglic)\n\n**Shigeru Morita** is a Japanese script/screenwriter.",
+          "siteUrl": "https://anilist.co/staff/105511"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 113693,
+          "name": {
+            "first": "Chika",
+            "last": "Toujou",
+            "native": "東條チカ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/113693-UlsA6z469Q5a.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/113693-UlsA6z469Q5a.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/yooochika)",
+          "siteUrl": "https://anilist.co/staff/113693"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 365474,
+          "rating": 1,
+          "media": {
+            "id": 72381,
+            "title": {
+              "native": "コードギアス　双貌のオズ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 47311,
+            "title": {
+              "native": "コードギアス 漆黒の蓮夜"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 365476,
+          "rating": 1,
+          "media": {
+            "id": 72381,
+            "title": {
+              "native": "コードギアス　双貌のオズ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31547,
+            "title": {
+              "native": "コード・ギアス ナイトメア・オブ・ナナリー"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 10
+      },
+      {
+        "score": 60,
+        "amount": 14
+      },
+      {
+        "score": 70,
+        "amount": 22
+      },
+      {
+        "score": 80,
+        "amount": 14
+      },
+      {
+        "score": 90,
+        "amount": 6
+      },
+      {
+        "score": 100,
+        "amount": 10
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 58
+      },
+      {
+        "status": "PLANNING",
+        "amount": 317
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 108
+      },
+      {
+        "status": "DROPPED",
+        "amount": 17
+      },
+      {
+        "status": "PAUSED",
+        "amount": 27
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/72381",
+  "modNotes": null
+}

@@ -1,0 +1,604 @@
+{
+  "id": 116784,
+  "idMal": 37267,
+  "title": {
+    "native": "ゴーちゃん。〜モコと氷の上の約束〜",
+    "romaji": "Go-chan.: Moko to Koori no Ue no Yakusoku",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2018,
+    "month": 3,
+    "day": 18
+  },
+  "endDate": {
+    "year": 2018,
+    "month": 3,
+    "day": 18
+  },
+  "season": "WINTER",
+  "seasonYear": 2018,
+  "seasonInt": 181,
+  "episodes": 1,
+  "duration": 51,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748774683,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116784-DzYsLX6CRuDt.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116784-DzYsLX6CRuDt.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b116784-DzYsLX6CRuDt.jpg",
+    "color": "#e4d65d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 49,
+  "popularity": 140,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 228,
+      "name": "Ice Skating",
+      "description": "Centers around the sport of ice skating.",
+      "category": "Theme-Game-Sport",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 116785,
+          "title": {
+            "native": "ゴーちゃん。〜モコとちんじゅうの森の仲間たち〜"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 164105,
+          "name": {
+            "first": "Moko",
+            "last": null,
+            "native": "モコ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164105-pxKaJQCCUCaN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164105-pxKaJQCCUCaN.png"
+          },
+          "siteUrl": "https://anilist.co/character/164105"
+        },
+        "voiceActors": [
+          {
+            "id": 105765,
+            "name": {
+              "first": "Ai",
+              "last": "Kayano",
+              "native": "茅野愛衣"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105765-DDK94me8axVv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105765-DDK94me8axVv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/105765"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 164117,
+          "name": {
+            "first": "Gou-chan",
+            "last": null,
+            "native": "ゴーちゃん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164117-yG0N78uM9Sri.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164117-yG0N78uM9Sri.png"
+          },
+          "siteUrl": "https://anilist.co/character/164117"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 164114,
+          "name": {
+            "first": "Moffun",
+            "last": null,
+            "native": "モッフン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164114-jCH7zD6wG4Fn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164114-jCH7zD6wG4Fn.png"
+          },
+          "siteUrl": "https://anilist.co/character/164114"
+        },
+        "voiceActors": [
+          {
+            "id": 164115,
+            "name": {
+              "first": "Koyatsu",
+              "last": "Time",
+              "native": "こやつタイム"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164115-IiEYp6hy85La.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n164115-IiEYp6hy85La.png"
+            },
+            "siteUrl": "https://anilist.co/staff/164115"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 164111,
+          "name": {
+            "first": "Kin-chan",
+            "last": null,
+            "native": "キンちゃん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164111-zdRHfGxDyYDb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164111-zdRHfGxDyYDb.png"
+          },
+          "siteUrl": "https://anilist.co/character/164111"
+        },
+        "voiceActors": [
+          {
+            "id": 95672,
+            "name": {
+              "first": "Yuuki",
+              "last": "Kaji",
+              "native": "梶裕貴"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-RN4nm0OFwCyU.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95672-RN4nm0OFwCyU.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95672"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 164112,
+          "name": {
+            "first": "Tamarin-chourou",
+            "last": null,
+            "native": "タマリン長老",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164112-GxWhz46o18Ol.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164112-GxWhz46o18Ol.png"
+          },
+          "siteUrl": "https://anilist.co/character/164112"
+        },
+        "voiceActors": [
+          {
+            "id": 95002,
+            "name": {
+              "first": "Tomokazu",
+              "last": "Sugita",
+              "native": "杉田智和"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95002-nDIvHaynicEg.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95002"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 164113,
+          "name": {
+            "first": "Chibe-san",
+            "last": null,
+            "native": "チベさん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164113-ZZ80ZKdGDx96.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164113-ZZ80ZKdGDx96.png"
+          },
+          "siteUrl": "https://anilist.co/character/164113"
+        },
+        "voiceActors": [
+          {
+            "id": 164116,
+            "name": {
+              "first": "Chie",
+              "last": "Honma",
+              "native": "本間智恵"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164116-cpGHCiVoEzIK.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n164116-cpGHCiVoEzIK.png"
+            },
+            "siteUrl": "https://anilist.co/staff/164116"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 164110,
+          "name": {
+            "first": "Kamo-san",
+            "last": null,
+            "native": "カモさん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164110-9wMfNANNIVRj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164110-9wMfNANNIVRj.png"
+          },
+          "siteUrl": "https://anilist.co/character/164110"
+        },
+        "voiceActors": [
+          {
+            "id": 105989,
+            "name": {
+              "first": "Nobunaga",
+              "last": "Shimazaki",
+              "native": "島崎信長"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105989-96etzH1dLNug.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/105989"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 164118,
+          "name": {
+            "first": "Takeda-sensei",
+            "last": null,
+            "native": "武田先生",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/164118"
+        },
+        "voiceActors": [
+          {
+            "id": 95298,
+            "name": {
+              "first": "Yumi",
+              "last": "Kakazu",
+              "native": "かかずゆみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95298-wWENaJp9ERf7.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95298-wWENaJp9ERf7.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95298"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 164119,
+          "name": {
+            "first": "Katsunuma",
+            "last": null,
+            "native": "勝沼",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/164119"
+        },
+        "voiceActors": [
+          {
+            "id": 95001,
+            "name": {
+              "first": "Tomokazu",
+              "last": "Seki",
+              "native": "関智一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95001-vm0RtZhmlzhK.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95001"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 164120,
+          "name": {
+            "first": "Odayama",
+            "last": null,
+            "native": "織田山",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/164120"
+        },
+        "voiceActors": [
+          {
+            "id": 164121,
+            "name": {
+              "first": "Nobunari",
+              "last": "Oda",
+              "native": "織田信成"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164121-Ox7odWvVkWMT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n164121-Ox7odWvVkWMT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/164121"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 111207,
+          "name": {
+            "first": "Tetsuo",
+            "last": "Yasumi",
+            "native": "やすみ哲夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/16207.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/16207.jpg"
+          },
+          "description": "He is a versatile artist and has been working as storyboarder, animation, animation checker and director.\n\nHe started his career in 1972 as illustrator for a weekly tabloid paper but quickly changed the profession and joined the animation business in 1975 where he started as inbetweener but quickly also became animator and storyboarder, all on Manga Nihon Mukashibanashi after he joined with Studio Akapan under Takahashi Ryousuke in 1978.\n\nIn 1980 he joined Shin-Ei, where his workload increased even more. 1991 was his debut as director. Today he is freelance but does work closely with Group Tac.",
+          "siteUrl": "https://anilist.co/staff/111207"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 164106,
+          "name": {
+            "first": "Minetarou",
+            "last": "Hirai",
+            "native": "平井峰太郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/164106"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 118493,
+          "name": {
+            "first": "Kimiko",
+            "last": "Ueno",
+            "native": "うえのきみこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118493-zaypQQMzsi1m.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118493-zaypQQMzsi1m.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/うえのきみこ)",
+          "siteUrl": "https://anilist.co/staff/118493"
+        }
+      },
+      {
+        "role": "Planning Assistance",
+        "node": {
+          "id": 294860,
+          "name": {
+            "first": "Kabushikigaisha Sanrio",
+            "last": "",
+            "native": "株式会社サンリオ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n294860-jAP5exS3WNo4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n294860-jAP5exS3WNo4.png"
+          },
+          "description": "[Website](https://www.sanrio.co.jp/)\n\nSanrio is a Japanese company that designs, licenses and produces products focusing on the kawaii segment of Japanese popular culture. They're best known for their original anthropomorphic character designs, including Hello Kitty and Aggretsuko.",
+          "siteUrl": "https://anilist.co/staff/294860"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 118,
+          "name": "SynergySP",
+          "siteUrl": "https://anilist.co/studio/118"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 247,
+          "name": "Shin-Ei Animation",
+          "siteUrl": "https://anilist.co/studio/247"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 55,
+          "name": "TV Asahi",
+          "siteUrl": "https://anilist.co/studio/55"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 16411,
+      "url": "https://twitter.com/gochan_v",
+      "site": "Twitter"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 18724,
+      "rank": 88,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2018,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 4
+      },
+      {
+        "score": 50,
+        "amount": 6
+      },
+      {
+        "score": 60,
+        "amount": 3
+      },
+      {
+        "score": 70,
+        "amount": 5
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 13
+      },
+      {
+        "status": "PLANNING",
+        "amount": 59
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 48
+      },
+      {
+        "status": "DROPPED",
+        "amount": 13
+      },
+      {
+        "status": "PAUSED",
+        "amount": 7
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/116784",
+  "modNotes": null
+}

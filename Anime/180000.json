@@ -1,0 +1,864 @@
+{
+  "id": 180000,
+  "idMal": 59093,
+  "title": {
+    "native": "剣勇伝説YAIBA 未公開パイロット",
+    "romaji": "Kenyuu Densetsu YAIBA (Mikoukai Pilot)",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "An unaired pilot episode of <i>Kenyuu Densetsu YAIBA</i> produced in 1991 for Sunday magazine, re-released in the 2004 DVD-BOX set.",
+  "startDate": {
+    "year": 1991,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": 1991,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 13,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748423482,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180000-ACSPMLrlb90I.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180000-ACSPMLrlb90I.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180000-ACSPMLrlb90I.png",
+    "color": "#e46b50"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180000-lAwJbpbvFoo5.jpg",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 48,
+  "popularity": 83,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2335,
+          "title": {
+            "native": "剣勇伝説YAIBA"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 31631,
+          "title": {
+            "native": "YAIBA"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 177476,
+          "title": {
+            "native": "真･侍伝 YAIBA"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24709,
+          "name": {
+            "first": "Yaiba",
+            "last": "Kurogane",
+            "native": "鉄刃",
+            "alternative": [
+              "ヤイバ",
+              "Raijin",
+              "Ryuujin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24709-ukomjh2yzd9s.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24709-ukomjh2yzd9s.png"
+          },
+          "siteUrl": "https://anilist.co/character/24709"
+        },
+        "voiceActors": [
+          {
+            "id": 95024,
+            "name": {
+              "first": "Minami",
+              "last": "Takayama",
+              "native": "高山みなみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95024-qsZgGp8VHqMP.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95024-qsZgGp8VHqMP.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95024"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 49169,
+          "name": {
+            "first": "Musashi",
+            "last": "Miyamoto",
+            "native": "宮本武蔵",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b49169-stOyICnBkmHn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b49169-stOyICnBkmHn.png"
+          },
+          "siteUrl": "https://anilist.co/character/49169"
+        },
+        "voiceActors": [
+          {
+            "id": 104920,
+            "name": {
+              "first": "Reizou",
+              "last": "Nomoto",
+              "native": "野本礼三"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9920.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9920.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/104920"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24710,
+          "name": {
+            "first": "Sayaka",
+            "last": "Mine",
+            "native": "峰さやか",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24710-b1nf5o0ErgpH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24710-b1nf5o0ErgpH.png"
+          },
+          "siteUrl": "https://anilist.co/character/24710"
+        },
+        "voiceActors": [
+          {
+            "id": 95009,
+            "name": {
+              "first": "Kotono",
+              "last": "Mitsuishi",
+              "native": "三石琴乃"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95009-d01Dg8mMwcg6.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95009-d01Dg8mMwcg6.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95009"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43973,
+          "name": {
+            "first": "Kumo Otoko",
+            "last": null,
+            "native": "クモ男",
+            "alternative": [
+              "Spider Man"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43973-0eGd0rucRb8C.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b43973-0eGd0rucRb8C.png"
+          },
+          "siteUrl": "https://anilist.co/character/43973"
+        },
+        "voiceActors": [
+          {
+            "id": 100845,
+            "name": {
+              "first": "Yukimasa",
+              "last": "Kishino",
+              "native": "岸野幸正"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100845-LOsfDDyjfnfj.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100845-LOsfDDyjfnfj.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/100845"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24712,
+          "name": {
+            "first": "Takeshi",
+            "last": "Onimaru",
+            "native": "鬼丸猛",
+            "alternative": [
+              "Onimaru (鬼丸)",
+              "Fuujin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24712-s26gR2wAfRzC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24712-s26gR2wAfRzC.png"
+          },
+          "siteUrl": "https://anilist.co/character/24712"
+        },
+        "voiceActors": [
+          {
+            "id": 95518,
+            "name": {
+              "first": "Ryou",
+              "last": "Horikawa",
+              "native": "堀川りょう"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95518-6VFuLBDEPjTa.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95518-6VFuLBDEPjTa.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95518"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 342221,
+          "name": {
+            "first": "Bat Man",
+            "last": null,
+            "native": "バットマン",
+            "alternative": [
+              "Bat Guy (バットガイ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b342221-cjw2GmquxL3O.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b342221-cjw2GmquxL3O.png"
+          },
+          "siteUrl": "https://anilist.co/character/342221"
+        },
+        "voiceActors": [
+          {
+            "id": 102664,
+            "name": {
+              "first": "Hirohiko",
+              "last": "Kakegawa",
+              "native": "掛川裕彦"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102664-hDenVljsoR8F.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102664-hDenVljsoR8F.png"
+            },
+            "siteUrl": "https://anilist.co/staff/102664"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 32368,
+          "name": {
+            "first": "Kagetora",
+            "last": null,
+            "native": "カゲトラ",
+            "alternative": [
+              "Titan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32368-NeSHTxHOM3zA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b32368-NeSHTxHOM3zA.png"
+          },
+          "siteUrl": "https://anilist.co/character/32368"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 26672,
+          "name": {
+            "first": "Gerozaimon",
+            "last": "Geroda",
+            "native": "ゲロ田ゲロ左衛門",
+            "alternative": [
+              "Frogman",
+              "Kerodain",
+              "Croafobio"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b26672-UlVX2YQ2VnlF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b26672-UlVX2YQ2VnlF.png"
+          },
+          "siteUrl": "https://anilist.co/character/26672"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 26673,
+          "name": {
+            "first": "Shounosuke",
+            "last": null,
+            "native": "庄之助",
+            "alternative": [
+              "Vultus"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b26673-ohlAq8omihB0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b26673-ohlAq8omihB0.png"
+          },
+          "siteUrl": "https://anilist.co/character/26673"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97804,
+          "name": {
+            "first": "Gosho",
+            "last": "Aoyama",
+            "native": "青山剛昌"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97804-eJvgBBsH8mdM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97804-eJvgBBsH8mdM.jpg"
+          },
+          "description": "__Favorite Food:__ Rice with curry\n\nGosho Aoyama, alternatively known by his real name Yoshimasa Aoyama, is a Japanese mangaka and animator, best known as the creator of Detective Conan (internationally known as Case Closed), Magic Kaito, and YAIBA.",
+          "siteUrl": "https://anilist.co/staff/97804"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100180,
+          "name": {
+            "first": "Kunihiko",
+            "last": "Yuyama",
+            "native": "湯山邦彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100180-iex6OEpSH5kG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100180-iex6OEpSH5kG.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/100180"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 105247,
+          "name": {
+            "first": "Norihiro",
+            "last": "Matsubara",
+            "native": "松原徳弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Long-time employee of [OLM](https://anilist.co/studio/28/)'s.",
+          "siteUrl": "https://anilist.co/staff/105247"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 111749,
+          "name": {
+            "first": "Masafumi",
+            "last": "Mima",
+            "native": "三間雅文"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111749-xD6V05u2FQig.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111749-xD6V05u2FQig.png"
+          },
+          "description": "[Twitter](https://twitter.com/Sunma47) | [Wiki (jp)](https://ja.wikipedia.org/wiki/三間雅文)\n\nOne of the industry's most prolific sound directors, having worked on more than 300 productions.\n\nAfter having graduated college, Mima joined Magic Capsule, a sound production company ran by his relative [Susumu Aketagawa](https://anilist.co/staff/120062/). In 1986, he debuted as a sound director on [MD Geist](https://anilist.co/anime/1285/MD-Geist/). He left Magic Capsule in 1996, and later joined Techno Sound. In 2004, he became the studio's representative director.",
+          "siteUrl": "https://anilist.co/staff/111749"
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 105247,
+          "name": {
+            "first": "Norihiro",
+            "last": "Matsubara",
+            "native": "松原徳弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Long-time employee of [OLM](https://anilist.co/studio/28/)'s.",
+          "siteUrl": "https://anilist.co/staff/105247"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 147253,
+          "name": {
+            "first": "Katsuyoshi",
+            "last": "Kanemura",
+            "native": "金村勝義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n147253-xVyQRLkAUHws.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n147253-xVyQRLkAUHws.jpg"
+          },
+          "description": "[Profile](https://studiojack.com/staff/kanemura/)\n\nRepresentative director of [Studio Jack](https://anilist.co/studio/829/Studio-Jack).",
+          "siteUrl": "https://anilist.co/staff/147253"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 146878,
+          "name": {
+            "first": "Sayuri",
+            "last": "Ichiishi",
+            "native": "一石小百合"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146878-UQ5a67WLAGiR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146878-UQ5a67WLAGiR.png"
+          },
+          "description": "[Twitter](https://twitter.com/sayuri_ichiishi)\n\nLong-time employee at [OLM](https://anilist.co/studio/28/), and one of the studio's most respected animators.\n\nFamous as the lead character designer for the extremely long-running [Pokémon](https://anilist.co/anime/527/) anime series. Her work faithfully resembles [Ken Sugimori](https://anilist.co/staff/107479/)'s original designs to transfer the characters into the anime. Ichiishi is also responsible for designing the majority of the original characters exclusive to the anime.",
+          "siteUrl": "https://anilist.co/staff/146878"
+        }
+      },
+      {
+        "role": "In-Betweens Check",
+        "node": {
+          "id": 193016,
+          "name": {
+            "first": "Fujika",
+            "last": "Enomoto",
+            "native": "榎本富士香"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/193016"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 155563,
+          "name": {
+            "first": "Toshi",
+            "last": "Noma",
+            "native": "野間吐史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n155563-dePAQx7dLm0s.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n155563-dePAQx7dLm0s.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/野間吐史)",
+          "siteUrl": "https://anilist.co/staff/155563"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 105247,
+          "name": {
+            "first": "Norihiro",
+            "last": "Matsubara",
+            "native": "松原徳弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Long-time employee of [OLM](https://anilist.co/studio/28/)'s.",
+          "siteUrl": "https://anilist.co/staff/105247"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 193016,
+          "name": {
+            "first": "Fujika",
+            "last": "Enomoto",
+            "native": "榎本富士香"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/193016"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 152086,
+          "name": {
+            "first": "Izumi",
+            "last": "Shimura",
+            "native": "志村泉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/152086"
+        }
+      },
+      {
+        "role": "Color Coordination",
+        "node": {
+          "id": 235386,
+          "name": {
+            "first": "Kazuko",
+            "last": "Satou",
+            "native": "佐藤和子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/235386"
+        }
+      },
+      {
+        "role": "Finishing Check",
+        "node": {
+          "id": 235386,
+          "name": {
+            "first": "Kazuko",
+            "last": "Satou",
+            "native": "佐藤和子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/235386"
+        }
+      },
+      {
+        "role": "Theme Song Lyrics (OP, ED)",
+        "node": {
+          "id": 202950,
+          "name": {
+            "first": "Mitsuko",
+            "last": "Shiramine",
+            "native": "白峰美津子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/202950"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 152867,
+          "name": {
+            "first": "Ryuuichi",
+            "last": "Katsumata",
+            "native": "勝又隆一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n152867-orMywr5vviSu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n152867-orMywr5vviSu.png"
+          },
+          "description": "Katsumata Ryuuichi is a music composer and arranger. He was also keyboarder in the band Kome Kome Club (米米CLUB).",
+          "siteUrl": "https://anilist.co/staff/152867"
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (OP, ED)",
+        "node": {
+          "id": 152867,
+          "name": {
+            "first": "Ryuuichi",
+            "last": "Katsumata",
+            "native": "勝又隆一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n152867-orMywr5vviSu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n152867-orMywr5vviSu.png"
+          },
+          "description": "Katsumata Ryuuichi is a music composer and arranger. He was also keyboarder in the band Kome Kome Club (米米CLUB).",
+          "siteUrl": "https://anilist.co/staff/152867"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 140347,
+          "name": {
+            "first": "Shuuichi",
+            "last": "Kakesu ",
+            "native": "掛須秀一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n140347-T4QitRYM0f0z.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n140347-T4QitRYM0f0z.png"
+          },
+          "description": "Shuuichi Kakesu was born 1957 in Chiba Prefecture, Japan. He is a graduate student of Japan Academy of Moving Images and the founder and current representative director of editing studio Jay Film.\n\nHe started working at editing studio Okayasu Promotion, where he studied under Okayasu Hajime himself. In 1990 he founded Jay Film; or reorganised Kakesu Henshuushitsu, an editing studio he founded previously, into Jay Film. He was the first to introduce the non-linear editing system in Japan in 1994.\n\nKakesu won an Association of Media in Digital Award in 1996.",
+          "siteUrl": "https://anilist.co/staff/140347"
+        }
+      },
+      {
+        "role": "Theme Song Composition (OP, ED)",
+        "node": {
+          "id": 152867,
+          "name": {
+            "first": "Ryuuichi",
+            "last": "Katsumata",
+            "native": "勝又隆一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n152867-orMywr5vviSu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n152867-orMywr5vviSu.png"
+          },
+          "description": "Katsumata Ryuuichi is a music composer and arranger. He was also keyboarder in the band Kome Kome Club (米米CLUB).",
+          "siteUrl": "https://anilist.co/staff/152867"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP, ED)",
+        "node": {
+          "id": 285959,
+          "name": {
+            "first": "MAX",
+            "last": null,
+            "native": "マックス"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n285959-knuBmvjzPB1Y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n285959-knuBmvjzPB1Y.png"
+          },
+          "description": "MAX is a Japanese female vocal group. The name is an acronym for \"musical active experience\".",
+          "siteUrl": "https://anilist.co/staff/285959"
+        }
+      },
+      {
+        "role": "Sound Effects",
+        "node": {
+          "id": 144121,
+          "name": {
+            "first": "Yasuyuki",
+            "last": "Konno",
+            "native": "今野康之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144121-zcfgALVdhkut.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n144121-zcfgALVdhkut.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/144121"
+        }
+      },
+      {
+        "role": "Mixer",
+        "node": {
+          "id": 209398,
+          "name": {
+            "first": "Kimitaka",
+            "last": "Kawasaki",
+            "native": "川崎公敬"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/209398"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 6161,
+          "name": "Shogakukan",
+          "siteUrl": "https://anilist.co/studio/6161"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 67,
+          "name": "OB Planning",
+          "siteUrl": "https://anilist.co/studio/67"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 413,
+          "name": "Pastel",
+          "siteUrl": "https://anilist.co/studio/413"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 4
+      },
+      {
+        "score": 70,
+        "amount": 2
+      },
+      {
+        "score": 80,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 3
+      },
+      {
+        "status": "PLANNING",
+        "amount": 39
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 34
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/180000",
+  "modNotes": null
+}

@@ -1,0 +1,551 @@
+{
+  "id": 38482,
+  "idMal": 8482,
+  "title": {
+    "native": "ヒャッコ",
+    "romaji": "Hyakko",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "RELEASING",
+  "description": "Hyakko is a slapstick comedy which follows the lives of four high school girls as they get into various hijinx. ",
+  "startDate": {
+    "year": 2006,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 43,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747917706,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38482-sZHNjHhFwVDY.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38482-sZHNjHhFwVDY.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx38482-sZHNjHhFwVDY.jpg",
+    "color": "#e48635"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/38482-kuxbzqU0v9oP.jpg",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": 60,
+  "meanScore": 71,
+  "popularity": 432,
+  "favourites": 3,
+  "tags": [
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 86,
+      "name": "Primarily Female Cast",
+      "description": "Main cast is mostly composed of female characters.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 6958,
+          "title": {
+            "native": "ヒャッコOVA"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 4550,
+          "title": {
+            "native": "ヒャッコ"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 15590,
+          "name": {
+            "first": "Tatsuki",
+            "last": "Iizuka",
+            "native": "伊井塚 龍姫",
+            "alternative": [
+              "Ta-chan",
+              "Takki"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15590.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15590.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15590"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 14799,
+          "name": {
+            "first": "Torako",
+            "last": "Kageyama",
+            "native": "上下山 虎子",
+            "alternative": [
+              "Tora-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/14799.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14799.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14799"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 14720,
+          "name": {
+            "first": "Ayumi",
+            "last": "Nonomura",
+            "native": "能々村 歩巳",
+            "alternative": [
+              "Ayu",
+              "Yumippe"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/14720.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14720.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14720"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 14800,
+          "name": {
+            "first": "Suzume",
+            "last": "Saotome",
+            "native": "早乙女雀",
+            "alternative": [
+              "Suzu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/14800.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14800.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14800"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15595,
+          "name": {
+            "first": "Kyouichirou",
+            "last": "Amagasa",
+            "native": "傘 叶一狼",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15595.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15595.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15595"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15591,
+          "name": {
+            "first": "Nene",
+            "last": "Andou",
+            "native": "杏藤 子々",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15591.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15591.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15591"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17468,
+          "name": {
+            "first": "Kitsune",
+            "last": "Kageyama",
+            "native": "上下山 狐",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17468.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17468.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17468"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17687,
+          "name": {
+            "first": "Oniyuri",
+            "last": "Kageyama",
+            "native": "上下山鬼百合",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17687.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17687.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17687"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 14801,
+          "name": {
+            "first": "Touma",
+            "last": "Kazamatsuri",
+            "native": "風茉莉冬馬",
+            "alternative": [
+              "Matsuri-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14801-wyL4hsBN7191.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14801-wyL4hsBN7191.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14801"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15592,
+          "name": {
+            "first": "Koma",
+            "last": "Kobayashi",
+            "native": "古囃 独楽",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15592.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15592.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15592"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 18409,
+          "name": {
+            "first": "Yanagi",
+            "last": "Kyougoku",
+            "native": "京極 柳",
+            "alternative": [
+              "Photoshop"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/18409.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/18409.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/18409"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 14803,
+          "name": {
+            "first": "Ushio",
+            "last": "Makunouchi",
+            "native": "幕之内 潮",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/14803.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14803.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14803"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17939,
+          "name": {
+            "first": "Hitsugi",
+            "last": "Nikaidou",
+            "native": "弐街道 火継",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17939.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17939.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17939"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15594,
+          "name": {
+            "first": "Minato",
+            "last": "Ooba",
+            "native": "大場 湊兎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15594.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15594.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15594"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 18410,
+          "name": {
+            "first": "Shishimaru",
+            "last": "Sengoku",
+            "native": "京極 柳",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/18410.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/18410.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/18410"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 14802,
+          "name": {
+            "first": "Chie",
+            "last": "Suzugasaki",
+            "native": "涼ヶ崎 知恵",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/14802.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14802.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14802"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15593,
+          "name": {
+            "first": "Inori",
+            "last": "Tsubomiya",
+            "native": "蕾家 祈",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15593.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15593.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15593"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 18411,
+          "name": {
+            "first": "Yuki",
+            "last": "Yagi",
+            "native": "八木 ユキ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/18411.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/18411.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/18411"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 99525,
+          "name": {
+            "first": "Haruaki",
+            "last": "Katou",
+            "native": "ハルアキ カトウ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99525-zbm50376CfVR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99525-zbm50376CfVR.jpg"
+          },
+          "description": "__Place of Birth:__ Aichi Prefecture, Japan\n\n[Fan Website](http://mlrc.web.fc2.com/) | [Twitter](https://twitter.com/sanadaeleven) | [Pixiv](https://www.pixiv.net/member.php?id=52072)",
+          "siteUrl": "https://anilist.co/staff/99525"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 4
+      },
+      {
+        "score": 50,
+        "amount": 3
+      },
+      {
+        "score": 60,
+        "amount": 15
+      },
+      {
+        "score": 70,
+        "amount": 21
+      },
+      {
+        "score": 80,
+        "amount": 20
+      },
+      {
+        "score": 90,
+        "amount": 12
+      },
+      {
+        "score": 100,
+        "amount": 8
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 96
+      },
+      {
+        "status": "PLANNING",
+        "amount": 220
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 25
+      },
+      {
+        "status": "DROPPED",
+        "amount": 32
+      },
+      {
+        "status": "PAUSED",
+        "amount": 59
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/38482",
+  "modNotes": null
+}

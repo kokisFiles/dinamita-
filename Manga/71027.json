@@ -1,0 +1,424 @@
+{
+  "id": 71027,
+  "idMal": 41027,
+  "title": {
+    "native": "ソードアート・オンライン SS キャリバーSS版",
+    "romaji": "Sword Art Online SS: Caliber SS-han",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "NOVEL",
+  "status": "FINISHED",
+  "description": "The alternative version to the Caliber SS in volume 8, where they decided not to save Freya in the dungeon. The SS in the title means &#23569;&#12375;&#22833;&#25943; (sukoshi shippai) which translates to Slight Failure.",
+  "startDate": {
+    "year": 2011,
+    "month": 5,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2011,
+    "month": 5,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 3,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748617177,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx71027-2amcO67Zis4R.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx71027-2amcO67Zis4R.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx71027-2amcO67Zis4R.jpg",
+    "color": "#aee4f1"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Sword Art Online SS: Caliber Sukoshi Shippai han",
+    "Sword Art Online SS: Caliber Failure Side",
+    "ソードアート・オンライン SS キャリバーSS（すこししっぱい）版"
+  ],
+  "averageScore": 63,
+  "meanScore": 71,
+  "popularity": 707,
+  "favourites": 9,
+  "tags": [
+    {
+      "id": 112,
+      "name": "Virtual World",
+      "description": "Partly or completely set in the world inside a video game.",
+      "category": "Setting-Universe",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 604,
+      "name": "Dungeon",
+      "description": "Prominently features a dungeon environment.",
+      "category": "Setting-Scene",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 244,
+      "name": "Isekai",
+      "description": "Features characters being transported into an alternate world setting and having to adapt to their new surroundings.",
+      "category": "Theme-Fantasy",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 51479,
+          "title": {
+            "native": "ソードアート・オンライン"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 92130,
+          "title": {
+            "native": "ソードアート・オンライン キャリバー"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 20594,
+          "title": {
+            "native": "ソードアート・オンライン II"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 36765,
+          "name": {
+            "first": "Kazuto",
+            "last": "Kirigaya",
+            "native": "桐ヶ谷和人",
+            "alternative": [
+              "Kirito (キリト)",
+              "The Black Swordsman",
+              "Papa (パパ)",
+              "Daddy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36765-BnLbXg0Tzzh9.png"
+          },
+          "siteUrl": "https://anilist.co/character/36765"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 36831,
+          "name": {
+            "first": "Suguha",
+            "last": "Kirigaya",
+            "native": "桐ヶ谷直葉",
+            "alternative": [
+              "Leafa",
+              "Sugu",
+              "Lyfa"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36831-JfyFU7gPPVmr.png"
+          },
+          "siteUrl": "https://anilist.co/character/36831"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36828,
+          "name": {
+            "first": "Asuna",
+            "last": "Yuuki",
+            "native": "結城明日奈",
+            "alternative": [
+              "アスナ",
+              "Berserker Healer (バーサクヒーラー)",
+              "Lightning Flash (閃光)",
+              "Mama (ママ)",
+              "Erika (エリカ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36828-j5ib0adAzGMx.png"
+          },
+          "siteUrl": "https://anilist.co/character/36828"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 43892,
+          "name": {
+            "first": "Yui",
+            "last": null,
+            "native": "ユイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b43892-Ig6ZMdUbQDO2.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43892"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 55147,
+          "name": {
+            "first": "Shino",
+            "last": "Asada",
+            "native": "朝田詩乃",
+            "alternative": [
+              "Sinon (シノン)",
+              "Hecate"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b55147-1fCU8lONEuZQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/55147"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 37681,
+          "name": {
+            "first": "Keiko",
+            "last": "Ayano",
+            "native": "綾野珪子",
+            "alternative": [
+              "Silica (シリカ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b37681-GDtOAN6NiJ9M.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b37681-GDtOAN6NiJ9M.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/37681"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43906,
+          "name": {
+            "first": "Rika",
+            "last": "Shinozaki",
+            "native": "篠崎里香",
+            "alternative": [
+              "Lis (リズ)",
+              "Lisbeth (リズベット)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43906-15QwTm2ZFDse.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b43906-15QwTm2ZFDse.png"
+          },
+          "siteUrl": "https://anilist.co/character/43906"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36830,
+          "name": {
+            "first": "Ryoutarou",
+            "last": "Tsuboi",
+            "native": "壷井遼太郎",
+            "alternative": [
+              "Klein"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36830-41SWIDvhqOo4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36830-41SWIDvhqOo4.png"
+          },
+          "siteUrl": "https://anilist.co/character/36830"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 106466,
+          "name": {
+            "first": "Reki",
+            "last": "Kawahara",
+            "native": "川原礫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106466-JH3Egpsfnb2j.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106466-JH3Egpsfnb2j.jpg"
+          },
+          "description": "__Current Residence:__ Nerima, Tokyo, Japan\n__Doujin Circle:__ WordGear\n\nKawahara Reki graduated from the Aoyama Gakuin University.\n\n[Official Website](http://wordgear.sblo.jp/) | [Twitter](https://twitter.com/kunori)",
+          "siteUrl": "https://anilist.co/staff/106466"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 112785,
+          "name": {
+            "first": "BUNBUN",
+            "last": "",
+            "native": "BUNBUN"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112785-97lm3CiufwUY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112785-97lm3CiufwUY.jpg"
+          },
+          "description": "[Official website](http://bunplusbun.sakura.ne.jp/) | [Twitter](https://twitter.com/bunbun922) | [Blog (abec)](http://abec.blog93.fc2.com/) | [Instagram](https://www.instagram.com/bunbun_plus) | [Pixiv](https://www.pixiv.net/users/8142) | [Youtube](https://www.youtube.com/c/BUNBUN922)\n\nHis older sister is [Yukiko Horiguchi](https://anilist.co/staff/102497/Yukiko-Horiguchi).\n\nMajor illustration works: \n- Kare Kanojo and Summon Magic (カレとカノジョと召喚魔法)\n- Mary Rose (薔薇のマリア) - We AI (僕らA.I) \n- Shinkyoku Soukai Polyphonica Black Series (神曲奏界ポリフォニカ ブラック・シリーズ) \n- Girl with Radio Jamming (ラジオガール・ウィズ・ジャミング) \n- Zoahanta (ゾアハンター) (with Junichi Osako, author of Polyphonica Black) \n- Asuka \n- Garouden Mahjon - (アスカ -麻雀餓狼伝-) \n- All Death War (全死大戦)  \n\nOther works: \n- Illustrations BUNBUN (illustration collection) \n- Rondo of Swords (DS game - character designs) \n- Shinkyoku Soukai Polyphonia THE BLACK (PC Game / Kinetic Novel - character designs).",
+          "siteUrl": "https://anilist.co/staff/112785"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 6
+      },
+      {
+        "score": 50,
+        "amount": 9
+      },
+      {
+        "score": 60,
+        "amount": 21
+      },
+      {
+        "score": 70,
+        "amount": 38
+      },
+      {
+        "score": 80,
+        "amount": 17
+      },
+      {
+        "score": 90,
+        "amount": 23
+      },
+      {
+        "score": 100,
+        "amount": 19
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 29
+      },
+      {
+        "status": "PLANNING",
+        "amount": 394
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 261
+      },
+      {
+        "status": "DROPPED",
+        "amount": 16
+      },
+      {
+        "status": "PAUSED",
+        "amount": 7
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/71027",
+  "modNotes": null
+}

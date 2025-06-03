@@ -1,0 +1,440 @@
+{
+  "id": 52520,
+  "idMal": 22520,
+  "title": {
+    "native": "ドラベース ドラえもん超野球（スーパーベースボール）外伝",
+    "romaji": "Dorabase: Doraemon Super Baseball Gaiden",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "This comic follows the story of other robotic cats that form a baseball club. Though it shows Doraemon in the beginning, it doesn't focus on Doraemon itself (because Doraemon must go back to the past to help Nobita). The group is led by Kuroemon, a cat that looks like Doraemon, only it has ears and black fur. It features a lot of imaginary ability, and in the baseball game, is allowed to use up to 3 gadgets.<br><br>\n(Source: Wikipedia)",
+  "startDate": {
+    "year": 2000,
+    "month": 9,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2011,
+    "month": 10,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 134,
+  "volumes": 23,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748875247,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx52520-5dooAMzx2MGC.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52520-5dooAMzx2MGC.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx52520-5dooAMzx2MGC.jpg",
+    "color": "#1aa1d6"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Sports"
+  ],
+  "synonyms": [
+    "Dorabase: Doraemon Chouyakyuu Gaiden"
+  ],
+  "averageScore": 71,
+  "meanScore": 77,
+  "popularity": 459,
+  "favourites": 17,
+  "tags": [
+    {
+      "id": 149,
+      "name": "Baseball",
+      "description": "Centers around the sport of baseball.",
+      "category": "Theme-Game-Sport",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 31032,
+          "title": {
+            "native": "ドラえもん"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 40677,
+          "name": {
+            "first": "Hyoroemon",
+            "last": null,
+            "native": "ヒョロえもん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/40677.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/40677.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/40677"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 183890,
+          "name": {
+            "first": "Kuroemon",
+            "last": null,
+            "native": "クロえもん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183890-HErcKlNcU8Ai.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b183890-HErcKlNcU8Ai.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/183890"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 261609,
+          "name": {
+            "first": "Shiroemon",
+            "last": "",
+            "native": "シロえもん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b261609-PTiXokZbRZhh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b261609-PTiXokZbRZhh.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/261609"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 145464,
+          "name": {
+            "first": "Shintarou",
+            "last": "Mugiwara",
+            "native": "萩原伸一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/145464"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97610,
+          "name": {
+            "first": "F. Fujio",
+            "last": "Fujiko",
+            "native": "藤子・F・不二雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2610.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2610.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/藤子・F・不二雄)\n\nHiroshi Fujimoto, better known as F. Fujio Fujiko, was part of the former manga-writing duo [Fujio Fujiko](https://anilist.co/staff/219230/).",
+          "siteUrl": "https://anilist.co/staff/97610"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 25998,
+      "rank": 33,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2000,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 26160,
+      "rank": 95,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 2000,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 113980,
+          "rating": 1,
+          "media": {
+            "id": 52520,
+            "title": {
+              "native": "ドラベース ドラえもん超野球（スーパーベースボール）外伝"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 47005,
+            "title": {
+              "native": "コロッケ!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 113985,
+          "rating": 1,
+          "media": {
+            "id": 52520,
+            "title": {
+              "native": "ドラベース ドラえもん超野球（スーパーベースボール）外伝"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 95442,
+            "title": {
+              "native": "ミニ四ファイターV"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115185,
+          "rating": 1,
+          "media": {
+            "id": 52520,
+            "title": {
+              "native": "ドラベース ドラえもん超野球（スーパーベースボール）外伝"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 142636,
+            "title": {
+              "native": "ミラクルボール"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 121117,
+          "rating": 3,
+          "media": {
+            "id": 52520,
+            "title": {
+              "native": "ドラベース ドラえもん超野球（スーパーベースボール）外伝"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 92309,
+            "title": {
+              "native": "ザ☆ドラえもんズスペシャル"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 121121,
+          "rating": 1,
+          "media": {
+            "id": 52520,
+            "title": {
+              "native": "ドラベース ドラえもん超野球（スーパーベースボール）外伝"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 92308,
+            "title": {
+              "native": "ドラえもんゲームコミック ザ☆ドラえもんズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 302425,
+          "rating": 3,
+          "media": {
+            "id": 52520,
+            "title": {
+              "native": "ドラベース ドラえもん超野球（スーパーベースボール）外伝"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 40978,
+            "title": {
+              "native": "メジャー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 302427,
+          "rating": 3,
+          "media": {
+            "id": 52520,
+            "title": {
+              "native": "ドラベース ドラえもん超野球（スーパーベースボール）外伝"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 40884,
+            "title": {
+              "native": "ダイヤのエース"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 302429,
+          "rating": 2,
+          "media": {
+            "id": 52520,
+            "title": {
+              "native": "ドラベース ドラえもん超野球（スーパーベースボール）外伝"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30994,
+            "title": {
+              "native": "おおきく振りかぶって"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 4
+      },
+      {
+        "score": 50,
+        "amount": 17
+      },
+      {
+        "score": 60,
+        "amount": 20
+      },
+      {
+        "score": 70,
+        "amount": 40
+      },
+      {
+        "score": 80,
+        "amount": 44
+      },
+      {
+        "score": 90,
+        "amount": 66
+      },
+      {
+        "score": 100,
+        "amount": 31
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 43
+      },
+      {
+        "status": "PLANNING",
+        "amount": 99
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 274
+      },
+      {
+        "status": "DROPPED",
+        "amount": 21
+      },
+      {
+        "status": "PAUSED",
+        "amount": 22
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/52520",
+  "modNotes": null
+}

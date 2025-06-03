@@ -1,0 +1,477 @@
+{
+  "id": 8921,
+  "idMal": 8921,
+  "title": {
+    "native": "Believe",
+    "romaji": "Believe",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "An animation made to promote the movie Yatterman, which stars Arashi member Sakurai Sho and uses \"Believe\" as its theme song. <br><br>\nEach member of Arashi is animated and transforms into a character from the Yatterman series, fighting the bad guys and saving the day.<br>",
+  "startDate": {
+    "year": 2008,
+    "month": 4,
+    "day": 3
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 4,
+    "day": 3
+  },
+  "season": "SPRING",
+  "seasonYear": 2008,
+  "seasonInt": 82,
+  "episodes": 1,
+  "duration": 11,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748456453,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8921.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8921.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8921.jpg",
+    "color": "#ffae1a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action"
+  ],
+  "synonyms": [
+    "Arashi - Believe",
+    "Animation Film of Believe"
+  ],
+  "averageScore": 45,
+  "meanScore": 46,
+  "popularity": 306,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 505,
+      "name": "Advertisement",
+      "description": "Produced in order to promote the products of a certain company.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 6693,
+          "title": {
+            "native": "劇場版 ヤッターマン 新ヤッターメカ大集合！ オモチャの国で大決断だコロン！"
+          }
+        },
+        "relationType": "OTHER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 33661,
+          "name": {
+            "first": "Yattodetaman",
+            "last": null,
+            "native": null,
+            "alternative": [
+              "Ninomiya Kazunari"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/33661.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/33661.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/33661"
+        },
+        "voiceActors": [
+          {
+            "id": 96010,
+            "name": {
+              "first": "Kazunari",
+              "last": "Ninomiya",
+              "native": "二宮和也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1010.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1010.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96010"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 33662,
+          "name": {
+            "first": "Time Bokan",
+            "last": null,
+            "native": null,
+            "alternative": [
+              "Ohno Satoshi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/33662.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/33662.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/33662"
+        },
+        "voiceActors": [
+          {
+            "id": 105806,
+            "name": {
+              "first": "Satoshi",
+              "last": "Oono",
+              "native": "大野智"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10806.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/10806.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/105806"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 33660,
+          "name": {
+            "first": "Yatterman",
+            "last": null,
+            "native": null,
+            "alternative": [
+              "Sakurai Sho"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/33660.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/33660.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/33660"
+        },
+        "voiceActors": [
+          {
+            "id": 106309,
+            "name": {
+              "first": "Shou",
+              "last": "Sakurai",
+              "native": "櫻井翔"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11309.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11309.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/106309"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 33663,
+          "name": {
+            "first": "Zenderman",
+            "last": null,
+            "native": null,
+            "alternative": [
+              "Matsumoto Jun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/33663.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/33663.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/33663"
+        },
+        "voiceActors": [
+          {
+            "id": 112509,
+            "name": {
+              "first": "Jun",
+              "last": "Matsumoto",
+              "native": "松本潤"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112509-Vtcq03xlAR3a.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112509-Vtcq03xlAR3a.png"
+            },
+            "siteUrl": "https://anilist.co/staff/112509"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 33664,
+          "name": {
+            "first": "Otasukeman",
+            "last": null,
+            "native": null,
+            "alternative": [
+              "Aiba Masaki"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/33664.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/33664.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/33664"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 8265,
+          "name": {
+            "first": "Boyacky",
+            "last": null,
+            "native": "ボヤッキー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/8265.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8265.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8265"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 8264,
+          "name": {
+            "first": "Tonzler",
+            "last": null,
+            "native": "トンズラー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/8264.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8264.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8264"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 8263,
+          "name": {
+            "first": "Doronjo",
+            "last": null,
+            "native": "ドロンジョ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/8263.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8263.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8263"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music",
+        "node": {
+          "id": 104829,
+          "name": {
+            "first": "Arashi",
+            "last": "",
+            "native": "嵐 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9829.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9829.jpg"
+          },
+          "description": "[Twitter](https://x.com/arashi5official)\n\nA Japanese boy band/idol group from Tokyo, Japan. Consisting of Satoshi Ohno, Sho Sakurai, Masaki Aiba, Kazunari Ninomiya, and Jun Matsumoto, the band was formed on September 15, 1999 in Honolulu, Hawaii. The band became the best-selling artist of 2019, their tenth anniversary, as they had simultaneously topped the singles, album, and music DVD charts.\n\nOn January 27, 2019, Arashi announced that group activities would be suspended as of December 31, 2020.",
+          "siteUrl": "https://anilist.co/staff/104829"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 106309,
+          "name": {
+            "first": "Shou",
+            "last": "Sakurai",
+            "native": "櫻井翔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11309.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11309.jpg"
+          },
+          "description": "**Height:** 171 cm",
+          "siteUrl": "https://anilist.co/staff/106309"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 103,
+          "name": "Tatsunoko Production",
+          "siteUrl": "https://anilist.co/studio/103"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22201,
+      "rank": 15,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2008,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 22219,
+      "rank": 15,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2008,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 21503,
+          "rating": 1,
+          "media": {
+            "id": 8921,
+            "title": {
+              "native": "Believe"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 114761,
+            "title": {
+              "native": "A-RA-SHI : Reborn"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 20,
+        "amount": 20
+      },
+      {
+        "score": 30,
+        "amount": 10
+      },
+      {
+        "score": 40,
+        "amount": 28
+      },
+      {
+        "score": 50,
+        "amount": 41
+      },
+      {
+        "score": 60,
+        "amount": 26
+      },
+      {
+        "score": 70,
+        "amount": 17
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 3
+      },
+      {
+        "status": "PLANNING",
+        "amount": 74
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 209
+      },
+      {
+        "status": "DROPPED",
+        "amount": 17
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/8921",
+  "modNotes": null
+}

@@ -1,0 +1,272 @@
+{
+  "id": 75017,
+  "idMal": 45017,
+  "title": {
+    "native": "GOSICK W",
+    "romaji": "GOSICK W",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Side story from Gosick.",
+  "startDate": {
+    "year": 2011,
+    "month": 2,
+    "day": 26
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 2,
+    "day": 25
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 12,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748349254,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45017.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45017.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/45017.jpg",
+    "color": "#e4c9a1"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/75017-CLZ3OdMNIXRX.jpg",
+  "genres": [
+    "Mystery"
+  ],
+  "synonyms": [
+    "Gosick W",
+    "Gosick Double"
+  ],
+  "averageScore": null,
+  "meanScore": 71,
+  "popularity": 282,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 31313,
+          "title": {
+            "native": "GOSICK -ゴシック-"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 20170,
+          "name": {
+            "first": "Victorique",
+            "last": "de Blois",
+            "native": "ヴィクトリカ・ド・ブロワ",
+            "alternative": [
+              "The Golden Fairy",
+              "Gray Wolf",
+              "Monstre Charmant"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b20170-EjvXXZpGG98Y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b20170-EjvXXZpGG98Y.png"
+          },
+          "siteUrl": "https://anilist.co/character/20170"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 22724,
+          "name": {
+            "first": "Kazuya",
+            "last": "Kujou",
+            "native": "久城一弥",
+            "alternative": [
+              "The Black Reaper",
+              "Baby Squirrel"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22724-riCUdD0suWu3.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b22724-riCUdD0suWu3.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/22724"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 97932,
+          "name": {
+            "first": "Kazuki",
+            "last": "Sakuraba",
+            "native": "桜庭一樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2932.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2932.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/sakurabakazuki)",
+          "siteUrl": "https://anilist.co/staff/97932"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 103690,
+          "name": {
+            "first": "Takeshi",
+            "last": "Moriki",
+            "native": "守姫武士"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103690-FjhBTRFa0h5g.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103690-FjhBTRFa0h5g.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/takeshimoriki)",
+          "siteUrl": "https://anilist.co/staff/103690"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 178656,
+          "rating": 2,
+          "media": {
+            "id": 75017,
+            "title": {
+              "native": "GOSICK W"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30021,
+            "title": {
+              "native": "DEATH NOTE"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 178658,
+          "rating": 1,
+          "media": {
+            "id": 75017,
+            "title": {
+              "native": "GOSICK W"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 56182,
+            "title": {
+              "native": "ブラッド・シー"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 2
+      },
+      {
+        "score": 60,
+        "amount": 10
+      },
+      {
+        "score": 70,
+        "amount": 13
+      },
+      {
+        "score": 80,
+        "amount": 4
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 5
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 38
+      },
+      {
+        "status": "PLANNING",
+        "amount": 165
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 53
+      },
+      {
+        "status": "DROPPED",
+        "amount": 10
+      },
+      {
+        "status": "PAUSED",
+        "amount": 16
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/75017",
+  "modNotes": null
+}

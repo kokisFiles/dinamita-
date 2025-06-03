@@ -1,0 +1,515 @@
+{
+  "id": 60541,
+  "idMal": 30541,
+  "title": {
+    "native": "BLEACH4コマ コマブリ",
+    "romaji": "Bleach 4-koma: Komaburi",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": " ",
+  "startDate": {
+    "year": 2011,
+    "month": 8,
+    "day": 11
+  },
+  "endDate": {
+    "year": 2013,
+    "month": 3,
+    "day": 4
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 18,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748090948,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx60541-O7qEYdHiDQb1.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx60541-O7qEYdHiDQb1.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx60541-O7qEYdHiDQb1.jpg",
+    "color": "#f1a135"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Koma-Bleach"
+  ],
+  "averageScore": 54,
+  "meanScore": 61,
+  "popularity": 400,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 30012,
+          "title": {
+            "native": "BLEACH"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5,
+          "name": {
+            "first": "Ichigo",
+            "last": "Kurosaki",
+            "native": "黒崎一護",
+            "alternative": [
+              "Ichi-nii",
+              "Substitute Soul Reaper",
+              "Itsygo",
+              "Ryoka Boy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5-a7bkJgjhhigE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5-a7bkJgjhhigE.png"
+          },
+          "siteUrl": "https://anilist.co/character/5"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 245,
+          "name": {
+            "first": "Toushirou",
+            "last": "Hitsugaya",
+            "native": "日番谷冬獅郎",
+            "alternative": [
+              "Shiro-chan (シロちゃん)",
+              "Lil' Shiro"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245-buy3Cfn6IFSB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245-buy3Cfn6IFSB.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/245"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 6,
+          "name": {
+            "first": "Rukia",
+            "last": "Kuchiki",
+            "native": "朽木ルキア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6-25WoBeWMZXBc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b6-25WoBeWMZXBc.png"
+          },
+          "siteUrl": "https://anilist.co/character/6"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7,
+          "name": {
+            "first": "Orihime",
+            "last": "Inoue",
+            "native": "井上織姫",
+            "alternative": [
+              "Hime"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7-JdR4betokDjR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7-JdR4betokDjR.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 906,
+          "name": {
+            "first": "Renji",
+            "last": "Abarai",
+            "native": "阿散井恋次",
+            "alternative": [
+              "Freeloader",
+              "Red Pineapple"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b906-ImRjx5HFM8X6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b906-ImRjx5HFM8X6.png"
+          },
+          "siteUrl": "https://anilist.co/character/906"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 907,
+          "name": {
+            "first": "Byakuya",
+            "last": "Kuchiki",
+            "native": "朽木白哉",
+            "alternative": [
+              "Bya-kun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b907-kgnDKeMtEN5y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b907-kgnDKeMtEN5y.png"
+          },
+          "siteUrl": "https://anilist.co/character/907"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9062,
+          "name": {
+            "first": "Don",
+            "last": "Kan'onji",
+            "native": "ドン観音寺",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9062.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9062.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9062"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1151,
+          "name": {
+            "first": "Ikkaku",
+            "last": "Madarame",
+            "native": "斑目一角",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1151-izBrO6oWMvDv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1151-izBrO6oWMvDv.png"
+          },
+          "siteUrl": "https://anilist.co/character/1151"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 904,
+          "name": {
+            "first": "Rangiku",
+            "last": "Matsumoto",
+            "native": "松本乱菊",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b904-bdfi2xqHicCj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b904-bdfi2xqHicCj.png"
+          },
+          "siteUrl": "https://anilist.co/character/904"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1089,
+          "name": {
+            "first": "Kon",
+            "last": null,
+            "native": "コン",
+            "alternative": [
+              "Kaizou Konpaku",
+              "King of New York",
+              "Kon-sama"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/1089.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1089.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1089"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 909,
+          "name": {
+            "first": "Kenpachi",
+            "last": "Zaraki",
+            "native": "更木剣八",
+            "alternative": [
+              "Ken-chan",
+              "Kenny",
+              "Demon of Battle"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b909-slhoFBon7oiH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b909-slhoFBon7oiH.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/909"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 96880,
+          "name": {
+            "first": "Tite",
+            "last": "Kubo",
+            "native": "久保帯人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96880-wrPEaY74sV5V.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96880-wrPEaY74sV5V.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/tite_official) | [Official Fanclub](klub-outside.com/s/n136/)",
+          "siteUrl": "https://anilist.co/staff/96880"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 110279,
+          "name": {
+            "first": "Atsushi",
+            "last": "Ooba",
+            "native": "おおばあつし"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/15279.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/15279.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/110279"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 220208,
+          "rating": 5,
+          "media": {
+            "id": 60541,
+            "title": {
+              "native": "BLEACH4コマ コマブリ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30012,
+            "title": {
+              "native": "BLEACH"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 231830,
+          "rating": 2,
+          "media": {
+            "id": 60541,
+            "title": {
+              "native": "BLEACH4コマ コマブリ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 53208,
+            "title": {
+              "native": "ロック・リーの青春フルパワー忍伝"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 231832,
+          "rating": 2,
+          "media": {
+            "id": 60541,
+            "title": {
+              "native": "BLEACH4コマ コマブリ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 133876,
+            "title": {
+              "native": "ブラッククローバーSD アスタくん魔法帝への道"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 231834,
+          "rating": 3,
+          "media": {
+            "id": 60541,
+            "title": {
+              "native": "BLEACH4コマ コマブリ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 53446,
+            "title": {
+              "native": "ドラゴンボール エスディー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 231836,
+          "rating": 3,
+          "media": {
+            "id": 60541,
+            "title": {
+              "native": "BLEACH4コマ コマブリ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 82353,
+            "title": {
+              "native": "チョッパーマン"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 5
+      },
+      {
+        "score": 40,
+        "amount": 6
+      },
+      {
+        "score": 50,
+        "amount": 18
+      },
+      {
+        "score": 60,
+        "amount": 17
+      },
+      {
+        "score": 70,
+        "amount": 18
+      },
+      {
+        "score": 80,
+        "amount": 6
+      },
+      {
+        "score": 90,
+        "amount": 11
+      },
+      {
+        "score": 100,
+        "amount": 7
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 24
+      },
+      {
+        "status": "PLANNING",
+        "amount": 194
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 160
+      },
+      {
+        "status": "DROPPED",
+        "amount": 9
+      },
+      {
+        "status": "PAUSED",
+        "amount": 13
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/60541",
+  "modNotes": null
+}

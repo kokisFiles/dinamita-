@@ -1,0 +1,187 @@
+{
+  "id": 75919,
+  "idMal": 45919,
+  "title": {
+    "native": "石田とあさくら",
+    "romaji": "Ishida to Asakura",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Surreal gag manga first shown on pixiv and later serialized in Young King.",
+  "startDate": {
+    "year": 2011,
+    "month": 10,
+    "day": 19
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 5,
+    "day": 19
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1746887548,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45919.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45919.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/45919.jpg",
+    "color": "#f1bb43"
+  },
+  "bannerImage": null,
+  "genres": [],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 96,
+  "popularity": 56,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 16317,
+          "title": {
+            "native": "石田とあさくら"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 74673,
+          "name": {
+            "first": "",
+            "last": "Asakura",
+            "native": "あさくら",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74673.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74673.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74673"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 74671,
+          "name": {
+            "first": "",
+            "last": "Ishida",
+            "native": "石田",
+            "alternative": [
+              "Alice"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74671.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74671.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74671"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 114819,
+          "name": {
+            "first": "",
+            "last": "Masao",
+            "native": "マサオ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/114819"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 3
+      },
+      {
+        "status": "PLANNING",
+        "amount": 45
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 6
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/75919",
+  "modNotes": null
+}

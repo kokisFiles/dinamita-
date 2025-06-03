@@ -1,0 +1,586 @@
+{
+  "id": 150848,
+  "idMal": 52042,
+  "title": {
+    "native": "HELLO CALLiNG",
+    "romaji": "HELLO CALLiNG",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Music video for the song HELLO CALLiNG by IDOLISH7. The second in a series of lyric videos released during each group anniversary, celebrating the franchise's 7th anniversary.",
+  "startDate": {
+    "year": 2022,
+    "month": 6,
+    "day": 8
+  },
+  "endDate": {
+    "year": 2022,
+    "month": 6,
+    "day": 8
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 2,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": "#IDOLiSH7記念日2022",
+  "trailer": {
+    "id": "kNgb67orxog",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/kNgb67orxog/hqdefault.jpg"
+  },
+  "updatedAt": 1748771263,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b150848-Vd6348VYOCzG.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b150848-Vd6348VYOCzG.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b150848-Vd6348VYOCzG.jpg",
+    "color": "#fec950"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/150848-5HJ4umjdkL0n.jpg",
+  "genres": [],
+  "synonyms": [
+    "IDOLISH7 - HELLO CALLiNG"
+  ],
+  "averageScore": 59,
+  "meanScore": 67,
+  "popularity": 275,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 115,
+      "name": "Idol",
+      "description": "Centers around the life and activities of an idol.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 88,
+      "name": "Primarily Male Cast",
+      "description": "Main cast is mostly composed of male characters.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 127721,
+          "title": {
+            "native": "アイドリッシュセブン Third BEAT!"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126246,
+          "name": {
+            "first": "Riku",
+            "last": "Nanase",
+            "native": "七瀬陸",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126246-RvhjVQ6iNoBC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126246-RvhjVQ6iNoBC.png"
+          },
+          "siteUrl": "https://anilist.co/character/126246"
+        },
+        "voiceActors": [
+          {
+            "id": 95819,
+            "name": {
+              "first": "Kenshou",
+              "last": "Ono",
+              "native": "小野賢章"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95819-O4fosAY0a1Ml.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95819-O4fosAY0a1Ml.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95819"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126095,
+          "name": {
+            "first": "Tamaki",
+            "last": "Yotsuba",
+            "native": "四葉環",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126095-OsZ0wjvuSrH0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126095-OsZ0wjvuSrH0.png"
+          },
+          "siteUrl": "https://anilist.co/character/126095"
+        },
+        "voiceActors": [
+          {
+            "id": 95857,
+            "name": {
+              "first": "KENN",
+              "last": "",
+              "native": "KENN"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95857-oHOhHwEDyAlL.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95857-oHOhHwEDyAlL.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95857"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126247,
+          "name": {
+            "first": "Sougo",
+            "last": "Osaka",
+            "native": "逢坂壮五",
+            "alternative": [
+              "Sogo Osaka"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126247-56SleuAnKbVJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126247-56SleuAnKbVJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/126247"
+        },
+        "voiceActors": [
+          {
+            "id": 95991,
+            "name": {
+              "first": "Atsushi",
+              "last": "Abe",
+              "native": "阿部敦"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95991-4u24gUBgqeTA.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95991-4u24gUBgqeTA.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95991"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126159,
+          "name": {
+            "first": "Iori",
+            "last": "Izumi",
+            "native": "和泉一織",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126159-JP89KQJs2J5o.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126159-JP89KQJs2J5o.png"
+          },
+          "siteUrl": "https://anilist.co/character/126159"
+        },
+        "voiceActors": [
+          {
+            "id": 107017,
+            "name": {
+              "first": "Toshiki",
+              "last": "Masuda",
+              "native": "増田俊樹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107017-Jv96B9DBJOy9.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107017-Jv96B9DBJOy9.png"
+            },
+            "siteUrl": "https://anilist.co/staff/107017"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 125894,
+          "name": {
+            "first": "Mitsuki",
+            "last": "Izumi",
+            "native": "和泉三月",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125894-dQdnk7GPrHri.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b125894-dQdnk7GPrHri.png"
+          },
+          "siteUrl": "https://anilist.co/character/125894"
+        },
+        "voiceActors": [
+          {
+            "id": 95556,
+            "name": {
+              "first": "Tsubasa",
+              "last": "Yonaga",
+              "native": "代永翼"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95556-Tgolp8AzO49n.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95556-Tgolp8AzO49n.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95556"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126248,
+          "name": {
+            "first": "Nagi",
+            "last": "Rokuya",
+            "native": "六弥ナギ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126248-TQtG2jVaVvdb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126248-TQtG2jVaVvdb.png"
+          },
+          "siteUrl": "https://anilist.co/character/126248"
+        },
+        "voiceActors": [
+          {
+            "id": 102695,
+            "name": {
+              "first": "Takuya",
+              "last": "Eguchi",
+              "native": "江口拓也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102695-dGzsJkor0KMj.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102695-dGzsJkor0KMj.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102695"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126106,
+          "name": {
+            "first": "Yamato",
+            "last": "Nikaidou",
+            "native": "二階堂大和",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126106-V5VZFlzoBaiY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126106-V5VZFlzoBaiY.png"
+          },
+          "siteUrl": "https://anilist.co/character/126106"
+        },
+        "voiceActors": [
+          {
+            "id": 114641,
+            "name": {
+              "first": "Yuusuke",
+              "last": "Shirai",
+              "native": "白井悠介"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114641-sFxCz9z3KQC9.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114641-sFxCz9z3KQC9.png"
+            },
+            "siteUrl": "https://anilist.co/staff/114641"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music Arrangement",
+        "node": {
+          "id": 212178,
+          "name": {
+            "first": "Tomohiro",
+            "last": "Nakatsuchi",
+            "native": "中土智博"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n212178-QnJT6LhwA3ym.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n212178-QnJT6LhwA3ym.jpg"
+          },
+          "description": "Japanese music producer, composer, and arranger.\n\nHe was the sound producer for the group Remark Spirits until the end of 2009, under the name ナカツチトモヒロ.\n\nLoves: Cats, Saunas and Ramen\nTools of the Trade: Pro Tools and Ableton Live",
+          "siteUrl": "https://anilist.co/staff/212178"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 177303,
+          "name": {
+            "first": "Erica",
+            "last": "Masaki",
+            "native": "真崎エリカ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n177303-YyGpijO4uPIh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n177303-YyGpijO4uPIh.png"
+          },
+          "description": "[Website](https://www.lantis.jp/artist/masakierica/) | [Twitter](https://twitter.com/masakierica)\n\nErika Masaki is a Japanese singer and lyricist affiliated with the Lantis label.",
+          "siteUrl": "https://anilist.co/staff/177303"
+        }
+      },
+      {
+        "role": "Music Performance",
+        "node": {
+          "id": 288269,
+          "name": {
+            "first": "IDOLiSH7",
+            "last": "",
+            "native": "IDOLiSH7"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n288269-hXOCkHq7KwHP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n288269-hXOCkHq7KwHP.png"
+          },
+          "description": "A collaboration for the *IDOLiSH7* franchise, containing 7 voice actors - [Atsushi Abe](https://anilist.co/staff/95991), [Takuya Eguchi](https://anilist.co/staff/102695), [KENN](https://anilist.co/staff/95857), [Toshiki Masuda](https://anilist.co/staff/107017), [Kenshou Ono](https://anilist.co/staff/95819), [Yuusuke Shirai](https://anilist.co/staff/114641), and [Tsubasa Yonaga](https://anilist.co/staff/95556).",
+          "siteUrl": "https://anilist.co/staff/288269"
+        }
+      },
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 288270,
+          "name": {
+            "first": "Takuto",
+            "last": "Mori",
+            "native": "森拓人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n288270-6INaZ8m4fQkX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n288270-6INaZ8m4fQkX.png"
+          },
+          "description": "[Twitter](Takt_musicman) | [Spotify](https://open.spotify.com/user/hetok4qb5vdjnjt2z20xtgqqh)\n\nA Japanese multi-instrumental artist.",
+          "siteUrl": "https://anilist.co/staff/288270"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6687,
+          "name": "FLAT STUDIO",
+          "siteUrl": "https://anilist.co/studio/6687"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 59632,
+      "url": "https://www.youtube.com/watch?v=kNgb67orxog",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 149102,
+          "rating": 3,
+          "media": {
+            "id": 150848,
+            "title": {
+              "native": "HELLO CALLiNG"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 148816,
+            "title": {
+              "native": "Period Color"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 149104,
+          "rating": 3,
+          "media": {
+            "id": 150848,
+            "title": {
+              "native": "HELLO CALLiNG"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 103948,
+            "title": {
+              "native": "WiSH VOYAGE"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 149106,
+          "rating": 2,
+          "media": {
+            "id": 150848,
+            "title": {
+              "native": "HELLO CALLiNG"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 125274,
+            "title": {
+              "native": "DiSCOVER THE FUTURE"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 374634,
+          "rating": 1,
+          "media": {
+            "id": 150848,
+            "title": {
+              "native": "HELLO CALLiNG"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 155841,
+            "title": {
+              "native": "Hidden Region"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 374654,
+          "rating": 3,
+          "media": {
+            "id": 150848,
+            "title": {
+              "native": "HELLO CALLiNG"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 186586,
+            "title": {
+              "native": null
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 7
+      },
+      {
+        "score": 40,
+        "amount": 9
+      },
+      {
+        "score": 50,
+        "amount": 14
+      },
+      {
+        "score": 60,
+        "amount": 23
+      },
+      {
+        "score": 70,
+        "amount": 22
+      },
+      {
+        "score": 80,
+        "amount": 12
+      },
+      {
+        "score": 90,
+        "amount": 18
+      },
+      {
+        "score": 100,
+        "amount": 15
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 8
+      },
+      {
+        "status": "PLANNING",
+        "amount": 38
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 216
+      },
+      {
+        "status": "DROPPED",
+        "amount": 9
+      },
+      {
+        "status": "PAUSED",
+        "amount": 4
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/150848",
+  "modNotes": null
+}

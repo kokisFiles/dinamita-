@@ -1,0 +1,764 @@
+{
+  "id": 10177,
+  "idMal": 10177,
+  "title": {
+    "native": "DD北斗之拳",
+    "romaji": "DD Hokuto no Ken",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "Super-deformed version of Buronson, Hara Tetsuo's post-apocalyptic fighting manga.<br><br>\nNote: The \"DD\" stands for \"Design Deformation,\" since the characters are only \"two-heads-tall.\"",
+  "startDate": {
+    "year": 2011,
+    "month": 1,
+    "day": 12
+  },
+  "endDate": {
+    "year": 2011,
+    "month": 4,
+    "day": 6
+  },
+  "season": "WINTER",
+  "seasonYear": 2011,
+  "seasonInt": 111,
+  "episodes": 12,
+  "duration": 3,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748822482,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10177.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10177.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/10177.jpg",
+    "color": "#e49343"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": 51,
+  "meanScore": 53,
+  "popularity": 946,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 55880,
+          "title": {
+            "native": "DD北斗の拳"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 967,
+          "title": {
+            "native": "北斗の拳"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 17705,
+          "title": {
+            "native": "DD北斗の拳"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8738,
+          "name": {
+            "first": "Raoh",
+            "last": null,
+            "native": "ラオウ",
+            "alternative": [
+              "Ken-Oh"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8738-0Ig51QXoeLBW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8738-0Ig51QXoeLBW.png"
+          },
+          "siteUrl": "https://anilist.co/character/8738"
+        },
+        "voiceActors": [
+          {
+            "id": 101165,
+            "name": {
+              "first": "Taketora",
+              "last": "",
+              "native": "武虎 "
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101165-2t7jn6YxCnma.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101165-2t7jn6YxCnma.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101165"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 16553,
+          "name": {
+            "first": "Juuza",
+            "last": null,
+            "native": "雲のジュウザ",
+            "alternative": [
+              "Juuza of the Clouds"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16553-2uXzAW4dVBVz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16553-2uXzAW4dVBVz.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16553"
+        },
+        "voiceActors": [
+          {
+            "id": 286105,
+            "name": {
+              "first": "Kazufumi",
+              "last": "Koga",
+              "native": "古賀一史"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n286105-39MqOYBnXVGY.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n286105-39MqOYBnXVGY.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/286105"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9130,
+          "name": {
+            "first": "Toki",
+            "last": null,
+            "native": "トキ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9130-JKivXRAnd81j.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9130-JKivXRAnd81j.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9130"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 12574,
+          "name": {
+            "first": "Fudou",
+            "last": null,
+            "native": "山のフドウ",
+            "alternative": [
+              "Fudou of the Mountains",
+              "Yama no Fudou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12574-nxC2vEfVjQOA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12574-nxC2vEfVjQOA.png"
+          },
+          "siteUrl": "https://anilist.co/character/12574"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 32642,
+          "name": {
+            "first": "Amiba",
+            "last": null,
+            "native": "アミバ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32642-Cr7qv74dZLG0.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b32642-Cr7qv74dZLG0.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/32642"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17985,
+          "name": {
+            "first": "Ryuuken",
+            "last": null,
+            "native": "リュウケン",
+            "alternative": [
+              "Ramon Kasumi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17985-ojQ0e1f9Iv2D.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17985-ojQ0e1f9Iv2D.png"
+          },
+          "siteUrl": "https://anilist.co/character/17985"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17903,
+          "name": {
+            "first": "Hyui",
+            "last": null,
+            "native": "風のヒューイ",
+            "alternative": [
+              "Hyui of the Wind",
+              "Huey"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17903-laZbpwadPKt5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17903-laZbpwadPKt5.png"
+          },
+          "siteUrl": "https://anilist.co/character/17903"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17902,
+          "name": {
+            "first": "Rihaku",
+            "last": null,
+            "native": "海のリハク",
+            "alternative": [
+              "Rihaku of the Ocean"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17902.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17902.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17902"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17904,
+          "name": {
+            "first": "Shuren",
+            "last": null,
+            "native": "炎のシュレン",
+            "alternative": [
+              "Shuren of the Flames"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17904-fl59FlSRoapG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17904-fl59FlSRoapG.png"
+          },
+          "siteUrl": "https://anilist.co/character/17904"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 16085,
+          "name": {
+            "first": "Shuu",
+            "last": null,
+            "native": "シュウ",
+            "alternative": [
+              "Shew",
+              "Syuh"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16085-j2mxzum9GOuX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16085-j2mxzum9GOuX.png"
+          },
+          "siteUrl": "https://anilist.co/character/16085"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17796,
+          "name": {
+            "first": "Jagi",
+            "last": null,
+            "native": "ジャギ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17796-RELumAchpr8p.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17796-RELumAchpr8p.png"
+          },
+          "siteUrl": "https://anilist.co/character/17796"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17982,
+          "name": {
+            "first": "Yuria",
+            "last": null,
+            "native": "ユリア",
+            "alternative": [
+              "Julia"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17982-kmFvPSR6VbD7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17982-kmFvPSR6VbD7.png"
+          },
+          "siteUrl": "https://anilist.co/character/17982"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6198,
+          "name": {
+            "first": "Souther",
+            "last": null,
+            "native": "サウザー",
+            "alternative": [
+              "Thouther",
+              "Thouzer"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6198-k81djOcCXaSI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b6198-k81djOcCXaSI.png"
+          },
+          "siteUrl": "https://anilist.co/character/6198"
+        },
+        "voiceActors": [
+          {
+            "id": 286105,
+            "name": {
+              "first": "Kazufumi",
+              "last": "Koga",
+              "native": "古賀一史"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n286105-39MqOYBnXVGY.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n286105-39MqOYBnXVGY.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/286105"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2511,
+          "name": {
+            "first": "Kenshiro",
+            "last": null,
+            "native": "ケンシロウ",
+            "alternative": [
+              "Ken"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2511-I5ff3jioC5Ze.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2511-I5ff3jioC5Ze.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2511"
+        },
+        "voiceActors": [
+          {
+            "id": 286105,
+            "name": {
+              "first": "Kazufumi",
+              "last": "Koga",
+              "native": "古賀一史"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n286105-39MqOYBnXVGY.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n286105-39MqOYBnXVGY.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/286105"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17907,
+          "name": {
+            "first": "Bat",
+            "last": null,
+            "native": "バット",
+            "alternative": [
+              "Bart"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17907.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17907.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17907"
+        },
+        "voiceActors": [
+          {
+            "id": 286106,
+            "name": {
+              "first": "Saya",
+              "last": "Takamura",
+              "native": "篁莎耶"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/286106"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 286101,
+          "name": {
+            "first": "Muscle",
+            "last": "Chiba",
+            "native": "マッスル千葉",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/286101"
+        },
+        "voiceActors": [
+          {
+            "id": 95255,
+            "name": {
+              "first": "Shigeru",
+              "last": "Chiba",
+              "native": "千葉繁"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95255-VOwYfPMZuZGQ.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95255-VOwYfPMZuZGQ.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95255"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 286102,
+          "name": {
+            "first": "Uighur",
+            "last": "Kokuchou",
+            "native": "ウイグル獄長",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/286102"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 286103,
+          "name": {
+            "first": "Shin",
+            "last": null,
+            "native": "シン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b286103-EkIGMhqFGtIJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b286103-EkIGMhqFGtIJ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/286103"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 286104,
+          "name": {
+            "first": "Lin",
+            "last": null,
+            "native": "リン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b286104-1PgzZ48AAzaB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b286104-1PgzZ48AAzaB.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/286104"
+        },
+        "voiceActors": [
+          {
+            "id": 286107,
+            "name": {
+              "first": "Aya",
+              "last": "Furuichi",
+              "native": "古都絢"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n286107-G1qqVExYLkGk.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n286107-G1qqVExYLkGk.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/286107"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97848,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Okamura",
+            "native": "岡村善行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2848.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2848.jpg"
+          },
+          "description": "__Yoshiyuki Okamura__, also known as **Buronson** (武論尊) or **Sho Fumimura** (史村 翔, Fumimura Shō), is a Japanese manga writer most known by his famous work Hokuto no Ken, known in English as Fist of the North Star.  He graduated from the Japanese Air Force Training School in 1967 and served as an Air Force radar mechanic. In 1969 he discharged from the Japanese Navy and was soon hired by Hiroshi Motomiya as a manga assistant. He started his manga writing career when he wrote the script of Pink Punch: Miyabi in 1972, drawn by Goro Sakai. In 1975 Buronson wrote his first big hit The Doberman Detective, drawn by Shinji Hiramatsu. The famous Hokuto no Ken made its debute as Buronson's greatest hit in 1983, drawn by Tetsuo Hara. In 1989 his story Ourou was released as a manga serialized in Animal Magazine, drawn by Kentarou Miura, and in 1990 a sequel entitled Ourou Den was released by the same manga artist. Buronson also collaborated with the manga artist Ryoichi Ikegami in many works as Strain (manga) , Human (manga) and the famous Sanctuary (manga). Among his other major works are The Phantom Gang, with art by Kaoru Shintani.    Buronson was mainly influenced by movies such as Bruce Lee's, and Mad Max.    The nickname Buronson is a tribute to the American actor Charles Bronson, whose way of growing the mustache was imitated by Yoshiyuki Okamura too.  ",
+          "siteUrl": "https://anilist.co/staff/97848"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97847,
+          "name": {
+            "first": "Tetsuo",
+            "last": "Hara",
+            "native": "原哲夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97847-KZy48rh54mjN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97847-KZy48rh54mjN.png"
+          },
+          "description": "\n[Official website](http://www.haratetsuo.com/)\n\nAfter graduating from Hongou Senior High School, he became an assistant to comic book artist Yoshihiro Takahashi. Hara's own professional comic artist career began in 1982 with the publication of his first work, \"Mad Fighter\". He won the first prize of the 33rd \"Fresh Jump\" award for \"Super Challenger\". His Weekly Shonen Jump debut was \"Iron Don Quixote\". His distinctive art in \"Hokuto no Ken\" began in 1983; it was his first major work.",
+          "siteUrl": "https://anilist.co/staff/97847"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 117491,
+          "name": {
+            "first": "Shinya",
+            "last": "Umemura",
+            "native": "梅村真也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117491-A6FNZD8rdcli.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n117491-A6FNZD8rdcli.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/writer_u)",
+          "siteUrl": "https://anilist.co/staff/117491"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 12791,
+      "rank": 16,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2011,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12817,
+      "rank": 15,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2011,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 12834,
+      "rank": 2,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2011,
+      "season": "WINTER",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12836,
+      "rank": 2,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2011,
+      "season": "WINTER",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 30
+      },
+      {
+        "score": 20,
+        "amount": 20
+      },
+      {
+        "score": 30,
+        "amount": 23
+      },
+      {
+        "score": 40,
+        "amount": 26
+      },
+      {
+        "score": 50,
+        "amount": 69
+      },
+      {
+        "score": 60,
+        "amount": 78
+      },
+      {
+        "score": 70,
+        "amount": 59
+      },
+      {
+        "score": 80,
+        "amount": 29
+      },
+      {
+        "score": 90,
+        "amount": 11
+      },
+      {
+        "score": 100,
+        "amount": 11
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 34
+      },
+      {
+        "status": "PLANNING",
+        "amount": 333
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 490
+      },
+      {
+        "status": "DROPPED",
+        "amount": 60
+      },
+      {
+        "status": "PAUSED",
+        "amount": 29
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/10177",
+  "modNotes": null
+}

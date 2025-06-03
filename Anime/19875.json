@@ -1,0 +1,512 @@
+{
+  "id": 19875,
+  "idMal": 19875,
+  "title": {
+    "native": "ロボタン",
+    "romaji": "Robotan",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "Household robot Robotan, made by a nerdy school boy named Kan-chan, lives with an everyday Japanese family as a domestic servant and friend to the children.",
+  "startDate": {
+    "year": 1966,
+    "month": 10,
+    "day": 4
+  },
+  "endDate": {
+    "year": 1968,
+    "month": 9,
+    "day": 27
+  },
+  "season": "FALL",
+  "seasonYear": 1966,
+  "seasonInt": 664,
+  "episodes": 104,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748012983,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19875-KF1UlethkqV5.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19875-KF1UlethkqV5.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx19875-KF1UlethkqV5.png",
+    "color": "#e45d1a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 54,
+  "popularity": 243,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 710,
+      "name": "Achromatic",
+      "description": "Contains animation that is primarily done in black and white.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 5223,
+          "title": {
+            "native": "ロボタン"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 240637,
+          "name": {
+            "first": "Kan-chan",
+            "last": null,
+            "native": "カンちゃん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b240637-jP1vQtfwWMnn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b240637-jP1vQtfwWMnn.png"
+          },
+          "siteUrl": "https://anilist.co/character/240637"
+        },
+        "voiceActors": [
+          {
+            "id": 240653,
+            "name": {
+              "first": "Youko",
+              "last": "Mitsui",
+              "native": "三井洋子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/240653"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 240636,
+          "name": {
+            "first": "Pocchi no Papa",
+            "last": null,
+            "native": "ボッチのパパ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/240636"
+        },
+        "voiceActors": [
+          {
+            "id": 240652,
+            "name": {
+              "first": "Ichirou",
+              "last": "Zaitsu",
+              "native": "財津一郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/240652"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 76858,
+          "name": {
+            "first": "Robotan",
+            "last": null,
+            "native": "ロボタン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/76858.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/76858.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/76858"
+        },
+        "voiceActors": [
+          {
+            "id": 240650,
+            "name": {
+              "first": "Hyousuke",
+              "last": "Koube",
+              "native": "神戸瓢介"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n240650-B28tGNY96b0q.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n240650-B28tGNY96b0q.png"
+            },
+            "siteUrl": "https://anilist.co/staff/240650"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 240639,
+          "name": {
+            "first": "Pocchi",
+            "last": null,
+            "native": "ボッチ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b240639-N6HVdYzsPfcP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b240639-N6HVdYzsPfcP.png"
+          },
+          "siteUrl": "https://anilist.co/character/240639"
+        },
+        "voiceActors": [
+          {
+            "id": 240649,
+            "name": {
+              "first": "Hiromi",
+              "last": "Nakasato",
+              "native": "中里ひろみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/240649"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 240638,
+          "name": {
+            "first": "Kiiko",
+            "last": null,
+            "native": "キーコ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b240638-ZnRxROtrJgDU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b240638-ZnRxROtrJgDU.png"
+          },
+          "siteUrl": "https://anilist.co/character/240638"
+        },
+        "voiceActors": [
+          {
+            "id": 240651,
+            "name": {
+              "first": "Takako",
+              "last": "Nakamori",
+              "native": "中森孝子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/240651"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 240635,
+          "name": {
+            "first": "Kenji",
+            "last": "Morita",
+            "native": "森田拳次"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n240635-AXZyentfma05.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n240635-AXZyentfma05.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/240635"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 106638,
+          "name": {
+            "first": "Moriyasu",
+            "last": "Taniguchi",
+            "native": "谷口守泰"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106638-3sAI4PgDShpl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106638-3sAI4PgDShpl.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/谷口守泰)\n\nA veteran animator with a career spanning nearly 60 years.",
+          "siteUrl": "https://anilist.co/staff/106638"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP, ED)",
+        "node": {
+          "id": 240651,
+          "name": {
+            "first": "Takako",
+            "last": "Nakamori",
+            "native": "中森孝子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/240651"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP, ED)",
+        "node": {
+          "id": 240649,
+          "name": {
+            "first": "Hiromi",
+            "last": "Nakasato",
+            "native": "中里ひろみ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/240649"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP, ED)",
+        "node": {
+          "id": 240650,
+          "name": {
+            "first": "Hyousuke",
+            "last": "Koube",
+            "native": "神戸瓢介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n240650-B28tGNY96b0q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n240650-B28tGNY96b0q.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/240650"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 236799,
+          "name": {
+            "first": "Honey Knights",
+            "last": null,
+            "native": "ハニー・ナイツ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n236799-A1PhwQfrjsBg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n236799-A1PhwQfrjsBg.png"
+          },
+          "description": "[Wiki (JP)](https://ja.wikipedia.org/wiki/ハニー・ナイツ)",
+          "siteUrl": "https://anilist.co/staff/236799"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 106638,
+          "name": {
+            "first": "Moriyasu",
+            "last": "Taniguchi",
+            "native": "谷口守泰"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106638-3sAI4PgDShpl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106638-3sAI4PgDShpl.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/谷口守泰)\n\nA veteran animator with a career spanning nearly 60 years.",
+          "siteUrl": "https://anilist.co/staff/106638"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 232580,
+          "name": {
+            "first": "Yuu",
+            "last": "Aku",
+            "native": "阿久悠"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n232580-VQsuQG0e3lTe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n232580-VQsuQG0e3lTe.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/阿久悠)\t\n\nHe was famous for thousands of his lyrics he contributed to many recording artists since 1967. Mainly during the 1970s, more than 20 of them reached the number-one on the Japanese Oricon chart, and 7 singles sold more than a million copies. Over 500 of his compositions released as a single have entered the Japanese record charts, and they sold in excess of 68 million copies from 1968 to 2007, making him the most commercially successful Japanese lyricist which was followed by Matsumoto Takashi and Komuro Tetsuya.\n\nThroughout his 40-year career as a lyricist, Aku won the Japan Record Award for five times. He was also acclaimed as a novelist, producing several award-winning works. In 1999, Aku received the Medal with Purple Ribbon from the Government of Japan, in honour of his long-term contributions for the country's entertainment.",
+          "siteUrl": "https://anilist.co/staff/232580"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 169,
+          "name": "Fuji TV",
+          "siteUrl": "https://anilist.co/studio/169"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6899,
+          "name": "Daiko",
+          "siteUrl": "https://anilist.co/studio/6899"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 4
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 6
+      },
+      {
+        "score": 50,
+        "amount": 12
+      },
+      {
+        "score": 60,
+        "amount": 5
+      },
+      {
+        "score": 70,
+        "amount": 9
+      },
+      {
+        "score": 80,
+        "amount": 4
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 19
+      },
+      {
+        "status": "PLANNING",
+        "amount": 78
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 91
+      },
+      {
+        "status": "DROPPED",
+        "amount": 46
+      },
+      {
+        "status": "PAUSED",
+        "amount": 9
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/19875",
+  "modNotes": null
+}

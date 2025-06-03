@@ -1,0 +1,555 @@
+{
+  "id": 3964,
+  "idMal": 3964,
+  "title": {
+    "native": "劇場版∀ガンダムII 月光蝶",
+    "romaji": "Turn A Gundam II: Moonlight Butterfly",
+    "english": "∀ Gundam II: Moonlight Butterfly"
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "The movie retelling of the final half of the Turn A Gundam series. ",
+  "startDate": {
+    "year": 2002,
+    "month": 2,
+    "day": 10
+  },
+  "endDate": {
+    "year": 2002,
+    "month": 2,
+    "day": 10
+  },
+  "season": "WINTER",
+  "seasonYear": 2002,
+  "seasonInt": 21,
+  "episodes": 1,
+  "duration": 128,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748884574,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3964.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3964.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3964.jpg",
+    "color": "#f1bb50"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "∀ Gundam II: Gekkou Chou"
+  ],
+  "averageScore": 58,
+  "meanScore": 61,
+  "popularity": 1557,
+  "favourites": 8,
+  "tags": [
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 63,
+      "name": "Space",
+      "description": "Partly or completely set in outer space.",
+      "category": "Setting-Universe",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 3963,
+          "title": {
+            "native": "劇場版∀ガンダムI 地球光"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 95,
+          "title": {
+            "native": "∀ガンダム"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2222,
+          "name": {
+            "first": "Guin Sard",
+            "last": "Rhineford",
+            "native": "グエン・サード・ラインフォード",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2222.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2222.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2222"
+        },
+        "voiceActors": [
+          {
+            "id": 101324,
+            "name": {
+              "first": "Gou",
+              "last": "Aoba",
+              "native": "青羽剛"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101324-wLy1op0eLsn4.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101324-wLy1op0eLsn4.png"
+            },
+            "siteUrl": "https://anilist.co/staff/101324"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45511,
+          "name": {
+            "first": "Meam",
+            "last": "Midgard",
+            "native": "ミーム・ミドガルド",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45511.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45511.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45511"
+        },
+        "voiceActors": [
+          {
+            "id": 107751,
+            "name": {
+              "first": "Ryuji",
+              "last": "Mizuno",
+              "native": "水野龍司"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12751.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/12751.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/107751"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music",
+        "node": {
+          "id": 95508,
+          "name": {
+            "first": "Youko",
+            "last": "Kanno",
+            "native": "菅野よう子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95508-CRYonC3sfc4S.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95508-CRYonC3sfc4S.png"
+          },
+          "description": "Kanno's earliest experiences with music came from attending church with her parents. She studied keyboard from a young age on both the piano in her home and the organ at her kindergarten. In elementary school, she began participating in composition contests, but in high school, Kanno began to take more of an interest in literature than in music.\n\nShe attended Waseda University, where she majored in literature, but she transcribed music for various student groups at Waseda in her free time. While in university, Koei, a Japanese video game company, asked her to compose the soundtrack to Nobunaga's Ambition. The game turned out to be a hit, and Kanno's music career was launched.\n\nKanno has also composed music for artists such as [Maaya Sakamoto](https://anilist.co/staff/95090/), [Megumi Nakajima](https://anilist.co/staff/96105/) and [Kyouko Koizumi](https://anilist.co/staff/164646/). She is also a keyboardist, as well as the frontwoman for [Seatbelts](https://anilist.co/staff/193673/), who perform many of Kanno's compositions and soundtracks.\n\nShe has collaborated with directors [Shinichirou Watanabe](https://anilist.co/staff/97009/) and [Shouji Kawamori](https://anilist.co/staff/97501/) multiple times.\n\nIn addition to Japanese, she speaks a little English and some French.",
+          "siteUrl": "https://anilist.co/staff/95508"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 97197,
+          "name": {
+            "first": "Hajime",
+            "last": "Yatate",
+            "native": "矢立肇"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97197-6NsKNt4EPoul.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97197-6NsKNt4EPoul.jpg"
+          },
+          "description": "[Website](http://www.yatate.net/) | [Twitter](https://twitter.com/yatate_hajime) | [Wiki (jp)](https://ja.wikipedia.org/wiki/矢立肇) | [Wiki (en)](https://en.wikipedia.org/wiki/Hajime_Yatate)\n\nHajime Yatate is a collective pseudonym for [Sunrise](https://anilist.co/studio/14/)'s staff.",
+          "siteUrl": "https://anilist.co/staff/97197"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 97337,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Tomino",
+            "native": "富野由悠季"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97337-kXpaK7OANmr9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97337-kXpaK7OANmr9.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/富野由悠季) | [Wiki (en)](https://en.wikipedia.org/wiki/Yoshiyuki_Tomino)\n\nYoshiyuki Tomino is an anime creator best known for creating the Gundam anime franchise.\n\nBegan his career in 1963 with [Osamu Tezuka](https://anilist.co/staff/96938/)'s company, [Mushi Production](https://anilist.co/studio/68/), scripting and directing episodes of the first Japanese anime television series, [Astro Boy](https://anilist.co/anime/2747/). He later became one of the most important members of the anime studio [Sunrise](https://anilist.co/studio/14/), going on to direct numerous anime through the '70s, '80s and '90s. He is perhaps best known for his transformation of the \"Super Robot\" mecha anime genre into the \"Real Robot\" genre with 1979's [Mobile Suit Gundam](https://anilist.co/anime/80/), the first in the Gundam franchise.\n\nKnown for using numerous pseudonyms.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/97337"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97337,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Tomino",
+            "native": "富野由悠季"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97337-kXpaK7OANmr9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97337-kXpaK7OANmr9.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/富野由悠季) | [Wiki (en)](https://en.wikipedia.org/wiki/Yoshiyuki_Tomino)\n\nYoshiyuki Tomino is an anime creator best known for creating the Gundam anime franchise.\n\nBegan his career in 1963 with [Osamu Tezuka](https://anilist.co/staff/96938/)'s company, [Mushi Production](https://anilist.co/studio/68/), scripting and directing episodes of the first Japanese anime television series, [Astro Boy](https://anilist.co/anime/2747/). He later became one of the most important members of the anime studio [Sunrise](https://anilist.co/studio/14/), going on to direct numerous anime through the '70s, '80s and '90s. He is perhaps best known for his transformation of the \"Super Robot\" mecha anime genre into the \"Real Robot\" genre with 1979's [Mobile Suit Gundam](https://anilist.co/anime/80/), the first in the Gundam franchise.\n\nKnown for using numerous pseudonyms.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/97337"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 101221,
+          "name": {
+            "first": "Makoto",
+            "last": "Uno",
+            "native": "うのまこと"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101221-MJnybJUFNPuM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101221-MJnybJUFNPuM.png"
+          },
+          "description": "[Twitter (NSFW)](https://twitter.com/ozone_maru) | [Pixiv (NSFW)](https://www.pixiv.net/users/15639)\n\nPublishes explicit doujinshi under the name \"Marumiya.\"",
+          "siteUrl": "https://anilist.co/staff/101221"
+        }
+      },
+      {
+        "role": "Mechanical Design",
+        "node": {
+          "id": 101417,
+          "name": {
+            "first": "Kunio",
+            "last": "Okawara",
+            "native": "大河原邦男"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101417-S71ZdLN57Udo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101417-S71ZdLN57Udo.png"
+          },
+          "description": "Originating from [Tatsunoko Production](https://anilist.co/studio/103/).\nKunio Okawara was the first in the industry to be specifically credited as a mechanical designer. He is the designer of numerous Real Robots and Super Robots. ",
+          "siteUrl": "https://anilist.co/staff/101417"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 105958,
+          "name": {
+            "first": "Hidetoshi",
+            "last": "Oomori",
+            "native": "大森英敏"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105958-DcZcztozvNNx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105958-DcZcztozvNNx.png"
+          },
+          "description": "[Twitter 1](https://twitter.com/i/user/1030757741193646080) | [Twitter 2](https://twitter.com/i/user/1467985113997021188) | [Youtube](https://www.youtube.com/channel/UCtOegRvxx7rZNiIsMyEPIfA) | [Website](https://www.hidetoshiohmori19591105.com/)\n\nAfter graduation, Oomori moved to Tokyo and began his career at Studio Annapuru in 1981, a small sub-contracting studio founded by [Osamu Dezaki](https://anilist.co/staff/100393/) and [Akio Sugino](https://anilist.co/staff/103064/). Soon after he left the studio and joined Bebow, a studio ran by [Tomonori Kogawa](https://anilist.co/staff/105957/). There he mainly worked on mecha shows produced by [Sunrise](https://anilist.co/studio/14/). He also showed up as an animation director on [Urusei Yatsura](https://anilist.co/anime/1293/).\n\nOomori left Bebow in 1986, and participated in the establishment of Atelier Giga. Around this time he also served as an animation director on [Mobile Suit Gundam: Char's Counterattack](https://anilist.co/anime/87/), one of his best-known works.\n\nIn the '90s he was also active in the video game industry. Notably as an animation director on Final Fantasy VII.",
+          "siteUrl": "https://anilist.co/staff/105958"
+        }
+      },
+      {
+        "role": "Screenplay",
+        "node": {
+          "id": 106414,
+          "name": {
+            "first": "Miya",
+            "last": "Asakawa",
+            "native": "浅川美也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/lavauru)",
+          "siteUrl": "https://anilist.co/staff/106414"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 110647,
+          "name": {
+            "first": "Shigemi",
+            "last": "Ikeda",
+            "native": "池田繁美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110647-oGP3Qn0HItjN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110647-oGP3Qn0HItjN.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/池田繁美)\n\nFounder and representative director of Atelier Musa.",
+          "siteUrl": "https://anilist.co/staff/110647"
+        }
+      },
+      {
+        "role": "Mechanical Design",
+        "node": {
+          "id": 110895,
+          "name": {
+            "first": "Takumi",
+            "last": "Sakura",
+            "native": "沙倉拓実"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/110895"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 110937,
+          "name": {
+            "first": "Toshiaki",
+            "last": "Iino",
+            "native": "飯野利明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/110937"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 112045,
+          "name": {
+            "first": "Akira",
+            "last": "Takahashi",
+            "native": "高橋晃"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112045-TZkw4bvcV1bw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112045-TZkw4bvcV1bw.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/高橋晃_(アニメーター%29)\n\nAffiliated with [Bandai Namco Pictures](https://anilist.co/studio/6116/). Noted for his work in the Precure franchise.\n\n_Note: Not to be confused with the [other animator](https://anilist.co/staff/147908/)._",
+          "siteUrl": "https://anilist.co/staff/112045"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 112847,
+          "name": {
+            "first": "Seiji",
+            "last": "Okuda",
+            "native": "奥田誠治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/17847.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/17847.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/奥田誠治_(アニメーション演出家%29)\n\nSeiji Okuda is a veteran anime director. He established Project Team Eikyuukikan, a collaboration of several animators, which was disbanded by him in October 2009. He continues to work freelance, mostly as storyboarder. He is also a member of the JAniCA.\n\n_Note: Not to be confused with the producer [Seiji Okuda](https://anilist.co/staff/219343/)._",
+          "siteUrl": "https://anilist.co/staff/112847"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 114922,
+          "name": {
+            "first": "Tsukasa",
+            "last": "Dokite",
+            "native": "土器手司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114922-Y72M2Ik6zw1r.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114922-Y72M2Ik6zw1r.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/土器手司)\n\nA veteran animator best known for his involvement in the [Dirty Pair](https://anilist.co/anime/424/) franchise during the '80s, as well as the adaptations of [Rumiko Takahashi](https://anilist.co/staff/96891/)'s works. His skills were first recognized by [Yasuhiko Yoshikazu](https://anilist.co/staff/97220/) during the production of [Giant Gorg](https://anilist.co/anime/3327/), who then put him in charge of supervising three of the episodes. He has been involved with numerous of [Sunrise](https://anilist.co/studio/14/)'s production's ever since.",
+          "siteUrl": "https://anilist.co/staff/114922"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 124322,
+          "name": {
+            "first": "Atsuo",
+            "last": "Tobe",
+            "native": "戸部敦夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/124322"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 14,
+          "name": "Sunrise",
+          "siteUrl": "https://anilist.co/studio/14"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 16254,
+      "rank": 22,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2002,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 16296,
+      "rank": 20,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2002,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 12
+      },
+      {
+        "score": 20,
+        "amount": 6
+      },
+      {
+        "score": 30,
+        "amount": 14
+      },
+      {
+        "score": 40,
+        "amount": 27
+      },
+      {
+        "score": 50,
+        "amount": 72
+      },
+      {
+        "score": 60,
+        "amount": 71
+      },
+      {
+        "score": 70,
+        "amount": 89
+      },
+      {
+        "score": 80,
+        "amount": 54
+      },
+      {
+        "score": 90,
+        "amount": 13
+      },
+      {
+        "score": 100,
+        "amount": 20
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 51
+      },
+      {
+        "status": "PLANNING",
+        "amount": 704
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 722
+      },
+      {
+        "status": "DROPPED",
+        "amount": 49
+      },
+      {
+        "status": "PAUSED",
+        "amount": 31
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/3964",
+  "modNotes": null
+}

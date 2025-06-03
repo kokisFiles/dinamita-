@@ -1,0 +1,200 @@
+{
+  "id": 98764,
+  "idMal": 33099,
+  "title": {
+    "native": "わしも-wasimo-(第4シリーズ)",
+    "romaji": "wasimo 4",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "Season 4 of <i>wasimo</i>.",
+  "startDate": {
+    "year": 2016,
+    "month": 4,
+    "day": 4
+  },
+  "endDate": {
+    "year": 2016,
+    "month": 9,
+    "day": 13
+  },
+  "season": "SPRING",
+  "seasonYear": 2016,
+  "seasonInt": 162,
+  "episodes": 44,
+  "duration": 10,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748786679,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98764-cX1oPnbpC3kU.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98764-cX1oPnbpC3kU.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98764-cX1oPnbpC3kU.jpg",
+    "color": "#fff11a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Washimo 4"
+  ],
+  "averageScore": null,
+  "meanScore": 49,
+  "popularity": 115,
+  "favourites": 0,
+  "tags": [],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 98763,
+          "title": {
+            "native": "わしも-wasimo-(第3シリーズ)"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 98765,
+          "title": {
+            "native": "わしも-wasimo-(第5シリーズ)"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": []
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 102538,
+          "name": {
+            "first": "Toshifumi",
+            "last": "Kawase",
+            "native": "川瀬敏文"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102538-X18k6whq5QpP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102538-X18k6whq5QpP.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/102538"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 37,
+          "name": "Studio DEEN",
+          "siteUrl": "https://anilist.co/studio/37"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 4199,
+      "url": "http://www9.nhk.or.jp/anime/wasimo/",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 13633,
+      "rank": 24,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2016,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 5
+      },
+      {
+        "score": 70,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 3
+      },
+      {
+        "score": 100,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 6
+      },
+      {
+        "status": "PLANNING",
+        "amount": 36
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 44
+      },
+      {
+        "status": "DROPPED",
+        "amount": 27
+      },
+      {
+        "status": "PAUSED",
+        "amount": 2
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/98764",
+  "modNotes": null
+}

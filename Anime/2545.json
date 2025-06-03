@@ -1,0 +1,527 @@
+{
+  "id": 2545,
+  "idMal": 2545,
+  "title": {
+    "native": "ハックルベリィの冒険",
+    "romaji": "Huckleberry no Bouken",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "Based on Mark Twain's well known masterpiece about Huckleberry Finn, the bright and merry orphan, this film is full of life, laughter, and will be loved by children around the world. When Huckleberry runs away from his orphanage, he teams up with an escaped slave. Together, they travel the Mississippi on a raft, encountering all kinds of people and adventures. <br><br>",
+  "startDate": {
+    "year": 1976,
+    "month": 1,
+    "day": 2
+  },
+  "endDate": {
+    "year": 1976,
+    "month": 6,
+    "day": 25
+  },
+  "season": "WINTER",
+  "seasonYear": 1976,
+  "seasonInt": 761,
+  "episodes": 26,
+  "duration": 20,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748884929,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2545.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2545.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2545.jpg",
+    "color": "#f1a11a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Drama"
+  ],
+  "synonyms": [
+    "The Adventures of Huckleberry Finn",
+    "Huckleberry Finn",
+    "Die Abenteuer des Huckleberry Finn"
+  ],
+  "averageScore": 67,
+  "meanScore": 72,
+  "popularity": 691,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 198,
+      "name": "Foreign",
+      "description": "Partly or completely set in a country outside the country of origin.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 227,
+      "name": "Classic Literature",
+      "description": "Discusses or adapts a work of classic world literature.",
+      "category": "Theme-Arts",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 25,
+      "name": "Historical",
+      "description": "Partly or completely set during a real period of world history.",
+      "category": "Setting-Time",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 250,
+      "name": "Rural",
+      "description": "Partly or completely set in the countryside.",
+      "category": "Setting-Scene",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 4800,
+          "title": {
+            "native": "ハックルベリー・フィン物語"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 2577,
+          "title": {
+            "native": "トム・ソーヤーの冒険"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 19957,
+          "title": {
+            "native": "ハックルベリィの冒険"
+          }
+        },
+        "relationType": "SUMMARY"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9487,
+          "name": {
+            "first": "Huckleberry",
+            "last": "Finn",
+            "native": "ハックルベリー・フィン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9487.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9487.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9487"
+        },
+        "voiceActors": [
+          {
+            "id": 95557,
+            "name": {
+              "first": "Masako",
+              "last": "Nozawa",
+              "native": "野沢雅子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95557-5a2nnIBK05ul.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95557-5a2nnIBK05ul.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95557"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169975,
+          "name": {
+            "first": "Jim",
+            "last": null,
+            "native": "ジム",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/169975"
+        },
+        "voiceActors": [
+          {
+            "id": 95530,
+            "name": {
+              "first": "Yasuo",
+              "last": "Yamada",
+              "native": "山田康雄"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95530-pbkA4lqvxSrh.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95530-pbkA4lqvxSrh.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95530"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 114191,
+          "name": {
+            "first": "Mark",
+            "last": "Twain",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/19191.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/19191.jpg"
+          },
+          "description": "Samuel Langhorne Clemens, better known by his pen name Mark Twain, was an American author and humorist. He is most noted for his novel The Adventures of Tom Sawyer (1876) and its sequel, Adventures of Huckleberry Finn (1885), the latter often called \"the Great American Novel.",
+          "siteUrl": "https://anilist.co/staff/114191"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 123380,
+          "name": {
+            "first": "Masakazu",
+            "last": "Higuchi",
+            "native": "樋口雅一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Website](http://www1.s-cat.ne.jp/manga-do-honpo/) | [Blog](https://manga-do.hatenablog.com/)\n\nOriginating as an Animator from [Tatsunoko Production](https://anilist.co/studio/103/Tatsunoko-Production). However, he soon left the company and moved to [Mushi Productions](https://anilist.co/studio/68/Mushi-Productions).\n\nHe became a freelancer in 1969, and started working as a director around this time. He wasn't active in the industry during the 2000s but eventually returned.",
+          "siteUrl": "https://anilist.co/staff/123380"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 130755,
+          "name": {
+            "first": "Eisuke",
+            "last": "Kondou",
+            "native": "近藤英輔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/130755"
+        }
+      },
+      {
+        "role": "ADR Director (Polish)",
+        "node": {
+          "id": 305049,
+          "name": {
+            "first": "Dobrosława",
+            "last": "Bałazy",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n305049-ZqfR1wdy2rOY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n305049-ZqfR1wdy2rOY.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/305049"
+        }
+      },
+      {
+        "role": "ADR Script (Polish)",
+        "node": {
+          "id": 330295,
+          "name": {
+            "first": "Katarzyna",
+            "last": "Precigs",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/330295"
+        }
+      },
+      {
+        "role": "ADR Sound (Polish)",
+        "node": {
+          "id": 277217,
+          "name": {
+            "first": "Jacek",
+            "last": "Kacperek",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/277217"
+        }
+      },
+      {
+        "role": "ADR Production Management (Polish)",
+        "node": {
+          "id": 303373,
+          "name": {
+            "first": "Marzena",
+            "last": "Omen-Wiśniewska",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n303373-6zEmA31G2s8M.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n303373-6zEmA31G2s8M.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/303373"
+        }
+      },
+      {
+        "role": "ADR Editing (Polish)",
+        "node": {
+          "id": 277217,
+          "name": {
+            "first": "Jacek",
+            "last": "Kacperek",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/277217"
+        }
+      },
+      {
+        "role": "ADR Theme Song Lyrics (Polish)",
+        "node": {
+          "id": 305043,
+          "name": {
+            "first": "Anna",
+            "last": "Rutkowska",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/305043"
+        }
+      },
+      {
+        "role": "ADR Music Director (Polish)",
+        "node": {
+          "id": 261589,
+          "name": {
+            "first": "Piotr",
+            "last": "Gogol",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n261589-FhtOD14Zq9vg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n261589-FhtOD14Zq9vg.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/261589"
+        }
+      },
+      {
+        "role": "ADR Theme Song Performance (Polish)",
+        "node": {
+          "id": 317828,
+          "name": {
+            "first": "Anna",
+            "last": "Sochacka",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n317828-F6KRD4wdiNCj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n317828-F6KRD4wdiNCj.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/317828"
+        }
+      },
+      {
+        "role": "ADR Theme Song Performance (Polish)",
+        "node": {
+          "id": 305048,
+          "name": {
+            "first": "Adam",
+            "last": "Krylik",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n305048-taUpDBYaujpE.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n305048-taUpDBYaujpE.jpg"
+          },
+          "description": "[Website](http://www.adamkrylik.pl) | [Facebook](https://www.facebook.com/adamkrylik) | [Instagram](https://www.instagram.com/adamkrylik)\n\nHusband of [Magdalena Krylik](https://anilist.co/staff/230526/). Father of [Antonina](https://anilist.co/staff/259478/), [Tymon](https://anilist.co/staff/320358/), Leon and Łucja.",
+          "siteUrl": "https://anilist.co/staff/305048"
+        }
+      },
+      {
+        "role": "ADR Theme Song Performance (Polish)",
+        "node": {
+          "id": 261589,
+          "name": {
+            "first": "Piotr",
+            "last": "Gogol",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n261589-FhtOD14Zq9vg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n261589-FhtOD14Zq9vg.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/261589"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 829,
+          "name": "Studio Jack",
+          "siteUrl": "https://anilist.co/studio/829"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 5
+      },
+      {
+        "score": 40,
+        "amount": 6
+      },
+      {
+        "score": 50,
+        "amount": 35
+      },
+      {
+        "score": 60,
+        "amount": 33
+      },
+      {
+        "score": 70,
+        "amount": 22
+      },
+      {
+        "score": 80,
+        "amount": 15
+      },
+      {
+        "score": 90,
+        "amount": 61
+      },
+      {
+        "score": 100,
+        "amount": 41
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 21
+      },
+      {
+        "status": "PLANNING",
+        "amount": 288
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 299
+      },
+      {
+        "status": "DROPPED",
+        "amount": 54
+      },
+      {
+        "status": "PAUSED",
+        "amount": 29
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/2545",
+  "modNotes": null
+}

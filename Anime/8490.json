@@ -1,0 +1,715 @@
+{
+  "id": 8490,
+  "idMal": 8490,
+  "title": {
+    "native": "デジモンアドベンチャー3D デジモングランプリ!",
+    "romaji": "Digimon Adventure 3D: Digimon Grand Prix!",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "Digimon special, Mario Kart style racing.",
+  "startDate": {
+    "year": 2000,
+    "month": 7,
+    "day": 16
+  },
+  "endDate": {
+    "year": 2000,
+    "month": 7,
+    "day": 16
+  },
+  "season": "SUMMER",
+  "seasonYear": 2000,
+  "seasonInt": 3,
+  "episodes": 1,
+  "duration": 7,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748802829,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8490.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8490.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8490.jpg",
+    "color": "#e4c90d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi",
+    "Sports"
+  ],
+  "synonyms": [
+    "Digimon - Grand Prix - CG Toei Animation Festival"
+  ],
+  "averageScore": 49,
+  "meanScore": 50,
+  "popularity": 1972,
+  "favourites": 8,
+  "tags": [
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 10,
+      "name": "Cars",
+      "description": "Centers around the use of automotive vehicles.",
+      "category": "Theme-Other-Vehicle",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 517,
+      "name": "Artificial Intelligence",
+      "description": "Intelligent non-organic machines that work and react similarly to humans.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 112,
+      "name": "Virtual World",
+      "description": "Partly or completely set in the world inside a video game.",
+      "category": "Setting-Universe",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 89,
+      "name": "Full CGI",
+      "description": "Almost entirely created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 53,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 552,
+          "title": {
+            "native": "デジモンアドベンチャー"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4950,
+          "name": {
+            "first": "Agumon",
+            "last": null,
+            "native": "アグモン",
+            "alternative": [
+              "Koromon (コロモン)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4950-7ABdx6j3jmdE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4950-7ABdx6j3jmdE.png"
+          },
+          "siteUrl": "https://anilist.co/character/4950"
+        },
+        "voiceActors": [
+          {
+            "id": 95387,
+            "name": {
+              "first": "Chika",
+              "last": "Sakamoto",
+              "native": "坂本千夏"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95387-CLYs2OZwhe9c.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95387-CLYs2OZwhe9c.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95387"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9949,
+          "name": {
+            "first": "Piyomon",
+            "last": null,
+            "native": "ピヨモン",
+            "alternative": [
+              "Biyomon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9949.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9949.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9949"
+        },
+        "voiceActors": [
+          {
+            "id": 96556,
+            "name": {
+              "first": "Atori",
+              "last": "Shigematsu",
+              "native": "重松花鳥"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1556.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1556.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96556"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9952,
+          "name": {
+            "first": "Gabumon",
+            "last": null,
+            "native": "ガブモン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9952-mI01ix3dEKMp.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9952-mI01ix3dEKMp.png"
+          },
+          "siteUrl": "https://anilist.co/character/9952"
+        },
+        "voiceActors": [
+          {
+            "id": 95316,
+            "name": {
+              "first": "Mayumi",
+              "last": "Yamaguchi",
+              "native": "山口眞弓"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95316-sp5oQEI6tURH.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95316-sp5oQEI6tURH.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95316"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9953,
+          "name": {
+            "first": "Tentomon",
+            "last": null,
+            "native": "テントモン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9953-4In5NaqAYCdg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9953-4In5NaqAYCdg.png"
+          },
+          "siteUrl": "https://anilist.co/character/9953"
+        },
+        "voiceActors": [
+          {
+            "id": 95079,
+            "name": {
+              "first": "Takahiro",
+              "last": "Sakurai",
+              "native": "櫻井孝宏"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95079-MdbWTLxPUvFf.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95079"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9950,
+          "name": {
+            "first": "Patamon",
+            "last": null,
+            "native": "パタモン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9950-QAOttyTh15ti.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9950-QAOttyTh15ti.png"
+          },
+          "siteUrl": "https://anilist.co/character/9950"
+        },
+        "voiceActors": [
+          {
+            "id": 95937,
+            "name": {
+              "first": "Miwa",
+              "last": "Matsumoto",
+              "native": "松本美和"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/937.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/937.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95937"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16295,
+          "name": {
+            "first": "V-Mon",
+            "last": null,
+            "native": "ブイモン",
+            "alternative": [
+              "Veemon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16295-btpph1p05xnO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16295-btpph1p05xnO.png"
+          },
+          "siteUrl": "https://anilist.co/character/16295"
+        },
+        "voiceActors": [
+          {
+            "id": 95277,
+            "name": {
+              "first": "Junko",
+              "last": "Noda",
+              "native": "野田順子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95277-hcE9l52SPjNP.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95277-hcE9l52SPjNP.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95277"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5977,
+          "name": {
+            "first": "Gomamon",
+            "last": null,
+            "native": "ゴマモン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5977.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5977.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5977"
+        },
+        "voiceActors": [
+          {
+            "id": 95015,
+            "name": {
+              "first": "Junko",
+              "last": "Takeuchi",
+              "native": "竹内順子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95015-QwI9K4FRe4Cq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95015-QwI9K4FRe4Cq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95015"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 18444,
+          "name": {
+            "first": "Armadimon",
+            "last": null,
+            "native": "アルマジモン",
+            "alternative": [
+              "Armadillomon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18444-3nhDbpeAHo7q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b18444-3nhDbpeAHo7q.png"
+          },
+          "siteUrl": "https://anilist.co/character/18444"
+        },
+        "voiceActors": [
+          {
+            "id": 101663,
+            "name": {
+              "first": "Megumi",
+              "last": "Urawa",
+              "native": "浦和めぐみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101663-0ioQAduoHX8j.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101663-0ioQAduoHX8j.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101663"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9954,
+          "name": {
+            "first": "Tailmon",
+            "last": null,
+            "native": "テイルモン",
+            "alternative": [
+              "Gatomon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9954.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9954.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9954"
+        },
+        "voiceActors": [
+          {
+            "id": 96456,
+            "name": {
+              "first": "Yuka",
+              "last": "Tokumitsu",
+              "native": "徳光由禾"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96456-UGEu0zMdfRx9.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96456-UGEu0zMdfRx9.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96456"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 14716,
+          "name": {
+            "first": "PicoDevimon",
+            "last": null,
+            "native": "ピコデビモン",
+            "alternative": [
+              "DemiDevimon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14716-8g8zldLlm82L.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14716-8g8zldLlm82L.png"
+          },
+          "siteUrl": "https://anilist.co/character/14716"
+        },
+        "voiceActors": [
+          {
+            "id": 95344,
+            "name": {
+              "first": "Kouki",
+              "last": "Miyata",
+              "native": "宮田幸季"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95344-wYgLhxYeWEp4.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95344-wYgLhxYeWEp4.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95344"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24801,
+          "name": {
+            "first": "Hawkmon",
+            "last": null,
+            "native": "ホークモン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24801-hS7QuI0v9Rvg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24801-hS7QuI0v9Rvg.png"
+          },
+          "siteUrl": "https://anilist.co/character/24801"
+        },
+        "voiceActors": [
+          {
+            "id": 95408,
+            "name": {
+              "first": "Kouichi",
+              "last": "Toochika",
+              "native": "遠近孝一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/408.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/408.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95408"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9951,
+          "name": {
+            "first": "Palmon",
+            "last": null,
+            "native": "パルモン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9951.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9951.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9951"
+        },
+        "voiceActors": [
+          {
+            "id": 96127,
+            "name": {
+              "first": "Kinoko",
+              "last": "Yamada",
+              "native": "きのこ 山田"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1127.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1127.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96127"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Episode Director",
+        "node": {
+          "id": 100067,
+          "name": {
+            "first": "Mamoru",
+            "last": "Hosoda",
+            "native": "細田守"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100067-uJP6jmnZhqmF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100067-uJP6jmnZhqmF.png"
+          },
+          "description": "[Twitter](https://twitter.com/hosodamamoru)\n\nHosoda initially felt inspired to take up animation as a career after seeing [The Castle of Cagliostro](https://anilist.co/anime/1430/), the first film directed by [Hayao Miyazaki](https://anilist.co/staff/96870/). He majored in oil painting at the Kanazawa College of Art in Ishikawa Prefecture. After graduation, Hosoda was able to land an animation job at [Toei Animation](https://anilist.co/studio/18/), after submitting a short film that he had animated in his spare time. He initially applied at [Studio Ghibli](https://anilist.co/studio/21/); though he did not get the job, he received a rejection letter of praise from Hayao Miyazaki himself.\n\nDuring his time at Toei, Hosoda worked his way up, garnering public attention in the early 2000s with the first two films in the Digimon series. It was his first co-directed film, [Digimon: The Movie](https://anilist.co/anime/2961/), which attracted the eye of Ghibli head producer [Toshio Suzuki](https://anilist.co/staff/101638/).\n\nStudio Ghibli announced that Hosoda was to direct the film [Howl's Moving Castle](https://anilist.co/anime/431/) in September 2001. This was scheduled for a summer 2003 release. However, production on the film became strained due to creative differences. According to Hosoda, he \"was told to make the movie similar to how Miyazaki would have made it, but he wanted to make his own film the way he wanted to make it\". In the end, Hosoda left in the summer of 2002 during the early production stages, after failing to come up with a concept acceptable to Studio Ghibli bosses.\n\nProceeding his departure from Ghibli, Hosoda returned to Toei and worked on a few animations in collaboration with artist Takashi Murakami, such as the commercial Superflat Monogram for Louis Vuitton. During this time, he directed an episode of [Ojamajo Doremi](https://anilist.co/anime/353/), which was inspired by his turbulent time at Ghibli. This episode led to him being hired at the animation studio [Madhouse](https://anilist.co/studio/11/), which he worked at from 2005 to 2011.\n\nAt Madhouse, Hosoda earned critical acclaim with his directing efforts. His two movies, [The Girl Who Leapt Through Time](https://anilist.co/anime/2236/) and [Summer Wars](https://anilist.co/anime/5681/), both won the Japan Academy Film Prize award.\n\nIn 2011, Hosoda left Madhouse to establish his own animation studio, [Studio Chizu](https://anilist.co/studio/555/), with Yuuichirou Saitou who produced both previously mentioned award winning shows. As of August 2020, Studio Chizu has released three films directed by Hosoda: 2012's [Wolf Children](https://anilist.co/anime/12355/), 2015's [The Boy and the Beast](https://anilist.co/anime/20981/), and 2018's [Mirai](https://anilist.co/anime/100749/). Which of Mirai was nominated for Best Animated Feature for the 2019 Oscars.\n\n(Source: Wikipedia)\n\n__Notable Awards:__\n\n- **The Girl Who Leapt Through Time**\n\\- Winner, Animation of the Year (Tokyo Anime Award 2007)\n\\- Winner, Best Director (Tokyo Anime Award 2007)\n\\- Winner, Best Animation of the Year (Japan Academy Film Prize 2007)\n\n- **Summer Wars**\n\\- Winner, Animation of the Year (Tokyo Anime Award 2009)\n\\- Winner, Best Director (Tokyo Anime Award 2009)\n\\- Winner, Best Original Story (Tokyo Anime Award 2009)\n\\- Winner, Notable Entry (Tokyo Anime Award 2009)\n\\- Winner, Best Animation of the Year (Japan Academy Film Prize 2010)\n\n- **Wolf Children**\n\\- Winner, Animation of the Year (Tokyo Anime Award 2013)\n\\- Winner, Best Director (Tokyo Anime Award 2013)\n\\- Winner, Best Screenplay (Tokyo Anime Award 2013)\n\\- Winner, Notable Entry (Tokyo Anime Award 2013)\n\n- **Mirai**\n\\- Nominee, Best Animated Feature Film (Academy Awards, USA)\n\n(Source: IMDb)",
+          "siteUrl": "https://anilist.co/staff/100067"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 18,
+          "name": "Toei Animation",
+          "siteUrl": "https://anilist.co/studio/18"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 16112,
+      "rank": 21,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2000,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 16134,
+      "rank": 15,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2000,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 21497,
+          "rating": 3,
+          "media": {
+            "id": 8490,
+            "title": {
+              "native": "デジモンアドベンチャー3D デジモングランプリ!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 112006,
+            "title": {
+              "native": "それいけ!アンパンマン やきそばパンマンとブラックサボテンマン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 22097,
+          "rating": 4,
+          "media": {
+            "id": 8490,
+            "title": {
+              "native": "デジモンアドベンチャー3D デジモングランプリ!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 8491,
+            "title": {
+              "native": "デジモンセイバーズ3D デジタルワールド危機イッパツ!"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 57
+      },
+      {
+        "score": 20,
+        "amount": 66
+      },
+      {
+        "score": 30,
+        "amount": 68
+      },
+      {
+        "score": 40,
+        "amount": 98
+      },
+      {
+        "score": 50,
+        "amount": 192
+      },
+      {
+        "score": 60,
+        "amount": 166
+      },
+      {
+        "score": 70,
+        "amount": 99
+      },
+      {
+        "score": 80,
+        "amount": 39
+      },
+      {
+        "score": 90,
+        "amount": 18
+      },
+      {
+        "score": 100,
+        "amount": 33
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 30
+      },
+      {
+        "status": "PLANNING",
+        "amount": 454
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1396
+      },
+      {
+        "status": "DROPPED",
+        "amount": 71
+      },
+      {
+        "status": "PAUSED",
+        "amount": 21
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/8490",
+  "modNotes": null
+}

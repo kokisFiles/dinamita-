@@ -1,0 +1,272 @@
+{
+  "id": 137758,
+  "idMal": 56216,
+  "title": {
+    "native": "眷思量之风烟迭起",
+    "romaji": "Juan Siliang: Feng Yan Dieqi",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "The second season of <i>Juan Siliang</i>.",
+  "startDate": {
+    "year": 2024,
+    "month": 6,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 8,
+    "day": 7
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 15,
+  "duration": 19,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": {
+    "id": "hhr9Q6bmQ_I",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/hhr9Q6bmQ_I/hqdefault.jpg"
+  },
+  "updatedAt": 1748772602,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137758-mikSHDz6OCJh.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137758-mikSHDz6OCJh.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137758-mikSHDz6OCJh.png",
+    "color": "#e4a15d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Fantasy",
+    "Mystery",
+    "Romance"
+  ],
+  "synonyms": [
+    "The Island of Siliang 2",
+    "眷思量 第2季",
+    "Juan Siliang 2"
+  ],
+  "averageScore": null,
+  "meanScore": 74,
+  "popularity": 300,
+  "favourites": 15,
+  "tags": [
+    {
+      "id": 89,
+      "name": "Full CGI",
+      "description": "Almost entirely created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 117573,
+          "title": {
+            "native": "眷思量"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 186832,
+          "title": {
+            "native": "眷思量 第三季"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 315766,
+          "name": {
+            "first": "Tu Li",
+            "last": null,
+            "native": "屠丽",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/315766"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 315765,
+          "name": {
+            "first": "Jing Xuan",
+            "last": null,
+            "native": "镜玄",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/315765"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 243883,
+          "name": {
+            "first": "Yuqing",
+            "last": "Zhao",
+            "native": "赵禹晴"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n243883-GfPnz9CakmJ3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n243883-GfPnz9CakmJ3.png"
+          },
+          "description": "[Weibo](https://weibo.com/nannan0u0)",
+          "siteUrl": "https://anilist.co/staff/243883"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 243883,
+          "name": {
+            "first": "Yuqing",
+            "last": "Zhao",
+            "native": "赵禹晴"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n243883-GfPnz9CakmJ3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n243883-GfPnz9CakmJ3.png"
+          },
+          "description": "[Weibo](https://weibo.com/nannan0u0)",
+          "siteUrl": "https://anilist.co/staff/243883"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6435,
+          "name": "Year Young Culture",
+          "siteUrl": "https://anilist.co/studio/6435"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6382,
+          "name": "Tencent Penguin Pictures",
+          "siteUrl": "https://anilist.co/studio/6382"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 36823,
+      "url": "https://weibo.com/u/6630564573",
+      "site": "Weibo"
+    },
+    {
+      "id": 36824,
+      "url": "https://v.qq.com/detail/g/gehpfier9upkqz5.html",
+      "site": "Tencent Video"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 3
+      },
+      {
+        "score": 60,
+        "amount": 5
+      },
+      {
+        "score": 70,
+        "amount": 8
+      },
+      {
+        "score": 80,
+        "amount": 11
+      },
+      {
+        "score": 90,
+        "amount": 13
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 47
+      },
+      {
+        "status": "PLANNING",
+        "amount": 159
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 73
+      },
+      {
+        "status": "DROPPED",
+        "amount": 13
+      },
+      {
+        "status": "PAUSED",
+        "amount": 8
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/137758",
+  "modNotes": null
+}

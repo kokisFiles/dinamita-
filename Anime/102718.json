@@ -1,0 +1,498 @@
+{
+  "id": 102718,
+  "idMal": 39314,
+  "title": {
+    "native": "DEEP BLUE SONG",
+    "romaji": "DEEP BLUE SONG",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "A sequel to DEEP BLUE TOWN.",
+  "startDate": {
+    "year": 2017,
+    "month": 8,
+    "day": 24
+  },
+  "endDate": {
+    "year": 2017,
+    "month": 8,
+    "day": 24
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 7,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": {
+    "id": "T6ZHKtRZv5g",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/T6ZHKtRZv5g/hqdefault.jpg"
+  },
+  "updatedAt": 1748863506,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102718-jcHLdQZNzG0K.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102718-jcHLdQZNzG0K.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/102718-jcHLdQZNzG0K.jpg",
+    "color": "#1a93d6"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "iMarine Project"
+  ],
+  "averageScore": 58,
+  "meanScore": 61,
+  "popularity": 657,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 115,
+      "name": "Idol",
+      "description": "Centers around the life and activities of an idol.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 341,
+      "name": "No Dialogue",
+      "description": "This work contains no dialogue.",
+      "category": "Technical",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1047,
+      "name": "VTuber",
+      "description": "Prominently features a character who is either an actual or fictive VTuber.",
+      "category": "Cast-Traits",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 102719,
+          "title": {
+            "native": "DEEP BLUE TOWNへおいでよ"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 195970,
+          "name": {
+            "first": "iMarine",
+            "last": null,
+            "native": "アイマリン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b195970-vKzJOlQQE2Wd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b195970-vKzJOlQQE2Wd.png"
+          },
+          "siteUrl": "https://anilist.co/character/195970"
+        },
+        "voiceActors": [
+          {
+            "id": 103921,
+            "name": {
+              "first": "Aya",
+              "last": "Uchida",
+              "native": "内田彩"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103921-bnSaJsF0jgH1.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103921-bnSaJsF0jgH1.png"
+            },
+            "siteUrl": "https://anilist.co/staff/103921"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 195972,
+          "name": {
+            "first": "Wendy",
+            "last": null,
+            "native": "ウェンディ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b195972-kGg2bjw1z3b0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b195972-kGg2bjw1z3b0.png"
+          },
+          "siteUrl": "https://anilist.co/character/195972"
+        },
+        "voiceActors": [
+          {
+            "id": 108639,
+            "name": {
+              "first": "Maaya",
+              "last": "Uchida",
+              "native": "内田真礼"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n108639-LLrR4WptCh5s.png"
+            },
+            "siteUrl": "https://anilist.co/staff/108639"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 195971,
+          "name": {
+            "first": "Uny",
+            "last": null,
+            "native": "ウーニィ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b195971-9MK3nrhxjULi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b195971-9MK3nrhxjULi.png"
+          },
+          "siteUrl": "https://anilist.co/character/195971"
+        },
+        "voiceActors": [
+          {
+            "id": 106622,
+            "name": {
+              "first": "Ayane",
+              "last": "Sakura",
+              "native": "佐倉綾音"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106622-yemj6ymLz4lY.png"
+            },
+            "siteUrl": "https://anilist.co/staff/106622"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 143790,
+          "name": {
+            "first": "Kiyotaka",
+            "last": "Suzuki",
+            "native": "鈴木清崇"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n143790-8xVSDourzTwD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n143790-8xVSDourzTwD.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/143790"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 143790,
+          "name": {
+            "first": "Kiyotaka",
+            "last": "Suzuki",
+            "native": "鈴木清崇"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n143790-8xVSDourzTwD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n143790-8xVSDourzTwD.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/143790"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 143791,
+          "name": {
+            "first": "Keisuke",
+            "last": "Gotou",
+            "native": "後藤圭佑"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n143791-2TB8VZYMtBYt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n143791-2TB8VZYMtBYt.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/WakeUpGocci) | [Pixiv](https://www.pixiv.net/en/users/1355347)\n\nAffiliated with [Revoroot](https://anilist.co/studio/6217/).",
+          "siteUrl": "https://anilist.co/staff/143791"
+        }
+      },
+      {
+        "role": "Assistant Director",
+        "node": {
+          "id": 134263,
+          "name": {
+            "first": "Keisuke",
+            "last": "Kojima",
+            "native": "小嶋慶祐"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n134263-u6hdg3uh0O5n.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n134263-u6hdg3uh0O5n.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/245670480)",
+          "siteUrl": "https://anilist.co/staff/134263"
+        }
+      },
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 134263,
+          "name": {
+            "first": "Keisuke",
+            "last": "Kojima",
+            "native": "小嶋慶祐"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n134263-u6hdg3uh0O5n.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n134263-u6hdg3uh0O5n.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/245670480)",
+          "siteUrl": "https://anilist.co/staff/134263"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 148634,
+          "name": {
+            "first": "Satoshi",
+            "last": "Takezawa",
+            "native": "竹澤聡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/148634"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 108639,
+          "name": {
+            "first": "Maaya",
+            "last": "Uchida",
+            "native": "内田真礼"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n108639-LLrR4WptCh5s.png"
+          },
+          "description": "__Agency:__ I'm Enterprise\n\n[Website](http://uchidamaaya.jp/) | [Profile](https://www.imenterprise.jp/profile.php?id=26) | [Twitter](https://twitter.com/maaya_taso) | [Instagram](https://www.instagram.com/uchidamaayataso/) | [YouTube](https://www.youtube.com/channel/UCJFEXIRB6DP_2FQJzv7pbXg)\n\nMaaya Uchida is a Japanese actress, voice actress and singer who works for I'm Enterprise. She is [Yuuma Uchida](https://anilist.co/staff/119617/)'s older sister.\n\n**Awards:**\n- She won the Best New Actress Award at the 8th Seiyuu Awards, for her role as [Hajime Ichinose](https://anilist.co/character/85153/).\n\n**Non anime roles:**\n- [Fischl](https://anilist.co/character/209685/Fischl) - Genshin Impact (VG)\n- [Ichihime](https://anilist.co/character/200348/Ichihime) - Mahjong Soul (VG)\n- Pure Vanilla Cookie - Cookie Run: Kingdom (VG)\n- Admi - Goddess of Victory: Nikke (VG)\n- Epinel - Goddess of Victory: Nikke (VG)\n- Ms. NewBabel - Reverse: 1999 (VG)\n- Gretel - SINoAlice (VG)\n- Sakura - Shinobi Nightmare (VG)\n- Kanami - Strinova (VG)\n- S-Sha - Megadimension Neptunia VII (VG)\n- Zero - Drakengard 3 (VG)\n- Hiroyo Hakase - Hikōnin Sentai Akibaranger (Super Sentai)",
+          "siteUrl": "https://anilist.co/staff/108639"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 103921,
+          "name": {
+            "first": "Aya",
+            "last": "Uchida",
+            "native": "内田彩"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103921-bnSaJsF0jgH1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103921-bnSaJsF0jgH1.png"
+          },
+          "description": "[Official Website](https://aya-uchida.net) | [Website](https://columbia.jp/uchidaaya/) | [Blog](https://ameblo.jp/ichigoshiroppu/) | [Twitter](https://twitter.com/aya_uchida) | [Wiki (en)](https://en.wikipedia.org/wiki/Aya_Uchida) | [Wiki (jp)](https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E5%BD%A9)\n\nShe is a Japanese voice actress and singer affiliated with JTB Entertainment. She also a member of famous media franchise \"Love Live!\".\n\n__Non-anime roles:__\n- Quency - Goddess of Victory: Nikke (VG)\n\n",
+          "siteUrl": "https://anilist.co/staff/103921"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 106622,
+          "name": {
+            "first": "Ayane",
+            "last": "Sakura",
+            "native": "佐倉綾音"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106622-yemj6ymLz4lY.png"
+          },
+          "description": "__Height:__ 157 cm (5'2\")\n__Agency:__ I'm Enterprise (2010-2022), Aoni Production (2022-present)\n\n[Profile](https://www.aoni.co.jp/search/sakura-ayane.html) | [Blog (old)](http://www.joqr.co.jp/blog/sakura/) | [Instagram](https://www.instagram.com/ayane.sakura.mg/)\n\n__Non-anime roles:__\n- Nearl - Arknights (VG)\n- Yae Miko - Genshin Impact (VG)\n- Yae Sakura - Honkai Impact 3rd (VG)\n- Julia - Goddess of Victory: Nikke (VG)\n- Dolla - Goddess of Victory: Nikke (VG)\n- Devonica - Ohsama Sentai King-Ohger: Adventure Heaven (Movie)\n- Rio Sonogami - Date a Live: Rio Reincarnation (VG)\n- Prinz Eugen - Azur Lane (VG)",
+          "siteUrl": "https://anilist.co/staff/106622"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6217,
+          "name": "REVOROOT",
+          "siteUrl": "https://anilist.co/studio/6217"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 42345,
+      "url": "https://www.youtube.com/watch?v=T6ZHKtRZv5g",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 38437,
+          "rating": 1,
+          "media": {
+            "id": 102718,
+            "title": {
+              "native": "DEEP BLUE SONG"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 102722,
+            "title": {
+              "native": "Marine Bloomin'"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 6
+      },
+      {
+        "score": 30,
+        "amount": 7
+      },
+      {
+        "score": 40,
+        "amount": 16
+      },
+      {
+        "score": 50,
+        "amount": 45
+      },
+      {
+        "score": 60,
+        "amount": 68
+      },
+      {
+        "score": 70,
+        "amount": 75
+      },
+      {
+        "score": 80,
+        "amount": 30
+      },
+      {
+        "score": 90,
+        "amount": 13
+      },
+      {
+        "score": 100,
+        "amount": 9
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 20
+      },
+      {
+        "status": "PLANNING",
+        "amount": 84
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 527
+      },
+      {
+        "status": "DROPPED",
+        "amount": 14
+      },
+      {
+        "status": "PAUSED",
+        "amount": 12
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/102718",
+  "modNotes": null
+}

@@ -1,0 +1,477 @@
+{
+  "id": 42585,
+  "idMal": 12585,
+  "title": {
+    "native": "アンダーカレント",
+    "romaji": "Undercurrent",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The manga begins as Kanae Sekiguchi, proprietor of the Tsuki no Yu bathhouse, struggles to reopen her business after the unexplained disappearance of her husband...\n",
+  "startDate": {
+    "year": 2004,
+    "month": 8,
+    "day": 25
+  },
+  "endDate": {
+    "year": 2005,
+    "month": 8,
+    "day": 25
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 11,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748793840,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42585-L6G8JcHj9Xcl.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42585-L6G8JcHj9Xcl.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx42585-L6G8JcHj9Xcl.jpg",
+    "color": null
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/42585-Gi9SWz7ehm7V.jpg",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Psychological",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Under Current"
+  ],
+  "averageScore": 69,
+  "meanScore": 71,
+  "popularity": 2404,
+  "favourites": 50,
+  "tags": [
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 90,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 109,
+      "name": "Primarily Adult Cast",
+      "description": "Main cast is mostly composed of characters above a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 86,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 145,
+      "name": "Work",
+      "description": "Centers around the activities of a certain occupation.",
+      "category": "Setting-Scene",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 694,
+      "name": "Detective",
+      "description": "Features a character who investigates and solves crimes.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 1046,
+      "name": "Suicide",
+      "description": "The act or an instance of taking or attempting to take one's own life voluntarily and intentionally.",
+      "category": "Theme-Drama",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 42302,
+          "title": {
+            "native": "珈琲時間"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 56011,
+          "title": {
+            "native": "ミスター・ボージャングル"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 295709,
+          "name": {
+            "first": "",
+            "last": "Hori",
+            "native": "堀",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295709-ljhyPGqpysNU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295709-ljhyPGqpysNU.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/295709"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 295711,
+          "name": {
+            "first": "Saburou",
+            "last": "Tajima",
+            "native": "田島三郎",
+            "alternative": [
+              "Sabu-jii"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295711-h7N7cpmISNXo.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295711-h7N7cpmISNXo.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/295711"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 295710,
+          "name": {
+            "first": "Kanae",
+            "last": "Sekiguchi",
+            "native": "関口かなえ",
+            "alternative": [
+              "Kana-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295710-pPa9rzkE5aNu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295710-pPa9rzkE5aNu.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/295710"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 295712,
+          "name": {
+            "first": "Satoru",
+            "last": "Shiraishi",
+            "native": "白石悟",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295712-dKIc8uDHcpZC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295712-dKIc8uDHcpZC.png"
+          },
+          "siteUrl": "https://anilist.co/character/295712"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 295713,
+          "name": {
+            "first": "Yamazaki",
+            "last": null,
+            "native": "山崎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b295713-xeaiLIRexRS9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b295713-xeaiLIRexRS9.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/295713"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 102209,
+          "name": {
+            "first": "Tetsuya",
+            "last": "Toyoda",
+            "native": "豊田徹也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102209-PIbjrTTRZBpa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102209-PIbjrTTRZBpa.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/102209"
+        }
+      },
+      {
+        "role": "Translator (French)",
+        "node": {
+          "id": 216220,
+          "name": {
+            "first": "Thibaud",
+            "last": "Desbief",
+            "native": null
+          },
+          "language": "FRENCH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n216220-OOqgptgeY2IE.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n216220-OOqgptgeY2IE.jpg"
+          },
+          "description": "He is a French translator, living in Japan since 10 years. He translated many well-known manga of the authors Inio Asano and Naoki Urasawa, and received the Konishi prize in 2019 for his translation of Dead Demon Dededede Destruction. ",
+          "siteUrl": "https://anilist.co/staff/216220"
+        }
+      },
+      {
+        "role": "Translator (Spanish)",
+        "node": {
+          "id": 214718,
+          "name": {
+            "first": "Marc",
+            "last": "Bernabé",
+            "native": null
+          },
+          "language": "SPANISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n214718-EZfh6IyUJaQx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n214718-EZfh6IyUJaQx.png"
+          },
+          "description": "[Twitter](https://twitter.com/marcbernabe) |  [Official Website](https://www.japonesenvinetas.com)\n\nHe is a translator and interpreter of Japanese, with special emphasis on the translation of manga and anime, a field in which he has a background of hundreds of volumes and episodes translated. In addition, he's a  specialist in didactics of the Japanese language and culture for Spanish speakers. He also has published many books about Japan and Asia.\n\nHe is famous for appearing in a Shin-chan's episode where the family goes to Spain.",
+          "siteUrl": "https://anilist.co/staff/214718"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 64173,
+      "url": "https://kc.kodansha.co.jp/product?item=0000043542",
+      "site": "Kodansha"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 26821,
+      "rank": 56,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2004,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 26918,
+      "rank": 53,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 2004,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 11193,
+          "rating": 3,
+          "media": {
+            "id": 42585,
+            "title": {
+              "native": "アンダーカレント"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33258,
+            "title": {
+              "native": "遥かな町へ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 78735,
+          "rating": 3,
+          "media": {
+            "id": 42585,
+            "title": {
+              "native": "アンダーカレント"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 57083,
+            "title": {
+              "native": "長い道"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 94519,
+          "rating": 1,
+          "media": {
+            "id": 42585,
+            "title": {
+              "native": "アンダーカレント"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31650,
+            "title": {
+              "native": "南瓜とマヨネーズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 285757,
+          "rating": 1,
+          "media": {
+            "id": 42585,
+            "title": {
+              "native": "アンダーカレント"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33731,
+            "title": {
+              "native": "ソラニン"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 5
+      },
+      {
+        "score": 30,
+        "amount": 10
+      },
+      {
+        "score": 40,
+        "amount": 19
+      },
+      {
+        "score": 50,
+        "amount": 53
+      },
+      {
+        "score": 60,
+        "amount": 128
+      },
+      {
+        "score": 70,
+        "amount": 231
+      },
+      {
+        "score": 80,
+        "amount": 228
+      },
+      {
+        "score": 90,
+        "amount": 114
+      },
+      {
+        "score": 100,
+        "amount": 29
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 74
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1181
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1108
+      },
+      {
+        "status": "DROPPED",
+        "amount": 16
+      },
+      {
+        "status": "PAUSED",
+        "amount": 25
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/42585",
+  "modNotes": null
+}

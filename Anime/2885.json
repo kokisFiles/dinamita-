@@ -1,0 +1,525 @@
+{
+  "id": 2885,
+  "idMal": 2885,
+  "title": {
+    "native": "がんばれゴエモン",
+    "romaji": "Ganbare Goemon",
+    "english": "Legend of the Mystical Ninja"
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "The evil overlord Makuamuge is planning to take over both the game and real worlds, and it is up to the ninja Goemon, his friends, girlfriend, and giant robot to defeat Makuamuge's henchmen and save both worlds.",
+  "startDate": {
+    "year": 1997,
+    "month": 10,
+    "day": 4
+  },
+  "endDate": {
+    "year": 1998,
+    "month": 3,
+    "day": 28
+  },
+  "season": "FALL",
+  "seasonYear": 1997,
+  "seasonInt": 974,
+  "episodes": 23,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748281337,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2885-t5t9qh0VZ5RZ.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2885-t5t9qh0VZ5RZ.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2885-t5t9qh0VZ5RZ.jpg",
+    "color": "#f1d643"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [],
+  "averageScore": 63,
+  "meanScore": 71,
+  "popularity": 467,
+  "favourites": 14,
+  "tags": [],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 9464,
+          "title": {
+            "native": "がんばれゴエモン 地球救出大作戦"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 8862,
+          "title": {
+            "native": "がんばれゴエモン 次元城の悪夢"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 29551,
+          "name": {
+            "first": "Goemon",
+            "last": null,
+            "native": "ゴエモン",
+            "alternative": [
+              "Kid Ying(In some of the US games)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29551.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29551.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29551"
+        },
+        "voiceActors": [
+          {
+            "id": 95310,
+            "name": {
+              "first": "Yasunori",
+              "last": "Matsumoto",
+              "native": "松本保典"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95310-n59AcIeJBg9W.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95310-n59AcIeJBg9W.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95310"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 37591,
+          "name": {
+            "first": "Ebisumaru",
+            "last": null,
+            "native": "エビス丸",
+            "alternative": [
+              "Nezumi-Kozo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/37591.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/37591.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/37591"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 37593,
+          "name": {
+            "first": "Sasuke",
+            "last": null,
+            "native": null,
+            "alternative": [
+              "Clockwork Ninja"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/37593.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/37593.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/37593"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 37592,
+          "name": {
+            "first": "Yae",
+            "last": null,
+            "native": "ヤエ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/37592.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/37592.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/37592"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Episode Director  (Ep 1, 5, 11, 17, 23)",
+        "node": {
+          "id": 101598,
+          "name": {
+            "first": "Kenichi",
+            "last": "Kasai",
+            "native": "カサヰケンイチ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6598.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6598.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/カサヰケンイチ)",
+          "siteUrl": "https://anilist.co/staff/101598"
+        }
+      },
+      {
+        "role": "Storyboard  (Ep 5, 17)",
+        "node": {
+          "id": 101598,
+          "name": {
+            "first": "Kenichi",
+            "last": "Kasai",
+            "native": "カサヰケンイチ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6598.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6598.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/カサヰケンイチ)",
+          "siteUrl": "https://anilist.co/staff/101598"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 102245,
+          "name": {
+            "first": "Yasushi",
+            "last": "Hirano",
+            "native": "平野靖士 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102245-M4x9CTE8T9By.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102245-M4x9CTE8T9By.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/平野靖士)",
+          "siteUrl": "https://anilist.co/staff/102245"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 106333,
+          "name": {
+            "first": "Katsuyoshi",
+            "last": "Yatabe",
+            "native": "谷田部勝義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106333-v2qD5RYOF8bc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106333-v2qD5RYOF8bc.png"
+          },
+          "description": "[Twitter](https://twitter.com/8tabe5817) | [Wiki (en)](https://en.wikipedia.org/wiki/Katsuyoshi_Yatabe) | [Wiki (jp)](https://ja.wikipedia.org/wiki/谷田部勝義)\n\nYatabe Katsuyoshi is a Japanese screenwriter and director.     \n\nAfter graduating he joined the Department of Arts at Nihon Daigaku in 1975. In 1978 he joined Ad Cosmo but felt that as subcontractor there would be no real productions done and thus went on to join Sunrise in 1979. There he learned under [Tomino Yoshiyuki](https://anilist.co/staff/97337) and [Takahashi Ryousuke](https://anilist.co/staff/100957) before becoming freelancer. ",
+          "siteUrl": "https://anilist.co/staff/106333"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 85,
+          "name": "Konami",
+          "siteUrl": "https://anilist.co/studio/85"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 97,
+          "name": "ADV Films",
+          "siteUrl": "https://anilist.co/studio/97"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 1437,
+      "rank": 23,
+      "type": "RATED",
+      "format": "TV",
+      "year": 1997,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 1489,
+      "rank": 35,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 1997,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 315463,
+          "rating": 3,
+          "media": {
+            "id": 2885,
+            "title": {
+              "native": "がんばれゴエモン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 11533,
+            "title": {
+              "native": "桃太郎伝説"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 315465,
+          "rating": 3,
+          "media": {
+            "id": 2885,
+            "title": {
+              "native": "がんばれゴエモン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 6093,
+            "title": {
+              "native": "あんみつ姫"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 315467,
+          "rating": 3,
+          "media": {
+            "id": 2885,
+            "title": {
+              "native": "がんばれゴエモン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1261,
+            "title": {
+              "native": "キャッ党忍伝てやんでえ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 315469,
+          "rating": 6,
+          "media": {
+            "id": 2885,
+            "title": {
+              "native": "がんばれゴエモン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 141350,
+            "title": {
+              "native": "くノ一ツバキの胸の内"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 315471,
+          "rating": 2,
+          "media": {
+            "id": 2885,
+            "title": {
+              "native": "がんばれゴエモン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 229,
+            "title": {
+              "native": "ニニンがシノブ伝"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 315473,
+          "rating": 1,
+          "media": {
+            "id": 2885,
+            "title": {
+              "native": "がんばれゴエモン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 635,
+            "title": {
+              "native": "十兵衛ちゃん -ラブリー眼帯の秘密-"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 315475,
+          "rating": 3,
+          "media": {
+            "id": 2885,
+            "title": {
+              "native": "がんばれゴエモン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 606,
+            "title": {
+              "native": "風まかせ月影蘭"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 322818,
+          "rating": 1,
+          "media": {
+            "id": 2885,
+            "title": {
+              "native": "がんばれゴエモン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 8065,
+            "title": {
+              "native": "からくり剣豪伝ムサシロード"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 377882,
+          "rating": 2,
+          "media": {
+            "id": 2885,
+            "title": {
+              "native": "がんばれゴエモン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 4130,
+            "title": {
+              "native": "ぷちえゔぁ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 9
+      },
+      {
+        "score": 30,
+        "amount": 5
+      },
+      {
+        "score": 40,
+        "amount": 4
+      },
+      {
+        "score": 50,
+        "amount": 13
+      },
+      {
+        "score": 60,
+        "amount": 18
+      },
+      {
+        "score": 70,
+        "amount": 14
+      },
+      {
+        "score": 80,
+        "amount": 31
+      },
+      {
+        "score": 90,
+        "amount": 46
+      },
+      {
+        "score": 100,
+        "amount": 10
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 28
+      },
+      {
+        "status": "PLANNING",
+        "amount": 202
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 189
+      },
+      {
+        "status": "DROPPED",
+        "amount": 32
+      },
+      {
+        "status": "PAUSED",
+        "amount": 16
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/2885",
+  "modNotes": null
+}

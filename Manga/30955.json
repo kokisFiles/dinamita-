@@ -1,0 +1,519 @@
+{
+  "id": 30955,
+  "idMal": 955,
+  "title": {
+    "native": ".hack//AI buster",
+    "romaji": ".hack//AI buster",
+    "english": ".hack//AI buster"
+  },
+  "type": "MANGA",
+  "format": "NOVEL",
+  "status": "FINISHED",
+  "description": "In the epic prequel to .hack, the avatar Albireo is a solo adventurer in The World, the most advanced online fantasy game ever created. When he comes across Lycoris, a strange little girl in a dungeon, Albireo wonders if she's simply nothing more than a bug in the system. As the two journey further into The World, Albireo watches Lycoris turn all of the rules of The World upside down. Slowly, he comes to realize that she may hold a very deadly secret--a secret that could unhinge everything in cyberspace...and beyond! <br><br>(Source: Amazon)",
+  "startDate": {
+    "year": 2002,
+    "month": 10,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2005,
+    "month": 6,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 17,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748881584,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30955-WU2bW4mJAuEM.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30955-WU2bW4mJAuEM.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b30955-WU2bW4mJAuEM.jpg",
+    "color": "#e4935d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": 69,
+  "meanScore": 76,
+  "popularity": 589,
+  "favourites": 13,
+  "tags": [
+    {
+      "id": 308,
+      "name": "Video Games",
+      "description": "Centers around characters playing video games.",
+      "category": "Theme-Game",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 112,
+      "name": "Virtual World",
+      "description": "Partly or completely set in the world inside a video game.",
+      "category": "Setting-Universe",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 517,
+      "name": "Artificial Intelligence",
+      "description": "Intelligent non-organic machines that work and react similarly to humans.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 48,
+          "title": {
+            "native": ".hack//SIGN"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 12329,
+          "name": {
+            "first": "Albireo",
+            "last": null,
+            "native": "アルビレオ",
+            "alternative": [
+              "Al"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12329.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12329.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12329"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 23872,
+          "name": {
+            "first": "Hokuto",
+            "last": null,
+            "native": "ほくと",
+            "alternative": [
+              "W.B. Yeats"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/23872.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/23872.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/23872"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 12105,
+          "name": {
+            "first": "Lycoris",
+            "last": null,
+            "native": "リコリス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12105.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12105.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12105"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2229,
+          "name": {
+            "first": "Ouka",
+            "last": null,
+            "native": "凰花",
+            "alternative": [
+              "Ouka of the Divine Fist"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2229.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2229.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2229"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2230,
+          "name": {
+            "first": "Hotaru",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2230.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2230.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2230"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2231,
+          "name": {
+            "first": "Balmung",
+            "last": null,
+            "native": "バルムンク",
+            "alternative": [
+              "Balmung of the Azure Sky"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2231.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2231.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2231"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2317,
+          "name": {
+            "first": "Kamui",
+            "last": null,
+            "native": "神威",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2317.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2317.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2317"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 10794,
+          "name": {
+            "first": "Macha",
+            "last": null,
+            "native": "マハ",
+            "alternative": [
+              "Maha"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10794.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10794.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10794"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 39,
+          "name": {
+            "first": "Tsukasa",
+            "last": null,
+            "native": "司",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/39.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/39.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/39"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 10796,
+          "name": {
+            "first": "Orca",
+            "last": null,
+            "native": "オルカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10796.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10796.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10796"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 12132,
+          "name": {
+            "first": "Rin",
+            "last": null,
+            "native": "リン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12132.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12132.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12132"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2227,
+          "name": {
+            "first": "Rena",
+            "last": "Kunisaki",
+            "native": "国崎玲奈",
+            "alternative": [
+              "Blackrose"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2227.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2227.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2227"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 96955,
+          "name": {
+            "first": "Tatsuya",
+            "last": "Hamazaki",
+            "native": "浜崎達也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/96955"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 97348,
+          "name": {
+            "first": "Rei",
+            "last": "Izumi",
+            "native": "依澄れい"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2348.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2348.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/idumirei) | [Pixiv](https://www.pixiv.net/users/2917188)\n\n",
+          "siteUrl": "https://anilist.co/staff/97348"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 31467,
+      "rank": 9,
+      "type": "RATED",
+      "format": "NOVEL",
+      "year": 2002,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 31483,
+      "rank": 10,
+      "type": "POPULAR",
+      "format": "NOVEL",
+      "year": 2002,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 9935,
+          "rating": 2,
+          "media": {
+            "id": 30955,
+            "title": {
+              "native": ".hack//AI buster"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 76024,
+            "title": {
+              "native": "ログ・ホライズン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 302239,
+          "rating": 2,
+          "media": {
+            "id": 30955,
+            "title": {
+              "native": ".hack//AI buster"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 51479,
+            "title": {
+              "native": "ソードアート・オンライン"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 4
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 8
+      },
+      {
+        "score": 60,
+        "amount": 30
+      },
+      {
+        "score": 70,
+        "amount": 35
+      },
+      {
+        "score": 80,
+        "amount": 55
+      },
+      {
+        "score": 90,
+        "amount": 44
+      },
+      {
+        "score": 100,
+        "amount": 30
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 25
+      },
+      {
+        "status": "PLANNING",
+        "amount": 208
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 321
+      },
+      {
+        "status": "DROPPED",
+        "amount": 10
+      },
+      {
+        "status": "PAUSED",
+        "amount": 25
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/30955",
+  "modNotes": null
+}

@@ -1,0 +1,943 @@
+{
+  "id": 110715,
+  "idMal": 122305,
+  "title": {
+    "native": "ONE PIECE学園!!",
+    "romaji": "ONE PIECE Gakuen!!",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "RELEASING",
+  "description": "The manga is a comedy series featuring the characters of the Straw Hat Crew in an academic setting.\n<br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 2019,
+    "month": 8,
+    "day": 2
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748861787,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110715-IqObMH5zGdOM.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110715-IqObMH5zGdOM.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx110715-IqObMH5zGdOM.jpg",
+    "color": "#e4c935"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/110715-qVwbykjL08TE.jpg",
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "ONE PIECE Academy"
+  ],
+  "averageScore": 63,
+  "meanScore": 73,
+  "popularity": 954,
+  "favourites": 13,
+  "tags": [
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 395,
+      "name": "Delinquents",
+      "description": "Features characters with a notorious image and attitude, sometimes referred to as \"yankees\".",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 595,
+      "name": "Urban",
+      "description": "Partly or completely set in a city.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 281,
+      "name": "Surreal Comedy",
+      "description": "Prominently features comedic moments that defy casual reasoning, resulting in illogical events.",
+      "category": "Theme-Comedy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 30013,
+          "title": {
+            "native": "ONE PIECE"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 40,
+          "name": {
+            "first": "Luffy",
+            "last": "Monkey",
+            "native": "モンキー・D・ルフィ",
+            "alternative": [
+              "Straw Hat",
+              "Mugiwara",
+              "Straw",
+              "Mugi",
+              "Lucy",
+              "Luffyland",
+              "Mugiwara no Luffy",
+              "Mugiwara-ya",
+              "Ruffy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b40-MNypXsxSRb1R.png"
+          },
+          "siteUrl": "https://anilist.co/character/40"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 64,
+          "name": {
+            "first": "Franky",
+            "last": "",
+            "native": "フランキー",
+            "alternative": [
+              "Cyborg",
+              "Bakanky",
+              "Iron Man",
+              "Fraland",
+              "Franosuke",
+              "Frankie"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n64-ChX6ZzHHjXqA.png"
+          },
+          "siteUrl": "https://anilist.co/character/64"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62,
+          "name": {
+            "first": "Zoro",
+            "last": "Roronoa",
+            "native": "ロロノア・ゾロ",
+            "alternative": [
+              "Zolo",
+              "Pirate Hunter",
+              "Marimo Head",
+              "Mr. Bushido",
+              "Zorojuro",
+              "Moss Head",
+              "Lorenor Zorro"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62-S7oAeA9WInjV.png"
+          },
+          "siteUrl": "https://anilist.co/character/62"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 723,
+          "name": {
+            "first": "Nami",
+            "last": "",
+            "native": "ナミ",
+            "alternative": [
+              "Cat Burglar",
+              "O-Nami",
+              "Namizo",
+              "Namiland"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b723-vp5hPptgnNEC.png"
+          },
+          "siteUrl": "https://anilist.co/character/723"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 305,
+          "name": {
+            "first": "Sanji",
+            "last": "",
+            "native": "サンジ",
+            "alternative": [
+              "Black Leg",
+              "Mr. Prince",
+              "Love Cook",
+              "Ero Cook",
+              "Curly Eyebrows",
+              "O-Soba Mask",
+              "Sangoro",
+              "Mr. Nosebleed",
+              "San-gorou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305-6lisPmHtCnLT.png"
+          },
+          "siteUrl": "https://anilist.co/character/305"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 61,
+          "name": {
+            "first": "Robin",
+            "last": "Nico",
+            "native": "ニコロビン",
+            "alternative": [
+              "Demon Child",
+              "Miss All Sunday",
+              "Light of the Revolution",
+              "O-Robi",
+              "Robiland",
+              "Ms. Sunday",
+              "Devil Child"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b61-ywXUyyocEEqt.png"
+          },
+          "siteUrl": "https://anilist.co/character/61"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5627,
+          "name": {
+            "first": "Brook",
+            "last": "",
+            "native": "ブルック",
+            "alternative": [
+              "Dead Bones",
+              "Soul King",
+              "Satan-sama",
+              "Boneland",
+              "Honekichi",
+              "Bonekichi",
+              "The Starving Skeleton",
+              "Humming Brook"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5627-av8oD3zhKvDl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5627-av8oD3zhKvDl.png"
+          },
+          "siteUrl": "https://anilist.co/character/5627"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 724,
+          "name": {
+            "first": "Usopp",
+            "last": null,
+            "native": "ウソップ",
+            "alternative": [
+              "Long-Nose",
+              "Usohachi",
+              "Usoland",
+              "Sogeking",
+              "Lysop"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b724-GFGgI9AJQkfy.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b724-GFGgI9AJQkfy.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/724"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 309,
+          "name": {
+            "first": "Chopper",
+            "last": "Tony Tony",
+            "native": "トニートニー・チョッパー",
+            "alternative": [
+              "Tanuki",
+              "Chopperman",
+              "Cotton Candy Lover",
+              "Racoon Dog",
+              "Chobro",
+              "Chopa-emon  (チョッパえもん)",
+              "Chopperemon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309-H64NhbJ2ywIQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/309"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 12361,
+          "name": {
+            "first": "Koby",
+            "last": null,
+            "native": "コビー",
+            "alternative": [
+              "Coby"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12361-H0SmgKxZ9T61.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12361-H0SmgKxZ9T61.png"
+          },
+          "siteUrl": "https://anilist.co/character/12361"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5910,
+          "name": {
+            "first": "Kalifa",
+            "last": null,
+            "native": "カリファ",
+            "alternative": [
+              "Califa"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5910-Ec5mCnChAdBT.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5910-Ec5mCnChAdBT.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5910"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 725,
+          "name": {
+            "first": "Buggy",
+            "last": null,
+            "native": "バギー",
+            "alternative": [
+              "The Clown",
+              "Captain Buggy",
+              "Big Nose",
+              "Buggy the Star Clown",
+              "Buggy the Genius Jester",
+              "Baggy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n725-g04AaiaK5f9B.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n725-g04AaiaK5f9B.png"
+          },
+          "siteUrl": "https://anilist.co/character/725"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 726,
+          "name": {
+            "first": "Vivi",
+            "last": "Nefertari",
+            "native": "ネフェルタリ・ビビ",
+            "alternative": [
+              "Miss Wednesday",
+              "Nefeltari Vivi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b726-DqAIpscMuYYx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b726-DqAIpscMuYYx.png"
+          },
+          "siteUrl": "https://anilist.co/character/726"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2064,
+          "name": {
+            "first": "Dracule Mihawk",
+            "last": "",
+            "native": "ジュラキュール・ミホーク",
+            "alternative": [
+              "Hawk-Eyes",
+              "Strongest Swordsman in the World"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n2064-OpnF4nLi6bvL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n2064-OpnF4nLi6bvL.png"
+          },
+          "siteUrl": "https://anilist.co/character/2064"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6183,
+          "name": {
+            "first": "Kaku",
+            "last": null,
+            "native": "カク",
+            "alternative": [
+              "The Mountain Wind",
+              "Yamakaze (山風)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6183-gmHoUzp8Eh8E.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b6183-gmHoUzp8Eh8E.png"
+          },
+          "siteUrl": "https://anilist.co/character/6183"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 11394,
+          "name": {
+            "first": "Blueno",
+            "last": null,
+            "native": "ブルーノ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11394-hQsNGXPOw0m0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b11394-hQsNGXPOw0m0.png"
+          },
+          "siteUrl": "https://anilist.co/character/11394"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2752,
+          "name": {
+            "first": "Kuzan",
+            "last": null,
+            "native": "クザン",
+            "alternative": [
+              "Aokiji",
+              "Admiral",
+              "The Blue Pheasant"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2752-0ENS2a39muDz.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2752-0ENS2a39muDz.png"
+          },
+          "siteUrl": "https://anilist.co/character/2752"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5677,
+          "name": {
+            "first": "Lucci",
+            "last": "Rob",
+            "native": "ロブ･ルッチ",
+            "alternative": [
+              "Pigeon Guy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5677-ZrZunVe7Kq5P.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5677-ZrZunVe7Kq5P.png"
+          },
+          "siteUrl": "https://anilist.co/character/5677"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 11400,
+          "name": {
+            "first": "Jyabura",
+            "last": null,
+            "native": "ジャブラ",
+            "alternative": [
+              "Jabra"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11400-Ra81iEpbLveF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b11400-Ra81iEpbLveF.png"
+          },
+          "siteUrl": "https://anilist.co/character/11400"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 11396,
+          "name": {
+            "first": "Fukurou",
+            "last": null,
+            "native": "フクロウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11396-izqx8me6Q3DZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b11396-izqx8me6Q3DZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/11396"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4784,
+          "name": {
+            "first": "Kumadori",
+            "last": null,
+            "native": "クマドリ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4784-N2iuEYijo01x.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4784-N2iuEYijo01x.png"
+          },
+          "siteUrl": "https://anilist.co/character/4784"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2749,
+          "name": {
+            "first": "Crocodile",
+            "last": null,
+            "native": "クロコダイル",
+            "alternative": [
+              "Mr. 0",
+              "Crocoboy",
+              "Sir Crocodile",
+              "Desert King"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2749-e8ebEBN1SlS2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2749-e8ebEBN1SlS2.png"
+          },
+          "siteUrl": "https://anilist.co/character/2749"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 22687,
+          "name": {
+            "first": "Sakazuki",
+            "last": null,
+            "native": "サカズキ",
+            "alternative": [
+              "Akainu",
+              "Admiral",
+              "The Red Dog"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22687-tCQVpj6wZhRk.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b22687-tCQVpj6wZhRk.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/22687"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21093,
+          "name": {
+            "first": "Borsalino",
+            "last": null,
+            "native": "ボルサリーノ",
+            "alternative": [
+              "Kizaru",
+              "The Yellow Monkey"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21093-Pc4kOjUn3ZkZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b21093-Pc4kOjUn3ZkZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/21093"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13767,
+          "name": {
+            "first": "Law",
+            "last": "Trafalgar",
+            "native": "トラファルガー・ロー",
+            "alternative": [
+              "Surgeon of Death",
+              "Dark Doctor",
+              "Trafal-Guy",
+              "Traffy",
+              "Torao"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13767-U604OJN9dxCn.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13767-U604OJN9dxCn.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13767"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 96881,
+          "name": {
+            "first": "Eiichirou",
+            "last": "Oda",
+            "native": "尾田栄一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96881-Cyv6wFJxpDw7.png"
+          },
+          "description": "__Favorite Animal:__ Big gentle dogs\n__Favorite Mangaka:__ [Akira Toriyama](https://anilist.co/staff/96901/Akira-Toriyama)\n__Favorite Music:__ '70s soul music\n__Favorite Real-Life Pirate:__ Edward Teach (Blackbeard)\n__Favorite Video Game:__ Puyo Puyo\n__Trivia:__\n- Oda is married to Chiaki Inaba, who had played Nami during Jump Festa One Piece stage performances.\n- In a recent Japanese fan poll, Oda is currently ranked the 48th Most Popular Character in [One Piece](https://anilist.co/manga/30013/One-Piece/), despite the fact that he has never included himself in any issue of the manga (excluding SBS).\n- He voiced the character [\"Odacchi\" (オダッチ)](https://anilist.co/character/12281/Eiichirou-Oda) in a [soccer-themed short](https://anilist.co/anime/2386/ONE-PIECE-Yume-no-Soccer-Ou/) that aired with the [3rd One Piece Movie](https://anilist.co/anime/461/One-Piece-Choppers-Kingdom-on-the-Island-of-Strange-Animals/). \"Odacchi\" is Oda's nickname, and he played soccer when he was younger.\n- Oda is a fan of rapper Eminem, filmmaker Quentin Tarantino and [Tim Burton](https://anilist.co/staff/323667/Timothy-Walter-Burton).\n- Oda's 3 favorite movies are Seven Samurai, The Nightmare Before Christmas, and Young Guns.\n- According to Oda in an interview for US Shonen Jump, his favorite villain in One Piece is [Buggy the Clown](https://anilist.co/character/725/Buggy) (he joked that he literally threw him together).",
+          "siteUrl": "https://anilist.co/staff/96881"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 142514,
+          "name": {
+            "first": "Souhei",
+            "last": "Kouji",
+            "native": "小路壮平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142514-WRyOqPyaiObX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n142514-WRyOqPyaiObX.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/koujisouhei)",
+          "siteUrl": "https://anilist.co/staff/142514"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 46830,
+      "url": "https://shonenjumpplus.com/episode/3269754496842971420",
+      "site": "Shonen Jump Plus"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 61224,
+          "rating": 0,
+          "media": {
+            "id": 110715,
+            "title": {
+              "native": "ONE PIECE学園!!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 82353,
+            "title": {
+              "native": "チョッパーマン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 61226,
+          "rating": 2,
+          "media": {
+            "id": 110715,
+            "title": {
+              "native": "ONE PIECE学園!!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 102533,
+            "title": {
+              "native": "ワンピース パーティー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 124362,
+          "rating": 0,
+          "media": {
+            "id": 110715,
+            "title": {
+              "native": "ONE PIECE学園!!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 110258,
+            "title": {
+              "native": "CHIN PIECE"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 133342,
+          "rating": 3,
+          "media": {
+            "id": 110715,
+            "title": {
+              "native": "ONE PIECE学園!!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 136382,
+            "title": {
+              "native": "キメツ学園！ "
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 133344,
+          "rating": 2,
+          "media": {
+            "id": 110715,
+            "title": {
+              "native": "ONE PIECE学園!!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 66535,
+            "title": {
+              "native": "進撃！巨人中学校"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 136034,
+          "rating": 1,
+          "media": {
+            "id": 110715,
+            "title": {
+              "native": "ONE PIECE学園!!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 86652,
+            "title": {
+              "native": "僕のヒーローアカデミアすまっしゅ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 416371,
+          "rating": 1,
+          "media": {
+            "id": 110715,
+            "title": {
+              "native": "ONE PIECE学園!!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 108431,
+            "title": {
+              "native": "君たちはどう生きるか"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 3
+      },
+      {
+        "score": 50,
+        "amount": 7
+      },
+      {
+        "score": 60,
+        "amount": 21
+      },
+      {
+        "score": 70,
+        "amount": 24
+      },
+      {
+        "score": 80,
+        "amount": 18
+      },
+      {
+        "score": 90,
+        "amount": 20
+      },
+      {
+        "score": 100,
+        "amount": 16
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 255
+      },
+      {
+        "status": "PLANNING",
+        "amount": 500
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 78
+      },
+      {
+        "status": "DROPPED",
+        "amount": 41
+      },
+      {
+        "status": "PAUSED",
+        "amount": 80
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/110715",
+  "modNotes": null
+}

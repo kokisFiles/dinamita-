@@ -1,0 +1,837 @@
+{
+  "id": 5292,
+  "idMal": 5292,
+  "title": {
+    "native": "ゲッターロボ號",
+    "romaji": "Getter Robo Go",
+    "english": "Getter Robo Go"
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "A new Getter robot is piloted by three youth as they combat the evil terrors that plague the world.",
+  "startDate": {
+    "year": 1991,
+    "month": 2,
+    "day": 11
+  },
+  "endDate": {
+    "year": 1992,
+    "month": 1,
+    "day": 27
+  },
+  "season": "WINTER",
+  "seasonYear": 1991,
+  "seasonInt": 911,
+  "episodes": 50,
+  "duration": 20,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748716023,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5292-DLiutsWESCEr.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5292-DLiutsWESCEr.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5292-DLiutsWESCEr.jpg",
+    "color": "#e41a35"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha"
+  ],
+  "synonyms": [],
+  "averageScore": 61,
+  "meanScore": 65,
+  "popularity": 1079,
+  "favourites": 9,
+  "tags": [
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 159,
+      "name": "Super Robot",
+      "description": "Prominently features large robots often piloted by hot-blooded protagonists.",
+      "category": "Theme-Sci-Fi-Mecha",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 938,
+          "title": {
+            "native": "真ゲッターロボ対ネオゲッターロボ"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 3579,
+          "title": {
+            "native": "ゲッターロボ"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 4486,
+          "title": {
+            "native": "ゲッターロボG"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 15784,
+          "name": {
+            "first": "Go",
+            "last": "Ichimonji",
+            "native": "一文字號",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15784.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15784.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15784"
+        },
+        "voiceActors": [
+          {
+            "id": 95134,
+            "name": {
+              "first": "Takeshi",
+              "last": "Kusao",
+              "native": "草尾毅"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95134-OZzRIDS8eAUd.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95134-OZzRIDS8eAUd.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95134"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 174767,
+          "name": {
+            "first": "Sho",
+            "last": "Tachibana",
+            "native": "橘翔",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174767-5FS2YGJogIdc.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174767-5FS2YGJogIdc.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/174767"
+        },
+        "voiceActors": [
+          {
+            "id": 95983,
+            "name": {
+              "first": "Yuuko",
+              "last": "Kobayashi",
+              "native": "小林優子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95983-lqRFYTojbkRi.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95983-lqRFYTojbkRi.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95983"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 26571,
+          "name": {
+            "first": "Gai",
+            "last": "Daidou",
+            "native": "大道剴",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/26571.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/26571.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/26571"
+        },
+        "voiceActors": [
+          {
+            "id": 95416,
+            "name": {
+              "first": "Akira",
+              "last": "Kamiya",
+              "native": "神谷明"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95416-8rk0Oq3ZXYjt.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95416-8rk0Oq3ZXYjt.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95416"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 100374,
+          "name": {
+            "first": "Ken",
+            "last": "Ishikawa",
+            "native": "石川賢"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100374-zzyz6cJDidMd.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100374-zzyz6cJDidMd.jpg"
+          },
+          "description": "Ken Ishikawa was a Japanese manga artist. He is renowned as the co-creator, with Go Nagai, of the Getter Robo anime series, as well as four of their subsequent manga continuations.    He collapsed at a dinner banquet, after a day of golf, and was rushed to the hospital where he was pronounced dead according to his mentor, [Go Nagai](https://anilist.co/staff/97992/).",
+          "siteUrl": "https://anilist.co/staff/100374"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 101727,
+          "name": {
+            "first": "Takahiro",
+            "last": "Kagami",
+            "native": "加々美高浩"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101727-BscMKGNhO7Di.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101727-BscMKGNhO7Di.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/jetikariya50)\n\nAcknowledged internationally for his work on [Yu☆Gi☆Oh!](https://anilist.co/anime/481/) and [Death Note](https://anilist.co/anime/1535/).\n\nFamous for his depictions of fingers and the \"Joey Chin\" in Yu-Gi-Oh!.",
+          "siteUrl": "https://anilist.co/staff/101727"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 101801,
+          "name": {
+            "first": "Yutaka",
+            "last": "Nakamura",
+            "native": "中村豊"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101801-416ksCeKNeKY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101801-416ksCeKNeKY.png"
+          },
+          "description": "[Twitter](https://twitter.com/sekise10) | [Sakugabooru](https://www.sakugabooru.com/post?tags=yutaka_nakamura) | [Wiki (jp)](https://ja.wikipedia.org/wiki/中村豊_(アニメーター%29)\n\nYutaka Nakamura graduated from Yoyogi Animation Gakuin and first joined studio Ad Cosmo. After switching several studios; from Art Office Sharaku, to Anime Torotoro, to [Sunrise](https://anilist.co/studio/14/), he eventually settled at [Bones](https://anilist.co/studio/4/) with a contract.\n\nNakamura is considered to be among the best action animators, with his scenes featuring catchy movement and effects. Some of his recognizable traits include camera shaking, blurs, and bending and stretching high-speed objects. His fights are praised for its weighty, intense choreographies that are heavy on impact frames. His signature trait is drawing debris as simple cubes, consequentially named \"Yutapon Cubes,\" which are stylistic and easy to draw. Despite being responsible for popularizing it, Nakamura has stated that he started doing it when he noticed [Satoru Utsunomiya](https://anilist.co/staff/101489/) doing it. \n\n(Source: Animators Wiki)",
+          "siteUrl": "https://anilist.co/staff/101801"
+        }
+      },
+      {
+        "role": "Script (eps 1, 5, 9, 12, 16, 20, 24, 29, 34, 38, 39, 45, 50)",
+        "node": {
+          "id": 106506,
+          "name": {
+            "first": "Hiroyuki",
+            "last": "Hoshiyama",
+            "native": "星山博之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106506-HubkT6MHxdML.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106506-HubkT6MHxdML.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/%E6%98%9F%E5%B1%B1%E5%8D%9A%E4%B9%8B)\n\nHiroyuki Hoshiyama was a renown screenwriter. He started his career in [Mushi Production](https://anilist.co/studio/68/) in 1967, but left it later in 1973 and worked as a freelancer until his passing.",
+          "siteUrl": "https://anilist.co/staff/106506"
+        }
+      },
+      {
+        "role": "Key Animation (ep 49)",
+        "node": {
+          "id": 125820,
+          "name": {
+            "first": "Hideki",
+            "last": "Hamasu",
+            "native": "濱洲英喜"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n125820-xa0704IntEUG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n125820-xa0704IntEUG.png"
+          },
+          "description": "Hamasu's animation mainly focuses on character acting, and his scenes often feature minimal camerawork with a heavy emphasis on expressive facial and body animation. Much like [Kouichi Arai](https://anilist.co/staff/121208/), he was heavily influenced by [Junichi Hayama](https://anilist.co/staff/140660/) and the late '80s realism. Early in his career he was employed at Toei Animation, and was thus a recurring presence in the studio's OVA works such as [Xanadu](https://anilist.co/anime/5920/), [Crying Freeman](https://anilist.co/anime/1153/) and [Vampire Wars](https://anilist.co/anime/1765/). His rising prominence during the early '90s allowed him to participate on [Ghost in the Shell](https://anilist.co/anime/43/), and from thereon he has been in high demand for feature films.\n\nIn 1993, Hamasu animated the car chase on [Satoshi Kon](https://anilist.co/staff/99580/)’s episode of the [JoJo’s Bizarre Adventure](https://anilist.co/anime/666/). The scene impressed Kon enough for Hamasu to end up as a character designer and animation director on [Perfect Blue](https://anilist.co/anime/437/). He was also set to serve a similar role in [Millennium Actress](https://anilist.co/anime/1033/), but was replaced in the role by [Takeshi Honda](https://anilist.co/staff/103303/) due to having contracted a severe tendon inflammation. He appeared on all of Kon’s films, as well as [Paranoia Agent](https://anilist.co/anime/323/) until the director's passing.\n\nMore recently he has mostly worked on [Ghibli](https://anilist.co/studio/21/) and [Hosoda](https://anilist.co/staff/100067/)'s films.",
+          "siteUrl": "https://anilist.co/staff/125820"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 135805,
+          "name": {
+            "first": "Shinzou",
+            "last": "Yuki ",
+            "native": "行信三"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/行信三)\n\nAffiliated with [Toei Animation](https://anilist.co/studio/18/) since the early '80s.\n\nMarried to [Yukie Yuki](https://anilist.co/staff/135806/).",
+          "siteUrl": "https://anilist.co/staff/135805"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97992,
+          "name": {
+            "first": "Gou",
+            "last": "Nagai",
+            "native": "永井豪"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97992-N7uzR2y78tfB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97992-N7uzR2y78tfB.png"
+          },
+          "description": "Kiyoshi Nagai, better known by the pen name Gou Nagai, is a Japanese manga artist and a prolific author of science fiction, fantasy, horror and erotica. He made his professional debut in 1967 with Meakashi Polikichi, but is best known for creating popular 1970s manga and anime series such as [Cutie Honey](https://anilist.co/manga/86168/Cutey-Honey/), [Devilman](https://anilist.co/manga/31474/Devilman/) and [Mazinger Z](https://anilist.co/manga/38773/Mazinger-Z/). He is credited with creating the super robot genre and for designing the first mecha robots piloted by a user from within a cockpit with Mazinger Z, and for pioneering the magical girl genre with Cutie Honey, the post-apocalyptic genre with [Violence Jack](https://anilist.co/manga/31442/Violence-Jack/), and the ecchi genre with [Harenchi Gakuen](https://anilist.co/manga/42808/Harenchi-Gakuen/). \n\nIn 2005, he became a Character Design professor at the Osaka University of Arts. He has been a member of the Tezuka Osamu Cultural Prize's nominating committee since 2009.",
+          "siteUrl": "https://anilist.co/staff/97992"
+        }
+      },
+      {
+        "role": "Insert Song Composition (\"Aku no Hana\")",
+        "node": {
+          "id": 169740,
+          "name": {
+            "first": "Chuumei",
+            "last": "Watanabe",
+            "native": "渡辺宙明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n169740-EyfxSk07gOrt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n169740-EyfxSk07gOrt.jpg"
+          },
+          "description": "Watanabe Chuumei  is a music composer and arranger. He graduated from Meiwa High School and went to University of Tokyo (Toudai) where he majored in Psychology.\n\nHe is a well known composer active for 50 years. His work included composition and arrangement for many popular artists, as well as composition work for film and tv drama. Another major source of his work were anime series.\n\nWhile being mostly known under the name Watanabe Chuumei (ちゅうめい), his first name is actually read as Michiaki.\n\nHis son is the film and anime music composer [Watanabe Toshiyuki](https://anilist.co/staff/110725).\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/169740"
+        }
+      },
+      {
+        "role": "Insert Song Arrangement (\"Aku no Hana\")",
+        "node": {
+          "id": 257140,
+          "name": {
+            "first": "Katsunori",
+            "last": "Ishida",
+            "native": "石田勝範"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n257140-crQNPomosRMR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n257140-crQNPomosRMR.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/石田勝範)",
+          "siteUrl": "https://anilist.co/staff/257140"
+        }
+      },
+      {
+        "role": "Insert Song Lyrics (\"Aku no Hana\")",
+        "node": {
+          "id": 335790,
+          "name": {
+            "first": "Ikki",
+            "last": "Matsumoto",
+            "native": "松本一起"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n335790-FvPOKEDWrZsH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n335790-FvPOKEDWrZsH.png"
+          },
+          "description": "Ikki Matsumoto was a Japanese lyricist. \nHe wrote over 3,000 songs and dominated the charts during the idol boom of the 1980s.",
+          "siteUrl": "https://anilist.co/staff/335790"
+        }
+      },
+      {
+        "role": "Insert Song Performance (\"Futsukatte Koi\"; eps 35, 36, 42, 50)",
+        "node": {
+          "id": 101024,
+          "name": {
+            "first": "Ichirou",
+            "last": "Mizuki",
+            "native": "水木一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101024-Q4dA8pSUVnwg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101024-Q4dA8pSUVnwg.jpg"
+          },
+          "description": "__Birth Name:__ Toshio Hayakawa (早川俊夫)\n__Place of Birth:__ Tokyo, Japan",
+          "siteUrl": "https://anilist.co/staff/101024"
+        }
+      },
+      {
+        "role": "Insert Song Arrangement (\"Dear Friends\"; ep 50)",
+        "node": {
+          "id": 257140,
+          "name": {
+            "first": "Katsunori",
+            "last": "Ishida",
+            "native": "石田勝範"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n257140-crQNPomosRMR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n257140-crQNPomosRMR.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/石田勝範)",
+          "siteUrl": "https://anilist.co/staff/257140"
+        }
+      },
+      {
+        "role": "Insert Song Composition (\"Dear Friends\"; ep 50)",
+        "node": {
+          "id": 169740,
+          "name": {
+            "first": "Chuumei",
+            "last": "Watanabe",
+            "native": "渡辺宙明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n169740-EyfxSk07gOrt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n169740-EyfxSk07gOrt.jpg"
+          },
+          "description": "Watanabe Chuumei  is a music composer and arranger. He graduated from Meiwa High School and went to University of Tokyo (Toudai) where he majored in Psychology.\n\nHe is a well known composer active for 50 years. His work included composition and arrangement for many popular artists, as well as composition work for film and tv drama. Another major source of his work were anime series.\n\nWhile being mostly known under the name Watanabe Chuumei (ちゅうめい), his first name is actually read as Michiaki.\n\nHis son is the film and anime music composer [Watanabe Toshiyuki](https://anilist.co/staff/110725).\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/169740"
+        }
+      },
+      {
+        "role": "Insert Song Lyrics (\"Koibito no Yobitai\")",
+        "node": {
+          "id": 335790,
+          "name": {
+            "first": "Ikki",
+            "last": "Matsumoto",
+            "native": "松本一起"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n335790-FvPOKEDWrZsH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n335790-FvPOKEDWrZsH.png"
+          },
+          "description": "Ikki Matsumoto was a Japanese lyricist. \nHe wrote over 3,000 songs and dominated the charts during the idol boom of the 1980s.",
+          "siteUrl": "https://anilist.co/staff/335790"
+        }
+      },
+      {
+        "role": "Insert Song Performance (\"Koibito no Yobitai\")",
+        "node": {
+          "id": 95134,
+          "name": {
+            "first": "Takeshi",
+            "last": "Kusao",
+            "native": "草尾毅"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95134-OZzRIDS8eAUd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95134-OZzRIDS8eAUd.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/95134"
+        }
+      },
+      {
+        "role": "Insert Song Composition (\"Koibito no Yobitai\")",
+        "node": {
+          "id": 169740,
+          "name": {
+            "first": "Chuumei",
+            "last": "Watanabe",
+            "native": "渡辺宙明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n169740-EyfxSk07gOrt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n169740-EyfxSk07gOrt.jpg"
+          },
+          "description": "Watanabe Chuumei  is a music composer and arranger. He graduated from Meiwa High School and went to University of Tokyo (Toudai) where he majored in Psychology.\n\nHe is a well known composer active for 50 years. His work included composition and arrangement for many popular artists, as well as composition work for film and tv drama. Another major source of his work were anime series.\n\nWhile being mostly known under the name Watanabe Chuumei (ちゅうめい), his first name is actually read as Michiaki.\n\nHis son is the film and anime music composer [Watanabe Toshiyuki](https://anilist.co/staff/110725).\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/169740"
+        }
+      },
+      {
+        "role": "Insert Song Lyrics (\"Dear Friends\"; ep 50)",
+        "node": {
+          "id": 335790,
+          "name": {
+            "first": "Ikki",
+            "last": "Matsumoto",
+            "native": "松本一起"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n335790-FvPOKEDWrZsH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n335790-FvPOKEDWrZsH.png"
+          },
+          "description": "Ikki Matsumoto was a Japanese lyricist. \nHe wrote over 3,000 songs and dominated the charts during the idol boom of the 1980s.",
+          "siteUrl": "https://anilist.co/staff/335790"
+        }
+      },
+      {
+        "role": "Insert Song Composition (\"Futsukatte Koi\"; eps 35, 36, 42, 50)",
+        "node": {
+          "id": 169740,
+          "name": {
+            "first": "Chuumei",
+            "last": "Watanabe",
+            "native": "渡辺宙明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n169740-EyfxSk07gOrt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n169740-EyfxSk07gOrt.jpg"
+          },
+          "description": "Watanabe Chuumei  is a music composer and arranger. He graduated from Meiwa High School and went to University of Tokyo (Toudai) where he majored in Psychology.\n\nHe is a well known composer active for 50 years. His work included composition and arrangement for many popular artists, as well as composition work for film and tv drama. Another major source of his work were anime series.\n\nWhile being mostly known under the name Watanabe Chuumei (ちゅうめい), his first name is actually read as Michiaki.\n\nHis son is the film and anime music composer [Watanabe Toshiyuki](https://anilist.co/staff/110725).\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/169740"
+        }
+      },
+      {
+        "role": "Insert Song Lyrics (\"Futsukatte Koi\"; eps 35, 36, 42, 50)",
+        "node": {
+          "id": 335790,
+          "name": {
+            "first": "Ikki",
+            "last": "Matsumoto",
+            "native": "松本一起"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n335790-FvPOKEDWrZsH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n335790-FvPOKEDWrZsH.png"
+          },
+          "description": "Ikki Matsumoto was a Japanese lyricist. \nHe wrote over 3,000 songs and dominated the charts during the idol boom of the 1980s.",
+          "siteUrl": "https://anilist.co/staff/335790"
+        }
+      },
+      {
+        "role": "Insert Song Composition (\"Wannyan Dr.\")",
+        "node": {
+          "id": 169740,
+          "name": {
+            "first": "Chuumei",
+            "last": "Watanabe",
+            "native": "渡辺宙明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n169740-EyfxSk07gOrt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n169740-EyfxSk07gOrt.jpg"
+          },
+          "description": "Watanabe Chuumei  is a music composer and arranger. He graduated from Meiwa High School and went to University of Tokyo (Toudai) where he majored in Psychology.\n\nHe is a well known composer active for 50 years. His work included composition and arrangement for many popular artists, as well as composition work for film and tv drama. Another major source of his work were anime series.\n\nWhile being mostly known under the name Watanabe Chuumei (ちゅうめい), his first name is actually read as Michiaki.\n\nHis son is the film and anime music composer [Watanabe Toshiyuki](https://anilist.co/staff/110725).\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/169740"
+        }
+      },
+      {
+        "role": "Insert Song Lyrics (\"Wannyan Dr.\")",
+        "node": {
+          "id": 335790,
+          "name": {
+            "first": "Ikki",
+            "last": "Matsumoto",
+            "native": "松本一起"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n335790-FvPOKEDWrZsH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n335790-FvPOKEDWrZsH.png"
+          },
+          "description": "Ikki Matsumoto was a Japanese lyricist. \nHe wrote over 3,000 songs and dominated the charts during the idol boom of the 1980s.",
+          "siteUrl": "https://anilist.co/staff/335790"
+        }
+      },
+      {
+        "role": "Insert Song Arrangement (\"Futsukatte Koi\"; eps 35, 36, 42, 50)",
+        "node": {
+          "id": 257140,
+          "name": {
+            "first": "Katsunori",
+            "last": "Ishida",
+            "native": "石田勝範"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n257140-crQNPomosRMR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n257140-crQNPomosRMR.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/石田勝範)",
+          "siteUrl": "https://anilist.co/staff/257140"
+        }
+      },
+      {
+        "role": "Insert Song Arrangement (\"Wannyan Dr.\")",
+        "node": {
+          "id": 257140,
+          "name": {
+            "first": "Katsunori",
+            "last": "Ishida",
+            "native": "石田勝範"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n257140-crQNPomosRMR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n257140-crQNPomosRMR.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/石田勝範)",
+          "siteUrl": "https://anilist.co/staff/257140"
+        }
+      },
+      {
+        "role": "Insert Song Composition (\"NISAR\"; eps 32, 36, 39, 44)",
+        "node": {
+          "id": 169740,
+          "name": {
+            "first": "Chuumei",
+            "last": "Watanabe",
+            "native": "渡辺宙明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n169740-EyfxSk07gOrt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n169740-EyfxSk07gOrt.jpg"
+          },
+          "description": "Watanabe Chuumei  is a music composer and arranger. He graduated from Meiwa High School and went to University of Tokyo (Toudai) where he majored in Psychology.\n\nHe is a well known composer active for 50 years. His work included composition and arrangement for many popular artists, as well as composition work for film and tv drama. Another major source of his work were anime series.\n\nWhile being mostly known under the name Watanabe Chuumei (ちゅうめい), his first name is actually read as Michiaki.\n\nHis son is the film and anime music composer [Watanabe Toshiyuki](https://anilist.co/staff/110725).\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/169740"
+        }
+      },
+      {
+        "role": "Insert Song Performance (\"Wannyan Dr.\")",
+        "node": {
+          "id": 95683,
+          "name": {
+            "first": "Mitsuko",
+            "last": "Horie",
+            "native": "堀江美都子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95683-MajreqecBQpy.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95683-MajreqecBQpy.jpg"
+          },
+          "description": "__Height:__ 153 cm\n\nMitsuko Horie is a Japanese seiyuu and singer. She was born in Yamato, Kanagawa, Japan. She is most known to American anime fans as the voice of Sailor Galaxia, but in all Latin-America she is know as the \"Candy-Candy\" opening theme singer.",
+          "siteUrl": "https://anilist.co/staff/95683"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 18,
+          "name": "Toei Animation",
+          "siteUrl": "https://anilist.co/studio/18"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 921,
+          "name": "Dynamic Planning",
+          "siteUrl": "https://anilist.co/studio/921"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 1064,
+      "rank": 22,
+      "type": "RATED",
+      "format": "TV",
+      "year": 1991,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 1085,
+      "rank": 13,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 1991,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 179271,
+          "rating": -2,
+          "media": {
+            "id": 5292,
+            "title": {
+              "native": "ゲッターロボ號"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 519,
+            "title": {
+              "native": "まほらば ~Heartful days~"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 216890,
+          "rating": 1,
+          "media": {
+            "id": 5292,
+            "title": {
+              "native": "ゲッターロボ號"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 978,
+            "title": {
+              "native": "真(チェンジ!!)ゲッターロボ~世界最後の日"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 216892,
+          "rating": 0,
+          "media": {
+            "id": 5292,
+            "title": {
+              "native": "ゲッターロボ號"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 125640,
+            "title": {
+              "native": "ゲッターロボ アーク"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 14
+      },
+      {
+        "score": 20,
+        "amount": 9
+      },
+      {
+        "score": 30,
+        "amount": 9
+      },
+      {
+        "score": 40,
+        "amount": 11
+      },
+      {
+        "score": 50,
+        "amount": 23
+      },
+      {
+        "score": 60,
+        "amount": 34
+      },
+      {
+        "score": 70,
+        "amount": 33
+      },
+      {
+        "score": 80,
+        "amount": 76
+      },
+      {
+        "score": 90,
+        "amount": 25
+      },
+      {
+        "score": 100,
+        "amount": 18
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 72
+      },
+      {
+        "status": "PLANNING",
+        "amount": 552
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 334
+      },
+      {
+        "status": "DROPPED",
+        "amount": 73
+      },
+      {
+        "status": "PAUSED",
+        "amount": 48
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/5292",
+  "modNotes": null
+}

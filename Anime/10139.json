@@ -1,0 +1,168 @@
+{
+  "id": 10139,
+  "idMal": 10139,
+  "title": {
+    "native": "２１世紀まんがはじめて物語",
+    "romaji": "21 Seiki Manga Hajimete Monogatari",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2001,
+    "month": 3,
+    "day": 30
+  },
+  "endDate": {
+    "year": 2001,
+    "month": 3,
+    "day": 30
+  },
+  "season": "SPRING",
+  "seasonYear": 2001,
+  "seasonInt": 12,
+  "episodes": 1,
+  "duration": 30,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748017758,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10139.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10139.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/10139.jpg",
+    "color": "#35c9e4"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 41,
+  "popularity": 150,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 10138,
+          "title": {
+            "native": "まんがはじめて面白塾"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 59019,
+          "name": {
+            "first": "Mogutan",
+            "last": null,
+            "native": "モグタン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/59019.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/59019.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/59019"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 5
+      },
+      {
+        "score": 60,
+        "amount": 3
+      },
+      {
+        "score": 70,
+        "amount": 5
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 6
+      },
+      {
+        "status": "PLANNING",
+        "amount": 57
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 48
+      },
+      {
+        "status": "DROPPED",
+        "amount": 32
+      },
+      {
+        "status": "PAUSED",
+        "amount": 7
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/10139",
+  "modNotes": null
+}

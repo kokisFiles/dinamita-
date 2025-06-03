@@ -1,0 +1,562 @@
+{
+  "id": 10810,
+  "idMal": 10810,
+  "title": {
+    "native": "뿌까 2",
+    "romaji": "Pucca 2",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "The second series of Pucca.",
+  "startDate": {
+    "year": 2008,
+    "month": 3,
+    "day": 7
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 7,
+    "day": 24
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 13,
+  "duration": 23,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "KR",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748883004,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10810-XdKgqwcnaeQj.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10810-XdKgqwcnaeQj.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx10810-XdKgqwcnaeQj.jpg",
+    "color": "#e49335"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Romance"
+  ],
+  "synonyms": [],
+  "averageScore": 62,
+  "meanScore": 63,
+  "popularity": 2378,
+  "favourites": 17,
+  "tags": [
+    {
+      "id": 193,
+      "name": "Episodic",
+      "description": "Features story arcs that are loosely tied or lack an overarching plot.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 255,
+      "name": "Ninja",
+      "description": "Prominently features Japanese warriors traditionally trained in espionage, sabotage and assasination.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 6609,
+          "title": {
+            "native": "뿌까"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 135535,
+          "title": {
+            "native": "뿌까 3"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 12462,
+          "name": {
+            "first": "Pucca",
+            "last": null,
+            "native": "뿌까",
+            "alternative": [
+              "Ppukka"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12462.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12462.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12462"
+        },
+        "voiceActors": [
+          {
+            "id": 95128,
+            "name": {
+              "first": "Ikue",
+              "last": "Ootani",
+              "native": "大谷育江"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95128-9YWpE1d2U8Sj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95128"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 14435,
+          "name": {
+            "first": "Garu",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/14435.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14435.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14435"
+        },
+        "voiceActors": [
+          {
+            "id": 95746,
+            "name": {
+              "first": "Motoko",
+              "last": "Kumai",
+              "native": "くまいもとこ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95746-uCQ4Vz5v1St7.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95746-uCQ4Vz5v1St7.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95746"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 34560,
+          "name": {
+            "first": "Abyo",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34560.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34560.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34560"
+        },
+        "voiceActors": [
+          {
+            "id": 95679,
+            "name": {
+              "first": "Ryuuzou",
+              "last": "Ishino",
+              "native": "石野竜三"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95679-vT6wLZlpBsWI.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95679-vT6wLZlpBsWI.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95679"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34447,
+          "name": {
+            "first": "Tobe",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34447.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34447.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34447"
+        },
+        "voiceActors": [
+          {
+            "id": 96436,
+            "name": {
+              "first": "Mugihito",
+              "last": "",
+              "native": "麦人"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1436.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1436.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96436"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 238023,
+          "name": {
+            "first": "Master Soo",
+            "last": "",
+            "native": "수도사",
+            "alternative": [
+              "God"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b238023-v1LZTjKnc18x.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b238023-v1LZTjKnc18x.png"
+          },
+          "siteUrl": "https://anilist.co/character/238023"
+        },
+        "voiceActors": [
+          {
+            "id": 95179,
+            "name": {
+              "first": "Masashi",
+              "last": "Ebara",
+              "native": "江原正士"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95179-ZXxATX9muGcD.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95179-ZXxATX9muGcD.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95179"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "ADR Script (Polish)",
+        "node": {
+          "id": 286093,
+          "name": {
+            "first": "Maciej",
+            "last": "Wysocki",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/286093"
+        }
+      },
+      {
+        "role": "ADR Script (Polish)",
+        "node": {
+          "id": 320365,
+          "name": {
+            "first": "Aleksandra",
+            "last": "Hajduk",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/320365"
+        }
+      },
+      {
+        "role": "ADR Director (Polish)",
+        "node": {
+          "id": 217340,
+          "name": {
+            "first": "Ireneusz",
+            "last": "Załóg",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n217340-Q5eSKVz8328y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n217340-Q5eSKVz8328y.png"
+          },
+          "description": "[Website](http://ireneuszzalog.pl/)",
+          "siteUrl": "https://anilist.co/staff/217340"
+        }
+      },
+      {
+        "role": "ADR Mixing (Polish)",
+        "node": {
+          "id": 320366,
+          "name": {
+            "first": "Iwo",
+            "last": "Dowsilas",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/320366"
+        }
+      },
+      {
+        "role": "ADR Script (Polish)",
+        "node": {
+          "id": 278996,
+          "name": {
+            "first": "Anna",
+            "last": "Wysocka",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/278996"
+        }
+      },
+      {
+        "role": "ADR Sound (Polish)",
+        "node": {
+          "id": 320367,
+          "name": {
+            "first": "Marek",
+            "last": "Rusinowski",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/320367"
+        }
+      },
+      {
+        "role": "ADR Mixing (Polish)",
+        "node": {
+          "id": 320368,
+          "name": {
+            "first": "Grzegorz",
+            "last": "Grocholski",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n320368-pSzdOTzajueE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n320368-pSzdOTzajueE.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/320368"
+        }
+      },
+      {
+        "role": "ADR Sound (Polish)",
+        "node": {
+          "id": 320366,
+          "name": {
+            "first": "Iwo",
+            "last": "Dowsilas",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/320366"
+        }
+      },
+      {
+        "role": "ADR Mixing (Polish)",
+        "node": {
+          "id": 320367,
+          "name": {
+            "first": "Marek",
+            "last": "Rusinowski",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/320367"
+        }
+      },
+      {
+        "role": "ADR Sound (Polish)",
+        "node": {
+          "id": 320368,
+          "name": {
+            "first": "Grzegorz",
+            "last": "Grocholski",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n320368-pSzdOTzajueE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n320368-pSzdOTzajueE.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/320368"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 85356,
+      "url": "https://www.youtube.com/playlist?list=PLq9qq7ASaOakpYgGpSMS7fRFRNLlRu07H",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 4363,
+      "rank": 96,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2008,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 17
+      },
+      {
+        "score": 20,
+        "amount": 14
+      },
+      {
+        "score": 30,
+        "amount": 50
+      },
+      {
+        "score": 40,
+        "amount": 68
+      },
+      {
+        "score": 50,
+        "amount": 175
+      },
+      {
+        "score": 60,
+        "amount": 252
+      },
+      {
+        "score": 70,
+        "amount": 265
+      },
+      {
+        "score": 80,
+        "amount": 115
+      },
+      {
+        "score": 90,
+        "amount": 64
+      },
+      {
+        "score": 100,
+        "amount": 79
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 33
+      },
+      {
+        "status": "PLANNING",
+        "amount": 257
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2016
+      },
+      {
+        "status": "DROPPED",
+        "amount": 51
+      },
+      {
+        "status": "PAUSED",
+        "amount": 21
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/10810",
+  "modNotes": null
+}

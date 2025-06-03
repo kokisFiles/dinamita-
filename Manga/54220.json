@@ -1,0 +1,513 @@
+{
+  "id": 54220,
+  "idMal": 24220,
+  "title": {
+    "native": "劇場版ポケットモンスター ミュウツーの逆襲",
+    "romaji": "Gekijouban Pocket Monsters: Mewtwo no Gyakushuu",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Satoshi and company are challenged by a strange, cloaked pokemon, known to the reader as Team Rocket's genetic monster, Mewtwo. It's up to Satoshi to challenge this mysterious being... <br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 1998,
+    "month": 6,
+    "day": 15
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 1,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748706548,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx54220-VqYdzBoDeMyf.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx54220-VqYdzBoDeMyf.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx54220-VqYdzBoDeMyf.jpg",
+    "color": "#e49328"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure"
+  ],
+  "synonyms": [
+    "Pokémon: Mewtwo Strikes Back!"
+  ],
+  "averageScore": null,
+  "meanScore": 60,
+  "popularity": 173,
+  "favourites": 3,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 20,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 528,
+          "title": {
+            "native": "ポケットモンスター ミュウツーの逆襲"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 106287,
+          "title": {
+            "native": "劇場版 ポケットモンスター ミュウツーの逆襲 EVOLUTION"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5113,
+          "name": {
+            "first": "Mewtwo",
+            "last": null,
+            "native": "ミュウツー",
+            "alternative": [
+              "Mewtu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5113-hDiwLUwrbz6q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5113-hDiwLUwrbz6q.png"
+          },
+          "siteUrl": "https://anilist.co/character/5113"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35802,
+          "name": {
+            "first": "Raymond",
+            "last": null,
+            "native": "レイモンド",
+            "alternative": [
+              "海賊風トレーナー",
+              "Pirate Trainer"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35802-ZFXYSKdxblVW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35802-ZFXYSKdxblVW.png"
+          },
+          "siteUrl": "https://anilist.co/character/35802"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2473,
+          "name": {
+            "first": "Satoshi",
+            "last": null,
+            "native": "サトシ",
+            "alternative": [
+              "Ash Ketchum",
+              "Sacha Ketchum"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2473-JDoo3I82Km4l.png"
+          },
+          "siteUrl": "https://anilist.co/character/2473"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3891,
+          "name": {
+            "first": "Pikachu",
+            "last": null,
+            "native": "ピカチュウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3891-edgrZOgCJ9do.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3891"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3937,
+          "name": {
+            "first": "Nyarth",
+            "last": null,
+            "native": "ニャース",
+            "alternative": [
+              "Meowth",
+              "Nyaasu",
+              "Miaouss"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3937-qBtTAn2SZqhB.png"
+          },
+          "siteUrl": "https://anilist.co/character/3937"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 8365,
+          "name": {
+            "first": "Mew",
+            "last": null,
+            "native": "ミュウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8365-nt9EMqyV3rrp.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8365-nt9EMqyV3rrp.png"
+          },
+          "siteUrl": "https://anilist.co/character/8365"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7558,
+          "name": {
+            "first": "Joy",
+            "last": null,
+            "native": "ジョーイ",
+            "alternative": [
+              "Nurse Joy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7558-LzxI6BSiinA3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7558-LzxI6BSiinA3.png"
+          },
+          "siteUrl": "https://anilist.co/character/7558"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9881,
+          "name": {
+            "first": "Sakaki",
+            "last": null,
+            "native": "サカキ",
+            "alternative": [
+              "Giovanni"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9881-eDgj9qqKOFhQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9881-eDgj9qqKOFhQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9881"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 130283,
+          "name": {
+            "first": "Fuji Hakase",
+            "last": null,
+            "native": "フジ博士",
+            "alternative": [
+              "Dr. Fuji"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130283-m3HZpJxUlbUW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130283-m3HZpJxUlbUW.png"
+          },
+          "siteUrl": "https://anilist.co/character/130283"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3936,
+          "name": {
+            "first": "Kojirou",
+            "last": null,
+            "native": "コジロウ",
+            "alternative": [
+              "James"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3936-5sX4EZIY2BRU.png"
+          },
+          "siteUrl": "https://anilist.co/character/3936"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2909,
+          "name": {
+            "first": "Kasumi",
+            "last": null,
+            "native": "カスミ",
+            "alternative": [
+              "Misty",
+              "Ondine"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2909-wNDR5aaxwDdi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2909-wNDR5aaxwDdi.png"
+          },
+          "siteUrl": "https://anilist.co/character/2909"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3935,
+          "name": {
+            "first": "Musashi",
+            "last": null,
+            "native": "ムサシ",
+            "alternative": [
+              "Jessie",
+              "Jessica",
+              "Jessebella",
+              "Musa-pyon",
+              "Jessadia",
+              "Pretty Musalin",
+              "Jessilina",
+              "Candy Musalina",
+              "Jessilee",
+              "Jessileia",
+              "Musavie",
+              "Musasina"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3935-m000RuoIVOGI.png"
+          },
+          "siteUrl": "https://anilist.co/character/3935"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35801,
+          "name": {
+            "first": "Voyager",
+            "last": null,
+            "native": "ボイジャー",
+            "alternative": [
+              "Miranda"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n35801-Awdcj1hPVQ9H.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n35801-Awdcj1hPVQ9H.png"
+          },
+          "siteUrl": "https://anilist.co/character/35801"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3854,
+          "name": {
+            "first": "Takeshi",
+            "last": null,
+            "native": "タケシ",
+            "alternative": [
+              "Brock",
+              "Pierre",
+              "Rocko",
+              "Caesar Salad"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3854-qMVUF2YmWYoW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3854-qMVUF2YmWYoW.png"
+          },
+          "siteUrl": "https://anilist.co/character/3854"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97474,
+          "name": {
+            "first": "Toshihiro",
+            "last": "Ono",
+            "native": "小野敏洋"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97474-ScZGOavnQRaZ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97474-ScZGOavnQRaZ.jpg"
+          },
+          "description": "He uses the name __Sanpei Kamirenjaku__ (上連雀三平) for his hentai works. \n\n__Also Known As:__ \n- Gourmand Sasaduka (グルマン笹塚)\n- Zimbabwe Eitou (ジンバブエ伊東)\n- Suzuki Masamichi (鈴木柾道)\n- Saitou Mayuri (さいとうまゆり).",
+          "siteUrl": "https://anilist.co/staff/97474"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 100372,
+          "name": {
+            "first": "Satoshi",
+            "last": "Tajiri",
+            "native": "田尻智"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100372-ztnZ3FtrHMlw.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100372-ztnZ3FtrHMlw.jpg"
+          },
+          "description": "Satoshi is the creator of Pocket Monsters and Game Freak company",
+          "siteUrl": "https://anilist.co/staff/100372"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 4
+      },
+      {
+        "score": 40,
+        "amount": 3
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 6
+      },
+      {
+        "score": 70,
+        "amount": 11
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 6
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 6
+      },
+      {
+        "status": "PLANNING",
+        "amount": 91
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 70
+      },
+      {
+        "status": "DROPPED",
+        "amount": 5
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/54220",
+  "modNotes": null
+}

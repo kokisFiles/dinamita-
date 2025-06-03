@@ -1,0 +1,416 @@
+{
+  "id": 125268,
+  "idMal": null,
+  "title": {
+    "native": "とある科学の鈴科百合子",
+    "romaji": "Toaru Kagaku no Suzushina Yuriko",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "April Fool's PV.",
+  "startDate": {
+    "year": 2015,
+    "month": 4,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2015,
+    "month": 4,
+    "day": 1
+  },
+  "season": "SPRING",
+  "seasonYear": 2015,
+  "seasonInt": 152,
+  "episodes": 1,
+  "duration": 1,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748860083,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125268-LtYoDXI6WCxa.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125268-LtYoDXI6WCxa.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b125268-LtYoDXI6WCxa.jpg",
+    "color": "#f15d86"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "A Certain Scientific Yuriko Suzushina"
+  ],
+  "averageScore": 62,
+  "meanScore": 69,
+  "popularity": 900,
+  "favourites": 14,
+  "tags": [
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 186,
+      "name": "Crossdressing",
+      "description": "Prominently features a character dressing up as the opposite sex.",
+      "category": "Cast-Traits",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 77,
+      "name": "Gender Bending",
+      "description": "Prominently features a character who dresses and behaves in a way characteristic of another gender, or has been transformed into a person of another gender.",
+      "category": "Theme-Other",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 4654,
+          "title": {
+            "native": "とある魔術の禁書目録"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 13700,
+          "name": {
+            "first": "Touma",
+            "last": "Kamijou",
+            "native": "上条当麻",
+            "alternative": [
+              "Kami-yan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13700-UidPPlVkGJLP.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13700-UidPPlVkGJLP.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13700"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 13917,
+          "name": {
+            "first": "Accelerator",
+            "last": null,
+            "native": "アクセラレータ",
+            "alternative": [
+              "Ippou Tsuukou (一方通行)",
+              "Yuriko Suzushina (鈴科百合子)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13917-160NVNDNgywA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13917-160NVNDNgywA.png"
+          },
+          "siteUrl": "https://anilist.co/character/13917"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 20615,
+          "name": {
+            "first": "Pierce",
+            "last": "Aogami",
+            "native": "青髪 ピアス",
+            "alternative": [
+              "BLAU"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n20615-8hXzmE9ThCBj.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n20615-8hXzmE9ThCBj.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/20615"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 17017,
+          "name": {
+            "first": "Kuroko",
+            "last": "Shirai",
+            "native": "白井黒子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17017-jaDcukuCmx2S.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17017-jaDcukuCmx2S.png"
+          },
+          "siteUrl": "https://anilist.co/character/17017"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 16222,
+          "name": {
+            "first": "Komoe",
+            "last": "Tsukuyomi",
+            "native": "月詠 小萌",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n16222-VGQaCcuSvCAv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n16222-VGQaCcuSvCAv.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16222"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 18926,
+          "name": {
+            "first": "Motoharu",
+            "last": "Tsuchimikado",
+            "native": "土御門 元春",
+            "alternative": [
+              "Sis-con Sergeant"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n18926-YhscVchixkoN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n18926-YhscVchixkoN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/18926"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22594,
+      "rank": 11,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2015,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 22639,
+      "rank": 26,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2015,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 67030,
+          "rating": 3,
+          "media": {
+            "id": 125268,
+            "title": {
+              "native": "とある科学の鈴科百合子"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 6213,
+            "title": {
+              "native": "とある科学の超電磁砲"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 67032,
+          "rating": 4,
+          "media": {
+            "id": 125268,
+            "title": {
+              "native": "とある科学の鈴科百合子"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 104463,
+            "title": {
+              "native": "とある科学の一方通行【アクセラレータ】"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 242119,
+          "rating": 1,
+          "media": {
+            "id": 125268,
+            "title": {
+              "native": "とある科学の鈴科百合子"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 9047,
+            "title": {
+              "native": "とある科学の超電磁砲 御坂さんはいま注目の的ですから"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 242121,
+          "rating": 1,
+          "media": {
+            "id": 125268,
+            "title": {
+              "native": "とある科学の鈴科百合子"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 8023,
+            "title": {
+              "native": "とある科学の超電磁砲 もっとまるっと超電磁砲"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 242123,
+          "rating": 0,
+          "media": {
+            "id": 125268,
+            "title": {
+              "native": "とある科学の鈴科百合子"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 9063,
+            "title": {
+              "native": "とある科学の超電磁砲 炎天下の撮影モデルも楽じゃありませんわね."
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 16
+      },
+      {
+        "score": 50,
+        "amount": 17
+      },
+      {
+        "score": 60,
+        "amount": 23
+      },
+      {
+        "score": 70,
+        "amount": 33
+      },
+      {
+        "score": 80,
+        "amount": 13
+      },
+      {
+        "score": 90,
+        "amount": 20
+      },
+      {
+        "score": 100,
+        "amount": 32
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 34
+      },
+      {
+        "status": "PLANNING",
+        "amount": 405
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 430
+      },
+      {
+        "status": "DROPPED",
+        "amount": 21
+      },
+      {
+        "status": "PAUSED",
+        "amount": 10
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/125268",
+  "modNotes": null
+}

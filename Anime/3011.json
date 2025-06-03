@@ -1,0 +1,991 @@
+{
+  "id": 3011,
+  "idMal": 3011,
+  "title": {
+    "native": "よつのは",
+    "romaji": "Yotsunoha",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "Based on the game by Haikuo-Soft.<br><br>\nA story about the reunion of 4 childhood friends, Yuzuki, Matsuri, Nono and Makoto, in their deserted old school campus, Mochitsuki Academy. 3 years ago, they buried a time capsule under a tree inside the school and made a promise. A promise to meet again after exactly 3 years from that day. And the day of promise has finally arrived.",
+  "startDate": {
+    "year": 2008,
+    "month": 2,
+    "day": 29
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 3,
+    "day": 28
+  },
+  "season": "WINTER",
+  "seasonYear": 2008,
+  "seasonInt": 81,
+  "episodes": 2,
+  "duration": 36,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VISUAL_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748626836,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3011.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3011.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3011.jpg",
+    "color": "#e47850"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Romance",
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": 56,
+  "meanScore": 57,
+  "popularity": 2541,
+  "favourites": 10,
+  "tags": [
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 86,
+      "name": "Primarily Female Cast",
+      "description": "Main cast is mostly composed of female characters.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 153,
+      "name": "Time Skip",
+      "description": "Features a gap in time used to advance the story.",
+      "category": "Setting-Time",
+      "rank": 60,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 23,
+      "name": "Female Harem",
+      "description": "Main cast features the protagonist plus several female characters who are romantically interested in them.",
+      "category": "Theme-Romance",
+      "rank": 26,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 43709,
+          "title": {
+            "native": "よつのは"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 10763,
+          "name": {
+            "first": "Yuzuki",
+            "last": "Iori",
+            "native": "柚姫衣織",
+            "alternative": [
+              "Yuzu-nee"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10763.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10763.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10763"
+        },
+        "voiceActors": [
+          {
+            "id": 95105,
+            "name": {
+              "first": "Yuuko",
+              "last": "Gotou",
+              "native": "後藤邑子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95105-5r4AYMjJS51Y.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95105-5r4AYMjJS51Y.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95105"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15791,
+          "name": {
+            "first": "Arisa",
+            "last": "Yuki",
+            "native": "雪亜凜沙",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15791-y1KatZdYmM4R.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15791-y1KatZdYmM4R.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15791"
+        },
+        "voiceActors": [
+          {
+            "id": 95380,
+            "name": {
+              "first": "Sayuri",
+              "last": "Yahagi",
+              "native": "矢作紗友里"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95380-mOdqKPb6xYnI.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95380-mOdqKPb6xYnI.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95380"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4180,
+          "name": {
+            "first": "Nono",
+            "last": "Nekomiya",
+            "native": "猫宮のの",
+            "alternative": [
+              "Non-san"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4180.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4180.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4180"
+        },
+        "voiceActors": [
+          {
+            "id": 95492,
+            "name": {
+              "first": "Yui",
+              "last": "Sakakibara",
+              "native": "榊原ゆい"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/492.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/492.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95492"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 15789,
+          "name": {
+            "first": "Makoto",
+            "last": "Yuuki",
+            "native": "結城 誠",
+            "alternative": [
+              "Ma-kun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15789.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15789.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15789"
+        },
+        "voiceActors": [
+          {
+            "id": 95502,
+            "name": {
+              "first": "Hideki",
+              "last": "Tasaka",
+              "native": "秀樹田坂"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/502.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/502.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95502"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15790,
+          "name": {
+            "first": "Daisuke",
+            "last": "Shiba",
+            "native": "芝大輔",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15790"
+        },
+        "voiceActors": [
+          {
+            "id": 95784,
+            "name": {
+              "first": "Eiji",
+              "last": "Miyashita",
+              "native": "宮下栄治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/784.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/784.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95784"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 57639,
+          "name": {
+            "first": "Ruu",
+            "last": "Sakurai",
+            "native": "桜井るー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/57639.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/57639.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/57639"
+        },
+        "voiceActors": [
+          {
+            "id": 95885,
+            "name": {
+              "first": "Yuka",
+              "last": "Iguchi",
+              "native": "井口裕香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95885-NrKdS094Ae59.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95885-NrKdS094Ae59.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95885"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 14074,
+          "name": {
+            "first": "Matsuri",
+            "last": "Amachi",
+            "native": "天地祭",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14074-kFwUW10S2LMP.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14074-kFwUW10S2LMP.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14074"
+        },
+        "voiceActors": [
+          {
+            "id": 100281,
+            "name": {
+              "first": "Mai",
+              "last": "Gotou",
+              "native": "後藤麻衣"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5281.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5281.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/100281"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 95492,
+          "name": {
+            "first": "Yui",
+            "last": "Sakakibara",
+            "native": "榊原ゆい"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/492.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/492.jpg"
+          },
+          "description": "__Height:__ 162cm\n\n[Profile](http://www.starchild.co.jp/artist/sakakibara/) | [Blog](https://ameblo.jp/sakakibara-yui/)\n\nVisual Novel Roles:~!\nHamaji Yakumo - √after and another\nHamaji Yakumo - H2O ~Footprints in the Sand~\nHaruhi Kimisaka - Happiness\nKinoshita Rumi - Pia Carrot e Youkoso!! G.O. Summer Fair\nSatou Hina - Pia Carrot e Youkoso!! G.P. Gakuen Princess Portable\nUmi Hayasaka - Harukoi Otome\nChaos; Head - F.E.S (Kishimoto Ayase)!~",
+          "siteUrl": "https://anilist.co/staff/95492"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 100203,
+          "name": {
+            "first": "",
+            "last": "Chata",
+            "native": "茶太"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100203-1zIC5ht1pX2v.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100203-1zIC5ht1pX2v.jpg"
+          },
+          "description": "\n[Website](http://chanekino.com/) | [Twitter](https://twitter.com/chanekino) | [Wiki (en)](https://en.wikipedia.org/wiki/Chata) | [Wiki (jp)](https://ja.wikipedia.org/wiki/茶太)\n\nA Japanese singer who has performed theme songs for games and anime. She has also participated in various doujin music circles. Her own private circle is called Usagi Kinoko.",
+          "siteUrl": "https://anilist.co/staff/100203"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 102194,
+          "name": {
+            "first": "Youta",
+            "last": "Tsuruoka",
+            "native": "鶴岡陽太"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102194-sNl1LjAzgxNe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102194-sNl1LjAzgxNe.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/鶴岡陽太)\n\nFounder and representative director of [Rakuonsha](https://anilist.co/studio/211/).",
+          "siteUrl": "https://anilist.co/staff/102194"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 105384,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Nishikiori",
+            "native": "錦織博"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105384-rOyBrUPUPjdb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105384-rOyBrUPUPjdb.png"
+          },
+          "description": "[Twitter](https://twitter.com/nishiki_hiroshi)\n\nHe is unilaterally liked by [Kunihiko Ikuhara](https://anilist.co/staff/100082/Kunihiko-Ikuhara). His work on [Revolutionary Girl Utena](https://anilist.co/anime/440/Revolutionary-Girl-Utena/) storyboards were outright claimed to be the \"closest to his own style\" , in principle, by Ikuhara himself.",
+          "siteUrl": "https://anilist.co/staff/105384"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 106951,
+          "name": {
+            "first": "",
+            "last": "I've",
+            "native": "I've"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11951.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11951.jpg"
+          },
+          "description": "Well-known members: KOTOKO (Shakugan no Shana, Hayate no Gotoku, Kannaduki no Miko) Mami Kawada (Shakugan no Shana, To Aru Majutsu no Index) Lia (AIR, Angel Beats, Clannad)  Eiko Shimamiya (Higurashi no Naku Koro ni) Mell (Black Lagoon, Rideback, Highschool Of The Dead)",
+          "siteUrl": "https://anilist.co/staff/106951"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 110635,
+          "name": {
+            "first": "Hisaharu",
+            "last": "Iijima",
+            "native": "飯島寿治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "The representative director of Ryuubidou.",
+          "siteUrl": "https://anilist.co/staff/110635"
+        }
+      },
+      {
+        "role": "Key Animation (ep 1)",
+        "node": {
+          "id": 104029,
+          "name": {
+            "first": "Atsushi",
+            "last": "Nishigori",
+            "native": "錦織敦史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104029-0tZTM1rQammS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104029-0tZTM1rQammS.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/1515331173983330306)\n\nNishigori graduated from the Toei Animation Institute and joined [Gainax](https://anilist.co/studio/6/) as an in-betweener but he rapidly distinguished himself as a key animator. He was inspired to enter the field because he liked [Hidenori Matsubara](https://anilist.co/staff/107672/) and [Takeshi Honda](https://anilist.co/staff/103303/)'s drawings.\n\nHis first major role was serving as character animation director for [Top wo Nerae 2! Diebuster](https://anilist.co/anime/1002/Gunbuster-2-Diebuster/), with the task of adapting [Yoshiyuki Sadamoto](https://anilist.co/staff/98158/Yoshiyuki-Sadamoto)'s character designs for animation. This experience led him to become one of the main character designers at the studio, designing the iconic characters for [Gurren Lagann](https://anilist.co/anime/2001/).\n\nHe left Gainax to have his debut as director on [The Idolm@ster](https://anilist.co/anime/10278/The-Idol-Master/), a personal passion project since he's a great fan of the series. Several Gainax staff followed Nishigori to [A-1 Pictures](https://anilist.co/studio/561/) and worked on the series, alongside staff from newly formed [Trigger](https://anilist.co/studio/803/Trigger).\n\nIn 2018 he directed his original project [Darling in the Franxx](https://anilist.co/anime/99423/), once again reuniting with his Gainax friends spread among [CloverWorks](https://anilist.co/studio/6222/), Trigger and [Studio Khara](https://anilist.co/studio/47/).\n\nMore recently he worked as character designer and chief animation director for [Hideaki Anno](https://anilist.co/staff/100111/)'s final Evangelion installment, [Evangelion: 3.0+1.0 Thrice Upon A Time](https://anilist.co/anime/3786/Evangelion-3010-Thrice-Upon-A-Time/).",
+          "siteUrl": "https://anilist.co/staff/104029"
+        }
+      },
+      {
+        "role": "Sound Effects (ep 1)",
+        "node": {
+          "id": 146579,
+          "name": {
+            "first": "Eiko",
+            "last": "Morikawa",
+            "native": "森川永子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146579-FW4NmFfFU7SR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146579-FW4NmFfFU7SR.png"
+          },
+          "description": "__Eiko Morikawa__ is a Japanese sound effects editor. She started working at Swara Production, then went to Rakuonsha, and now is the representative director of Chura Sound.\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/146579"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 136374,
+          "name": {
+            "first": "Kouichi",
+            "last": "Motomura ",
+            "native": "本村晃一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n136374-z4e3mRCG4Xfb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n136374-z4e3mRCG4Xfb.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/wired777) | [Pixiv](https://www.pixiv.net/member.php?id=139523)\n\nOriginating from [Gonzo](https://anilist.co/studio/3/).",
+          "siteUrl": "https://anilist.co/staff/136374"
+        }
+      },
+      {
+        "role": "Sound Effects (ep 2)",
+        "node": {
+          "id": 151827,
+          "name": {
+            "first": "Hidemitsu",
+            "last": "Tanaka",
+            "native": "田中秀実"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "**Hidemi Tanaka** is a Japanese sound effects creator and editor.",
+          "siteUrl": "https://anilist.co/staff/151827"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 100400,
+          "name": {
+            "first": "Akira",
+            "last": "Caskabe",
+            "native": "カスカベアキラ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100400-NH0oY0oRsHRe.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100400-NH0oY0oRsHRe.jpg"
+          },
+          "description": "[Website](http://frisky.ivory.ne.jp/) | [Twitter](https://twitter.com/caskabe) | [Pixiv](https://www.pixiv.net/member.php?id=307442) | [Wiki (jp)](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%82%AB%E3%83%99%E3%82%A2%E3%82%AD%E3%83%A9)",
+          "siteUrl": "https://anilist.co/staff/100400"
+        }
+      },
+      {
+        "role": "Art Design",
+        "node": {
+          "id": 133930,
+          "name": {
+            "first": "Hitoshi",
+            "last": "Ueda",
+            "native": "植田均"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133930-7q9KtO1oMIPc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n133930-7q9KtO1oMIPc.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/133930"
+        }
+      },
+      {
+        "role": "Music Producer",
+        "node": {
+          "id": 151471,
+          "name": {
+            "first": "Jun",
+            "last": "Nishimura",
+            "native": "西村潤"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/151471"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 132779,
+          "name": {
+            "first": "Shigeru",
+            "last": "Nishiyama",
+            "native": "西山茂"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n132779-7drmD2n78uf1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n132779-7drmD2n78uf1.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/546134514)\n\nRepresentative director of REAL-T.",
+          "siteUrl": "https://anilist.co/staff/132779"
+        }
+      },
+      {
+        "role": "Animation Producer",
+        "node": {
+          "id": 219727,
+          "name": {
+            "first": "Shinji",
+            "last": "Nakashima",
+            "native": "中島伸治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/219727"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 149758,
+          "name": {
+            "first": "Mitsutoshi",
+            "last": "Ogura",
+            "native": "小倉充俊"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n149758-Ssr9RXS5iw8K.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n149758-Ssr9RXS5iw8K.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/mogura03)",
+          "siteUrl": "https://anilist.co/staff/149758"
+        }
+      },
+      {
+        "role": "Director of Photography (ep 1)",
+        "node": {
+          "id": 168993,
+          "name": {
+            "first": "Kentarou",
+            "last": "Takahashi",
+            "native": "高橋賢太郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "The representative director of T2 Studio.",
+          "siteUrl": "https://anilist.co/staff/168993"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 142691,
+          "name": {
+            "first": "Naohiro",
+            "last": "Tafu",
+            "native": "太布尚弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "__Naohiro Tafu__ is a Japanese producer and animation planner. He currently works for the company Movic.",
+          "siteUrl": "https://anilist.co/staff/142691"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 142328,
+          "name": {
+            "first": "Kozue",
+            "last": "Kananiwa",
+            "native": "金庭こず恵"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142328-r7v0owbGsAiT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n142328-r7v0owbGsAiT.png"
+          },
+          "description": "Kozue Kananiwa graduated from the HOSEI University of Tokyo, Faculty of Letters, Department of Japan Literature. Her first work as a producer was for [Oh! My Goddess](https://anilist.co/anime/50/Aa-Megamisama-TV/) in 2005.\n\nSince, she participated in the production many renown series such as [Mahou Shoujo Madoka☆Magica](https://anilist.co/anime/9756/Mahou-Shoujo-MadokaMagica/) in 2011, [Steins;Gate](https://anilist.co/anime/9253/SteinsGate) the same year, or more recently [Horimiya](https://anilist.co/anime/124080/Horimiya/).\n\nNow, she is the General Manager of  both U-NEXT Anime & Book Division and of the Production Department.\n\n(Source : Bangumi 番組計画RC3)",
+          "siteUrl": "https://anilist.co/staff/142328"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 148247,
+          "name": {
+            "first": "Kanako",
+            "last": "Hayashi",
+            "native": "林可奈子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Kanako Hayashi is a color designer and painter.\n\n_Note: Not to be mistaken with the animator [Kanako Hayashi](https://anilist.co/staff/195699/)._",
+          "siteUrl": "https://anilist.co/staff/148247"
+        }
+      },
+      {
+        "role": "Director of Photography (ep 2)",
+        "node": {
+          "id": 147033,
+          "name": {
+            "first": "Toshiya",
+            "last": "Kimura",
+            "native": "木村俊也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/147033"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 132791,
+          "name": {
+            "first": "Akihiro",
+            "last": "Kawamura",
+            "native": "川村明廣"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "He works for Warner Entertainment Japan. Previously a long-time employee of Geneon Universal, being a part of the company since Geneon was still known as Pioneer LDC.\n\n<i>Note: Not to be confused with the CG animator Akihiro Kawamura (川村晃弘)</i>",
+          "siteUrl": "https://anilist.co/staff/132791"
+        }
+      },
+      {
+        "role": "Script (eps 1, 2)",
+        "node": {
+          "id": 105384,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Nishikiori",
+            "native": "錦織博"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105384-rOyBrUPUPjdb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105384-rOyBrUPUPjdb.png"
+          },
+          "description": "[Twitter](https://twitter.com/nishiki_hiroshi)\n\nHe is unilaterally liked by [Kunihiko Ikuhara](https://anilist.co/staff/100082/Kunihiko-Ikuhara). His work on [Revolutionary Girl Utena](https://anilist.co/anime/440/Revolutionary-Girl-Utena/) storyboards were outright claimed to be the \"closest to his own style\" , in principle, by Ikuhara himself.",
+          "siteUrl": "https://anilist.co/staff/105384"
+        }
+      },
+      {
+        "role": "Storyboard (eps 1, 2)",
+        "node": {
+          "id": 105384,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Nishikiori",
+            "native": "錦織博"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105384-rOyBrUPUPjdb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105384-rOyBrUPUPjdb.png"
+          },
+          "description": "[Twitter](https://twitter.com/nishiki_hiroshi)\n\nHe is unilaterally liked by [Kunihiko Ikuhara](https://anilist.co/staff/100082/Kunihiko-Ikuhara). His work on [Revolutionary Girl Utena](https://anilist.co/anime/440/Revolutionary-Girl-Utena/) storyboards were outright claimed to be the \"closest to his own style\" , in principle, by Ikuhara himself.",
+          "siteUrl": "https://anilist.co/staff/105384"
+        }
+      },
+      {
+        "role": "Assistant Episode Director (ep 2)",
+        "node": {
+          "id": 209761,
+          "name": {
+            "first": "Hiroya",
+            "last": "Saitou",
+            "native": "斉藤啓也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Hiroya Saitou is an episode director and storyboard artist.",
+          "siteUrl": "https://anilist.co/staff/209761"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 34,
+          "name": "Hal Film Maker",
+          "siteUrl": "https://anilist.co/studio/34"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 160,
+          "name": "Rondo Robe",
+          "siteUrl": "https://anilist.co/studio/160"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 84704,
+          "rating": 1,
+          "media": {
+            "id": 3011,
+            "title": {
+              "native": "よつのは"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2367,
+            "title": {
+              "native": "もえたん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 84706,
+          "rating": 1,
+          "media": {
+            "id": 3011,
+            "title": {
+              "native": "よつのは"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2403,
+            "title": {
+              "native": "こどものじかん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 131593,
+          "rating": 2,
+          "media": {
+            "id": 3011,
+            "title": {
+              "native": "よつのは"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1692,
+            "title": {
+              "native": "_summer [アンダーバーサマー]"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 142822,
+          "rating": 1,
+          "media": {
+            "id": 3011,
+            "title": {
+              "native": "よつのは"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 9989,
+            "title": {
+              "native": "あの日見た花の名前を僕達はまだ知らない。"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 142824,
+          "rating": -2,
+          "media": {
+            "id": 3011,
+            "title": {
+              "native": "よつのは"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 13655,
+            "title": {
+              "native": "リトルバスターズ!"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 32
+      },
+      {
+        "score": 20,
+        "amount": 34
+      },
+      {
+        "score": 30,
+        "amount": 71
+      },
+      {
+        "score": 40,
+        "amount": 98
+      },
+      {
+        "score": 50,
+        "amount": 188
+      },
+      {
+        "score": 60,
+        "amount": 192
+      },
+      {
+        "score": 70,
+        "amount": 185
+      },
+      {
+        "score": 80,
+        "amount": 137
+      },
+      {
+        "score": 90,
+        "amount": 49
+      },
+      {
+        "score": 100,
+        "amount": 19
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 75
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1012
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1346
+      },
+      {
+        "status": "DROPPED",
+        "amount": 67
+      },
+      {
+        "status": "PAUSED",
+        "amount": 41
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/3011",
+  "modNotes": null
+}

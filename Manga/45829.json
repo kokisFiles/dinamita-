@@ -1,0 +1,307 @@
+{
+  "id": 45829,
+  "idMal": 15829,
+  "title": {
+    "native": "ハローキティ ピース!!",
+    "romaji": "Hello Kitty Peace!!",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Manga about Hello Kitty and her friends.",
+  "startDate": {
+    "year": 2008,
+    "month": 7,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2009,
+    "month": 6,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 12,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747225322,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15829.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15829.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/15829.jpg",
+    "color": "#e4c935"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Haroo Kiti Piisu!"
+  ],
+  "averageScore": null,
+  "meanScore": 83,
+  "popularity": 104,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 53,
+      "name": "Shoujo",
+      "description": "Target demographic is teenage and young adult females.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 4024,
+          "title": {
+            "native": "サンリオ・アニメ世界名作劇場"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 169147,
+          "title": {
+            "native": "ハローキティ DOKI"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 30284,
+          "name": {
+            "first": "Pochacco",
+            "last": null,
+            "native": "ポチャッコ",
+            "alternative": [
+              "Yorimichi Dog"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30284-FoghKX528xHw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b30284-FoghKX528xHw.png"
+          },
+          "siteUrl": "https://anilist.co/character/30284"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 30285,
+          "name": {
+            "first": "Mocha",
+            "last": null,
+            "native": "モカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30285-vidOmRDoHDWx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b30285-vidOmRDoHDWx.png"
+          },
+          "siteUrl": "https://anilist.co/character/30285"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7312,
+          "name": {
+            "first": "Kitty",
+            "last": "White",
+            "native": "キティ・ホワイト",
+            "alternative": [
+              "Hello Kitty (ハローキティ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7312-6WxhtT4XOPNF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7312-6WxhtT4XOPNF.png"
+          },
+          "siteUrl": "https://anilist.co/character/7312"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 30286,
+          "name": {
+            "first": "Cinnamoroll",
+            "last": null,
+            "native": "シナモロール",
+            "alternative": [
+              "Cinnamon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30286-W1HQzqLIGr6N.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b30286-W1HQzqLIGr6N.png"
+          },
+          "siteUrl": "https://anilist.co/character/30286"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 283315,
+          "name": {
+            "first": "Azuki",
+            "last": null,
+            "native": "アズキ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b283315-VxbcoqOiSTYh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b283315-VxbcoqOiSTYh.png"
+          },
+          "siteUrl": "https://anilist.co/character/283315"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 213332,
+          "name": {
+            "first": "Chiffon",
+            "last": null,
+            "native": "シフォン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b213332-BR3TSLtEJUPY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b213332-BR3TSLtEJUPY.png"
+          },
+          "siteUrl": "https://anilist.co/character/213332"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 101068,
+          "name": {
+            "first": "Anzu",
+            "last": "Momoyama",
+            "native": "あんず 桃山"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6068.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6068.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/101068"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 400743,
+          "rating": 1,
+          "media": {
+            "id": 45829,
+            "title": {
+              "native": "ハローキティ ピース!!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 109021,
+            "title": {
+              "native": "トマトイプーのリコピン"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 3
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 5
+      },
+      {
+        "status": "PLANNING",
+        "amount": 75
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 20
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/45829",
+  "modNotes": null
+}

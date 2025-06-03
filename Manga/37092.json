@@ -1,0 +1,375 @@
+{
+  "id": 37092,
+  "idMal": 7092,
+  "title": {
+    "native": "メグとセロン",
+    "romaji": "Meg to Seron",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "NOVEL",
+  "status": "FINISHED",
+  "description": "The official spinoff to the Lillia and Treize series starring Lillia's perky, kind-hearted school friend, Megmica \"Meg\" Strauski, and stoic, bookish Seron Maxwell.",
+  "startDate": {
+    "year": 2008,
+    "month": 3,
+    "day": 10
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 5,
+    "day": 10
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 55,
+  "volumes": 7,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747917762,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx37092-QHqWKktgG14S.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx37092-QHqWKktgG14S.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx37092-QHqWKktgG14S.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "synonyms": [
+    "Meg & Seron",
+    "Meg and Seron"
+  ],
+  "averageScore": null,
+  "meanScore": 75,
+  "popularity": 119,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 84,
+      "name": "School Club",
+      "description": "Partly or completely set in a school club scene.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 548,
+      "name": "Acting",
+      "description": "Centers around actors or the acting industry.",
+      "category": "Theme-Arts",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 195,
+      "name": "Photography",
+      "description": "Centers around the use of cameras to capture photos.",
+      "category": "Theme-Arts",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 102,
+      "name": "Coming of Age",
+      "description": "Centers around a character's transition from childhood to adulthood.",
+      "category": "Theme-Drama",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 10,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 91993,
+          "title": {
+            "native": "一つの大陸の物語 ～アリソンとヴィルとリリアとトレイズとメグとセロンとその他～"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 37091,
+          "title": {
+            "native": "リリアとトレイズ"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 17170,
+          "name": {
+            "first": "Seron",
+            "last": "Maxwell",
+            "native": "セロン・マクスウェル",
+            "alternative": [
+              "Seron"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17170"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 17168,
+          "name": {
+            "first": "Megmica",
+            "last": "Strauski",
+            "native": "シュトラウスキー・メグミカ",
+            "alternative": [
+              "Meg"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17168.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17168.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17168"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 12316,
+          "name": {
+            "first": "Treize",
+            "last": "Bain",
+            "native": "トレイズ・ベイン",
+            "alternative": [
+              "Treize of Ixtova"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12316.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12316.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12316"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 12325,
+          "name": {
+            "first": "Lillianne Aicasia Corazón Whittington",
+            "last": "Schultz",
+            "native": "リリアーヌ・アイカシア・コラソン・ウィッティングトン・シュルツ ",
+            "alternative": [
+              "Lillia"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12325.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12325.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12325"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 97373,
+          "name": {
+            "first": "Keiichi",
+            "last": "Shigusawa",
+            "native": "時雨沢恵一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97373-xGUJQH2Gi3dR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97373-xGUJQH2Gi3dR.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/sigsawa)\n\nKeiichi Sigsawa is a Japanese light novel author most notable for his work in [Kino's Journey](https://anilist.co/manga/30399/Kinos-Journey-The-Beautiful-World/), [Allison](https://anilist.co/manga/37086/Allison/), [Lillia and Treize](https://anilist.co/manga/37091/Lillia-to-Treize/), and [Sword Art Online Alternative Gun Gale Online](https://anilist.co/manga/100858/Sword-Art-Online-Alternative-Gun-Gale-Online/). He loves to travel, ride his motorcycle, and is a self-professed gun maniac. He mentions [Galaxy Express 999](https://anilist.co/anime/1491/Galaxy-Express-999/) and the works of [Hayao Miyazaki](https://anilist.co/staff/96870/Hayao-Miyazaki) as some of his primary influences.\n",
+          "siteUrl": "https://anilist.co/staff/97373"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 97374,
+          "name": {
+            "first": "Kouhaku",
+            "last": "Kuroboshi",
+            "native": "黒星紅白"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/97374-XVrjwxc4LN6D.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/97374-XVrjwxc4LN6D.jpg"
+          },
+          "description": "[Blog](http://kuroboshi.blog34.fc2.com) | [Twitter](https://twitter.com/kuroboshi) | [Pixiv](https://www.pixiv.net/users/178217)",
+          "siteUrl": "https://anilist.co/staff/97374"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 253206,
+          "rating": 2,
+          "media": {
+            "id": 37092,
+            "title": {
+              "native": "メグとセロン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 65513,
+            "title": {
+              "native": "氷菓"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 253209,
+          "rating": 1,
+          "media": {
+            "id": 37092,
+            "title": {
+              "native": "メグとセロン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 144311,
+            "title": {
+              "native": "愚者のエンドロール"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 50,
+        "amount": 2
+      },
+      {
+        "score": 60,
+        "amount": 2
+      },
+      {
+        "score": 70,
+        "amount": 7
+      },
+      {
+        "score": 80,
+        "amount": 5
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 7
+      },
+      {
+        "status": "PLANNING",
+        "amount": 85
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 18
+      },
+      {
+        "status": "DROPPED",
+        "amount": 5
+      },
+      {
+        "status": "PAUSED",
+        "amount": 4
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/37092",
+  "modNotes": null
+}

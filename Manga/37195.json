@@ -1,0 +1,362 @@
+{
+  "id": 37195,
+  "idMal": 7195,
+  "title": {
+    "native": null,
+    "romaji": "Sengoku Basara Ranse Ranbu",
+    "english": "Devil Kings"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "It is a time of civil war, and the young warlords running Japan are... hopelessly stupid. This manga takes place in the Sengoku (Warring States) Period in Japan, and is based off the game Sengoku Basara, otherwise known as Devil Kings in the US. Sanada Yukimura, who serves under his master Takeda Shingen, hopes to accomplish his master's dreams of a united Japan. However, he is faced with many obstacles, forcing him to battle against many powerful warriors with the same ambitions. One of these men is Date Masamune; with his flamboyant attitude and his ideal \"fun,\" he stirs up uncontrollable anxiety within Yukimura that draws him into the heat of battle...<br><br>\n\nBased on the video game.\n",
+  "startDate": {
+    "year": 2007,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 9,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1746624500,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7195.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7195.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/7195.jpg",
+    "color": "#f1a150"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 67,
+  "popularity": 175,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 43,
+      "name": "Swordplay",
+      "description": "Prominently features the use of swords in combat.",
+      "category": "Theme-Action",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 6634,
+          "title": {
+            "native": "戦国BASARA弐"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 5355,
+          "title": {
+            "native": "戦国BASARA"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 45538,
+          "title": {
+            "native": "戦国BASARA2"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 45539,
+          "title": {
+            "native": "TVアニメ戦国BASARA"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 48324,
+          "title": {
+            "native": "戦国BASARA3 -ROAR OF DRAGON-"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16302,
+          "name": {
+            "first": "Masamune",
+            "last": "Date",
+            "native": "伊達 政宗",
+            "alternative": [
+              "One-Eyed Dragon",
+              "Hittou",
+              "Dokugan Ryuu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16302.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16302.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16302"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16301,
+          "name": {
+            "first": "Yukimura",
+            "last": "Sanada",
+            "native": "真田幸村",
+            "alternative": [
+              "Young Tiger of Kai"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16301-dx3frwC4eOP0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16301-dx3frwC4eOP0.png"
+          },
+          "siteUrl": "https://anilist.co/character/16301"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24922,
+          "name": {
+            "first": "Ieyasu",
+            "last": "Tokugawa",
+            "native": "徳川 家康",
+            "alternative": [
+              "Matsudaira Takechiyo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24922-4tomJmInfG70.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24922-4tomJmInfG70.png"
+          },
+          "siteUrl": "https://anilist.co/character/24922"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 17815,
+          "name": {
+            "first": "Kojuurou",
+            "last": "Katakura",
+            "native": "片倉小十郎",
+            "alternative": [
+              "Right Eye of the Dragon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17815-yTDoXNug8q8R.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17815-yTDoXNug8q8R.png"
+          },
+          "siteUrl": "https://anilist.co/character/17815"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17814,
+          "name": {
+            "first": "Nobunaga",
+            "last": "Oda",
+            "native": "織田信長",
+            "alternative": [
+              "Devil King"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17814.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17814.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17814"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 18972,
+          "name": {
+            "first": "Sasuke",
+            "last": "Sarutobi",
+            "native": "猿飛佐助",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18972-vthQIaBcpTen.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b18972-vthQIaBcpTen.png"
+          },
+          "siteUrl": "https://anilist.co/character/18972"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 99750,
+          "name": {
+            "first": "Kairi",
+            "last": "Shimotsuki",
+            "native": "霜月かいり"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99750-0dtpXjzSNDVz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99750-0dtpXjzSNDVz.jpg"
+          },
+          "description": "[Twitter](http://twitter.com/s_kaili) | [Blog](http://neneharu.blog.shinobi.jp/)",
+          "siteUrl": "https://anilist.co/staff/99750"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 123756,
+          "rating": 1,
+          "media": {
+            "id": 37195,
+            "title": {
+              "native": null
+            }
+          },
+          "mediaRecommendation": {
+            "id": 44281,
+            "title": {
+              "native": "花の慶次 ―雲のかなたに―"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 3
+      },
+      {
+        "score": 60,
+        "amount": 7
+      },
+      {
+        "score": 70,
+        "amount": 8
+      },
+      {
+        "score": 80,
+        "amount": 10
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 17
+      },
+      {
+        "status": "PLANNING",
+        "amount": 89
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 48
+      },
+      {
+        "status": "DROPPED",
+        "amount": 8
+      },
+      {
+        "status": "PAUSED",
+        "amount": 13
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/37195",
+  "modNotes": null
+}

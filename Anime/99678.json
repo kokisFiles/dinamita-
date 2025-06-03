@@ -1,0 +1,715 @@
+{
+  "id": 99678,
+  "idMal": 32191,
+  "title": {
+    "native": "『掟上今日子の備忘録』×〈物語〉",
+    "romaji": "Okitegami Kyouko no Bibouroku x Monogatari",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "A short promotional video cross-promoting Monogatari and Okitegami Kyouko no Bibouroku.\n",
+  "startDate": {
+    "year": 2014,
+    "month": 12,
+    "day": 31
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 12,
+    "day": 31
+  },
+  "season": "FALL",
+  "seasonYear": 2014,
+  "seasonInt": 144,
+  "episodes": 1,
+  "duration": 1,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "LIGHT_NOVEL",
+  "hashtag": null,
+  "trailer": {
+    "id": "mYXusSjThKk",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/mYXusSjThKk/hqdefault.jpg"
+  },
+  "updatedAt": 1748866920,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99678-XzEKfKzm2Gz4.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99678-XzEKfKzm2Gz4.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx99678-XzEKfKzm2Gz4.jpg",
+    "color": "#284378"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99678-l3H0kGFjn9IJ.png",
+  "genres": [
+    "Supernatural"
+  ],
+  "synonyms": [],
+  "averageScore": 55,
+  "meanScore": 55,
+  "popularity": 3807,
+  "favourites": 8,
+  "tags": [
+    {
+      "id": 158,
+      "name": "Crossover",
+      "description": "Centers around the placement of two or more otherwise discrete fictional characters, settings, or universes into the context of a single story.",
+      "category": "Theme-Other",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 505,
+      "name": "Advertisement",
+      "description": "Produced in order to promote the products of a certain company.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 97629,
+          "title": {
+            "native": "掟上今日子の備忘録"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 74227,
+          "title": {
+            "native": "憑物語"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 20918,
+          "title": {
+            "native": "憑物語"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 22054,
+          "name": {
+            "first": "Suruga",
+            "last": "Kanbaru",
+            "native": "神原駿河",
+            "alternative": [
+              "Suruga Gaen",
+              "Ruga",
+              "Gaen's Legacy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/22054-n6Jsvp80bUhD.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/22054-n6Jsvp80bUhD.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/22054"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 24194,
+          "name": {
+            "first": "Karen",
+            "last": "Araragi",
+            "native": "阿良々木火憐",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n24194-SZwAIpP4IDum.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n24194-SZwAIpP4IDum.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24194"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 22036,
+          "name": {
+            "first": "Koyomi",
+            "last": "Araragi",
+            "native": "阿良々木暦",
+            "alternative": [
+              "Arararagi",
+              "Koyomin",
+              "Koyokoyo",
+              "Devil Boy",
+              "Kind Monster Sir",
+              "Monstieur"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22036-Ed3CjwPlDLp4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b22036-Ed3CjwPlDLp4.png"
+          },
+          "siteUrl": "https://anilist.co/character/22036"
+        },
+        "voiceActors": [
+          {
+            "id": 95118,
+            "name": {
+              "first": "Hiroshi",
+              "last": "Kamiya",
+              "native": "神谷浩史"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95118-oOElrn1aSaiC.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95118"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 87886,
+          "name": {
+            "first": "Ougi",
+            "last": "Oshino",
+            "native": "忍野扇",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87886-ZRBtKp5Sjoaa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b87886-ZRBtKp5Sjoaa.png"
+          },
+          "siteUrl": "https://anilist.co/character/87886"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 22552,
+          "name": {
+            "first": "Meme",
+            "last": "Oshino",
+            "native": "忍野メメ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22552-CZz1T3AjRyVd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b22552-CZz1T3AjRyVd.png"
+          },
+          "siteUrl": "https://anilist.co/character/22552"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24195,
+          "name": {
+            "first": "Tsukihi",
+            "last": "Araragi",
+            "native": "阿良々木月火",
+            "alternative": [
+              "Rara-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24195-iKisWgh6a4kl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24195-iKisWgh6a4kl.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24195"
+        },
+        "voiceActors": [
+          {
+            "id": 95885,
+            "name": {
+              "first": "Yuka",
+              "last": "Iguchi",
+              "native": "井口裕香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95885-NrKdS094Ae59.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95885-NrKdS094Ae59.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95885"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 22037,
+          "name": {
+            "first": "Hitagi",
+            "last": "Senjougahara",
+            "native": "戦場ヶ原ひたぎ",
+            "alternative": [
+              "Tsundere-chan",
+              "Gahara-san"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22037-sY7GWSKYr2Nl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b22037-sY7GWSKYr2Nl.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/22037"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 23602,
+          "name": {
+            "first": "Shinobu",
+            "last": "Oshino",
+            "native": "忍野忍",
+            "alternative": [
+              "Kiss-Shot Acerola-Orion Heart-Under-Blade (キスショット・アセロラオリオン・ハートアンダーブレード)",
+              "Tekketsu ni shite Nekketsu ni shite Reiketsu no Kyuuketsuki (鉄血にして熱血にして冷血の吸血鬼)",
+              "The Iron-blooded‚ Hot-blooded‚ Cold-blooded Vampire",
+              "Beautiful Princess",
+              "Acerola",
+              "Laura"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b23602-Z4MDNYcoAWZu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b23602-Z4MDNYcoAWZu.png"
+          },
+          "siteUrl": "https://anilist.co/character/23602"
+        },
+        "voiceActors": [
+          {
+            "id": 95090,
+            "name": {
+              "first": "Maaya",
+              "last": "Sakamoto",
+              "native": "坂本真綾"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95090-oARRP42NEhu0.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95090-oARRP42NEhu0.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95090"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 89372,
+          "name": {
+            "first": "Kyouko",
+            "last": "Okitegami",
+            "native": "掟上今日子",
+            "alternative": [
+              "The Forgetful Detective"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89372-b1vBhH2Wnq9j.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89372-b1vBhH2Wnq9j.png"
+          },
+          "siteUrl": "https://anilist.co/character/89372"
+        },
+        "voiceActors": [
+          {
+            "id": 95028,
+            "name": {
+              "first": "Yui",
+              "last": "Horie",
+              "native": "堀江由衣"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95028-MHT1m3E5wGZx.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95028-MHT1m3E5wGZx.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95028"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 22055,
+          "name": {
+            "first": "Tsubasa",
+            "last": "Hanekawa",
+            "native": "羽川翼",
+            "alternative": [
+              "Class Rep-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22055-EaTsy30ihdgb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b22055-EaTsy30ihdgb.png"
+          },
+          "siteUrl": "https://anilist.co/character/22055"
+        },
+        "voiceActors": [
+          {
+            "id": 95028,
+            "name": {
+              "first": "Yui",
+              "last": "Horie",
+              "native": "堀江由衣"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95028-MHT1m3E5wGZx.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95028-MHT1m3E5wGZx.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95028"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 22052,
+          "name": {
+            "first": "Mayoi",
+            "last": "Hachikuji",
+            "native": "八九寺真宵",
+            "alternative": [
+              "Lost Snail"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22052-beyfl4AyMGhn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b22052-beyfl4AyMGhn.png"
+          },
+          "siteUrl": "https://anilist.co/character/22052"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 57499,
+          "name": {
+            "first": "Yotsugi",
+            "last": "Ononoki",
+            "native": "斧乃木余接",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b57499-6cjBq1SlPRpq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b57499-6cjBq1SlPRpq.png"
+          },
+          "siteUrl": "https://anilist.co/character/57499"
+        },
+        "voiceActors": [
+          {
+            "id": 95869,
+            "name": {
+              "first": "Saori",
+              "last": "Hayami",
+              "native": "早見沙織"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95869-qCQ0EaWpq1QT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95869"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 53641,
+          "name": {
+            "first": "Deishuu",
+            "last": "Kaiki",
+            "native": "貝木泥舟",
+            "alternative": [
+              "Suzuki"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b53641-F3GYG0k2xCBj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b53641-F3GYG0k2xCBj.png"
+          },
+          "siteUrl": "https://anilist.co/character/53641"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Art",
+        "node": {
+          "id": 97402,
+          "name": {
+            "first": "Hajime",
+            "last": "Ueda",
+            "native": "ウエダハジメ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97402-vgtRPGLg8K92.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97402-vgtRPGLg8K92.png"
+          },
+          "description": "Hajime Ueda is a Japanese manga artist who created a two-volume adaptation of the Japanese animated OVA series FLCL, and the original manga Q·Ko-chan: The Earth Invader Girl. He started his career as a doujinshi artist, gaining a reputation for his quirky and unique style of art. He also does some costume design and sculpting. Ueda is also an artist known for his works with studio Shaft, particularly the Monogatari series in which he's acted as an opening and ending animator for various installments of the franchise.",
+          "siteUrl": "https://anilist.co/staff/97402"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 100724,
+          "name": {
+            "first": "Akio",
+            "last": "Watanabe",
+            "native": "渡辺明夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100724-bZxekioUpzXS.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100724-bZxekioUpzXS.jpg"
+          },
+          "description": "__Associated Names:__ Poyoyon Rock (ぽよよんろっく), Poyoyon♥Rock (ぽよよん♥ろっく), Pucchin Purin\n\n[Twitter (NSFW)](https://twitter.com/punipoyo)\n\nA Japanese animator, character designer, and animation director currently living in Tokyo, Japan. He often goes by the pseudonym Poyoyon Rock.  He is also a member of the doujinshi circle Pokopii.  \n\n(Source: Wikipedia)  ",
+          "siteUrl": "https://anilist.co/staff/100724"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 107328,
+          "name": {
+            "first": "Yukihiro",
+            "last": "Miyamoto",
+            "native": "宮本幸裕"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107328-3QMPLqKV0RgC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107328-3QMPLqKV0RgC.png"
+          },
+          "description": "**Birthplace:** Fukuoka, Japan\n\nYukihiro Miyamoto, occasionally nicknamed Otokomatsuri, is a Japanese animator and director. He started at animation studio Vega Entertainment, and later joined Shaft. He is best known for directing Puella Magi Madoka Magica and its subsequent film trilogy alongside Akiyuki Shinbo, the latter trilogy which subsequently garnered ¥2 billion, making it a box-office success.\n\nMiyamoto described himself as being a \"heretic\" at Shaft-- someone who, in a company of many differing directors, is only good at doing \"plain work\", and isn't particularly original or creative. Shinbo described Miyamoto in a similar way, but said that he was more like a professional craftsman who leaves their mark in places that cannot be seen.",
+          "siteUrl": "https://anilist.co/staff/107328"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 103594,
+          "name": {
+            "first": "VOFAN",
+            "last": "",
+            "native": "戴源亨"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103594-BncGUXvpoHaQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103594-BncGUXvpoHaQ.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/VOFAN_TW) | [Pixiv](https://www.pixiv.net/member.php?id=51536) | [Flickr](https://www.flickr.com/photos/vofan/) | [Facebook](https://www.facebook.com/vofanart/) | [YouTube](https://www.youtube.com/@VOFAN_TW)\n\nA Taiwanese illustrator most known for drawing the covers of the Monogatari series and the Boukyaku Tantei series. He speaks Taiwanese, Chinese, Japanese, and English. His name means \"Virtual On fan.\"",
+          "siteUrl": "https://anilist.co/staff/103594"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 100254,
+          "name": {
+            "first": "NISIOISIN",
+            "last": "",
+            "native": "西尾維新"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100254-nf19KPLgk62C.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100254-nf19KPLgk62C.jpg"
+          },
+          "description": "\n[Website](http://ni.siois.in) | [Twitter](https://twitter.com/NISIOISIN_info)\n\nNISIOISIN, whose pen name is a palindrome, is a Japanese novelist and manga writer. He attended and left Ritsumeikan University without graduating. In 2002, he debuted with the novel _Kubikiri Cycle_, which earned him the 23rd Mephisto Award at 20 years of age. \n\nHe currently works for Kodansha on Pandora, the Kodansha Box magazine, and Faust, a literary magazine containing the works of other young authors who similarly take influence from light novels and otaku culture. He was also publishing a 12-volume series over 12 months for the Kodansha Box line; fellow author Ryusui Seiryoin was matching this output, and the Kodansha Box website stated that this is the first time in the world two authors have written 12-volume monthly novel series simultaneously for the same publisher.",
+          "siteUrl": "https://anilist.co/staff/100254"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 44,
+          "name": "Shaft",
+          "siteUrl": "https://anilist.co/studio/44"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 4662,
+      "url": "https://www.youtube.com/channel/UCYQggGSz6g2WylIyyufAz4A",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22549,
+      "rank": 26,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2014,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 22563,
+      "rank": 10,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2014,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 168904,
+          "rating": 2,
+          "media": {
+            "id": 99678,
+            "title": {
+              "native": "『掟上今日子の備忘録』×〈物語〉"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 17813,
+            "title": {
+              "native": "京都アニメーションCM「メガネ編」"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 168906,
+          "rating": 1,
+          "media": {
+            "id": 99678,
+            "title": {
+              "native": "『掟上今日子の備忘録』×〈物語〉"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 111516,
+            "title": {
+              "native": "ダンジョン飯 CM"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 36
+      },
+      {
+        "score": 20,
+        "amount": 38
+      },
+      {
+        "score": 30,
+        "amount": 62
+      },
+      {
+        "score": 40,
+        "amount": 93
+      },
+      {
+        "score": 50,
+        "amount": 444
+      },
+      {
+        "score": 60,
+        "amount": 335
+      },
+      {
+        "score": 70,
+        "amount": 175
+      },
+      {
+        "score": 80,
+        "amount": 68
+      },
+      {
+        "score": 90,
+        "amount": 42
+      },
+      {
+        "score": 100,
+        "amount": 50
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 52
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1062
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2622
+      },
+      {
+        "status": "DROPPED",
+        "amount": 36
+      },
+      {
+        "status": "PAUSED",
+        "amount": 35
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/99678",
+  "modNotes": null
+}

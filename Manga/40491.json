@@ -1,0 +1,671 @@
+{
+  "id": 40491,
+  "idMal": 10491,
+  "title": {
+    "native": "Fate/stay night comic battle",
+    "romaji": "Fate/Stay Night: Comic Battle",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Fate/Stay Night manga anthology.",
+  "startDate": {
+    "year": 2004,
+    "month": 8,
+    "day": 6
+  },
+  "endDate": {
+    "year": 2004,
+    "month": 12,
+    "day": 7
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 14,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VISUAL_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748875867,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10491-9MgUj0r1RHZj.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10491-9MgUj0r1RHZj.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/10491-9MgUj0r1RHZj.jpg",
+    "color": "#e4351a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "synonyms": [],
+  "averageScore": 56,
+  "meanScore": 67,
+  "popularity": 339,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 30715,
+          "title": {
+            "native": "Fate/stay night"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2087,
+          "name": {
+            "first": "Archer",
+            "last": null,
+            "native": "アーチャー",
+            "alternative": [
+              "Wrought Iron Hero (錬鉄の英霊)",
+              "Faker (フェイカー)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2087-l5WP4W4vmfJJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2087-l5WP4W4vmfJJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/2087"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 497,
+          "name": {
+            "first": "Artoria",
+            "last": "Pendragon",
+            "native": "アルトリア・ペンドラゴン",
+            "alternative": [
+              "Saber (セイバー)",
+              "Altria Pendragon",
+              "King Arthur",
+              "King of Knights",
+              "Blue Saber",
+              "Arturia Pendragon",
+              "Goddess Rhongomyniad",
+              "Lion King",
+              "Elise Watoson",
+              "Once and Future King",
+              "Proud Knight-King",
+              "Arthur Pendragon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b497-Yg5pNmC8kxzs.png"
+          },
+          "siteUrl": "https://anilist.co/character/497"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 496,
+          "name": {
+            "first": "Shirou",
+            "last": "Emiya",
+            "native": "衛宮士郎",
+            "alternative": [
+              "Emiyan",
+              "Sherou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b496-GI0waavDjyk3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b496-GI0waavDjyk3.png"
+          },
+          "siteUrl": "https://anilist.co/character/496"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 498,
+          "name": {
+            "first": "Rin",
+            "last": "Tohsaka",
+            "native": "遠坂凛",
+            "alternative": [
+              "Rin Tousaka",
+              "Poppins of July",
+              "Red Devil",
+              "The Consultant",
+              "Red Evil",
+              "Kischur's Nightmare"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b498-lwawtSpLyATL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b498-lwawtSpLyATL.png"
+          },
+          "siteUrl": "https://anilist.co/character/498"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 44025,
+          "name": {
+            "first": "Sella",
+            "last": null,
+            "native": "セラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b44025-IxzAC5F26k9R.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b44025-IxzAC5F26k9R.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44025"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3440,
+          "name": {
+            "first": "Medea",
+            "last": null,
+            "native": "メデイア",
+            "alternative": [
+              "Caster (キャスター)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3440-134Ip9KiQeZL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3440-134Ip9KiQeZL.png"
+          },
+          "siteUrl": "https://anilist.co/character/3440"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 506,
+          "name": {
+            "first": "Kirei",
+            "last": "Kotomine",
+            "native": "言峰綺礼",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b506-qeg0TqitdCMS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b506-qeg0TqitdCMS.png"
+          },
+          "siteUrl": "https://anilist.co/character/506"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2514,
+          "name": {
+            "first": "Gilgamesh",
+            "last": "",
+            "native": "ギルガメッシュ",
+            "alternative": [
+              "Archer",
+              "King of Heroes",
+              "King of Kings",
+              "Golden King",
+              "King of Babylon",
+              "Oldest King",
+              "AUO",
+              "Gil-kun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2514-hnE6LEdqm7Su.png"
+          },
+          "siteUrl": "https://anilist.co/character/2514"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 504,
+          "name": {
+            "first": "Heracles",
+            "last": null,
+            "native": "ヘラクレス",
+            "alternative": [
+              "Berserker",
+              "バーサーカー",
+              "Hercules",
+              "Alcides",
+              "True Archer",
+              "Megalos"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b504-2k7LldrHYSAP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b504-2k7LldrHYSAP.png"
+          },
+          "siteUrl": "https://anilist.co/character/504"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 499,
+          "name": {
+            "first": "Cú ",
+            "last": "Chulainn",
+            "native": "クー・フーリン",
+            "alternative": [
+              "Lancer",
+              "光の御子",
+              "Child of Light",
+              "Blue Spearman of the Wind",
+              "クランの猛犬",
+              "Beast of Culann",
+              "Hound of Culann",
+              "Sétanta",
+              "Child of the Sun",
+              "Cú Alter",
+              "Mad King Cú Chulainn",
+              "Cú Chulainn (Alter)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b499-gS5RAdupSKWQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b499-gS5RAdupSKWQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/499"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 502,
+          "name": {
+            "first": "Medusa",
+            "last": null,
+            "native": "メドゥーサ",
+            "alternative": [
+              "Rider (ライダー)",
+              "Bewitching Black Serpent",
+              "Gorgon (ゴルゴーン)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b502-Nc5U3ghTR7Gy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b502-Nc5U3ghTR7Gy.png"
+          },
+          "siteUrl": "https://anilist.co/character/502"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 10010,
+          "name": {
+            "first": "Kiritsugu",
+            "last": "Emiya",
+            "native": "衛宮切嗣",
+            "alternative": [
+              "Magus Killer",
+              "Kerry",
+              "EMIYA (Assassin)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10010-fNspzan5MzNk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b10010-fNspzan5MzNk.png"
+          },
+          "siteUrl": "https://anilist.co/character/10010"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 24333,
+          "name": {
+            "first": "Leysritt",
+            "last": null,
+            "native": "リーゼリット",
+            "alternative": [
+              "Liz"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24333-alhbcqCDBbzZ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24333-alhbcqCDBbzZ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24333"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 15937,
+          "name": {
+            "first": "Issei",
+            "last": "Ryuudou",
+            "native": "柳洞一成",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15937-WpiTqk0Wr6RP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15937-WpiTqk0Wr6RP.png"
+          },
+          "siteUrl": "https://anilist.co/character/15937"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 505,
+          "name": {
+            "first": "Taiga",
+            "last": "Fujimura",
+            "native": "藤村大河",
+            "alternative": [
+              "Tiger-sensei",
+              "Fuji-nee",
+              "Disciple no. Zero",
+              "Zecchan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b505-QL0cNIE6Q0RI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b505-QL0cNIE6Q0RI.png"
+          },
+          "siteUrl": "https://anilist.co/character/505"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 503,
+          "name": {
+            "first": "Illyasviel",
+            "last": "von Einzbern",
+            "native": "イリヤスフィール・フォン・アインツベルン",
+            "alternative": [
+              "Illya"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b503-SmS87yq6l2tD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b503-SmS87yq6l2tD.png"
+          },
+          "siteUrl": "https://anilist.co/character/503"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 500,
+          "name": {
+            "first": "Sakura",
+            "last": "Matou",
+            "native": "間桐桜",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b500-NQrLbnBr1sDv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b500-NQrLbnBr1sDv.png"
+          },
+          "siteUrl": "https://anilist.co/character/500"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 113783,
+          "name": {
+            "first": "Aya",
+            "last": "Sakurai",
+            "native": "桜井綾"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113783-QQhfGH99RjLv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n113783-QQhfGH99RjLv.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/girlskingdom) | [Pixiv](https://www.pixiv.net/member.php?id=435954)",
+          "siteUrl": "https://anilist.co/staff/113783"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 225403,
+          "rating": 1,
+          "media": {
+            "id": 40491,
+            "title": {
+              "native": "Fate/stay night comic battle"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 116144,
+            "title": {
+              "native": "Fate/mahjong night 聖牌戦争"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 227581,
+          "rating": 1,
+          "media": {
+            "id": 40491,
+            "title": {
+              "native": "Fate/stay night comic battle"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 65911,
+            "title": {
+              "native": "TYPE-MOON作品集 弩月万罪"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 303941,
+          "rating": 1,
+          "media": {
+            "id": 40491,
+            "title": {
+              "native": "Fate/stay night comic battle"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 49381,
+            "title": {
+              "native": "氷室の天地 Fate/school life"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 303948,
+          "rating": 1,
+          "media": {
+            "id": 40491,
+            "title": {
+              "native": "Fate/stay night comic battle"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30780,
+            "title": {
+              "native": "TYPE-MOON作品集・TAKE MOON"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 303950,
+          "rating": 1,
+          "media": {
+            "id": 40491,
+            "title": {
+              "native": "Fate/stay night comic battle"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 40490,
+            "title": {
+              "native": "Fate/stay nightコミックアンソロジー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 409493,
+          "rating": 1,
+          "media": {
+            "id": 40491,
+            "title": {
+              "native": "Fate/stay night comic battle"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 189907,
+            "title": {
+              "native": "Fate/hollow ataraxiaコミックアンソロジー"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 6
+      },
+      {
+        "score": 60,
+        "amount": 17
+      },
+      {
+        "score": 70,
+        "amount": 24
+      },
+      {
+        "score": 80,
+        "amount": 14
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 5
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 40
+      },
+      {
+        "status": "PLANNING",
+        "amount": 181
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 99
+      },
+      {
+        "status": "DROPPED",
+        "amount": 4
+      },
+      {
+        "status": "PAUSED",
+        "amount": 15
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/40491",
+  "modNotes": null
+}

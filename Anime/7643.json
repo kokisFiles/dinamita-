@@ -1,0 +1,651 @@
+{
+  "id": 7643,
+  "idMal": 7643,
+  "title": {
+    "native": "どーもくん",
+    "romaji": "Domo-kun",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "A strange monster hatches from a mysterious egg. He befriends various animals, and takes residence in Osajii's burrow. He discovers new and exciting things about every day life.<br><br>\nAs of 2008, there are at least 37 regular TV spot episodes of Domo-kun.  These 37 episodes were released on DVD in Japan in July of 2009.",
+  "startDate": {
+    "year": 1998,
+    "month": 12,
+    "day": 22
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 1,
+    "day": 1
+  },
+  "season": "WINTER",
+  "seasonYear": 1998,
+  "seasonInt": 981,
+  "episodes": 37,
+  "duration": 1,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748883580,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7643.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7643.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/7643.jpg",
+    "color": "#e49350"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": 55,
+  "meanScore": 59,
+  "popularity": 693,
+  "favourites": 10,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 323,
+      "name": "Stop Motion",
+      "description": "Animation style characterized by physical objects being moved incrementally between frames to create the illusion of movement.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 8815,
+          "title": {
+            "native": "どーもくん"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 32282,
+          "name": {
+            "first": "Domo-kun",
+            "last": null,
+            "native": "どーもくん",
+            "alternative": [
+              "Domo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/32282.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/32282.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/32282"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 32885,
+          "name": {
+            "first": "Usajii",
+            "last": null,
+            "native": "うさじい",
+            "alternative": [
+              "Mr. Usaji"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/32885.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/32885.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/32885"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 115570,
+          "name": {
+            "first": "Tsuneo",
+            "last": "Gouda",
+            "native": "合田経郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115570-s6IW1BU7G95A.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115570-s6IW1BU7G95A.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/115570"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 111,
+          "name": "NHK",
+          "siteUrl": "https://anilist.co/studio/111"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 6179,
+          "name": "dwarf",
+          "siteUrl": "https://anilist.co/studio/6179"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 12045,
+      "rank": 12,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 1998,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12062,
+      "rank": 14,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 1998,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 65442,
+          "rating": 0,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 111323,
+            "title": {
+              "native": "ギャルと恐竜"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 66772,
+          "rating": 5,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 127690,
+            "title": {
+              "native": "PUI PUI モルカー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 87303,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 7547,
+            "title": {
+              "native": "こま撮りえいが こまねこ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 161569,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 150114,
+            "title": {
+              "native": "ももんがぁモン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187102,
+          "rating": 5,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 99230,
+            "title": {
+              "native": "リラックマとカオルさん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187104,
+          "rating": 3,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 125440,
+            "title": {
+              "native": "リラックマと遊園地"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187140,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 9770,
+            "title": {
+              "native": "ハローキティのスタンプヴィレッジ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187146,
+          "rating": 3,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 150188,
+            "title": {
+              "native": "PUI PUI モルカー DRIVING SCHOOL"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187148,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 9340,
+            "title": {
+              "native": "チェブラーシカ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187150,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 112145,
+            "title": {
+              "native": "うさぎのモフィ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187152,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 102700,
+            "title": {
+              "native": "木でつくろう"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187154,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 145704,
+            "title": {
+              "native": "チェブラーシカ 動物園へ行く"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187160,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 126612,
+            "title": {
+              "native": "ポチと! ヨッシー ウールワールド スペシャルアニメ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187443,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 154248,
+            "title": {
+              "native": "캐니멀"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187625,
+          "rating": 3,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 140842,
+            "title": {
+              "native": "ちいかわ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187635,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 140369,
+            "title": {
+              "native": "도기코기"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187645,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 104395,
+            "title": {
+              "native": "まるもふびより"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187663,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 103872,
+            "title": {
+              "native": "おこしやす、ちとせちゃん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187687,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 121799,
+            "title": {
+              "native": "アニメ カピバラさん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 308891,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 3724,
+            "title": {
+              "native": "太鼓の達人"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 309711,
+          "rating": 1,
+          "media": {
+            "id": 7643,
+            "title": {
+              "native": "どーもくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 7445,
+            "title": {
+              "native": "カロとピヨブプト"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 19
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 10
+      },
+      {
+        "score": 40,
+        "amount": 10
+      },
+      {
+        "score": 50,
+        "amount": 23
+      },
+      {
+        "score": 60,
+        "amount": 32
+      },
+      {
+        "score": 70,
+        "amount": 33
+      },
+      {
+        "score": 80,
+        "amount": 18
+      },
+      {
+        "score": 90,
+        "amount": 13
+      },
+      {
+        "score": 100,
+        "amount": 18
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 34
+      },
+      {
+        "status": "PLANNING",
+        "amount": 283
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 280
+      },
+      {
+        "status": "DROPPED",
+        "amount": 67
+      },
+      {
+        "status": "PAUSED",
+        "amount": 29
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/7643",
+  "modNotes": null
+}

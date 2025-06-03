@@ -1,0 +1,461 @@
+{
+  "id": 100716,
+  "idMal": 35773,
+  "title": {
+    "native": "ノラネコ",
+    "romaji": "Noraneko",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "A short video released on April Fool's Day 2014, which reimagines the cast of Noragami with cat ears. The title, Noraneko, means \"stray cat\" in Japanese.\n",
+  "startDate": {
+    "year": 2014,
+    "month": 4,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 4,
+    "day": 1
+  },
+  "season": "SPRING",
+  "seasonYear": 2014,
+  "seasonInt": 142,
+  "episodes": 1,
+  "duration": 1,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": {
+    "id": "LgWaBr-Q3Cg",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/LgWaBr-Q3Cg/hqdefault.jpg"
+  },
+  "updatedAt": 1748865654,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100716-KD8c9xCdIlu3.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100716-KD8c9xCdIlu3.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/100716-KD8c9xCdIlu3.jpg",
+    "color": "#f1c95d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100716-iZl3jf7JxNph.jpg",
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Noragami: Noraneko"
+  ],
+  "averageScore": 54,
+  "meanScore": 55,
+  "popularity": 3609,
+  "favourites": 14,
+  "tags": [
+    {
+      "id": 113,
+      "name": "Nekomimi",
+      "description": "Humanoid characters with cat-like features such as cat ears and a tail.",
+      "category": "Cast-Traits",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 253,
+      "name": "Gods",
+      "description": "Prominently features a character of divine or religious nature.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 20447,
+          "title": {
+            "native": "ノラガミ"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 88239,
+          "name": {
+            "first": "Bishamon",
+            "last": null,
+            "native": "毘沙門",
+            "alternative": [
+              "Vaisravana",
+              "Veena",
+              "Bisha",
+              "Bishamonten"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88239-ClhB8m8xWBQf.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88239-ClhB8m8xWBQf.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/88239"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 84679,
+          "name": {
+            "first": "Hiyori",
+            "last": "Iki",
+            "native": "壱岐ひより",
+            "alternative": [
+              "Hiyorin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b84679-GdMxvYy36M9H.png"
+          },
+          "siteUrl": "https://anilist.co/character/84679"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 88241,
+          "name": {
+            "first": "Kofuku",
+            "last": "Ebisu",
+            "native": "エビス 小福",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88241-3NQSKNgaQRNC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88241-3NQSKNgaQRNC.png"
+          },
+          "siteUrl": "https://anilist.co/character/88241"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 88692,
+          "name": {
+            "first": "Nora",
+            "last": null,
+            "native": "野良",
+            "alternative": [
+              "Mizuchi",
+              "Hiiro",
+              "Tsutsumi",
+              "Eyami"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88692-LebZeeQq1cqW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88692-LebZeeQq1cqW.png"
+          },
+          "siteUrl": "https://anilist.co/character/88692"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 84677,
+          "name": {
+            "first": "Yato",
+            "last": null,
+            "native": "夜ト",
+            "alternative": [
+              "Yatty",
+              "Amagiri no Mikoto",
+              "Jersey",
+              "Drippy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b84677-PFmohzIXD1ud.png"
+          },
+          "siteUrl": "https://anilist.co/character/84677"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 88691,
+          "name": {
+            "first": "Daikoku",
+            "last": null,
+            "native": "大黒",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88691-3558v8r2PdLj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88691-3558v8r2PdLj.png"
+          },
+          "siteUrl": "https://anilist.co/character/88691"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 88690,
+          "name": {
+            "first": "Rabo",
+            "last": null,
+            "native": "蠃蚌",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88690-7i53juMPaNjR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88690-7i53juMPaNjR.png"
+          },
+          "siteUrl": "https://anilist.co/character/88690"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 89301,
+          "name": {
+            "first": "Kuraha",
+            "last": null,
+            "native": "囷巴",
+            "alternative": [
+              "Kinki"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89301-1kEosHwb6M5T.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89301-1kEosHwb6M5T.png"
+          },
+          "siteUrl": "https://anilist.co/character/89301"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 88240,
+          "name": {
+            "first": "Kazuma",
+            "last": null,
+            "native": "兆麻",
+            "alternative": [
+              "Chouki (兆器)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88240-Q1aOkqfeFQpV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88240-Q1aOkqfeFQpV.png"
+          },
+          "siteUrl": "https://anilist.co/character/88240"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 84681,
+          "name": {
+            "first": "Yukine",
+            "last": null,
+            "native": "雪音",
+            "alternative": [
+              "Sekki",
+              "Yukki"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84681-vFMPNxeDkoqt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b84681-vFMPNxeDkoqt.png"
+          },
+          "siteUrl": "https://anilist.co/character/84681"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 159,
+          "name": "Kodansha",
+          "siteUrl": "https://anilist.co/studio/159"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22552,
+      "rank": 29,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2014,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 22564,
+      "rank": 11,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2014,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 75287,
+          "rating": 8,
+          "media": {
+            "id": 100716,
+            "title": {
+              "native": "ノラネコ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 106495,
+            "title": {
+              "native": "ニセコイモノガタリ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 75289,
+          "rating": 4,
+          "media": {
+            "id": 100716,
+            "title": {
+              "native": "ノラネコ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 10519,
+            "title": {
+              "native": "魔法少女そに子☆マギカ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 50
+      },
+      {
+        "score": 20,
+        "amount": 47
+      },
+      {
+        "score": 30,
+        "amount": 66
+      },
+      {
+        "score": 40,
+        "amount": 103
+      },
+      {
+        "score": 50,
+        "amount": 298
+      },
+      {
+        "score": 60,
+        "amount": 254
+      },
+      {
+        "score": 70,
+        "amount": 138
+      },
+      {
+        "score": 80,
+        "amount": 74
+      },
+      {
+        "score": 90,
+        "amount": 45
+      },
+      {
+        "score": 100,
+        "amount": 66
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 45
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1400
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2069
+      },
+      {
+        "status": "DROPPED",
+        "amount": 57
+      },
+      {
+        "status": "PAUSED",
+        "amount": 38
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/100716",
+  "modNotes": null
+}

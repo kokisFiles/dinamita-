@@ -1,0 +1,792 @@
+{
+  "id": 2597,
+  "idMal": 2597,
+  "title": {
+    "native": "名探偵コナン 阿笠からの挑戦状! 阿笠vsコナン&少年探偵団",
+    "romaji": "Meitantei Conan: Agasa-sensei no Chousenjou! Agasa vs Conan & Shounen Tanteidan",
+    "english": "Case Closed: A Challenge from Agasa! Agasa vs. Conan and the Detective Boys"
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "Professor Agasa is kidnapped and the Detective Boys must use clues found at his house and in various parts of the city in order to find him.",
+  "startDate": {
+    "year": 2007,
+    "month": 3,
+    "day": 13
+  },
+  "endDate": {
+    "year": 2007,
+    "month": 3,
+    "day": 13
+  },
+  "season": "SPRING",
+  "seasonYear": 2007,
+  "seasonInt": 72,
+  "episodes": 1,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748884913,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2597.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2597.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2597.jpg",
+    "color": "#e4c943"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Mystery"
+  ],
+  "synonyms": [
+    "Detective Conan: Agasa-sensei no Chousenjou! Agasa vs Conan & Shounen Tanteidan"
+  ],
+  "averageScore": 68,
+  "meanScore": 69,
+  "popularity": 3121,
+  "favourites": 17,
+  "tags": [
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 488,
+      "name": "Age Regression",
+      "description": "Prominently features a character who was returned to a younger state.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 446,
+      "name": "Primarily Child Cast",
+      "description": "Main cast is mostly composed of characters below a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 694,
+      "name": "Detective",
+      "description": "Features a character who investigates and solves crimes.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 235,
+          "title": {
+            "native": "名探偵コナン"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1743,
+          "name": {
+            "first": "Ai",
+            "last": "Haibara",
+            "native": "灰原哀",
+            "alternative": [
+              "Anita Hailey",
+              "Vi Graythorn",
+              "The Evil-Eyed Yawny Girl"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1743-yw1FloPUI7jO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1743-yw1FloPUI7jO.png"
+          },
+          "siteUrl": "https://anilist.co/character/1743"
+        },
+        "voiceActors": [
+          {
+            "id": 95014,
+            "name": {
+              "first": "Megumi",
+              "last": "Hayashibara",
+              "native": "林原めぐみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95014-tFYQYYhlVOF0.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95014-tFYQYYhlVOF0.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95014"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1742,
+          "name": {
+            "first": "Conan",
+            "last": "Edogawa",
+            "native": "江戸川コナン",
+            "alternative": [
+              "Shinichi Kudou (工藤新一)",
+              "Kinichi",
+              "Shin-chan",
+              "Cool Kid",
+              "Silver Bullet-kun",
+              "Glasses Kid",
+              "Holmes' Apprentice",
+              "Kid Killer",
+              "江户川柯南",
+              "Cool Guy",
+              "Magician",
+              "Tantei-kun",
+              "Kuroshiro-kun",
+              "Sleeping Kogoro's Bag of Wisdom",
+              "Jimmy Kudo",
+              "Arthur Hirai"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1742-NiV278NBFOvZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1742-NiV278NBFOvZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/1742"
+        },
+        "voiceActors": [
+          {
+            "id": 95024,
+            "name": {
+              "first": "Minami",
+              "last": "Takayama",
+              "native": "高山みなみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95024-qsZgGp8VHqMP.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95024-qsZgGp8VHqMP.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95024"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4252,
+          "name": {
+            "first": "Mitsuhiko",
+            "last": "Tsuburaya",
+            "native": "円谷光彦",
+            "alternative": [
+              "Mitch Tennison",
+              "Mit-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4252-eHo7i4WDIdQv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4252-eHo7i4WDIdQv.png"
+          },
+          "siteUrl": "https://anilist.co/character/4252"
+        },
+        "voiceActors": [
+          {
+            "id": 95128,
+            "name": {
+              "first": "Ikue",
+              "last": "Ootani",
+              "native": "大谷育江"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95128-9YWpE1d2U8Sj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95128"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4251,
+          "name": {
+            "first": "Genta",
+            "last": "Kojima",
+            "native": "小嶋元太",
+            "alternative": [
+              "George Kaminski"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4251-CK1ibFjPW7Kx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4251-CK1ibFjPW7Kx.png"
+          },
+          "siteUrl": "https://anilist.co/character/4251"
+        },
+        "voiceActors": [
+          {
+            "id": 95133,
+            "name": {
+              "first": "Wataru",
+              "last": "Takagi",
+              "native": "高木渉"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95133-cqDtu078voZ1.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95133-cqDtu078voZ1.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95133"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 53483,
+          "name": {
+            "first": "Osamu",
+            "last": "Yoda",
+            "native": "与田治",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b53483-vEdSOC2u13xB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b53483-vEdSOC2u13xB.png"
+          },
+          "siteUrl": "https://anilist.co/character/53483"
+        },
+        "voiceActors": [
+          {
+            "id": 95173,
+            "name": {
+              "first": "Masaya",
+              "last": "Onosaka",
+              "native": "小野坂昌也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95173-LIuN04REF5eA.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95173-LIuN04REF5eA.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95173"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1746,
+          "name": {
+            "first": "Kogorou",
+            "last": "Mouri",
+            "native": "毛利小五郎",
+            "alternative": [
+              "Richard Moore",
+              "Sleeping Kogorou",
+              "Goro Mori",
+              "毛利小五郎"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1746-5I4sBSeXvCKP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1746-5I4sBSeXvCKP.png"
+          },
+          "siteUrl": "https://anilist.co/character/1746"
+        },
+        "voiceActors": [
+          {
+            "id": 95416,
+            "name": {
+              "first": "Akira",
+              "last": "Kamiya",
+              "native": "神谷明"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95416-8rk0Oq3ZXYjt.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95416-8rk0Oq3ZXYjt.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95416"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4162,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Agasa",
+            "native": "阿笠博士",
+            "alternative": [
+              "Hershel Agasa",
+              "Professor"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4162-lDyKQxlzEXcj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4162-lDyKQxlzEXcj.png"
+          },
+          "siteUrl": "https://anilist.co/character/4162"
+        },
+        "voiceActors": [
+          {
+            "id": 95481,
+            "name": {
+              "first": "Kenichi",
+              "last": "Ogata",
+              "native": "緒方賢一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95481-1dPQbwMpvjul.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95481-1dPQbwMpvjul.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95481"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1748,
+          "name": {
+            "first": "Ran",
+            "last": "Mouri",
+            "native": "毛利蘭",
+            "alternative": [
+              "Rachel Moore",
+              "毛利兰",
+              "유미란",
+              "Angel",
+              "Ranmaru"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1748-j3PdfbQruuOV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1748-j3PdfbQruuOV.png"
+          },
+          "siteUrl": "https://anilist.co/character/1748"
+        },
+        "voiceActors": [
+          {
+            "id": 95496,
+            "name": {
+              "first": "Wakana",
+              "last": "Yamazaki",
+              "native": "山崎和佳奈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95496-PAwWafRnHtEf.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95496-PAwWafRnHtEf.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95496"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1749,
+          "name": {
+            "first": "Sonoko",
+            "last": "Suzuki",
+            "native": "鈴木園子",
+            "alternative": [
+              "Serena Sebastian",
+              "Deduction Queen"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1749-Jt3uRH7SRntc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1749-Jt3uRH7SRntc.png"
+          },
+          "siteUrl": "https://anilist.co/character/1749"
+        },
+        "voiceActors": [
+          {
+            "id": 95516,
+            "name": {
+              "first": "Naoko",
+              "last": "Matsui",
+              "native": "松井菜桜子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95516-N94jWbOCyDd7.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95516-N94jWbOCyDd7.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95516"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4228,
+          "name": {
+            "first": "Ayumi",
+            "last": "Yoshida",
+            "native": "吉田歩美",
+            "alternative": [
+              "Amy Yeager"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4228-c6vBLrG3AGdN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4228-c6vBLrG3AGdN.png"
+          },
+          "siteUrl": "https://anilist.co/character/4228"
+        },
+        "voiceActors": [
+          {
+            "id": 95517,
+            "name": {
+              "first": "Yukiko",
+              "last": "Iwai",
+              "native": "岩居由希子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95517-7GhUeRdmtfMC.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95517-7GhUeRdmtfMC.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95517"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97804,
+          "name": {
+            "first": "Gosho",
+            "last": "Aoyama",
+            "native": "青山剛昌"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97804-eJvgBBsH8mdM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97804-eJvgBBsH8mdM.jpg"
+          },
+          "description": "__Favorite Food:__ Rice with curry\n\nGosho Aoyama, alternatively known by his real name Yoshimasa Aoyama, is a Japanese mangaka and animator, best known as the creator of Detective Conan (internationally known as Case Closed), Magic Kaito, and YAIBA.",
+          "siteUrl": "https://anilist.co/staff/97804"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 101936,
+          "name": {
+            "first": "Yukari",
+            "last": "Kobayashi",
+            "native": "小林ゆかり"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101936-Q7x8GkJtXFRo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101936-Q7x8GkJtXFRo.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/101936"
+        }
+      },
+      {
+        "role": "Theme Song Performance  (ED)",
+        "node": {
+          "id": 102353,
+          "name": {
+            "first": "Mai",
+            "last": "Kuraki",
+            "native": "倉木麻衣"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102353-AWXLrgU7gvX0.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102353-AWXLrgU7gvX0.jpg"
+          },
+          "description": "Japanese pop singer-songwriter\n\nShe was influenced at an early age by Whitney Houston's singing and Michael Jackson's dancing. In her second year of junior high school, she submitted a demo tape to the Giza Studio recording label and won a contract. She debuted in the United States in 1999 with the song \"Baby I Like,\" released as Mai K. Her first Japanese single, \"Love, Day After Tomorrow\", was released later in the year. It sold 1,385,190 copies in Japan. The success of her debut was quickly followed by her second single \"Stay by my side\" which become her first no.1 single and eventually sold 922,140 copies. Mai's third single \"Secret of my Heart\" was also very successful reaching no.2 on the Oricon Weekly Ranking (At this week, Masaharu Fukuyama's biggest hit single \"Sakurasaka\" was number 1, which sold 2,299,000 copies). The single charted for sixteen weeks and sold 968,980 copies. A few weeks before the release of her debut album Mai released her fourth single \"Never Gonna Give You Up\" featuring Michael Africk. The single peaked at #2 and sold 434,250 copies.\n\nYear 2002 was a year of success for Mai Kuraki. January that year, \"Winter Bells\", the 10th opening theme for the popular anime Detective Conan, reached the top position of the Oricon charts. FT Shiseido chose \"Feel fine!\" as the theme song for its 100 year celebration campaign. The single release of the song briefly held the daily top spot against Ayumi Hamasaki's \"Free & Easy\", but lost out the weekly top spot.\n\nOn 25 July 2017 she was awarded a Guinness World Record for singing the most theme songs in a single anime series ([Meitantei Conan](https://anilist.co/anime/235/)).\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/102353"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 105237,
+          "name": {
+            "first": "Yasutada",
+            "last": "Katou",
+            "native": "加藤靖忠 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Background Artist affiliated with studio Stereotype Smartile.",
+          "siteUrl": "https://anilist.co/staff/105237"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 115921,
+          "name": {
+            "first": "Yasuichirou",
+            "last": "Yamamoto",
+            "native": "山本泰一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/20921.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/20921.jpg"
+          },
+          "description": "Yamamoto Yasuichirou is a director. He is best known as the current director of the Meitantei Conan franchise.",
+          "siteUrl": "https://anilist.co/staff/115921"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 115921,
+          "name": {
+            "first": "Yasuichirou",
+            "last": "Yamamoto",
+            "native": "山本泰一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/20921.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/20921.jpg"
+          },
+          "description": "Yamamoto Yasuichirou is a director. He is best known as the current director of the Meitantei Conan franchise.",
+          "siteUrl": "https://anilist.co/staff/115921"
+        }
+      },
+      {
+        "role": "Background Art",
+        "node": {
+          "id": 121364,
+          "name": {
+            "first": "Akiko",
+            "last": "Kikuchi",
+            "native": "菊地明子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121364-eCUdGY1SWwD1.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121364-eCUdGY1SWwD1.jpg"
+          },
+          "description": "\n_Note: Not to be confused with the [painter](https://anilist.co/staff/194863/)._\n\nAffiliated with Atelier Platz.",
+          "siteUrl": "https://anilist.co/staff/121364"
+        }
+      },
+      {
+        "role": "Art Design",
+        "node": {
+          "id": 122862,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Izumi",
+            "native": "泉寛"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/122862"
+        }
+      },
+      {
+        "role": "Production Advancement",
+        "node": {
+          "id": 135804,
+          "name": {
+            "first": "Takashi",
+            "last": "Yamada",
+            "native": "山田隆司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n135804-6vtcBkk5xNWN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n135804-6vtcBkk5xNWN.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/山田隆司)\n\nHosei University graduate.",
+          "siteUrl": "https://anilist.co/staff/135804"
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 147400,
+          "name": {
+            "first": "Atsushi",
+            "last": "Aono",
+            "native": "青野厚司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n147400-tslOtRK3xmMN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n147400-tslOtRK3xmMN.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/at_sushi_01)",
+          "siteUrl": "https://anilist.co/staff/147400"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 73,
+          "name": "TMS Entertainment",
+          "siteUrl": "https://anilist.co/studio/73"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 20949,
+      "rank": 9,
+      "type": "RATED",
+      "format": "OVA",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 20991,
+      "rank": 21,
+      "type": "POPULAR",
+      "format": "OVA",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 7
+      },
+      {
+        "score": 20,
+        "amount": 6
+      },
+      {
+        "score": 30,
+        "amount": 24
+      },
+      {
+        "score": 40,
+        "amount": 32
+      },
+      {
+        "score": 50,
+        "amount": 152
+      },
+      {
+        "score": 60,
+        "amount": 253
+      },
+      {
+        "score": 70,
+        "amount": 448
+      },
+      {
+        "score": 80,
+        "amount": 266
+      },
+      {
+        "score": 90,
+        "amount": 103
+      },
+      {
+        "score": 100,
+        "amount": 99
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 47
+      },
+      {
+        "status": "PLANNING",
+        "amount": 577
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2427
+      },
+      {
+        "status": "DROPPED",
+        "amount": 41
+      },
+      {
+        "status": "PAUSED",
+        "amount": 29
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/2597",
+  "modNotes": null
+}

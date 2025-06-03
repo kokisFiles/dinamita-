@@ -1,0 +1,1347 @@
+{
+  "id": 6868,
+  "idMal": 6868,
+  "title": {
+    "native": "ワンサくん",
+    "romaji": "Wansa-kun",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "The hero of Wansa-kun is Wansa, a puppy who is sold for a pittance, then escapes, and spends much of the rest of the series looking for his mother. ",
+  "startDate": {
+    "year": 1973,
+    "month": 4,
+    "day": 2
+  },
+  "endDate": {
+    "year": 1973,
+    "month": 9,
+    "day": 24
+  },
+  "season": "SPRING",
+  "seasonYear": 1973,
+  "seasonInt": 732,
+  "episodes": 26,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748539737,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6868-Q0KOW5EwRLBp.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6868-Q0KOW5EwRLBp.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6868-Q0KOW5EwRLBp.png",
+    "color": "#0d86f1"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "synonyms": [
+    "Little Wansa"
+  ],
+  "averageScore": 59,
+  "meanScore": 68,
+  "popularity": 399,
+  "favourites": 12,
+  "tags": [
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 102,
+      "name": "Coming of Age",
+      "description": "Centers around a character's transition from childhood to adulthood.",
+      "category": "Theme-Drama",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 59617,
+          "title": {
+            "native": "ワンサくん"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 258876,
+          "name": {
+            "first": "Wansa",
+            "last": null,
+            "native": "ワンサ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b258876-2w0ubG89V508.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b258876-2w0ubG89V508.png"
+          },
+          "siteUrl": "https://anilist.co/character/258876"
+        },
+        "voiceActors": [
+          {
+            "id": 96151,
+            "name": {
+              "first": "Noriko",
+              "last": "Ohara",
+              "native": "小原乃梨子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96151-xIUthJb1PpkT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96151-xIUthJb1PpkT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96151"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258880,
+          "name": {
+            "first": "Mimi",
+            "last": null,
+            "native": "ミミ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258880"
+        },
+        "voiceActors": [
+          {
+            "id": 100354,
+            "name": {
+              "first": "Sachiko",
+              "last": "Chijimatsu",
+              "native": "千々松幸子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100354-We8MkFKcpoA9.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100354-We8MkFKcpoA9.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/100354"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258882,
+          "name": {
+            "first": "Kuma",
+            "last": null,
+            "native": "クマ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258882"
+        },
+        "voiceActors": [
+          {
+            "id": 95870,
+            "name": {
+              "first": "Kei",
+              "last": "Tomiyama",
+              "native": "富山敬"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95870-nqSFY9095pWw.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95870-nqSFY9095pWw.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95870"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258881,
+          "name": {
+            "first": "Midori",
+            "last": null,
+            "native": "ミドリ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258881"
+        },
+        "voiceActors": [
+          {
+            "id": 258879,
+            "name": {
+              "first": "Yuki",
+              "last": "Hon",
+              "native": "ホーン・ユキ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n258879-tfrLGR6jh6Ag.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n258879-tfrLGR6jh6Ag.png"
+            },
+            "siteUrl": "https://anilist.co/staff/258879"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258883,
+          "name": {
+            "first": "Lupin",
+            "last": null,
+            "native": "ルパン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258883"
+        },
+        "voiceActors": [
+          {
+            "id": 95670,
+            "name": {
+              "first": "Jouji",
+              "last": "Yanami",
+              "native": "八奈見乗児"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95670-fTFcKuDyrOjc.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95670-fTFcKuDyrOjc.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95670"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258884,
+          "name": {
+            "first": "Yukiko",
+            "last": null,
+            "native": "ユキコ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258884"
+        },
+        "voiceActors": [
+          {
+            "id": 95920,
+            "name": {
+              "first": "Rihoko",
+              "last": "Yoshida",
+              "native": "吉田理保子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95920-loaTHS2gUR39.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95920-loaTHS2gUR39.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95920"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258885,
+          "name": {
+            "first": "Megane-san",
+            "last": null,
+            "native": "メガネさん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258885"
+        },
+        "voiceActors": [
+          {
+            "id": 101730,
+            "name": {
+              "first": "Ichirou",
+              "last": "Nagai",
+              "native": "永井一郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101730-PQO9AMRtT5jB.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101730-PQO9AMRtT5jB.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101730"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258887,
+          "name": {
+            "first": "Herahera",
+            "last": null,
+            "native": "ヘラヘラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258887"
+        },
+        "voiceActors": [
+          {
+            "id": 96572,
+            "name": {
+              "first": "Hiroshi",
+              "last": "Ootake",
+              "native": "大竹宏"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96572-z9s5fXiwJFum.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96572-z9s5fXiwJFum.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96572"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258888,
+          "name": {
+            "first": "Mimi no Hahaoya",
+            "last": null,
+            "native": "ミミの母親",
+            "alternative": [
+              "Mimi's mother"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258888"
+        },
+        "voiceActors": [
+          {
+            "id": 96250,
+            "name": {
+              "first": "Reiko",
+              "last": "Mutou",
+              "native": "武藤礼子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96250-OFjsUMvh8zHM.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96250-OFjsUMvh8zHM.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96250"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258886,
+          "name": {
+            "first": "Boushi Jii-san",
+            "last": null,
+            "native": "ボウシ爺さん",
+            "alternative": [
+              "Grandpa Boushi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258886"
+        },
+        "voiceActors": [
+          {
+            "id": 104012,
+            "name": {
+              "first": "Ryuuji",
+              "last": "Saikachi",
+              "native": "槐柳二"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104012-rNnG1Cdo12bg.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104012-rNnG1Cdo12bg.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/104012"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258890,
+          "name": {
+            "first": "Buutan",
+            "last": null,
+            "native": "ブータン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258890"
+        },
+        "voiceActors": [
+          {
+            "id": 104920,
+            "name": {
+              "first": "Reizou",
+              "last": "Nomoto",
+              "native": "野本礼三"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9920.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9920.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/104920"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258892,
+          "name": {
+            "first": "Chibi Kuro",
+            "last": null,
+            "native": "チビクロ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258892"
+        },
+        "voiceActors": [
+          {
+            "id": 102611,
+            "name": {
+              "first": "Yoshiko",
+              "last": "Yamamoto",
+              "native": "山本嘉子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7611.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/7611.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102611"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258891,
+          "name": {
+            "first": "Bull",
+            "last": null,
+            "native": "ブル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258891"
+        },
+        "voiceActors": [
+          {
+            "id": 103867,
+            "name": {
+              "first": "Osamu",
+              "last": "Katou",
+              "native": "加藤治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103867-aQYAG7wMqiI1.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103867-aQYAG7wMqiI1.png"
+            },
+            "siteUrl": "https://anilist.co/staff/103867"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258894,
+          "name": {
+            "first": "Kouta",
+            "last": null,
+            "native": "コウタ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258894"
+        },
+        "voiceActors": [
+          {
+            "id": 95557,
+            "name": {
+              "first": "Masako",
+              "last": "Nozawa",
+              "native": "野沢雅子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95557-5a2nnIBK05ul.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95557-5a2nnIBK05ul.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95557"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258893,
+          "name": {
+            "first": "Gonbe",
+            "last": null,
+            "native": "ゴンベ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258893"
+        },
+        "voiceActors": [
+          {
+            "id": 101453,
+            "name": {
+              "first": "Junko",
+              "last": "Hori",
+              "native": "堀絢子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101453-pAwpxoveMbbg.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101453-pAwpxoveMbbg.png"
+            },
+            "siteUrl": "https://anilist.co/staff/101453"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258895,
+          "name": {
+            "first": "Gamble",
+            "last": null,
+            "native": "ギャンブル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258895"
+        },
+        "voiceActors": [
+          {
+            "id": 96237,
+            "name": {
+              "first": "Kaneta",
+              "last": "Kimotsuki",
+              "native": "肝付兼太"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96237-GFQBOo52IOXm.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96237-GFQBOo52IOXm.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96237"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 258896,
+          "name": {
+            "first": "Bumble",
+            "last": null,
+            "native": "バンブル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/258896"
+        },
+        "voiceActors": [
+          {
+            "id": 102965,
+            "name": {
+              "first": "Keiko",
+              "last": "Yamamoto",
+              "native": "山本圭子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102965-9VD9FbA7pNyV.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102965-9VD9FbA7pNyV.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102965"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Episode Director (eps 2, 7, 13)",
+        "node": {
+          "id": 104541,
+          "name": {
+            "first": "Masami",
+            "last": "Hata",
+            "native": "波多正美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9541.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9541.jpg"
+          },
+          "description": "He made his debut as an animator on the show [Big X](https://anilist.co/anime/9613/), and joined Mushi Production working there as a director. Around 1975, he began working at Sanrio, which was just moving into the anime market, and wound up staying there for over a decade, going on to direct several of Sanrio's full-length theatrical features such as [Chirin no Suzu](https://anilist.co/anime/2199/), [Sirius no Densetsu](https://anilist.co/anime/2029/) and [Yousei Florence](https://anilist.co/anime/4943/).\n\nHe has been working as a freelancer since the breakup of Sanrio's animation department in 1985 following the release of the film Yousei Florence, directing and storyboarding for TV series and movies at various studios.",
+          "siteUrl": "https://anilist.co/staff/104541"
+        }
+      },
+      {
+        "role": "Theme Song Lyrics (ED2)",
+        "node": {
+          "id": 108767,
+          "name": {
+            "first": "Keisuke",
+            "last": "Fujikawa",
+            "native": "藤川桂介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108767-Tjkr4HAVUfjQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n108767-Tjkr4HAVUfjQ.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/108767"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 110495,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Miyagawa",
+            "native": "宮川泰"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/15495.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/15495.jpg"
+          },
+          "description": "Composer of various games and anime, notably Space Battleship Yamato.\n\nDied of heart failure at the age of 75 on March 21, 2006.",
+          "siteUrl": "https://anilist.co/staff/110495"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 103332,
+          "name": {
+            "first": "Yoshinobu",
+            "last": "Nishizaki",
+            "native": "西崎義展"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103332-5PQ5jclHhcCD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103332-5PQ5jclHhcCD.png"
+          },
+          "description": "Yoshinobu Nishizaki was best known as the co-creator of Space Battleship Yamato. He was born in 1934 and graduated from Nihon University Art Department.\n\nIn 1994 he designed Yamato 2520. But in the end he was sued by Matsumoto Leiji for breach of copyright. Since then he has been arrested for gun and drug offences. Later in 2002 the court ruled that Nishizaki was the original author and owner of the copyright for Uchuu Senkan Yamato. Matsumoto appealed but settled out of court in 2003 in agreement that Nishizaki was the author.\n\nHe passed away on November 7th, 2010 at the age of 75 when he fell from a research steamboat, named Yamato, to the sea near Chichijima island and drowned.\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/103332"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 103332,
+          "name": {
+            "first": "Yoshinobu",
+            "last": "Nishizaki",
+            "native": "西崎義展"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103332-5PQ5jclHhcCD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103332-5PQ5jclHhcCD.png"
+          },
+          "description": "Yoshinobu Nishizaki was best known as the co-creator of Space Battleship Yamato. He was born in 1934 and graduated from Nihon University Art Department.\n\nIn 1994 he designed Yamato 2520. But in the end he was sued by Matsumoto Leiji for breach of copyright. Since then he has been arrested for gun and drug offences. Later in 2002 the court ruled that Nishizaki was the original author and owner of the copyright for Uchuu Senkan Yamato. Matsumoto appealed but settled out of court in 2003 in agreement that Nishizaki was the author.\n\nHe passed away on November 7th, 2010 at the age of 75 when he fell from a research steamboat, named Yamato, to the sea near Chichijima island and drowned.\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/103332"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 96938,
+          "name": {
+            "first": "Osamu",
+            "last": "Tezuka",
+            "native": "手塚治虫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96938-6i6jed9aM1cX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96938-6i6jed9aM1cX.png"
+          },
+          "description": "[Official Website](https://tezukaosamu.net)\n\nOsamu Tezuka was a legendary Japanese Mangaka and Doctor of Medicine. Tezuka made his manga debut in 1946 with [The Diary of Ma-chan](https://anilist.co/manga/52202) (マアちゃんの日記帳, Machan no Nikkicho) for the children's newspaper Mainichi Shogakusei Shinbun (Mainichi Elementary Schoolchildren's Newspaper) while he was a student at Osaka University. His breakout work, '[New Treasure Island](https://anilist.co/manga/41273)' (新宝島, Shin Takarajima) was in 1947, followed three years later by '[Jungle Emperor](https://anilist.co/manga/31771)' (ジャングル大帝, Jungle Taitei), which was serialized in Manga-Shonen.\n\nFrom a very young age, Osamu Tezuka had been a great fan of Disney animation. Tezuka was also very successful in the animation field. Not only did he do the first TV anime ([Astroboy](https://anilist.co/anime/2747), 1963), but he also produced the first Japanese color anime series ([Jungle Emperor](https://anilist.co/anime/1572), 1965). Influenced by Disney and old movies, Tezuka has in turn influenced countless numbers of Japanese mangaka. Tezuka's works are being reprinted again and again, earning him the undisputed title of 'God of Manga.' In 1994, the city of Takarazuka, where he grew up, inaugurated The Osamu Tezuka Manga Museum. And in 1997, postage stamps with his artwork were sold in Japan.\n\nIn 1971 the semi-annual Tezuka awards were established by the magazine Weekly Shonen Jump. In 1997 a different award named after Tezuka, namely the Osamu Tezuka Cultural Prize, was brought into life.\n\nThe impact Tezuka has had on Japanese Manga is almost impossible to exaggerate, because he created the present form of the medium. Maybe it stems from his medical education or from the Japanese character, but Tezuka had an enormous respect for life. This respect is a theme that can be traced throughout his work, reflected in his life's work, '[Phoenix](https://anilist.co/manga/31325)'. He has reportedly made about 150,000 pages of manga in his life, and has been awarded many prizes for his efforts. Many of Tezuka's work have been translated into English as well as French, Italian, Korean, and so forth. Other characters Osamu Tezuka created include [Unico](https://anilist.co/manga/47240) and [Black Jack](https://anilist.co/manga/31600).\n\nIn 1989 an asteroid was named after Tezuka and [Toshio Ban](https://anilist.co/staff/127281), one of Tezuka's former assistants serialized a manga biography entitled The Osamu Tezuka Story (手塚治虫物語, Osamu Tezuka Monogatari and it was released in English in 2016.\n\nHe is considered the Japanese equivalent to [Walt Disney](https://anilist.co/staff/139600), who served as a major inspiration during his formative years. His prolific output, pioneering techniques, and innovative redefinitions of genres earned him such titles as \"the Father of Manga\" and \"the Godfather of Manga\".\n\n(Sources: MangaUpdates, Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/96938"
+        }
+      },
+      {
+        "role": "Chief Director",
+        "node": {
+          "id": 105570,
+          "name": {
+            "first": "Eiichi",
+            "last": "Yamamoto",
+            "native": "山本暎一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105570-TQlrYSJK1YdX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105570-TQlrYSJK1YdX.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/105570"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 148665,
+          "name": {
+            "first": "Hiromitsu",
+            "last": "Morita",
+            "native": "森田浩光"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n148665-U7Q8MFwUOrXR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n148665-U7Q8MFwUOrXR.jpg"
+          },
+          "description": "Initially an animator.",
+          "siteUrl": "https://anilist.co/staff/148665"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 110953,
+          "name": {
+            "first": "Toyoo",
+            "last": "Ashida",
+            "native": "芦田豊雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110953-VWfXRlWF0noU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110953-VWfXRlWF0noU.png"
+          },
+          "description": "[Wiki (JP)](https://ja.wikipedia.org/wiki/芦田豊雄)\n\nToyoo Ashida was an anime character designer, animation director and director. He is the founder of the anime production studio Studio Live and as well as the Japanese Animation Creators Association (JAniCA) along with [Satoshi Kon](https://anilist.co/staff/99580/).\n\nHe is also known under the pseudonyms Yutaka Ekoda (江古田豊) and Monta Ibu (伊武紋太).",
+          "siteUrl": "https://anilist.co/staff/110953"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 156854,
+          "name": {
+            "first": "Mitsuo ",
+            "last": "Shindou",
+            "native": "進藤満尾"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156854-CC1Faxw4J6Ei.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n156854-CC1Faxw4J6Ei.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/進藤満尾)\n\nFormer representative director of Shindou Production.",
+          "siteUrl": "https://anilist.co/staff/156854"
+        }
+      },
+      {
+        "role": "Background Art",
+        "node": {
+          "id": 244528,
+          "name": {
+            "first": "Mihoko",
+            "last": "Magouri",
+            "native": "馬郡美保子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/244528"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 109041,
+          "name": {
+            "first": "Shinji",
+            "last": "Nagashima",
+            "native": "永島慎二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109041-jpkStzT5ORE7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n109041-jpkStzT5ORE7.png"
+          },
+          "description": "Shinji Nagashima was a Japanese mangaka. While he was in junior high school, Nagashima got inspired to become a manga artist. He dropped out of school during junior high and worked as a paperboy and a tofu salesman. He made his debut as a mangaka in 1952, with his work \"Sansho no Piri-chan.\"  His pseudonym came about due to a publisher's error but he continued using the pseudonym after that. He also worked as an assistant to [Osamu Tezuka](https://anilist.co/staff/96938/Osamu-Tezuka). ",
+          "siteUrl": "https://anilist.co/staff/109041"
+        }
+      },
+      {
+        "role": "Background Art",
+        "node": {
+          "id": 246205,
+          "name": {
+            "first": "Hideo",
+            "last": "Koide",
+            "native": "小出英男"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/246205"
+        }
+      },
+      {
+        "role": "Photography",
+        "node": {
+          "id": 218038,
+          "name": {
+            "first": "Tateo",
+            "last": "Haraya",
+            "native": "原屋楯男"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/218038"
+        }
+      },
+      {
+        "role": "Photography",
+        "node": {
+          "id": 149460,
+          "name": {
+            "first": "Masaaki",
+            "last": "Fujita",
+            "native": "藤田正明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/149460"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 256703,
+          "name": {
+            "first": "Hitomi",
+            "last": "Tsukahara",
+            "native": "塚原瞳"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/256703"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 120062,
+          "name": {
+            "first": "Susumu",
+            "last": "Aketagawa",
+            "native": "明田川進"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/120062-bf5XAEXdRkLn.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/120062-bf5XAEXdRkLn.jpg"
+          },
+          "description": "__Susumu Aketagawa__ is a Japanese sound director and the representative director of Magic Capsule. His son, [Jin Aketagawa](https://anilist.co/staff/103074), is also a sound director working at Magic Capsule.",
+          "siteUrl": "https://anilist.co/staff/120062"
+        }
+      },
+      {
+        "role": "Production Desk",
+        "node": {
+          "id": 174495,
+          "name": {
+            "first": "Tatsuo",
+            "last": "Shibayama",
+            "native": "柴山達雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/174495"
+        }
+      },
+      {
+        "role": "Production Desk",
+        "node": {
+          "id": 235235,
+          "name": {
+            "first": "Masuji",
+            "last": "Harata",
+            "native": "原田益次"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/235235"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 224268,
+          "name": {
+            "first": "Katsumi",
+            "last": "Handou",
+            "native": "半藤克美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n224268-uqTM99pOpRnV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n224268-uqTM99pOpRnV.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/224268"
+        }
+      },
+      {
+        "role": "Theme Song Lyrics (OP1)",
+        "node": {
+          "id": 105570,
+          "name": {
+            "first": "Eiichi",
+            "last": "Yamamoto",
+            "native": "山本暎一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105570-TQlrYSJK1YdX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105570-TQlrYSJK1YdX.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/105570"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP1, ED2)",
+        "node": {
+          "id": 156265,
+          "name": {
+            "first": "Royal Knights",
+            "last": null,
+            "native": "ロイヤルナイツ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156265-dOfXViFCfB3Y.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n156265-dOfXViFCfB3Y.jpg"
+          },
+          "description": "Royal Knights was a group of 4 that existed in the late 50's.\nThe Members were\n* Matsukawa Yoshiaki (松川義昭), born 03.10.1941, Top Tenor\n* Katsuyama Kunio (勝山邦夫), born 05.01.1947, Second Tenor\n* Yamashita Kenji (山下健二), born 17.09.1937, Bariton\n* Sasaki Jou (佐々木襄), born 16.11.1937, Bass",
+          "siteUrl": "https://anilist.co/staff/156265"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP1, ED2)",
+        "node": {
+          "id": 258878,
+          "name": {
+            "first": "Singers Three",
+            "last": null,
+            "native": "シンガーズ・スリー"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Singers Three consisted of Kayo Ishuu, Youko Dan (団洋子) and Michiko Ogata (尾形道子).",
+          "siteUrl": "https://anilist.co/staff/258878"
+        }
+      },
+      {
+        "role": "Theme Song Composition",
+        "node": {
+          "id": 110495,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Miyagawa",
+            "native": "宮川泰"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/15495.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/15495.jpg"
+          },
+          "description": "Composer of various games and anime, notably Space Battleship Yamato.\n\nDied of heart failure at the age of 75 on March 21, 2006.",
+          "siteUrl": "https://anilist.co/staff/110495"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP2, ED1)",
+        "node": {
+          "id": 258879,
+          "name": {
+            "first": "Yuki",
+            "last": "Hon",
+            "native": "ホーン・ユキ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n258879-tfrLGR6jh6Ag.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n258879-tfrLGR6jh6Ag.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/258879"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 6868,
+          "name": "Kansai TV",
+          "siteUrl": "https://anilist.co/studio/6868"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 253849,
+          "rating": 3,
+          "media": {
+            "id": 6868,
+            "title": {
+              "native": "ワンサくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 9228,
+            "title": {
+              "native": "わんわん忠臣蔵"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 313259,
+          "rating": 2,
+          "media": {
+            "id": 6868,
+            "title": {
+              "native": "ワンサくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2427,
+            "title": {
+              "native": "ユニコ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 313261,
+          "rating": 2,
+          "media": {
+            "id": 6868,
+            "title": {
+              "native": "ワンサくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2199,
+            "title": {
+              "native": "チリンの鈴"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 313263,
+          "rating": 2,
+          "media": {
+            "id": 6868,
+            "title": {
+              "native": "ワンサくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1961,
+            "title": {
+              "native": "あらしのよるに"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 313265,
+          "rating": 2,
+          "media": {
+            "id": 6868,
+            "title": {
+              "native": "ワンサくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1030,
+            "title": {
+              "native": "平成狸合戦ぽんぽこ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 314458,
+          "rating": 1,
+          "media": {
+            "id": 6868,
+            "title": {
+              "native": "ワンサくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 6730,
+            "title": {
+              "native": "とんでモン・ぺ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 383124,
+          "rating": 1,
+          "media": {
+            "id": 6868,
+            "title": {
+              "native": "ワンサくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 6072,
+            "title": {
+              "native": "１１ぴきのねことあほうどり"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 383126,
+          "rating": 1,
+          "media": {
+            "id": 6868,
+            "title": {
+              "native": "ワンサくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 6071,
+            "title": {
+              "native": "１１ぴきのねこ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 7
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 8
+      },
+      {
+        "score": 40,
+        "amount": 4
+      },
+      {
+        "score": 50,
+        "amount": 6
+      },
+      {
+        "score": 60,
+        "amount": 7
+      },
+      {
+        "score": 70,
+        "amount": 4
+      },
+      {
+        "score": 80,
+        "amount": 26
+      },
+      {
+        "score": 90,
+        "amount": 26
+      },
+      {
+        "score": 100,
+        "amount": 11
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 24
+      },
+      {
+        "status": "PLANNING",
+        "amount": 178
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 130
+      },
+      {
+        "status": "DROPPED",
+        "amount": 45
+      },
+      {
+        "status": "PAUSED",
+        "amount": 22
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/6868",
+  "modNotes": null
+}

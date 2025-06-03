@@ -1,0 +1,639 @@
+{
+  "id": 56292,
+  "idMal": 26292,
+  "title": {
+    "native": "ブラック★ロックシューター -イノセントソウル-",
+    "romaji": "Black★Rock Shooter: Innocent Soul",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The story follows a girl in the \"Threshold\" (&#29421;&#38291;, Hazama), a world beween Heaven and Earth. \"Impure souls\"&mdash;those that could not ascend to Heaven with the burden of their own weight&mdash;have drifted to this world of constant warfare.\n<br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 2011,
+    "month": 6,
+    "day": 4
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 5,
+    "day": 4
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 12,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748799357,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/26292.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/26292.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/26292.jpg",
+    "color": "#f15dae"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "synonyms": [],
+  "averageScore": 69,
+  "meanScore": 70,
+  "popularity": 2085,
+  "favourites": 65,
+  "tags": [
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 147,
+      "name": "Afterlife",
+      "description": "Partly or completely set in the afterlife.",
+      "category": "Setting-Universe",
+      "rank": 79,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 86,
+      "name": "Primarily Female Cast",
+      "description": "Main cast is mostly composed of female characters.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 94,
+      "name": "Gore",
+      "description": "Prominently features graphic bloodshed and violence.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 171,
+      "name": "Bullying",
+      "description": "Prominently features the use of force for intimidation, often in a school setting.",
+      "category": "Theme-Drama",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 79,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 365,
+      "name": "Memory Manipulation",
+      "description": "Prominently features a character(s) who has had their memories altered.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 779,
+      "name": "Kuudere",
+      "description": "Prominently features a character who generally retains a cold, blunt and cynical exterior, but once one gets to know them, they have a very warm and loving interior.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 220,
+      "name": "Ghost",
+      "description": "Prominently features a character who is a ghost.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 157,
+      "name": "Guns",
+      "description": "Prominently features the use of guns in combat.",
+      "category": "Theme-Action",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 772,
+      "name": "Shapeshifting",
+      "description": "Features character(s) who changes one's appearance or form.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 7059,
+          "title": {
+            "native": "ブラック★ロックシューター (OVA)"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 11285,
+          "title": {
+            "native": "ブラック★ロックシューター (TV)"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 139303,
+          "title": {
+            "native": "ブラック★★ロックシューター DAWN FALL"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 25034,
+          "name": {
+            "first": "Dead Master",
+            "last": null,
+            "native": "デッドマスター",
+            "alternative": [
+              "Døde Mester"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/25034.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/25034.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/25034"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 19706,
+          "name": {
+            "first": "Black★Rock Shooter",
+            "last": null,
+            "native": "ブラック★ロックシューター",
+            "alternative": [
+              "B★RS",
+              "ブラックロックシューター",
+              "Empress (エンプレス)",
+              "Keiserinne"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19706-ztCMK3WkgJtc.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19706-ztCMK3WkgJtc.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/19706"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 61787,
+          "name": {
+            "first": "Ram",
+            "last": null,
+            "native": "牡羊",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/61787.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/61787.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/61787"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 80009,
+          "name": {
+            "first": "Ron",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/80009.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/80009.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/80009"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 104050,
+          "name": {
+            "first": "Sanami",
+            "last": "Suzuki",
+            "native": "鈴木小波"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104050-qVAVNxPhlPlI.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104050-qVAVNxPhlPlI.jpg"
+          },
+          "description": "[Official Website](http://pacokirin.sakuraweb.com) | [Twitter](https://twitter.com/sazanamiyacco) | [Instagram](https://www.instagram.com/sazanami22/)",
+          "siteUrl": "https://anilist.co/staff/104050"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 105145,
+          "name": {
+            "first": "huke",
+            "last": "",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105145-DXibwFq2FgcI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105145-DXibwFq2FgcI.png"
+          },
+          "description": "\n__[Blog](http://huke.blog.shinobi.jp/) | [Twitter](https://twitter.com/hukeweb) | [DeviantArt](https://www.deviantart.com/ryoheihuke) | [Pixiv](https://www.pixiv.net/member.php?id=9794) | [Instagram](https://www.instagram.com/ryoheihuke/)__\n\nhuke is a Japanese illustrator who is best known for creating the original character [Black★Rock Shooter](https://anilist.co/character/19706) and working with the Japanese music group [supercell](https://anilist.co/staff/103913). His career as a professional illustrator began when he was involved as a character designer at a game company. He eventually resigned and became freelance, creating original concepts from his experience as a professional. huke soon became involved in certain illustrations based on the game Metal Gear Solid, and to enable and identify himself over the internet, he registered on Pixiv and created a personal blog. On December 2007, he submitted an illustration of Black★Rock Shooter. This inspired [ryo](https://anilist.co/staff/109941), the leader of supercell, and a song became the product of the band's first contact with Black★Rock Shooter. Aside from Black★Rock Shooter, huke also worked on the visual novel Steins;Gate, which was produced by [5pb.](https://anilist.co/staff/109749) and [Nitroplus](https://anilist.co/staff/99960). He also designed Hololive EN 1st Gen VTuber, [Takanashi Kiara](https://anilist.co/staff/206030/Kiara-Takanashi).",
+          "siteUrl": "https://anilist.co/staff/105145"
+        }
+      },
+      {
+        "role": "Translator (German)",
+        "node": {
+          "id": 227624,
+          "name": {
+            "first": "Christine",
+            "last": "Steinle",
+            "native": null
+          },
+          "language": "GERMAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/227624"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 42548,
+          "rating": 5,
+          "media": {
+            "id": 56292,
+            "title": {
+              "native": "ブラック★ロックシューター -イノセントソウル-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 72339,
+            "title": {
+              "native": "ブラック★ロックシューター THE GAME"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 169541,
+          "rating": 2,
+          "media": {
+            "id": 56292,
+            "title": {
+              "native": "ブラック★ロックシューター -イノセントソウル-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 55472,
+            "title": {
+              "native": "ブラック★ロックちゃん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 169549,
+          "rating": 2,
+          "media": {
+            "id": 56292,
+            "title": {
+              "native": "ブラック★ロックシューター -イノセントソウル-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 143013,
+            "title": {
+              "native": "痛いのは嫌なので防御力に極振りしたいと思います。コミックアンソロジー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 172281,
+          "rating": 1,
+          "media": {
+            "id": 56292,
+            "title": {
+              "native": "ブラック★ロックシューター -イノセントソウル-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 137267,
+            "title": {
+              "native": "神食の料理人"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 319999,
+          "rating": 4,
+          "media": {
+            "id": 56292,
+            "title": {
+              "native": "ブラック★ロックシューター -イノセントソウル-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 54457,
+            "title": {
+              "native": "魔法少女まどか☆マギカ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 320003,
+          "rating": 5,
+          "media": {
+            "id": 56292,
+            "title": {
+              "native": "ブラック★ロックシューター -イノセントソウル-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 100674,
+            "title": {
+              "native": "魔法少女特殊戦あすか"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 320005,
+          "rating": 4,
+          "media": {
+            "id": 56292,
+            "title": {
+              "native": "ブラック★ロックシューター -イノセントソウル-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30698,
+            "title": {
+              "native": "新世紀エヴァンゲリオン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 386320,
+          "rating": 2,
+          "media": {
+            "id": 56292,
+            "title": {
+              "native": "ブラック★ロックシューター -イノセントソウル-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 55132,
+            "title": {
+              "native": "アカメが斬る！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 386912,
+          "rating": 3,
+          "media": {
+            "id": 56292,
+            "title": {
+              "native": "ブラック★ロックシューター -イノセントソウル-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 69625,
+            "title": {
+              "native": "カゲロウデイズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 387072,
+          "rating": 2,
+          "media": {
+            "id": 56292,
+            "title": {
+              "native": "ブラック★ロックシューター -イノセントソウル-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30908,
+            "title": {
+              "native": "ソウルイーター"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 20,
+        "amount": 11
+      },
+      {
+        "score": 30,
+        "amount": 17
+      },
+      {
+        "score": 40,
+        "amount": 28
+      },
+      {
+        "score": 50,
+        "amount": 94
+      },
+      {
+        "score": 60,
+        "amount": 132
+      },
+      {
+        "score": 70,
+        "amount": 209
+      },
+      {
+        "score": 80,
+        "amount": 174
+      },
+      {
+        "score": 90,
+        "amount": 136
+      },
+      {
+        "score": 100,
+        "amount": 70
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 138
+      },
+      {
+        "status": "PLANNING",
+        "amount": 639
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1176
+      },
+      {
+        "status": "DROPPED",
+        "amount": 75
+      },
+      {
+        "status": "PAUSED",
+        "amount": 57
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/56292",
+  "modNotes": null
+}

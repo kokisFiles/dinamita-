@@ -1,0 +1,280 @@
+{
+  "id": 3695,
+  "idMal": 3695,
+  "title": {
+    "native": "スペクトラルフォース クロニクル ディバージェンス",
+    "romaji": "Spectral Force Chronicle Divergence",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "Anime based on JRPG series Spectral Force.",
+  "startDate": {
+    "year": 2005,
+    "month": 6,
+    "day": 22
+  },
+  "endDate": {
+    "year": 2005,
+    "month": 6,
+    "day": 22
+  },
+  "season": "SUMMER",
+  "seasonYear": 2005,
+  "seasonInt": 53,
+  "episodes": 1,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748018796,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3695.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3695.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3695.jpg",
+    "color": "#e45d5d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3695-pwpGd2N9Ywfj.jpg",
+  "genres": [
+    "Fantasy"
+  ],
+  "synonyms": [],
+  "averageScore": 31,
+  "meanScore": 29,
+  "popularity": 486,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1585,
+          "title": {
+            "native": "スペクトラルフォース"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 35229,
+          "name": {
+            "first": "Hiro",
+            "last": null,
+            "native": "ヒロ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/35229.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/35229.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/35229"
+        },
+        "voiceActors": [
+          {
+            "id": 95458,
+            "name": {
+              "first": "Yuuko",
+              "last": "Miyamura",
+              "native": "宮村優子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95458-u1OCiMNqiswq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95458-u1OCiMNqiswq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95458"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 108637,
+          "name": {
+            "first": "Yoshiteru",
+            "last": "Satou",
+            "native": "佐藤嘉晃"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/108637-sR5m6Hwzy4A4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/108637-sR5m6Hwzy4A4.jpg"
+          },
+          "description": "Representative director of game maker Compile Heart, a former subsidiary of Idea Factory. ",
+          "siteUrl": "https://anilist.co/staff/108637"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 108657,
+          "name": {
+            "first": "Idea Factory",
+            "last": "",
+            "native": "アイディアファクトリー "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/13657.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/13657.jpg"
+          },
+          "description": "A Japanese video game developer and publisher.",
+          "siteUrl": "https://anilist.co/staff/108657"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 108661,
+          "name": {
+            "first": "Kuwana",
+            "last": "Shingo",
+            "native": "真吾桑名"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "He is a game creator, animation producer and planner.",
+          "siteUrl": "https://anilist.co/staff/108661"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 193,
+          "name": "Idea Factory",
+          "siteUrl": "https://anilist.co/studio/193"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 165564,
+          "rating": 0,
+          "media": {
+            "id": 3695,
+            "title": {
+              "native": "スペクトラルフォース クロニクル ディバージェンス"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 123074,
+            "title": {
+              "native": "遊☆戯☆王デュエルモンスターズALEX"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 66
+      },
+      {
+        "score": 20,
+        "amount": 24
+      },
+      {
+        "score": 30,
+        "amount": 22
+      },
+      {
+        "score": 40,
+        "amount": 20
+      },
+      {
+        "score": 50,
+        "amount": 14
+      },
+      {
+        "score": 60,
+        "amount": 8
+      },
+      {
+        "score": 70,
+        "amount": 6
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 5
+      },
+      {
+        "score": 100,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 13
+      },
+      {
+        "status": "PLANNING",
+        "amount": 211
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 226
+      },
+      {
+        "status": "DROPPED",
+        "amount": 23
+      },
+      {
+        "status": "PAUSED",
+        "amount": 13
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/3695",
+  "modNotes": null
+}

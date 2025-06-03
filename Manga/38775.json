@@ -1,0 +1,393 @@
+{
+  "id": 38775,
+  "idMal": 8775,
+  "title": {
+    "native": "マジンガーエンジェルZ",
+    "romaji": "Mazinger Angel Z",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": " ",
+  "startDate": {
+    "year": 2007,
+    "month": 12,
+    "day": 26
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 11,
+    "day": 26
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 12,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748618589,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8775.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8775.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/8775.jpg",
+    "color": "#f15d50"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Mecha"
+  ],
+  "synonyms": [],
+  "averageScore": 50,
+  "meanScore": 58,
+  "popularity": 167,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 931,
+      "name": "Tomboy",
+      "description": "Features a girl who exhibits characteristics or behaviors considered in many cultures to be typical of boys.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 38776,
+          "title": {
+            "native": "マジンガーエンジェル"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 170754,
+          "title": {
+            "native": "マジンガーZ 対 トランスフォーマー"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 19085,
+          "name": {
+            "first": "Kikunosuke",
+            "last": "Abashiri",
+            "native": "悪馬尻菊の助（あばしり きくのすけ）",
+            "alternative": [
+              "Kiku",
+              "Reiko Shiratori"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19085-EW6vC3nB7cmJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19085-EW6vC3nB7cmJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/19085"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 42644,
+          "name": {
+            "first": "Maria",
+            "last": "Grace Fleed",
+            "native": "グレース・マリア・フリード",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/42644.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42644.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42644"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 83677,
+          "name": {
+            "first": "Jun",
+            "last": "Honoo",
+            "native": "ジュン 炎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/83677.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/83677.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/83677"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 21579,
+          "name": {
+            "first": "Yamitarou",
+            "last": "Ankokuji",
+            "native": "暗黒寺闇太郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21579.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21579.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21579"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21499,
+          "name": {
+            "first": "Juzo",
+            "last": "Kabuto",
+            "native": "兜 十蔵",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21499.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21499.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21499"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 82315,
+          "name": {
+            "first": "Hikaru",
+            "last": "Makiba",
+            "native": "ひかる・まきば",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/82315-N6fUJzZWtPB5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/82315-N6fUJzZWtPB5.png"
+          },
+          "siteUrl": "https://anilist.co/character/82315"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 20201,
+          "name": {
+            "first": "Sayaka",
+            "last": "Yumi",
+            "native": "弓さやか",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b20201-5K7xg28hCkTu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b20201-5K7xg28hCkTu.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/20201"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 97992,
+          "name": {
+            "first": "Gou",
+            "last": "Nagai",
+            "native": "永井豪"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97992-N7uzR2y78tfB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97992-N7uzR2y78tfB.png"
+          },
+          "description": "Kiyoshi Nagai, better known by the pen name Gou Nagai, is a Japanese manga artist and a prolific author of science fiction, fantasy, horror and erotica. He made his professional debut in 1967 with Meakashi Polikichi, but is best known for creating popular 1970s manga and anime series such as [Cutie Honey](https://anilist.co/manga/86168/Cutey-Honey/), [Devilman](https://anilist.co/manga/31474/Devilman/) and [Mazinger Z](https://anilist.co/manga/38773/Mazinger-Z/). He is credited with creating the super robot genre and for designing the first mecha robots piloted by a user from within a cockpit with Mazinger Z, and for pioneering the magical girl genre with Cutie Honey, the post-apocalyptic genre with [Violence Jack](https://anilist.co/manga/31442/Violence-Jack/), and the ecchi genre with [Harenchi Gakuen](https://anilist.co/manga/42808/Harenchi-Gakuen/). \n\nIn 2005, he became a Character Design professor at the Osaka University of Arts. He has been a member of the Tezuka Osamu Cultural Prize's nominating committee since 2009.",
+          "siteUrl": "https://anilist.co/staff/97992"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 100796,
+          "name": {
+            "first": "Akihiko",
+            "last": "Niina",
+            "native": "新名昭彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100796-VcLil8dysW2E.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100796-VcLil8dysW2E.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/akiniina)\n\nDebuted with a comic parody of Project A-ko around 1989. Shortly after, he contributed to a number of comic magazines like Minori Shobou's Comic Zenon and Hobby Japan's Comic Master, but didn't manage to make a name for himself. Throughout the 1990s, he worked for a number of adult comic magazines, such as Wani Magazine's Comic Kairakuten, France Shoin's Comic Papipo Garden and Celadon Byblos's Colorful Bee. Starting in 1992, he contributed a large number of covers for Comic Papipo Garden. Around the same time, he would find success with his adult comic \"Kita no Kuni kara Konnichiwa\", selling over 100,000 copies and getting a CD drama adaptation. He would go on to marry the voice actress of the main heroine.\n\nThroughout the late 1990s and early 2000s, he continued to have his works published in a number of comic magazines, many of which changed publishers, leading to a number of disagreements between him and his editorial departments, ultimately leading to him changing his alias in 2002. Around 2004, his Mazinger Z doujin works would be noticed by Go Nagai, leading to the creation of his most notable work, the Mazinger Angels series, and its subsequent sequel shortly after.\n\nIn June of 2008, he revealed on his blog to be struggling with acute myeloid leukemia.\n\nHis wife and daughter both worked as voice actresses, associated with Aoni Production and Kirin Pro, respectively.\n",
+          "siteUrl": "https://anilist.co/staff/100796"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 220561,
+          "rating": 1,
+          "media": {
+            "id": 38775,
+            "title": {
+              "native": "マジンガーエンジェルZ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30954,
+            "title": {
+              "native": "マーダー・プリンセス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 239574,
+          "rating": 2,
+          "media": {
+            "id": 38775,
+            "title": {
+              "native": "マジンガーエンジェルZ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 75509,
+            "title": {
+              "native": "新米婦警キルコさん"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 8
+      },
+      {
+        "score": 50,
+        "amount": 9
+      },
+      {
+        "score": 60,
+        "amount": 19
+      },
+      {
+        "score": 70,
+        "amount": 12
+      },
+      {
+        "score": 80,
+        "amount": 6
+      },
+      {
+        "score": 90,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 5
+      },
+      {
+        "status": "PLANNING",
+        "amount": 69
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 87
+      },
+      {
+        "status": "DROPPED",
+        "amount": 5
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/38775",
+  "modNotes": null
+}

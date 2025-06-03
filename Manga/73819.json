@@ -1,0 +1,250 @@
+{
+  "id": 73819,
+  "idMal": 43819,
+  "title": {
+    "native": "メトロイド",
+    "romaji": "Metroid",
+    "english": "Metroid"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "195 page Manga/Strategy Guide, released only in Japan from  Wanpakku Comics. ",
+  "startDate": {
+    "year": 1986,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 1,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748436765,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx73819-oGztP7t2BlNn.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx73819-oGztP7t2BlNn.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx73819-oGztP7t2BlNn.jpg",
+    "color": "#e4ae43"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Metroid"
+  ],
+  "averageScore": null,
+  "meanScore": 54,
+  "popularity": 123,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 63,
+      "name": "Space",
+      "description": "Partly or completely set in outer space.",
+      "category": "Setting-Universe",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 191,
+      "name": "Aliens",
+      "description": "Prominently features extraterrestrial lifeforms.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 308,
+      "name": "Video Games",
+      "description": "Centers around characters playing video games.",
+      "category": "Theme-Game",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 36642,
+          "title": {
+            "native": "メトロイド"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 11999,
+          "name": {
+            "first": "Ridley",
+            "last": null,
+            "native": "リドリー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11999-9GeTPOczbMHs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b11999-9GeTPOczbMHs.png"
+          },
+          "siteUrl": "https://anilist.co/character/11999"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 11998,
+          "name": {
+            "first": "Samus",
+            "last": "Aran",
+            "native": "サムス・アラン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11998-akZrClzG6mrR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b11998-akZrClzG6mrR.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/11998"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 12001,
+          "name": {
+            "first": "Mother Brain",
+            "last": null,
+            "native": "マザーブレイン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12001-gUF8IcwQoZlZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12001-gUF8IcwQoZlZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/12001"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 360550,
+          "name": {
+            "first": "Rinu",
+            "last": "Monota",
+            "native": "ものたりぬ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/360550"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 4
+      },
+      {
+        "score": 50,
+        "amount": 9
+      },
+      {
+        "score": 60,
+        "amount": 5
+      },
+      {
+        "score": 70,
+        "amount": 6
+      },
+      {
+        "score": 80,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 5
+      },
+      {
+        "status": "PLANNING",
+        "amount": 62
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 52
+      },
+      {
+        "status": "DROPPED",
+        "amount": 2
+      },
+      {
+        "status": "PAUSED",
+        "amount": 2
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/73819",
+  "modNotes": null
+}

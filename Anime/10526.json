@@ -1,0 +1,564 @@
+{
+  "id": 10526,
+  "idMal": 10526,
+  "title": {
+    "native": "デュエル・マスターズ ゼロ",
+    "romaji": "Duel Masters Zero",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "The 4th Duel Masters series.",
+  "startDate": {
+    "year": 2007,
+    "month": 10,
+    "day": 6
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 3,
+    "day": 29
+  },
+  "season": "FALL",
+  "seasonYear": 2007,
+  "seasonInt": 74,
+  "episodes": 25,
+  "duration": 10,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748625693,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10526-vYllnrrXDVSR.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10526-vYllnrrXDVSR.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b10526-vYllnrrXDVSR.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action"
+  ],
+  "synonyms": [],
+  "averageScore": 48,
+  "meanScore": 51,
+  "popularity": 609,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 178,
+      "name": "Card Battle",
+      "description": "Centers around individuals competing in card games.",
+      "category": "Theme-Game-Card & Board Game",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 4444,
+          "title": {
+            "native": "ゼロ デュエル・マスターズ"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 10527,
+          "title": {
+            "native": "デュエル・マスターズ クロス"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 272703,
+          "name": {
+            "first": "Hakuou",
+            "last": null,
+            "native": "白凰",
+            "alternative": [
+              "Hakuoh",
+              "Haku-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b272703-0WqDLnMKq5IO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b272703-0WqDLnMKq5IO.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/272703"
+        },
+        "voiceActors": [
+          {
+            "id": 95062,
+            "name": {
+              "first": "Junko",
+              "last": "Minagawa",
+              "native": "皆川純子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95062-YMTfpO89SgQp.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95062-YMTfpO89SgQp.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95062"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 276933,
+          "name": {
+            "first": "George",
+            "last": "Kamamoto",
+            "native": "釜本ジョージ",
+            "alternative": [
+              "Jouji",
+              "Boy George"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b276933-3rzaPcpRQtOO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b276933-3rzaPcpRQtOO.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/276933"
+        },
+        "voiceActors": [
+          {
+            "id": 95084,
+            "name": {
+              "first": "Norio",
+              "last": "Wakamoto",
+              "native": "若本規夫"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95084-RTrZSU38POPF.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95084-RTrZSU38POPF.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95084"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 12268,
+          "name": {
+            "first": "Shoubu",
+            "last": "Kirifuda",
+            "native": "切札勝舞",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12268-oxFxZoSJGt0T.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12268-oxFxZoSJGt0T.png"
+          },
+          "siteUrl": "https://anilist.co/character/12268"
+        },
+        "voiceActors": [
+          {
+            "id": 95539,
+            "name": {
+              "first": "Yumiko",
+              "last": "Kobayashi",
+              "native": "小林由美子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95539-vFLypMio70hC.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95539-vFLypMio70hC.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95539"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 18496,
+          "name": {
+            "first": "Rekuta",
+            "last": "Kadoko",
+            "native": "角古れく太",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18496-OU7lViOeYfsV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b18496-OU7lViOeYfsV.png"
+          },
+          "siteUrl": "https://anilist.co/character/18496"
+        },
+        "voiceActors": [
+          {
+            "id": 95374,
+            "name": {
+              "first": "Yuka",
+              "last": "Imai",
+              "native": "今井由香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95374-ZCLR2wSfxYDX.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95374-ZCLR2wSfxYDX.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95374"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 12271,
+          "name": {
+            "first": "Kyoushirou",
+            "last": "Kokujou",
+            "native": "黒城凶死郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12271-lKcMZnIQ5vVP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12271-lKcMZnIQ5vVP.png"
+          },
+          "siteUrl": "https://anilist.co/character/12271"
+        },
+        "voiceActors": [
+          {
+            "id": 95440,
+            "name": {
+              "first": "Daisuke",
+              "last": "Kishio",
+              "native": "岸尾だいすけ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95440-j4iWV0MGWtBh.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95440-j4iWV0MGWtBh.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95440"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 12270,
+          "name": {
+            "first": "Mimi",
+            "last": "Tasogare",
+            "native": "黄昏ミミ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12270-739FPpgkPe1z.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12270-739FPpgkPe1z.png"
+          },
+          "siteUrl": "https://anilist.co/character/12270"
+        },
+        "voiceActors": [
+          {
+            "id": 95329,
+            "name": {
+              "first": "Saki",
+              "last": "Nakajima",
+              "native": "中島沙樹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/329.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/329.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95329"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 185645,
+          "name": {
+            "first": "Hideki",
+            "last": "Itou",
+            "native": "伊東英樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Known for his work in the [Duel Masters](https://anilist.co/anime/4444/) franchise.\n\n_Note: Not to be confused with either the [director/animator](https://anilist.co/staff/121275/) or the [studio coordinator](https://anilist.co/staff/172956/)._",
+          "siteUrl": "https://anilist.co/staff/185645"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 116889,
+          "name": {
+            "first": "",
+            "last": "Rey",
+            "native": "レイ "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/21889.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/21889.jpg"
+          },
+          "description": "Rey is a Japanese band who signed onto the Lantis label in 2008. They are described as the \"real anison band\" (本気のアニソンバンド) for their performances of anime theme songs. Front man Kenta Harada claims that their band's name comes from both Hironobu Kageyama's band Lazy and the anime character Rei Ayanami. The group's debut single under Lantis was used as the first ending theme of Tomica Hero: Rescue Fire. Rey was also included on Lantis's compilation album Gundam Tribute from Lantis, covering \"Stand Up to the Victory\", the first opening theme for Mobile Suit V Gundam.    Members:  Kenta Harada (原田謙太): Vocals and lyricist  Takayuki Sakamoto (坂本尭之): Bass guitar  Kenji Terazono (寺園健二): Guitar  Shinya Tasaki (田崎慎也): Guitar  Takahiro Okada (岡田峻洋): Drums",
+          "siteUrl": "https://anilist.co/staff/116889"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 115540,
+          "name": {
+            "first": "Shinzou",
+            "last": "Fujita",
+            "native": "藤田伸三"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/藤田伸三)",
+          "siteUrl": "https://anilist.co/staff/115540"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 101018,
+          "name": {
+            "first": "Shigenobu",
+            "last": "Matsumoto",
+            "native": "松本しげのぶ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101018-q9vG4T9RwqwH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101018-q9vG4T9RwqwH.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/101018"
+        }
+      },
+      {
+        "role": "3DCG Supervisor",
+        "node": {
+          "id": 169742,
+          "name": {
+            "first": "Keita",
+            "last": "Hattori",
+            "native": "服部恵大"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n169742-YIz70EQE4riT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n169742-YIz70EQE4riT.png"
+          },
+          "description": "**Keita Hattori** is a mechanical designer.",
+          "siteUrl": "https://anilist.co/staff/169742"
+        }
+      },
+      {
+        "role": "3DCG Creature Director",
+        "node": {
+          "id": 203715,
+          "name": {
+            "first": "Hiroaki",
+            "last": "Kudou",
+            "native": "工藤洋彰"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Hiroaki Kudou is a CG artist.",
+          "siteUrl": "https://anilist.co/staff/203715"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 106485,
+          "name": {
+            "first": "Keito",
+            "last": "Watanabe",
+            "native": "渡辺佳人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/106485"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 474,
+          "name": "Shogakukan Music & Digital Entertainment",
+          "siteUrl": "https://anilist.co/studio/474"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 12454,
+      "rank": 10,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12462,
+      "rank": 7,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 12500,
+      "rank": 5,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2007,
+      "season": "FALL",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12504,
+      "rank": 3,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2007,
+      "season": "FALL",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 20
+      },
+      {
+        "score": 20,
+        "amount": 7
+      },
+      {
+        "score": 30,
+        "amount": 10
+      },
+      {
+        "score": 40,
+        "amount": 16
+      },
+      {
+        "score": 50,
+        "amount": 31
+      },
+      {
+        "score": 60,
+        "amount": 31
+      },
+      {
+        "score": 70,
+        "amount": 17
+      },
+      {
+        "score": 80,
+        "amount": 8
+      },
+      {
+        "score": 90,
+        "amount": 3
+      },
+      {
+        "score": 100,
+        "amount": 11
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 33
+      },
+      {
+        "status": "PLANNING",
+        "amount": 242
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 273
+      },
+      {
+        "status": "DROPPED",
+        "amount": 41
+      },
+      {
+        "status": "PAUSED",
+        "amount": 20
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/10526",
+  "modNotes": null
+}

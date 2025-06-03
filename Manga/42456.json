@@ -1,0 +1,230 @@
+{
+  "id": 42456,
+  "idMal": 12456,
+  "title": {
+    "native": "アルトネリコ",
+    "romaji": "Ar Tonelico",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A mysterious disease is spreading amongst the reyvateils causing them to go berserk, the key to stopping them lies in the hands of Espada reid, the only problem is he hates reyvateils, will he be able to stop the reveris illness?",
+  "startDate": {
+    "year": 2006,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 12,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748185742,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12456.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12456.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/12456.jpg",
+    "color": "#5dbbf1"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Ar Tonelico: Arpeggio"
+  ],
+  "averageScore": 54,
+  "meanScore": 64,
+  "popularity": 222,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 42797,
+          "title": {
+            "native": "アルトネリコ 2"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 1202,
+          "title": {
+            "native": "アルトネリコ 世界の終わりで詩い続ける少女"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34790,
+          "name": {
+            "first": "Espada",
+            "last": "Reid",
+            "native": null,
+            "alternative": [
+              "Espada"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34790.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34790.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34790"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8752,
+          "name": {
+            "first": "Shurelia",
+            "last": null,
+            "native": "シュレリア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/8752.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8752.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8752"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 102188,
+          "name": {
+            "first": "Megumu",
+            "last": "Aya",
+            "native": "あやめぐむ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/102188"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 4
+      },
+      {
+        "score": 50,
+        "amount": 12
+      },
+      {
+        "score": 60,
+        "amount": 20
+      },
+      {
+        "score": 70,
+        "amount": 14
+      },
+      {
+        "score": 80,
+        "amount": 7
+      },
+      {
+        "score": 90,
+        "amount": 9
+      },
+      {
+        "score": 100,
+        "amount": 5
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 16
+      },
+      {
+        "status": "PLANNING",
+        "amount": 93
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 102
+      },
+      {
+        "status": "DROPPED",
+        "amount": 7
+      },
+      {
+        "status": "PAUSED",
+        "amount": 4
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/42456",
+  "modNotes": null
+}

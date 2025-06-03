@@ -1,0 +1,842 @@
+{
+  "id": 98622,
+  "idMal": 35417,
+  "title": {
+    "native": "sin 七つの大罪 ショートアニメ「懺悔録」",
+    "romaji": "sin: Nanatsu no Taizai Zange-roku",
+    "english": "Seven Mortal Sins Zange-roku"
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "Short anime series of Sin: Nanatsu no Taizai.",
+  "startDate": {
+    "year": 2017,
+    "month": 4,
+    "day": 15
+  },
+  "endDate": {
+    "year": 2017,
+    "month": 6,
+    "day": 25
+  },
+  "season": "SPRING",
+  "seasonYear": 2017,
+  "seasonInt": 172,
+  "episodes": 12,
+  "duration": 2,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": "#大罪",
+  "trailer": {
+    "id": "ikal2B-7GG4",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/ikal2B-7GG4/hqdefault.jpg"
+  },
+  "updatedAt": 1748884798,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98622-31fSks7AIdNM.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98622-31fSks7AIdNM.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98622-31fSks7AIdNM.jpg",
+    "color": "#e49335"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98622-Cimwkik0NjGD.png",
+  "genres": [
+    "Ecchi",
+    "Fantasy"
+  ],
+  "synonyms": [],
+  "averageScore": 53,
+  "meanScore": 54,
+  "popularity": 4104,
+  "favourites": 35,
+  "tags": [
+    {
+      "id": 259,
+      "name": "Monster Girl",
+      "description": "Prominently features a female character who is part-monster.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 15,
+      "name": "Demons",
+      "description": "Prominently features malevolent otherworldly creatures.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 100,
+      "name": "Nudity",
+      "description": "Features a character wearing no clothing or exposing intimate body parts.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 244,
+      "name": "Isekai",
+      "description": "Features characters being transported into an alternate world setting and having to adapt to their new surroundings.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 20705,
+          "title": {
+            "native": "sin 七つの大罪"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 98621,
+          "title": {
+            "native": "sin 七つの大罪 ショートアニメ「懺悔録」"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 85141,
+          "name": {
+            "first": "Leviathan",
+            "last": "",
+            "native": "レヴィアタン",
+            "alternative": [
+              "Demon Lord of Envy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85141-QQyGWyFDsPbW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b85141-QQyGWyFDsPbW.png"
+          },
+          "siteUrl": "https://anilist.co/character/85141"
+        },
+        "voiceActors": [
+          {
+            "id": 116155,
+            "name": {
+              "first": "Akane",
+              "last": "Fujita",
+              "native": "藤田茜"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116155-5H5Dqe2oQyId.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116155-5H5Dqe2oQyId.png"
+            },
+            "siteUrl": "https://anilist.co/staff/116155"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 85143,
+          "name": {
+            "first": "Lucifer",
+            "last": "",
+            "native": "ルシファー",
+            "alternative": [
+              "Demon Lord of Pride",
+              "Lucy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85143-T64iBpyUcfwa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b85143-T64iBpyUcfwa.png"
+          },
+          "siteUrl": "https://anilist.co/character/85143"
+        },
+        "voiceActors": [
+          {
+            "id": 95413,
+            "name": {
+              "first": "Eri",
+              "last": "Kitamura",
+              "native": "喜多村英梨"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95413-FwAIrc8Ishpt.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95413"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 122422,
+          "name": {
+            "first": "Belphegor",
+            "last": "",
+            "native": "ベルフェゴール",
+            "alternative": [
+              "Demon Lord of Sloth"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122422-07GiPZqVFeF0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122422-07GiPZqVFeF0.png"
+          },
+          "siteUrl": "https://anilist.co/character/122422"
+        },
+        "voiceActors": [
+          {
+            "id": 113511,
+            "name": {
+              "first": "Ai",
+              "last": "Kakuma",
+              "native": "加隈亜衣"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113511-9zlSX9E2ne5G.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n113511-9zlSX9E2ne5G.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/113511"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 122481,
+          "name": {
+            "first": "Satan",
+            "last": "",
+            "native": "サタン",
+            "alternative": [
+              "Demon Lord of Wrath"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122481-Gdw8m86jzsou.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122481-Gdw8m86jzsou.png"
+          },
+          "siteUrl": "https://anilist.co/character/122481"
+        },
+        "voiceActors": [
+          {
+            "id": 122482,
+            "name": {
+              "first": "Arisa",
+              "last": "Sakuraba",
+              "native": "櫻庭有紗"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122482-foDy9FyX0JOM.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n122482-foDy9FyX0JOM.png"
+            },
+            "siteUrl": "https://anilist.co/staff/122482"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 122500,
+          "name": {
+            "first": "Mammon",
+            "last": "",
+            "native": "マモン",
+            "alternative": [
+              "Demon Lord of Greed"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122500-j39jlHcGvGLw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122500-j39jlHcGvGLw.png"
+          },
+          "siteUrl": "https://anilist.co/character/122500"
+        },
+        "voiceActors": [
+          {
+            "id": 102263,
+            "name": {
+              "first": "Youko",
+              "last": "Hikasa",
+              "native": "日笠陽子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102263-aaPZtNXVUljW.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102263"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 122502,
+          "name": {
+            "first": "Astaroth",
+            "last": "",
+            "native": "アスタロト",
+            "alternative": [
+              "Demon Lord of Melancholy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122502-bTqysdSLPEoo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122502-bTqysdSLPEoo.png"
+          },
+          "siteUrl": "https://anilist.co/character/122502"
+        },
+        "voiceActors": [
+          {
+            "id": 112297,
+            "name": {
+              "first": "Azusa",
+              "last": "Tadokoro",
+              "native": "田所あずさ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112297-seUP8O4obuYO.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112297-seUP8O4obuYO.png"
+            },
+            "siteUrl": "https://anilist.co/staff/112297"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 122503,
+          "name": {
+            "first": "Belial",
+            "last": "",
+            "native": "ベリアル",
+            "alternative": [
+              "Demon Lord of Vanity",
+              "Satanael"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122503-M9GAWQvcnYXe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122503-M9GAWQvcnYXe.png"
+          },
+          "siteUrl": "https://anilist.co/character/122503"
+        },
+        "voiceActors": [
+          {
+            "id": 95093,
+            "name": {
+              "first": "Shizuka",
+              "last": "Itou",
+              "native": "伊藤静"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95093-MApaH7qqtmVN.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95093"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 122505,
+          "name": {
+            "first": "Asmodeus",
+            "last": "",
+            "native": "アスモデウス",
+            "alternative": [
+              "Demon Lord of Lust"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122505-RGIyfoWpm4CP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122505-RGIyfoWpm4CP.png"
+          },
+          "siteUrl": "https://anilist.co/character/122505"
+        },
+        "voiceActors": [
+          {
+            "id": 112297,
+            "name": {
+              "first": "Azusa",
+              "last": "Tadokoro",
+              "native": "田所あずさ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112297-seUP8O4obuYO.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112297-seUP8O4obuYO.png"
+            },
+            "siteUrl": "https://anilist.co/staff/112297"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 122504,
+          "name": {
+            "first": "Maria",
+            "last": "Totsuka",
+            "native": "十束真莉亜",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122504-coi0wD3V99SH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122504-coi0wD3V99SH.png"
+          },
+          "siteUrl": "https://anilist.co/character/122504"
+        },
+        "voiceActors": [
+          {
+            "id": 98894,
+            "name": {
+              "first": "Megumi",
+              "last": "Toda",
+              "native": "戸田めぐみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98894-vUppIzWof6Mt.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98894-vUppIzWof6Mt.png"
+            },
+            "siteUrl": "https://anilist.co/staff/98894"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 122501,
+          "name": {
+            "first": "Beelzebub",
+            "last": "",
+            "native": "ベルゼバブ",
+            "alternative": [
+              "Demon Lord of Gluttony"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122501-VJt4654lP7a6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122501-VJt4654lP7a6.png"
+          },
+          "siteUrl": "https://anilist.co/character/122501"
+        },
+        "voiceActors": [
+          {
+            "id": 105981,
+            "name": {
+              "first": "Yui",
+              "last": "Ogura",
+              "native": "小倉唯"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105981-CDMPx1Q79Aum.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105981-CDMPx1Q79Aum.png"
+            },
+            "siteUrl": "https://anilist.co/staff/105981"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 8,
+          "name": "Artland",
+          "siteUrl": "https://anilist.co/studio/8"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 176359,
+          "airingAt": 1492182000,
+          "episode": 1,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176360,
+          "airingAt": 1493391600,
+          "episode": 2,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176361,
+          "airingAt": 1494601200,
+          "episode": 3,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176362,
+          "airingAt": 1495206000,
+          "episode": 4,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176363,
+          "airingAt": 1495810800,
+          "episode": 5,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176364,
+          "airingAt": 1496415600,
+          "episode": 6,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176365,
+          "airingAt": 1497020400,
+          "episode": 7,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176366,
+          "airingAt": 1497625200,
+          "episode": 8,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176367,
+          "airingAt": 1498230000,
+          "episode": 9,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176368,
+          "airingAt": 1498834800,
+          "episode": 10,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176369,
+          "airingAt": 1499094000,
+          "episode": 11,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176370,
+          "airingAt": 1499698800,
+          "episode": 12,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176371,
+          "airingAt": 1500303600,
+          "episode": 13,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176372,
+          "airingAt": 1500908400,
+          "episode": 14,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176373,
+          "airingAt": 1501513200,
+          "episode": 15,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176374,
+          "airingAt": 1502118000,
+          "episode": 16,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176375,
+          "airingAt": 1502722800,
+          "episode": 17,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176376,
+          "airingAt": 1503327600,
+          "episode": 18,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 176377,
+          "airingAt": 1503932400,
+          "episode": 19,
+          "mediaId": 98622,
+          "media": {
+            "id": 98622
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 4112,
+      "url": "https://www.youtube.com/user/hobbyjapanPR/videos",
+      "site": "YouTube"
+    },
+    {
+      "id": 4113,
+      "url": "https://twitter.com/7sins_tv",
+      "site": "Twitter"
+    },
+    {
+      "id": 4114,
+      "url": "http://www.7-sins.tv/",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22755,
+      "rank": 22,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2017,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 97760,
+          "rating": 5,
+          "media": {
+            "id": 98622,
+            "title": {
+              "native": "sin 七つの大罪 ショートアニメ「懺悔録」"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 100644,
+            "title": {
+              "native": "七つの美徳"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 43
+      },
+      {
+        "score": 20,
+        "amount": 52
+      },
+      {
+        "score": 30,
+        "amount": 76
+      },
+      {
+        "score": 40,
+        "amount": 102
+      },
+      {
+        "score": 50,
+        "amount": 188
+      },
+      {
+        "score": 60,
+        "amount": 202
+      },
+      {
+        "score": 70,
+        "amount": 130
+      },
+      {
+        "score": 80,
+        "amount": 69
+      },
+      {
+        "score": 90,
+        "amount": 38
+      },
+      {
+        "score": 100,
+        "amount": 53
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 240
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1853
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1785
+      },
+      {
+        "status": "DROPPED",
+        "amount": 148
+      },
+      {
+        "status": "PAUSED",
+        "amount": 78
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/98622",
+  "modNotes": null
+}

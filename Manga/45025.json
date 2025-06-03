@@ -1,0 +1,226 @@
+{
+  "id": 45025,
+  "idMal": 15025,
+  "title": {
+    "native": "マシュランボー",
+    "romaji": "Mushrambo",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Mankind is near extinct due to the rebellion of a slave species that they created. This story follows one of the last humans, Yakumo, as she travels to find Center, hoping to unite the humans living there in peace with the Matrixer.",
+  "startDate": {
+    "year": 2000,
+    "month": 8,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2000,
+    "month": 9,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 8,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747747848,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45025-XNUPyjB6bH7m.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45025-XNUPyjB6bH7m.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx45025-XNUPyjB6bH7m.png",
+    "color": "#f19343"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Mashuranboo",
+    "Mushuranbo"
+  ],
+  "averageScore": null,
+  "meanScore": 63,
+  "popularity": 82,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1137,
+          "title": {
+            "native": "マシュランボー"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 12988,
+          "name": {
+            "first": "Mashuranbo",
+            "last": null,
+            "native": "マシュランボー",
+            "alternative": [
+              "Mushrambo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12988.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12988.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12988"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2508,
+          "name": {
+            "first": "Yakumo",
+            "last": "Shindou",
+            "native": "神童八雲",
+            "alternative": [
+              "Yakumo Tatsuro"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2508.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2508.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2508"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 100702,
+          "name": {
+            "first": "Yoshihiro",
+            "last": "Iwamoto",
+            "native": "岩本佳浩"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100702-Heqf3CV43BnN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100702-Heqf3CV43BnN.png"
+          },
+          "description": "[Website](http://werou.com) | [Twitter](https://twitter.com/iwamoto_yoshi) | [Pixiv](https://www.pixiv.net/en/users/5744)\n\nIwamoto Yoshihiro is a Japanese manga artist. He illustrated several works related to the Mega Man X series, including the official manga adaptations of [Mega Man X](https://anilist.co/manga/38525/Mega-Man-X/) to [Mega Man X4](https://anilist.co/manga/51684/Rockman-X4/), along with the Rockman X Giga Mission Carddass series.",
+          "siteUrl": "https://anilist.co/staff/100702"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 98940,
+          "name": {
+            "first": "Izumi",
+            "last": "Toudou",
+            "native": "東堂いづみ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98940-XrWUZfGiR2MW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98940-XrWUZfGiR2MW.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/東堂いづみ) | [Wiki (en)](https://en.wikipedia.org/wiki/Izumi_Todo)\n\nIzumi Toudou is a collective pseudonym for [Toei Animation](https://anilist.co/studio/18/)'s staff.",
+          "siteUrl": "https://anilist.co/staff/98940"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 3
+      },
+      {
+        "score": 60,
+        "amount": 4
+      },
+      {
+        "score": 70,
+        "amount": 3
+      },
+      {
+        "score": 80,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 6
+      },
+      {
+        "status": "PLANNING",
+        "amount": 45
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 22
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/45025",
+  "modNotes": null
+}

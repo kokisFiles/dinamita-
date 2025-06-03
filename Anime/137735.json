@@ -1,0 +1,635 @@
+{
+  "id": 137735,
+  "idMal": 49559,
+  "title": {
+    "native": "全职高手 第3季",
+    "romaji": "Quanzhi Gaoshou 3",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "The third season of <i>Quanzhi Gaoshou</i>.",
+  "startDate": {
+    "year": 2024,
+    "month": 5,
+    "day": 31
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 8,
+    "day": 23
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 17,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": {
+    "id": "ER-CfMqx0sk",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/ER-CfMqx0sk/hqdefault.jpg"
+  },
+  "updatedAt": 1748906391,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137735-hz635vd0h0td.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137735-hz635vd0h0td.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137735-hz635vd0h0td.png",
+    "color": "#d6ff35"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action"
+  ],
+  "synonyms": [
+    "The King's Avatar S3"
+  ],
+  "averageScore": 70,
+  "meanScore": 71,
+  "popularity": 9770,
+  "favourites": 174,
+  "tags": [
+    {
+      "id": 792,
+      "name": "E-Sports",
+      "description": "Prominently features professional video game competitions, tournaments, players, etc.",
+      "category": "Theme-Game",
+      "rank": 100,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 308,
+      "name": "Video Games",
+      "description": "Centers around characters playing video games.",
+      "category": "Theme-Game",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 281,
+      "name": "Surreal Comedy",
+      "description": "Prominently features comedic moments that defy casual reasoning, resulting in illogical events.",
+      "category": "Theme-Comedy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 102997,
+          "title": {
+            "native": "全职高手2"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 185726,
+          "title": {
+            "native": "全职高手荣耀小剧场"
+          }
+        },
+        "relationType": "OTHER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 124093,
+          "name": {
+            "first": "Xiu",
+            "last": "Ye",
+            "native": "叶修",
+            "alternative": [
+              "Lord Grim (君莫笑)",
+              "One Autumn Leaf (一叶之秋)",
+              "God Ye (叶神)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124093-nEn03Xv0gD1S.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124093-nEn03Xv0gD1S.png"
+          },
+          "siteUrl": "https://anilist.co/character/124093"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 124364,
+          "name": {
+            "first": "Mucheng",
+            "last": "Su",
+            "native": "苏沐橙",
+            "alternative": [
+              "Mumu",
+              "Dancing Rain (沐雨橙风)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/124364-eZ4b0LIENb20.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124364-eZ4b0LIENb20.png"
+          },
+          "siteUrl": "https://anilist.co/character/124364"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 130025,
+          "name": {
+            "first": "Guo",
+            "last": "Chen",
+            "native": "陈果",
+            "alternative": [
+              "GuoGuo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130025-A0SOf9nSZBPB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130025-A0SOf9nSZBPB.png"
+          },
+          "siteUrl": "https://anilist.co/character/130025"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 130026,
+          "name": {
+            "first": "Bao",
+            "last": "Rongxing",
+            "native": "包荣兴",
+            "alternative": [
+              "Baozi",
+              "Noob Brawler"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130026-1FoMYITChwXo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130026-1FoMYITChwXo.png"
+          },
+          "siteUrl": "https://anilist.co/character/130026"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 130027,
+          "name": {
+            "first": "Rou",
+            "last": "Tang",
+            "native": "唐柔",
+            "alternative": [
+              "Xiao Tang"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130027-4w88NcgN8RwC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130027-4w88NcgN8RwC.png"
+          },
+          "siteUrl": "https://anilist.co/character/130027"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 130030,
+          "name": {
+            "first": "Yifan",
+            "last": "Qiao",
+            "native": "乔一帆",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130030-LTrNyvOz5RXA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130030-LTrNyvOz5RXA.png"
+          },
+          "siteUrl": "https://anilist.co/character/130030"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 189783,
+          "name": {
+            "first": "Chen",
+            "last": "Wei",
+            "native": "魏琛",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b189783-MwgrjNrXnIjR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b189783-MwgrjNrXnIjR.png"
+          },
+          "siteUrl": "https://anilist.co/character/189783"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 120528,
+          "name": {
+            "first": "Hudie Lan",
+            "last": "",
+            "native": "蝴蝶蓝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/120528-ZfiFbH77ZbTo.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/120528-ZfiFbH77ZbTo.jpg"
+          },
+          "description": "[Weibo](https://weibo.com/u/1235627283)",
+          "siteUrl": "https://anilist.co/staff/120528"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 6382,
+          "name": "Tencent Penguin Pictures",
+          "siteUrl": "https://anilist.co/studio/6382"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 6321,
+          "name": "Colored Pencil Animation",
+          "siteUrl": "https://anilist.co/studio/6321"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6129,
+          "name": "Tencent Animation & Comics",
+          "siteUrl": "https://anilist.co/studio/6129"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6469,
+          "name": "China Literature",
+          "siteUrl": "https://anilist.co/studio/6469"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 385309,
+          "airingAt": 1717120800,
+          "episode": 1,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385310,
+          "airingAt": 1717725600,
+          "episode": 2,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385311,
+          "airingAt": 1718330400,
+          "episode": 3,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385312,
+          "airingAt": 1718935200,
+          "episode": 4,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385313,
+          "airingAt": 1719540000,
+          "episode": 5,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385314,
+          "airingAt": 1720144800,
+          "episode": 6,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385315,
+          "airingAt": 1720749600,
+          "episode": 7,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385316,
+          "airingAt": 1721354400,
+          "episode": 8,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385317,
+          "airingAt": 1721959200,
+          "episode": 9,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385318,
+          "airingAt": 1722564000,
+          "episode": 10,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385319,
+          "airingAt": 1723168800,
+          "episode": 11,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385320,
+          "airingAt": 1723773600,
+          "episode": 12,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385321,
+          "airingAt": 1724378400,
+          "episode": 13,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385322,
+          "airingAt": 1724983200,
+          "episode": 14,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385323,
+          "airingAt": 1725588000,
+          "episode": 15,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 385324,
+          "airingAt": 1726192800,
+          "episode": 16,
+          "mediaId": 137735,
+          "media": {
+            "id": 137735
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 36784,
+      "url": "https://v.qq.com/detail/t/mzc00200p49magn.html",
+      "site": "Tencent Video"
+    },
+    {
+      "id": 36785,
+      "url": "https://weibo.com/u/5505501446",
+      "site": "Weibo"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 23174,
+      "rank": 21,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2024,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 280816,
+          "rating": 3,
+          "media": {
+            "id": 137735,
+            "title": {
+              "native": "全职高手 第3季"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 99200,
+            "title": {
+              "native": "全职法师"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 6
+      },
+      {
+        "score": 30,
+        "amount": 21
+      },
+      {
+        "score": 40,
+        "amount": 31
+      },
+      {
+        "score": 50,
+        "amount": 75
+      },
+      {
+        "score": 60,
+        "amount": 146
+      },
+      {
+        "score": 70,
+        "amount": 316
+      },
+      {
+        "score": 80,
+        "amount": 227
+      },
+      {
+        "score": 90,
+        "amount": 132
+      },
+      {
+        "score": 100,
+        "amount": 104
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 1156
+      },
+      {
+        "status": "PLANNING",
+        "amount": 6495
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1771
+      },
+      {
+        "status": "DROPPED",
+        "amount": 188
+      },
+      {
+        "status": "PAUSED",
+        "amount": 160
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/137735",
+  "modNotes": null
+}

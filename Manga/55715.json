@@ -1,0 +1,167 @@
+{
+  "id": 55715,
+  "idMal": 25715,
+  "title": {
+    "native": "キメラ ファイナルクロニクル",
+    "romaji": "Kimera: Final Chronicle",
+    "english": "Kimera Final Chronicle"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": " ",
+  "startDate": {
+    "year": 2008,
+    "month": 8,
+    "day": null
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 5,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1738151173,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx55715-Y6N0TnKvhtLO.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55715-Y6N0TnKvhtLO.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx55715-Y6N0TnKvhtLO.jpg",
+    "color": "#f1ae28"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 60,
+  "popularity": 9,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 55690,
+          "title": {
+            "native": "キメラ"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 73251,
+          "name": {
+            "first": "Rin",
+            "last": null,
+            "native": "リン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/73251.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/73251.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/73251"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 107439,
+          "name": {
+            "first": "Tei",
+            "last": "Ogata",
+            "native": "緒方てい"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107439-CvjR7WsKlAPA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107439-CvjR7WsKlAPA.png"
+          },
+          "description": "[Twitter](https://twitter.com/ogatatei) | [Pixiv](https://www.pixiv.net/en/users/339001) | [Fantia](https://fantia.jp/fanclubs/4082) | [Skeb](https://skeb.jp/@ogatatei)",
+          "siteUrl": "https://anilist.co/staff/107439"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 60,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 3
+      },
+      {
+        "status": "PLANNING",
+        "amount": 4
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2
+      },
+      {
+        "status": "DROPPED",
+        "amount": 0
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/55715",
+  "modNotes": null
+}

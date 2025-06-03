@@ -1,0 +1,774 @@
+{
+  "id": 125796,
+  "idMal": 43745,
+  "title": {
+    "native": "エヴァンゲリオン × アタックZERO",
+    "romaji": "Evangelion × Attack ZERO",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "Commercial for Kao's Attack ZERO products featuring Rei Ayanami. ",
+  "startDate": {
+    "year": 2020,
+    "month": 11,
+    "day": 2
+  },
+  "endDate": {
+    "year": 2020,
+    "month": 11,
+    "day": 2
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 1,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": {
+    "id": "2x11heASfw4",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/2x11heASfw4/hqdefault.jpg"
+  },
+  "updatedAt": 1748860025,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125796-SZ4SfxqcSwUJ.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125796-SZ4SfxqcSwUJ.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx125796-SZ4SfxqcSwUJ.png",
+    "color": "#78aed6"
+  },
+  "bannerImage": null,
+  "genres": [],
+  "synonyms": [],
+  "averageScore": 54,
+  "meanScore": 55,
+  "popularity": 3820,
+  "favourites": 34,
+  "tags": [
+    {
+      "id": 505,
+      "name": "Advertisement",
+      "description": "Produced in order to promote the products of a certain company.",
+      "category": "Technical",
+      "rank": 92,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 91,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 158,
+      "name": "Crossover",
+      "description": "Centers around the placement of two or more otherwise discrete fictional characters, settings, or universes into the context of a single story.",
+      "category": "Theme-Other",
+      "rank": 53,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 30,
+          "title": {
+            "native": "新世紀エヴァンゲリオン"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 86,
+          "name": {
+            "first": "Rei",
+            "last": "Ayanami",
+            "native": "綾波レイ",
+            "alternative": [
+              "First Child",
+              "Look-alike",
+              "Tentative Name: Rei Ayanami",
+              "アヤナミレイ(仮称)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/86-cA1zL7fyls8E.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/86"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 36309,
+          "name": {
+            "first": "Narrator",
+            "last": null,
+            "native": "ナレーター",
+            "alternative": [
+              "語り手",
+              "ナレーション",
+              "Narrador",
+              "Rozprávač",
+              "Vyprávěč",
+              "Dış ses",
+              "Narratore",
+              "Pripovjedač",
+              "Narradora",
+              "Рассказчик",
+              "Người dẫn chuyện",
+              "Tagapagsalaysay",
+              "내레이터",
+              "Narratore",
+              "Erzählperson",
+              "מספר",
+              "Narrátor",
+              "讲述人",
+              "راوي",
+              "Forteller",
+              "Berättare",
+              "Αφηγητής",
+              "Narrateur",
+              "なれーしょん",
+              "旁白",
+              "Narrato"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36309"
+        },
+        "voiceActors": [
+          {
+            "id": 95287,
+            "name": {
+              "first": "Megumi",
+              "last": "Ogata",
+              "native": "緒方恵美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95287-3moX16xmYedv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95287-3moX16xmYedv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95287"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 104159,
+          "name": {
+            "first": "Johann",
+            "last": "Bach",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9159.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9159.jpg"
+          },
+          "description": "Johann Sebastian Bach was a German composer, organist, harpsichordist, violist, and violinist whose sacred and secular works for choir, orchestra, and solo instruments drew together the strands of the Baroque period and brought it to its ultimate maturity.    \n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/104159"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 119806,
+          "name": {
+            "first": "Kiyotaka",
+            "last": "Oshiyama",
+            "native": "押山清高"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119806-Mjs7b6dAaeXw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119806-Mjs7b6dAaeXw.png"
+          },
+          "description": "[Twitter](https://twitter.com/binobinobi) | [Wiki (jp)](https://ja.wikipedia.org/wiki/押山清高)\n\nCo-founder and Representative Director of [Studio Durian](https://anilist.co/studio/6283/).",
+          "siteUrl": "https://anilist.co/staff/119806"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 119806,
+          "name": {
+            "first": "Kiyotaka",
+            "last": "Oshiyama",
+            "native": "押山清高"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119806-Mjs7b6dAaeXw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119806-Mjs7b6dAaeXw.png"
+          },
+          "description": "[Twitter](https://twitter.com/binobinobi) | [Wiki (jp)](https://ja.wikipedia.org/wiki/押山清高)\n\nCo-founder and Representative Director of [Studio Durian](https://anilist.co/studio/6283/).",
+          "siteUrl": "https://anilist.co/staff/119806"
+        }
+      },
+      {
+        "role": "Director ",
+        "node": {
+          "id": 119806,
+          "name": {
+            "first": "Kiyotaka",
+            "last": "Oshiyama",
+            "native": "押山清高"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119806-Mjs7b6dAaeXw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119806-Mjs7b6dAaeXw.png"
+          },
+          "description": "[Twitter](https://twitter.com/binobinobi) | [Wiki (jp)](https://ja.wikipedia.org/wiki/押山清高)\n\nCo-founder and Representative Director of [Studio Durian](https://anilist.co/studio/6283/).",
+          "siteUrl": "https://anilist.co/staff/119806"
+        }
+      },
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 119806,
+          "name": {
+            "first": "Kiyotaka",
+            "last": "Oshiyama",
+            "native": "押山清高"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119806-Mjs7b6dAaeXw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119806-Mjs7b6dAaeXw.png"
+          },
+          "description": "[Twitter](https://twitter.com/binobinobi) | [Wiki (jp)](https://ja.wikipedia.org/wiki/押山清高)\n\nCo-founder and Representative Director of [Studio Durian](https://anilist.co/studio/6283/).",
+          "siteUrl": "https://anilist.co/staff/119806"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 197333,
+          "name": {
+            "first": "Chika",
+            "last": "Kubo",
+            "native": "窪千香"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/197333"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 197333,
+          "name": {
+            "first": "Chika",
+            "last": "Kubo",
+            "native": "窪千香"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/197333"
+        }
+      },
+      {
+        "role": "In-Betweens Check",
+        "node": {
+          "id": 138506,
+          "name": {
+            "first": "Chieko",
+            "last": "Ichimanda",
+            "native": "市万田千恵子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with [Wit Studio](https://anilist.co/studio/858/Wit-Studio).",
+          "siteUrl": "https://anilist.co/staff/138506"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 172820,
+          "name": {
+            "first": "Shoutarou",
+            "last": "Imai",
+            "native": "今井翔太郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n172820-iJsmbobc9FDq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n172820-iJsmbobc9FDq.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/172820"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 138506,
+          "name": {
+            "first": "Chieko",
+            "last": "Ichimanda",
+            "native": "市万田千恵子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with [Wit Studio](https://anilist.co/studio/858/Wit-Studio).",
+          "siteUrl": "https://anilist.co/staff/138506"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 169726,
+          "name": {
+            "first": "Mayo",
+            "last": "Nishiguchi",
+            "native": "西口真代"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with [Wit Studio](https://anilist.co/studio/858/Wit-Studio).",
+          "siteUrl": "https://anilist.co/staff/169726"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 169721,
+          "name": {
+            "first": "Ai",
+            "last": "Sakuta",
+            "native": "作田愛"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/169721"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 169722,
+          "name": {
+            "first": "Yuuki",
+            "last": "Sanuga",
+            "native": "佐怒賀祐希"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with [WIT STUDIO](https://anilist.co/studio/858/Wit-Studio)",
+          "siteUrl": "https://anilist.co/staff/169722"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 169724,
+          "name": {
+            "first": "Seina",
+            "last": "Kinomura",
+            "native": "木野村彗奈"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/169724"
+        }
+      },
+      {
+        "role": "Finishing",
+        "node": {
+          "id": 152308,
+          "name": {
+            "first": "Ayaka",
+            "last": "Nakamura",
+            "native": "中村絢郁"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n152308-wkdbLIATmR5g.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n152308-wkdbLIATmR5g.png"
+          },
+          "description": "\n\nAffiliated with [WIT Studio](https://anilist.co/studio/858/).",
+          "siteUrl": "https://anilist.co/staff/152308"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 103102,
+          "name": {
+            "first": "Yuusuke",
+            "last": "Takeda",
+            "native": "竹田悠介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103102-aEjIrYuaUaVn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103102-aEjIrYuaUaVn.png"
+          },
+          "description": "[Twitter](https://twitter.com/t_bamboo)\n\nHe grew up in Mexico because of his parents' work. In elementary school he read Ishinomori Shoutarou's Cyborg 009. Later he experienced the Yamato and Gundam boom, prompting him to be interested in animation. He started working as background artist, later becoming freelance. During that time Takeda got acquainted with Tokuhiro Hiragi and Tatsuya Kushida, whom he then helped establishing the art studio Bihou in 1993.\n\nIn 2005 he established the independent art studio Bamboo, which became a company in 2007.\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/103102"
+        }
+      },
+      {
+        "role": "Background Art",
+        "node": {
+          "id": 103102,
+          "name": {
+            "first": "Yuusuke",
+            "last": "Takeda",
+            "native": "竹田悠介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103102-aEjIrYuaUaVn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103102-aEjIrYuaUaVn.png"
+          },
+          "description": "[Twitter](https://twitter.com/t_bamboo)\n\nHe grew up in Mexico because of his parents' work. In elementary school he read Ishinomori Shoutarou's Cyborg 009. Later he experienced the Yamato and Gundam boom, prompting him to be interested in animation. He started working as background artist, later becoming freelance. During that time Takeda got acquainted with Tokuhiro Hiragi and Tatsuya Kushida, whom he then helped establishing the art studio Bihou in 1993.\n\nIn 2005 he established the independent art studio Bamboo, which became a company in 2007.\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/103102"
+        }
+      },
+      {
+        "role": "Background Art",
+        "node": {
+          "id": 148012,
+          "name": {
+            "first": "Takayo",
+            "last": "Nishino",
+            "native": "西野隆世"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/148012"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 142579,
+          "name": {
+            "first": "Youhei",
+            "last": "Miyahara",
+            "native": "宮原洋平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142579-A37cUaYxXnI5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n142579-A37cUaYxXnI5.png"
+          },
+          "description": "[Twitter](https://twitter.com/miyafic)\n\nThe representative director of Capsule, a CG animation company",
+          "siteUrl": "https://anilist.co/staff/142579"
+        }
+      },
+      {
+        "role": "Photography",
+        "node": {
+          "id": 142579,
+          "name": {
+            "first": "Youhei",
+            "last": "Miyahara",
+            "native": "宮原洋平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142579-A37cUaYxXnI5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n142579-A37cUaYxXnI5.png"
+          },
+          "description": "[Twitter](https://twitter.com/miyafic)\n\nThe representative director of Capsule, a CG animation company",
+          "siteUrl": "https://anilist.co/staff/142579"
+        }
+      },
+      {
+        "role": "Production Assistant",
+        "node": {
+          "id": 172952,
+          "name": {
+            "first": "Nozomi",
+            "last": "Hosono",
+            "native": "細野望"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n172952-aa3cwSf6RP24.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n172952-aa3cwSf6RP24.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/172952"
+        }
+      },
+      {
+        "role": "Animation Producer",
+        "node": {
+          "id": 196459,
+          "name": {
+            "first": "Kazuki",
+            "last": "Yamanaka",
+            "native": "山中一樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n196459-WNgxKk0XYyXr.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n196459-WNgxKk0XYyXr.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/106375291)\n\nAnimation Producer at [WIT Studio](https://anilist.co/studio/858/).",
+          "siteUrl": "https://anilist.co/staff/196459"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 135988,
+          "name": {
+            "first": "Satoshi",
+            "last": "Hashimoto",
+            "native": "橋本賢"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n135988-LIvNK8J0oe2b.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n135988-LIvNK8J0oe2b.png"
+          },
+          "description": "[Twitter](https://x.com/PJciDsLcfywX1BI?s=20)\n\nAffiliated with [Wit Studio](https://anilist.co/studio/858/).",
+          "siteUrl": "https://anilist.co/staff/135988"
+        }
+      },
+      {
+        "role": "Photography",
+        "node": {
+          "id": 161518,
+          "name": {
+            "first": "Kaori ",
+            "last": "Seki",
+            "native": "関香織"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/161518"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 858,
+          "name": "WIT STUDIO",
+          "siteUrl": "https://anilist.co/studio/858"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 6283,
+          "name": "Studio Durian",
+          "siteUrl": "https://anilist.co/studio/6283"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 48296,
+          "rating": 3,
+          "media": {
+            "id": 125796,
+            "title": {
+              "native": "エヴァンゲリオン × アタックZERO"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 125785,
+            "title": {
+              "native": "エヴァンゲリオン x KATE CM"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 48302,
+          "rating": 10,
+          "media": {
+            "id": 125796,
+            "title": {
+              "native": "エヴァンゲリオン × アタックZERO"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30,
+            "title": {
+              "native": "新世紀エヴァンゲリオン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 255649,
+          "rating": 1,
+          "media": {
+            "id": 125796,
+            "title": {
+              "native": "エヴァンゲリオン × アタックZERO"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 174780,
+            "title": {
+              "native": "ジブリパーク ゆっくりきて下さい。動く城編"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 68
+      },
+      {
+        "score": 20,
+        "amount": 43
+      },
+      {
+        "score": 30,
+        "amount": 66
+      },
+      {
+        "score": 40,
+        "amount": 106
+      },
+      {
+        "score": 50,
+        "amount": 279
+      },
+      {
+        "score": 60,
+        "amount": 151
+      },
+      {
+        "score": 70,
+        "amount": 93
+      },
+      {
+        "score": 80,
+        "amount": 61
+      },
+      {
+        "score": 90,
+        "amount": 91
+      },
+      {
+        "score": 100,
+        "amount": 105
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 72
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1052
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2638
+      },
+      {
+        "status": "DROPPED",
+        "amount": 41
+      },
+      {
+        "status": "PAUSED",
+        "amount": 17
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/125796",
+  "modNotes": null
+}

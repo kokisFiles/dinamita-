@@ -1,0 +1,542 @@
+{
+  "id": 2503,
+  "idMal": 2503,
+  "title": {
+    "native": "南国少年パプワくん",
+    "romaji": "Nangoku Shounen Papuwa-kun",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "Papuwa-kun is a young boy living a quiet life with his dog, Chappy, on a small island located somewhere in South Pacific, when Shintaro, who is being pursued by gangsters, invades their happy existence. <br>\nChappi takes Shintaro's precious Jewel, thereby making the two main characters lifelong rivals. Together they experience a series of bizarre adventures and situations. <br><br>\n(Source: AnimeNfo)&lt;br&gt;",
+  "startDate": {
+    "year": 1992,
+    "month": 10,
+    "day": 10
+  },
+  "endDate": {
+    "year": 1993,
+    "month": 10,
+    "day": 2
+  },
+  "season": "FALL",
+  "seasonYear": 1992,
+  "seasonInt": 924,
+  "episodes": 42,
+  "duration": 20,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748884934,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2503.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2503.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2503.jpg",
+    "color": "#f1c950"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "synonyms": [
+    "Papuwa (1992)",
+    "Papuwa of the South Seas",
+    "Southern Country Boy Papuwa-kun"
+  ],
+  "averageScore": 60,
+  "meanScore": 69,
+  "popularity": 421,
+  "favourites": 12,
+  "tags": [
+    {
+      "id": 198,
+      "name": "Foreign",
+      "description": "Partly or completely set in a country outside the country of origin.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2501,
+          "title": {
+            "native": "パプワ"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 45690,
+          "title": {
+            "native": "南国少年パプワくん"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 13283,
+          "name": {
+            "first": "Papuwa",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/13283.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/13283.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13283"
+        },
+        "voiceActors": [
+          {
+            "id": 95075,
+            "name": {
+              "first": "Mayumi",
+              "last": "Tanaka",
+              "native": "田中真弓"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95075-1qD4TeW1ON92.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95075-1qD4TeW1ON92.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95075"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 29886,
+          "name": {
+            "first": "Shintaro",
+            "last": null,
+            "native": "シンタロー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29886.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29886.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29886"
+        },
+        "voiceActors": [
+          {
+            "id": 95112,
+            "name": {
+              "first": "Hikaru",
+              "last": "Midorikawa",
+              "native": "緑川光"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95112-c275OLptkSYO.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95112-c275OLptkSYO.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95112"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 41648,
+          "name": {
+            "first": "Magic",
+            "last": null,
+            "native": "マジック",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/41648.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/41648.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/41648"
+        },
+        "voiceActors": [
+          {
+            "id": 95137,
+            "name": {
+              "first": "Shou",
+              "last": "Hayami",
+              "native": "速水奨"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95137-2Q5l3Br9G7sk.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95137-2Q5l3Br9G7sk.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95137"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 28789,
+          "name": {
+            "first": "Itou",
+            "last": null,
+            "native": "イトウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/28789.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28789.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28789"
+        },
+        "voiceActors": [
+          {
+            "id": 95761,
+            "name": {
+              "first": "Tesshou",
+              "last": "Genda",
+              "native": "玄田哲章"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95761-nwndYRCqJxno.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95761-nwndYRCqJxno.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95761"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 28788,
+          "name": {
+            "first": "Tanno",
+            "last": null,
+            "native": "タンノくん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/28788.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28788.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28788"
+        },
+        "voiceActors": [
+          {
+            "id": 96026,
+            "name": {
+              "first": "Keiichi",
+              "last": "Nanba",
+              "native": "難波圭一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96026-lC6TRnpmiqpU.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96026-lC6TRnpmiqpU.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96026"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 28785,
+          "name": {
+            "first": "Chappy",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/28785.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28785.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28785"
+        },
+        "voiceActors": [
+          {
+            "id": 96247,
+            "name": {
+              "first": "Hiroshi",
+              "last": "Masuoka",
+              "native": "増岡弘"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96247-wKKO6fSfwvPn.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96247-wKKO6fSfwvPn.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96247"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 28796,
+          "name": {
+            "first": "",
+            "last": "Arashiyama",
+            "native": null,
+            "alternative": [
+              "Gion Kamen"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/28796.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28796.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28796"
+        },
+        "voiceActors": [
+          {
+            "id": 96506,
+            "name": {
+              "first": "Yoku",
+              "last": "Shioya",
+              "native": "塩屋翼"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96506-toS3CQBXCrnR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96506-toS3CQBXCrnR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96506"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Production Manager",
+        "node": {
+          "id": 145112,
+          "name": {
+            "first": "Junzou",
+            "last": "Nakajima",
+            "native": "中島順三"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n145112-d03zj9cFnbwo.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n145112-d03zj9cFnbwo.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/145112"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 99081,
+          "name": {
+            "first": "Ami",
+            "last": "Shibata",
+            "native": "柴田亜美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99081-2PlVNCbdvu90.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99081-2PlVNCbdvu90.jpg"
+          },
+          "description": "**Former assitants:** [Hachiya Yoshimoto (JOHNNY)](https://anilist.co/staff/313357)\n\n[YouTube](https://www.youtube.com/channel/UC-HCQ5ubDT4sAIwRU43yZ0g) | [Blog](https://ameblo.jp/mangakanoinutachi/) | [Twitter](https://twitter.com/s_ami_staff)",
+          "siteUrl": "https://anilist.co/staff/99081"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 1126,
+      "rank": 20,
+      "type": "RATED",
+      "format": "TV",
+      "year": 1992,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 1159,
+      "rank": 24,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 1992,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 114304,
+          "rating": 6,
+          "media": {
+            "id": 2503,
+            "title": {
+              "native": "南国少年パプワくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 253,
+            "title": {
+              "native": "ジャングルはいつもハレのちグゥ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 114306,
+          "rating": 3,
+          "media": {
+            "id": 2503,
+            "title": {
+              "native": "南国少年パプワくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 3418,
+            "title": {
+              "native": "ジャングルの王者ターちゃん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 333732,
+          "rating": 1,
+          "media": {
+            "id": 2503,
+            "title": {
+              "native": "南国少年パプワくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2277,
+            "title": {
+              "native": "魔法遊戯: 飛び出す!!ハナマル大冒険"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 377746,
+          "rating": 1,
+          "media": {
+            "id": 2503,
+            "title": {
+              "native": "南国少年パプワくん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 4130,
+            "title": {
+              "native": "ぷちえゔぁ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 16
+      },
+      {
+        "score": 60,
+        "amount": 6
+      },
+      {
+        "score": 70,
+        "amount": 10
+      },
+      {
+        "score": 80,
+        "amount": 27
+      },
+      {
+        "score": 90,
+        "amount": 26
+      },
+      {
+        "score": 100,
+        "amount": 7
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 24
+      },
+      {
+        "status": "PLANNING",
+        "amount": 222
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 118
+      },
+      {
+        "status": "DROPPED",
+        "amount": 42
+      },
+      {
+        "status": "PAUSED",
+        "amount": 15
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/2503",
+  "modNotes": null
+}

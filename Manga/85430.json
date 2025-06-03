@@ -1,0 +1,966 @@
+{
+  "id": 85430,
+  "idMal": 64087,
+  "title": {
+    "native": "방과 후 전쟁활동",
+    "romaji": "Banggwa hu Jeonjaeng Hwaldong",
+    "english": "Duty After School"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Strange things are appearing from the sky, and the world is slowly dying. In Korea, there aren't enough military men to fight these enemies off, and high-school and college students have no choice but to join the military and help the others survive—at the risk of their own lives.",
+  "startDate": {
+    "year": 2012,
+    "month": 11,
+    "day": 17
+  },
+  "endDate": {
+    "year": 2013,
+    "month": 12,
+    "day": 14
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 50,
+  "volumes": 5,
+  "countryOfOrigin": "KR",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748955715,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55430.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55430.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/55430.jpg",
+    "color": "#e45043"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Drama",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Afterschool War Activities",
+    "Afterschool Military Activity",
+    "Школа; Фронт"
+  ],
+  "averageScore": 73,
+  "meanScore": 75,
+  "popularity": 3551,
+  "favourites": 83,
+  "tags": [
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 100,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 111,
+      "name": "War",
+      "description": "Partly or completely set during wartime.",
+      "category": "Theme-Other",
+      "rank": 100,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 90,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 191,
+      "name": "Aliens",
+      "description": "Prominently features extraterrestrial lifeforms.",
+      "category": "Cast-Traits",
+      "rank": 85,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1228,
+      "name": "Primarily Teen Cast",
+      "description": "Main cast is mostly composed of teen characters.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 143,
+      "name": "Survival",
+      "description": "Centers around the struggle to live in spite of extreme obstacles.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 76,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 157,
+      "name": "Guns",
+      "description": "Prominently features the use of guns in combat.",
+      "category": "Theme-Action",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 207,
+      "name": "Full Color",
+      "description": "Manga that were initially published in full color.",
+      "category": "Technical",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1046,
+      "name": "Suicide",
+      "description": "The act or an instance of taking or attempting to take one's own life voluntarily and intentionally.",
+      "category": "Theme-Drama",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 1045,
+      "name": "Heterosexual",
+      "description": "Prominently features a romance between a man and a woman, not inherently sexual.",
+      "category": "Theme-Romance",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 250,
+      "name": "Rural",
+      "description": "Partly or completely set in the countryside.",
+      "category": "Setting-Scene",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 153,
+      "name": "Time Skip",
+      "description": "Features a gap in time used to advance the story.",
+      "category": "Setting-Time",
+      "rank": 20,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": []
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171105,
+          "name": {
+            "first": "So-Yeon",
+            "last": "Cha",
+            "native": "차소연",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171105-sWci0kgREkFX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171105-sWci0kgREkFX.png"
+          },
+          "siteUrl": "https://anilist.co/character/171105"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171106,
+          "name": {
+            "first": "Yeong-Sin",
+            "last": "Cho",
+            "native": "조영신",
+            "alternative": [
+              "Young Shin Cho"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171106-KoRmPbBdQFgW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171106-KoRmPbBdQFgW.png"
+          },
+          "siteUrl": "https://anilist.co/character/171106"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171107,
+          "name": {
+            "first": "Su-Cheol",
+            "last": "Do",
+            "native": "도수철",
+            "alternative": [
+              "Su Cheol Doh"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171107-2rPEZVeIm40d.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171107-2rPEZVeIm40d.png"
+          },
+          "siteUrl": "https://anilist.co/character/171107"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171108,
+          "name": {
+            "first": "Yeong-Su",
+            "last": "Guk",
+            "native": "국영수",
+            "alternative": [
+              "Youngsoo Guk"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171108-TbKmQ4jdJgc3.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171108-TbKmQ4jdJgc3.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/171108"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171109,
+          "name": {
+            "first": "Il-Ha",
+            "last": "Kwon",
+            "native": "권일하",
+            "alternative": [
+              "Il-ha Gwon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171109-vkP3vAfVTsv7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171109-vkP3vAfVTsv7.png"
+          },
+          "siteUrl": "https://anilist.co/character/171109"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171110,
+          "name": {
+            "first": "Yu-Jeong",
+            "last": "Kim",
+            "native": "김유정",
+            "alternative": [
+              "Yu Jung Kim"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171110-lizmtqwuo2eS.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171110-lizmtqwuo2eS.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/171110"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171111,
+          "name": {
+            "first": "Chi-Yeol",
+            "last": "Kim",
+            "native": "김치열",
+            "alternative": [
+              "Chi Yeol Kim"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171111-vCHQxqMBOWT0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171111-vCHQxqMBOWT0.png"
+          },
+          "siteUrl": "https://anilist.co/character/171111"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171112,
+          "name": {
+            "first": "Deok-Jung",
+            "last": "Kim",
+            "native": "김덕중",
+            "alternative": [
+              "Duk Joong Kim"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171112-FSMBs2aym92F.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171112-FSMBs2aym92F.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/171112"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171113,
+          "name": {
+            "first": "Na-Ra",
+            "last": "Lee",
+            "native": "이나라",
+            "alternative": [
+              "Na Ra Lee"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171113-Eg8HBHP4NMyc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171113-Eg8HBHP4NMyc.png"
+          },
+          "siteUrl": "https://anilist.co/character/171113"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171114,
+          "name": {
+            "first": "Chun-Ho",
+            "last": "Lee",
+            "native": "이춘호",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171114-aN5LYHO52D3q.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171114-aN5LYHO52D3q.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/171114"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171115,
+          "name": {
+            "first": "Ae-Seol",
+            "last": "No",
+            "native": "노애설",
+            "alternative": [
+              "Ae Seol Noh"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171115-7s4bTjvQsgal.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171115-7s4bTjvQsgal.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/171115"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171116,
+          "name": {
+            "first": "Tae-Man",
+            "last": "Wang",
+            "native": "왕태만",
+            "alternative": [
+              "Johnson"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171116-Gk8B9VStHZ0h.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171116-Gk8B9VStHZ0h.png"
+          },
+          "siteUrl": "https://anilist.co/character/171116"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171117,
+          "name": {
+            "first": "Hui-Rak",
+            "last": "U",
+            "native": "우희락",
+            "alternative": [
+              "Hui Rak Woo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171117-gSTFxGKRE60k.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171117-gSTFxGKRE60k.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/171117"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 171118,
+          "name": {
+            "first": "Bo-Ra",
+            "last": "Yeon",
+            "native": "연보라",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171118-LgumfeBXJ3mx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171118-LgumfeBXJ3mx.png"
+          },
+          "siteUrl": "https://anilist.co/character/171118"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 171119,
+          "name": {
+            "first": "Yeon-Ju",
+            "last": "Choi",
+            "native": "최연주",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171119-gQmktHAia4fl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171119-gQmktHAia4fl.png"
+          },
+          "siteUrl": "https://anilist.co/character/171119"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 171120,
+          "name": {
+            "first": "Mi-A",
+            "last": "Lee",
+            "native": "이미아",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/171120"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 171121,
+          "name": {
+            "first": "Ha-Na",
+            "last": "Yu",
+            "native": "유하나",
+            "alternative": [
+              "Ha Na Yoo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b171121-M3yVzuRtSNKi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b171121-M3yVzuRtSNKi.png"
+          },
+          "siteUrl": "https://anilist.co/character/171121"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 109019,
+          "name": {
+            "first": "Il-Kwon",
+            "last": "Ha",
+            "native": "하일권"
+          },
+          "language": "KOREAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109019-VTLdlC9aidQz.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n109019-VTLdlC9aidQz.png"
+          },
+          "description": "<br>[Blog](http://blog.naver.com/hailkwon)",
+          "siteUrl": "https://anilist.co/staff/109019"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 4796,
+      "url": "http://comic.naver.com/webtoon/list.nhn?titleId=517773",
+      "site": "Naver Webtoon"
+    },
+    {
+      "id": 4797,
+      "url": "http://www.webtoons.com/en/drama/duty-after-school/list?title_no=370",
+      "site": "Webtoons"
+    },
+    {
+      "id": 26063,
+      "url": "https://series.naver.com/comic/detail.nhn?productNo=1427166",
+      "site": "Naver Webtoon"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 28431,
+      "rank": 66,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2012,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 28542,
+      "rank": 77,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 2012,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 4464,
+          "rating": 8,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 60079,
+            "title": {
+              "native": "안나라수마나라"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 4466,
+          "rating": 1,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 71961,
+            "title": {
+              "native": "목욕의 신"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 30565,
+          "rating": 0,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 62137,
+            "title": {
+              "native": "3단합체김창남"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 50448,
+          "rating": 8,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 100568,
+            "title": {
+              "native": "수평선"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 50450,
+          "rating": 1,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 85879,
+            "title": {
+              "native": "심연의 하늘"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 77185,
+          "rating": 1,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 133911,
+            "title": {
+              "native": "1호선"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 89612,
+          "rating": 1,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 120805,
+            "title": {
+              "native": "아르마"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 151129,
+          "rating": 1,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 134385,
+            "title": {
+              "native": "당신의 과녁"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 181381,
+          "rating": 0,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 65459,
+            "title": {
+              "native": "두근두근 두근거려"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 208811,
+          "rating": -1,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 86113,
+            "title": {
+              "native": "君死二タマフ事ナカレ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 243262,
+          "rating": 1,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 100954,
+            "title": {
+              "native": "스위트홈"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 247153,
+          "rating": -1,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 85403,
+            "title": {
+              "native": "五時間目の戦争"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 263236,
+          "rating": 1,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 119174,
+            "title": {
+              "native": "더 복서"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 263238,
+          "rating": 1,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 101671,
+            "title": {
+              "native": "푸른유리"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 284843,
+          "rating": 1,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 168928,
+            "title": {
+              "native": "TS衛生兵さんの戦場日記"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 402161,
+          "rating": 1,
+          "media": {
+            "id": 85430,
+            "title": {
+              "native": "방과 후 전쟁활동"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 136009,
+            "title": {
+              "native": "조의 영역"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 20
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 13
+      },
+      {
+        "score": 40,
+        "amount": 19
+      },
+      {
+        "score": 50,
+        "amount": 45
+      },
+      {
+        "score": 60,
+        "amount": 77
+      },
+      {
+        "score": 70,
+        "amount": 199
+      },
+      {
+        "score": 80,
+        "amount": 236
+      },
+      {
+        "score": 90,
+        "amount": 232
+      },
+      {
+        "score": 100,
+        "amount": 89
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 218
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1889
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1283
+      },
+      {
+        "status": "DROPPED",
+        "amount": 85
+      },
+      {
+        "status": "PAUSED",
+        "amount": 76
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/85430",
+  "modNotes": null
+}

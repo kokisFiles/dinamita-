@@ -1,0 +1,849 @@
+{
+  "id": 179953,
+  "idMal": null,
+  "title": {
+    "native": "イケ贄",
+    "romaji": "Ikenie",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Music video directed by Yuu Aoki for the song <I>Ikenie</i> by Sakura Miko.",
+  "startDate": {
+    "year": 2024,
+    "month": 8,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 8,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 4,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": "#イケ贄",
+  "trailer": {
+    "id": "Q2b8Zsui_0Y",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/Q2b8Zsui_0Y/hqdefault.jpg"
+  },
+  "updatedAt": 1748769123,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179953-b9Y0x2L4jjPl.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179953-b9Y0x2L4jjPl.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179953-b9Y0x2L4jjPl.png",
+    "color": "#f1bb50"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179953-r1q5WSRvTiFx.jpg",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Supernatural"
+  ],
+  "synonyms": [],
+  "averageScore": 56,
+  "meanScore": 68,
+  "popularity": 209,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 468,
+      "name": "Shrine Maiden",
+      "description": "Prominently features a character who is a shrine maiden.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1047,
+      "name": "VTuber",
+      "description": "Prominently features a character who is either an actual or fictive VTuber.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 97,
+      "name": "Otaku Culture",
+      "description": "Centers around the culture of a fanatical fan-base.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 118123,
+          "title": {
+            "native": "ホロのぐらふぃてぃ"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169487,
+          "name": {
+            "first": "Subaru",
+            "last": "Oozora",
+            "native": "大空スバル",
+            "alternative": [
+              "Duck"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169487-bU2VeLlCtoWb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169487-bU2VeLlCtoWb.png"
+          },
+          "siteUrl": "https://anilist.co/character/169487"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 169484,
+          "name": {
+            "first": "Miko",
+            "last": "Sakura",
+            "native": "さくらみこ",
+            "alternative": [
+              "Miko-chi",
+              "Virtual Elite Miko",
+              "Elite Miko",
+              "Goddess of Spring",
+              "Mikomiko"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169484-lb6ObyGaywVd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169484-lb6ObyGaywVd.png"
+          },
+          "siteUrl": "https://anilist.co/character/169484"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169498,
+          "name": {
+            "first": "Flare",
+            "last": "Shiranui",
+            "native": "不知火フレア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169498-t1J360vDV2JT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169498-t1J360vDV2JT.png"
+          },
+          "siteUrl": "https://anilist.co/character/169498"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169486,
+          "name": {
+            "first": "Fubuki",
+            "last": "Shirakami",
+            "native": "白上フブキ",
+            "alternative": [
+              "Buki",
+              "Fubuki-chan",
+              "FBK",
+              "Friend",
+              "Waifriend"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169486-V1qjlgVBr8X9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169486-V1qjlgVBr8X9.png"
+          },
+          "siteUrl": "https://anilist.co/character/169486"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169504,
+          "name": {
+            "first": "Suisei",
+            "last": "Hoshimachi",
+            "native": "星街すいせい",
+            "alternative": [
+              "Suisei Hosimati",
+              "Sui-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169504-3zEJa7EJGryQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169504-3zEJa7EJGryQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/169504"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 174357,
+          "name": {
+            "first": "Kintoki",
+            "last": null,
+            "native": "金時",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174357-azg3O4klRL87.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174357-azg3O4klRL87.png"
+          },
+          "siteUrl": "https://anilist.co/character/174357"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 119753,
+          "name": {
+            "first": "Kouta",
+            "last": "Kobayashi",
+            "native": "小林康太"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119753-ozfuDWEIW6UM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119753-ozfuDWEIW6UM.png"
+          },
+          "description": "\n<b><a href=\"http://www.yashikin.com/\" target=\"blank\">Website</a></b> | <b><a href=\"http://yashikinsasayaki.seesaa.net/\" target=\"blank\">Blog</a></b> | <b><a href=\"http://www.fmf-music.com/creators4.html#id80\" target=\"blank\">Portfolio</a></b> | <b><a href=\"http://anison.info/data/person/30030.html\" target=\"blank\">Anison</a></b>\n\n__Kouta Kobayashi__, commonly known as Yashikin, is a Japanese lyricist, composer and orechestrator. He was born in Toshima-ku, Tokyo, Japan, and brought up in Ikebukuro. He is affiliated with <a href=\"http://www.fmf-music.com/\">F.M.F</a>.",
+          "siteUrl": "https://anilist.co/staff/119753"
+        }
+      },
+      {
+        "role": "Music Arrangement",
+        "node": {
+          "id": 119753,
+          "name": {
+            "first": "Kouta",
+            "last": "Kobayashi",
+            "native": "小林康太"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119753-ozfuDWEIW6UM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119753-ozfuDWEIW6UM.png"
+          },
+          "description": "\n<b><a href=\"http://www.yashikin.com/\" target=\"blank\">Website</a></b> | <b><a href=\"http://yashikinsasayaki.seesaa.net/\" target=\"blank\">Blog</a></b> | <b><a href=\"http://www.fmf-music.com/creators4.html#id80\" target=\"blank\">Portfolio</a></b> | <b><a href=\"http://anison.info/data/person/30030.html\" target=\"blank\">Anison</a></b>\n\n__Kouta Kobayashi__, commonly known as Yashikin, is a Japanese lyricist, composer and orechestrator. He was born in Toshima-ku, Tokyo, Japan, and brought up in Ikebukuro. He is affiliated with <a href=\"http://www.fmf-music.com/\">F.M.F</a>.",
+          "siteUrl": "https://anilist.co/staff/119753"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 119753,
+          "name": {
+            "first": "Kouta",
+            "last": "Kobayashi",
+            "native": "小林康太"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119753-ozfuDWEIW6UM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119753-ozfuDWEIW6UM.png"
+          },
+          "description": "\n<b><a href=\"http://www.yashikin.com/\" target=\"blank\">Website</a></b> | <b><a href=\"http://yashikinsasayaki.seesaa.net/\" target=\"blank\">Blog</a></b> | <b><a href=\"http://www.fmf-music.com/creators4.html#id80\" target=\"blank\">Portfolio</a></b> | <b><a href=\"http://anison.info/data/person/30030.html\" target=\"blank\">Anison</a></b>\n\n__Kouta Kobayashi__, commonly known as Yashikin, is a Japanese lyricist, composer and orechestrator. He was born in Toshima-ku, Tokyo, Japan, and brought up in Ikebukuro. He is affiliated with <a href=\"http://www.fmf-music.com/\">F.M.F</a>.",
+          "siteUrl": "https://anilist.co/staff/119753"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 153717,
+          "name": {
+            "first": "Yuu",
+            "last": "Aoki",
+            "native": "青木悠"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n153717-s6j2KFnHemg5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n153717-s6j2KFnHemg5.jpg"
+          },
+          "description": "**[Twitter](https://twitter.com/animation_aoki)**",
+          "siteUrl": "https://anilist.co/staff/153717"
+        }
+      },
+      {
+        "role": "Music Performance",
+        "node": {
+          "id": 197968,
+          "name": {
+            "first": "Miko",
+            "last": "Sakura",
+            "native": "さくらみこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n197968-nciq0f6PQeXH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n197968-nciq0f6PQeXH.png"
+          },
+          "description": "**Height:** 152 cm\n**Fanbase name:** 35P\n**Illustrator:** [ordan](https://anilist.co/staff/175874/)\n\n[YouTube](https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA) | [Twitter](https://twitter.com/sakuramiko35) | [Hololive Profile](https://hololive.hololivepro.com/en/talents/sakuramiko/)  | [Bilibili](https://space.bilibili.com/366690056/)\n\n*\"Nya-hello! It's Sakura Miko!\"*\n\nShe has been working on religious services really hard as a miko in the computer world. With the revelation of the gods, she is now visiting Japan. While performing her errand, she has now decided to become and work hard as a virtual miko idol.\n\nSakura Miko is a female Japanese Virtual YouTuber endorsed by Hololive Production. A part of the zero generation wave of Hololive.",
+          "siteUrl": "https://anilist.co/staff/197968"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 239930,
+          "name": {
+            "first": "Jarrett",
+            "last": "Martin",
+            "native": "ジャレット・マーティン"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n239930-IpXQMOcvUBBi.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n239930-IpXQMOcvUBBi.jpg"
+          },
+          "description": "[Website](https://www.tonarianimation.com/) | [Twitter](https://twitter.com/JarrettHMartin)\n\nCEO of Tonari Animation",
+          "siteUrl": "https://anilist.co/staff/239930"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 197968,
+          "name": {
+            "first": "Miko",
+            "last": "Sakura",
+            "native": "さくらみこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n197968-nciq0f6PQeXH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n197968-nciq0f6PQeXH.png"
+          },
+          "description": "**Height:** 152 cm\n**Fanbase name:** 35P\n**Illustrator:** [ordan](https://anilist.co/staff/175874/)\n\n[YouTube](https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA) | [Twitter](https://twitter.com/sakuramiko35) | [Hololive Profile](https://hololive.hololivepro.com/en/talents/sakuramiko/)  | [Bilibili](https://space.bilibili.com/366690056/)\n\n*\"Nya-hello! It's Sakura Miko!\"*\n\nShe has been working on religious services really hard as a miko in the computer world. With the revelation of the gods, she is now visiting Japan. While performing her errand, she has now decided to become and work hard as a virtual miko idol.\n\nSakura Miko is a female Japanese Virtual YouTuber endorsed by Hololive Production. A part of the zero generation wave of Hololive.",
+          "siteUrl": "https://anilist.co/staff/197968"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 153717,
+          "name": {
+            "first": "Yuu",
+            "last": "Aoki",
+            "native": "青木悠"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n153717-s6j2KFnHemg5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n153717-s6j2KFnHemg5.jpg"
+          },
+          "description": "**[Twitter](https://twitter.com/animation_aoki)**",
+          "siteUrl": "https://anilist.co/staff/153717"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 139179,
+          "name": {
+            "first": "Ryouta",
+            "last": "Kuratani",
+            "native": "倉谷亮多"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n139179-tvsURwR2PD7o.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n139179-tvsURwR2PD7o.png"
+          },
+          "description": "[Portfolio](https://www.foriio.com/delf001) | [Pixiv](https://www.pixiv.net/en/users/644670/illustrations) | [Twitter](https://twitter.com/DELF_001) | [Bluesky](https://bsky.app/profile/delf001.bsky.social)",
+          "siteUrl": "https://anilist.co/staff/139179"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 206853,
+          "name": {
+            "first": "Yoshitsune",
+            "last": "Tatsutomi",
+            "native": "達富義経"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/206853"
+        }
+      },
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 239930,
+          "name": {
+            "first": "Jarrett",
+            "last": "Martin",
+            "native": "ジャレット・マーティン"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n239930-IpXQMOcvUBBi.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n239930-IpXQMOcvUBBi.jpg"
+          },
+          "description": "[Website](https://www.tonarianimation.com/) | [Twitter](https://twitter.com/JarrettHMartin)\n\nCEO of Tonari Animation",
+          "siteUrl": "https://anilist.co/staff/239930"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 287328,
+          "name": {
+            "first": "Bellamy",
+            "last": "Brooks",
+            "native": "Bellamy Luna Brooks"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287328-NVXnxkvil3t9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n287328-NVXnxkvil3t9.jpg"
+          },
+          "description": "[Website](https://bellamybrooks.com/) | [Twitter](https://twitter.com/bythebelle) | [Facebook](https://www.facebook.com/bellamyluna)\n\nAnimator/producer working in Tokyo, affiliated with Tonari Animation. ",
+          "siteUrl": "https://anilist.co/staff/287328"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 215901,
+          "name": {
+            "first": "EVAKOI",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n215901-S3vG7goqNvrh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n215901-S3vG7goqNvrh.jpg"
+          },
+          "description": "**[Twitter](https://twitter.com/evakoiani) | [Bluesky](https://bsky.app/profile/evakoiani.bsky.social) | [Instagram](https://www.instagram.com/evakoiani) | [YouTube](https://www.youtube.com/@EVAKOI)**",
+          "siteUrl": "https://anilist.co/staff/215901"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 303069,
+          "name": {
+            "first": "Shelia",
+            "last": "Loewito",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n303069-PO4YadUpuL22.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n303069-PO4YadUpuL22.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/1156634708047872000)",
+          "siteUrl": "https://anilist.co/staff/303069"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 148518,
+          "name": {
+            "first": "Nyki",
+            "last": "Ikyn",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n148518-Zelr8g4LBNxV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n148518-Zelr8g4LBNxV.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/nykiikyn)",
+          "siteUrl": "https://anilist.co/staff/148518"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 342154,
+          "name": {
+            "first": "PUK",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/342154"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 342155,
+          "name": {
+            "first": "Duong",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n342155-aucUCaVVTeRM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n342155-aucUCaVVTeRM.jpg"
+          },
+          "description": "[Twitter](https://x.com/caygiay)\n\nAffiliated with Tonari Animation.",
+          "siteUrl": "https://anilist.co/staff/342155"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 342156,
+          "name": {
+            "first": "Ryan",
+            "last": "Arm",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n342156-hlvQHZBHHFT3.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n342156-hlvQHZBHHFT3.jpg"
+          },
+          "description": "[Twitter](https://x.com/RyanARMoberly)",
+          "siteUrl": "https://anilist.co/staff/342156"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 342157,
+          "name": {
+            "first": "Linnea",
+            "last": "Kataja",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n342157-4zAsf8KsqPWc.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n342157-4zAsf8KsqPWc.jpg"
+          },
+          "description": "[Pixiv](https://www.pixiv.net/en/users/8032914) | [Twitter](https://x.com/keikokup) | [Instagram](https://www.instagram.com/keikokup)\n\nAnimator affiliated with Tonari Animation, also a freelance mangaka.",
+          "siteUrl": "https://anilist.co/staff/342157"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 300361,
+          "name": {
+            "first": "Virginia",
+            "last": "Cortiana",
+            "native": "コルティアナヴィルジニア"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n300361-WACSPPnKWExJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n300361-WACSPPnKWExJ.jpg"
+          },
+          "description": "[Instagram](https://www.instagram.com/virginia.cortiana/)\n\nItalian background artist working in Japan.",
+          "siteUrl": "https://anilist.co/staff/300361"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 287328,
+          "name": {
+            "first": "Bellamy",
+            "last": "Brooks",
+            "native": "Bellamy Luna Brooks"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287328-NVXnxkvil3t9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n287328-NVXnxkvil3t9.jpg"
+          },
+          "description": "[Website](https://bellamybrooks.com/) | [Twitter](https://twitter.com/bythebelle) | [Facebook](https://www.facebook.com/bellamyluna)\n\nAnimator/producer working in Tokyo, affiliated with Tonari Animation. ",
+          "siteUrl": "https://anilist.co/staff/287328"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 315939,
+          "name": {
+            "first": "sailor yon",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n315939-21ZGiDedIsVc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n315939-21ZGiDedIsVc.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/1177723316666109952) | [Instagram](https://www.instagram.com/sailoryon/)\n\n2D animator/illustrator affiliated with Tonari Animation.",
+          "siteUrl": "https://anilist.co/staff/315939"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 330589,
+          "name": {
+            "first": "Jan",
+            "last": "Vegricht",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n330589-SNFZNQjU3NzO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n330589-SNFZNQjU3NzO.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/angry_dango)\n\nAnimator affiliated with Tonari Animation. ",
+          "siteUrl": "https://anilist.co/staff/330589"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 287324,
+          "name": {
+            "first": "Daniel",
+            "last": "Sidaway",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287324-DJThUWre54t8.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n287324-DJThUWre54t8.jpg"
+          },
+          "description": "[Tumblr](https://danielsidaway444.tumblr.com/) | [Twitter](https://twitter.com/i/user/1023362500685963264)",
+          "siteUrl": "https://anilist.co/staff/287324"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 319102,
+          "name": {
+            "first": "Daniel",
+            "last": "Monteiro",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n319102-fYN5BbaupwFI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n319102-fYN5BbaupwFI.png"
+          },
+          "description": "[Twitter](https://twitter.com/dannCMont)",
+          "siteUrl": "https://anilist.co/staff/319102"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 7541,
+          "name": "Tonari Animation",
+          "siteUrl": "https://anilist.co/studio/7541"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 382575,
+          "airingAt": 1722521400,
+          "episode": 1,
+          "mediaId": 179953,
+          "media": {
+            "id": 179953
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 96262,
+      "url": "https://www.youtube.com/watch?v=Q2b8Zsui_0Y",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 282636,
+          "rating": 1,
+          "media": {
+            "id": 179953,
+            "title": {
+              "native": "イケ贄"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 179720,
+            "title": {
+              "native": "DAIDAIDAIファンタジスタ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 294201,
+          "rating": 1,
+          "media": {
+            "id": 179953,
+            "title": {
+              "native": "イケ贄"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 182734,
+            "title": {
+              "native": "さくらんぼメッセージ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 310052,
+          "rating": 1,
+          "media": {
+            "id": 179953,
+            "title": {
+              "native": "イケ贄"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 183520,
+            "title": {
+              "native": "flower rhapsody"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 10
+      },
+      {
+        "score": 60,
+        "amount": 11
+      },
+      {
+        "score": 70,
+        "amount": 17
+      },
+      {
+        "score": 80,
+        "amount": 7
+      },
+      {
+        "score": 90,
+        "amount": 9
+      },
+      {
+        "score": 100,
+        "amount": 5
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 5
+      },
+      {
+        "status": "PLANNING",
+        "amount": 40
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 157
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/179953",
+  "modNotes": null
+}

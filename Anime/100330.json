@@ -1,0 +1,524 @@
+{
+  "id": 100330,
+  "idMal": 32311,
+  "title": {
+    "native": "ビューティフル・ワールド",
+    "romaji": "Beautiful World",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "A music video directed by Tsurumaki Kazuya to promote the movies of Rebuild of Evangelion and the main music theme, \"Beautiful World.\" The video includes both new animation and animation from the film.\n",
+  "startDate": {
+    "year": 2014,
+    "month": 12,
+    "day": 2
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 12,
+    "day": 2
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 3,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": {
+    "id": "jmKRgqWGrWc",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/jmKRgqWGrWc/hqdefault.jpg"
+  },
+  "updatedAt": 1748865966,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100330-UKBfb9nc9QR1.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100330-UKBfb9nc9QR1.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx100330-UKBfb9nc9QR1.png",
+    "color": "#285d78"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "عالم جميل"
+  ],
+  "averageScore": 67,
+  "meanScore": 68,
+  "popularity": 4321,
+  "favourites": 37,
+  "tags": [
+    {
+      "id": 108,
+      "name": "Cyberpunk",
+      "description": "Set in a future of advanced technological and scientific achievements that have resulted in social disorder.",
+      "category": "Theme-Sci-Fi",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1228,
+      "name": "Primarily Teen Cast",
+      "description": "Main cast is mostly composed of teen characters.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 122,
+      "name": "Trains",
+      "description": "Prominently features trains.",
+      "category": "Theme-Other-Vehicle",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2759,
+          "title": {
+            "native": "ヱヴァンゲリヲン新劇場版:序"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 3784,
+          "title": {
+            "native": "ヱヴァンゲリヲン新劇場版:破"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 3785,
+          "title": {
+            "native": "ヱヴァンゲリヲン新劇場版:Q"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 94,
+          "name": {
+            "first": "Asuka Langley",
+            "last": "Souryuu",
+            "native": "惣流・アスカ・ラングレー",
+            "alternative": [
+              "Second Child",
+              "Asuka Langley Shikinami",
+              "Princess"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b94-d631a3Z2KPvd.png"
+          },
+          "siteUrl": "https://anilist.co/character/94"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 89,
+          "name": {
+            "first": "Shinji",
+            "last": "Ikari",
+            "native": "碇シンジ",
+            "alternative": [
+              "Third Child"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89-ZtZhXkh1rITn.png"
+          },
+          "siteUrl": "https://anilist.co/character/89"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 86,
+          "name": {
+            "first": "Rei",
+            "last": "Ayanami",
+            "native": "綾波レイ",
+            "alternative": [
+              "First Child",
+              "Look-alike",
+              "Tentative Name: Rei Ayanami",
+              "アヤナミレイ(仮称)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/86-cA1zL7fyls8E.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/86"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21512,
+          "name": {
+            "first": "Mari",
+            "last": "Makinami Illustrious",
+            "native": "真希波・マリ・イラストリアス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21512-IuVgN5P0zg5P.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b21512-IuVgN5P0zg5P.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21512"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1261,
+          "name": {
+            "first": "Kaworu",
+            "last": "Nagisa",
+            "native": "渚カヲル",
+            "alternative": [
+              "Kaoru",
+              "Tabris"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1261-HYRv3HpsSL92.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1261"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 101076,
+          "name": {
+            "first": "Kazuya",
+            "last": "Tsurumaki",
+            "native": "鶴巻和哉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101076-79vcFv4DG2zs.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101076-79vcFv4DG2zs.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/鶴巻和哉)",
+          "siteUrl": "https://anilist.co/staff/101076"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 100349,
+          "name": {
+            "first": "Hikaru",
+            "last": "Utada",
+            "native": "宇多田ヒカル"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100349-a5S7qchG8EN0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100349-a5S7qchG8EN0.png"
+          },
+          "description": "[Website](https://www.utadahikaru.jp/) | [Youtube](https://www.youtube.com/channel/UChcgcbX3zMBwd0wTJyy2JlA) | [Twitter](https://twitter.com/utadahikaru) | [Instagram](https://www.instagram.com/kuma_power/)\n\nHikaru Utada is a Japanese-American singer-songwriter, composer and producer.\n\nBorn in the United States to Japanese parents, record producer Utada Teruzane and enka singer Keiko Fuji, Utada began to write music and lyrics at an early age and often traveled to Tokyo as a result of their father's job. Eventually, a recording contract with Toshiba-EMI was signed and, under the stage name Cubic U, Utada released their English-language debut album Precious in early 1998, but it was a commercial failure. In the following year, heavily influenced by R&B and dance-pop, their Japanese-language debut First Love was released and became an instant success. Backed by the massive success of singles \"Automatic,\" \"Time Will Tell,\" and \"Movin' On Without You,\" the album sold two million copies in its first week in Japan, topped the Oricon charts for six non-consecutive weeks and went on to sell six million more throughout the rest of 1999. First Love eventually became the country's best-selling album of all time.\n\nBy the end of the '00s, Utada was deemed \"the most influential artist of the decade\" in the Japanese music landscape by The Japan Times. Utada's commercial success has made them one of Japan's top-selling recording artists of all time with over 37 million records sold since launching their career in the late '90s. Twelve of their singles have reached number-one on the Oricon Singles Chart, while ten of their albums have become chart-toppers. Six of their full-length releases are among the country's highest-selling albums of all time, including First Love, Distance and Deep River, which are among the top ten best-selling records of Japan's music history.\n\nUtada has performed theme songs for all of the four [Evangelion](https://anilist.co/anime/2759/) reboot movies, as well as for [Freedom](https://anilist.co/anime/1747/) and [To Your Eternity](https://anilist.co/anime/114535/).\n\nAdditionally, they are also known by international audiences for writing and producing four theme-songs to the video game series Kingdom Hearts.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/100349"
+        }
+      },
+      {
+        "role": "Production",
+        "node": {
+          "id": 140368,
+          "name": {
+            "first": "Tomoyuki",
+            "last": "Ogata",
+            "native": "緒方智幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n140368-Uqed0kwOfZKh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n140368-Uqed0kwOfZKh.png"
+          },
+          "description": "Ogata Tomoyuki is a producer and a board member at Studio Khara.\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/140368"
+        }
+      },
+      {
+        "role": "3DCG",
+        "node": {
+          "id": 168819,
+          "name": {
+            "first": "Ken",
+            "last": "Miyagi",
+            "native": "宮城健"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n168819-FD8ckRNsTXep.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n168819-FD8ckRNsTXep.png"
+          },
+          "description": "__Ken Miyagi__ is a Japanese director, who does CG direction.",
+          "siteUrl": "https://anilist.co/staff/168819"
+        }
+      },
+      {
+        "role": "Photography",
+        "node": {
+          "id": 130337,
+          "name": {
+            "first": "Nanae",
+            "last": "Hirabayashi",
+            "native": "平林奈々恵"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/130337"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 103298,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Katou",
+            "native": "加藤浩"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/103298-8FemUyDCTnDX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/103298-8FemUyDCTnDX.jpg"
+          },
+          "description": "He is an art director and supervisor, who was a long time member of Bihou until 2007 when he went to head the background art department in Totonyan. He belongs to the anime production group Neko-Nanban-Tei together with director Watanabe Takashi and his wife Miyata Naomi.",
+          "siteUrl": "https://anilist.co/staff/103298"
+        }
+      },
+      {
+        "role": "Photography",
+        "node": {
+          "id": 146948,
+          "name": {
+            "first": "Junpei",
+            "last": "Takatsu",
+            "native": "高津純平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146948-iww9wHPeu4di.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146948-iww9wHPeu4di.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/276505633)\n\nAffiliated with company Raiden Film.",
+          "siteUrl": "https://anilist.co/staff/146948"
+        }
+      },
+      {
+        "role": "Production",
+        "node": {
+          "id": 173527,
+          "name": {
+            "first": "Takatoshi",
+            "last": "Okajima",
+            "native": "岡島隆敏"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/173527"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 173528,
+          "name": {
+            "first": "Eimi",
+            "last": "Lee",
+            "native": "李英美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/173528"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 47,
+          "name": "Studio Khara",
+          "siteUrl": "https://anilist.co/studio/47"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 166627,
+          "rating": 3,
+          "media": {
+            "id": 100330,
+            "title": {
+              "native": "ビューティフル・ワールド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 97731,
+            "title": {
+              "native": "シェルター"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 167691,
+          "rating": 8,
+          "media": {
+            "id": 100330,
+            "title": {
+              "native": "ビューティフル・ワールド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 101092,
+            "title": {
+              "native": "桜流し"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 23
+      },
+      {
+        "score": 20,
+        "amount": 19
+      },
+      {
+        "score": 30,
+        "amount": 45
+      },
+      {
+        "score": 40,
+        "amount": 68
+      },
+      {
+        "score": 50,
+        "amount": 283
+      },
+      {
+        "score": 60,
+        "amount": 407
+      },
+      {
+        "score": 70,
+        "amount": 449
+      },
+      {
+        "score": 80,
+        "amount": 331
+      },
+      {
+        "score": 90,
+        "amount": 258
+      },
+      {
+        "score": 100,
+        "amount": 162
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 39
+      },
+      {
+        "status": "PLANNING",
+        "amount": 439
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 3812
+      },
+      {
+        "status": "DROPPED",
+        "amount": 20
+      },
+      {
+        "status": "PAUSED",
+        "amount": 11
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/100330",
+  "modNotes": null
+}

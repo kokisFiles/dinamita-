@@ -1,0 +1,297 @@
+{
+  "id": 145705,
+  "idMal": null,
+  "title": {
+    "native": "dTVオリジナルアニメ 妖怪ウォッチ♪",
+    "romaji": "dTV Original Anime: Youkai Watch ♪",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "dTV-exclusive special short anime of <i>Youkai Watch ♪.</i>",
+  "startDate": {
+    "year": 2021,
+    "month": 12,
+    "day": 24
+  },
+  "endDate": {
+    "year": 2022,
+    "month": 1,
+    "day": 7
+  },
+  "season": "FALL",
+  "seasonYear": 2021,
+  "seasonInt": 214,
+  "episodes": 3,
+  "duration": 9,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": {
+    "id": "A-YuYPdkW5o",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/A-YuYPdkW5o/hqdefault.jpg"
+  },
+  "updatedAt": 1748771658,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145705-nLfvAKxLBsHN.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145705-nLfvAKxLBsHN.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145705-nLfvAKxLBsHN.png",
+    "color": "#f15d1a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 44,
+  "popularity": 77,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 233,
+      "name": "Youkai",
+      "description": "Prominently features supernatural creatures from Japanese folklore.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 130445,
+          "title": {
+            "native": "妖怪ウォッチ♪"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 162153,
+          "name": {
+            "first": "Whisper",
+            "last": null,
+            "native": "ウィスパー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162153-9bR1iZGvwpNn.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162153-9bR1iZGvwpNn.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/162153"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 162151,
+          "name": {
+            "first": "Keita",
+            "last": "Amano",
+            "native": "天野景太",
+            "alternative": [
+              "Nathan Adams"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162151-CGmeAM3OxRle.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162151-CGmeAM3OxRle.png"
+          },
+          "siteUrl": "https://anilist.co/character/162151"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 162152,
+          "name": {
+            "first": "Jibanyan",
+            "last": null,
+            "native": "ジバニャン",
+            "alternative": [
+              "Akamaru"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162152-12KGEgbSWcA3.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162152-12KGEgbSWcA3.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/162152"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 210075,
+          "name": {
+            "first": "Komasan",
+            "last": null,
+            "native": "コマさん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210075-YVM6VIrx1S0r.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210075-YVM6VIrx1S0r.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/210075"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 210077,
+          "name": {
+            "first": "Komajirou",
+            "last": null,
+            "native": "コマじろう",
+            "alternative": [
+              "Komajiro"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210077-sXWharGIguJA.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210077-sXWharGIguJA.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/210077"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 207911,
+          "name": {
+            "first": "Ryousuke",
+            "last": "Senbo",
+            "native": "泉保良輔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n207911-1YvIlTz5TsDU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n207911-1YvIlTz5TsDU.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/207911"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 28,
+          "name": "OLM",
+          "siteUrl": "https://anilist.co/studio/28"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 48753,
+      "url": "https://youtu.be/A-YuYPdkW5o",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 2
+      },
+      {
+        "score": 60,
+        "amount": 4
+      },
+      {
+        "score": 70,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 4
+      },
+      {
+        "status": "PLANNING",
+        "amount": 31
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 28
+      },
+      {
+        "status": "DROPPED",
+        "amount": 13
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/145705",
+  "modNotes": null
+}

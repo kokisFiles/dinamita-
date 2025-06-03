@@ -1,0 +1,300 @@
+{
+  "id": 97900,
+  "idMal": null,
+  "title": {
+    "native": "ドラゴンボール マイナス",
+    "romaji": "Dragon Ball Minus: Hanatareta Unmei no Kodomo",
+    "english": "Dragon Ball Minus: The Departure of the Fated Child"
+  },
+  "type": "MANGA",
+  "format": "ONE_SHOT",
+  "status": "FINISHED",
+  "description": "The story covers the time period up to Goku being sent to Earth, and marks the first appearance of Goku's mother Gine in the Dragon Ball franchise. \n<br><br>\nThis is a special manga featured in the collected volume of <a href=\"https://anilist.co/manga/84627/GingaPatrolJako\">Jaco the Galactic Patrolman</a>\n<br><br>\n(Source: Wikia)",
+  "startDate": {
+    "year": 2014,
+    "month": 4,
+    "day": 4
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 4,
+    "day": 4
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 1,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748650135,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97900-EqScEWX0U6Tj.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97900-EqScEWX0U6Tj.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx97900-EqScEWX0U6Tj.png",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": 58,
+  "meanScore": 60,
+  "popularity": 826,
+  "favourites": 8,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 84627,
+          "title": {
+            "native": "銀河パトロールジャコ"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 30042,
+          "title": {
+            "native": "ドラゴンボール"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 101302,
+          "title": {
+            "native": "ドラゴンボール超 ブロリー"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 246,
+          "name": {
+            "first": "Gokuu",
+            "last": "Son",
+            "native": "孫悟空",
+            "alternative": [
+              "Goku Son"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/246-wsRRr6z1kii8.png"
+          },
+          "siteUrl": "https://anilist.co/character/246"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 6122,
+          "name": {
+            "first": "Bardock",
+            "last": null,
+            "native": "バーダック",
+            "alternative": [
+              "Burdock"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6122-N8XCxV2YPd1r.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b6122-N8XCxV2YPd1r.png"
+          },
+          "siteUrl": "https://anilist.co/character/6122"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 135959,
+          "name": {
+            "first": "Jaco",
+            "last": "Teirimentenpibosshi",
+            "native": "ティリメンテンピボッシジャコ",
+            "alternative": [
+              "Jako Teirimentenpibosshi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135959-DG9o34o6jQ7e.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135959-DG9o34o6jQ7e.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/135959"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 132370,
+          "name": {
+            "first": "Gine",
+            "last": null,
+            "native": "ギネ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b132370-HIVr6golUBKs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b132370-HIVr6golUBKs.png"
+          },
+          "siteUrl": "https://anilist.co/character/132370"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 96901,
+          "name": {
+            "first": "Akira",
+            "last": "Toriyama",
+            "native": "鳥山明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96901-f40brDFeIlzf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96901-f40brDFeIlzf.png"
+          },
+          "description": "He debuted in 1979 with the story [Wonder Island](https://anilist.co/manga/112596/Wonder-Island/), published in Weekly Shounen Jump, and first gained popularity for the anime and manga series [Dr. Slump](https://anilist.co/manga/30796/Dr-Slump/), originally serialized weekly in Shounen Jump from 1980 to 1984. In 1982, he won the Shogakukan Manga Award for Dr. Slump for best shounen or shoujo manga series of the year.  In 1984, Toriyama was responsible for developing [Dragon Ball](https://anilist.co/manga/30042/Dragon-Ball/) which was initially serialized in Weekly Shōnen Jump. It became an instant accomplishment—primarily selling over 35,000,000 copies in Japan, Dragon Ball eventually became a record-breaking best seller with over 120,000,000 copies sold. Aside from the Japanese fame, the series was equally successful internationally as well, including in Europe (1988), Canada (1996) and Latin America. Its success encouraged Toriyama to continue working on Dragon Ball from 1984 to 1995. During that eleven-year period, he produced 519 chapters, collected into 42 volumes. Each volume has an average of 200 pages. Moreover, the benefit of the manga led to three anime adaptations, numerous feature-length animated movies, several video games, and mega-merchandising. Toriyama's studio is called \"Bird Studio\", which is a play on his name, \"tori\" meaning \"bird.\"\n\nToriyama married his wife [Yoshimi Kato](https://anilist.co/staff/311142/Nachi-Mikami) on May 2, 1982. She is a former manga artist from Nagoya under the pen name \"Nachi Mikami\" and occasionally helped Toriyama and his assistant on Dr. Slump when they were short on time. Together with his wife, he had two children: a son born in 1987, and a daughter born in 1990. He was a well-known recluse, who avoided appearing in public or media.\n\nOn March 8, 2024, it was announced that Toriyama passed away at the age of 68 from acute subdural hematoma.",
+          "siteUrl": "https://anilist.co/staff/96901"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 56832,
+          "rating": 1,
+          "media": {
+            "id": 97900,
+            "title": {
+              "native": "ドラゴンボール マイナス"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30896,
+            "title": {
+              "native": "カジカ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 23
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 13
+      },
+      {
+        "score": 40,
+        "amount": 24
+      },
+      {
+        "score": 50,
+        "amount": 40
+      },
+      {
+        "score": 60,
+        "amount": 71
+      },
+      {
+        "score": 70,
+        "amount": 81
+      },
+      {
+        "score": 80,
+        "amount": 39
+      },
+      {
+        "score": 90,
+        "amount": 26
+      },
+      {
+        "score": 100,
+        "amount": 17
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 26
+      },
+      {
+        "status": "PLANNING",
+        "amount": 146
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 646
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 2
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/97900",
+  "modNotes": null
+}

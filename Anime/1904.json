@@ -1,0 +1,807 @@
+{
+  "id": 1904,
+  "idMal": 1904,
+  "title": {
+    "native": null,
+    "romaji": "Harukanaru Toki no Naka de 2: Shiroki Ryuu no Miko",
+    "english": "In a Distant Time OVA 2"
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "Karin was walking with her friends when suddenly she is brought by the White Dragon to the land of Kyou. She was chosen as the new priestess of the White Dragon and she must fight against the evil with the help of her guardians while meantime, she keeps having visions of a mysterious man...",
+  "startDate": {
+    "year": 2003,
+    "month": 3,
+    "day": 23
+  },
+  "endDate": {
+    "year": 2005,
+    "month": 2,
+    "day": 2
+  },
+  "season": "SPRING",
+  "seasonYear": 2003,
+  "seasonInt": 32,
+  "episodes": 3,
+  "duration": 30,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VISUAL_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748540888,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1904.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1904.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/1904.jpg",
+    "color": "#e4506b"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "synonyms": [],
+  "averageScore": 57,
+  "meanScore": 60,
+  "popularity": 1071,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 15,
+      "name": "Demons",
+      "description": "Prominently features malevolent otherworldly creatures.",
+      "category": "Cast-Traits",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 25,
+      "name": "Historical",
+      "description": "Partly or completely set during a real period of world history.",
+      "category": "Setting-Time",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 244,
+      "name": "Isekai",
+      "description": "Features characters being transported into an alternate world setting and having to adapt to their new surroundings.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 123,
+      "name": "Male Harem",
+      "description": "Main cast features the protagonist plus several male characters who are romantically interested in them.",
+      "category": "Theme-Romance",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 247,
+          "title": {
+            "native": "遙かなる時空の中で〜八葉抄〜"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 3227,
+          "title": {
+            "native": "遙かなる時空の中で3 紅の月"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 647,
+          "title": {
+            "native": "遙かなる時空の中で 〜紫陽花ゆめ語り〜"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4021,
+          "name": {
+            "first": "Karin",
+            "last": "Takakura",
+            "native": "高倉花梨",
+            "alternative": [
+              "Ryujin no Miko "
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4021.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4021.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4021"
+        },
+        "voiceActors": [
+          {
+            "id": 95071,
+            "name": {
+              "first": "Tomoko",
+              "last": "Kawakami",
+              "native": "川上とも子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95071-bmS9MxvAdsTr.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95071-bmS9MxvAdsTr.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95071"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4022,
+          "name": {
+            "first": "Yasutsugu",
+            "last": "Abe no",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4022.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4022.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4022"
+        },
+        "voiceActors": [
+          {
+            "id": 95017,
+            "name": {
+              "first": "Akira",
+              "last": "Ishida",
+              "native": "石田彰"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95017-GSRcmQ97a8ZT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95017"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4023,
+          "name": {
+            "first": "Hisui",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4023.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4023.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4023"
+        },
+        "voiceActors": [
+          {
+            "id": 95021,
+            "name": {
+              "first": "Kazuhiko",
+              "last": "Inoue",
+              "native": "井上和彦"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95021-9qAoAn6GNZ3S.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95021-9qAoAn6GNZ3S.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95021"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4024,
+          "name": {
+            "first": "Yoritada",
+            "last": "Minamoto no",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4024.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4024.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4024"
+        },
+        "voiceActors": [
+          {
+            "id": 95022,
+            "name": {
+              "first": "Shinichirou",
+              "last": "Miki",
+              "native": "三木眞一郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95022-BXggjIr4KHqd.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95022"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4025,
+          "name": {
+            "first": "Katsuzane",
+            "last": "no Taira",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4025.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4025.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4025"
+        },
+        "voiceActors": [
+          {
+            "id": 95001,
+            "name": {
+              "first": "Tomokazu",
+              "last": "Seki",
+              "native": "関智一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95001-vm0RtZhmlzhK.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95001"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4026,
+          "name": {
+            "first": "Yukitaka",
+            "last": "no Fujiwara",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4026.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4026.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4026"
+        },
+        "voiceActors": [
+          {
+            "id": 95445,
+            "name": {
+              "first": "Shigeru",
+              "last": "Nakahara",
+              "native": "中原茂"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/445.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/445.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95445"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4027,
+          "name": {
+            "first": "Akifumi",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4027.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4027.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4027"
+        },
+        "voiceActors": [
+          {
+            "id": 95344,
+            "name": {
+              "first": "Kouki",
+              "last": "Miyata",
+              "native": "宮田幸季"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95344-wYgLhxYeWEp4.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95344-wYgLhxYeWEp4.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95344"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4028,
+          "name": {
+            "first": "Motomi",
+            "last": "no Minamoto",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4028.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4028.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4028"
+        },
+        "voiceActors": [
+          {
+            "id": 95030,
+            "name": {
+              "first": "Souichirou",
+              "last": "Hoshi",
+              "native": "保志総一朗"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95030-kj64Uy6Zr3bq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95030-kj64Uy6Zr3bq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95030"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4029,
+          "name": {
+            "first": "Isato",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4029.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4029.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4029"
+        },
+        "voiceActors": [
+          {
+            "id": 95047,
+            "name": {
+              "first": "Naozumi",
+              "last": "Takahashi",
+              "native": "高橋直純"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95047-TpYPJprWRBE3.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95047-TpYPJprWRBE3.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95047"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4030,
+          "name": {
+            "first": "Yukari",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4030.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4030.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4030"
+        },
+        "voiceActors": [
+          {
+            "id": 95128,
+            "name": {
+              "first": "Ikue",
+              "last": "Ootani",
+              "native": "大谷育江"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95128-9YWpE1d2U8Sj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95128"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4031,
+          "name": {
+            "first": "Misono",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4031.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4031.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4031"
+        },
+        "voiceActors": [
+          {
+            "id": 95128,
+            "name": {
+              "first": "Ikue",
+              "last": "Ootani",
+              "native": "大谷育江"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95128-9YWpE1d2U8Sj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95128"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 27164,
+          "name": {
+            "first": "Kazuhito",
+            "last": null,
+            "native": "和仁",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/27164.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/27164.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/27164"
+        },
+        "voiceActors": [
+          {
+            "id": 95119,
+            "name": {
+              "first": "Yuu",
+              "last": "Asakawa",
+              "native": "浅川悠"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95119-ExV6YzTBbIZE.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95119-ExV6YzTBbIZE.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95119"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 111397,
+          "name": {
+            "first": "Aki",
+            "last": "Tsunaki",
+            "native": "つなきあき"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/16397.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/16397.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/tunaki_walkon)",
+          "siteUrl": "https://anilist.co/staff/111397"
+        }
+      },
+      {
+        "role": "Director of Photography (ep 1)",
+        "node": {
+          "id": 119685,
+          "name": {
+            "first": "Yoshihisa",
+            "last": "Ooyama",
+            "native": "大山佳久"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119685-VORRXu6qyVWb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119685-VORRXu6qyVWb.png"
+          },
+          "description": "[Twitter](https://twitter.com/o3x) | [Instagram](https://www.instagram.com/o3x/) | [Website](http://www.gernika.jp/staff/o3x/) | [Blog](https://ameblo.jp/o3x/)",
+          "siteUrl": "https://anilist.co/staff/119685"
+        }
+      },
+      {
+        "role": "Animation Director (OP, ep 1)",
+        "node": {
+          "id": 124000,
+          "name": {
+            "first": "Akemi",
+            "last": "Hayashi",
+            "native": "林明美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124000-TkcaYQOuPSdx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124000-TkcaYQOuPSdx.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/141121934) | [Instagram](https://www.instagram.com/akemi_h_0808/) | [Blog](http://replica08.web.fc2.com/index.html)",
+          "siteUrl": "https://anilist.co/staff/124000"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 124000,
+          "name": {
+            "first": "Akemi",
+            "last": "Hayashi",
+            "native": "林明美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124000-TkcaYQOuPSdx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124000-TkcaYQOuPSdx.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/141121934) | [Instagram](https://www.instagram.com/akemi_h_0808/) | [Blog](http://replica08.web.fc2.com/index.html)",
+          "siteUrl": "https://anilist.co/staff/124000"
+        }
+      },
+      {
+        "role": "Key Animation (ep 1)",
+        "node": {
+          "id": 124369,
+          "name": {
+            "first": "Ayako",
+            "last": "Hata",
+            "native": "秦綾子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124369-U46SRoKo3AOg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124369-U46SRoKo3AOg.png"
+          },
+          "description": "[Twitter](https://twitter.com/NG5Z97ylxMQEdha)\n\nOriginating from [Telecom Animation Film](https://anilist.co/studio/94/).",
+          "siteUrl": "https://anilist.co/staff/124369"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 97875,
+          "name": {
+            "first": "Tooko",
+            "last": "Mizuno",
+            "native": "水野十子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "__Zodiac:__ Leo\n\nNot to be confused with the BL mangaka [Mizuno Touko](https://anilist.co/staff/98079).",
+          "siteUrl": "https://anilist.co/staff/97875"
+        }
+      },
+      {
+        "role": "ADR Director (German)",
+        "node": {
+          "id": 167643,
+          "name": {
+            "first": "Marc",
+            "last": "Stenzel",
+            "native": null
+          },
+          "language": "GERMAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/167643"
+        }
+      },
+      {
+        "role": "Script (German)",
+        "node": {
+          "id": 167643,
+          "name": {
+            "first": "Marc",
+            "last": "Stenzel",
+            "native": null
+          },
+          "language": "GERMAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/167643"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 96,
+          "name": "Yumeta Company",
+          "siteUrl": "https://anilist.co/studio/96"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 20722,
+      "rank": 22,
+      "type": "RATED",
+      "format": "OVA",
+      "year": 2003,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 20759,
+      "rank": 29,
+      "type": "POPULAR",
+      "format": "OVA",
+      "year": 2003,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 23629,
+          "rating": 2,
+          "media": {
+            "id": 1904,
+            "title": {
+              "native": null
+            }
+          },
+          "mediaRecommendation": {
+            "id": 116073,
+            "title": {
+              "native": "愛姫MEGOHIME"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 10
+      },
+      {
+        "score": 20,
+        "amount": 6
+      },
+      {
+        "score": 30,
+        "amount": 10
+      },
+      {
+        "score": 40,
+        "amount": 27
+      },
+      {
+        "score": 50,
+        "amount": 39
+      },
+      {
+        "score": 60,
+        "amount": 37
+      },
+      {
+        "score": 70,
+        "amount": 36
+      },
+      {
+        "score": 80,
+        "amount": 9
+      },
+      {
+        "score": 90,
+        "amount": 45
+      },
+      {
+        "score": 100,
+        "amount": 7
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 136
+      },
+      {
+        "status": "PLANNING",
+        "amount": 360
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 513
+      },
+      {
+        "status": "DROPPED",
+        "amount": 32
+      },
+      {
+        "status": "PAUSED",
+        "amount": 30
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/1904",
+  "modNotes": null
+}

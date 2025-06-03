@@ -1,0 +1,509 @@
+{
+  "id": 7405,
+  "idMal": 7405,
+  "title": {
+    "native": "ジャンケンマン",
+    "romaji": "Jankenman",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 1991,
+    "month": 4,
+    "day": 4
+  },
+  "endDate": {
+    "year": 1992,
+    "month": 3,
+    "day": 26
+  },
+  "season": "SPRING",
+  "seasonYear": 1991,
+  "seasonInt": 912,
+  "episodes": 51,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748280370,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7405.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7405.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/7405.jpg",
+    "color": "#d6ae1a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure"
+  ],
+  "synonyms": [],
+  "averageScore": 59,
+  "meanScore": 67,
+  "popularity": 281,
+  "favourites": 6,
+  "tags": [
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 10247,
+          "title": {
+            "native": "ジャンケンマン 怪獣大決戦"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 28220,
+          "name": {
+            "first": "Aki",
+            "last": "Kozou",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28220"
+        },
+        "voiceActors": [
+          {
+            "id": 95014,
+            "name": {
+              "first": "Megumi",
+              "last": "Hayashibara",
+              "native": "林原めぐみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95014-tFYQYYhlVOF0.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95014-tFYQYYhlVOF0.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95014"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 28219,
+          "name": {
+            "first": "Jankenman",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28219"
+        },
+        "voiceActors": [
+          {
+            "id": 95208,
+            "name": {
+              "first": "Ai",
+              "last": "Orikasa",
+              "native": "折笠愛"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95208-DIfpWvWN401M.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95208-DIfpWvWN401M.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95208"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 28221,
+          "name": {
+            "first": "Ururun",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28221"
+        },
+        "voiceActors": [
+          {
+            "id": 95904,
+            "name": {
+              "first": "Chisa",
+              "last": "Yokoyama",
+              "native": "横山智佐"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95904-Hwjlrw4tCDMl.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95904-Hwjlrw4tCDMl.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95904"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Script (eps 3, 14, 36, 45)",
+        "node": {
+          "id": 109439,
+          "name": {
+            "first": "Naruhisa",
+            "last": "Arakawa",
+            "native": "荒川稔久"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109439-uqgjFZbNWrCR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n109439-uqgjFZbNWrCR.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/荒川稔久)\n\nMarried to fellow scriptwriter [Hiroko Naka](https://anilist.co/staff/181820/).",
+          "siteUrl": "https://anilist.co/staff/109439"
+        }
+      },
+      {
+        "role": "Storyboard (eps 3, 8, 11, 14, 18, 23, 28, 33, 37, 48)",
+        "node": {
+          "id": 115140,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Yoshida",
+            "native": "吉田浩"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "\n_Note: Not to be confused with the [composite artist](https://anilist.co/staff/154403/)._",
+          "siteUrl": "https://anilist.co/staff/115140"
+        }
+      },
+      {
+        "role": "Episode Director (eps 3, 8, 11, 14, 18, 23, 28, 33, 37)",
+        "node": {
+          "id": 115140,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Yoshida",
+            "native": "吉田浩"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "\n_Note: Not to be confused with the [composite artist](https://anilist.co/staff/154403/)._",
+          "siteUrl": "https://anilist.co/staff/115140"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 115631,
+          "name": {
+            "first": "Nobuyoshi",
+            "last": "Habara",
+            "native": "羽原信義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115631-c5AtIUKyTbds.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115631-c5AtIUKyTbds.png"
+          },
+          "description": "[Twitter](https://twitter.com/NobuyoshiHabara)\n\nMarried to [Kumiko Habara](https://anilist.co/staff/148694/).",
+          "siteUrl": "https://anilist.co/staff/115631"
+        }
+      },
+      {
+        "role": "Script (ep 46)",
+        "node": {
+          "id": 107198,
+          "name": {
+            "first": "Jukki",
+            "last": "Hanada",
+            "native": "花田十輝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107198-VFEYV6mJjsAF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107198-VFEYV6mJjsAF.png"
+          },
+          "description": "[Twitter](https://twitter.com/oitan125) | [Wiki (jp)](https://ja.wikipedia.org/wiki/花田十輝)\n\nJukki Hanada is a Japanese screenwriter and novelist. He is the grandson of literary critic and essayist Kiyoteru Hanada. He formerly belonged to [Takao Koyama's](https://anilist.co/staff/117575/Takao-Koyama) Brother Noppo anime scenario house. He's currently affiliated with SATZ.\n\nHe's a big fan of professional baseball and supports the Hiroshima Toyo Carp.",
+          "siteUrl": "https://anilist.co/staff/107198"
+        }
+      },
+      {
+        "role": "Storyboard (eps 2, 7, 12, 19, 21, 25)",
+        "node": {
+          "id": 105248,
+          "name": {
+            "first": "Naohito",
+            "last": "Takahashi",
+            "native": "高橋ナオヒト"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105248-38FEWOQSiNSU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105248-38FEWOQSiNSU.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/高橋ナオヒト)",
+          "siteUrl": "https://anilist.co/staff/105248"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 16,
+          "name": "TV Tokyo",
+          "siteUrl": "https://anilist.co/studio/16"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 351,
+          "name": "Big West",
+          "siteUrl": "https://anilist.co/studio/351"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 196,
+          "name": "Ashi Productions",
+          "siteUrl": "https://anilist.co/studio/196"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 1067,
+      "rank": 25,
+      "type": "RATED",
+      "format": "TV",
+      "year": 1991,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 1101,
+      "rank": 29,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 1991,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 313313,
+          "rating": 1,
+          "media": {
+            "id": 7405,
+            "title": {
+              "native": "ジャンケンマン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 9061,
+            "title": {
+              "native": "RPG伝説ヘポイ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 313315,
+          "rating": 1,
+          "media": {
+            "id": 7405,
+            "title": {
+              "native": "ジャンケンマン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 9028,
+            "title": {
+              "native": "江戸っ子ボーイ がってん太助"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 313317,
+          "rating": 3,
+          "media": {
+            "id": 7405,
+            "title": {
+              "native": "ジャンケンマン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2471,
+            "title": {
+              "native": "ドラえもん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 313319,
+          "rating": 1,
+          "media": {
+            "id": 7405,
+            "title": {
+              "native": "ジャンケンマン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1960,
+            "title": {
+              "native": "それいけ!アンパンマン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 313321,
+          "rating": 1,
+          "media": {
+            "id": 7405,
+            "title": {
+              "native": "ジャンケンマン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 5201,
+            "title": {
+              "native": "サラダ十勇士トマトマン"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 6
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 17
+      },
+      {
+        "score": 60,
+        "amount": 9
+      },
+      {
+        "score": 70,
+        "amount": 18
+      },
+      {
+        "score": 80,
+        "amount": 55
+      },
+      {
+        "score": 90,
+        "amount": 9
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 13
+      },
+      {
+        "status": "PLANNING",
+        "amount": 66
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 151
+      },
+      {
+        "status": "DROPPED",
+        "amount": 39
+      },
+      {
+        "status": "PAUSED",
+        "amount": 12
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/7405",
+  "modNotes": null
+}

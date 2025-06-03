@@ -1,0 +1,300 @@
+{
+  "id": 90721,
+  "idMal": 67821,
+  "title": {
+    "native": "ペルソナ×探偵NAOTO",
+    "romaji": "Persona x Tantei Naoto",
+    "english": "Persona x Detective Naoto"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A spin-off set one year after the end of Persona 4, Naoto is asked to investigate the mysterious disappearances of two Yagakoro students by an old detective friend, Touko Aoi. There, she is partnered with Sousei Kurogami, a mechanical detective and a polar opposite to her in terms of personality and methodology. In their first encounter, she awakens to a new persona Amatsu Mikaboshi, which enables her to amplify Sousei's persona ability, Tsukuyomi. Together with Sousei, she discovers the Midnight Site, an anonymous site where judgment is passed on others by five judges named after figures in Japanese mythology—Uzume, Sarutahiko, Omoikane, Tajikarao, and Futotama.\r\nHowever, it quickly becomes apparent that this case and another under Touko's supervision are related when one of the five judges turns up dead with ballistics pointing to a missing police officer's gun. Naoto and the others must discover the identity of the other judges to protect them and find out the culprit who seeks to kill them.",
+  "startDate": {
+    "year": 2012,
+    "month": 11,
+    "day": 27
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 12,
+    "day": 27
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 20,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748872243,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90721-NT8G28u9W2pc.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90721-NT8G28u9W2pc.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/90721-NT8G28u9W2pc.jpg",
+    "color": "#c9506b"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Mystery",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 69,
+  "popularity": 337,
+  "favourites": 6,
+  "tags": [
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 40580,
+          "title": {
+            "native": "ペルソナ4"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 68155,
+          "title": {
+            "native": "ペルソナ×探偵NAOTO"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 67127,
+          "name": {
+            "first": "Sousei",
+            "last": "Kurogami",
+            "native": null,
+            "alternative": [
+              "Anti-Shadow Weapon Type R-00 Genesis"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/67127.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/67127.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/67127"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16249,
+          "name": {
+            "first": "Naoto",
+            "last": "Shirogane",
+            "native": "白鐘直斗",
+            "alternative": [
+              "Detective Prince"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16249-n2mo5vNqHv0Q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16249-n2mo5vNqHv0Q.png"
+          },
+          "siteUrl": "https://anilist.co/character/16249"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 251476,
+          "name": {
+            "first": "Touko",
+            "last": "Aoi",
+            "native": "蒼井瞳子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251476-9axES1QaGGHQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251476-9axES1QaGGHQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/251476"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Art",
+        "node": {
+          "id": 97257,
+          "name": {
+            "first": "Satoshi",
+            "last": "Shiki",
+            "native": "士貴智志"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2257.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2257.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/shikisatoshi)",
+          "siteUrl": "https://anilist.co/staff/97257"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 113153,
+          "name": {
+            "first": "Natsuki",
+            "last": "Mamiya",
+            "native": "間宮夏生"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113153-QjMphbHxYHBE.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n113153-QjMphbHxYHBE.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/maminatu)",
+          "siteUrl": "https://anilist.co/staff/113153"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 116211,
+          "name": {
+            "first": "ATLUS",
+            "last": "",
+            "native": "アトラス株式会社"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116211-2CahhHyiVvAW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116211-2CahhHyiVvAW.png"
+          },
+          "description": "ATLUS (株式会社アトラス Kabushiki-gaisha Atorasu) is a Japanese computer and video game developer, publisher, and distributor based in Tokyo, Japan, best known for developing the role-playing video game franchise Megami Tensei and the surgical simulation/visual novel franchise Trauma Center.  (Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/116211"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 46189,
+          "rating": 3,
+          "media": {
+            "id": 90721,
+            "title": {
+              "native": "ペルソナ×探偵NAOTO"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 40580,
+            "title": {
+              "native": "ペルソナ4"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 4
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 10
+      },
+      {
+        "score": 70,
+        "amount": 4
+      },
+      {
+        "score": 80,
+        "amount": 5
+      },
+      {
+        "score": 90,
+        "amount": 5
+      },
+      {
+        "score": 100,
+        "amount": 8
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 19
+      },
+      {
+        "status": "PLANNING",
+        "amount": 231
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 65
+      },
+      {
+        "status": "DROPPED",
+        "amount": 13
+      },
+      {
+        "status": "PAUSED",
+        "amount": 9
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/90721",
+  "modNotes": null
+}

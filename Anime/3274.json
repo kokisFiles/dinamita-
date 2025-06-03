@@ -1,0 +1,540 @@
+{
+  "id": 3274,
+  "idMal": 3274,
+  "title": {
+    "native": "キン肉マン 大暴れ！正義超人",
+    "romaji": "Kinnikuman: Daiabare! Segi Choujin",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "",
+  "startDate": {
+    "year": 1984,
+    "month": 12,
+    "day": 22
+  },
+  "endDate": {
+    "year": 1984,
+    "month": 12,
+    "day": 22
+  },
+  "season": "FALL",
+  "seasonYear": 1984,
+  "seasonInt": 844,
+  "episodes": 1,
+  "duration": 48,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748804195,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3274-hBwHXHQPRgbF.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3274-hBwHXHQPRgbF.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3274-hBwHXHQPRgbF.jpg",
+    "color": "#e46b50"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sports"
+  ],
+  "synonyms": [
+    "Kinnikuman: Dai Abareru! Seigi Choujin",
+    "Kinnikuman: Great Riot! Justice Superman",
+    "Kinnikuman Movie 2"
+  ],
+  "averageScore": 61,
+  "meanScore": 68,
+  "popularity": 459,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 231,
+      "name": "Wrestling",
+      "description": "Centers around the sport of wrestling.",
+      "category": "Theme-Game-Sport",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 3273,
+          "title": {
+            "native": "キン肉マン 奪われたチャンピオンベルト"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 3275,
+          "title": {
+            "native": "キン肉マン 正義超人ＶＳ古代超人"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 3272,
+          "title": {
+            "native": "キン肉マン"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 8079,
+          "name": {
+            "first": "Ramenman",
+            "last": "",
+            "native": "ラーメンマン",
+            "alternative": [
+              "Victory"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8079-LPMhEDGXSfzj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8079-LPMhEDGXSfzj.png"
+          },
+          "siteUrl": "https://anilist.co/character/8079"
+        },
+        "voiceActors": [
+          {
+            "id": 100446,
+            "name": {
+              "first": "Eiji",
+              "last": "Kanie",
+              "native": "蟹江栄司"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5446.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5446.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/100446"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 25099,
+          "name": {
+            "first": "Bibimba",
+            "last": "Kinniku",
+            "native": "キン肉ビビンバ",
+            "alternative": [
+              "Belinda Muscle"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b25099-ISLSrZCse9J4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b25099-ISLSrZCse9J4.png"
+          },
+          "siteUrl": "https://anilist.co/character/25099"
+        },
+        "voiceActors": [
+          {
+            "id": 96446,
+            "name": {
+              "first": "Yuriko",
+              "last": "Yamamoto",
+              "native": "山本百合子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96446-RvbWlszQjfYu.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96446-RvbWlszQjfYu.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96446"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 41780,
+          "name": {
+            "first": "Robin Mask",
+            "last": null,
+            "native": "ロビン・マスク",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41780-7se6R8uzzvfj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b41780-7se6R8uzzvfj.png"
+          },
+          "siteUrl": "https://anilist.co/character/41780"
+        },
+        "voiceActors": [
+          {
+            "id": 95744,
+            "name": {
+              "first": "Daisuke",
+              "last": "Gouri",
+              "native": "郷里大輔"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95744-Iu1p0eNvShfN.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95744-Iu1p0eNvShfN.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95744"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 25096,
+          "name": {
+            "first": "Terryman",
+            "last": null,
+            "native": "テリーマン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b25096-EwIk2XsybVdQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b25096-EwIk2XsybVdQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/25096"
+        },
+        "voiceActors": [
+          {
+            "id": 95234,
+            "name": {
+              "first": "Hideyuki",
+              "last": "Tanaka",
+              "native": "田中秀幸"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95234-YAu7XmoSIIS7.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95234-YAu7XmoSIIS7.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95234"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3364,
+          "name": {
+            "first": "Suguru",
+            "last": "Kinniku",
+            "native": "キン肉スグル",
+            "alternative": [
+              "Kinnikuman"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3364-EvjkHz7VwscQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3364-EvjkHz7VwscQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3364"
+        },
+        "voiceActors": [
+          {
+            "id": 95416,
+            "name": {
+              "first": "Akira",
+              "last": "Kamiya",
+              "native": "神谷明"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95416-8rk0Oq3ZXYjt.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95416-8rk0Oq3ZXYjt.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95416"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 25095,
+          "name": {
+            "first": "Brocken Jr.",
+            "last": null,
+            "native": null,
+            "alternative": [
+              "Blocken Jr."
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b25095-3ChUYUju9qiI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b25095-3ChUYUju9qiI.png"
+          },
+          "siteUrl": "https://anilist.co/character/25095"
+        },
+        "voiceActors": [
+          {
+            "id": 106821,
+            "name": {
+              "first": "Tetsuo",
+              "last": "Mizutori",
+              "native": "水鳥鐵夫"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11821.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11821.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/106821"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 25097,
+          "name": {
+            "first": "Wolfman",
+            "last": null,
+            "native": "ウルフマン",
+            "alternative": [
+              "Rikishiman",
+              "Sosumi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b25097-XB1GfI4pXyqC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b25097-XB1GfI4pXyqC.png"
+          },
+          "siteUrl": "https://anilist.co/character/25097"
+        },
+        "voiceActors": [
+          {
+            "id": 102886,
+            "name": {
+              "first": "Masashi",
+              "last": "Hirose",
+              "native": "広瀬正志"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7886.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/7886.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102886"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97042,
+          "name": {
+            "first": "Yudetamago",
+            "last": "",
+            "native": "ゆでたまご"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97042-YlJXOHZ11Pdz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97042-YlJXOHZ11Pdz.jpg"
+          },
+          "description": "Yudetamago is the pen name of the Japanese mangaka duo consisting of story writer Takashi Shimada and artist Yoshinori Nakai. They are best known for the popular manga Kinnikuman, Ultimate Muscle (Kinnikuman Nisei), and Tatakae!! Ramenman.     \n\nShimada Takashi (嶋田 隆司)  Story Writer. \nHometown: Nishiyodogawa-ku, Osaka. \nBirthdate: October 28, 1960.   \nA graduate of Hatushiba High School (Higashi, Sakai, Osaka), up until 1984 he went by the name Takashi Kaneyama (金山 隆司, Kaneyama Takashi). He frequently attends movie premieres, events, and interviews by himself and has the more exposure of the duo. These appearances have led to his being jokingly referred to as \"The Non-Working Half of Yude\". He claims to have been a naughty child in his younger days and that his favorite show was a TV Drama called Playgirl. He loved to read and draw manga, and before he met Nakai he would often draw Kinnikuman on notebook paper.    \n\nNakai Yoshinori (中井 義則)  Artist. \nHometown: Nishinari-ku, Osaka. \nBirth date: January 11, 1961. \nA graduate of Hatushiba High School, up until 1984 he went by the name Yoshinori Iwamoto (岩元 義則, Iwamoto Yoshinori). He has stated that he likes to stay home by himself and that his favorite actress is Mariko Kawana. Before he started school, he was an avid baseball player and fan and dreamed of one day becoming a Pro Baseball player. He liked to draw but has said that he didn't really read manga until he met Shimada. ",
+          "siteUrl": "https://anilist.co/staff/97042"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 117173,
+          "name": {
+            "first": "Takeshi",
+            "last": "Tamiya",
+            "native": "田宮武"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117173-FT8cSDLfSeBO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n117173-FT8cSDLfSeBO.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/117173"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 95416,
+          "name": {
+            "first": "Akira",
+            "last": "Kamiya",
+            "native": "神谷明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95416-8rk0Oq3ZXYjt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95416-8rk0Oq3ZXYjt.png"
+          },
+          "description": "**Favorites:** Role - Ryo Saeba\n**Hobbies:** Computers, Driving and Photography\n**Skills & Abilities:** Bass Guitar\n**Non-anime roles:**\n~!Akira Hibiki in \"Super Robot Wars\" (VG) \nBlacky in \"Popful Mail\" (VG) \nBo Duke (voiceover for John Schneider) in \"Bakuhatsu! Duke (The Dukes of Hazzard)\" (TV) \nChandler Jarrell (voiceover for Eddie Murphy) in \"The Golden Child\" (movie) \nConrad 'Con' Jarrett (voiceover for Timothy Hutton) in \"Ordinary People\" (movie) Dale 'Mac' McKussic (voiceover for Mel Gibson) in \"Tequila Sunrise\" (movie)\nDavid Herdeg (voiceover for Michael Paré) in \"The Philadelphia Experiment\" (movie) Dyhalt in \"Langrisser III\" (VG) \nGren Cuts in \"Tobal No. 1\" (VG)\nIago in \"Aladdin and the King of Thieves\" (Disney animated movie)\nIago in \"Aladdin\" (Disney animated movie) \nIago in \"Kingdom Hearts\" (VG)\nIago in \"The Return of Jafar\" (Disney animated movie)\nJames Bond (voiceover for Pierce Brosnan) in \"GoldenEye\" (movie) \nJames Bond (voiceover for Pierce Brosnan) in \"Tomorrow Never Dies\" (movie) \nJoe Shimamura/009 in \"Cyborg 009\" (Radio Drama) \nJohn Neville (voiceover for Tommy Lee Jones) in \"Eyes of Laura Mars\" (movie)!~",
+          "siteUrl": "https://anilist.co/staff/95416"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 102491,
+          "name": {
+            "first": "Akira",
+            "last": "Kushida",
+            "native": "串田アキラ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102491-D2blo7m5s1jz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102491-D2blo7m5s1jz.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/102491"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 96441,
+          "name": {
+            "first": "Minori",
+            "last": "Matsushima",
+            "native": "松島みのり "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96441-O32yqnN6ITFd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96441-O32yqnN6ITFd.png"
+          },
+          "description": "__Height:__ 155 cm\n\n[Profile (Aoni)](https://www.aoni.co.jp/search/matsushima-minori.html) | [Wiki (en)](https://en.wikipedia.org/wiki/Minori_Matsushima) | [Wiki (jp)](https://ja.wikipedia.org/wiki/松島みのり)",
+          "siteUrl": "https://anilist.co/staff/96441"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 18,
+          "name": "Toei Animation",
+          "siteUrl": "https://anilist.co/studio/18"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 6
+      },
+      {
+        "score": 50,
+        "amount": 25
+      },
+      {
+        "score": 60,
+        "amount": 22
+      },
+      {
+        "score": 70,
+        "amount": 27
+      },
+      {
+        "score": 80,
+        "amount": 11
+      },
+      {
+        "score": 90,
+        "amount": 29
+      },
+      {
+        "score": 100,
+        "amount": 18
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 10
+      },
+      {
+        "status": "PLANNING",
+        "amount": 191
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 225
+      },
+      {
+        "status": "DROPPED",
+        "amount": 23
+      },
+      {
+        "status": "PAUSED",
+        "amount": 10
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/3274",
+  "modNotes": null
+}

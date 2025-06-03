@@ -1,0 +1,619 @@
+{
+  "id": 107858,
+  "idMal": 38013,
+  "title": {
+    "native": "チャックシメゾウ",
+    "romaji": "Chuck Shimezou",
+    "english": "Zip! Shimezo"
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2019,
+    "month": 3,
+    "day": 9
+  },
+  "endDate": {
+    "year": 2019,
+    "month": 3,
+    "day": 9
+  },
+  "season": "WINTER",
+  "seasonYear": 2019,
+  "seasonInt": 191,
+  "episodes": 1,
+  "duration": 23,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748777531,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107858-q79fpWelretQ.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107858-q79fpWelretQ.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b107858-q79fpWelretQ.jpg",
+    "color": "#e4c950"
+  },
+  "bannerImage": null,
+  "genres": [],
+  "synonyms": [
+    "2019 Young Animator Training Project",
+    "Anime Mirai 2019",
+    "Anime Tamago 2019"
+  ],
+  "averageScore": 44,
+  "meanScore": 48,
+  "popularity": 217,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 233,
+      "name": "Youkai",
+      "description": "Prominently features supernatural creatures from Japanese folklore.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 107857,
+          "title": {
+            "native": "キャプテン・バル"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 107859,
+          "title": {
+            "native": "Hello WeGo!"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 107860,
+          "title": {
+            "native": "斗え! スペースアテンダントアオイ"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 305906,
+          "name": {
+            "first": "Shimezo",
+            "last": null,
+            "native": "シメゾウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/305906"
+        },
+        "voiceActors": [
+          {
+            "id": 95272,
+            "name": {
+              "first": "Tomoko",
+              "last": "Kaneda",
+              "native": "金田朋子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95272-qfGnqI0gkKK5.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95272-qfGnqI0gkKK5.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95272"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 345891,
+          "name": {
+            "first": "Sobo",
+            "last": null,
+            "native": "祖母",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/345891"
+        },
+        "voiceActors": [
+          {
+            "id": 95256,
+            "name": {
+              "first": "Naomi",
+              "last": "Shindou",
+              "native": "進藤尚美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95256-4emdBHqQ5S7m.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95256-4emdBHqQ5S7m.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95256"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 345892,
+          "name": {
+            "first": "Kobayashi-san",
+            "last": null,
+            "native": "小林さん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/345892"
+        },
+        "voiceActors": [
+          {
+            "id": 106432,
+            "name": {
+              "first": "Mami",
+              "last": "Horikoshi",
+              "native": "堀越真己"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11432.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11432.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/106432"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 345893,
+          "name": {
+            "first": "Chie",
+            "last": null,
+            "native": "ちえ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/345893"
+        },
+        "voiceActors": [
+          {
+            "id": 106641,
+            "name": {
+              "first": "Misaki",
+              "last": "Kuno",
+              "native": "久野美咲"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106641-zsyRkJ74NXvE.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106641-zsyRkJ74NXvE.png"
+            },
+            "siteUrl": "https://anilist.co/staff/106641"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 345894,
+          "name": {
+            "first": "Hiroki",
+            "last": null,
+            "native": "ひろき",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/345894"
+        },
+        "voiceActors": [
+          {
+            "id": 95008,
+            "name": {
+              "first": "Rie",
+              "last": "Kugimiya",
+              "native": "釘宮理恵"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95008-2y0EeuSTHIri.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95008"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 345895,
+          "name": {
+            "first": "Okaasan",
+            "last": null,
+            "native": "お母さん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/345895"
+        },
+        "voiceActors": [
+          {
+            "id": 102262,
+            "name": {
+              "first": "Umeka",
+              "last": "Shouji",
+              "native": "庄司宇芽香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102262-NLLVI1VqqIsa.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102262-NLLVI1VqqIsa.png"
+            },
+            "siteUrl": "https://anilist.co/staff/102262"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 345896,
+          "name": {
+            "first": "Shime",
+            "last": "Papa",
+            "native": "シメパパ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/345896"
+        },
+        "voiceActors": [
+          {
+            "id": 95231,
+            "name": {
+              "first": "Ken",
+              "last": "Uo",
+              "native": "魚建"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/231.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/231.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95231"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 345897,
+          "name": {
+            "first": "Shime",
+            "last": "Mama",
+            "native": "シメママ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/345897"
+        },
+        "voiceActors": [
+          {
+            "id": 96067,
+            "name": {
+              "first": "Fumi",
+              "last": "Hirano",
+              "native": "平野文"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96067-Joe6uMJ9OgXF.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96067-Joe6uMJ9OgXF.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96067"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 135502,
+          "name": {
+            "first": "Shin",
+            "last": "Takemoto",
+            "native": "武本心"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/135502"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 135503,
+          "name": {
+            "first": "Eiichirou",
+            "last": "Nishiyama",
+            "native": "西山映一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/135503"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 135503,
+          "name": {
+            "first": "Eiichirou",
+            "last": "Nishiyama",
+            "native": "西山映一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/135503"
+        }
+      },
+      {
+        "role": "ADR Director (English)",
+        "node": {
+          "id": 95043,
+          "name": {
+            "first": "Vic",
+            "last": "Mignogna",
+            "native": "Victor Joseph Mignogna"
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95043-cgQunZolvkPW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95043-cgQunZolvkPW.png"
+          },
+          "description": "Victor Joseph Mignogna was born in Greensburg, Pennsylvania. He was always interested in drama, film, music,acting, and majored in Film in college. Vic spent approximately ten years acting in independent films and composing, transposing and producing music for ad agencies, TV series, and movies. \n\nIn 1998, through a connection from a work associate at the time, Vic made his debut as Vega in \"Street Fighter 2\" under ADV Films. Vic enjoyed the anime dubbing experience and continued working for ADV. Soon, he landed his first main character role as Gawl in \"Generator Gawl\". Over time, Vic also began working for FUNimation Entertainment, and moved from Houston, Texas to Los Angeles, California to continue work there in late 2008. In February 2019, studios Funimation and Rooster Teeth cut ties with Mignogna after a number of sexual harassment allegations surfaced. Mignogna has denied the allegations and filed a lawsuit against Funimation and several individuals in April 2019 alleging defamation and tortious interference, however, the case was dismissed on October 2019 and he was ordered by the court to pay the defendants' legal fees. Mignogna lost his appeals from Funimation and their actors in 2022.\n\nSince then, his acting career has relatively stalled, though he remains active on social media and continues to attend fan conventions. He founded dubbing studio \"AM Studios\" in partnership with the Anime Matsuri convention. \n\n__Music:__\nVic has continued his music career, releasing five albums, Selah (original piano music), Metafiction (original music, including the anime-related songs Nothing I Won't Give [Fullmetal Alchemist]) and Soldier A, saluting the generic soldiers of anime), If These Walls Could Talk (original music), a Christmas album (including 2 original songs), and Selah II (the sequel to Selah, also original piano compositions). His sixth album, which is a remix album, remixing some of his original songs and some popular songs, is set to be released in February of 2010. This album also contains Vic's English version of the Brothers Theme from \"Fullmetal Alchemist\" and the English version of the \"D.N.Angel\" opening theme, True Light, both of which are licensed.\n\n__Roles:__\nVic has now appeared in approximately 150 anime series and video games, and has sung many English dub theme songs, most notably in the FUNimation dub of \"One Piece\". He is best known for his roles as Edward Elric from \"Fullmetal Alchemist\", Tamaki Suoh from \"Ouran High School Host Club\", Broly from \"Dragon Ball Z\", Fai D. Flowrite from \"Tsubasa Chronicle\", Zero Kiryu from \"Vampire Knight\", Spirit (Death Scythe) from \"Soul Eater\", Dark Mousy from \"D.N.Angel\", Kurz Weber from \"Full Metal Panic\", and Ikkaku Madarame from \"Bleach\". He made his directorial debut in \"Claymore\", in which he also plays the role of Rigaldo. Vic won Best Actor at the American-Anime-Awards for his role of Edward Elric in \"Fullmetal Alchemist\".",
+          "siteUrl": "https://anilist.co/staff/95043"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 321854,
+          "name": {
+            "first": "Kazuko",
+            "last": "Ishikawa",
+            "native": "石川和子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/321854"
+        }
+      },
+      {
+        "role": "ADR Producer (English)",
+        "node": {
+          "id": 321855,
+          "name": {
+            "first": "Deneice",
+            "last": "Leigh",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n321855-wLM0oJTx2MCZ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n321855-wLM0oJTx2MCZ.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/TrinityReloads)",
+          "siteUrl": "https://anilist.co/staff/321855"
+        }
+      },
+      {
+        "role": "ADR Producer (English)",
+        "node": {
+          "id": 321856,
+          "name": {
+            "first": "John",
+            "last": "Leigh",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/321856"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 22,
+          "name": "Nippon Animation",
+          "siteUrl": "https://anilist.co/studio/22"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 7478,
+          "name": "AM Studios",
+          "siteUrl": "https://anilist.co/studio/7478"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 8451,
+      "url": "https://animetamago.jp/title.php?id=3",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 18820,
+      "rank": 84,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 18904,
+      "rank": 83,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 8
+      },
+      {
+        "score": 40,
+        "amount": 4
+      },
+      {
+        "score": 50,
+        "amount": 12
+      },
+      {
+        "score": 60,
+        "amount": 10
+      },
+      {
+        "score": 70,
+        "amount": 7
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 9
+      },
+      {
+        "status": "PLANNING",
+        "amount": 96
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 82
+      },
+      {
+        "status": "DROPPED",
+        "amount": 21
+      },
+      {
+        "status": "PAUSED",
+        "amount": 9
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/107858",
+  "modNotes": null
+}

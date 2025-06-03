@@ -1,0 +1,1207 @@
+{
+  "id": 2929,
+  "idMal": 2929,
+  "title": {
+    "native": "MOONLIGHT MILE 2ndシーズン -Touch down-",
+    "romaji": "MOONLIGHT MILE 2nd Season -Touch down-",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "The second season of Moonlight Mile.",
+  "startDate": {
+    "year": 2007,
+    "month": 9,
+    "day": 13
+  },
+  "endDate": {
+    "year": 2007,
+    "month": 12,
+    "day": 13
+  },
+  "season": "FALL",
+  "seasonYear": 2007,
+  "seasonInt": 74,
+  "episodes": 14,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748804274,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2929-kltYZeHi3DQf.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2929-kltYZeHi3DQf.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b2929-kltYZeHi3DQf.png",
+    "color": "#1a2878"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2929-asF8kEpsdsAC.jpg",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Moonlight Mile sezon 2 - Lądowanie"
+  ],
+  "averageScore": 65,
+  "meanScore": 69,
+  "popularity": 1061,
+  "favourites": 6,
+  "tags": [
+    {
+      "id": 63,
+      "name": "Space",
+      "description": "Partly or completely set in outer space.",
+      "category": "Setting-Universe",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 103,
+      "name": "Politics",
+      "description": "Centers around politics, politicians, or government activities.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 456,
+      "name": "Conspiracy",
+      "description": "Contains one or more factions controlling or attempting to control the world from the shadows.",
+      "category": "Theme-Drama",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1941,
+          "title": {
+            "native": "MOONLIGHT MILE 1stシーズン -Lift off-"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 30681,
+          "title": {
+            "native": "MOONLIGHT MILE"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 11420,
+          "name": {
+            "first": "Gorou",
+            "last": "Saruwatari",
+            "native": "猿渡 吾郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/11420.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/11420.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/11420"
+        },
+        "voiceActors": [
+          {
+            "id": 95021,
+            "name": {
+              "first": "Kazuhiko",
+              "last": "Inoue",
+              "native": "井上和彦"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95021-9qAoAn6GNZ3S.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95021-9qAoAn6GNZ3S.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95021"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 11602,
+          "name": {
+            "first": "Riyoko",
+            "last": "Ikeuchi",
+            "native": "池内 理代子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/11602.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/11602.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/11602"
+        },
+        "voiceActors": [
+          {
+            "id": 95060,
+            "name": {
+              "first": "Rie",
+              "last": "Tanaka",
+              "native": "田中理恵"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95060-Rw0HZghxH1hF.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95060-Rw0HZghxH1hF.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95060"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 11422,
+          "name": {
+            "first": "Jack F.",
+            "last": "Woodbridge",
+            "native": "ジャック・F・ウッドブリッジ",
+            "alternative": [
+              "Lostman"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/11422.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/11422.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/11422"
+        },
+        "voiceActors": [
+          {
+            "id": 95125,
+            "name": {
+              "first": "Hiroaki",
+              "last": "Hirata",
+              "native": "平田広明"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95125-NeFFiJupoDVj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95125-NeFFiJupoDVj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95125"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 299577,
+          "name": {
+            "first": "Maggie",
+            "last": "Hiroaka",
+            "native": "マギー・ヒラオカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299577-J3A9Kc5jk63T.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b299577-J3A9Kc5jk63T.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/299577"
+        },
+        "voiceActors": [
+          {
+            "id": 95071,
+            "name": {
+              "first": "Tomoko",
+              "last": "Kawakami",
+              "native": "川上とも子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95071-bmS9MxvAdsTr.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95071-bmS9MxvAdsTr.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95071"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 305441,
+          "name": {
+            "first": "Abott",
+            "last": null,
+            "native": "アボット",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305441-BFBRGj0u1XZs.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305441-BFBRGj0u1XZs.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/305441"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 305442,
+          "name": {
+            "first": "Caroline",
+            "last": null,
+            "native": "キャロライン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305442-F2wonXGl9SK8.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305442-F2wonXGl9SK8.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/305442"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 305443,
+          "name": {
+            "first": "Chris",
+            "last": "Jefferson",
+            "native": "クリス・ジェファーソン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305443-Ro60yAMV7mWh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305443-Ro60yAMV7mWh.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/305443"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 305444,
+          "name": {
+            "first": "John",
+            "last": "Brian",
+            "native": "ブライアン・ジョンソン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305444-DeWP6TKB134k.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305444-DeWP6TKB134k.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/305444"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 305445,
+          "name": {
+            "first": "Miguel",
+            "last": null,
+            "native": "ミゲール",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305445-QdAXKnuykJv0.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305445-QdAXKnuykJv0.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/305445"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 305448,
+          "name": {
+            "first": "Moera",
+            "last": "Jefferson",
+            "native": "モエラ・ジェファーソン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305448-HVP8z1oH0HCx.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305448-HVP8z1oH0HCx.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/305448"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 305447,
+          "name": {
+            "first": "Malik Ali",
+            "last": "Muhamed",
+            "native": "マリク・アリ・ムハンマド",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305447-sVq4hTsmhuuH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305447-sVq4hTsmhuuH.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/305447"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 305446,
+          "name": {
+            "first": "Richard",
+            "last": "Gainsbourg",
+            "native": "リチャード・ゲンズブール",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305446-i7YaWzzFy0e0.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305446-i7YaWzzFy0e0.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/305446"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 313036,
+          "name": {
+            "first": "Steve",
+            "last": "O'Brien",
+            "native": "スティーブ・オブライエン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b313036-IkyT61rsbHBb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b313036-IkyT61rsbHBb.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/313036"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 313037,
+          "name": {
+            "first": "Akemi",
+            "last": "Saruwatari",
+            "native": "猿渡明美",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b313037-Oo3tZQjbPDPn.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b313037-Oo3tZQjbPDPn.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/313037"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 313038,
+          "name": {
+            "first": "Paolo",
+            "last": "De Rossi",
+            "native": "パオロ・デ・ロッシ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b313038-o7i8VkCeAHZs.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b313038-o7i8VkCeAHZs.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/313038"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 313039,
+          "name": {
+            "first": "Yoshie",
+            "last": "Saruwatari",
+            "native": "猿渡良枝",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b313039-Z34GLLkmJOod.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b313039-Z34GLLkmJOod.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/313039"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 313040,
+          "name": {
+            "first": "Warren",
+            "last": "Smith",
+            "native": "ウォーレン・スミス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b313040-tCdkQ4kSeoHR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b313040-tCdkQ4kSeoHR.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/313040"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 313041,
+          "name": {
+            "first": "Kosuke",
+            "last": "Sawamura",
+            "native": "澤村耕介",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b313041-TuxjVDHisl9O.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b313041-TuxjVDHisl9O.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/313041"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 313042,
+          "name": {
+            "first": "Chika",
+            "last": "Sawamura",
+            "native": "澤村知佳",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b313042-i8fo8XKg0OPl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b313042-i8fo8XKg0OPl.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/313042"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 313043,
+          "name": {
+            "first": "Connie",
+            "last": "Wong",
+            "native": "コニー・ウォン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b313043-328ZiNhnWy16.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b313043-328ZiNhnWy16.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/313043"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97587,
+          "name": {
+            "first": "Yasuo",
+            "last": "Ootagaki",
+            "native": "太田垣康男"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97587-bgpdhoey1yy3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97587-bgpdhoey1yy3.png"
+          },
+          "description": "[Twitter](https://twitter.com/ohtagakiyasuo) | [Pixiv](https://www.pixiv.net/en/users/2863981)",
+          "siteUrl": "https://anilist.co/staff/97587"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 100327,
+          "name": {
+            "first": "the pillows",
+            "last": "",
+            "native": "the pillows"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100327-OMq1hNkEjSBQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100327-OMq1hNkEjSBQ.jpg"
+          },
+          "description": "**the pillows** were a Japanese alternative rock band, best known internationally for the soundtrack of the anime series FLCL. the pillows were originally \"Coin Locker Babies\" but was changed after Kenji left the band (KENZI&amp;THE TRIPS).  \n\n**Members: **\n[Sawao Yamanaka](https://anilist.co/staff/172230/Sawao-Yamanaka) (Born December 7th, 1968) – vocals, rhythm guitar \nYoshiaki Manabe (Born October 2, 1962) – lead guitar \nShinichirou Sato (Born August 16, 1964) – drums \nJun Suzuki – bass (support member, since 1999)  \n\n**Former Members:** \nKenji Ueda (Born August 30, 1965) – bass (1989–1992) \nTatsuya Kashima – bass (support member, 1992–1999)",
+          "siteUrl": "https://anilist.co/staff/100327"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100656,
+          "name": {
+            "first": "Iku",
+            "last": "Suzuki",
+            "native": "鈴木行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100656-259T6lALRizp.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100656-259T6lALRizp.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/鈴木行)",
+          "siteUrl": "https://anilist.co/staff/100656"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 118963,
+          "name": {
+            "first": "Kan",
+            "last": "Sawada",
+            "native": "沢田完"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118963-Lm88SiFzc0sf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118963-Lm88SiFzc0sf.png"
+          },
+          "description": "[Website](http://www.kansawada.com/) | [Twitter](https://twitter.com/sawadakan)",
+          "siteUrl": "https://anilist.co/staff/118963"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 119997,
+          "name": {
+            "first": "Isao",
+            "last": "Sugimoto",
+            "native": "杉本功"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119997-Ib2hokhzQAdB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119997-Ib2hokhzQAdB.png"
+          },
+          "description": "Well known for his character designs on the [Girls und Panzer](https://anilist.co/anime/14131/) series.",
+          "siteUrl": "https://anilist.co/staff/119997"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 141302,
+          "name": {
+            "first": "Akinori",
+            "last": "Endou",
+            "native": "遠藤明範"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n141302-2l0NuQAVcPpW.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n141302-2l0NuQAVcPpW.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E6%98%8E%E7%AF%84)\n\nDoshisha University graduate.",
+          "siteUrl": "https://anilist.co/staff/141302"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 253417,
+          "name": {
+            "first": "Shouzou",
+            "last": "Ueda",
+            "native": "植田秀蔵"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/253417"
+        }
+      },
+      {
+        "role": "CG Director",
+        "node": {
+          "id": 253419,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Gou",
+            "native": "郷博"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/253419"
+        }
+      },
+      {
+        "role": "Script (eps 1-14)",
+        "node": {
+          "id": 141302,
+          "name": {
+            "first": "Akinori",
+            "last": "Endou",
+            "native": "遠藤明範"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n141302-2l0NuQAVcPpW.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n141302-2l0NuQAVcPpW.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E6%98%8E%E7%AF%84)\n\nDoshisha University graduate.",
+          "siteUrl": "https://anilist.co/staff/141302"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 253418,
+          "name": {
+            "first": "Ayumi",
+            "last": "Tsuno",
+            "native": "津野渉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/253418"
+        }
+      },
+      {
+        "role": "Chief Animation Director (eps 1-14)",
+        "node": {
+          "id": 119997,
+          "name": {
+            "first": "Isao",
+            "last": "Sugimoto",
+            "native": "杉本功"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119997-Ib2hokhzQAdB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119997-Ib2hokhzQAdB.png"
+          },
+          "description": "Well known for his character designs on the [Girls und Panzer](https://anilist.co/anime/14131/) series.",
+          "siteUrl": "https://anilist.co/staff/119997"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 157904,
+          "name": {
+            "first": "Kazuyoshi",
+            "last": "Shiomi",
+            "native": "塩見和欣"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/157904"
+        }
+      },
+      {
+        "role": "Mechanical Design",
+        "node": {
+          "id": 192814,
+          "name": {
+            "first": "Takao",
+            "last": "Takegami",
+            "native": "竹上貴雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/192814"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 103105,
+          "name": {
+            "first": "Seiji",
+            "last": "Morita",
+            "native": "森田清次"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103105-Ywk4Bc2FQKdU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103105-Ywk4Bc2FQKdU.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/103105"
+        }
+      },
+      {
+        "role": "Mechanical Animation Director (OP, eps 1-14)",
+        "node": {
+          "id": 192814,
+          "name": {
+            "first": "Takao",
+            "last": "Takegami",
+            "native": "竹上貴雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/192814"
+        }
+      },
+      {
+        "role": "Music Production Assistance",
+        "node": {
+          "id": 249840,
+          "name": {
+            "first": "Emari",
+            "last": "Mamiya",
+            "native": "間宮えまり"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/249840"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 144518,
+          "name": {
+            "first": "Sadayoshi",
+            "last": "Fujino",
+            "native": "藤野貞義"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144518-T0nNmXtCdoNh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n144518-T0nNmXtCdoNh.jpg"
+          },
+          "description": "Fujino Sadayoshi is a sound director working for Cruise. He has mostly worked on anime shows produced by Sunrise and Nippon Animation. He was married to actress and voice actress [Fujii Kayoko](https://anilist.co/staff/105105/Kayoko-Fujii). ",
+          "siteUrl": "https://anilist.co/staff/144518"
+        }
+      },
+      {
+        "role": "Music Producer",
+        "node": {
+          "id": 251375,
+          "name": {
+            "first": "Masahiro",
+            "last": "Iuchi",
+            "native": "井内正博"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/251375"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 253421,
+          "name": {
+            "first": "Haruka​",
+            "last": "Yanagida",
+            "native": "柳田美和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/253421"
+        }
+      },
+      {
+        "role": "Storyboard (OP, ED, eps 1, 9-11, 14)",
+        "node": {
+          "id": 100656,
+          "name": {
+            "first": "Iku",
+            "last": "Suzuki",
+            "native": "鈴木行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100656-259T6lALRizp.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100656-259T6lALRizp.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/鈴木行)",
+          "siteUrl": "https://anilist.co/staff/100656"
+        }
+      },
+      {
+        "role": "Storyboard (eps 2, 3-8, 12, 13)",
+        "node": {
+          "id": 120196,
+          "name": {
+            "first": "Susumu",
+            "last": "Nishizawa",
+            "native": "西澤晋"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120196-zcwrToucSumS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n120196-zcwrToucSumS.png"
+          },
+          "description": "[Blog](https://ssm2438.exblog.jp/)",
+          "siteUrl": "https://anilist.co/staff/120196"
+        }
+      },
+      {
+        "role": "Episode Director (eps 2, 7, 13)",
+        "node": {
+          "id": 148180,
+          "name": {
+            "first": "Yoshinari",
+            "last": "Suzuki",
+            "native": "鈴木芳成"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/148180"
+        }
+      },
+      {
+        "role": "Episode Director (ep 1)",
+        "node": {
+          "id": 149074,
+          "name": {
+            "first": "Nobuaki",
+            "last": "Nakanishi",
+            "native": "中西伸彰"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/中西伸彰)\n\nOriginating from [Nippon Animation](https://anilist.co/studio/22/).",
+          "siteUrl": "https://anilist.co/staff/149074"
+        }
+      },
+      {
+        "role": "Episode Director (OP, ED, ep 14)",
+        "node": {
+          "id": 100656,
+          "name": {
+            "first": "Iku",
+            "last": "Suzuki",
+            "native": "鈴木行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100656-259T6lALRizp.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100656-259T6lALRizp.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/鈴木行)",
+          "siteUrl": "https://anilist.co/staff/100656"
+        }
+      },
+      {
+        "role": "Episode Director (eps 3, 8)",
+        "node": {
+          "id": 142819,
+          "name": {
+            "first": "Yoshito",
+            "last": "Mikamo",
+            "native": "美甘義人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Mikamo Yoshito is an episode director.",
+          "siteUrl": "https://anilist.co/staff/142819"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 101,
+          "name": "Studio Hibari",
+          "siteUrl": "https://anilist.co/studio/101"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 170,
+          "name": "Imagica",
+          "siteUrl": "https://anilist.co/studio/170"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 7019,
+          "name": "Amuse Soft Entertainment",
+          "siteUrl": "https://anilist.co/studio/7019"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 33,
+          "name": "WOWOW",
+          "siteUrl": "https://anilist.co/studio/33"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 460,
+          "name": "KLOCKWORX",
+          "siteUrl": "https://anilist.co/studio/460"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 3925,
+      "rank": 70,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 4227,
+      "rank": 20,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2007,
+      "season": "FALL",
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 100176,
+          "rating": 1,
+          "media": {
+            "id": 2929,
+            "title": {
+              "native": "MOONLIGHT MILE 2ndシーズン -Touch down-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 12431,
+            "title": {
+              "native": "宇宙兄弟"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 100178,
+          "rating": 1,
+          "media": {
+            "id": 2929,
+            "title": {
+              "native": "MOONLIGHT MILE 2ndシーズン -Touch down-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 329,
+            "title": {
+              "native": "プラネテス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 108043,
+          "rating": 0,
+          "media": {
+            "id": 2929,
+            "title": {
+              "native": "MOONLIGHT MILE 2ndシーズン -Touch down-"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 131019,
+            "title": {
+              "native": "月とライカと吸血姫"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 8
+      },
+      {
+        "score": 40,
+        "amount": 6
+      },
+      {
+        "score": 50,
+        "amount": 42
+      },
+      {
+        "score": 60,
+        "amount": 43
+      },
+      {
+        "score": 70,
+        "amount": 106
+      },
+      {
+        "score": 80,
+        "amount": 83
+      },
+      {
+        "score": 90,
+        "amount": 32
+      },
+      {
+        "score": 100,
+        "amount": 15
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 44
+      },
+      {
+        "status": "PLANNING",
+        "amount": 485
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 466
+      },
+      {
+        "status": "DROPPED",
+        "amount": 34
+      },
+      {
+        "status": "PAUSED",
+        "amount": 32
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/2929",
+  "modNotes": null
+}

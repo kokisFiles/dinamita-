@@ -1,0 +1,671 @@
+{
+  "id": 179408,
+  "idMal": 58944,
+  "title": {
+    "native": "JOCHUM",
+    "romaji": "JOCHUM",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "Anime by Sanrio in collaboration with Japanese boy band <i>JO1</i>.",
+  "startDate": {
+    "year": 2024,
+    "month": 7,
+    "day": 13
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 12,
+    "day": 21
+  },
+  "season": "SUMMER",
+  "seasonYear": 2024,
+  "seasonInt": 243,
+  "episodes": 24,
+  "duration": 2,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": "#JOCHUM",
+  "trailer": {
+    "id": "V3hJ_l-Zcw0",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/V3hJ_l-Zcw0/hqdefault.jpg"
+  },
+  "updatedAt": 1748877618,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179408-Xr7bnqL2aGfw.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179408-Xr7bnqL2aGfw.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179408-Xr7bnqL2aGfw.png",
+    "color": "#e4bb50"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "ジェオチャム"
+  ],
+  "averageScore": null,
+  "meanScore": 57,
+  "popularity": 128,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 188548,
+          "title": {
+            "native": "ジェオチャム"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 340696,
+          "name": {
+            "first": "Rain",
+            "last": null,
+            "native": "レイン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/340696"
+        },
+        "voiceActors": [
+          {
+            "id": 132633,
+            "name": {
+              "first": "Kaito",
+              "last": "Takeda",
+              "native": "竹田海渡"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n132633-VZAF3zoz5U7u.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n132633-VZAF3zoz5U7u.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/132633"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 340697,
+          "name": {
+            "first": "PiHai",
+            "last": null,
+            "native": "ピーハイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/340697"
+        },
+        "voiceActors": [
+          {
+            "id": 128658,
+            "name": {
+              "first": "Yuri",
+              "last": "Noguchi",
+              "native": "のぐちゆり"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128658-wzQ4sa2EYc4Y.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n128658-wzQ4sa2EYc4Y.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/128658"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 119758,
+          "name": {
+            "first": "Youichi",
+            "last": "Katou",
+            "native": "加藤陽一 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119758-ZorR7yQkEr5W.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119758-ZorR7yQkEr5W.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/10185382)",
+          "siteUrl": "https://anilist.co/staff/119758"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 294860,
+          "name": {
+            "first": "Kabushikigaisha Sanrio",
+            "last": "",
+            "native": "株式会社サンリオ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n294860-jAP5exS3WNo4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n294860-jAP5exS3WNo4.png"
+          },
+          "description": "[Website](https://www.sanrio.co.jp/)\n\nSanrio is a Japanese company that designs, licenses and produces products focusing on the kawaii segment of Japanese popular culture. They're best known for their original anthropomorphic character designs, including Hello Kitty and Aggretsuko.",
+          "siteUrl": "https://anilist.co/staff/294860"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 119758,
+          "name": {
+            "first": "Youichi",
+            "last": "Katou",
+            "native": "加藤陽一 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119758-ZorR7yQkEr5W.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119758-ZorR7yQkEr5W.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/10185382)",
+          "siteUrl": "https://anilist.co/staff/119758"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 175410,
+          "name": {
+            "first": "Hazumu",
+            "last": "Sakuta",
+            "native": "作田ハズム"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "__Hazumu Sakuta__ is a Japanese director.",
+          "siteUrl": "https://anilist.co/staff/175410"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 150,
+          "name": "Sanrio",
+          "siteUrl": "https://anilist.co/studio/150"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 866,
+          "name": "Fanworks",
+          "siteUrl": "https://anilist.co/studio/866"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 7537,
+          "name": "LAPONE Entertainment",
+          "siteUrl": "https://anilist.co/studio/7537"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 386832,
+          "airingAt": 1720823700,
+          "episode": 1,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386833,
+          "airingAt": 1721428500,
+          "episode": 2,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386834,
+          "airingAt": 1722033300,
+          "episode": 3,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386835,
+          "airingAt": 1722638100,
+          "episode": 4,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386836,
+          "airingAt": 1723242900,
+          "episode": 5,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386837,
+          "airingAt": 1723847700,
+          "episode": 6,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386838,
+          "airingAt": 1724452500,
+          "episode": 7,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386839,
+          "airingAt": 1725057300,
+          "episode": 8,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386840,
+          "airingAt": 1725662100,
+          "episode": 9,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386841,
+          "airingAt": 1726266900,
+          "episode": 10,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386842,
+          "airingAt": 1726871700,
+          "episode": 11,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386843,
+          "airingAt": 1727476500,
+          "episode": 12,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386844,
+          "airingAt": 1728081300,
+          "episode": 13,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386845,
+          "airingAt": 1728686100,
+          "episode": 14,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386846,
+          "airingAt": 1729290900,
+          "episode": 15,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386847,
+          "airingAt": 1729895700,
+          "episode": 16,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386848,
+          "airingAt": 1730500500,
+          "episode": 17,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386849,
+          "airingAt": 1731105300,
+          "episode": 18,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386850,
+          "airingAt": 1731710100,
+          "episode": 19,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386851,
+          "airingAt": 1732314900,
+          "episode": 20,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386852,
+          "airingAt": 1732919700,
+          "episode": 21,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386853,
+          "airingAt": 1733524500,
+          "episode": 22,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386854,
+          "airingAt": 1734129300,
+          "episode": 23,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 386855,
+          "airingAt": 1734734100,
+          "episode": 24,
+          "mediaId": 179408,
+          "media": {
+            "id": 179408
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 95382,
+      "url": "https://www.youtube.com/@sanrio_jochum",
+      "site": "YouTube"
+    },
+    {
+      "id": 95383,
+      "url": "https://www.instagram.com/jo1xsanrio/",
+      "site": "Instagram"
+    },
+    {
+      "id": 95384,
+      "url": "https://twitter.com/jo1xsanrio",
+      "site": "Twitter"
+    },
+    {
+      "id": 95385,
+      "url": "https://jochum.sanrio.co.jp/",
+      "site": "Official Site"
+    },
+    {
+      "id": 97116,
+      "url": "https://www.tiktok.com/@sanrio_jochum?lang=ja-JP",
+      "site": "TikTok"
+    },
+    {
+      "id": 97117,
+      "url": "https://www.youtube.com/playlist?list=PLdGg-Ic_x1YQwVYEAURiAEkR3S62xionr",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 14742,
+      "rank": 10,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2024,
+      "season": "SUMMER",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 3
+      },
+      {
+        "score": 50,
+        "amount": 9
+      },
+      {
+        "score": 60,
+        "amount": 6
+      },
+      {
+        "score": 70,
+        "amount": 2
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 12
+      },
+      {
+        "status": "PLANNING",
+        "amount": 52
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 37
+      },
+      {
+        "status": "DROPPED",
+        "amount": 24
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/179408",
+  "modNotes": null
+}

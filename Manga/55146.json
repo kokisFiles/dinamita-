@@ -1,0 +1,813 @@
+{
+  "id": 55146,
+  "idMal": 25146,
+  "title": {
+    "native": "ONE PIECE x トリコ",
+    "romaji": "ONE PIECE x Toriko",
+    "english": "One Piece x Toriko: Taste of the Devil Fruit"
+  },
+  "type": "MANGA",
+  "format": "ONE_SHOT",
+  "status": "FINISHED",
+  "description": "A collaboration between One Piece and Toriko.",
+  "startDate": {
+    "year": 2011,
+    "month": 4,
+    "day": 4
+  },
+  "endDate": {
+    "year": 2011,
+    "month": 4,
+    "day": 4
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 1,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748793187,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25146.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25146.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/25146.jpg",
+    "color": "#e4d643"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/n55146-rfRrpY8SvSPp.jpg",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "synonyms": [
+    "ワンピース x トリコ"
+  ],
+  "averageScore": 62,
+  "meanScore": 63,
+  "popularity": 1622,
+  "favourites": 10,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 158,
+      "name": "Crossover",
+      "description": "Centers around the placement of two or more otherwise discrete fictional characters, settings, or universes into the context of a single story.",
+      "category": "Theme-Other",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 201,
+      "name": "Pirates",
+      "description": "Prominently features sea-faring adventurers branded as criminals by the law.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 142,
+      "name": "Food",
+      "description": "Centers around cooking or food appraisal.",
+      "category": "Theme-Arts",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 30013,
+          "title": {
+            "native": "ONE PIECE"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 37887,
+          "title": {
+            "native": "トリコ"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 19942,
+          "name": {
+            "first": "Komatsu",
+            "last": null,
+            "native": "小松",
+            "alternative": [
+              "Matsu",
+              "Komacchan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19942-K1Dyn78L7UDa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19942-K1Dyn78L7UDa.png"
+          },
+          "siteUrl": "https://anilist.co/character/19942"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 19939,
+          "name": {
+            "first": "Toriko",
+            "last": null,
+            "native": "トリコ",
+            "alternative": [
+              "The Glutton",
+              "Charismatic Goumet Hunter"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19939-BcCasRAV9SEJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19939-BcCasRAV9SEJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/19939"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 40,
+          "name": {
+            "first": "Luffy",
+            "last": "Monkey",
+            "native": "モンキー・D・ルフィ",
+            "alternative": [
+              "Straw Hat",
+              "Mugiwara",
+              "Straw",
+              "Mugi",
+              "Lucy",
+              "Luffyland",
+              "Mugiwara no Luffy",
+              "Mugiwara-ya",
+              "Ruffy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b40-MNypXsxSRb1R.png"
+          },
+          "siteUrl": "https://anilist.co/character/40"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 723,
+          "name": {
+            "first": "Nami",
+            "last": "",
+            "native": "ナミ",
+            "alternative": [
+              "Cat Burglar",
+              "O-Nami",
+              "Namizo",
+              "Namiland"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b723-vp5hPptgnNEC.png"
+          },
+          "siteUrl": "https://anilist.co/character/723"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 19943,
+          "name": {
+            "first": "Terry Cloth",
+            "last": null,
+            "native": "テリークロス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/19943.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/19943.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/19943"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 724,
+          "name": {
+            "first": "Usopp",
+            "last": null,
+            "native": "ウソップ",
+            "alternative": [
+              "Long-Nose",
+              "Usohachi",
+              "Usoland",
+              "Sogeking",
+              "Lysop"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b724-GFGgI9AJQkfy.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b724-GFGgI9AJQkfy.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/724"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35615,
+          "name": {
+            "first": "Zebra",
+            "last": null,
+            "native": "ゼブラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35615-ftqlzVnsr2UB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35615-ftqlzVnsr2UB.png"
+          },
+          "siteUrl": "https://anilist.co/character/35615"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5627,
+          "name": {
+            "first": "Brook",
+            "last": "",
+            "native": "ブルック",
+            "alternative": [
+              "Dead Bones",
+              "Soul King",
+              "Satan-sama",
+              "Boneland",
+              "Honekichi",
+              "Bonekichi",
+              "The Starving Skeleton",
+              "Humming Brook"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5627-av8oD3zhKvDl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5627-av8oD3zhKvDl.png"
+          },
+          "siteUrl": "https://anilist.co/character/5627"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35895,
+          "name": {
+            "first": "Rin",
+            "last": null,
+            "native": "リン",
+            "alternative": [
+              "The wild beast tamer"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35895-24XGyHfIfLVK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35895-24XGyHfIfLVK.png"
+          },
+          "siteUrl": "https://anilist.co/character/35895"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 64,
+          "name": {
+            "first": "Franky",
+            "last": "",
+            "native": "フランキー",
+            "alternative": [
+              "Cyborg",
+              "Bakanky",
+              "Iron Man",
+              "Fraland",
+              "Franosuke",
+              "Frankie"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n64-ChX6ZzHHjXqA.png"
+          },
+          "siteUrl": "https://anilist.co/character/64"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 19940,
+          "name": {
+            "first": "Sunny",
+            "last": null,
+            "native": "サニー",
+            "alternative": [
+              "Sani"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19940-qkpINN5CWjis.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19940-qkpINN5CWjis.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/19940"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 305,
+          "name": {
+            "first": "Sanji",
+            "last": "",
+            "native": "サンジ",
+            "alternative": [
+              "Black Leg",
+              "Mr. Prince",
+              "Love Cook",
+              "Ero Cook",
+              "Curly Eyebrows",
+              "O-Soba Mask",
+              "Sangoro",
+              "Mr. Nosebleed",
+              "San-gorou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305-6lisPmHtCnLT.png"
+          },
+          "siteUrl": "https://anilist.co/character/305"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 19941,
+          "name": {
+            "first": "Coco",
+            "last": null,
+            "native": "ココ",
+            "alternative": [
+              "The Gentleman"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19941-bT4QxOUgZJzJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19941-bT4QxOUgZJzJ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/19941"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 61,
+          "name": {
+            "first": "Robin",
+            "last": "Nico",
+            "native": "ニコロビン",
+            "alternative": [
+              "Demon Child",
+              "Miss All Sunday",
+              "Light of the Revolution",
+              "O-Robi",
+              "Robiland",
+              "Ms. Sunday",
+              "Devil Child"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b61-ywXUyyocEEqt.png"
+          },
+          "siteUrl": "https://anilist.co/character/61"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 62,
+          "name": {
+            "first": "Zoro",
+            "last": "Roronoa",
+            "native": "ロロノア・ゾロ",
+            "alternative": [
+              "Zolo",
+              "Pirate Hunter",
+              "Marimo Head",
+              "Mr. Bushido",
+              "Zorojuro",
+              "Moss Head",
+              "Lorenor Zorro"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62-S7oAeA9WInjV.png"
+          },
+          "siteUrl": "https://anilist.co/character/62"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 309,
+          "name": {
+            "first": "Chopper",
+            "last": "Tony Tony",
+            "native": "トニートニー・チョッパー",
+            "alternative": [
+              "Tanuki",
+              "Chopperman",
+              "Cotton Candy Lover",
+              "Racoon Dog",
+              "Chobro",
+              "Chopa-emon  (チョッパえもん)",
+              "Chopperemon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b309-H64NhbJ2ywIQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/309"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 96881,
+          "name": {
+            "first": "Eiichirou",
+            "last": "Oda",
+            "native": "尾田栄一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96881-Cyv6wFJxpDw7.png"
+          },
+          "description": "__Favorite Animal:__ Big gentle dogs\n__Favorite Mangaka:__ [Akira Toriyama](https://anilist.co/staff/96901/Akira-Toriyama)\n__Favorite Music:__ '70s soul music\n__Favorite Real-Life Pirate:__ Edward Teach (Blackbeard)\n__Favorite Video Game:__ Puyo Puyo\n__Trivia:__\n- Oda is married to Chiaki Inaba, who had played Nami during Jump Festa One Piece stage performances.\n- In a recent Japanese fan poll, Oda is currently ranked the 48th Most Popular Character in [One Piece](https://anilist.co/manga/30013/One-Piece/), despite the fact that he has never included himself in any issue of the manga (excluding SBS).\n- He voiced the character [\"Odacchi\" (オダッチ)](https://anilist.co/character/12281/Eiichirou-Oda) in a [soccer-themed short](https://anilist.co/anime/2386/ONE-PIECE-Yume-no-Soccer-Ou/) that aired with the [3rd One Piece Movie](https://anilist.co/anime/461/One-Piece-Choppers-Kingdom-on-the-Island-of-Strange-Animals/). \"Odacchi\" is Oda's nickname, and he played soccer when he was younger.\n- Oda is a fan of rapper Eminem, filmmaker Quentin Tarantino and [Tim Burton](https://anilist.co/staff/323667/Timothy-Walter-Burton).\n- Oda's 3 favorite movies are Seven Samurai, The Nightmare Before Christmas, and Young Guns.\n- According to Oda in an interview for US Shonen Jump, his favorite villain in One Piece is [Buggy the Clown](https://anilist.co/character/725/Buggy) (he joked that he literally threw him together).",
+          "siteUrl": "https://anilist.co/staff/96881"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 100417,
+          "name": {
+            "first": "Mitsutoshi",
+            "last": "Shimabukuro",
+            "native": "島袋光年"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100417-Iky17eD6JdD9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100417-Iky17eD6JdD9.jpg"
+          },
+          "description": "Mitsutoshi Shimabukuro (島袋 光年, Shimabukuro Mitsutoshi) is a Japanese manga artist. He made his debut in 1996 in Weekly Shounen Jump and received a Akatsuka Award for best new comic manga writer. He is best known for Seikimatsu Leader Den Takeshi! (世紀末リーダー伝たけし!, \"A Tale of a Leader in the End of the Century Takeshi!\" (1997–2002, 24 volumes), for which he won the 2001 Shogakukan Manga Award for children's manga. His current series is Toriko (トリコ), which began serialization in Shuukan Shounen Jump in 2008.\n\nShimabukuro is friends with Eiichiro Oda, author of One Piece. SASAKI Takeshi was once an assistant.\n\nIn 2002, he was arrested and convicted of violating child prostitution laws, including paying a 16-year-old girl ¥80,000 to have sex. As a result of the arrest, Seikimatsu Leader Den Takeshi! was cancelled by Shuukan Shounen Jump.\n\n(Source: MU)",
+          "siteUrl": "https://anilist.co/staff/100417"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 99431,
+          "rating": 4,
+          "media": {
+            "id": 55146,
+            "title": {
+              "native": "ONE PIECE x トリコ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 103252,
+            "title": {
+              "native": "食戟のサンジ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99434,
+          "rating": 2,
+          "media": {
+            "id": 55146,
+            "title": {
+              "native": "ONE PIECE x トリコ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 41926,
+            "title": {
+              "native": "ジャンプスーパースターズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99436,
+          "rating": 5,
+          "media": {
+            "id": 55146,
+            "title": {
+              "native": "ONE PIECE x トリコ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30881,
+            "title": {
+              "native": "CROSS EPOCH"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99438,
+          "rating": 1,
+          "media": {
+            "id": 55146,
+            "title": {
+              "native": "ONE PIECE x トリコ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 96511,
+            "title": {
+              "native": "超こち亀"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99442,
+          "rating": 0,
+          "media": {
+            "id": 55146,
+            "title": {
+              "native": "ONE PIECE x トリコ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 55482,
+            "title": {
+              "native": "FAIRY TAIL × RAVE"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99444,
+          "rating": 7,
+          "media": {
+            "id": 55146,
+            "title": {
+              "native": "ONE PIECE x トリコ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 85257,
+            "title": {
+              "native": "『FAIRY TAIL』＆『七つの大罪』合作漫画"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99450,
+          "rating": 1,
+          "media": {
+            "id": 55146,
+            "title": {
+              "native": "ONE PIECE x トリコ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 85194,
+            "title": {
+              "native": "俺コイ!! 俺物語×ニセコイ!!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 184021,
+          "rating": 2,
+          "media": {
+            "id": 55146,
+            "title": {
+              "native": "ONE PIECE x トリコ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 94538,
+            "title": {
+              "native": "マガジンOHANAMI!!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 227764,
+          "rating": 1,
+          "media": {
+            "id": 55146,
+            "title": {
+              "native": "ONE PIECE x トリコ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30013,
+            "title": {
+              "native": "ONE PIECE"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 227766,
+          "rating": 4,
+          "media": {
+            "id": 55146,
+            "title": {
+              "native": "ONE PIECE x トリコ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 37887,
+            "title": {
+              "native": "トリコ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 416367,
+          "rating": 1,
+          "media": {
+            "id": 55146,
+            "title": {
+              "native": "ONE PIECE x トリコ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 108431,
+            "title": {
+              "native": "君たちはどう生きるか"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 12
+      },
+      {
+        "score": 20,
+        "amount": 9
+      },
+      {
+        "score": 30,
+        "amount": 15
+      },
+      {
+        "score": 40,
+        "amount": 44
+      },
+      {
+        "score": 50,
+        "amount": 124
+      },
+      {
+        "score": 60,
+        "amount": 194
+      },
+      {
+        "score": 70,
+        "amount": 190
+      },
+      {
+        "score": 80,
+        "amount": 86
+      },
+      {
+        "score": 90,
+        "amount": 47
+      },
+      {
+        "score": 100,
+        "amount": 38
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 30
+      },
+      {
+        "status": "PLANNING",
+        "amount": 286
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1294
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 6
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/55146",
+  "modNotes": null
+}

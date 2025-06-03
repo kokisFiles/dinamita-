@@ -1,0 +1,915 @@
+{
+  "id": 38777,
+  "idMal": 8777,
+  "title": {
+    "native": "マジンサーガ",
+    "romaji": "Mazin Saga",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "RELEASING",
+  "description": "MazinSaga is a manga written and produced by Go Nagai between 1990 and 1998; currently on going again, it's the summa of Nagai's works, for the complexity of the plot and the treated thematic content.<br>\nMazinsaga tells the story of the young Koji Kabuto, university student who finds himself having to collect the fruit of the researches of his father, physicist of world-wide reputation who died in mysterious circumstances.<br>\nThe boy is thus given a powerful artefact, Mazinger Z, the Armor of God.",
+  "startDate": {
+    "year": 1990,
+    "month": 12,
+    "day": 13
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748875957,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8777.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8777.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/8777.jpg",
+    "color": "#e4d650"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Horror",
+    "Mecha",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "Majinsaga"
+  ],
+  "averageScore": null,
+  "meanScore": 75,
+  "popularity": 187,
+  "favourites": 9,
+  "tags": [
+    {
+      "id": 93,
+      "name": "Post-Apocalyptic",
+      "description": "Partly or completely set in a world or civilization after a global disaster.",
+      "category": "Setting-Universe",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 636,
+      "name": "Cosmic Horror",
+      "description": "A type of horror that emphasizes human insignificance in the grand scope of cosmic reality; fearing the unknown and being powerless to fight it.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 159,
+      "name": "Super Robot",
+      "description": "Prominently features large robots often piloted by hot-blooded protagonists.",
+      "category": "Theme-Sci-Fi-Mecha",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 99,
+      "name": "Henshin",
+      "description": "Prominently features character or costume transformations which often grant special abilities.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 109,
+      "name": "Primarily Adult Cast",
+      "description": "Main cast is mostly composed of characters above a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 639,
+      "name": "Body Horror",
+      "description": "Features characters who undergo horrific transformations or disfigurement, often to their own detriment.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 15,
+      "name": "Demons",
+      "description": "Prominently features malevolent otherworldly creatures.",
+      "category": "Cast-Traits",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 96,
+      "name": "Time Manipulation",
+      "description": "Prominently features time-traveling or other time-warping phenomena.",
+      "category": "Theme-Sci-Fi",
+      "rank": 40,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 253,
+      "name": "Gods",
+      "description": "Prominently features a character of divine or religious nature.",
+      "category": "Cast-Traits",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 217,
+      "name": "Dystopian",
+      "description": "Partly or completely set in a society characterized by poverty, squalor or oppression.",
+      "category": "Setting-Time",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 63,
+      "name": "Space",
+      "description": "Partly or completely set in outer space.",
+      "category": "Setting-Universe",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 104,
+      "name": "Anti-Hero",
+      "description": "Features a protagonist who lacks conventional heroic attributes and may be considered a borderline villain.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 774,
+      "name": "Chimera",
+      "description": "Features a beast made by combining animals, usually with humans.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 158,
+      "name": "Crossover",
+      "description": "Centers around the placement of two or more otherwise discrete fictional characters, settings, or universes into the context of a single story.",
+      "category": "Theme-Other",
+      "rank": 10,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 38773,
+          "title": {
+            "native": "マジンガーZ"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 31474,
+          "title": {
+            "native": "デビルマン"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 38558,
+          "title": {
+            "native": "UFOロボグレンディザー"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 159248,
+          "title": {
+            "native": "グレートマジンガー"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 22929,
+          "name": {
+            "first": "Gamia Q3",
+            "last": null,
+            "native": "ガミア Q3",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/22929.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/22929.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/22929"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7372,
+          "name": {
+            "first": "Kouji",
+            "last": "Kabuto",
+            "native": "兜甲児",
+            "alternative": [
+              "Tommy Davis",
+              "Lance"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7372.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7372.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7372"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24943,
+          "name": {
+            "first": "Tetsuya",
+            "last": "Tsurugi",
+            "native": "剣 鉄也",
+            "alternative": [
+              "Combat Pro"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24943.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24943.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24943"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21499,
+          "name": {
+            "first": "Juzo",
+            "last": "Kabuto",
+            "native": "兜 十蔵",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21499.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21499.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21499"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 2456,
+          "name": {
+            "first": "Akira",
+            "last": "Fudou",
+            "native": "不動明",
+            "alternative": [
+              "Devilman"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2456-rTjIXMLPHTu2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2456-rTjIXMLPHTu2.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2456"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 20201,
+          "name": {
+            "first": "Sayaka",
+            "last": "Yumi",
+            "native": "弓さやか",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b20201-5K7xg28hCkTu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b20201-5K7xg28hCkTu.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/20201"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 83677,
+          "name": {
+            "first": "Jun",
+            "last": "Honoo",
+            "native": "ジュン 炎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/83677.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/83677.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/83677"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7368,
+          "name": {
+            "first": "Duke",
+            "last": "Fleed",
+            "native": "デューク・フリード/宇門大介",
+            "alternative": [
+              "Umon Daisuke",
+              "Orion Quest",
+              "Johny Bryant",
+              "Actarus"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7368.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7368.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7368"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 88310,
+          "name": {
+            "first": "Garada K7",
+            "last": null,
+            "native": "ガラダK7; ガラダちゃん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88310.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88310.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/88310"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 22755,
+          "name": {
+            "first": "Viscount Pygman",
+            "last": null,
+            "native": "ピグマン子爵",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/22755.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/22755.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/22755"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 17651,
+          "name": {
+            "first": "Dr. Hell",
+            "last": null,
+            "native": "Dr.ヘル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17651.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17651.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17651"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17400,
+          "name": {
+            "first": "Ankoku Daishogun",
+            "last": null,
+            "native": "闇黒大将軍",
+            "alternative": [
+              "暗黒大将軍",
+              "Great General of Darkness"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17400-mBOtwNXGt9rU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17400-mBOtwNXGt9rU.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17400"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 25244,
+          "name": {
+            "first": "Archduke Gorgon",
+            "last": null,
+            "native": "ゴーゴン大公",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/25244.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/25244.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/25244"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21217,
+          "name": {
+            "first": "Baron Ashura",
+            "last": null,
+            "native": "あしゅら男爵",
+            "alternative": [
+              "Devileen"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21217.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21217.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21217"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7966,
+          "name": {
+            "first": "Psycho Jenny",
+            "last": null,
+            "native": "サイコジェニー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7966-nh5ZbkAioYaz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7966-nh5ZbkAioYaz.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7966"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21738,
+          "name": {
+            "first": "Brocken Hakushaku",
+            "last": "",
+            "native": "ブロッケン伯爵",
+            "alternative": [
+              "Count Brocken"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21738.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21738.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21738"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 14500,
+          "name": {
+            "first": "Boss",
+            "last": null,
+            "native": "ボス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/14500.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14500.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14500"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97992,
+          "name": {
+            "first": "Gou",
+            "last": "Nagai",
+            "native": "永井豪"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97992-N7uzR2y78tfB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97992-N7uzR2y78tfB.png"
+          },
+          "description": "Kiyoshi Nagai, better known by the pen name Gou Nagai, is a Japanese manga artist and a prolific author of science fiction, fantasy, horror and erotica. He made his professional debut in 1967 with Meakashi Polikichi, but is best known for creating popular 1970s manga and anime series such as [Cutie Honey](https://anilist.co/manga/86168/Cutey-Honey/), [Devilman](https://anilist.co/manga/31474/Devilman/) and [Mazinger Z](https://anilist.co/manga/38773/Mazinger-Z/). He is credited with creating the super robot genre and for designing the first mecha robots piloted by a user from within a cockpit with Mazinger Z, and for pioneering the magical girl genre with Cutie Honey, the post-apocalyptic genre with [Violence Jack](https://anilist.co/manga/31442/Violence-Jack/), and the ecchi genre with [Harenchi Gakuen](https://anilist.co/manga/42808/Harenchi-Gakuen/). \n\nIn 2005, he became a Character Design professor at the Osaka University of Arts. He has been a member of the Tezuka Osamu Cultural Prize's nominating committee since 2009.",
+          "siteUrl": "https://anilist.co/staff/97992"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 102860,
+      "url": "https://kc.kodansha.co.jp/title?code=1000005959",
+      "site": "Kodansha"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 24334,
+      "rank": 49,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 1990,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 108462,
+          "rating": 3,
+          "media": {
+            "id": 38777,
+            "title": {
+              "native": "マジンサーガ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31474,
+            "title": {
+              "native": "デビルマン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 108464,
+          "rating": 2,
+          "media": {
+            "id": 38777,
+            "title": {
+              "native": "マジンサーガ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 38773,
+            "title": {
+              "native": "マジンガーZ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 220029,
+          "rating": 2,
+          "media": {
+            "id": 38777,
+            "title": {
+              "native": "マジンサーガ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 86157,
+            "title": {
+              "native": "デビルマンサーガ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 301656,
+          "rating": 1,
+          "media": {
+            "id": 38777,
+            "title": {
+              "native": "マジンサーガ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 47468,
+            "title": {
+              "native": "仮面ライダーBLACK"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 301660,
+          "rating": 1,
+          "media": {
+            "id": 38777,
+            "title": {
+              "native": "マジンサーガ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 44377,
+            "title": {
+              "native": "真マジンガーＺＥＲＯ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 301662,
+          "rating": 1,
+          "media": {
+            "id": 38777,
+            "title": {
+              "native": "マジンサーガ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31001,
+            "title": {
+              "native": "覚悟のススメ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 301664,
+          "rating": 1,
+          "media": {
+            "id": 38777,
+            "title": {
+              "native": "マジンサーガ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31442,
+            "title": {
+              "native": "バイオレンスジャック"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 301666,
+          "rating": 1,
+          "media": {
+            "id": 38777,
+            "title": {
+              "native": "マジンサーガ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31149,
+            "title": {
+              "native": "北斗の拳"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 301668,
+          "rating": 1,
+          "media": {
+            "id": 38777,
+            "title": {
+              "native": "マジンサーガ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30698,
+            "title": {
+              "native": "新世紀エヴァンゲリオン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 303550,
+          "rating": 1,
+          "media": {
+            "id": 38777,
+            "title": {
+              "native": "マジンサーガ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 38566,
+            "title": {
+              "native": "凄ノ王"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 376418,
+          "rating": 2,
+          "media": {
+            "id": 38777,
+            "title": {
+              "native": "マジンサーガ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 40447,
+            "title": {
+              "native": "ゲッターロボ號"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 3
+      },
+      {
+        "score": 60,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 5
+      },
+      {
+        "score": 80,
+        "amount": 6
+      },
+      {
+        "score": 90,
+        "amount": 7
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 27
+      },
+      {
+        "status": "PLANNING",
+        "amount": 107
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 31
+      },
+      {
+        "status": "DROPPED",
+        "amount": 8
+      },
+      {
+        "status": "PAUSED",
+        "amount": 14
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/38777",
+  "modNotes": null
+}

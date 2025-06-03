@@ -1,0 +1,628 @@
+{
+  "id": 8368,
+  "idMal": 8368,
+  "title": {
+    "native": "クレヨンしんちゃん オタケベ!カスカベ野生王国",
+    "romaji": "Crayon Shin-chan: Otakebe! Kasukabe Yasei Oukoku",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "The seventeenth Crayon Shin-chan movie.",
+  "startDate": {
+    "year": 2009,
+    "month": 4,
+    "day": 18
+  },
+  "endDate": {
+    "year": 2009,
+    "month": 4,
+    "day": 18
+  },
+  "season": "SPRING",
+  "seasonYear": 2009,
+  "seasonInt": 92,
+  "episodes": 1,
+  "duration": 96,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748883488,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8368.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8368.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8368.jpg",
+    "color": "#d6bb1a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Ecchi",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Eiga Crayon Shin-chan: Otakebe! Kasukabe Yasei Oukoku",
+    "Crayon Shin-chan: Roar! Kasukabe Animal Kingdom",
+    "Shin-chan: ¡Esto es una animalada!"
+  ],
+  "averageScore": 66,
+  "meanScore": 68,
+  "popularity": 1455,
+  "favourites": 7,
+  "tags": [
+    {
+      "id": 772,
+      "name": "Shapeshifting",
+      "description": "Features character(s) who changes one's appearance or form.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 8367,
+          "title": {
+            "native": "クレヨンしんちゃん ちょ～嵐を呼ぶ 金矛の勇者"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 8369,
+          "title": {
+            "native": "クレヨンしんちゃん 超時空！嵐を呼ぶオラの花嫁"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 966,
+          "title": {
+            "native": "クレヨンしんちゃん"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7854,
+          "name": {
+            "first": "Misae",
+            "last": "Nohara",
+            "native": "野原美冴",
+            "alternative": [
+              "nee Koyama",
+              "Mitzi",
+              "Misty"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7854.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7854.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7854"
+        },
+        "voiceActors": [
+          {
+            "id": 96600,
+            "name": {
+              "first": "Miki",
+              "last": "Narahashi",
+              "native": "ならはしみき"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96600-v6elhY0JP2iR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96600-v6elhY0JP2iR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96600"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2951,
+          "name": {
+            "first": "Shinnosuke",
+            "last": "Nohara",
+            "native": "野原しんのすけ",
+            "alternative": [
+              "Shin-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2951-Bs571jmT5Xym.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2951-Bs571jmT5Xym.png"
+          },
+          "siteUrl": "https://anilist.co/character/2951"
+        },
+        "voiceActors": [
+          {
+            "id": 95148,
+            "name": {
+              "first": "Aki",
+              "last": "Uechi",
+              "native": "うえちあき"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95148-JiNi79wg9ScS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95148-JiNi79wg9ScS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95148"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 33466,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Nohara",
+            "native": "野原広志",
+            "alternative": [
+              "Hiroshi",
+              "Hiro",
+              "Harry"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/33466.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/33466.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/33466"
+        },
+        "voiceActors": [
+          {
+            "id": 95063,
+            "name": {
+              "first": "Keiji",
+              "last": "Fujiwara",
+              "native": "藤原啓治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95063-xAsEUzspuLMG.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95063-xAsEUzspuLMG.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95063"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7855,
+          "name": {
+            "first": "Himawari",
+            "last": "Nohara",
+            "native": "野原ひまわり",
+            "alternative": [
+              "Hima",
+              "Daisy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7855.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7855.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7855"
+        },
+        "voiceActors": [
+          {
+            "id": 95470,
+            "name": {
+              "first": "Satomi",
+              "last": "Koorogi",
+              "native": "こおろぎさとみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95470-xZYG14WGMlmS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95470-xZYG14WGMlmS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95470"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 105253,
+          "name": {
+            "first": "Ebina",
+            "last": "Kayoko",
+            "native": "海老名香葉子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105253-diOhJaoq2UMz.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105253-diOhJaoq2UMz.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/105253"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 113601,
+          "name": {
+            "first": "Naomi",
+            "last": "Ide",
+            "native": "井出直美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113601-OTvHSZrvdBWw.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n113601-OTvHSZrvdBWw.jpg"
+          },
+          "description": "Affiliated with [diomedéa](https://anilist.co/studio/51/diomeda).",
+          "siteUrl": "https://anilist.co/staff/113601"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 115831,
+          "name": {
+            "first": "Kei",
+            "last": "Wakakusa",
+            "native": "若草恵"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115831-kNCQzO3Cz1NM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115831-kNCQzO3Cz1NM.png"
+          },
+          "description": "Wakakusa Kei is a composer and arranger.  His real name is Saitou Tooru (斉藤 徹).",
+          "siteUrl": "https://anilist.co/staff/115831"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 116579,
+          "name": {
+            "first": "Toshiyuki",
+            "last": "Arakawa",
+            "native": "荒川敏行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116579-1Ruaecn05EZR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116579-1Ruaecn05EZR.jpg"
+          },
+          "description": "__Date of Birth:__ 1953 \n__Place of Birth:__ Japan \n\nA music composer and member of the Japanese Society for Rights of Authors, Composers and Publishers (JASRAC). He graduated from the Department of Literature at Chuo University and joined afterwards Nippon Columbia as music director. \n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/116579"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 117345,
+          "name": {
+            "first": "Akira",
+            "last": "Ookuma",
+            "native": "大熊昭"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/大熊昭)",
+          "siteUrl": "https://anilist.co/staff/117345"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 120006,
+          "name": {
+            "first": "Masato",
+            "last": "Anno",
+            "native": "安野将人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120006-Bq2jM2cLRRdP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n120006-Bq2jM2cLRRdP.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/211927741)",
+          "siteUrl": "https://anilist.co/staff/120006"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 123724,
+          "name": {
+            "first": "Takuji",
+            "last": "Mogi",
+            "native": "茂木琢次"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123724-RxLAY2HeUQW9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n123724-RxLAY2HeUQW9.png"
+          },
+          "description": "Freelancer. Originating from Jungle Gym.",
+          "siteUrl": "https://anilist.co/staff/123724"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 124082,
+          "name": {
+            "first": "Hideo",
+            "last": "Hariganeya",
+            "native": "針金屋英郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124082-mB52fv12523Y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124082-mB52fv12523Y.png"
+          },
+          "description": "[Twitter](https://x.com/Hariganeyan)",
+          "siteUrl": "https://anilist.co/staff/124082"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 124082,
+          "name": {
+            "first": "Hideo",
+            "last": "Hariganeya",
+            "native": "針金屋英郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124082-mB52fv12523Y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124082-mB52fv12523Y.png"
+          },
+          "description": "[Twitter](https://x.com/Hariganeyan)",
+          "siteUrl": "https://anilist.co/staff/124082"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 124676,
+          "name": {
+            "first": "Satomi",
+            "last": "Hashimoto",
+            "native": "橋本里美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/124676"
+        }
+      },
+      {
+        "role": "Editing Assistant",
+        "node": {
+          "id": 129149,
+          "name": {
+            "first": "Yumiko",
+            "last": "Nakaba",
+            "native": "中葉由美子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/129149"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 194484,
+          "name": {
+            "first": "Jun",
+            "last": "Maeda",
+            "native": "前田准"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/194484"
+        }
+      },
+      {
+        "role": "Production Assistant",
+        "node": {
+          "id": 273854,
+          "name": {
+            "first": "Yousuke",
+            "last": "Suzuki",
+            "native": "鈴木洋介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/273854"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 55,
+          "name": "TV Asahi",
+          "siteUrl": "https://anilist.co/studio/55"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 16990,
+      "rank": 26,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2009,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 17065,
+      "rank": 32,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2009,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 13
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 13
+      },
+      {
+        "score": 40,
+        "amount": 20
+      },
+      {
+        "score": 50,
+        "amount": 71
+      },
+      {
+        "score": 60,
+        "amount": 142
+      },
+      {
+        "score": 70,
+        "amount": 141
+      },
+      {
+        "score": 80,
+        "amount": 118
+      },
+      {
+        "score": 90,
+        "amount": 80
+      },
+      {
+        "score": 100,
+        "amount": 35
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 29
+      },
+      {
+        "status": "PLANNING",
+        "amount": 273
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1102
+      },
+      {
+        "status": "DROPPED",
+        "amount": 36
+      },
+      {
+        "status": "PAUSED",
+        "amount": 15
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/8368",
+  "modNotes": null
+}

@@ -1,0 +1,589 @@
+{
+  "id": 42471,
+  "idMal": 12471,
+  "title": {
+    "native": "大長編ドラえもん",
+    "romaji": "Daichouhen Doraemon",
+    "english": "Doraemon's Long Tales"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "\"Doraemon\" is a series about a robotic cat named Doraemon, who travels back in time from the 22nd century to help a schoolboy named Nobita Nobi. Aside from the normal manga books, their great adventures to different places are specially described in Doraemon Long Stories books.",
+  "startDate": {
+    "year": 1980,
+    "month": 1,
+    "day": null
+  },
+  "endDate": {
+    "year": 2004,
+    "month": 3,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 126,
+  "volumes": 24,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748909192,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42471-bILCdlnrUqDu.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42471-bILCdlnrUqDu.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx42471-bILCdlnrUqDu.jpg",
+    "color": "#f1bb5d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/42471-2R9SdUrfo3w3.jpg",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "The Adventure of Doraemon",
+    "Doraemon Long Stories",
+    "Daichohen Doraemon",
+    "Doraemon Petualangan"
+  ],
+  "averageScore": 77,
+  "meanScore": 82,
+  "popularity": 945,
+  "favourites": 36,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 446,
+      "name": "Primarily Child Cast",
+      "description": "Main cast is mostly composed of characters below a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 3727,
+          "title": {
+            "native": "ドラえもん のび太の恐竜"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 2662,
+          "title": {
+            "native": "のび太の宇宙開拓史"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 2671,
+          "title": {
+            "native": "ドラえもん のび太の大魔境"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 2667,
+          "title": {
+            "native": "ドラえもん のび太の海底鬼岩城"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 2672,
+          "title": {
+            "native": "ドラえもん のび太の魔界大冒険"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 2669,
+          "title": {
+            "native": "ドラえもん のび太の宇宙小戦争"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 2665,
+          "title": {
+            "native": "ドラえもん のび太と鉄人兵団"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 2657,
+          "title": {
+            "native": "ドラえもん のび太と竜の騎士"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 2666,
+          "title": {
+            "native": "ドラえもん のび太の日本誕生"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 2677,
+          "title": {
+            "native": "ドラえもん のび太とアニマル惑星(プラネット)"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 31032,
+          "title": {
+            "native": "ドラえもん"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4304,
+          "name": {
+            "first": "Doraemon",
+            "last": null,
+            "native": "ドラえもん",
+            "alternative": [
+              "Dora-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4304-4eXX8C1O4Pda.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4304-4eXX8C1O4Pda.png"
+          },
+          "siteUrl": "https://anilist.co/character/4304"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8262,
+          "name": {
+            "first": "Takeshi",
+            "last": "Gouda",
+            "native": "剛田武",
+            "alternative": [
+              "Gian (ジャイアン)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8262-N2Lsf46EjZBf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8262-N2Lsf46EjZBf.png"
+          },
+          "siteUrl": "https://anilist.co/character/8262"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8261,
+          "name": {
+            "first": "Suneo",
+            "last": "Honekawa",
+            "native": "骨川スネ夫",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8261-qGxKWau5iZrf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8261-qGxKWau5iZrf.png"
+          },
+          "siteUrl": "https://anilist.co/character/8261"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8260,
+          "name": {
+            "first": "Shizuka",
+            "last": "Minamoto",
+            "native": "源静香",
+            "alternative": [
+              "Shizu-chan (静ちゃん)",
+              "しずか"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8260-Hz17eZuElZ7U.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8260-Hz17eZuElZ7U.png"
+          },
+          "siteUrl": "https://anilist.co/character/8260"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4303,
+          "name": {
+            "first": "Nobita",
+            "last": "Nobi",
+            "native": "野比のび太",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4303.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4303.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4303"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97610,
+          "name": {
+            "first": "F. Fujio",
+            "last": "Fujiko",
+            "native": "藤子・F・不二雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2610.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2610.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/藤子・F・不二雄)\n\nHiroshi Fujimoto, better known as F. Fujio Fujiko, was part of the former manga-writing duo [Fujio Fujiko](https://anilist.co/staff/219230/).",
+          "siteUrl": "https://anilist.co/staff/97610"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 115725,
+          "rating": 1,
+          "media": {
+            "id": 42471,
+            "title": {
+              "native": "大長編ドラえもん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 142733,
+            "title": {
+              "native": "ジュラシック・パーク"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 132797,
+          "rating": 3,
+          "media": {
+            "id": 42471,
+            "title": {
+              "native": "大長編ドラえもん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30728,
+            "title": {
+              "native": "鉄腕 アトム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 132843,
+          "rating": 4,
+          "media": {
+            "id": 42471,
+            "title": {
+              "native": "大長編ドラえもん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 60017,
+            "title": {
+              "native": "リュウの道"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 133908,
+          "rating": 2,
+          "media": {
+            "id": 42471,
+            "title": {
+              "native": "大長編ドラえもん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 92309,
+            "title": {
+              "native": "ザ☆ドラえもんズスペシャル"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 133910,
+          "rating": 2,
+          "media": {
+            "id": 42471,
+            "title": {
+              "native": "大長編ドラえもん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31639,
+            "title": {
+              "native": "サイボーグ009"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 185017,
+          "rating": 1,
+          "media": {
+            "id": 42471,
+            "title": {
+              "native": "大長編ドラえもん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 43276,
+            "title": {
+              "native": "楽勝!ハイパードール"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 306155,
+          "rating": 3,
+          "media": {
+            "id": 42471,
+            "title": {
+              "native": "大長編ドラえもん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 53390,
+            "title": {
+              "native": "進撃の巨人"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 311070,
+          "rating": 1,
+          "media": {
+            "id": 42471,
+            "title": {
+              "native": "大長編ドラえもん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31689,
+            "title": {
+              "native": "ロスト・ワールド"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 311072,
+          "rating": 1,
+          "media": {
+            "id": 42471,
+            "title": {
+              "native": "大長編ドラえもん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 73575,
+            "title": {
+              "native": "暁星記"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 311077,
+          "rating": 2,
+          "media": {
+            "id": 42471,
+            "title": {
+              "native": "大長編ドラえもん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31325,
+            "title": {
+              "native": "火の鳥"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 4
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 6
+      },
+      {
+        "score": 50,
+        "amount": 12
+      },
+      {
+        "score": 60,
+        "amount": 25
+      },
+      {
+        "score": 70,
+        "amount": 57
+      },
+      {
+        "score": 80,
+        "amount": 73
+      },
+      {
+        "score": 90,
+        "amount": 114
+      },
+      {
+        "score": 100,
+        "amount": 104
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 72
+      },
+      {
+        "status": "PLANNING",
+        "amount": 301
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 526
+      },
+      {
+        "status": "DROPPED",
+        "amount": 20
+      },
+      {
+        "status": "PAUSED",
+        "amount": 26
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/42471",
+  "modNotes": null
+}

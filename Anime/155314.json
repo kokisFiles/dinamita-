@@ -1,0 +1,607 @@
+{
+  "id": 155314,
+  "idMal": 56787,
+  "title": {
+    "native": "少年歌行 海外仙山篇",
+    "romaji": "Shaonian Ge Xing: Haiwai Xianshan Pian",
+    "english": "Great Journey of Teenagers 3rd Season"
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "The third season of <i>Shaonian Ge Xing</i>.",
+  "startDate": {
+    "year": 2023,
+    "month": 10,
+    "day": 25
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 4,
+    "day": 10
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 26,
+  "duration": 20,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": {
+    "id": "8UyxLuPs1T4",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/8UyxLuPs1T4/hqdefault.jpg"
+  },
+  "updatedAt": 1748770840,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155314-Qnl09KYOSA0n.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155314-Qnl09KYOSA0n.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155314-Qnl09KYOSA0n.png",
+    "color": "#e4935d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery"
+  ],
+  "synonyms": [
+    "少年歌行 第三季",
+    "Shaonian Ge Xing 3"
+  ],
+  "averageScore": null,
+  "meanScore": 75,
+  "popularity": 170,
+  "favourites": 9,
+  "tags": [
+    {
+      "id": 89,
+      "name": "Full CGI",
+      "description": "Almost entirely created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 141132,
+          "title": {
+            "native": "少年歌行 风花雪月篇 下部"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 185828,
+          "title": {
+            "native": "少年歌行 血染天启篇"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 137257,
+          "name": {
+            "first": "Wujie",
+            "last": "Lei",
+            "native": "雷无桀",
+            "alternative": [
+              "雷阵雨",
+              "雷无心",
+              "雷无萧"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137257-qY1rMQV0FCOM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137257-qY1rMQV0FCOM.png"
+          },
+          "siteUrl": "https://anilist.co/character/137257"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 221330,
+          "name": {
+            "first": "Se",
+            "last": "Xiao",
+            "native": "萧瑟",
+            "alternative": [
+              "萧楚河 (Chuhe Xiao)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b221330-3KpIl9TnbyE2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b221330-3KpIl9TnbyE2.png"
+          },
+          "siteUrl": "https://anilist.co/character/221330"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 223648,
+          "name": {
+            "first": "Munan",
+            "last": "Zhou",
+            "native": "周木楠"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n223648-lurqh8AHabrN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n223648-lurqh8AHabrN.png"
+          },
+          "description": "__[Weibo](https://weibo.com/hongya12)__",
+          "siteUrl": "https://anilist.co/staff/223648"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 6389,
+          "name": "bilibili",
+          "siteUrl": "https://anilist.co/studio/6389"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6530,
+          "name": "Youku",
+          "siteUrl": "https://anilist.co/studio/6530"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 6481,
+          "name": "CG Year",
+          "siteUrl": "https://anilist.co/studio/6481"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 372931,
+          "airingAt": 1698199200,
+          "episode": 1,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372932,
+          "airingAt": 1698804000,
+          "episode": 2,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372933,
+          "airingAt": 1699408800,
+          "episode": 3,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372934,
+          "airingAt": 1700013600,
+          "episode": 4,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372935,
+          "airingAt": 1700618400,
+          "episode": 5,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372936,
+          "airingAt": 1701223200,
+          "episode": 6,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372937,
+          "airingAt": 1701828000,
+          "episode": 7,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372938,
+          "airingAt": 1702432800,
+          "episode": 8,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372939,
+          "airingAt": 1703037600,
+          "episode": 9,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372940,
+          "airingAt": 1703642400,
+          "episode": 10,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372941,
+          "airingAt": 1704247200,
+          "episode": 11,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372942,
+          "airingAt": 1704852000,
+          "episode": 12,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372943,
+          "airingAt": 1705456800,
+          "episode": 13,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372944,
+          "airingAt": 1706061600,
+          "episode": 14,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372945,
+          "airingAt": 1706666400,
+          "episode": 15,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372946,
+          "airingAt": 1707271200,
+          "episode": 16,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372947,
+          "airingAt": 1707876000,
+          "episode": 17,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372948,
+          "airingAt": 1708480800,
+          "episode": 18,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372949,
+          "airingAt": 1709085600,
+          "episode": 19,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372950,
+          "airingAt": 1709690400,
+          "episode": 20,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372951,
+          "airingAt": 1710295200,
+          "episode": 21,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372952,
+          "airingAt": 1710900000,
+          "episode": 22,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372953,
+          "airingAt": 1711504800,
+          "episode": 23,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372954,
+          "airingAt": 1712109600,
+          "episode": 24,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 372955,
+          "airingAt": 1712714400,
+          "episode": 25,
+          "mediaId": 155314,
+          "media": {
+            "id": 155314
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 58837,
+      "url": "https://weibo.com/u/7227071681",
+      "site": "Weibo"
+    },
+    {
+      "id": 58838,
+      "url": "https://list.youku.com/show/id_ebfdfe59c76b49fb9fbe",
+      "site": "Youku"
+    },
+    {
+      "id": 87354,
+      "url": "https://www.bilibili.com/bangumi/media/md20328226",
+      "site": "Bilibili"
+    },
+    {
+      "id": 87355,
+      "url": "https://www.youtube.com/playlist?list=PLOUUm4xsoaeDMzcxJhFtB5dlE_-i72PWe",
+      "site": "YouTube"
+    },
+    {
+      "id": 87356,
+      "url": "https://www.youku.tv/v/v_show/id_XNjEyMDYxNDQyMA==.html",
+      "site": "Youku TV"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 282350,
+          "rating": 1,
+          "media": {
+            "id": 155314,
+            "title": {
+              "native": "少年歌行 海外仙山篇"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 108715,
+            "title": {
+              "native": "少年歌行"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 8
+      },
+      {
+        "score": 80,
+        "amount": 8
+      },
+      {
+        "score": 90,
+        "amount": 6
+      },
+      {
+        "score": 100,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 38
+      },
+      {
+        "status": "PLANNING",
+        "amount": 69
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 50
+      },
+      {
+        "status": "DROPPED",
+        "amount": 12
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/155314",
+  "modNotes": null
+}

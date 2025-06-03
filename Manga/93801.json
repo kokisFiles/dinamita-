@@ -1,0 +1,477 @@
+{
+  "id": 93801,
+  "idMal": 85900,
+  "title": {
+    "native": "黒子のバスケ Replace PLUS",
+    "romaji": "Kuroko no Basket: Replace Plus",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The manga tells the story of the generation of miracles' middle school years, and compiles other short stories.",
+  "startDate": {
+    "year": 2015,
+    "month": 1,
+    "day": 27
+  },
+  "endDate": {
+    "year": 2018,
+    "month": 4,
+    "day": 24
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 66,
+  "volumes": 10,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "LIGHT_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748871814,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx93801-4gX156uVZATe.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93801-4gX156uVZATe.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx93801-4gX156uVZATe.jpg",
+    "color": "#e4a128"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Slice of Life",
+    "Sports"
+  ],
+  "synonyms": [
+    "Kuroko's Basketball: Replace Plus"
+  ],
+  "averageScore": 67,
+  "meanScore": 75,
+  "popularity": 810,
+  "favourites": 17,
+  "tags": [
+    {
+      "id": 192,
+      "name": "Basketball",
+      "description": "Centers around the sport of basketball.",
+      "category": "Theme-Game-Sport",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 88,
+      "name": "Primarily Male Cast",
+      "description": "Main cast is mostly composed of male characters.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 41652,
+          "title": {
+            "native": "黒子のバスケ"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 72737,
+          "title": {
+            "native": "黒子のバスケ -Replace-"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21332,
+          "name": {
+            "first": "Ryouta",
+            "last": "Kise",
+            "native": "黄瀬涼太",
+            "alternative": [
+              "Ki-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21332-aPRs1Xq7ZHoV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b21332-aPRs1Xq7ZHoV.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21332"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 36821,
+          "name": {
+            "first": "Satsuki",
+            "last": "Momoi",
+            "native": "桃井さつき",
+            "alternative": [
+              "Sa-chin "
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36821-8vtlTiKYRNVz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36821-8vtlTiKYRNVz.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36821"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 18769,
+          "name": {
+            "first": "Tetsuya",
+            "last": "Kuroko",
+            "native": "黒子テツヤ",
+            "alternative": [
+              "The Phantom Sixth Member",
+              "Tetsu",
+              "Kurokocchi",
+              "Kuro-chin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b18769-7ms6XKt8jCzU.png"
+          },
+          "siteUrl": "https://anilist.co/character/18769"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42038,
+          "name": {
+            "first": "Seijuurou",
+            "last": "Akashi",
+            "native": "赤司征十郎",
+            "alternative": [
+              "Seijuro Akashi",
+              "Akashicchi",
+              "Aka-chin",
+              "Sei-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42038-3xNprwetDcl1.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b42038-3xNprwetDcl1.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42038"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 22253,
+          "name": {
+            "first": "Shintarou",
+            "last": "Midorima",
+            "native": "緑間真太郎",
+            "alternative": [
+              "Midorimacchi",
+              "Mido-chin",
+              "Shin-chan",
+              "Midorin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22253-PwE3Kv3nSA44.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b22253-PwE3Kv3nSA44.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/22253"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36976,
+          "name": {
+            "first": "Atsushi",
+            "last": "Murasakibara",
+            "native": "紫原敦",
+            "alternative": [
+              "Mu-kun",
+              "Murasakibaracchi",
+              "The Wall"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36976-fVmQY9GqvHHa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36976-fVmQY9GqvHHa.png"
+          },
+          "siteUrl": "https://anilist.co/character/36976"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36820,
+          "name": {
+            "first": "Daiki",
+            "last": "Aomine",
+            "native": "青峰大輝",
+            "alternative": [
+              "Mine-chin",
+              "Aominecchi",
+              "Dai-chan",
+              "Ahomine"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36820-bW2c6TbIqgKO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36820-bW2c6TbIqgKO.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36820"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 113801,
+          "name": {
+            "first": "Sawako",
+            "last": "Hirabayashi",
+            "native": "平林佐和子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/sui_sui_sei)",
+          "siteUrl": "https://anilist.co/staff/113801"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 101854,
+          "name": {
+            "first": "Tadatoshi",
+            "last": "Fujimaki",
+            "native": "藤巻忠俊"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6854.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6854.jpg"
+          },
+          "description": "Tadatoshi Fujimaki is a Japanese manga artist, best known as the creator of sports manga Kuroko's Basketball and golf-based Robot × LaserBeam, both serialized in Weekly Shounen Jump.",
+          "siteUrl": "https://anilist.co/staff/101854"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 105351,
+          "name": {
+            "first": "Ichirou",
+            "last": "Takahashi",
+            "native": "高橋一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "He is of the domestic type. He respects Araki Hirohiko of JoJo's Bizarre Adventure. Also, he has a sister. ",
+          "siteUrl": "https://anilist.co/staff/105351"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 101854,
+          "name": {
+            "first": "Tadatoshi",
+            "last": "Fujimaki",
+            "native": "藤巻忠俊"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6854.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6854.jpg"
+          },
+          "description": "Tadatoshi Fujimaki is a Japanese manga artist, best known as the creator of sports manga Kuroko's Basketball and golf-based Robot × LaserBeam, both serialized in Weekly Shounen Jump.",
+          "siteUrl": "https://anilist.co/staff/101854"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 40927,
+          "rating": 1,
+          "media": {
+            "id": 93801,
+            "title": {
+              "native": "黒子のバスケ Replace PLUS"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 47484,
+            "title": {
+              "native": "DEAR BOYS THE EARLY DAYS"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 41013,
+          "rating": 0,
+          "media": {
+            "id": 93801,
+            "title": {
+              "native": "黒子のバスケ Replace PLUS"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 51939,
+            "title": {
+              "native": "シュート！〜蒼きめぐり逢い〜"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 9
+      },
+      {
+        "score": 60,
+        "amount": 22
+      },
+      {
+        "score": 70,
+        "amount": 43
+      },
+      {
+        "score": 80,
+        "amount": 39
+      },
+      {
+        "score": 90,
+        "amount": 27
+      },
+      {
+        "score": 100,
+        "amount": 26
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 128
+      },
+      {
+        "status": "PLANNING",
+        "amount": 370
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 232
+      },
+      {
+        "status": "DROPPED",
+        "amount": 28
+      },
+      {
+        "status": "PAUSED",
+        "amount": 52
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/93801",
+  "modNotes": null
+}

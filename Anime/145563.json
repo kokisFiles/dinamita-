@@ -1,0 +1,337 @@
+{
+  "id": 145563,
+  "idMal": null,
+  "title": {
+    "native": "鉄人28号 2",
+    "romaji": "Tetsujin 28-gou 2",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "The final cour of <i>Tetsujin 28-gou</i>, which aired half a year after the end of the first season.",
+  "startDate": {
+    "year": 1965,
+    "month": 9,
+    "day": 1
+  },
+  "endDate": {
+    "year": 1965,
+    "month": 11,
+    "day": 24
+  },
+  "season": "FALL",
+  "seasonYear": 1965,
+  "seasonInt": 654,
+  "episodes": 13,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748253232,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145563-nAeylCSNqcOM.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145563-nAeylCSNqcOM.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145563-nAeylCSNqcOM.png",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 47,
+  "popularity": 116,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 159,
+      "name": "Super Robot",
+      "description": "Prominently features large robots often piloted by hot-blooded protagonists.",
+      "category": "Theme-Sci-Fi-Mecha",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 710,
+      "name": "Achromatic",
+      "description": "Contains animation that is primarily done in black and white.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2686,
+          "title": {
+            "native": "鉄人28号"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 4208,
+          "title": {
+            "native": "太陽の使者 鉄人28号"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 10319,
+          "title": {
+            "native": "超電動ロボ 鉄人28号FX"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 76486,
+          "title": {
+            "native": "鉄人28号"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 38930,
+          "name": {
+            "first": "Ootsuka Shochou",
+            "last": "",
+            "native": "大塚署長",
+            "alternative": [
+              "Chief Ootsuka"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38930-W0QrwJkfpoEs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b38930-W0QrwJkfpoEs.png"
+          },
+          "siteUrl": "https://anilist.co/character/38930"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 38929,
+          "name": {
+            "first": "Shoutarou",
+            "last": "Kaneda",
+            "native": "金田正太郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38929-SyiEp94g5x3w.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b38929-SyiEp94g5x3w.png"
+          },
+          "siteUrl": "https://anilist.co/character/38929"
+        },
+        "voiceActors": [
+          {
+            "id": 115072,
+            "name": {
+              "first": "Kazue",
+              "last": "Takahashi",
+              "native": "高橋和枝"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/20072.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/20072.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/115072"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 38933,
+          "name": {
+            "first": "Shikishima Hakase",
+            "last": "",
+            "native": "敷島博士",
+            "alternative": [
+              "Professor Shikishima"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38933-QKFgCJsaq3ny.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b38933-QKFgCJsaq3ny.png"
+          },
+          "siteUrl": "https://anilist.co/character/38933"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 11510,
+          "name": {
+            "first": "Kenji",
+            "last": "Murasame",
+            "native": "村雨健次",
+            "alternative": [
+              "The Immortal",
+              "Dick Strong"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/11510.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/11510.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/11510"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 98679,
+          "name": {
+            "first": "Mitsuteru",
+            "last": "Yokoyama",
+            "native": "横山光輝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98679-lV6RRPXe7b7z.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98679-lV6RRPXe7b7z.jpg"
+          },
+          "description": "[Official Website](https://yokoyama-mitsuteru.com/)\n\nMitsuteru Yokoyama was a Japanese manga artist born in Suma Ward of Kobe City in Hyōgo Prefecture.\nYokoyama spent his boyhood during World War II and was evacuated to Tottori with his family. He graduated from Kobe municipal Ota junior high school and went on to the Kobe municipal Suma high school. [Osamu Tezuka](https://anilist.co/staff/96938/Osamu-Tezuka)'s \"Metropolis\" made a deep impression on Yokoyama who wished to become a manga artist in earnest and so he contributed his works to a comic book in his high school days.\nYokoyama came out with the book \"Otonashi no Ken (音無しの剣 Sword without sound)\" for his manga artist début, which caught [Osamu Tezuka](https://anilist.co/staff/96938/Osamu-Tezuka)'s attention.\nCreated the very first \"Giant Robot\" series, Tetsujin 28 (Gigantor) in 1956. Also created the first \"Magical Girl\" series, Sally the Witch, in 1966.\n\nDied from a house fire in 2004, aged 69.",
+          "siteUrl": "https://anilist.co/staff/98679"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 489,
+          "name": "TCJ",
+          "siteUrl": "https://anilist.co/studio/489"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 3
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 5
+      },
+      {
+        "status": "PLANNING",
+        "amount": 56
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 38
+      },
+      {
+        "status": "DROPPED",
+        "amount": 15
+      },
+      {
+        "status": "PAUSED",
+        "amount": 2
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/145563",
+  "modNotes": null
+}

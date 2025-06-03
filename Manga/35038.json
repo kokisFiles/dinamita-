@@ -1,0 +1,696 @@
+{
+  "id": 35038,
+  "idMal": 5038,
+  "title": {
+    "native": ".hack//Link",
+    "romaji": ".hack//Link",
+    "english": ".hack//Link"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The story takes place in the year 2020, just three years after the events of .hack//G.U.. (The story will take place not only in the new version of \"The World\" known as \"The World R:X\", it is a popular game ) but in the real world as well. The lead character is a middle school student named Tokio Kuryuu. He lives a normal life as a gamer until a mysterious girl named Ayaka Amagi transfers to his school and takes him in the game world. (Source: Wikipedia)",
+  "startDate": {
+    "year": 2007,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": 2010,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 20,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748881584,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35038-G0jwE3yuzUFs.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35038-G0jwE3yuzUFs.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx35038-G0jwE3yuzUFs.jpg",
+    "color": "#d6ae6b"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Twilight Knights"
+  ],
+  "averageScore": 56,
+  "meanScore": 62,
+  "popularity": 444,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 112,
+      "name": "Virtual World",
+      "description": "Partly or completely set in the world inside a video game.",
+      "category": "Setting-Universe",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 30116,
+          "title": {
+            "native": ".hack//G.U.+"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 70293,
+          "title": {
+            "native": ".hack//bullet"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 10650,
+          "name": {
+            "first": "Fluegel",
+            "last": null,
+            "native": "フリューゲル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10650.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10650.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10650"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2311,
+          "name": {
+            "first": "Kite",
+            "last": null,
+            "native": "カイト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2311.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2311.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2311"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 10884,
+          "name": {
+            "first": "Saika",
+            "last": "Amagi",
+            "native": "天城彩花",
+            "alternative": [
+              "Princess Saika"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10884.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10884.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10884"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 10652,
+          "name": {
+            "first": "Tokio",
+            "last": "Kuryuu",
+            "native": "九竜トキオ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10652.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10652.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10652"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 33,
+          "name": {
+            "first": "Haseo",
+            "last": null,
+            "native": "ハセヲ",
+            "alternative": [
+              "The Terror Of Death"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b33-cYEpl0VXygH0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b33-cYEpl0VXygH0.png"
+          },
+          "siteUrl": "https://anilist.co/character/33"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 11824,
+          "name": {
+            "first": "Saburou",
+            "last": null,
+            "native": "三郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/11824.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/11824.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/11824"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31600,
+          "name": {
+            "first": "Trommel",
+            "last": null,
+            "native": "トロンメル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31600.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31600.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31600"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6845,
+          "name": {
+            "first": "Aura",
+            "last": null,
+            "native": "アウラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/6845.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/6845.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6845"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31594,
+          "name": {
+            "first": "Geist",
+            "last": null,
+            "native": "ガイスト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31594.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31594.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31594"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 39,
+          "name": {
+            "first": "Tsukasa",
+            "last": null,
+            "native": "司",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/39.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/39.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/39"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 12245,
+          "name": {
+            "first": "Silabus",
+            "last": null,
+            "native": "シラバス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12245.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/12245.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12245"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31595,
+          "name": {
+            "first": "Genius",
+            "last": null,
+            "native": "ジーニアス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31595.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31595.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31595"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 41,
+          "name": {
+            "first": "Subaru",
+            "last": null,
+            "native": "昴",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/41.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/41.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/41"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 28978,
+          "name": {
+            "first": "Gaspard",
+            "last": null,
+            "native": "ガスパー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/28978.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28978.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28978"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31596,
+          "name": {
+            "first": "Klarinette",
+            "last": null,
+            "native": "クラリネッテ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31596.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31596.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31596"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2184,
+          "name": {
+            "first": "Silver Knight",
+            "last": null,
+            "native": "銀漢",
+            "alternative": [
+              "Ginkan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2184.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2184.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2184"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 28982,
+          "name": {
+            "first": "Bordeaux",
+            "last": null,
+            "native": "ボルドー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/28982.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28982.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28982"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 10796,
+          "name": {
+            "first": "Orca",
+            "last": null,
+            "native": "オルカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10796.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10796.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10796"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31597,
+          "name": {
+            "first": "Metronom",
+            "last": null,
+            "native": "メトロノーム",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31597.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31597.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31597"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2231,
+          "name": {
+            "first": "Balmung",
+            "last": null,
+            "native": "バルムンク",
+            "alternative": [
+              "Balmung of the Azure Sky"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2231.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2231.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2231"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 29016,
+          "name": {
+            "first": "Negimaru",
+            "last": null,
+            "native": "ネギ丸",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29016.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29016.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29016"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31598,
+          "name": {
+            "first": "Orgel",
+            "last": null,
+            "native": "オルゲル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31598.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31598.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31598"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2303,
+          "name": {
+            "first": "Tri-Edge",
+            "last": null,
+            "native": "トライエッジ",
+            "alternative": [
+              "三爪痕",
+              "Azure Kite",
+              "アズレ・カイト",
+              "蒼炎のカイト"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2303.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2303.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2303"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31592,
+          "name": {
+            "first": "AIKA",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31592.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31592.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31592"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 11692,
+          "name": {
+            "first": "Alkaid",
+            "last": null,
+            "native": null,
+            "alternative": [
+              "Youkou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/11692.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/11692.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/11692"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Art",
+        "node": {
+          "id": 96361,
+          "name": {
+            "first": "Brian",
+            "last": "Beacock",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96361-2Qhjphgjt2QV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96361-2Qhjphgjt2QV.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/96361"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 98448,
+          "name": {
+            "first": "Megane",
+            "last": "Kikuya",
+            "native": "喜久屋めがね"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/98448"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 99459,
+          "name": {
+            "first": "",
+            "last": "CyberConnect2",
+            "native": "サイバーコネクトツー"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/4459.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/4459.jpg"
+          },
+          "description": "CyberConnect2 is a video game development studio, mostly known for its work on the .hack series. It was first formed on February, 1996 as \"CyberConnect\" but on September, 2001, it was renamed \"CyberConnect2\".  [source:Wiki]",
+          "siteUrl": "https://anilist.co/staff/99459"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 5
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 10
+      },
+      {
+        "score": 50,
+        "amount": 20
+      },
+      {
+        "score": 60,
+        "amount": 25
+      },
+      {
+        "score": 70,
+        "amount": 33
+      },
+      {
+        "score": 80,
+        "amount": 8
+      },
+      {
+        "score": 90,
+        "amount": 10
+      },
+      {
+        "score": 100,
+        "amount": 6
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 47
+      },
+      {
+        "status": "PLANNING",
+        "amount": 184
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 158
+      },
+      {
+        "status": "DROPPED",
+        "amount": 19
+      },
+      {
+        "status": "PAUSED",
+        "amount": 36
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/35038",
+  "modNotes": null
+}

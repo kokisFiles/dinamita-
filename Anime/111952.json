@@ -1,0 +1,1025 @@
+{
+  "id": 111952,
+  "idMal": 40323,
+  "title": {
+    "native": "銀魂 ～モンスターストライク編～",
+    "romaji": "Gintama: Monster Strike-hen",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "Collaboration anime between Gintama and Monster Strike.",
+  "startDate": {
+    "year": 2019,
+    "month": 8,
+    "day": 29
+  },
+  "endDate": {
+    "year": 2019,
+    "month": 9,
+    "day": 4
+  },
+  "season": "SUMMER",
+  "seasonYear": 2019,
+  "seasonInt": 193,
+  "episodes": 2,
+  "duration": 11,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": {
+    "id": "BON9V-Qw1hs",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/BON9V-Qw1hs/hqdefault.jpg"
+  },
+  "updatedAt": 1748888558,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111952-9b5f1ojvmgcc.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111952-9b5f1ojvmgcc.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx111952-9b5f1ojvmgcc.jpg",
+    "color": "#f15d35"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "synonyms": [],
+  "averageScore": 70,
+  "meanScore": 71,
+  "popularity": 4058,
+  "favourites": 24,
+  "tags": [
+    {
+      "id": 158,
+      "name": "Crossover",
+      "description": "Centers around the placement of two or more otherwise discrete fictional characters, settings, or universes into the context of a single story.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 144,
+      "name": "Meta",
+      "description": "Features fourth wall-breaking references to itself or genre tropes.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 328,
+      "name": "Cosplay",
+      "description": "Features dressing up as a different character or profession.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 490,
+      "name": "Anachronism",
+      "description": "Prominently features elements that are out of place in the historical period the work takes place in, particularly modern elements in a historical setting.",
+      "category": "Setting-Time",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 15,
+      "name": "Demons",
+      "description": "Prominently features malevolent otherworldly creatures.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 191,
+      "name": "Aliens",
+      "description": "Prominently features extraterrestrial lifeforms.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 308,
+      "name": "Video Games",
+      "description": "Centers around characters playing video games.",
+      "category": "Theme-Game",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 146,
+      "name": "Alternate Universe",
+      "description": "Features multiple alternate universes in the same series.",
+      "category": "Setting-Universe",
+      "rank": 50,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 918,
+          "title": {
+            "native": "銀魂"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 21288,
+          "title": {
+            "native": "モンスターストライク"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 674,
+          "name": {
+            "first": "Kagura",
+            "last": null,
+            "native": "神楽",
+            "alternative": [
+              "Gura",
+              "China Girl",
+              "Leader",
+              "Gurako"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b674-w8wCh0A5Qa8R.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b674-w8wCh0A5Qa8R.png"
+          },
+          "siteUrl": "https://anilist.co/character/674"
+        },
+        "voiceActors": [
+          {
+            "id": 95008,
+            "name": {
+              "first": "Rie",
+              "last": "Kugimiya",
+              "native": "釘宮理恵"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95008-2y0EeuSTHIri.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95008"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 673,
+          "name": {
+            "first": "Shinpachi",
+            "last": "Shimura",
+            "native": "志村新八",
+            "alternative": [
+              "Shin-chan",
+              "Shin",
+              "Pattsuan",
+              "Megane",
+              "Pachie",
+              "Shintank",
+              "Watson",
+              "Pasta"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b673-nScArSMt85kd.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b673-nScArSMt85kd.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/673"
+        },
+        "voiceActors": [
+          {
+            "id": 95278,
+            "name": {
+              "first": "Daisuke",
+              "last": "Sakaguchi",
+              "native": "阪口大助"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95278-IrUPhIvJCsF9.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95278-IrUPhIvJCsF9.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95278"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2282,
+          "name": {
+            "first": "Sougo",
+            "last": "Okita",
+            "native": "沖田総悟",
+            "alternative": [
+              "Sou-chan",
+              "The Prince of the Planet of Sadists",
+              "S King",
+              "Bakaiser",
+              "Hitman Sougo 13"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2282-X0uYqwmwxiPo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2282-X0uYqwmwxiPo.png"
+          },
+          "siteUrl": "https://anilist.co/character/2282"
+        },
+        "voiceActors": [
+          {
+            "id": 95005,
+            "name": {
+              "first": "Kenichi",
+              "last": "Suzumura",
+              "native": "鈴村健一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95005-SkoVN02iOglr.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95005-SkoVN02iOglr.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95005"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1533,
+          "name": {
+            "first": "Kotarou",
+            "last": "Katsura",
+            "native": "桂小太郎",
+            "alternative": [
+              "Zura",
+              "Fruit Punch Samurai",
+              "Zurako",
+              "Captain Katsura",
+              "Katsuo",
+              "ObaZ"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1533-tSqUrj2DOK5p.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1533-tSqUrj2DOK5p.png"
+          },
+          "siteUrl": "https://anilist.co/character/1533"
+        },
+        "voiceActors": [
+          {
+            "id": 95017,
+            "name": {
+              "first": "Akira",
+              "last": "Ishida",
+              "native": "石田彰"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95017-GSRcmQ97a8ZT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95017"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 672,
+          "name": {
+            "first": "Gintoki",
+            "last": "Sakata",
+            "native": "坂田銀時",
+            "alternative": [
+              "Yorozuya",
+              "Mr. Odd Jobs",
+              "Shiroyasha",
+              "Gin",
+              "Gin-chan",
+              "Kintoki",
+              "Paako",
+              "Ginpachi-sensei",
+              "Ginnoji",
+              "GFundz",
+              "Boss",
+              "Ginpachi Sakata (坂田銀八)",
+              "Corpse Eating Demon",
+              "White Yaksha",
+              "Gin-san",
+              "Tokiko",
+              "Ginko",
+              "Johnny",
+              "Danna",
+              "Earth Big Brother",
+              "Earth dad"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b672-cP5VPriN67xJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b672-cP5VPriN67xJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/672"
+        },
+        "voiceActors": [
+          {
+            "id": 95002,
+            "name": {
+              "first": "Tomokazu",
+              "last": "Sugita",
+              "native": "杉田智和"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95002-nDIvHaynicEg.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95002"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2650,
+          "name": {
+            "first": "Toushirou",
+            "last": "Hijikata",
+            "native": "土方十四郎",
+            "alternative": [
+              "Mayora",
+              "Demonic Vice-Commander",
+              "Mayonnaise Lover 13",
+              "Mayo 13",
+              "Toushi",
+              "Thorny"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2650-zgkj5l8mIOnn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2650-zgkj5l8mIOnn.png"
+          },
+          "siteUrl": "https://anilist.co/character/2650"
+        },
+        "voiceActors": [
+          {
+            "id": 95123,
+            "name": {
+              "first": "Kazuya",
+              "last": "Nakai",
+              "native": "中井和哉"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95123-54LrTiD9kGwY.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95123-54LrTiD9kGwY.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95123"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 146060,
+          "name": {
+            "first": "Nostradamus",
+            "last": null,
+            "native": "ノストラダムス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b146060-alPR9uWzHmso.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b146060-alPR9uWzHmso.png"
+          },
+          "siteUrl": "https://anilist.co/character/146060"
+        },
+        "voiceActors": [
+          {
+            "id": 95008,
+            "name": {
+              "first": "Rie",
+              "last": "Kugimiya",
+              "native": "釘宮理恵"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95008-2y0EeuSTHIri.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95008"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 146061,
+          "name": {
+            "first": "Oragon",
+            "last": null,
+            "native": "オラゴン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b146061-cXQ1mpIUwqbQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b146061-cXQ1mpIUwqbQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/146061"
+        },
+        "voiceActors": [
+          {
+            "id": 105094,
+            "name": {
+              "first": "Jun",
+              "last": "Fukushima",
+              "native": "福島潤"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105094-Udz3lBFTZa5W.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105094-Udz3lBFTZa5W.png"
+            },
+            "siteUrl": "https://anilist.co/staff/105094"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3760,
+          "name": {
+            "first": "Taizou",
+            "last": "Hasegawa",
+            "native": "長谷川泰三",
+            "alternative": [
+              "Madao",
+              "Piggy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3760-bxdyoPARX4Sx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3760-bxdyoPARX4Sx.png"
+          },
+          "siteUrl": "https://anilist.co/character/3760"
+        },
+        "voiceActors": [
+          {
+            "id": 95284,
+            "name": {
+              "first": "Fumihiko",
+              "last": "Tachiki",
+              "native": "立木文彦"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95284-k97k9dULn4vr.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95284-k97k9dULn4vr.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95284"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2651,
+          "name": {
+            "first": "Sadaharu",
+            "last": null,
+            "native": "定春",
+            "alternative": [
+              "Sadaemon Wolf The Mask"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n2651-e8BTqVZl8lK2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n2651-e8BTqVZl8lK2.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2651"
+        },
+        "voiceActors": [
+          {
+            "id": 95132,
+            "name": {
+              "first": "Mikako",
+              "last": "Takahashi",
+              "native": "高橋美佳子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95132-TpIFKL0tJg84.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95132-TpIFKL0tJg84.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95132"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2948,
+          "name": {
+            "first": "Shinsuke",
+            "last": "Takasugi",
+            "native": "高杉晋助",
+            "alternative": [
+              "Hikusugi-kun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2948-Er1xnL05k1oU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2948-Er1xnL05k1oU.png"
+          },
+          "siteUrl": "https://anilist.co/character/2948"
+        },
+        "voiceActors": [
+          {
+            "id": 95160,
+            "name": {
+              "first": "Takehito",
+              "last": "Koyasu",
+              "native": "子安武人"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95160-jWevcH7BmfE1.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95160"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2943,
+          "name": {
+            "first": "Isao",
+            "last": "Kondou",
+            "native": "近藤勲",
+            "alternative": [
+              "Gorilla",
+              "Fruits Chinpo Samurai",
+              "Gori-san"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2943-QVEHBh0T6hPC.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2943-QVEHBh0T6hPC.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2943"
+        },
+        "voiceActors": [
+          {
+            "id": 95260,
+            "name": {
+              "first": "Susumu",
+              "last": "Chiba",
+              "native": "千葉進歩"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95260-pKyM0LbhEznc.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95260-pKyM0LbhEznc.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95260"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2946,
+          "name": {
+            "first": "Elizabeth",
+            "last": null,
+            "native": "エリザベス",
+            "alternative": [
+              "Eli",
+              "Shogun Ehou (江蓮)",
+              "Eren"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2946-Wr6RcgisCsbi.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2946-Wr6RcgisCsbi.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2946"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 123206,
+          "name": {
+            "first": "Shimaru",
+            "last": "Saitou",
+            "native": "斉藤終",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/123206-ZikmwO75j15A.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/123206-ZikmwO75j15A.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/123206"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 12946,
+          "name": {
+            "first": "Kamui",
+            "last": null,
+            "native": "神威",
+            "alternative": [
+              "Admiral idiot",
+              "Baka Teitoku",
+              "Baka Aniki"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12946-wqrTLWsy7dW5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12946-wqrTLWsy7dW5.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/12946"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 146516,
+          "name": {
+            "first": "Lucifer",
+            "last": null,
+            "native": "ルシファー",
+            "alternative": [
+              "Lucy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b146516-QUYJfBdIHRPf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b146516-QUYJfBdIHRPf.png"
+          },
+          "siteUrl": "https://anilist.co/character/146516"
+        },
+        "voiceActors": [
+          {
+            "id": 102263,
+            "name": {
+              "first": "Youko",
+              "last": "Hikasa",
+              "native": "日笠陽子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102263-aaPZtNXVUljW.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102263"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 146517,
+          "name": {
+            "first": "Alice",
+            "last": null,
+            "native": "アリス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b146517-AyufYCNcm0VW.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b146517-AyufYCNcm0VW.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/146517"
+        },
+        "voiceActors": [
+          {
+            "id": 120099,
+            "name": {
+              "first": "Haruka",
+              "last": "Watanabe",
+              "native": "渡辺はるか"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120099-kGQBw2Kwjxcu.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n120099-kGQBw2Kwjxcu.png"
+            },
+            "siteUrl": "https://anilist.co/staff/120099"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 146519,
+          "name": {
+            "first": "Kamui",
+            "last": null,
+            "native": "神威",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b146519-VWaKanXjGRFf.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b146519-VWaKanXjGRFf.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/146519"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 178608,
+          "name": {
+            "first": "Pandora",
+            "last": null,
+            "native": "パンドラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b178608-srV4txTwu8Q6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b178608-srV4txTwu8Q6.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/178608"
+        },
+        "voiceActors": [
+          {
+            "id": 105981,
+            "name": {
+              "first": "Yui",
+              "last": "Ogura",
+              "native": "小倉唯"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105981-CDMPx1Q79Aum.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105981-CDMPx1Q79Aum.png"
+            },
+            "siteUrl": "https://anilist.co/staff/105981"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 116631,
+          "name": {
+            "first": "Youhei",
+            "last": "Sasaki",
+            "native": "佐々木洋平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116631-fsoit3E3bPSl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116631-fsoit3E3bPSl.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/116631"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 96904,
+          "name": {
+            "first": "Hideaki",
+            "last": "Sorachi",
+            "native": "空知英秋"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96904-PbWsZd8U0G4v.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96904-PbWsZd8U0G4v.jpg"
+          },
+          "description": "Hideaki Sorachi (空知英秋, Sorachi Hideaki) is a Japanese manga artist best known for his work Gintama.\n\nAccording to his reply to a manga reader (Gintama Volume 11), he was quite interested in manga during childhood days. However at grade 4 in school he showed his work to his father who promptly laughed at it, after which Sorachi temporarily abandoned his aims of being a manga artist. After graduation, he could not find a job, thus he turned to drawing manga (which he had already learned in university). He was able to gain some recognition through his first work Dandylion and subsequently progressed in his career (the comic is shown in the first volume of Gintama, with a foreword by Hideaki stating that it was his first work). \n\nIn 2003, Sorachi's editor attempted to coax him to create a new series due to a new television program on the Shinsengumi airing on Japanese TV the next year. Yet Sorachi's original idea was to ride on the coattails of the Harry Potter franchise with a series about a school for demon dispellers. After several arguments and an attempt to write the Shinsengumi series, Sorachi gave up, took what he had of the script and twisted it to become the pseudo-historical science fiction series Gintama. (stated in Gintama Volume 1)    \n\nHideaki Sorachi holds a degree in commercial advertising (again, stated in volume 11). \n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/96904"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6116,
+          "name": "Bandai Namco Pictures",
+          "siteUrl": "https://anilist.co/studio/6116"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 14,
+          "name": "Sunrise",
+          "siteUrl": "https://anilist.co/studio/14"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6248,
+          "name": "XFLAG",
+          "siteUrl": "https://anilist.co/studio/6248"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22840,
+      "rank": 17,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 22882,
+      "rank": 29,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 138492,
+          "rating": 3,
+          "media": {
+            "id": 111952,
+            "title": {
+              "native": "銀魂 ～モンスターストライク編～"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 918,
+            "title": {
+              "native": "銀魂"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 15
+      },
+      {
+        "score": 20,
+        "amount": 15
+      },
+      {
+        "score": 30,
+        "amount": 18
+      },
+      {
+        "score": 40,
+        "amount": 38
+      },
+      {
+        "score": 50,
+        "amount": 90
+      },
+      {
+        "score": 60,
+        "amount": 182
+      },
+      {
+        "score": 70,
+        "amount": 330
+      },
+      {
+        "score": 80,
+        "amount": 222
+      },
+      {
+        "score": 90,
+        "amount": 106
+      },
+      {
+        "score": 100,
+        "amount": 174
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 119
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1675
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2143
+      },
+      {
+        "status": "DROPPED",
+        "amount": 58
+      },
+      {
+        "status": "PAUSED",
+        "amount": 63
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/111952",
+  "modNotes": null
+}

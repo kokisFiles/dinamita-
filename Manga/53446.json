@@ -1,0 +1,978 @@
+{
+  "id": 53446,
+  "idMal": 23446,
+  "title": {
+    "native": "ドラゴンボール エスディー",
+    "romaji": "Dragon Ball SD",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "RELEASING",
+  "description": "The misadventures of Son Goku, Krillin, and other friends from the original story, by Ooishi Naho (Story &amp; Art).<br>",
+  "startDate": {
+    "year": 2010,
+    "month": 12,
+    "day": 3
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748793310,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53446-iJhUffEy8U9u.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53446-iJhUffEy8U9u.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx53446-iJhUffEy8U9u.jpg",
+    "color": "#f1c95d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "Dragonball SD"
+  ],
+  "averageScore": 59,
+  "meanScore": 62,
+  "popularity": 1169,
+  "favourites": 12,
+  "tags": [
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 207,
+      "name": "Full Color",
+      "description": "Manga that were initially published in full color.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 191,
+      "name": "Aliens",
+      "description": "Prominently features extraterrestrial lifeforms.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 30,
+      "name": "Martial Arts",
+      "description": "Centers around the use of traditional hand-to-hand combat.",
+      "category": "Theme-Action",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 772,
+      "name": "Shapeshifting",
+      "description": "Features character(s) who changes one's appearance or form.",
+      "category": "Theme-Fantasy",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 253,
+      "name": "Gods",
+      "description": "Prominently features a character of divine or religious nature.",
+      "category": "Cast-Traits",
+      "rank": 30,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 801,
+      "name": "Cyborg",
+      "description": "Prominently features a human character whose physiological functions are aided or enhanced by artificial means.",
+      "category": "Cast-Traits",
+      "rank": 30,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 30042,
+          "title": {
+            "native": "ドラゴンボール"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 246,
+          "name": {
+            "first": "Gokuu",
+            "last": "Son",
+            "native": "孫悟空",
+            "alternative": [
+              "Goku Son"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/246-wsRRr6z1kii8.png"
+          },
+          "siteUrl": "https://anilist.co/character/246"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2139,
+          "name": {
+            "first": "Staff Officer Black",
+            "last": null,
+            "native": "ブラック参謀",
+            "alternative": [
+              "Adjutant Black",
+              "Assistant Black"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2139.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2139.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2139"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2112,
+          "name": {
+            "first": "Umigame",
+            "last": null,
+            "native": "海亀",
+            "alternative": [
+              "Turtle",
+              "Sea Turtle"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2112.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2112.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2112"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3694,
+          "name": {
+            "first": "Freeza",
+            "last": null,
+            "native": "フリーザ",
+            "alternative": [
+              "Frieza",
+              "Freezer"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3694-bDfOdSSdFfPv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3694-bDfOdSSdFfPv.png"
+          },
+          "siteUrl": "https://anilist.co/character/3694"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2140,
+          "name": {
+            "first": "Commander Red",
+            "last": null,
+            "native": "レッド総帥",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2140.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2140.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2140"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6293,
+          "name": {
+            "first": "Rou Dai Kaioshin",
+            "last": null,
+            "native": "老界王神",
+            "alternative": [
+              "Elder Kai"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/6293.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/6293.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6293"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3908,
+          "name": {
+            "first": "Cell",
+            "last": null,
+            "native": "セル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/3908.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/3908.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3908"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2094,
+          "name": {
+            "first": "Gyuumaou",
+            "last": null,
+            "native": "牛魔王",
+            "alternative": [
+              "Ox-King"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2094.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2094.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2094"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2141,
+          "name": {
+            "first": "Pilaf",
+            "last": null,
+            "native": "ピラフ",
+            "alternative": [
+              "Emperor Pilaf"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2141.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2141.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2141"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 677,
+          "name": {
+            "first": "Pu'ar",
+            "last": null,
+            "native": "プーアル",
+            "alternative": [
+              "Puar",
+              "Pu'erh",
+              "Squeaker"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b677-PTNZaPeuV1Dx.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b677-PTNZaPeuV1Dx.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/677"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9377,
+          "name": {
+            "first": "Mister Satan",
+            "last": null,
+            "native": "ミスター・サタン",
+            "alternative": [
+              "Hercule"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9377.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9377.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9377"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2120,
+          "name": {
+            "first": "Namu",
+            "last": null,
+            "native": "ナム",
+            "alternative": [
+              "Nam"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2120.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2120.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2120"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4014,
+          "name": {
+            "first": "Yamcha",
+            "last": null,
+            "native": "ヤムチャ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4014-of2ONLvA7T8p.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4014-of2ONLvA7T8p.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4014"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2102,
+          "name": {
+            "first": "Chi-Chi",
+            "last": null,
+            "native": "チチ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2102.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2102.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2102"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2143,
+          "name": {
+            "first": "Mai",
+            "last": null,
+            "native": "マイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2143.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2143.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2143"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2126,
+          "name": {
+            "first": "Bacterian",
+            "last": null,
+            "native": "バクテリアン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2126.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2126.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2126"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5224,
+          "name": {
+            "first": "Nappa",
+            "last": null,
+            "native": "ナッパ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5224.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5224.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5224"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2105,
+          "name": {
+            "first": "Lunch",
+            "last": null,
+            "native": "ランチ",
+            "alternative": [
+              "Launch",
+              "Marilynn"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2105-u5dq4fBpSho9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2105-u5dq4fBpSho9.png"
+          },
+          "siteUrl": "https://anilist.co/character/2105"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 214717,
+          "name": {
+            "first": "Ana",
+            "last": "Caro",
+            "native": "Ana María Caro",
+            "alternative": [
+              "Hanaoka",
+              "Flanaoka"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n214717-Vn4ElH4fx3bN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n214717-Vn4ElH4fx3bN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/214717"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 913,
+          "name": {
+            "first": "Vegeta",
+            "last": null,
+            "native": "ベジータ",
+            "alternative": [
+              "Prince of All Saiyans",
+              "Vegeta IV",
+              "Prince Vegeta",
+              "Saiyan Prince"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b913-NIFkKazWM8VO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b913-NIFkKazWM8VO.png"
+          },
+          "siteUrl": "https://anilist.co/character/913"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2127,
+          "name": {
+            "first": "Giran",
+            "last": null,
+            "native": "ギラン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2127.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2127.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2127"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6127,
+          "name": {
+            "first": "Shen Long",
+            "last": null,
+            "native": "神龍",
+            "alternative": [
+              "Shenron",
+              "Shenlong",
+              "Scenron",
+              "Dragon God",
+              "Divine Dragon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/6127.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/6127.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6127"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2108,
+          "name": {
+            "first": "Oolong",
+            "last": null,
+            "native": "ウーロン",
+            "alternative": [
+              "Oolon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2108.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2108.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2108"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2159,
+          "name": {
+            "first": "Kuririn",
+            "last": null,
+            "native": "クリリン",
+            "alternative": [
+              "Kurin-chan",
+              "Krillin",
+              "Kulilin",
+              "Clearin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2159-qtEuMYyOUkwY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2159-qtEuMYyOUkwY.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2159"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 914,
+          "name": {
+            "first": "Piccolo",
+            "last": null,
+            "native": "ピッコロ",
+            "alternative": [
+              "Ma Junior",
+              "Big Green",
+              "King Piccolo",
+              "Demon Junior",
+              "Mr. Piccolo",
+              "Piccolo Jr.",
+              "Cor Petit Jr.",
+              "Szatan Serduszko",
+              "Store Grønn",
+              "Satan Petit-Cœur"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b914-KuS8AWjqBrqa.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b914-KuS8AWjqBrqa.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/914"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 107773,
+          "name": {
+            "first": "Naho",
+            "last": "Ooishi",
+            "native": "オオイシナホ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12773.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/12773.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/107773"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 96901,
+          "name": {
+            "first": "Akira",
+            "last": "Toriyama",
+            "native": "鳥山明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96901-f40brDFeIlzf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96901-f40brDFeIlzf.png"
+          },
+          "description": "He debuted in 1979 with the story [Wonder Island](https://anilist.co/manga/112596/Wonder-Island/), published in Weekly Shounen Jump, and first gained popularity for the anime and manga series [Dr. Slump](https://anilist.co/manga/30796/Dr-Slump/), originally serialized weekly in Shounen Jump from 1980 to 1984. In 1982, he won the Shogakukan Manga Award for Dr. Slump for best shounen or shoujo manga series of the year.  In 1984, Toriyama was responsible for developing [Dragon Ball](https://anilist.co/manga/30042/Dragon-Ball/) which was initially serialized in Weekly Shōnen Jump. It became an instant accomplishment—primarily selling over 35,000,000 copies in Japan, Dragon Ball eventually became a record-breaking best seller with over 120,000,000 copies sold. Aside from the Japanese fame, the series was equally successful internationally as well, including in Europe (1988), Canada (1996) and Latin America. Its success encouraged Toriyama to continue working on Dragon Ball from 1984 to 1995. During that eleven-year period, he produced 519 chapters, collected into 42 volumes. Each volume has an average of 200 pages. Moreover, the benefit of the manga led to three anime adaptations, numerous feature-length animated movies, several video games, and mega-merchandising. Toriyama's studio is called \"Bird Studio\", which is a play on his name, \"tori\" meaning \"bird.\"\n\nToriyama married his wife [Yoshimi Kato](https://anilist.co/staff/311142/Nachi-Mikami) on May 2, 1982. She is a former manga artist from Nagoya under the pen name \"Nachi Mikami\" and occasionally helped Toriyama and his assistant on Dr. Slump when they were short on time. Together with his wife, he had two children: a son born in 1987, and a daughter born in 1990. He was a well-known recluse, who avoided appearing in public or media.\n\nOn March 8, 2024, it was announced that Toriyama passed away at the age of 68 from acute subdural hematoma.",
+          "siteUrl": "https://anilist.co/staff/96901"
+        }
+      },
+      {
+        "role": "Translator (Spanish)",
+        "node": {
+          "id": 227587,
+          "name": {
+            "first": "Jesús",
+            "last": "Espí",
+            "native": null
+          },
+          "language": "SPANISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n227587-f8V9iqRhrCNh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n227587-f8V9iqRhrCNh.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/mantisdeimatica)",
+          "siteUrl": "https://anilist.co/staff/227587"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 231833,
+          "rating": 3,
+          "media": {
+            "id": 53446,
+            "title": {
+              "native": "ドラゴンボール エスディー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 60541,
+            "title": {
+              "native": "BLEACH4コマ コマブリ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 266926,
+          "rating": 0,
+          "media": {
+            "id": 53446,
+            "title": {
+              "native": "ドラゴンボール エスディー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 102533,
+            "title": {
+              "native": "ワンピース パーティー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 266928,
+          "rating": 0,
+          "media": {
+            "id": 53446,
+            "title": {
+              "native": "ドラゴンボール エスディー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 53208,
+            "title": {
+              "native": "ロック・リーの青春フルパワー忍伝"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 266930,
+          "rating": 0,
+          "media": {
+            "id": 53446,
+            "title": {
+              "native": "ドラゴンボール エスディー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 133876,
+            "title": {
+              "native": "ブラッククローバーSD アスタくん魔法帝への道"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 266932,
+          "rating": 0,
+          "media": {
+            "id": 53446,
+            "title": {
+              "native": "ドラゴンボール エスディー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 86652,
+            "title": {
+              "native": "僕のヒーローアカデミアすまっしゅ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 266934,
+          "rating": 0,
+          "media": {
+            "id": 53446,
+            "title": {
+              "native": "ドラゴンボール エスディー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 121173,
+            "title": {
+              "native": "BORUTO-ボルト- SAIKYO DASH GENERATIONS"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 266936,
+          "rating": 0,
+          "media": {
+            "id": 53446,
+            "title": {
+              "native": "ドラゴンボール エスディー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 176727,
+            "title": {
+              "native": "仮面ライダーSD"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 266938,
+          "rating": 0,
+          "media": {
+            "id": 53446,
+            "title": {
+              "native": "ドラゴンボール エスディー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 159407,
+            "title": {
+              "native": "SDガンダムフォース"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 414997,
+          "rating": 1,
+          "media": {
+            "id": 53446,
+            "title": {
+              "native": "ドラゴンボール エスディー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 134342,
+            "title": {
+              "native": "ドラゴンボーイ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 5
+      },
+      {
+        "score": 30,
+        "amount": 9
+      },
+      {
+        "score": 40,
+        "amount": 23
+      },
+      {
+        "score": 50,
+        "amount": 42
+      },
+      {
+        "score": 60,
+        "amount": 58
+      },
+      {
+        "score": 70,
+        "amount": 56
+      },
+      {
+        "score": 80,
+        "amount": 24
+      },
+      {
+        "score": 90,
+        "amount": 20
+      },
+      {
+        "score": 100,
+        "amount": 22
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 301
+      },
+      {
+        "status": "PLANNING",
+        "amount": 455
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 162
+      },
+      {
+        "status": "DROPPED",
+        "amount": 127
+      },
+      {
+        "status": "PAUSED",
+        "amount": 124
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/53446",
+  "modNotes": null
+}

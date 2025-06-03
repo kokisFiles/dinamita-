@@ -1,0 +1,390 @@
+{
+  "id": 4800,
+  "idMal": 4800,
+  "title": {
+    "native": "ハックルベリー・フィン物語",
+    "romaji": "Huckleberry Finn Monogatari",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "Based on Mark Twain's famous book about the adventures of young orphan Huckleberry Finn.",
+  "startDate": {
+    "year": 1994,
+    "month": 8,
+    "day": 26
+  },
+  "endDate": {
+    "year": 1995,
+    "month": 3,
+    "day": 3
+  },
+  "season": "SUMMER",
+  "seasonYear": 1994,
+  "seasonInt": 943,
+  "episodes": 26,
+  "duration": 20,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748280953,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4800-kGp5fI1svKxb.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4800-kGp5fI1svKxb.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b4800-kGp5fI1svKxb.jpg",
+    "color": "#e4865d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure"
+  ],
+  "synonyms": [
+    "Huckleberry Finn Story"
+  ],
+  "averageScore": 54,
+  "meanScore": 60,
+  "popularity": 519,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 227,
+      "name": "Classic Literature",
+      "description": "Discusses or adapts a work of classic world literature.",
+      "category": "Theme-Arts",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 198,
+      "name": "Foreign",
+      "description": "Partly or completely set in a country outside the country of origin.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 250,
+      "name": "Rural",
+      "description": "Partly or completely set in the countryside.",
+      "category": "Setting-Scene",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2545,
+          "title": {
+            "native": "ハックルベリィの冒険"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9487,
+          "name": {
+            "first": "Huckleberry",
+            "last": "Finn",
+            "native": "ハックルベリー・フィン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9487.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9487.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9487"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Episode Director  (ep 25)",
+        "node": {
+          "id": 106638,
+          "name": {
+            "first": "Moriyasu",
+            "last": "Taniguchi",
+            "native": "谷口守泰"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106638-3sAI4PgDShpl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106638-3sAI4PgDShpl.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/谷口守泰)\n\nA veteran animator with a career spanning nearly 60 years.",
+          "siteUrl": "https://anilist.co/staff/106638"
+        }
+      },
+      {
+        "role": "Animation Director  (eps 19, 25)",
+        "node": {
+          "id": 106638,
+          "name": {
+            "first": "Moriyasu",
+            "last": "Taniguchi",
+            "native": "谷口守泰"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106638-3sAI4PgDShpl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106638-3sAI4PgDShpl.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/谷口守泰)\n\nA veteran animator with a career spanning nearly 60 years.",
+          "siteUrl": "https://anilist.co/staff/106638"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 114191,
+          "name": {
+            "first": "Mark",
+            "last": "Twain",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/19191.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/19191.jpg"
+          },
+          "description": "Samuel Langhorne Clemens, better known by his pen name Mark Twain, was an American author and humorist. He is most noted for his novel The Adventures of Tom Sawyer (1876) and its sequel, Adventures of Huckleberry Finn (1885), the latter often called \"the Great American Novel.",
+          "siteUrl": "https://anilist.co/staff/114191"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP, ED)",
+        "node": {
+          "id": 115689,
+          "name": {
+            "first": "Utako",
+            "last": "Kida",
+            "native": "うたこきだ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/20689.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/20689.jpg"
+          },
+          "description": "She is a musician and a singer. Currently works as a sculptor and lives in Nomi, Ishikawa Prefecture.",
+          "siteUrl": "https://anilist.co/staff/115689"
+        }
+      },
+      {
+        "role": "Storyboard  (ep 18)",
+        "node": {
+          "id": 117703,
+          "name": {
+            "first": "Makoto",
+            "last": "Sokuza",
+            "native": "則座誠"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/117703-jn1StIEkxwWI.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/117703-jn1StIEkxwWI.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/azukosotokam)",
+          "siteUrl": "https://anilist.co/staff/117703"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6090,
+          "name": "Aubec",
+          "siteUrl": "https://anilist.co/studio/6090"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 1237,
+      "rank": 25,
+      "type": "RATED",
+      "format": "TV",
+      "year": 1994,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 1267,
+      "rank": 26,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 1994,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 136414,
+          "rating": 5,
+          "media": {
+            "id": 4800,
+            "title": {
+              "native": "ハックルベリー・フィン物語"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2577,
+            "title": {
+              "native": "トム・ソーヤーの冒険"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 159262,
+          "rating": 2,
+          "media": {
+            "id": 4800,
+            "title": {
+              "native": "ハックルベリー・フィン物語"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 145468,
+            "title": {
+              "native": "ユーレイデコ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 306112,
+          "rating": 0,
+          "media": {
+            "id": 4800,
+            "title": {
+              "native": "ハックルベリー・フィン物語"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 5081,
+            "title": {
+              "native": "化物語"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 6
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 25
+      },
+      {
+        "score": 60,
+        "amount": 21
+      },
+      {
+        "score": 70,
+        "amount": 26
+      },
+      {
+        "score": 80,
+        "amount": 11
+      },
+      {
+        "score": 90,
+        "amount": 7
+      },
+      {
+        "score": 100,
+        "amount": 8
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 23
+      },
+      {
+        "status": "PLANNING",
+        "amount": 244
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 194
+      },
+      {
+        "status": "DROPPED",
+        "amount": 45
+      },
+      {
+        "status": "PAUSED",
+        "amount": 13
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/4800",
+  "modNotes": null
+}

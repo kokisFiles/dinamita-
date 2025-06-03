@@ -1,0 +1,278 @@
+{
+  "id": 158567,
+  "idMal": null,
+  "title": {
+    "native": "Voidoll irregular",
+    "romaji": "Voidoll irregular",
+    "english": "Voidoll irregular"
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2018,
+    "month": 9,
+    "day": 10
+  },
+  "endDate": {
+    "year": 2018,
+    "month": 9,
+    "day": 10
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 5,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": {
+    "id": "nQLogUkdi8E",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/nQLogUkdi8E/hqdefault.jpg"
+  },
+  "updatedAt": 1748770617,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158567-WjNvrakz9gq7.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158567-WjNvrakz9gq7.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158567-WjNvrakz9gq7.png",
+    "color": "#e45df1"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158567-Mo6JUJ6b8BU4.jpg",
+  "genres": [],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 57,
+  "popularity": 88,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 112,
+      "name": "Virtual World",
+      "description": "Partly or completely set in the world inside a video game.",
+      "category": "Setting-Universe",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 517,
+      "name": "Artificial Intelligence",
+      "description": "Intelligent non-organic machines that work and react similarly to humans.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 89,
+      "name": "Full CGI",
+      "description": "Almost entirely created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 158287,
+          "title": {
+            "native": "#コンパス2.0 戦闘摂理解析システム"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 293822,
+          "name": {
+            "first": "Voiddoll",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b293822-KbSmrjKckTz8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b293822-KbSmrjKckTz8.png"
+          },
+          "siteUrl": "https://anilist.co/character/293822"
+        },
+        "voiceActors": [
+          {
+            "id": 95115,
+            "name": {
+              "first": "Sakura",
+              "last": "Tange",
+              "native": "丹下桜"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95115-AtF7VsdIk51q.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95115-AtF7VsdIk51q.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95115"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Animation",
+        "node": {
+          "id": 119702,
+          "name": {
+            "first": "Rapparu",
+            "last": "",
+            "native": "ラッパル"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119702-E0n7ZRidZer7.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119702-E0n7ZRidZer7.jpg"
+          },
+          "description": "[Website](http://www.rapparu.org/) | [Twitter](https://twitter.com/rapparu) | [Youtube](https://www.youtube.com/c/rapparu/featured) | [Pixiv](https://www.pixiv.net/en/users/45450)\n\nRapparu is an animator.",
+          "siteUrl": "https://anilist.co/staff/119702"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 73,
+          "name": "TMS Entertainment",
+          "siteUrl": "https://anilist.co/studio/73"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 62841,
+      "url": "https://youtu.be/nQLogUkdi8E",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 187542,
+          "rating": 0,
+          "media": {
+            "id": 158567,
+            "title": {
+              "native": "Voidoll irregular"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 137895,
+            "title": {
+              "native": "未来光子 SACLA 播磨サクラ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 6
+      },
+      {
+        "score": 70,
+        "amount": 6
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 6
+      },
+      {
+        "status": "PLANNING",
+        "amount": 27
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 47
+      },
+      {
+        "status": "DROPPED",
+        "amount": 8
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/158567",
+  "modNotes": null
+}

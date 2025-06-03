@@ -1,0 +1,864 @@
+{
+  "id": 180817,
+  "idMal": 59750,
+  "title": {
+    "native": "Go-Getters",
+    "romaji": "Go-Getters",
+    "english": "Go-Getters"
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Music video directed by Takashi Horiuchi for the song <i>Go-Getters</i> by Calliope Mori. <br><br>\n<i>Note: The song featured in this music video also serves as the ending theme of the anime Isekai Suicide Squad.",
+  "startDate": {
+    "year": 2024,
+    "month": 9,
+    "day": 6
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 9,
+    "day": 6
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 4,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": "#CalliSquadISEKAI",
+  "trailer": {
+    "id": "j7RbmhKeaZs",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/j7RbmhKeaZs/hqdefault.jpg"
+  },
+  "updatedAt": 1748855445,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180817-IUNTY0pEQG9E.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180817-IUNTY0pEQG9E.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b180817-IUNTY0pEQG9E.png",
+    "color": "#e4a1bb"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180817-2KAeS0JSMA5v.jpg",
+  "genres": [
+    "Action"
+  ],
+  "synonyms": [],
+  "averageScore": 68,
+  "meanScore": 71,
+  "popularity": 1442,
+  "favourites": 39,
+  "tags": [
+    {
+      "id": 244,
+      "name": "Isekai",
+      "description": "Features characters being transported into an alternate world setting and having to adapt to their new surroundings.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1047,
+      "name": "VTuber",
+      "description": "Prominently features a character who is either an actual or fictive VTuber.",
+      "category": "Cast-Traits",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 104,
+      "name": "Anti-Hero",
+      "description": "Features a protagonist who lacks conventional heroic attributes and may be considered a borderline villain.",
+      "category": "Cast-Main Cast",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 166710,
+          "title": {
+            "native": "異世界スーサイド・スクワッド"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 118123,
+          "title": {
+            "native": "ホロのぐらふぃてぃ"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 206013,
+          "name": {
+            "first": "Calliope",
+            "last": "Mori",
+            "native": "森カリオペ",
+            "alternative": [
+              "森美声",
+              "Calli",
+              "Dad",
+              "Kawaiiope"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206013-0zASHou9JoXr.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206013-0zASHou9JoXr.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/206013"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 182935,
+          "name": {
+            "first": "Harleen",
+            "last": "Quinzel",
+            "native": "ハーリーン・クインゼル",
+            "alternative": [
+              "Harley Quinn (ハーレイ・クイン)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b182935-zn1WE3Om5exM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b182935-zn1WE3Om5exM.png"
+          },
+          "siteUrl": "https://anilist.co/character/182935"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 319958,
+          "name": {
+            "first": "Floyd",
+            "last": "Lawton",
+            "native": "フロイド・ロートン",
+            "alternative": [
+              "Deadshot (デッドショット)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319958-ShAWZIX8PjrT.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319958-ShAWZIX8PjrT.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/319958"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 326489,
+          "name": {
+            "first": "Rick",
+            "last": "Flag",
+            "native": "リック・フラッグ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326489-Yca836eCKmVs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326489-Yca836eCKmVs.png"
+          },
+          "siteUrl": "https://anilist.co/character/326489"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 319961,
+          "name": {
+            "first": "Nanaue",
+            "last": null,
+            "native": "キング・シャーク",
+            "alternative": [
+              "King Shark (キング・シャーク)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319961-hLFX8Fh40WvG.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319961-hLFX8Fh40WvG.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/319961"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 319960,
+          "name": {
+            "first": "Basil",
+            "last": "Karlo",
+            "native": "バジル・カルロ",
+            "alternative": [
+              "Clayface (クレイフェイス)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319960-kd903StMMevr.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319960-kd903StMMevr.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/319960"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 319959,
+          "name": {
+            "first": "Christopher",
+            "last": "Smith",
+            "native": "クリストファー・スミス",
+            "alternative": [
+              "Peacemaker (ピースメイカー)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319959-FHyF3qmSptxs.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b319959-FHyF3qmSptxs.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/319959"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music Performance",
+        "node": {
+          "id": 206031,
+          "name": {
+            "first": "Calliope",
+            "last": "Mori",
+            "native": "森カリオペ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n206031-60sv8R7tuw5I.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n206031-60sv8R7tuw5I.png"
+          },
+          "description": "**Height:** 167 cm\n**Fanbase name:** Dead Beats\n**Illustrator:** [Yukisame](https://anilist.co/staff/258988/)\n\n[Profile (hololive)](https://hololive.hololivepro.com/en/talents/mori-calliope/) | [YouTube](https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg) | [Twitter](https://twitter.com/moricalliope) | [SoundCloud](https://soundcloud.com/user-694398002) | [TikTok](https://www.tiktok.com/@moricalliope_hololiveen)\n\nMori Calliope is a female English Virtual YouTuber endorsed by hololive.\n\nThe Grim Reaper's first apprentice. Because the world's medical system advanced so dramatically, Calliope became a VTuber to collect souls. It seems that the lost souls vaporized by the wholesome relationships of VTubers flow through her as well. In the end, she's a gentle-hearted girl whose sweet voice contradicts the morbid things she tends to say, as well as her hardcore vocals.",
+          "siteUrl": "https://anilist.co/staff/206031"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 206031,
+          "name": {
+            "first": "Calliope",
+            "last": "Mori",
+            "native": "森カリオペ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n206031-60sv8R7tuw5I.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n206031-60sv8R7tuw5I.png"
+          },
+          "description": "**Height:** 167 cm\n**Fanbase name:** Dead Beats\n**Illustrator:** [Yukisame](https://anilist.co/staff/258988/)\n\n[Profile (hololive)](https://hololive.hololivepro.com/en/talents/mori-calliope/) | [YouTube](https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg) | [Twitter](https://twitter.com/moricalliope) | [SoundCloud](https://soundcloud.com/user-694398002) | [TikTok](https://www.tiktok.com/@moricalliope_hololiveen)\n\nMori Calliope is a female English Virtual YouTuber endorsed by hololive.\n\nThe Grim Reaper's first apprentice. Because the world's medical system advanced so dramatically, Calliope became a VTuber to collect souls. It seems that the lost souls vaporized by the wholesome relationships of VTubers flow through her as well. In the end, she's a gentle-hearted girl whose sweet voice contradicts the morbid things she tends to say, as well as her hardcore vocals.",
+          "siteUrl": "https://anilist.co/staff/206031"
+        }
+      },
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 130673,
+          "name": {
+            "first": "TeddyLoid",
+            "last": null,
+            "native": "テディロイド"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n130673-WkYwhByAxdnB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n130673-WkYwhByAxdnB.png"
+          },
+          "description": "[Website](https://www.teddyloid.com/)\n\n**TeddyLoid** is a Japanese electronic music producer and DJ. He is known for producing many songs in the soundtrack of Panty & Stocking with Garterbelt, which charted on Oricon Albums Chart. He is also known for partnering with Daoko in \"Me!Me!Me!\", an anime music video submitted to the 2014 Japan Animator Expo.\n\nTeddyLoid has performed on stages all over the world, with notable performances including Ultra Japan 2018 Main Stage, Anime Expo 2018 in LA, Canada, Australia, and many more. In 2016, TeddyLoid was named one of the Top 5 Japanese Spotify artists streamed globally.",
+          "siteUrl": "https://anilist.co/staff/130673"
+        }
+      },
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 248275,
+          "name": {
+            "first": "Giga",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n248275-6fvFdXxhbfgR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n248275-6fvFdXxhbfgR.png"
+          },
+          "description": "[Twitter](https://twitter.com/GigaMozuku) | [Instagram](https://www.instagram.com/gigankomax/) | [YouTube](https://www.youtube.com/channel/UCvq3kUGY5Dbsdkr3DZx25Sw) | [SoundCloud](https://soundcloud.com/gigachan)\n\nGiga is a Japanese singer, VOCALOID producer, lyricist, arranger, and composer. He made his debut as a VOCALOID producer in 2009 and as a singer in 2012. He is also a former member of the Japanese electronic pop co-ed band RΞOL.",
+          "siteUrl": "https://anilist.co/staff/248275"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 302402,
+          "name": {
+            "first": "Yuuki",
+            "last": "Tsujimura",
+            "native": "辻村有記"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n302402-cTuBt376d3gT.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n302402-cTuBt376d3gT.jpg"
+          },
+          "description": "[Website](https://kitsune.tokyo/) | [Twitter](https://twitter.com/t_yuki_staff) | [Instagram](https://www.instagram.com/yoru_yuki_asa/)",
+          "siteUrl": "https://anilist.co/staff/302402"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 116789,
+          "name": {
+            "first": "Takashi",
+            "last": "Horiuchi",
+            "native": "堀内隆"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116789-WRYv7OMoMIDI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116789-WRYv7OMoMIDI.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/116789"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 116789,
+          "name": {
+            "first": "Takashi",
+            "last": "Horiuchi",
+            "native": "堀内隆"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116789-WRYv7OMoMIDI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116789-WRYv7OMoMIDI.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/116789"
+        }
+      },
+      {
+        "role": "Visual Effects Director",
+        "node": {
+          "id": 118911,
+          "name": {
+            "first": "Akiko",
+            "last": "Hirayama",
+            "native": "平山瑛子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/118911"
+        }
+      },
+      {
+        "role": "Visual Effects",
+        "node": {
+          "id": 215004,
+          "name": {
+            "first": "Shouko",
+            "last": "Harada",
+            "native": "原田祥子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with [Graphinica](https://anilist.co/studio/894/Graphinica)",
+          "siteUrl": "https://anilist.co/staff/215004"
+        }
+      },
+      {
+        "role": "Motion Capture Technical Director",
+        "node": {
+          "id": 188720,
+          "name": {
+            "first": "Kenya",
+            "last": "Miki",
+            "native": "三鬼健也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188720-6PzeCSoixR2H.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n188720-6PzeCSoixR2H.png"
+          },
+          "description": "[Twitter](https://twitter.com/mocapmiki) | [Facebook](https://www.facebook.com/MoCapMiki)\n\nKenya Miki is a Japanese motion capture specialist and technical director.",
+          "siteUrl": "https://anilist.co/staff/188720"
+        }
+      },
+      {
+        "role": "Motion Capture Design",
+        "node": {
+          "id": 336782,
+          "name": {
+            "first": "Ryou",
+            "last": "Hasebe",
+            "native": "長谷部燎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/336782"
+        }
+      },
+      {
+        "role": "Motion Capture Design",
+        "node": {
+          "id": 336783,
+          "name": {
+            "first": "Kazuma",
+            "last": "Horigome",
+            "native": "堀籠和真"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/336783"
+        }
+      },
+      {
+        "role": "Visual Effects",
+        "node": {
+          "id": 218668,
+          "name": {
+            "first": "Yuka",
+            "last": "Shibasaki",
+            "native": "柴﨑由佳"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/218668"
+        }
+      },
+      {
+        "role": "Production Coordinator",
+        "node": {
+          "id": 327785,
+          "name": {
+            "first": "Miyu",
+            "last": "Oomoto",
+            "native": "大本美優"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/327785"
+        }
+      },
+      {
+        "role": "Motion Capture Design",
+        "node": {
+          "id": 188722,
+          "name": {
+            "first": "Rina",
+            "last": "Sawada",
+            "native": "澤田里奈"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/188722"
+        }
+      },
+      {
+        "role": "Creative Producer",
+        "node": {
+          "id": 197883,
+          "name": {
+            "first": "Taichirou",
+            "last": "Miwa",
+            "native": "三輪泰地朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/197883"
+        }
+      },
+      {
+        "role": "Lead Motion Capture Design",
+        "node": {
+          "id": 188721,
+          "name": {
+            "first": "Takahide",
+            "last": "Shinohara",
+            "native": "篠原貴英"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/188721"
+        }
+      },
+      {
+        "role": "Motion Capture Design",
+        "node": {
+          "id": 336785,
+          "name": {
+            "first": "Emi",
+            "last": "Matsumoto",
+            "native": "松本愛海"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/336785"
+        }
+      },
+      {
+        "role": "Motion Capture Producer",
+        "node": {
+          "id": 188727,
+          "name": {
+            "first": "Sawami",
+            "last": "Takahashi",
+            "native": "高橋沙和実"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188727-1ie0fxUHj9Cd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n188727-1ie0fxUHj9Cd.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/188727"
+        }
+      },
+      {
+        "role": "Motion Capture Design",
+        "node": {
+          "id": 344314,
+          "name": {
+            "first": "Miku",
+            "last": "Kuragane",
+            "native": "倉金未来"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344314"
+        }
+      },
+      {
+        "role": "Cross Simulation Artist",
+        "node": {
+          "id": 344315,
+          "name": {
+            "first": "Kazuhiro",
+            "last": "Imamiya",
+            "native": "今宮和宏"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344315"
+        }
+      },
+      {
+        "role": "CG Producer",
+        "node": {
+          "id": 344316,
+          "name": {
+            "first": "Junya",
+            "last": "Kimura",
+            "native": "木村淳也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344316"
+        }
+      },
+      {
+        "role": "Production Coordinator",
+        "node": {
+          "id": 344312,
+          "name": {
+            "first": "Taichi",
+            "last": "Tazoe",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344312"
+        }
+      },
+      {
+        "role": "Motion Capture Design",
+        "node": {
+          "id": 344313,
+          "name": {
+            "first": "Kana",
+            "last": "Numasato",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344313"
+        }
+      },
+      {
+        "role": "Technical Artist",
+        "node": {
+          "id": 344317,
+          "name": {
+            "first": "Haruka",
+            "last": "Hisada",
+            "native": "久田春花"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344317"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 858,
+          "name": "WIT STUDIO",
+          "siteUrl": "https://anilist.co/studio/858"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 384569,
+          "airingAt": 1725591600,
+          "episode": 1,
+          "mediaId": 180817,
+          "media": {
+            "id": 180817
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 98215,
+      "url": "https://www.youtube.com/watch?v=j7RbmhKeaZs",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 288779,
+          "rating": 3,
+          "media": {
+            "id": 180817,
+            "title": {
+              "native": "Go-Getters"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 180870,
+            "title": {
+              "native": "Allegro"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 414581,
+          "rating": 1,
+          "media": {
+            "id": 180817,
+            "title": {
+              "native": "Go-Getters"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 119404,
+            "title": {
+              "native": "よろよろたまたま"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 20,
+        "amount": 7
+      },
+      {
+        "score": 30,
+        "amount": 9
+      },
+      {
+        "score": 40,
+        "amount": 18
+      },
+      {
+        "score": 50,
+        "amount": 53
+      },
+      {
+        "score": 60,
+        "amount": 83
+      },
+      {
+        "score": 70,
+        "amount": 129
+      },
+      {
+        "score": 80,
+        "amount": 126
+      },
+      {
+        "score": 90,
+        "amount": 71
+      },
+      {
+        "score": 100,
+        "amount": 67
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 24
+      },
+      {
+        "status": "PLANNING",
+        "amount": 205
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1191
+      },
+      {
+        "status": "DROPPED",
+        "amount": 18
+      },
+      {
+        "status": "PAUSED",
+        "amount": 4
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/180817",
+  "modNotes": null
+}

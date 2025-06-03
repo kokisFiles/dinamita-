@@ -1,0 +1,218 @@
+{
+  "id": 20456,
+  "idMal": null,
+  "title": {
+    "native": "インフェルノコップ２",
+    "romaji": "Inferno Cop 2",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "NOT_YET_RELEASED",
+  "description": "The second season of Inferno Cop.",
+  "startDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748880181,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20456.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20456.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/20456.jpg",
+    "color": "#e4c9a1"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": null,
+  "popularity": 4541,
+  "favourites": 9,
+  "tags": [
+    {
+      "id": 40,
+      "name": "Police",
+      "description": "Centers around the life and activities of law enforcement officers.",
+      "category": "Theme-Other-Organisations",
+      "rank": 91,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 499,
+      "name": "Skeleton",
+      "description": "Prominently features skeleton(s) as a character.",
+      "category": "Cast-Traits",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 16774,
+          "title": {
+            "native": "インフェルノコップ"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 76266,
+          "name": {
+            "first": "Inferno Cop",
+            "last": null,
+            "native": "インフェルノコップ",
+            "alternative": [
+              "The Purgatorial Flame of This Rotting Shit-Hole"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/76266.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/76266.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/76266"
+        },
+        "voiceActors": [
+          {
+            "id": 116265,
+            "name": {
+              "first": "Junichi",
+              "last": "Gotou",
+              "native": "後藤淳一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116265-iEDzN0pw5bRo.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116265-iEDzN0pw5bRo.png"
+            },
+            "siteUrl": "https://anilist.co/staff/116265"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 803,
+          "name": "TRIGGER",
+          "siteUrl": "https://anilist.co/studio/803"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 9
+      },
+      {
+        "score": 30,
+        "amount": 16
+      },
+      {
+        "score": 40,
+        "amount": 26
+      },
+      {
+        "score": 50,
+        "amount": 14
+      },
+      {
+        "score": 60,
+        "amount": 2
+      },
+      {
+        "score": 70,
+        "amount": 3
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 13
+      },
+      {
+        "score": 100,
+        "amount": 20
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 24
+      },
+      {
+        "status": "PLANNING",
+        "amount": 4370
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 108
+      },
+      {
+        "status": "DROPPED",
+        "amount": 23
+      },
+      {
+        "status": "PAUSED",
+        "amount": 16
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/20456",
+  "modNotes": null
+}

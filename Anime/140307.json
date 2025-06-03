@@ -1,0 +1,801 @@
+{
+  "id": 140307,
+  "idMal": 21959,
+  "title": {
+    "native": "それいけ! アンパンマン くろゆき姫とモテモテばいきんまん",
+    "romaji": "Sore Ike! Anpanman: Kuroyuki-hime to Mote Mote Baikinman",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "Baikinman is snatched by a black cloud inhabited by a princess who loves black, Kuroyukihime. She is immediately thrilled with him and starts making trouble with him, turning everything black. However, both Dokin-chan and Anpanman are determined to stop her.",
+  "startDate": {
+    "year": 2005,
+    "month": 7,
+    "day": 16
+  },
+  "endDate": {
+    "year": 2005,
+    "month": 7,
+    "day": 16
+  },
+  "season": "SUMMER",
+  "seasonYear": 2005,
+  "seasonInt": 53,
+  "episodes": 1,
+  "duration": 20,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747908022,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140307-mT78eooLCC0K.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140307-mT78eooLCC0K.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b140307-mT78eooLCC0K.jpg",
+    "color": "#6b50e4"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 45,
+  "popularity": 107,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1960,
+          "title": {
+            "native": "それいけ!アンパンマン"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 17215,
+          "title": {
+            "native": "それいけ! アンパンマン ハピーの大冒険"
+          }
+        },
+        "relationType": "OTHER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 31023,
+          "name": {
+            "first": "Baikinman",
+            "last": null,
+            "native": "ばいきんまん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31023.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31023.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31023"
+        },
+        "voiceActors": [
+          {
+            "id": 95259,
+            "name": {
+              "first": "Ryuusei",
+              "last": "Nakao",
+              "native": "中尾隆聖"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95259-A1sNVqfD2MWp.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95259-A1sNVqfD2MWp.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95259"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16401,
+          "name": {
+            "first": "Anpanman",
+            "last": null,
+            "native": "アンパンマン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16401.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16401.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16401"
+        },
+        "voiceActors": [
+          {
+            "id": 96271,
+            "name": {
+              "first": "Keiko",
+              "last": "Toda",
+              "native": "戸田恵子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96271-m3jBqqUfSo33.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96271-m3jBqqUfSo33.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96271"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31016,
+          "name": {
+            "first": "Currypanman",
+            "last": null,
+            "native": "カレーパンマン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31016.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31016.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31016"
+        },
+        "voiceActors": [
+          {
+            "id": 105282,
+            "name": {
+              "first": "Michiyo",
+              "last": "Yanagisawa",
+              "native": "三千代柳沢"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105282-V20mNhq2imRw.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105282-V20mNhq2imRw.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/105282"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 31024,
+          "name": {
+            "first": "Dokin-chan",
+            "last": null,
+            "native": "ドキンちゃん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31024.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31024.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31024"
+        },
+        "voiceActors": [
+          {
+            "id": 95354,
+            "name": {
+              "first": "Hiromi",
+              "last": "Tsuru",
+              "native": "鶴ひろみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/95354-Ds90swc530OH.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/95354-Ds90swc530OH.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95354"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31015,
+          "name": {
+            "first": "Shokupanman",
+            "last": null,
+            "native": "しょくぱんまん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31015.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31015.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31015"
+        },
+        "voiceActors": [
+          {
+            "id": 95425,
+            "name": {
+              "first": "Sumi",
+              "last": "Shimamoto",
+              "native": "島本須美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95425-wEl09IWpLxIA.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95425-wEl09IWpLxIA.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95425"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 102197,
+          "name": {
+            "first": "Takashi",
+            "last": "Yanase",
+            "native": "やなせたかし"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102197-5tAYFARFcF3p.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102197-5tAYFARFcF3p.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/102197"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 106268,
+          "name": {
+            "first": "Hitoshi",
+            "last": "Nanba",
+            "native": "難波日登志"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106268-CeT41yVzfJFT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106268-CeT41yVzfJFT.png"
+          },
+          "description": "**[Twitter](https://twitter.com/namimi_sanjyo)**",
+          "siteUrl": "https://anilist.co/staff/106268"
+        }
+      },
+      {
+        "role": "Music Director",
+        "node": {
+          "id": 161498,
+          "name": {
+            "first": "Seiji",
+            "last": "Suzuki",
+            "native": "鈴木清司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n161498-u7FVGfe0halQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n161498-u7FVGfe0halQ.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/161498"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 161499,
+          "name": {
+            "first": "Takao",
+            "last": "Imaizumi",
+            "native": "今泉隆雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n161499-tcvuz5Wx5TUT.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n161499-tcvuz5Wx5TUT.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/161499"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 158437,
+          "name": {
+            "first": "Chisato",
+            "last": "Sunagawa",
+            "native": "砂川千里"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/158437"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 146438,
+          "name": {
+            "first": "Toshihiro",
+            "last": "Kawata",
+            "native": "川田敏寛"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/146438"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 161500,
+          "name": {
+            "first": "Hiroaki",
+            "last": "Kondou",
+            "native": "近藤浩章"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/161500"
+        }
+      },
+      {
+        "role": "Sound Effects",
+        "node": {
+          "id": 157716,
+          "name": {
+            "first": "Yukiyoshi",
+            "last": "Itokawa",
+            "native": "糸川幸良"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/157716"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 220405,
+          "name": {
+            "first": "Tomoko",
+            "last": "Yoshino",
+            "native": "吉野朋子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/220405"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 119192,
+          "name": {
+            "first": "Chiaki",
+            "last": "Yamada",
+            "native": "山田知明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119192-lXbpD2fOAGAf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119192-lXbpD2fOAGAf.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/山田知明)\n\nSon of late sound director [Etsuji Yamada](https://anilist.co/staff/155080/).",
+          "siteUrl": "https://anilist.co/staff/119192"
+        }
+      },
+      {
+        "role": "Production",
+        "node": {
+          "id": 220558,
+          "name": {
+            "first": "Tadahiro",
+            "last": "Nagatomi",
+            "native": "長富忠裕"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/220558"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 174603,
+          "name": {
+            "first": "Hiromasa",
+            "last": "Oomichi",
+            "native": "大道博政"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/174603"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 207544,
+          "name": {
+            "first": "Yoshihisa",
+            "last": "Tsurubuchi",
+            "native": "鶴渕允寿"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/207544"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 227724,
+          "name": {
+            "first": "Reiko",
+            "last": "Hirayama",
+            "native": "平山礼子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/227724"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 227700,
+          "name": {
+            "first": "Kazuko",
+            "last": "Tsurubuchi",
+            "native": "鶴渕和子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/227700"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 103462,
+          "name": {
+            "first": "Tomoko",
+            "last": "Konparu",
+            "native": "金春智子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103462-FxWrHSfIL4dj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103462-FxWrHSfIL4dj.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/金春智子)",
+          "siteUrl": "https://anilist.co/staff/103462"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 246692,
+          "name": {
+            "first": "Yasumichi",
+            "last": "Ozaki",
+            "native": "尾崎穏通"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/246692"
+        }
+      },
+      {
+        "role": "Literary Arts",
+        "node": {
+          "id": 207549,
+          "name": {
+            "first": "Hiroyuki",
+            "last": "Onoda",
+            "native": "小野田博之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n207549-GczEkzfnsrmq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n207549-GczEkzfnsrmq.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/207549"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 220545,
+          "name": {
+            "first": "Rieko",
+            "last": "Ono",
+            "native": "小野利恵子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/220545"
+        }
+      },
+      {
+        "role": "Production",
+        "node": {
+          "id": 151998,
+          "name": {
+            "first": "Shunzou",
+            "last": "Katou",
+            "native": "加藤俊三"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n151998-IceCbT7CIpT7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n151998-IceCbT7CIpT7.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/151998"
+        }
+      },
+      {
+        "role": "Production Generalization",
+        "node": {
+          "id": 252078,
+          "name": {
+            "first": "Yuusuke",
+            "last": "Kubo",
+            "native": "久保雄輔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n252078-GvM1Kh9gJlan.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n252078-GvM1Kh9gJlan.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/252078"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 152769,
+          "name": {
+            "first": "Toshiko",
+            "last": "Baba",
+            "native": "馬場俊子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/152769"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 174603,
+          "name": {
+            "first": "Hiromasa",
+            "last": "Oomichi",
+            "native": "大道博政"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/174603"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 149431,
+          "name": {
+            "first": "Kasumi",
+            "last": "Wada",
+            "native": "和田佳純"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/149431"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 252079,
+          "name": {
+            "first": "Tomomi",
+            "last": "Aizawa",
+            "native": "会沢智美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/252079"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 16604,
+      "rank": 57,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2005,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 7
+      },
+      {
+        "score": 50,
+        "amount": 3
+      },
+      {
+        "score": 60,
+        "amount": 2
+      },
+      {
+        "score": 70,
+        "amount": 3
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 4
+      },
+      {
+        "status": "PLANNING",
+        "amount": 29
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 49
+      },
+      {
+        "status": "DROPPED",
+        "amount": 16
+      },
+      {
+        "status": "PAUSED",
+        "amount": 9
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/140307",
+  "modNotes": null
+}

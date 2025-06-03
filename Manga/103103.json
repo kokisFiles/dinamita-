@@ -1,0 +1,409 @@
+{
+  "id": 103103,
+  "idMal": 104513,
+  "title": {
+    "native": "鉄鼠の檻",
+    "romaji": "Tesso no Ori",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "<i>Manga adaptation of the fourth novel of Kyogoku Natsuhiko's Hyakki Yakou series.</i>\n<br><br>\nThe story follows antique store worker Imagawa, aging doctor Kuonji, and writer Sekiguchi, who are all fascinated by mysterious events happening in Hakone, including a series of murders of Buddhist monks and a little girl in a kimono who wanders through the mountains.",
+  "startDate": {
+    "year": 2017,
+    "month": 3,
+    "day": 17
+  },
+  "endDate": {
+    "year": 2018,
+    "month": 10,
+    "day": 17
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 20,
+  "volumes": 5,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748694147,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103103-tUilKnxV9xQN.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103103-tUilKnxV9xQN.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx103103-tUilKnxV9xQN.jpg",
+    "color": "#6b1a1a"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/103103-DUd3ZnCOHnTn.jpg",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Thriller"
+  ],
+  "synonyms": [
+    "Hyakki Yakou Series 4",
+    "Kyougokudou"
+  ],
+  "averageScore": null,
+  "meanScore": 70,
+  "popularity": 231,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 25,
+      "name": "Historical",
+      "description": "Partly or completely set during a real period of world history.",
+      "category": "Setting-Time",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 694,
+      "name": "Detective",
+      "description": "Features a character who investigates and solves crimes.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 50567,
+          "title": {
+            "native": "狂骨の夢"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 103104,
+          "title": {
+            "native": "絡新婦の理"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 57493,
+          "title": {
+            "native": "百器徒然袋"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 112558,
+          "title": {
+            "native": "中禅寺先生物怪講義録 先生が謎を解いてしまうから。"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16903,
+          "name": {
+            "first": "Tatsumi",
+            "last": "Sekiguchi",
+            "native": "関口巽",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16903-ZR19mBldnhWw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16903-ZR19mBldnhWw.png"
+          },
+          "siteUrl": "https://anilist.co/character/16903"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 19393,
+          "name": {
+            "first": "Akihiko",
+            "last": "Chuuzenji",
+            "native": "中禅寺秋彦",
+            "alternative": [
+              "Kyougokudou (京極堂)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19393-IrjpQXFHkPZk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19393-IrjpQXFHkPZk.png"
+          },
+          "siteUrl": "https://anilist.co/character/19393"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 17495,
+          "name": {
+            "first": "Reijirou",
+            "last": "Enokizu",
+            "native": "榎木津礼二郎",
+            "alternative": [
+              "Enoki",
+              "Eno"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17495-jjwgGeymnLyt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17495-jjwgGeymnLyt.png"
+          },
+          "siteUrl": "https://anilist.co/character/17495"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 221990,
+          "name": {
+            "first": "Ryuuichi",
+            "last": "Masuda",
+            "native": "益田龍一",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b221990-pyKjHOrXFdvh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b221990-pyKjHOrXFdvh.png"
+          },
+          "siteUrl": "https://anilist.co/character/221990"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 221989,
+          "name": {
+            "first": "Masazumi",
+            "last": "Imagawa",
+            "native": "今川雅澄",
+            "alternative": [
+              "マチコ",
+              "Machiko",
+              "マチコサン",
+              "Machiko-san"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b221989-g1V3onKuXzq7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b221989-g1V3onKuXzq7.png"
+          },
+          "siteUrl": "https://anilist.co/character/221989"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 233085,
+          "name": {
+            "first": "Yoshichika",
+            "last": "Kuonji",
+            "native": "久遠寺嘉親",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/233085"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Art",
+        "node": {
+          "id": 97059,
+          "name": {
+            "first": "Aki",
+            "last": "Shimizu",
+            "native": "志水アキ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2059.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2059.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/SHIMZAK)",
+          "siteUrl": "https://anilist.co/staff/97059"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 101978,
+          "name": {
+            "first": "Natsuhiko",
+            "last": "Kyougoku",
+            "native": "京極夏彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101978-akal5VaFrU9u.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101978-akal5VaFrU9u.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/京極夏彦) | [Wiki (en)](https://en.wikipedia.org/wiki/Natsuhiko_Kyogoku)\n\nA Japanese mystery writer.",
+          "siteUrl": "https://anilist.co/staff/101978"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 310007,
+          "rating": 1,
+          "media": {
+            "id": 103103,
+            "title": {
+              "native": "鉄鼠の檻"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31893,
+            "title": {
+              "native": "夢喰見聞"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 310009,
+          "rating": 2,
+          "media": {
+            "id": 103103,
+            "title": {
+              "native": "鉄鼠の檻"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 38893,
+            "title": {
+              "native": "魍魎の匣"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 386214,
+          "rating": 1,
+          "media": {
+            "id": 103103,
+            "title": {
+              "native": "鉄鼠の檻"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 47541,
+            "title": {
+              "native": "心霊探偵八雲"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 3
+      },
+      {
+        "score": 70,
+        "amount": 4
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 28
+      },
+      {
+        "status": "PLANNING",
+        "amount": 166
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 28
+      },
+      {
+        "status": "DROPPED",
+        "amount": 4
+      },
+      {
+        "status": "PAUSED",
+        "amount": 5
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/103103",
+  "modNotes": null
+}

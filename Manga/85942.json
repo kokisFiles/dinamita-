@@ -1,0 +1,457 @@
+{
+  "id": 85942,
+  "idMal": 72779,
+  "title": {
+    "native": "デート・ア・パーティー",
+    "romaji": "Date A Party",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The daily lifes of the characters of Date A Live.",
+  "startDate": {
+    "year": 2014,
+    "month": 1,
+    "day": 9
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 6,
+    "day": 9
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 7,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "LIGHT_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748955540,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85942-XM9dck0T5l3c.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85942-XM9dck0T5l3c.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx85942-XM9dck0T5l3c.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Ecchi",
+    "Romance",
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": 58,
+  "meanScore": 67,
+  "popularity": 421,
+  "favourites": 6,
+  "tags": [
+    {
+      "id": 23,
+      "name": "Female Harem",
+      "description": "Main cast features the protagonist plus several female characters who are romantically interested in them.",
+      "category": "Theme-Romance",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 86,
+      "name": "Primarily Female Cast",
+      "description": "Main cast is mostly composed of female characters.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 249,
+      "name": "Maids",
+      "description": "Prominently features a character who is a maid.",
+      "category": "Cast-Traits",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 67523,
+          "title": {
+            "native": "デート・ア・ライブ"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 65263,
+          "name": {
+            "first": "Kotori",
+            "last": "Itsuka",
+            "native": "五河琴里",
+            "alternative": [
+              "Commander"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65263-SsnYAtOtAiDK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65263-SsnYAtOtAiDK.png"
+          },
+          "siteUrl": "https://anilist.co/character/65263"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 65257,
+          "name": {
+            "first": "Shidou",
+            "last": "Itsuka",
+            "native": "五河士道",
+            "alternative": [
+              "Shin",
+              "Shiori Itsuka"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65257-fBaWJ3ymyE5m.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65257-fBaWJ3ymyE5m.png"
+          },
+          "siteUrl": "https://anilist.co/character/65257"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 65261,
+          "name": {
+            "first": "Origami",
+            "last": "Tobiichi",
+            "native": "鳶一折紙",
+            "alternative": [
+              "Super Genius"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65261-VebXn2wCS8K8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65261-VebXn2wCS8K8.png"
+          },
+          "siteUrl": "https://anilist.co/character/65261"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 65259,
+          "name": {
+            "first": "Tooka",
+            "last": "Yatogami",
+            "native": "夜刀神十香",
+            "alternative": [
+              "Tohka Yatogami",
+              "Princess"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65259-rKR5JNNWyRC0.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65259-rKR5JNNWyRC0.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/65259"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 70603,
+          "name": {
+            "first": "Yoshino",
+            "last": "",
+            "native": "四糸乃",
+            "alternative": [
+              "Hermit"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70603-7IKQbX4JZBIT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b70603-7IKQbX4JZBIT.png"
+          },
+          "siteUrl": "https://anilist.co/character/70603"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 70069,
+          "name": {
+            "first": "Kurumi",
+            "last": "Tokisaki",
+            "native": "時崎狂三",
+            "alternative": [
+              "Nightmare"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70069-DEV7X6o2L7oG.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b70069-DEV7X6o2L7oG.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/70069"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 111861,
+          "name": {
+            "first": "Koushi",
+            "last": "Tachibana",
+            "native": "橘公司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111861-as2W0Sl5JeZU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111861-as2W0Sl5JeZU.png"
+          },
+          "description": "[Twitter](https://twitter.com/koshitachibana)",
+          "siteUrl": "https://anilist.co/staff/111861"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 119074,
+          "name": {
+            "first": "Yui",
+            "last": "Hinamori",
+            "native": "ひなもりゆい"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/119074"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 111991,
+          "name": {
+            "first": "Tsunako",
+            "last": "",
+            "native": "つなこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111991-xA3yVJ1jQsqN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111991-xA3yVJ1jQsqN.png"
+          },
+          "description": "[Twitter](https://twitter.com/panda_kabe) | [Website](https://www.tunamayoza.com/) | [Blog](http://tyamo.wa-syo-ku.com/) | [pixiv](https://www.pixiv.net/en/users/14028509) |  [pixivFANBOX](https://tunamayoza.fanbox.cc/) | [BOOTH](https://p-anda.booth.pm/)",
+          "siteUrl": "https://anilist.co/staff/111991"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 211397,
+          "rating": 1,
+          "media": {
+            "id": 85942,
+            "title": {
+              "native": "デート・ア・パーティー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 80931,
+            "title": {
+              "native": "デート・ア・ストライク"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 211400,
+          "rating": 1,
+          "media": {
+            "id": 85942,
+            "title": {
+              "native": "デート・ア・パーティー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 67163,
+            "title": {
+              "native": "デート・ア・ライブ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 211402,
+          "rating": 1,
+          "media": {
+            "id": 85942,
+            "title": {
+              "native": "デート・ア・パーティー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 91290,
+            "title": {
+              "native": "デート・ア・ライブ 十香デッドエンド"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 211404,
+          "rating": 1,
+          "media": {
+            "id": 85942,
+            "title": {
+              "native": "デート・ア・パーティー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 72139,
+            "title": {
+              "native": "デイト・ア・オリガミ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 5
+      },
+      {
+        "score": 40,
+        "amount": 4
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 19
+      },
+      {
+        "score": 70,
+        "amount": 30
+      },
+      {
+        "score": 80,
+        "amount": 10
+      },
+      {
+        "score": 90,
+        "amount": 7
+      },
+      {
+        "score": 100,
+        "amount": 14
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 62
+      },
+      {
+        "status": "PLANNING",
+        "amount": 193
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 134
+      },
+      {
+        "status": "DROPPED",
+        "amount": 18
+      },
+      {
+        "status": "PAUSED",
+        "amount": 14
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/85942",
+  "modNotes": null
+}

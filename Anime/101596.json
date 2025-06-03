@@ -1,0 +1,632 @@
+{
+  "id": 101596,
+  "idMal": 37778,
+  "title": {
+    "native": "ぱすてるらいふ",
+    "romaji": "Pastel Life",
+    "english": "PASTEL LIFE"
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "The anime follows the daily lives of the members of the <i>BanG Dream!</i> band Pastel*Palettes.",
+  "startDate": {
+    "year": 2018,
+    "month": 5,
+    "day": 17
+  },
+  "endDate": {
+    "year": 2018,
+    "month": 6,
+    "day": 21
+  },
+  "season": "SPRING",
+  "seasonYear": 2018,
+  "seasonInt": 182,
+  "episodes": 6,
+  "duration": 3,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": "#バンドリ",
+  "trailer": null,
+  "updatedAt": 1748863816,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101596-etrtXzpAJ0M6.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101596-etrtXzpAJ0M6.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101596-etrtXzpAJ0M6.png",
+    "color": "#f1e443"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": 62,
+  "meanScore": 63,
+  "popularity": 3215,
+  "favourites": 19,
+  "tags": [
+    {
+      "id": 110,
+      "name": "Band",
+      "description": "Main cast is a group of musicians.",
+      "category": "Theme-Arts-Music",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 92,
+      "name": "Cute Girls Doing Cute Things",
+      "description": "Centers around female characters doing cute activities, usually with little to no emphasis on drama and conflict.\n",
+      "category": "Theme-Slice of Life",
+      "rank": 77,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 115,
+      "name": "Idol",
+      "description": "Centers around the life and activities of an idol.",
+      "category": "Cast-Traits",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 87435,
+          "title": {
+            "native": "BanG Dream!（バンドリ！）"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 128160,
+          "name": {
+            "first": "Aya",
+            "last": "Maruyama",
+            "native": "丸山彩",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128160-Bfn3R7QoHCwy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b128160-Bfn3R7QoHCwy.png"
+          },
+          "siteUrl": "https://anilist.co/character/128160"
+        },
+        "voiceActors": [
+          {
+            "id": 128161,
+            "name": {
+              "first": "Ami",
+              "last": "Maeshima",
+              "native": "前島亜美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128161-oPnogMfpAQ4O.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n128161-oPnogMfpAQ4O.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/128161"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 128163,
+          "name": {
+            "first": "Maya",
+            "last": "Yamato",
+            "native": "大和麻弥",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128163-giyMcwouRfrz.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b128163-giyMcwouRfrz.png"
+          },
+          "siteUrl": "https://anilist.co/character/128163"
+        },
+        "voiceActors": [
+          {
+            "id": 112009,
+            "name": {
+              "first": "Ikumi",
+              "last": "Nakagami",
+              "native": "中上育実"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112009-F39RV9nNITnq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112009-F39RV9nNITnq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/112009"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 128164,
+          "name": {
+            "first": "Hina",
+            "last": "Hikawa",
+            "native": "氷川日菜 ",
+            "alternative": [
+              "Hina-chin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128164-cm2pNpWLQnHw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b128164-cm2pNpWLQnHw.png"
+          },
+          "siteUrl": "https://anilist.co/character/128164"
+        },
+        "voiceActors": [
+          {
+            "id": 118663,
+            "name": {
+              "first": "Ari",
+              "last": "Ozawa",
+              "native": "小澤亜李"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118663-fFzQqJDtYNdA.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118663-fFzQqJDtYNdA.png"
+            },
+            "siteUrl": "https://anilist.co/staff/118663"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 128165,
+          "name": {
+            "first": "Chisato",
+            "last": "Shirasagi",
+            "native": "白鷺千聖",
+            "alternative": [
+              "Chi-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128165-Sgg8gdiatFnl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b128165-Sgg8gdiatFnl.png"
+          },
+          "siteUrl": "https://anilist.co/character/128165"
+        },
+        "voiceActors": [
+          {
+            "id": 109441,
+            "name": {
+              "first": "Sumire",
+              "last": "Uesaka",
+              "native": "上坂すみれ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109441-lVHpd6BN2g16.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n109441-lVHpd6BN2g16.png"
+            },
+            "siteUrl": "https://anilist.co/staff/109441"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 128166,
+          "name": {
+            "first": "Eve",
+            "last": "Wakamiya",
+            "native": "若宮イヴ",
+            "alternative": [
+              "Eve-chin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128166-f7LWEFaoxsFG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b128166-f7LWEFaoxsFG.png"
+          },
+          "siteUrl": "https://anilist.co/character/128166"
+        },
+        "voiceActors": [
+          {
+            "id": 111225,
+            "name": {
+              "first": "Sawako",
+              "last": "Hata",
+              "native": "秦佐和子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111225-aUF90N1efoup.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111225-aUF90N1efoup.png"
+            },
+            "siteUrl": "https://anilist.co/staff/111225"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 156177,
+          "name": {
+            "first": "Pastel＊Palettes",
+            "last": null,
+            "native": "Pastel＊Palettes"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156177-afqgLE7KcLqW.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n156177-afqgLE7KcLqW.jpg"
+          },
+          "description": "A musical group part of the BanG Dream! franchise, consisting of 5 voice actors: [Ami Maeshima](https://anilist.co/staff/128161/Ami-Maeshima) as Aya Maruyama on lead vocals, [Sumire Uesaka](https://anilist.co/staff/109441/Sumire-Uesaka) as Chisato Shirasagi, [Sawako Hata](https://anilist.co/staff/111225/Sawako-Hata) as Eve Wakamiya, [Ari Ozawa](https://anilist.co/staff/118663/Ari-Ozawa) as Hina Hikawa, and [Ikumi Nakagami](https://anilist.co/staff/112009/Ikumi-Nakagami) as Maya Yamato.\n\nTheir first single, \"Shuwarin☆Drea~min\", was released on July 12, 2017.",
+          "siteUrl": "https://anilist.co/staff/156177"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6183,
+          "name": "studio A-CAT",
+          "siteUrl": "https://anilist.co/studio/6183"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 254641,
+          "airingAt": 1526558400,
+          "episode": 1,
+          "mediaId": 101596,
+          "media": {
+            "id": 101596
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 254642,
+          "airingAt": 1527163200,
+          "episode": 2,
+          "mediaId": 101596,
+          "media": {
+            "id": 101596
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 254643,
+          "airingAt": 1527768000,
+          "episode": 3,
+          "mediaId": 101596,
+          "media": {
+            "id": 101596
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 254644,
+          "airingAt": 1528372800,
+          "episode": 4,
+          "mediaId": 101596,
+          "media": {
+            "id": 101596
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 254645,
+          "airingAt": 1528977600,
+          "episode": 5,
+          "mediaId": 101596,
+          "media": {
+            "id": 101596
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 254646,
+          "airingAt": 1529582400,
+          "episode": 6,
+          "mediaId": 101596,
+          "media": {
+            "id": 101596
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 5674,
+      "url": "https://twitter.com/bang_dream_gbp",
+      "site": "Twitter"
+    },
+    {
+      "id": 5741,
+      "url": "https://www.youtube.com/watch?v=kgvP3pWKQBk&list=PLvRmS87ezZfombh45YZacMM0N5URmG_CV",
+      "site": "YouTube"
+    },
+    {
+      "id": 14078,
+      "url": "https://www.youtube.com/watch?v=egYS5y5V1Yk&list=PLi6JjODFVq335_9JscXhiyPZvlV2PIjg6",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 13897,
+      "rank": 13,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2018,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 13934,
+      "rank": 20,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2018,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 13967,
+      "rank": 4,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2018,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 13983,
+      "rank": 7,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2018,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 61191,
+          "rating": 5,
+          "media": {
+            "id": 101596,
+            "title": {
+              "native": "ぱすてるらいふ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 128563,
+            "title": {
+              "native": "ぷっちみく♪D4DJ Petit Mix"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 72566,
+          "rating": 6,
+          "media": {
+            "id": 101596,
+            "title": {
+              "native": "ぱすてるらいふ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 101632,
+            "title": {
+              "native": "BanG Dream! ガルパ☆ピコ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 72568,
+          "rating": 4,
+          "media": {
+            "id": 101596,
+            "title": {
+              "native": "ぱすてるらいふ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 113906,
+            "title": {
+              "native": "BanG Dream! ガルパ☆ピコ~大盛り~"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 133305,
+          "rating": 5,
+          "media": {
+            "id": 101596,
+            "title": {
+              "native": "ぱすてるらいふ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 139675,
+            "title": {
+              "native": "ぷちセカ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 188519,
+          "rating": 3,
+          "media": {
+            "id": 101596,
+            "title": {
+              "native": "ぱすてるらいふ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 154785,
+            "title": {
+              "native": "にじよん あにめーしょん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 263067,
+          "rating": 4,
+          "media": {
+            "id": 101596,
+            "title": {
+              "native": "ぱすてるらいふ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 172242,
+            "title": {
+              "native": "にじよん あにめーしょん2"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 28
+      },
+      {
+        "score": 20,
+        "amount": 20
+      },
+      {
+        "score": 30,
+        "amount": 56
+      },
+      {
+        "score": 40,
+        "amount": 83
+      },
+      {
+        "score": 50,
+        "amount": 243
+      },
+      {
+        "score": 60,
+        "amount": 369
+      },
+      {
+        "score": 70,
+        "amount": 393
+      },
+      {
+        "score": 80,
+        "amount": 191
+      },
+      {
+        "score": 90,
+        "amount": 92
+      },
+      {
+        "score": 100,
+        "amount": 74
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 132
+      },
+      {
+        "status": "PLANNING",
+        "amount": 579
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2368
+      },
+      {
+        "status": "DROPPED",
+        "amount": 89
+      },
+      {
+        "status": "PAUSED",
+        "amount": 47
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/101596",
+  "modNotes": null
+}

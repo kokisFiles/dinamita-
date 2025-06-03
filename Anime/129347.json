@@ -1,0 +1,458 @@
+{
+  "id": 129347,
+  "idMal": null,
+  "title": {
+    "native": "斗罗大陆 昊天扬威",
+    "romaji": "Douluo Dalu: Haotian Yang Wei",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "The third part of <i>Douluo Dalu</i>.\n<br><br>\n<i>Note: Episodes 79 to 91.</i>",
+  "startDate": {
+    "year": 2019,
+    "month": 11,
+    "day": 23
+  },
+  "endDate": {
+    "year": 2020,
+    "month": 2,
+    "day": 15
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 13,
+  "duration": 20,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748905890,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129347-wxx4TiX9iPF4.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129347-wxx4TiX9iPF4.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx129347-wxx4TiX9iPF4.jpg",
+    "color": "#e443c9"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "斗罗大陆1 第三部分",
+    "Douluo Dalu Part 3",
+    "Soul Land Part 3"
+  ],
+  "averageScore": 78,
+  "meanScore": 81,
+  "popularity": 1888,
+  "favourites": 61,
+  "tags": [
+    {
+      "id": 326,
+      "name": "Cultivation",
+      "description": "Features characters using training, often martial arts-related, and other special methods to cultivate qi (a component of traditional Chinese philosophy, described as \"life force\") and gain strength or immortality.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 89,
+      "name": "Full CGI",
+      "description": "Almost entirely created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 103543,
+          "title": {
+            "native": "斗罗大陆 精英赛"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 129348,
+          "title": {
+            "native": "斗罗大陆 铅华洗尽"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 142002,
+          "name": {
+            "first": "San ",
+            "last": "Tang",
+            "native": "唐三",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142002-UL8afUcmXJek.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142002-UL8afUcmXJek.png"
+          },
+          "siteUrl": "https://anilist.co/character/142002"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 142005,
+          "name": {
+            "first": "Mubai",
+            "last": "Dai",
+            "native": "戴沐白",
+            "alternative": [
+              "Evil Eye White Tiger"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142005-VuGRUuRhHsxg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142005-VuGRUuRhHsxg.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/142005"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 142006,
+          "name": {
+            "first": "Hongjun ",
+            "last": "Ma",
+            "native": "马红俊",
+            "alternative": [
+              "Evil Fire Phoenix",
+              "Fatty"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142006-jzWKkQk56d8n.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142006-jzWKkQk56d8n.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/142006"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 142004,
+          "name": {
+            "first": "Xiaogang",
+            "last": "Yu",
+            "native": "玉小刚",
+            "alternative": [
+              "Grandmaster",
+              "Directing Corner of the Golden Iron Triangle "
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142004-Yge14R9dm8fE.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142004-Yge14R9dm8fE.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/142004"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 142010,
+          "name": {
+            "first": "Rongrong ",
+            "last": "Ning",
+            "native": "宁荣荣",
+            "alternative": [
+              "Seven Treasures Glazed Tile"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142010-XvJFQnJa56R3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142010-XvJFQnJa56R3.png"
+          },
+          "siteUrl": "https://anilist.co/character/142010"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 142003,
+          "name": {
+            "first": "Bo",
+            "last": "Dugu",
+            "native": "独孤博",
+            "alternative": [
+              "Poison Douluo",
+              "Jade Phosphour Douluo",
+              "Old Freak "
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142003-UbLR5patEudz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142003-UbLR5patEudz.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/142003"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 142008,
+          "name": {
+            "first": "Xiaowu",
+            "last": null,
+            "native": "小舞",
+            "alternative": [
+              "Xiao Wu Jie",
+              "Mei Gongzi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142008-FYqp34I6Nxs9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142008-FYqp34I6Nxs9.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/142008"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 142009,
+          "name": {
+            "first": "Oscar",
+            "last": null,
+            "native": "奥斯卡",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142009-febDEQ6ksTfa.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142009-febDEQ6ksTfa.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/142009"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 142007,
+          "name": {
+            "first": "Zhuqing",
+            "last": "Zhu",
+            "native": "朱竹清",
+            "alternative": [
+              "Hell Civet"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142007-LChXs3jV2DDV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142007-LChXs3jV2DDV.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/142007"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 118733,
+          "name": {
+            "first": "Tang Jia San Shao",
+            "last": "",
+            "native": "唐家三少"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118733-flMoWFcUFsDK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118733-flMoWFcUFsDK.png"
+          },
+          "description": "__[Weibo](https://weibo.com/1213328234)__",
+          "siteUrl": "https://anilist.co/staff/118733"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 156831,
+          "name": {
+            "first": "Leping",
+            "last": "Shen",
+            "native": "沈乐平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156831-X1jEIKNVzPHV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n156831-X1jEIKNVzPHV.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/156831"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 6382,
+          "name": "Tencent Penguin Pictures",
+          "siteUrl": "https://anilist.co/studio/6382"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 6393,
+          "name": "Sparkly Key Animation",
+          "siteUrl": "https://anilist.co/studio/6393"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 28007,
+      "url": "https://weibo.com/u/5871795666",
+      "site": "Weibo"
+    },
+    {
+      "id": 28008,
+      "url": "https://wetv.vip/en/play/wzx7pbebgpxlqqr?vid=n0033m8ageo",
+      "site": "WeTV"
+    },
+    {
+      "id": 28009,
+      "url": "https://v.qq.com/detail/m/m441e3rjq9kwpsc.html",
+      "site": "Tencent Video"
+    },
+    {
+      "id": 42459,
+      "url": "https://www.youtube.com/playlist?list=PLxOs22nkVmnJV5YGIKqb1I7v-9g7KdMGk",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22828,
+      "rank": 5,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 21
+      },
+      {
+        "score": 60,
+        "amount": 30
+      },
+      {
+        "score": 70,
+        "amount": 116
+      },
+      {
+        "score": 80,
+        "amount": 211
+      },
+      {
+        "score": 90,
+        "amount": 192
+      },
+      {
+        "score": 100,
+        "amount": 146
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 67
+      },
+      {
+        "status": "PLANNING",
+        "amount": 271
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1504
+      },
+      {
+        "status": "DROPPED",
+        "amount": 32
+      },
+      {
+        "status": "PAUSED",
+        "amount": 14
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/129347",
+  "modNotes": null
+}

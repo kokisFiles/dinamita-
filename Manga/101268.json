@@ -1,0 +1,698 @@
+{
+  "id": 101268,
+  "idMal": 111838,
+  "title": {
+    "native": "だーりん・いん・ざ・ふらんきす！",
+    "romaji": "Darling in the FranXX!",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Official 4-koma manga adaptation based on the anime series written by mato and serialized in Shounen Jump+. It features chibi versions of the characters and retells the story in a caricaturing way.\n<br><br>\n<i>Note: For every episode of DARLING in the FRANXX, there are 3 chapters/pages illustrating the events of the episode, with the exception of the final episode, which had 4 chapters.</i>",
+  "startDate": {
+    "year": 2018,
+    "month": 1,
+    "day": 14
+  },
+  "endDate": {
+    "year": 2018,
+    "month": 7,
+    "day": 12
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 73,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748782373,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101268-ApU57V0twSSW.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101268-ApU57V0twSSW.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx101268-ApU57V0twSSW.jpg",
+    "color": "#f150ae"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Mecha",
+    "Romance"
+  ],
+  "synonyms": [
+    "Darling in the FranXX! (4-koma)",
+    "DariFura"
+  ],
+  "averageScore": 69,
+  "meanScore": 72,
+  "popularity": 2464,
+  "favourites": 49,
+  "tags": [
+    {
+      "id": 206,
+      "name": "4-koma",
+      "description": "A manga in the 'yonkoma' format, which consists of four equal-sized panels arranged in a vertical strip.",
+      "category": "Technical",
+      "rank": 84,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 207,
+      "name": "Full Color",
+      "description": "Manga that were initially published in full color.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 99423,
+          "title": {
+            "native": "ダーリン・イン・ザ・フランキス"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 124389,
+          "name": {
+            "first": "Mitsuru",
+            "last": null,
+            "native": "ミツル",
+            "alternative": [
+              "Code:326"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124389-iJY8frLNdK7Y.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124389-iJY8frLNdK7Y.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/124389"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 124381,
+          "name": {
+            "first": "Zero Two",
+            "last": null,
+            "native": "ゼロツー",
+            "alternative": [
+              "Code:002",
+              "Partner Killer (パートナー殺し)",
+              "9' Iota",
+              "Nine Iota (ナインイオタ)",
+              "9'ι"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-pkTKi6HHNuVR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124381-pkTKi6HHNuVR.png"
+          },
+          "siteUrl": "https://anilist.co/character/124381"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 124380,
+          "name": {
+            "first": "Hiro",
+            "last": null,
+            "native": "ヒロ",
+            "alternative": [
+              "Code:016",
+              "Darling"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124380-ct1wJHIl9BY1.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/124380"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 124382,
+          "name": {
+            "first": "Ichigo",
+            "last": null,
+            "native": "イチゴ",
+            "alternative": [
+              "015"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124382-bSBkjtYjJQtr.png"
+          },
+          "siteUrl": "https://anilist.co/character/124382"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 124383,
+          "name": {
+            "first": "Goro",
+            "last": null,
+            "native": "ゴロー",
+            "alternative": [
+              "Code:056"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n124383-I6ZsEBQoETj3.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/124383"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 124384,
+          "name": {
+            "first": "Miku",
+            "last": null,
+            "native": "ミク",
+            "alternative": [
+              "Code:390"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124384-bsl6vVNhT2DR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124384-bsl6vVNhT2DR.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/124384"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124385,
+          "name": {
+            "first": "Zorome",
+            "last": null,
+            "native": "ゾロメ",
+            "alternative": [
+              "Code:666",
+              "Zorome the Great"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124385-wnvor7z83ZPt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124385-wnvor7z83ZPt.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/124385"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124386,
+          "name": {
+            "first": "Kokoro",
+            "last": null,
+            "native": "ココロ",
+            "alternative": [
+              "Code:556"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124386-vc248g43ap3m.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/124386"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 124387,
+          "name": {
+            "first": "Futoshi",
+            "last": null,
+            "native": "フトシ",
+            "alternative": [
+              "Code:214"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124387-vJvVs0VT1B6r.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124387-vJvVs0VT1B6r.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/124387"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 124388,
+          "name": {
+            "first": "Ikuno",
+            "last": null,
+            "native": "イクノ",
+            "alternative": [
+              "Code:196"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124388-KyJgGXFQEu6W.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124388-KyJgGXFQEu6W.png"
+          },
+          "siteUrl": "https://anilist.co/character/124388"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124851,
+          "name": {
+            "first": "Franxx-hakase",
+            "last": null,
+            "native": "フランクス博士",
+            "alternative": [
+              "Dr. Franxx",
+              "Werner"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/124851-UtBTl6EnzIFO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/124851-UtBTl6EnzIFO.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/124851"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 122721,
+          "name": {
+            "first": "mato",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122721-e8YQZXcgd64s.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n122721-e8YQZXcgd64s.png"
+          },
+          "description": "[Twitter](https://twitter.com/mozu_hayanie)",
+          "siteUrl": "https://anilist.co/staff/122721"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 185601,
+          "rating": 1,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 70419,
+            "title": {
+              "native": "パンティ&ストッキング with Garterbelt"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 382976,
+          "rating": 1,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 46026,
+            "title": {
+              "native": "天元突破グレンラガン4コマKINGDOM ヨーコのおヘソ編"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 382977,
+          "rating": 1,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 55632,
+            "title": {
+              "native": "ぷちえゔぁ〜EVANGELION@SCHOOL〜"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 382979,
+          "rating": 2,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33080,
+            "title": {
+              "native": "ぷぎゅる"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 382981,
+          "rating": 1,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 55633,
+            "title": {
+              "native": "ぷちえヴぁ ぼくら探検同好会"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 382983,
+          "rating": 1,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33082,
+            "title": {
+              "native": "日常"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 382985,
+          "rating": 1,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 87448,
+            "title": {
+              "native": "みにっ! きずないーばー劇場"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 382987,
+          "rating": 1,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 82323,
+            "title": {
+              "native": "マジキュー4コマ ココロコネクト"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 382989,
+          "rating": 1,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 164583,
+            "title": {
+              "native": "８６―エイティシックス― 公式デフォルメマンガ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 382991,
+          "rating": 1,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 88609,
+            "title": {
+              "native": "キルラキル"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 382993,
+          "rating": 0,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31853,
+            "title": {
+              "native": "HELLS ANGELS"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 382995,
+          "rating": 1,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 109184,
+            "title": {
+              "native": "SSSS.GRIDMAN コミックアンソロジー SIDE:新条アカネ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 382997,
+          "rating": 1,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 109185,
+            "title": {
+              "native": "SSSS.GRIDMAN コミックアンソロジー SIDE:宝多六花"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 382999,
+          "rating": 1,
+          "media": {
+            "id": 101268,
+            "title": {
+              "native": "だーりん・いん・ざ・ふらんきす！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 132089,
+            "title": {
+              "native": "SSSS.GRIDMAN新世紀中学生の執事カフェ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 16
+      },
+      {
+        "score": 20,
+        "amount": 10
+      },
+      {
+        "score": 30,
+        "amount": 13
+      },
+      {
+        "score": 40,
+        "amount": 27
+      },
+      {
+        "score": 50,
+        "amount": 53
+      },
+      {
+        "score": 60,
+        "amount": 77
+      },
+      {
+        "score": 70,
+        "amount": 129
+      },
+      {
+        "score": 80,
+        "amount": 121
+      },
+      {
+        "score": 90,
+        "amount": 124
+      },
+      {
+        "score": 100,
+        "amount": 169
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 201
+      },
+      {
+        "status": "PLANNING",
+        "amount": 980
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1181
+      },
+      {
+        "status": "DROPPED",
+        "amount": 63
+      },
+      {
+        "status": "PAUSED",
+        "amount": 39
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/101268",
+  "modNotes": null
+}

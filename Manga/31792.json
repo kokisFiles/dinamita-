@@ -1,0 +1,417 @@
+{
+  "id": 31792,
+  "idMal": 1792,
+  "title": {
+    "native": "キャプテン翼　GOLDEN－23",
+    "romaji": "Captain Tsubasa GOLDEN-23",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The continuation of Captain Tsubasa after \"Road to 2002\". Focuses on the 23 selected members of the U-22 Japanese National Team, known as the \"Golden 23\", as they fight towards the goal of an Olympic Gold Medal. \n<br><br>\n<i>Note: Includes 4 extra chapters.</i>",
+  "startDate": {
+    "year": 2005,
+    "month": 10,
+    "day": 6
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 4,
+    "day": 24
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 116,
+  "volumes": 12,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748876327,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/31792-5QkjSzOZ06TC.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/31792-5QkjSzOZ06TC.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/31792-5QkjSzOZ06TC.jpg",
+    "color": "#f10d00"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/31792-LQtu6afLfSNT.jpg",
+  "genres": [
+    "Sports"
+  ],
+  "synonyms": [],
+  "averageScore": 66,
+  "meanScore": 71,
+  "popularity": 582,
+  "favourites": 8,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 148,
+      "name": "Football",
+      "description": "Centers around the sport of football (known in the USA as \"soccer\").",
+      "category": "Theme-Game-Sport",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 31791,
+          "title": {
+            "native": "キャプテン翼 ROAD TO 2002"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 48795,
+          "title": {
+            "native": "キャプテン翼 海外激闘編 IN CALCIO"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 46468,
+          "name": {
+            "first": "Ryou",
+            "last": "Ishizaki",
+            "native": "石崎了",
+            "alternative": [
+              "Bruce Harper"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46468-yiuxc5Tt2prW.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b46468-yiuxc5Tt2prW.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/46468"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 6782,
+          "name": {
+            "first": "Hikaru",
+            "last": "Matsuyama",
+            "native": "松山光",
+            "alternative": [
+              "Wild Eagle",
+              "Phillip Callahan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6782-9JB5FXqyH8vD.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b6782-9JB5FXqyH8vD.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6782"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5906,
+          "name": {
+            "first": "Tarou",
+            "last": "Misaki",
+            "native": "岬太郎",
+            "alternative": [
+              "Taro",
+              "Field-Artist",
+              "Ben Becker"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5906-dGU9ZcMK0J63.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5906-dGU9ZcMK0J63.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5906"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 6781,
+          "name": {
+            "first": "Jun",
+            "last": "Misugi",
+            "native": "三杉淳",
+            "alternative": [
+              "The Young Noble of the Field",
+              "Julian Ross"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6781-EdvpOyUjuFLp.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b6781-EdvpOyUjuFLp.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6781"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15027,
+          "name": {
+            "first": "Genzou",
+            "last": "Wakabayashi",
+            "native": "若林源三",
+            "alternative": [
+              "Genzo",
+              "Super Great Goal Keeper",
+              "Thomas Price"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15027-9BTC5INMfjjT.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15027-9BTC5INMfjjT.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15027"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 6780,
+          "name": {
+            "first": "Kojirou",
+            "last": "Hyuuga",
+            "native": "日向小次郎",
+            "alternative": [
+              "Kojiro Hyuga",
+              "Tiger Striker",
+              "Mark Landers"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6780-3ATo2nw9HXDR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b6780-3ATo2nw9HXDR.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6780"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5620,
+          "name": {
+            "first": "Tsubasa",
+            "last": "Oozora",
+            "native": "大空翼",
+            "alternative": [
+              "Ozora",
+              "Soccer Genius",
+              "Field Samurai",
+              "Oliver Hutton",
+              "Olivier Atton"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5620-AATHkO6L6JzX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5620-AATHkO6L6JzX.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5620"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6688,
+          "name": {
+            "first": "Ken",
+            "last": "Wakashimazu",
+            "native": "若島津健",
+            "alternative": [
+              "Ed Warner",
+              "若岛津健"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6688-54tewTUKmyBz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b6688-54tewTUKmyBz.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6688"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 321917,
+          "name": {
+            "first": "Shun",
+            "last": "Nitta",
+            "native": "新田瞬",
+            "alternative": [
+              "Speed Star",
+              "Peregrine Falcon Fighter"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321917-cvSQOCCxdt7w.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b321917-cvSQOCCxdt7w.png"
+          },
+          "siteUrl": "https://anilist.co/character/321917"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 98927,
+          "name": {
+            "first": "Youichi",
+            "last": "Takahashi",
+            "native": "高橋陽一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98927-fwDjM9864O2J.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98927-fwDjM9864O2J.png"
+          },
+          "description": "Youichi Takahashi is a mangaka, best known for [Captain Tsubasa](https://anilist.co/manga/31789/Captain-Tsubasa/).\n\n[Twitter](https://twitter.com/0728takahashi)\n",
+          "siteUrl": "https://anilist.co/staff/98927"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 27063,
+      "rank": 98,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2005,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 4
+      },
+      {
+        "score": 40,
+        "amount": 11
+      },
+      {
+        "score": 50,
+        "amount": 13
+      },
+      {
+        "score": 60,
+        "amount": 18
+      },
+      {
+        "score": 70,
+        "amount": 74
+      },
+      {
+        "score": 80,
+        "amount": 47
+      },
+      {
+        "score": 90,
+        "amount": 39
+      },
+      {
+        "score": 100,
+        "amount": 13
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 22
+      },
+      {
+        "status": "PLANNING",
+        "amount": 219
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 332
+      },
+      {
+        "status": "DROPPED",
+        "amount": 4
+      },
+      {
+        "status": "PAUSED",
+        "amount": 5
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/31792",
+  "modNotes": null
+}

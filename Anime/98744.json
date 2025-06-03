@@ -1,0 +1,611 @@
+{
+  "id": 98744,
+  "idMal": 27653,
+  "title": {
+    "native": "クレヨンしんちゃん オラの引越し物語～サボテン大襲撃～",
+    "romaji": "Crayon Shin-chan: Ora no Hikkoshi Monogatari! Saboten Daisuugeki",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "Shin-chan and his family say their goodbyes to Kasukabe City and move to Mexico.<br><br>(Source: Anime News Network)",
+  "startDate": {
+    "year": 2015,
+    "month": 4,
+    "day": 18
+  },
+  "endDate": {
+    "year": 2015,
+    "month": 4,
+    "day": 18
+  },
+  "season": "SPRING",
+  "seasonYear": 2015,
+  "seasonInt": 152,
+  "episodes": 1,
+  "duration": 103,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748868368,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98744-gh8o2Xio5oAM.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98744-gh8o2Xio5oAM.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b98744-gh8o2Xio5oAM.jpg",
+    "color": "#28bbe4"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Shin-chan en México: El ataque del cactus gigante"
+  ],
+  "averageScore": 68,
+  "meanScore": 70,
+  "popularity": 2057,
+  "favourites": 21,
+  "tags": [
+    {
+      "id": 198,
+      "name": "Foreign",
+      "description": "Partly or completely set in a country outside the country of origin.",
+      "category": "Setting-Scene",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 250,
+      "name": "Rural",
+      "description": "Partly or completely set in the countryside.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 32435,
+          "title": {
+            "native": "クレヨンしんちゃん"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 966,
+          "title": {
+            "native": "クレヨンしんちゃん"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 20535,
+          "title": {
+            "native": "映画クレヨンしんちゃん　ガチンコ! 逆襲のロボとーちゃん"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 100289,
+          "title": {
+            "native": "クレヨンしんちゃん 爆睡!ユメミーワールド大突撃"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2951,
+          "name": {
+            "first": "Shinnosuke",
+            "last": "Nohara",
+            "native": "野原しんのすけ",
+            "alternative": [
+              "Shin-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2951-Bs571jmT5Xym.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2951-Bs571jmT5Xym.png"
+          },
+          "siteUrl": "https://anilist.co/character/2951"
+        },
+        "voiceActors": [
+          {
+            "id": 95148,
+            "name": {
+              "first": "Aki",
+              "last": "Uechi",
+              "native": "うえちあき"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95148-JiNi79wg9ScS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95148-JiNi79wg9ScS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95148"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7854,
+          "name": {
+            "first": "Misae",
+            "last": "Nohara",
+            "native": "野原美冴",
+            "alternative": [
+              "nee Koyama",
+              "Mitzi",
+              "Misty"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7854.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7854.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7854"
+        },
+        "voiceActors": [
+          {
+            "id": 96600,
+            "name": {
+              "first": "Miki",
+              "last": "Narahashi",
+              "native": "ならはしみき"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96600-v6elhY0JP2iR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96600-v6elhY0JP2iR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96600"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7855,
+          "name": {
+            "first": "Himawari",
+            "last": "Nohara",
+            "native": "野原ひまわり",
+            "alternative": [
+              "Hima",
+              "Daisy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7855.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7855.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7855"
+        },
+        "voiceActors": [
+          {
+            "id": 95470,
+            "name": {
+              "first": "Satomi",
+              "last": "Koorogi",
+              "native": "こおろぎさとみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95470-xZYG14WGMlmS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95470-xZYG14WGMlmS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95470"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 33466,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Nohara",
+            "native": "野原広志",
+            "alternative": [
+              "Hiroshi",
+              "Hiro",
+              "Harry"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/33466.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/33466.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/33466"
+        },
+        "voiceActors": [
+          {
+            "id": 95063,
+            "name": {
+              "first": "Keiji",
+              "last": "Fujiwara",
+              "native": "藤原啓治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95063-xAsEUzspuLMG.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95063-xAsEUzspuLMG.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95063"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 227776,
+          "name": {
+            "first": "Sumaho-chan",
+            "last": null,
+            "native": "スマホちゃん",
+            "alternative": [
+              "Smartphone Girl",
+              "Shinnosuke"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b227776-HKB2rRDCIqHf.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b227776-HKB2rRDCIqHf.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/227776"
+        },
+        "voiceActors": [
+          {
+            "id": 225928,
+            "name": {
+              "first": "Rino",
+              "last": "Sashihara",
+              "native": "指原莉乃"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n225928-RrVCycw3kmsk.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n225928-RrVCycw3kmsk.png"
+            },
+            "siteUrl": "https://anilist.co/staff/225928"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 98293,
+          "name": {
+            "first": "Yoshito",
+            "last": "Usui",
+            "native": "臼井儀人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98293-sPwWTGzCRKp3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98293-sPwWTGzCRKp3.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/臼井儀人)\n\nA mangaka known for the popular [Crayon Shin-chan](https://anilist.co/manga/32435/) series.",
+          "siteUrl": "https://anilist.co/staff/98293"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 111395,
+          "name": {
+            "first": "Masakazu",
+            "last": "Hashimoto",
+            "native": "橋本昌和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/16395.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/16395.jpg"
+          },
+          "description": "[Twitter](http://twitter.com/u_ninike)",
+          "siteUrl": "https://anilist.co/staff/111395"
+        }
+      },
+      {
+        "role": "Screenplay",
+        "node": {
+          "id": 118493,
+          "name": {
+            "first": "Kimiko",
+            "last": "Ueno",
+            "native": "うえのきみこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118493-zaypQQMzsi1m.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118493-zaypQQMzsi1m.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/うえのきみこ)",
+          "siteUrl": "https://anilist.co/staff/118493"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 123868,
+          "name": {
+            "first": "Takao",
+            "last": "Maki",
+            "native": "牧孝雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123868-kjc9kHIaJno3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n123868-kjc9kHIaJno3.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/344493581)",
+          "siteUrl": "https://anilist.co/staff/123868"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 124082,
+          "name": {
+            "first": "Hideo",
+            "last": "Hariganeya",
+            "native": "針金屋英郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124082-mB52fv12523Y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124082-mB52fv12523Y.png"
+          },
+          "description": "[Twitter](https://x.com/Hariganeyan)",
+          "siteUrl": "https://anilist.co/staff/124082"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 124082,
+          "name": {
+            "first": "Hideo",
+            "last": "Hariganeya",
+            "native": "針金屋英郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124082-mB52fv12523Y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124082-mB52fv12523Y.png"
+          },
+          "description": "[Twitter](https://x.com/Hariganeyan)",
+          "siteUrl": "https://anilist.co/staff/124082"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 124201,
+          "name": {
+            "first": "Yaeko",
+            "last": "Ootsu",
+            "native": "大津八重子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/124201"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 124202,
+          "name": {
+            "first": "You​",
+            "last": "Morioka",
+            "native": "森岡庸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/124202"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 124676,
+          "name": {
+            "first": "Satomi",
+            "last": "Hashimoto",
+            "native": "橋本里美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/124676"
+        }
+      },
+      {
+        "role": "Animation Assistance",
+        "node": {
+          "id": 148648,
+          "name": {
+            "first": "Tatsurou",
+            "last": "Kawano",
+            "native": "川野達朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n148648-aMORTu0jZcE1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n148648-aMORTu0jZcE1.png"
+          },
+          "description": "[Twitter](https://twitter.com/chau_kotori)\n\nGraduated from Kyoto Seika University in 2012. Japanese animator, director and storyboard artist. Leader and founder of Studio Colorido's Team Yamahitsuji since fall 2018.",
+          "siteUrl": "https://anilist.co/staff/148648"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 247,
+          "name": "Shin-Ei Animation",
+          "siteUrl": "https://anilist.co/studio/247"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 4184,
+      "url": "http://www.shinchan-movie.com/",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 18021,
+      "rank": 36,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2015,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 18116,
+      "rank": 47,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2015,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 9
+      },
+      {
+        "score": 30,
+        "amount": 10
+      },
+      {
+        "score": 40,
+        "amount": 23
+      },
+      {
+        "score": 50,
+        "amount": 90
+      },
+      {
+        "score": 60,
+        "amount": 171
+      },
+      {
+        "score": 70,
+        "amount": 267
+      },
+      {
+        "score": 80,
+        "amount": 197
+      },
+      {
+        "score": 90,
+        "amount": 119
+      },
+      {
+        "score": 100,
+        "amount": 60
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 29
+      },
+      {
+        "status": "PLANNING",
+        "amount": 301
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1674
+      },
+      {
+        "status": "DROPPED",
+        "amount": 36
+      },
+      {
+        "status": "PAUSED",
+        "amount": 17
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/98744",
+  "modNotes": null
+}

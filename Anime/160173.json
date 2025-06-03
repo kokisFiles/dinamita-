@@ -1,0 +1,622 @@
+{
+  "id": 160173,
+  "idMal": 54216,
+  "title": {
+    "native": "ぐんまちゃん シーズン２",
+    "romaji": "GUNMACHAN Season 2",
+    "english": "GUNMACHAN Season 2"
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "The second season of <i>GUNMACHAN</i>.",
+  "startDate": {
+    "year": 2023,
+    "month": 4,
+    "day": 8
+  },
+  "endDate": {
+    "year": 2023,
+    "month": 7,
+    "day": 1
+  },
+  "season": "SPRING",
+  "seasonYear": 2023,
+  "seasonInt": 232,
+  "episodes": 13,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": "#アニメぐんまちゃん",
+  "trailer": {
+    "id": "VL9PTiLlVfI",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/VL9PTiLlVfI/hqdefault.jpg"
+  },
+  "updatedAt": 1748770488,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160173-BAVY3lmBLqy2.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160173-BAVY3lmBLqy2.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx160173-BAVY3lmBLqy2.png",
+    "color": "#e49328"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Gunma Chan Season 2"
+  ],
+  "averageScore": null,
+  "meanScore": 57,
+  "popularity": 213,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 133510,
+          "title": {
+            "native": "ぐんまちゃん"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 222706,
+          "name": {
+            "first": "Gunma-chan",
+            "last": null,
+            "native": "ぐんまちゃん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b222706-OvrSc117zrjN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b222706-OvrSc117zrjN.png"
+          },
+          "siteUrl": "https://anilist.co/character/222706"
+        },
+        "voiceActors": [
+          {
+            "id": 125920,
+            "name": {
+              "first": "Karin",
+              "last": "Takahashi",
+              "native": "高橋花林"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n125920-eGCWlgvsrOyz.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n125920-eGCWlgvsrOyz.png"
+            },
+            "siteUrl": "https://anilist.co/staff/125920"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 235429,
+          "name": {
+            "first": "Aoma",
+            "last": null,
+            "native": "あおま",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b235429-E4SSwGDUdZJj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b235429-E4SSwGDUdZJj.png"
+          },
+          "siteUrl": "https://anilist.co/character/235429"
+        },
+        "voiceActors": [
+          {
+            "id": 103921,
+            "name": {
+              "first": "Aya",
+              "last": "Uchida",
+              "native": "内田彩"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103921-bnSaJsF0jgH1.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103921-bnSaJsF0jgH1.png"
+            },
+            "siteUrl": "https://anilist.co/staff/103921"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 235430,
+          "name": {
+            "first": "Mimi",
+            "last": null,
+            "native": "みーみ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b235430-fkN7S3YblSW1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b235430-fkN7S3YblSW1.png"
+          },
+          "siteUrl": "https://anilist.co/character/235430"
+        },
+        "voiceActors": [
+          {
+            "id": 105981,
+            "name": {
+              "first": "Yui",
+              "last": "Ogura",
+              "native": "小倉唯"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105981-CDMPx1Q79Aum.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105981-CDMPx1Q79Aum.png"
+            },
+            "siteUrl": "https://anilist.co/staff/105981"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 103366,
+          "name": {
+            "first": "Mitsuru",
+            "last": "Hongou",
+            "native": "本郷みつる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103366-MWuorTUIDF5k.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103366-MWuorTUIDF5k.png"
+          },
+          "description": "[Twitter](https://twitter.com/megatenhongo) | [Wiki (jp)](https://ja.wikipedia.org/wiki/本郷みつる)",
+          "siteUrl": "https://anilist.co/staff/103366"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 235431,
+          "name": {
+            "first": "Fumiko",
+            "last": "Nakajima",
+            "native": "中嶋史子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n235431-7TABXVw8PxH5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n235431-7TABXVw8PxH5.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/235431"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 103366,
+          "name": {
+            "first": "Mitsuru",
+            "last": "Hongou",
+            "native": "本郷みつる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103366-MWuorTUIDF5k.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103366-MWuorTUIDF5k.png"
+          },
+          "description": "[Twitter](https://twitter.com/megatenhongo) | [Wiki (jp)](https://ja.wikipedia.org/wiki/本郷みつる)",
+          "siteUrl": "https://anilist.co/staff/103366"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 136361,
+          "name": {
+            "first": "Masahiro",
+            "last": "Kurio ",
+            "native": "栗尾昌宏"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/136361"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 473,
+          "name": "Ascension",
+          "siteUrl": "https://anilist.co/studio/473"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 351456,
+          "airingAt": 1680908280,
+          "episode": 1,
+          "mediaId": 160173,
+          "media": {
+            "id": 160173
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 351457,
+          "airingAt": 1681513080,
+          "episode": 2,
+          "mediaId": 160173,
+          "media": {
+            "id": 160173
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 351458,
+          "airingAt": 1682117880,
+          "episode": 3,
+          "mediaId": 160173,
+          "media": {
+            "id": 160173
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 351459,
+          "airingAt": 1682722680,
+          "episode": 4,
+          "mediaId": 160173,
+          "media": {
+            "id": 160173
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 351460,
+          "airingAt": 1683327480,
+          "episode": 5,
+          "mediaId": 160173,
+          "media": {
+            "id": 160173
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 351461,
+          "airingAt": 1683932280,
+          "episode": 6,
+          "mediaId": 160173,
+          "media": {
+            "id": 160173
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 351462,
+          "airingAt": 1684537080,
+          "episode": 7,
+          "mediaId": 160173,
+          "media": {
+            "id": 160173
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 351463,
+          "airingAt": 1685141880,
+          "episode": 8,
+          "mediaId": 160173,
+          "media": {
+            "id": 160173
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 351464,
+          "airingAt": 1685746680,
+          "episode": 9,
+          "mediaId": 160173,
+          "media": {
+            "id": 160173
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 351465,
+          "airingAt": 1686351480,
+          "episode": 10,
+          "mediaId": 160173,
+          "media": {
+            "id": 160173
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 351466,
+          "airingAt": 1686956280,
+          "episode": 11,
+          "mediaId": 160173,
+          "media": {
+            "id": 160173
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 351467,
+          "airingAt": 1687561080,
+          "episode": 12,
+          "mediaId": 160173,
+          "media": {
+            "id": 160173
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 351468,
+          "airingAt": 1688165880,
+          "episode": 13,
+          "mediaId": 160173,
+          "media": {
+            "id": 160173
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 64940,
+      "url": "https://gunmachan-official.jp/animation/",
+      "site": "Official Site"
+    },
+    {
+      "id": 64941,
+      "url": "https://twitter.com/gunmachan_info",
+      "site": "Twitter"
+    },
+    {
+      "id": 87690,
+      "url": "https://www.crunchyroll.com/series/GDKHZEPP3/gunma-chan",
+      "site": "Crunchyroll"
+    }
+  ],
+  "streamingEpisodes": [
+    {
+      "title": "Episode 1",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/100dfc38b866f9c77b28191460d7c0021676826967_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GN7UD4EE3",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 2",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/149c6815aebc96807a377c3dfb656a911677428653_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GWDU8DDV2",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 3",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/63a8d064428ea8194bfd433d211c93571678035725_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GWDU8DQV4",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 4",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/8dbc2aab3a9535e2ef04506e78eed90c1678644922_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GJWU2VEV1",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 5",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/d4f11c6e3768a5926e72f1b50ef972961679241546_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G9DUE3M9N",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 6",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/753996cd27eff298e73e1ca0917a00d81679837127_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G4VUQ25Z9",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 7",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/1bb41354a19d5a87dae04f94a3e314c71680434825_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GZ7UV1QEW",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 8",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/192025511e2f0f1b3e0346ec8ee633b91681036587_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GX9UQZ4DW",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 9",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/67bc8f1cd598c8fc76ac4f8264154da01681662366_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G50UZ1MK8",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 10",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/833a0fe7d8330191f5419183764f32e01682266564_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GPWUKD87D",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 11",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/864c88e2ba4d718b21564e0ee2dc4f861682882645_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GVWU04G0W",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 12",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/334c400eacfd4f3bea4b5dd721f10b0c1683473045_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GWDU8Q42V",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 13",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/452543d94c8469bc7ae2c22e4d357c461683630725_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GG1U2Z72Q",
+      "site": "Crunchyroll"
+    }
+  ],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 284172,
+          "rating": 1,
+          "media": {
+            "id": 160173,
+            "title": {
+              "native": "ぐんまちゃん シーズン２"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2403,
+            "title": {
+              "native": "こどものじかん"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 3
+      },
+      {
+        "score": 50,
+        "amount": 6
+      },
+      {
+        "score": 60,
+        "amount": 2
+      },
+      {
+        "score": 70,
+        "amount": 3
+      },
+      {
+        "score": 80,
+        "amount": 3
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 5
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 23
+      },
+      {
+        "status": "PLANNING",
+        "amount": 88
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 38
+      },
+      {
+        "status": "DROPPED",
+        "amount": 52
+      },
+      {
+        "status": "PAUSED",
+        "amount": 12
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/160173",
+  "modNotes": null
+}

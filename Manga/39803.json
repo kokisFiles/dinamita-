@@ -1,0 +1,605 @@
+{
+  "id": 39803,
+  "idMal": 9803,
+  "title": {
+    "native": "アンジェリーク TREASURE",
+    "romaji": "Angelique: TREASURE",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Short side stories of the main Angelique series. ",
+  "startDate": {
+    "year": 2000,
+    "month": 8,
+    "day": 30
+  },
+  "endDate": {
+    "year": 2000,
+    "month": 8,
+    "day": 30
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 15,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1746794317,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9803.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9803.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/9803.jpg",
+    "color": "#e48643"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Fantasy",
+    "Romance"
+  ],
+  "synonyms": [
+    "Angelique Comic Anthology",
+    "アンジェリーク."
+  ],
+  "averageScore": null,
+  "meanScore": 55,
+  "popularity": 30,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 53,
+      "name": "Shoujo",
+      "description": "Target demographic is teenage and young adult females.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 123,
+      "name": "Male Harem",
+      "description": "Main cast features the protagonist plus several male characters who are romantically interested in them.",
+      "category": "Theme-Romance",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 471,
+      "name": "Anthology",
+      "description": "A collection of separate works collated into a single release.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 37852,
+          "title": {
+            "native": "アンジェリーク"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8228,
+          "name": {
+            "first": "Clavis",
+            "last": null,
+            "native": "クラヴィス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n8228-H47gzJc86X9Q.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n8228-H47gzJc86X9Q.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8228"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8235,
+          "name": {
+            "first": "Olivie",
+            "last": null,
+            "native": "オリヴィエ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8235-iJyRerBkLfUJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8235-iJyRerBkLfUJ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8235"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8229,
+          "name": {
+            "first": "Marcel",
+            "last": null,
+            "native": "マルセル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8229-BGqM8SbEqRYv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8229-BGqM8SbEqRYv.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8229"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8236,
+          "name": {
+            "first": "Luva",
+            "last": null,
+            "native": "ルヴァ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8236-C6A36bznMoTq.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8236-C6A36bznMoTq.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8236"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8230,
+          "name": {
+            "first": "Oscar",
+            "last": null,
+            "native": "オスカー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8230-mzOgfCnxvi8c.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8230-mzOgfCnxvi8c.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8230"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8231,
+          "name": {
+            "first": "Zephel",
+            "last": null,
+            "native": "ゼフェル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8231-htj4vVVFB9NR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8231-htj4vVVFB9NR.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8231"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8232,
+          "name": {
+            "first": "Lumiale",
+            "last": null,
+            "native": "リュミエール",
+            "alternative": [
+              "Guardian of Water"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8232-ikakkxBuSFHe.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8232-ikakkxBuSFHe.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8232"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8233,
+          "name": {
+            "first": "Randy",
+            "last": null,
+            "native": "ランディ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8233-ZhNILrhmuDfX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8233-ZhNILrhmuDfX.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8233"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8234,
+          "name": {
+            "first": "Julious",
+            "last": null,
+            "native": "ジュリアス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8234-LiiNZk0CorcY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8234-LiiNZk0CorcY.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8234"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 100593,
+          "name": {
+            "first": "Tsukasa",
+            "last": "Shimeno",
+            "native": "しめのつかさ "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/100593"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 96970,
+          "name": {
+            "first": "Rei",
+            "last": "Omishi",
+            "native": "臣士れい"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96970-NqLTy9nnxWni.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96970-NqLTy9nnxWni.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/omishirei)",
+          "siteUrl": "https://anilist.co/staff/96970"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 98835,
+          "name": {
+            "first": "Kaimu",
+            "last": "Tachibana",
+            "native": "橘皆無"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/3835.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/3835.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/98835"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 100563,
+          "name": {
+            "first": "Akari",
+            "last": "Funato",
+            "native": "船戸明里"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100563-AcSFZk4FbIvD.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100563-AcSFZk4FbIvD.jpg"
+          },
+          "description": "[Bluesky](https://bsky.app/profile/akarifunato.bsky.social) | [Twitter](https://twitter.com/8under_the_rose) | [Pixiv](https://www.pixiv.net/users/13159559)",
+          "siteUrl": "https://anilist.co/staff/100563"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97089,
+          "name": {
+            "first": "Setsuko",
+            "last": "Yoneyama",
+            "native": "よねやませつこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97089-bJ6wcS3tUzYU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97089-bJ6wcS3tUzYU.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/s_yoneyama) | [Website](http://yone.mond.jp/index.html)\n\nSetsuko Yoneyama is a Japanese mangaka mainly drawing shoujo mangas. ",
+          "siteUrl": "https://anilist.co/staff/97089"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 113715,
+          "name": {
+            "first": "Reku",
+            "last": "Fuyunagi",
+            "native": "冬凪れく"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Reku Fuyunagi is a japanese mangaka.",
+          "siteUrl": "https://anilist.co/staff/113715"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97173,
+          "name": {
+            "first": "Tamayo",
+            "last": "Akiyama",
+            "native": "秋山たまよ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97173-nbpPGqUoE7UB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97173-nbpPGqUoE7UB.png"
+          },
+          "description": "She was a former member of [CLAMP](https://anilist.co/staff/96877/). She's a childhood friend of [Nanase Ohkawa](https://anilist.co/staff/97292).",
+          "siteUrl": "https://anilist.co/staff/97173"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97019,
+          "name": {
+            "first": "Kairi",
+            "last": "Yura",
+            "native": "由羅カイリ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/97019"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 131838,
+          "name": {
+            "first": "Muunii",
+            "last": "Mucchiri",
+            "native": "むっちりむうにい"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/131838"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 319019,
+          "name": {
+            "first": "Katsumi",
+            "last": "Nakagawa",
+            "native": "中川勝海"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n319019-xig0ueS23UnY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n319019-xig0ueS23UnY.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/319019"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 266406,
+          "name": {
+            "first": "Kiya",
+            "last": "Ootomo",
+            "native": "大友紀弥"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/266406"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 98847,
+          "name": {
+            "first": "Ayumi",
+            "last": "Kasai",
+            "native": "笠井あゆみ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/3847.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/3847.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/Uzu20603216) | [Pixiv](https://www.pixiv.net/users/5956006)\n\nCurrently illustrating covers for Reijin Magazine.",
+          "siteUrl": "https://anilist.co/staff/98847"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 343391,
+          "name": {
+            "first": "Suzunari",
+            "last": "Shimokitazawa",
+            "native": "下北沢鈴成"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Suzunari Shimokitazawa is a japanese mangaka.",
+          "siteUrl": "https://anilist.co/staff/343391"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 343392,
+          "name": {
+            "first": "Tatsuya",
+            "last": "Kinami",
+            "native": "木南達哉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Tatsuya Kinami is a japanese mangaka.",
+          "siteUrl": "https://anilist.co/staff/343392"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 343393,
+          "name": {
+            "first": "Ryou",
+            "last": "Kitagami",
+            "native": "北神亮"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n343393-JQn6sccCfJSL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n343393-JQn6sccCfJSL.png"
+          },
+          "description": "Ryou Kitagami is a japanese mangaka.",
+          "siteUrl": "https://anilist.co/staff/343393"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 50,
+        "amount": 3
+      },
+      {
+        "score": 70,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 2
+      },
+      {
+        "status": "PLANNING",
+        "amount": 16
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 11
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/39803",
+  "modNotes": null
+}

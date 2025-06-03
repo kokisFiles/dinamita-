@@ -1,0 +1,440 @@
+{
+  "id": 151987,
+  "idMal": 49510,
+  "title": {
+    "native": "探偵はもう、死んでいる。ミニアニメ",
+    "romaji": "Tantei wa mou, Shindeiru. Mini Anime",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "Mini anime series featuring characters from <i>Tantei wa mou, Shindeiru.</i> where Kimihiko and Siesta discuss moments from the light novel, posted on the Kadokawa YouTube channel.",
+  "startDate": {
+    "year": 2021,
+    "month": 5,
+    "day": 21
+  },
+  "endDate": {
+    "year": 2021,
+    "month": 5,
+    "day": 25
+  },
+  "season": "SPRING",
+  "seasonYear": 2021,
+  "seasonInt": 212,
+  "episodes": 5,
+  "duration": 2,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "LIGHT_NOVEL",
+  "hashtag": null,
+  "trailer": {
+    "id": "AB_GUWHmFn8",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/AB_GUWHmFn8/hqdefault.jpg"
+  },
+  "updatedAt": 1748684761,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151987-5xpwZegehaoM.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151987-5xpwZegehaoM.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx151987-5xpwZegehaoM.png",
+    "color": "#f1d6c9"
+  },
+  "bannerImage": null,
+  "genres": [],
+  "synonyms": [
+    "Tanmoshi Mini Anime",
+    "The Detective is Already Dead Mini Anime"
+  ],
+  "averageScore": 51,
+  "meanScore": 55,
+  "popularity": 917,
+  "favourites": 12,
+  "tags": [
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 114202,
+          "title": {
+            "native": "探偵はもう、死んでいる。"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 128712,
+          "title": {
+            "native": "探偵はもう、死んでいる。"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 161742,
+          "name": {
+            "first": "Siesta",
+            "last": null,
+            "native": "シエスタ",
+            "alternative": [
+              "Great Detective",
+              "Daydream",
+              "Ace Detective",
+              "Mom"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161742-5YJ759FUsZNf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b161742-5YJ759FUsZNf.png"
+          },
+          "siteUrl": "https://anilist.co/character/161742"
+        },
+        "voiceActors": [
+          {
+            "id": 126572,
+            "name": {
+              "first": "Saki",
+              "last": "Miyashita",
+              "native": "宮下早紀"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n126572-cKEcC3iuTkkc.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n126572-cKEcC3iuTkkc.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/126572"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 161741,
+          "name": {
+            "first": "Kimihiko",
+            "last": "Kimizuka",
+            "native": "君塚君彦",
+            "alternative": [
+              "Kimi",
+              "Watson"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161741-vkQIscqFltd9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b161741-vkQIscqFltd9.png"
+          },
+          "siteUrl": "https://anilist.co/character/161741"
+        },
+        "voiceActors": [
+          {
+            "id": 179356,
+            "name": {
+              "first": "Shin",
+              "last": "Nagai",
+              "native": "長井新"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n179356-wFW4yifTOgCA.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n179356-wFW4yifTOgCA.png"
+            },
+            "siteUrl": "https://anilist.co/staff/179356"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 155454,
+          "name": {
+            "first": "Nigojuu",
+            "last": null,
+            "native": "二語十"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n155454-FCvOtULwXtfi.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n155454-FCvOtULwXtfi.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/nigo_zyuu)",
+          "siteUrl": "https://anilist.co/staff/155454"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 155453,
+          "name": {
+            "first": "Umibouzu",
+            "last": null,
+            "native": "うみぼうず"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n155453-b5Uksq35v6GI.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n155453-b5Uksq35v6GI.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/bouzumi_) | [Pixiv](https://www.pixiv.net/en/users/28939313) | [Skeb](https://skeb.jp/@bouzumi_)",
+          "siteUrl": "https://anilist.co/staff/155453"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 148831,
+          "name": {
+            "first": "Marina",
+            "last": "Maki",
+            "native": "槙麻里奈"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/148831"
+        }
+      },
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 148831,
+          "name": {
+            "first": "Marina",
+            "last": "Maki",
+            "native": "槙麻里奈"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/148831"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 148831,
+          "name": {
+            "first": "Marina",
+            "last": "Maki",
+            "native": "槙麻里奈"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/148831"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 196319,
+          "name": {
+            "first": "Eiko",
+            "last": "Nishi",
+            "native": "西栄子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/196319"
+        }
+      },
+      {
+        "role": "Photography",
+        "node": {
+          "id": 142368,
+          "name": {
+            "first": "Tomoyuki",
+            "last": "Ishiyama",
+            "native": "石山智之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142368-4RFSHB793Hkz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n142368-4RFSHB793Hkz.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/2308525789)",
+          "siteUrl": "https://anilist.co/staff/142368"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 119893,
+          "name": {
+            "first": "Nobuyuki",
+            "last": "Abe",
+            "native": "阿部信行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/119893"
+        }
+      },
+      {
+        "role": "Sound Effects",
+        "node": {
+          "id": 211212,
+          "name": {
+            "first": "Junichirou",
+            "last": "Suzuki",
+            "native": "鈴木潤一朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Junichirou Suzuki is a music selector.",
+          "siteUrl": "https://anilist.co/staff/211212"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6292,
+          "name": "ENGI",
+          "siteUrl": "https://anilist.co/studio/6292"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 53684,
+      "url": "https://tanmoshi-anime.jp/",
+      "site": "Official Site"
+    },
+    {
+      "id": 53685,
+      "url": "https://twitter.com/tanteiwamou_",
+      "site": "Twitter"
+    },
+    {
+      "id": 53690,
+      "url": "https://www.youtube.com/c/KADOKAWAanime",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 10
+      },
+      {
+        "score": 30,
+        "amount": 11
+      },
+      {
+        "score": 40,
+        "amount": 13
+      },
+      {
+        "score": 50,
+        "amount": 33
+      },
+      {
+        "score": 60,
+        "amount": 12
+      },
+      {
+        "score": 70,
+        "amount": 22
+      },
+      {
+        "score": 80,
+        "amount": 7
+      },
+      {
+        "score": 90,
+        "amount": 11
+      },
+      {
+        "score": 100,
+        "amount": 12
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 33
+      },
+      {
+        "status": "PLANNING",
+        "amount": 546
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 286
+      },
+      {
+        "status": "DROPPED",
+        "amount": 35
+      },
+      {
+        "status": "PAUSED",
+        "amount": 17
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/151987",
+  "modNotes": null
+}

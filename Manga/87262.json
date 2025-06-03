@@ -1,0 +1,912 @@
+{
+  "id": 87262,
+  "idMal": 95243,
+  "title": {
+    "native": "Re:ゼロから始める異世界生活Ex",
+    "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu Ex",
+    "english": "Re:ZERO -Starting Life in Another World- Ex"
+  },
+  "type": "MANGA",
+  "format": "NOVEL",
+  "status": "RELEASING",
+  "description": "The bestselling series from author Tappei Nagatsuki continues in this spin-off where some of your favorite characters capture the spotlight!\n<br><br>\n(Source: Yen Press)",
+  "startDate": {
+    "year": 2015,
+    "month": 6,
+    "day": 25
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748955025,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87262-XM88VAxx3lZu.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87262-XM88VAxx3lZu.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx87262-XM88VAxx3lZu.jpg",
+    "color": "#e47835"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/87262-WZGdtkyVOhh4.jpg",
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "synonyms": [
+    "Re: Life in a different world from zero Ex",
+    "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก Ex",
+    "Re:Zero EX – Começando uma Vida em Outro Mundo"
+  ],
+  "averageScore": 81,
+  "meanScore": 86,
+  "popularity": 2175,
+  "favourites": 75,
+  "tags": [
+    {
+      "id": 111,
+      "name": "War",
+      "description": "Partly or completely set during wartime.",
+      "category": "Theme-Other",
+      "rank": 84,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 84,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 79,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 179,
+      "name": "Witch",
+      "description": "Prominently features a character who is a witch.",
+      "category": "Cast-Traits",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1456,
+      "name": "Femboy",
+      "description": "Features a boy who exhibits characteristics or behaviors considered in many cultures to be typical of girls.",
+      "category": "Cast-Traits",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 244,
+      "name": "Isekai",
+      "description": "Features characters being transported into an alternate world setting and having to adapt to their new surroundings.",
+      "category": "Theme-Fantasy",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 113,
+      "name": "Nekomimi",
+      "description": "Humanoid characters with cat-like features such as cat ears and a tail.",
+      "category": "Cast-Traits",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 186,
+      "name": "Crossdressing",
+      "description": "Prominently features a character dressing up as the opposite sex.",
+      "category": "Cast-Traits",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 494,
+      "name": "Twins",
+      "description": "Prominently features two or more siblings that were born at one birth.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 198,
+      "name": "Foreign",
+      "description": "Partly or completely set in a country outside the country of origin.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 471,
+      "name": "Anthology",
+      "description": "A collection of separate works collated into a single release.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 101,
+      "name": "Battle Royale",
+      "description": "Centers around a fierce group competition, often violent and with only one winner.",
+      "category": "Theme-Action",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 193,
+      "name": "Episodic",
+      "description": "Features story arcs that are loosely tied or lack an overarching plot.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 85737,
+          "title": {
+            "native": "Re:ゼロから始める異世界生活"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 110174,
+          "title": {
+            "native": "剣鬼恋歌 Re:ゼロから始める異世界生活†真銘譚"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 124116,
+          "name": {
+            "first": "Theresia",
+            "last": "van Astrea",
+            "native": "テレシア・ヴァン・アストレア",
+            "alternative": [
+              "Sword Saint"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124116-n6qYjDhHcBHS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124116-n6qYjDhHcBHS.png"
+          },
+          "siteUrl": "https://anilist.co/character/124116"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90185,
+          "name": {
+            "first": "Crusch",
+            "last": "Karsten",
+            "native": "クルシュ・カルステン",
+            "alternative": [
+              "Goddess of War (戦争の女神; Sensou no Megami)",
+              "Valkyrie"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90185-FR9JHyNe5038.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/90185"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90184,
+          "name": {
+            "first": "Felix",
+            "last": "Argyle",
+            "native": "フェリックス・アーガイル",
+            "alternative": [
+              "Argail",
+              "Ferris (フェリス)",
+              "Ferri-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90184-o1ZFF6osCZX7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90184-o1ZFF6osCZX7.png"
+          },
+          "siteUrl": "https://anilist.co/character/90184"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90179,
+          "name": {
+            "first": "Wilhelm",
+            "last": "van Astrea",
+            "native": "ヴィルヘルム・ヴァン・アストレア",
+            "alternative": [
+              "Sword Demon (剣鬼 Kenki)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90179-dBqDPUn2i7dM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90179-dBqDPUn2i7dM.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/90179"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 155463,
+          "name": {
+            "first": "Fourier",
+            "last": "Lugunica",
+            "native": "フーリエ・ルグニカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b155463-Vi6METQTRCdB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b155463-Vi6METQTRCdB.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/155463"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90183,
+          "name": {
+            "first": "Julius",
+            "last": "Euclius",
+            "native": "ユリウス・ユークリウス",
+            "alternative": [
+              "Julius Juukulius",
+              "最優の騎士 (Saiyuu no Kishi)",
+              "Valuable Knight",
+              "ユーリ (Juli)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90183-LWx59kSa5Vjl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90183-LWx59kSa5Vjl.png"
+          },
+          "siteUrl": "https://anilist.co/character/90183"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124117,
+          "name": {
+            "first": "Rom",
+            "last": null,
+            "native": "ロム",
+            "alternative": [
+              "Old Man"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124117-9wZEIt0h4Ioq.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b124117-9wZEIt0h4Ioq.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/124117"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 88577,
+          "name": {
+            "first": "Reinhard",
+            "last": "van Astrea",
+            "native": "ラインハルト・ヴァン・アストレア",
+            "alternative": [
+              "Kensei (剣聖)",
+              "Sword Saint",
+              "Knight Implacable"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88577-oKKnibqGgSSD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b88577-oKKnibqGgSSD.png"
+          },
+          "siteUrl": "https://anilist.co/character/88577"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 184243,
+          "name": {
+            "first": "Grimm",
+            "last": "Fauzen",
+            "native": "グリム・ファウゼン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184243-6M9woEFAzOvm.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184243-6M9woEFAzOvm.png"
+          },
+          "siteUrl": "https://anilist.co/character/184243"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 185128,
+          "name": {
+            "first": "Cecilus",
+            "last": "Segmunt",
+            "native": "セシルス・セグムント",
+            "alternative": [
+              "One",
+              "Blue Lightning",
+              "Vollachia's Blue Thunder"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b185128-OXTXzHmezAqe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b185128-OXTXzHmezAqe.png"
+          },
+          "siteUrl": "https://anilist.co/character/185128"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 205416,
+          "name": {
+            "first": "Veltol",
+            "last": "Astrea",
+            "native": "ベルトール・アストレア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205416-9rsyuflGV37k.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205416-9rsyuflGV37k.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/205416"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 205282,
+          "name": {
+            "first": "Roswaal J.",
+            "last": "Mathers",
+            "native": "ロズワール・J・メイザース",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205282-KUlx27W9byrE.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b205282-KUlx27W9byrE.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/205282"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 184309,
+          "name": {
+            "first": "Carol",
+            "last": "Fauzen",
+            "native": null,
+            "alternative": [
+              "Carol Remendis"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184309-e0x5c9I6dwGM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184309-e0x5c9I6dwGM.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/184309"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 218199,
+          "name": {
+            "first": "Libre",
+            "last": "Fermi",
+            "native": "リブレ・フエルミ",
+            "alternative": [
+              "Poison Snake",
+              "Dokuhebi",
+              "毒蛇"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b218199-15KJvJ4vaFxW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b218199-15KJvJ4vaFxW.png"
+          },
+          "siteUrl": "https://anilist.co/character/218199"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 218200,
+          "name": {
+            "first": "Pivot",
+            "last": "Arnancy",
+            "native": "ピボット・アーナンシー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b218200-xkqqJn3UcXUx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b218200-xkqqJn3UcXUx.png"
+          },
+          "siteUrl": "https://anilist.co/character/218200"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 218201,
+          "name": {
+            "first": "Gionis",
+            "last": "Lugunica",
+            "native": "ジオニス・ルグニカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b218201-U4BcGmGf8CEv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b218201-U4BcGmGf8CEv.png"
+          },
+          "siteUrl": "https://anilist.co/character/218201"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 218202,
+          "name": {
+            "first": "Bordeaux",
+            "last": "Zellgef",
+            "native": "ボルドー・ツェルゲフ",
+            "alternative": [
+              "Mad Dog"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b218202-zCXaFinepDRV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b218202-zCXaFinepDRV.png"
+          },
+          "siteUrl": "https://anilist.co/character/218202"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90178,
+          "name": {
+            "first": "Aldebaran",
+            "last": null,
+            "native": "アルデバラン",
+            "alternative": [
+              "Al (アル)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90178-olaN8k9RJRxo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90178-olaN8k9RJRxo.png"
+          },
+          "siteUrl": "https://anilist.co/character/90178"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90186,
+          "name": {
+            "first": "Priscilla",
+            "last": "Barielle",
+            "native": "プリシラ・バーリエル",
+            "alternative": [
+              "Sun Princess",
+              "Scarlet Princess",
+              "Bloody Bride"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90186-gjElC1SypZ7h.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90186-gjElC1SypZ7h.png"
+          },
+          "siteUrl": "https://anilist.co/character/90186"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 294492,
+          "name": {
+            "first": "Jorah",
+            "last": "Pendleton",
+            "native": "ジョラー・ペンダルトン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294492-LoD8uzu5o3gE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294492-LoD8uzu5o3gE.png"
+          },
+          "siteUrl": "https://anilist.co/character/294492"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 302490,
+          "name": {
+            "first": "Miles",
+            "last": null,
+            "native": "マイルズ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302490-ntukgx6HTGMe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302490-ntukgx6HTGMe.png"
+          },
+          "siteUrl": "https://anilist.co/character/302490"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 302489,
+          "name": {
+            "first": "Balleroy",
+            "last": "Temeglyph",
+            "native": "バルロイ・テメグリフ",
+            "alternative": [
+              "Magical Sharpshooter"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302489-idOtuj6n6KRa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b302489-idOtuj6n6KRa.png"
+          },
+          "siteUrl": "https://anilist.co/character/302489"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 175580,
+          "name": {
+            "first": "Stride",
+            "last": "Vollachia",
+            "native": "ストライド・ヴォラキア",
+            "alternative": [
+              "Yang Sword's Blood",
+              "Destruction Wish"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175580-a6WWAPtjaRHS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175580-a6WWAPtjaRHS.png"
+          },
+          "siteUrl": "https://anilist.co/character/175580"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 207928,
+          "name": {
+            "first": "Kurgan",
+            "last": null,
+            "native": "クルガン",
+            "alternative": [
+              "Yatsuude (八つ腕)",
+              "Eight Arms"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207928-R70qMbMjlVQo.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207928-R70qMbMjlVQo.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/207928"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 345388,
+          "name": {
+            "first": "Sphinx",
+            "last": null,
+            "native": "スピンクス",
+            "alternative": [
+              "Witch",
+              "Majo (魔女)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b345388-yM474veAFH34.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b345388-yM474veAFH34.png"
+          },
+          "siteUrl": "https://anilist.co/character/345388"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 118885,
+          "name": {
+            "first": "Tappei",
+            "last": "Nagatsuki",
+            "native": "長月達平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/118885-yj70Ko0eoZqv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/118885-yj70Ko0eoZqv.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/nezumiironyanko)",
+          "siteUrl": "https://anilist.co/staff/118885"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 118886,
+          "name": {
+            "first": "Shinichirou",
+            "last": "Ootsuka",
+            "native": "大塚真一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/118886-L9oHZttbUfgo.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/118886-L9oHZttbUfgo.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/otsuka_shin)",
+          "siteUrl": "https://anilist.co/staff/118886"
+        }
+      },
+      {
+        "role": "Translator (English)",
+        "node": {
+          "id": 219571,
+          "name": {
+            "first": "Kevin",
+            "last": "Steinbach",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n219571-Dsiij3L43vfl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n219571-Dsiij3L43vfl.jpg"
+          },
+          "description": "<a href=\"https://www.linkedin.com/in/kevin-steinbach-65a2619b/\">LinkedIn</a>",
+          "siteUrl": "https://anilist.co/staff/219571"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 87219,
+      "url": "https://yenpress.com/series/reex-light-novel",
+      "site": "Yen Press"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 32167,
+      "rank": 9,
+      "type": "RATED",
+      "format": "NOVEL",
+      "year": 2015,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 32207,
+      "rank": 19,
+      "type": "POPULAR",
+      "format": "NOVEL",
+      "year": 2015,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 66914,
+          "rating": 9,
+          "media": {
+            "id": 87262,
+            "title": {
+              "native": "Re:ゼロから始める異世界生活Ex"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 97369,
+            "title": {
+              "native": "Re:ゼロから始める異世界生活 短編集"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 4
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 8
+      },
+      {
+        "score": 60,
+        "amount": 15
+      },
+      {
+        "score": 70,
+        "amount": 31
+      },
+      {
+        "score": 80,
+        "amount": 80
+      },
+      {
+        "score": 90,
+        "amount": 128
+      },
+      {
+        "score": 100,
+        "amount": 172
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 546
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1254
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 169
+      },
+      {
+        "status": "DROPPED",
+        "amount": 28
+      },
+      {
+        "status": "PAUSED",
+        "amount": 178
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/87262",
+  "modNotes": null
+}

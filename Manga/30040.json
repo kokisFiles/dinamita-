@@ -1,0 +1,1208 @@
+{
+  "id": 30040,
+  "idMal": 40,
+  "title": {
+    "native": "ブラックキャット",
+    "romaji": "Black Cat",
+    "english": "Black Cat"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Train Heartnet, also known as \"Black Cat,\" was an infamous assassin for a secret organization called Chronos...until he abandoned that cold-blooded existence to live on his own terms as an easygoing bounty hunter. But is Train's past as far behind him as he thinks?\n<br><br>\n(Source: Viz Media)",
+  "startDate": {
+    "year": 2000,
+    "month": 7,
+    "day": 4
+  },
+  "endDate": {
+    "year": 2004,
+    "month": 6,
+    "day": 14
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 187,
+  "volumes": 20,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748906401,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30040-nSXevTy0dcJ6.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30040-nSXevTy0dcJ6.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx30040-nSXevTy0dcJ6.jpg",
+    "color": "#f1a150"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/30040-BVxL7huV21lx.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Stray Cat"
+  ],
+  "averageScore": 74,
+  "meanScore": 74,
+  "popularity": 9231,
+  "favourites": 232,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 157,
+      "name": "Guns",
+      "description": "Prominently features the use of guns in combat.",
+      "category": "Theme-Action",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 109,
+      "name": "Primarily Adult Cast",
+      "description": "Main cast is mostly composed of characters above a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 252,
+      "name": "Revenge",
+      "description": "Prominently features a character who aims to exact punishment in a resentful or vindictive manner.",
+      "category": "Theme-Drama",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 40,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 322,
+      "name": "Assassins",
+      "description": "Centers around characters who murder people as a profession.",
+      "category": "Theme-Other-Organisations",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 68,
+          "title": {
+            "native": "ブラックキャット"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 52519,
+          "title": {
+            "native": "To LOVEる -とらぶる- ダークネス"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 186853,
+          "title": {
+            "native": "BLACK CAT"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 186854,
+          "title": {
+            "native": "BLACK CAT 星の残照"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 190965,
+          "title": {
+            "native": "STRAY CAT"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 191286,
+          "title": {
+            "native": "BLACK CAT 特別編 - 姫っち追跡大作戦"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 191288,
+          "title": {
+            "native": "BLACK CAT 特別編"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 44,
+          "name": {
+            "first": "Eve",
+            "last": null,
+            "native": "イヴ",
+            "alternative": [
+              "Little Princess"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 42,
+          "name": {
+            "first": "Train",
+            "last": "Heartnet",
+            "native": "トレイン・ハートネット",
+            "alternative": [
+              "Black Cat",
+              "Chrono Number XIII"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42-mMWsls5Qx6wG.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b42-mMWsls5Qx6wG.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 43,
+          "name": {
+            "first": "Sven",
+            "last": "Vollfied",
+            "native": "スヴェン・ボルフィード",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/43.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 45,
+          "name": {
+            "first": "Rinslet",
+            "last": "Walker",
+            "native": "リンスレット・ウォーカー",
+            "alternative": [
+              "Rins"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b45-z9wTQOTieezu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b45-z9wTQOTieezu.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7692,
+          "name": {
+            "first": "Layla",
+            "last": null,
+            "native": "レイラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7692.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7692.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7692"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7693,
+          "name": {
+            "first": "Tim",
+            "last": null,
+            "native": "ティム",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7693.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7693.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7693"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21597,
+          "name": {
+            "first": "Tanya",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21597.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21597.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21597"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 39607,
+          "name": {
+            "first": "Maro",
+            "last": null,
+            "native": "マロ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/39607.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/39607.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/39607"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7694,
+          "name": {
+            "first": "Gallom",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7694.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7694.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7694"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7695,
+          "name": {
+            "first": "Lacdoll",
+            "last": null,
+            "native": "ラクドール",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7695.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7695.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7695"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21986,
+          "name": {
+            "first": "Eathes",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21986.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21986.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21986"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7690,
+          "name": {
+            "first": "Shiki",
+            "last": null,
+            "native": "シキ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7690.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7690.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7690"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7711,
+          "name": {
+            "first": "Murdock",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7711.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7711.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7711"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6430,
+          "name": {
+            "first": "Sephiria",
+            "last": "Arks",
+            "native": "セフィリア・アークス",
+            "alternative": [
+              "Chrono Number I"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/6430.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/6430.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6430"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6439,
+          "name": {
+            "first": "Zagine",
+            "last": "Axeloake",
+            "native": "ザジーネ・アクセルロック",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/6439.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/6439.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6439"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6437,
+          "name": {
+            "first": "Naizer",
+            "last": "Bruckheimer",
+            "native": "ナイザー・ブラッカイマー",
+            "alternative": [
+              "Chrono Number V"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/6437.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/6437.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6437"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7696,
+          "name": {
+            "first": "Silphy",
+            "last": "Deacroft",
+            "native": "シルフィー・デアクロフト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7696.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7696.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7696"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 560,
+          "name": {
+            "first": "Creed",
+            "last": "Diskenth",
+            "native": "クリード・ディスケンス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b560-Cl0cQGdoK3xP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b560-Cl0cQGdoK3xP.png"
+          },
+          "siteUrl": "https://anilist.co/character/560"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7688,
+          "name": {
+            "first": "Leon",
+            "last": "Elliott",
+            "native": "レオン・エリオット",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7688.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7688.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7688"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7706,
+          "name": {
+            "first": "Baldorias",
+            "last": "Fanghini",
+            "native": "ファンギーニ・バルドリアス",
+            "alternative": [
+              "Chrono Number VIII",
+              "Baldor"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7706.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7706.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7706"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 561,
+          "name": {
+            "first": "Charden",
+            "last": "Flamberg",
+            "native": "シャルデン･フラムブルグ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b561-6aRWml2f0m5F.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b561-6aRWml2f0m5F.png"
+          },
+          "siteUrl": "https://anilist.co/character/561"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7710,
+          "name": {
+            "first": "Touma",
+            "last": "Fudou",
+            "native": "トーマフード",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7710.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7710.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7710"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21598,
+          "name": {
+            "first": "Preta",
+            "last": "Ghoul",
+            "native": "プレタ・グール",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21598.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21598.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21598"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7689,
+          "name": {
+            "first": "Durham",
+            "last": "Glaster",
+            "native": "デュラム・グラスター",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7689.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7689.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7689"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21988,
+          "name": {
+            "first": "Lloyd",
+            "last": "Goldwynne",
+            "native": "ロイド＝ゴールドウィン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21988.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21988.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21988"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 96900,
+          "name": {
+            "first": "Kentarou",
+            "last": "Yabuki",
+            "native": "矢吹健太朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96900-30DyA1UF1dfE.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96900-30DyA1UF1dfE.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/yabuki_info)\n\nA Japanese manga artist. His mentor was Takeshi Obata, the illustrator of Death Note, Hikaru no Go, Bakuman and Platinum End. The mangaka [Shinohara Kenta](https://anilist.co/staff/97994/Shinohara-Kenta) is his brother-in-law.\n\nYabuki is best known for his series Black Cat, which ran from 2000 to 2004 in Weekly Shounen Jump and later adapted into an anime. Upon its ending, Yabuki expressed desire to make a sequel from the series, or make its characters reappear in another work. From 2004 to 2020, he only worked as illustrator to works written by other authors, most notably on To Love-Ru alongside his former assistant Saki Hasemi. That was until the release of Ayakashi Triangle on the pages of Shounen Jump in 2020.",
+          "siteUrl": "https://anilist.co/staff/96900"
+        }
+      },
+      {
+        "role": "Lettering (French)",
+        "node": {
+          "id": 278345,
+          "name": {
+            "first": "Valérie",
+            "last": "Pizzonero",
+            "native": null
+          },
+          "language": "FRENCH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n278345-UQ8WDxUnto3g.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n278345-UQ8WDxUnto3g.jpg"
+          },
+          "description": "Valérie Pizzonero is a French Letterer.",
+          "siteUrl": "https://anilist.co/staff/278345"
+        }
+      },
+      {
+        "role": "Editor",
+        "node": {
+          "id": 148376,
+          "name": {
+            "first": "Yoshihisa",
+            "last": "Heishi",
+            "native": "瓶子吉久"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n148376-wm2ok2u4ADH3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n148376-wm2ok2u4ADH3.png"
+          },
+          "description": "__Yoshihisa Heishi__ is a Japanese magazine editor, animation planner and producer. He currently works for Shueisha and was an editor-in-chief for Weekly Shounen Jump between 2011-2017.",
+          "siteUrl": "https://anilist.co/staff/148376"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 26558,
+      "url": "https://www.viz.com/shonenjump/chapters/black-cat",
+      "site": "Viz"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 25982,
+      "rank": 17,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2000,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 26073,
+      "rank": 8,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 2000,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 18234,
+          "rating": 6,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 54903,
+            "title": {
+              "native": "GANGSTA."
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 33517,
+          "rating": 13,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 119493,
+            "title": {
+              "native": "あやかしトライアングル"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 35727,
+          "rating": 5,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30648,
+            "title": {
+              "native": "DOGS / BULLETS & CARNAGE"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 39913,
+          "rating": 11,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30671,
+            "title": {
+              "native": "To LOVEる -とらぶる-"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 70279,
+          "rating": 3,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 121848,
+            "title": {
+              "native": "To LOVEる -とらぶる- 番外編「Multiplication～前から後ろから～」"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 70281,
+          "rating": 2,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 52519,
+            "title": {
+              "native": "To LOVEる -とらぶる- ダークネス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 73415,
+          "rating": 10,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30136,
+            "title": {
+              "native": "烈火の炎"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 79241,
+          "rating": 9,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30019,
+            "title": {
+              "native": "ゲットバッカーズ -奪還屋-"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 82906,
+          "rating": 2,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31376,
+            "title": {
+              "native": "ドッグス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99838,
+          "rating": 9,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30735,
+            "title": {
+              "native": "ブラック・ラグーン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 168003,
+          "rating": 1,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 85281,
+            "title": {
+              "native": "MURCIÉLAGO-ムルシエラゴ-"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 168007,
+          "rating": 2,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 104277,
+            "title": {
+              "native": "ロウヒーロー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 168019,
+          "rating": 2,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 99404,
+            "title": {
+              "native": "CANDY & CIGARETTES"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 195764,
+          "rating": 3,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30094,
+            "title": {
+              "native": "ディー・エヌ・エンジェル"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 195774,
+          "rating": 3,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30534,
+            "title": {
+              "native": "スパイラル～推理の絆～"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 208807,
+          "rating": 2,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 239961,
+          "rating": 3,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33211,
+            "title": {
+              "native": "東京アンダーグラウンド"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 304179,
+          "rating": 4,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 169355,
+            "title": {
+              "native": "カグラバチ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 323820,
+          "rating": 2,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 44804,
+            "title": {
+              "native": "Phantom ～Requiem for the Phantom～"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 323822,
+          "rating": 2,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30472,
+            "title": {
+              "native": "王ドロボウJING"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 323825,
+          "rating": 2,
+          "media": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 35434,
+            "title": {
+              "native": "スピードグラファー"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 10
+      },
+      {
+        "score": 20,
+        "amount": 8
+      },
+      {
+        "score": 30,
+        "amount": 28
+      },
+      {
+        "score": 40,
+        "amount": 64
+      },
+      {
+        "score": 50,
+        "amount": 182
+      },
+      {
+        "score": 60,
+        "amount": 313
+      },
+      {
+        "score": 70,
+        "amount": 704
+      },
+      {
+        "score": 80,
+        "amount": 736
+      },
+      {
+        "score": 90,
+        "amount": 456
+      },
+      {
+        "score": 100,
+        "amount": 269
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 640
+      },
+      {
+        "status": "PLANNING",
+        "amount": 4286
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 3596
+      },
+      {
+        "status": "DROPPED",
+        "amount": 301
+      },
+      {
+        "status": "PAUSED",
+        "amount": 408
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/30040",
+  "modNotes": null
+}

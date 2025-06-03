@@ -1,0 +1,676 @@
+{
+  "id": 3202,
+  "idMal": 3202,
+  "title": {
+    "native": "大好き！ハローキティ",
+    "romaji": "Daisuki! Hello Kitty",
+    "english": "Hello Kitty"
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "The adventures of a young kitten named Kitty with her twin sister Mimi. It's a variety of adventures, including Kitty in some fairy tales as well.",
+  "startDate": {
+    "year": 1993,
+    "month": 10,
+    "day": 5
+  },
+  "endDate": {
+    "year": 1994,
+    "month": 3,
+    "day": 29
+  },
+  "season": "FALL",
+  "seasonYear": 1993,
+  "seasonInt": 934,
+  "episodes": 26,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748830879,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3202-Q9C6hfwzPXMG.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3202-Q9C6hfwzPXMG.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3202-Q9C6hfwzPXMG.jpg",
+    "color": "#5dbbe4"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3202-6PsYkTPV38he.jpg",
+  "genres": [],
+  "synonyms": [
+    "Love! Hello Kitty",
+    "I love you! Hello Kitty"
+  ],
+  "averageScore": 60,
+  "meanScore": 63,
+  "popularity": 1359,
+  "favourites": 24,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 102,
+      "name": "Coming of Age",
+      "description": "Centers around a character's transition from childhood to adulthood.",
+      "category": "Theme-Drama",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 100,
+      "name": "Nudity",
+      "description": "Features a character wearing no clothing or exposing intimate body parts.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 4024,
+          "title": {
+            "native": "サンリオ・アニメ世界名作劇場"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7312,
+          "name": {
+            "first": "Kitty",
+            "last": "White",
+            "native": "キティ・ホワイト",
+            "alternative": [
+              "Hello Kitty (ハローキティ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7312-6WxhtT4XOPNF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7312-6WxhtT4XOPNF.png"
+          },
+          "siteUrl": "https://anilist.co/character/7312"
+        },
+        "voiceActors": [
+          {
+            "id": 95014,
+            "name": {
+              "first": "Megumi",
+              "last": "Hayashibara",
+              "native": "林原めぐみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95014-tFYQYYhlVOF0.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95014-tFYQYYhlVOF0.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95014"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 18159,
+          "name": {
+            "first": "Mimmy",
+            "last": "White",
+            "native": "ミミィ・ホワイト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/18159.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/18159.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/18159"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "ADR Director (Polish)",
+        "node": {
+          "id": 305049,
+          "name": {
+            "first": "Dobrosława",
+            "last": "Bałazy",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n305049-ZqfR1wdy2rOY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n305049-ZqfR1wdy2rOY.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/305049"
+        }
+      },
+      {
+        "role": "ADR Script (Polish: ep 1)",
+        "node": {
+          "id": 278696,
+          "name": {
+            "first": "Małgorzata",
+            "last": "Lalowska",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n278696-0kDBfQ7nx7Ru.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n278696-0kDBfQ7nx7Ru.png"
+          },
+          "description": "Voice actress, dubbing director and translator at VSI Warsaw.",
+          "siteUrl": "https://anilist.co/staff/278696"
+        }
+      },
+      {
+        "role": "ADR Music Arragment (Polish)",
+        "node": {
+          "id": 307457,
+          "name": {
+            "first": "Eugeniusz",
+            "last": "Majchrzak",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n307457-2UAM9dAmHshe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n307457-2UAM9dAmHshe.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/307457"
+        }
+      },
+      {
+        "role": "ADR Editing (Polish)",
+        "node": {
+          "id": 292148,
+          "name": {
+            "first": "Renata",
+            "last": "Wojnarowska",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/292148"
+        }
+      },
+      {
+        "role": "ADR Script (Polish: 6, 8, 12, 16)",
+        "node": {
+          "id": 306109,
+          "name": {
+            "first": "Antonina",
+            "last": "Kasprzak",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/306109"
+        }
+      },
+      {
+        "role": "ADR Sound (Polish)",
+        "node": {
+          "id": 292148,
+          "name": {
+            "first": "Renata",
+            "last": "Wojnarowska",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/292148"
+        }
+      },
+      {
+        "role": "ADR Production Management (Polish)",
+        "node": {
+          "id": 288377,
+          "name": {
+            "first": "Romuald",
+            "last": "Cieślak",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n288377-ZxOtgwJJqG7t.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n288377-ZxOtgwJJqG7t.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/288377"
+        }
+      },
+      {
+        "role": "ADR Script (Polish: eps 1, 13-15)",
+        "node": {
+          "id": 314694,
+          "name": {
+            "first": "Joanna",
+            "last": "Klimkiewicz",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n314694-kOsXgs6ywGPb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n314694-kOsXgs6ywGPb.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/314694"
+        }
+      },
+      {
+        "role": "ADR Song Lyrics (Polish)",
+        "node": {
+          "id": 314695,
+          "name": {
+            "first": "Bogusław",
+            "last": "Nowicki",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/314695"
+        }
+      },
+      {
+        "role": "ADR Script (Polish: eps 2, 4, 9, 11)",
+        "node": {
+          "id": 314696,
+          "name": {
+            "first": "Kamila",
+            "last": "Klimas-Przybysz",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n314696-PkB0qRjbtAv9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n314696-PkB0qRjbtAv9.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/314696"
+        }
+      },
+      {
+        "role": "ADR Script (Polish: eps 3, 5, 7, 10)",
+        "node": {
+          "id": 314697,
+          "name": {
+            "first": "Agnieszka",
+            "last": "Farkowska",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/314697"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 97,
+          "name": "ADV Films",
+          "siteUrl": "https://anilist.co/studio/97"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 150,
+          "name": "Sanrio",
+          "siteUrl": "https://anilist.co/studio/150"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 1185,
+      "rank": 17,
+      "type": "RATED",
+      "format": "TV",
+      "year": 1993,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 1201,
+      "rank": 12,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 1993,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 161573,
+          "rating": 0,
+          "media": {
+            "id": 3202,
+            "title": {
+              "native": "大好き！ハローキティ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 150114,
+            "title": {
+              "native": "ももんがぁモン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187099,
+          "rating": 3,
+          "media": {
+            "id": 3202,
+            "title": {
+              "native": "大好き！ハローキティ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2150,
+            "title": {
+              "native": "楽しいムーミン一家"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187167,
+          "rating": 2,
+          "media": {
+            "id": 3202,
+            "title": {
+              "native": "大好き！ハローキティ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 130530,
+            "title": {
+              "native": "サンリオ世界名作映画館"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187172,
+          "rating": 1,
+          "media": {
+            "id": 3202,
+            "title": {
+              "native": "大好き！ハローキティ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 5848,
+            "title": {
+              "native": "シナモン the Movie"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187177,
+          "rating": 2,
+          "media": {
+            "id": 3202,
+            "title": {
+              "native": "大好き！ハローキティ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 111310,
+            "title": {
+              "native": "ミュークルドリーミー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187179,
+          "rating": 1,
+          "media": {
+            "id": 3202,
+            "title": {
+              "native": "大好き！ハローキティ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 6008,
+            "title": {
+              "native": "ジュエルペット"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 198369,
+          "rating": 1,
+          "media": {
+            "id": 3202,
+            "title": {
+              "native": "大好き！ハローキティ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 154983,
+            "title": {
+              "native": "アグレッシブ烈子 シーズン5"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 227723,
+          "rating": 0,
+          "media": {
+            "id": 3202,
+            "title": {
+              "native": "大好き！ハローキティ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 168873,
+            "title": {
+              "native": "ハローキティの魔法の森のお姫さま"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 256383,
+          "rating": 1,
+          "media": {
+            "id": 3202,
+            "title": {
+              "native": "大好き！ハローキティ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 6522,
+            "title": {
+              "native": "ウサハナ 夢見るバレリーナ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 407431,
+          "rating": 3,
+          "media": {
+            "id": 3202,
+            "title": {
+              "native": "大好き！ハローキティ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 188394,
+            "title": {
+              "native": "ぷちきゅあ～Precure Fairies～"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 11
+      },
+      {
+        "score": 20,
+        "amount": 17
+      },
+      {
+        "score": 30,
+        "amount": 11
+      },
+      {
+        "score": 40,
+        "amount": 23
+      },
+      {
+        "score": 50,
+        "amount": 43
+      },
+      {
+        "score": 60,
+        "amount": 78
+      },
+      {
+        "score": 70,
+        "amount": 53
+      },
+      {
+        "score": 80,
+        "amount": 23
+      },
+      {
+        "score": 90,
+        "amount": 35
+      },
+      {
+        "score": 100,
+        "amount": 47
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 42
+      },
+      {
+        "status": "PLANNING",
+        "amount": 577
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 622
+      },
+      {
+        "status": "DROPPED",
+        "amount": 86
+      },
+      {
+        "status": "PAUSED",
+        "amount": 32
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/3202",
+  "modNotes": null
+}

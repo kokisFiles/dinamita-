@@ -1,0 +1,922 @@
+{
+  "id": 31031,
+  "idMal": 1031,
+  "title": {
+    "native": "僕等がいた",
+    "romaji": "Bokura ga Ita",
+    "english": "We Were There"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Nanami starts high school with high hopes of making lots of friends. She develops a crush on the enigmatic Yano, but he may have too many secrets for her to handle.\n<br><br>\nAt that time...\n<br><br>\n...I didn't fully understand what Yano meant.\n<br><br>\n(Source: Viz Media)\n<br><br>\n<i>Note: Won the Shogakukan Manga Award for shoujo in 2005.</i>",
+  "startDate": {
+    "year": 2002,
+    "month": 4,
+    "day": 13
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 2,
+    "day": 13
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 74,
+  "volumes": 16,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748913914,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31031-2eOpCSSpI7DM.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31031-2eOpCSSpI7DM.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx31031-2eOpCSSpI7DM.png",
+    "color": "#f1935d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/31031-RLnGIp0qMFEG.jpg",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "C'était nous",
+    "Here We Are",
+    "Érase una vez nosotros",
+    "우리들이 있었다",
+    "Takoví jsme byli"
+  ],
+  "averageScore": 74,
+  "meanScore": 75,
+  "popularity": 9670,
+  "favourites": 250,
+  "tags": [
+    {
+      "id": 53,
+      "name": "Shoujo",
+      "description": "Target demographic is teenage and young adult females.",
+      "category": "Demographic",
+      "rank": 100,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 84,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 102,
+      "name": "Coming of Age",
+      "description": "Centers around a character's transition from childhood to adulthood.",
+      "category": "Theme-Drama",
+      "rank": 82,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 153,
+      "name": "Time Skip",
+      "description": "Features a gap in time used to advance the story.",
+      "category": "Setting-Time",
+      "rank": 80,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 76,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 139,
+      "name": "Love Triangle",
+      "description": "Centered around romantic feelings between more than two people. Includes all love polygons.",
+      "category": "Theme-Romance",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1045,
+      "name": "Heterosexual",
+      "description": "Prominently features a romance between a man and a woman, not inherently sexual.",
+      "category": "Theme-Romance",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1539,
+      "name": "Unrequited Love",
+      "description": "One or more characters are experiencing an unrequited love that may or may not be reciprocated.",
+      "category": "Theme-Romance",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1046,
+      "name": "Suicide",
+      "description": "The act or an instance of taking or attempting to take one's own life voluntarily and intentionally.",
+      "category": "Theme-Drama",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 1228,
+      "name": "Primarily Teen Cast",
+      "description": "Main cast is mostly composed of teen characters.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 156,
+      "name": "Achronological Order",
+      "description": "Chapters or episodes do not occur in chronological order.",
+      "category": "Setting-Time",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1222,
+          "title": {
+            "native": "僕等がいた"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1164,
+          "name": {
+            "first": "Nanami",
+            "last": "Takahashi",
+            "native": "高橋七美",
+            "alternative": [
+              "Nana"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1164-lmlb9gx6nFSO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1164-lmlb9gx6nFSO.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1164"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1165,
+          "name": {
+            "first": "Masafumi",
+            "last": "Takeuchi",
+            "native": "竹内匡史",
+            "alternative": [
+              "Take"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1165-ObaLOUUWNOmF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1165-ObaLOUUWNOmF.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1165"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 413,
+          "name": {
+            "first": "Motoharu",
+            "last": "Yano",
+            "native": "矢野元晴",
+            "alternative": [
+              "Moto"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b413-77YmQ2HpHA0w.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b413-77YmQ2HpHA0w.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/413"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 53909,
+          "name": {
+            "first": "Mizu-chin",
+            "last": null,
+            "native": "水ちん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/53909-gJ5bVxEwjRet.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/53909-gJ5bVxEwjRet.png"
+          },
+          "siteUrl": "https://anilist.co/character/53909"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 53913,
+          "name": {
+            "first": "Taka-chan",
+            "last": null,
+            "native": "タカちゃん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/53913-QZBWOYKUgZHW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/53913-QZBWOYKUgZHW.png"
+          },
+          "siteUrl": "https://anilist.co/character/53913"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 25797,
+          "name": {
+            "first": "Akiko",
+            "last": "Sengenji",
+            "native": "千見寺亜希子",
+            "alternative": [
+              "Aki"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b25797-499HEmF32hBk.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b25797-499HEmF32hBk.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/25797"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 53911,
+          "name": {
+            "first": "Takeuchi no Haha",
+            "last": "",
+            "native": "竹内の母",
+            "alternative": [
+              "Takeuchi's Mother"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/53911-3LGXqtGLR5uV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/53911-3LGXqtGLR5uV.png"
+          },
+          "siteUrl": "https://anilist.co/character/53911"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 16382,
+          "name": {
+            "first": "Ayaka",
+            "last": "Takeuchi",
+            "native": "竹内文香",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16382.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16382.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16382"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1166,
+          "name": {
+            "first": "Yuri",
+            "last": "Yamamoto",
+            "native": "山本有里",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1166-Rn6EIUNJmmY8.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1166-Rn6EIUNJmmY8.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1166"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1167,
+          "name": {
+            "first": "Nana",
+            "last": "Yamamoto",
+            "native": "山本奈々",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1167-CV6c28CKBRl6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1167-CV6c28CKBRl6.png"
+          },
+          "siteUrl": "https://anilist.co/character/1167"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 53907,
+          "name": {
+            "first": "Yano no Haha",
+            "last": "",
+            "native": "矢野の母",
+            "alternative": [
+              "Yano's Mother"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/53907-Bd37PkGFfDWO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/53907-Bd37PkGFfDWO.png"
+          },
+          "siteUrl": "https://anilist.co/character/53907"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97684,
+          "name": {
+            "first": "Yuuki",
+            "last": "Obata",
+            "native": "小畑友紀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97684-NsJkIdyxybUl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97684-NsJkIdyxybUl.png"
+          },
+          "description": "__Birth place:__ Hokkaido, Japan\n__Gender:__ Female\n\nYuki Obata's debut manga, Raindrops, won the Shogakukan Shinjin Comics Taisho Kasaku Award in 1998. Her current series, We Were There (Bokura ga Ita), won the 50th Shogakukan Manga Award and was adapted into an animated television series.",
+          "siteUrl": "https://anilist.co/staff/97684"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 19883,
+      "url": "https://www.viz.com/we-were-there",
+      "site": "Official Site"
+    },
+    {
+      "id": 77743,
+      "url": "https://www.shogakukan.co.jp/books/volume/14620",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 26386,
+      "rank": 21,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2002,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 26481,
+      "rank": 16,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 2002,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 54730,
+          "rating": 5,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30031,
+            "title": {
+              "native": "ラブ★コン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 54732,
+          "rating": 9,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30028,
+            "title": {
+              "native": "NANA"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 54988,
+          "rating": 14,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31506,
+            "title": {
+              "native": "砂時計"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 68521,
+          "rating": 1,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33605,
+            "title": {
+              "native": "キミがスキ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 76637,
+          "rating": 1,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 132463,
+            "title": {
+              "native": "君のための何もかも"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 91195,
+          "rating": 1,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 34334,
+            "title": {
+              "native": "CRAZY FOR YOU"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 106122,
+          "rating": 7,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 37378,
+            "title": {
+              "native": "ストロボ・エッジ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 106592,
+          "rating": 11,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 54294,
+            "title": {
+              "native": "アオハライド"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 107794,
+          "rating": 3,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 87347,
+            "title": {
+              "native": "ギヴン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 112698,
+          "rating": 2,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 41767,
+            "title": {
+              "native": "好きっていいなよ。"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 113653,
+          "rating": 7,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 65573,
+            "title": {
+              "native": "orange [オレンジ]"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 117117,
+          "rating": 2,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31660,
+            "title": {
+              "native": "星は歌う"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 124087,
+          "rating": 2,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 46794,
+            "title": {
+              "native": "L♥DK"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 132591,
+          "rating": 1,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 78781,
+            "title": {
+              "native": "まる三角しかく"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 134376,
+          "rating": 2,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 41072,
+            "title": {
+              "native": "恋空～切ナイ恋物語～"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 208685,
+          "rating": 1,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 39122,
+            "title": {
+              "native": "恋したがりのブルー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 212790,
+          "rating": 5,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30443,
+            "title": {
+              "native": "MARS"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 254911,
+          "rating": 2,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33910,
+            "title": {
+              "native": "ユビキリ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 263548,
+          "rating": 3,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 40330,
+            "title": {
+              "native": "溺れるナイフ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 270821,
+          "rating": 1,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 132364,
+            "title": {
+              "native": "あの子の子ども"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 303455,
+          "rating": 1,
+          "media": {
+            "id": 31031,
+            "title": {
+              "native": "僕等がいた"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 53419,
+            "title": {
+              "native": "秒速5センチメートル"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 27
+      },
+      {
+        "score": 20,
+        "amount": 14
+      },
+      {
+        "score": 30,
+        "amount": 44
+      },
+      {
+        "score": 40,
+        "amount": 69
+      },
+      {
+        "score": 50,
+        "amount": 136
+      },
+      {
+        "score": 60,
+        "amount": 240
+      },
+      {
+        "score": 70,
+        "amount": 398
+      },
+      {
+        "score": 80,
+        "amount": 547
+      },
+      {
+        "score": 90,
+        "amount": 515
+      },
+      {
+        "score": 100,
+        "amount": 333
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 616
+      },
+      {
+        "status": "PLANNING",
+        "amount": 5133
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 3233
+      },
+      {
+        "status": "DROPPED",
+        "amount": 351
+      },
+      {
+        "status": "PAUSED",
+        "amount": 337
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/31031",
+  "modNotes": null
+}

@@ -1,0 +1,606 @@
+{
+  "id": 1764,
+  "idMal": 1764,
+  "title": {
+    "native": "SLAM DUNK (Movie)",
+    "romaji": "SLAM DUNK (Movie)",
+    "english": "Slam Dunk Movie 1"
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "Sakuragi and the Shohoko team takes on Oda and Takezono High School. This is Sakuragi's second match as he faces Oda, a basketball player who went to the same junior high.<br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 1994,
+    "month": 3,
+    "day": 12
+  },
+  "endDate": {
+    "year": 1994,
+    "month": 3,
+    "day": 12
+  },
+  "season": "SPRING",
+  "seasonYear": 1994,
+  "seasonInt": 942,
+  "episodes": 1,
+  "duration": 30,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748804676,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1764-8AxfOVdCcMr0.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1764-8AxfOVdCcMr0.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1764-8AxfOVdCcMr0.png",
+    "color": "#d6351a"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1764-43njOimRHeyO.jpg",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Slice of Life",
+    "Sports"
+  ],
+  "synonyms": [
+    "スラムダンク (1994)",
+    "สแลมดังก์ เดอะ มูฟวี่ อดีตรัก คู่ปรับเก่า และบาสเกตบอล"
+  ],
+  "averageScore": 69,
+  "meanScore": 70,
+  "popularity": 5204,
+  "favourites": 31,
+  "tags": [
+    {
+      "id": 192,
+      "name": "Basketball",
+      "description": "Centers around the sport of basketball.",
+      "category": "Theme-Game-Sport",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 170,
+          "title": {
+            "native": "SLAM DUNK"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 310,
+          "name": {
+            "first": "Hanamichi",
+            "last": "Sakuragi",
+            "native": "桜木花道",
+            "alternative": [
+              "Tensai Baskettoman",
+              "The Rebound King",
+              "Basket Genius"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b310-OJSiQRpJBsOE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b310-OJSiQRpJBsOE.png"
+          },
+          "siteUrl": "https://anilist.co/character/310"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 311,
+          "name": {
+            "first": "Kaede",
+            "last": "Rukawa",
+            "native": "流川楓",
+            "alternative": [
+              "Super Rookie"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311-uxwHnw9lXk4e.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b311-uxwHnw9lXk4e.png"
+          },
+          "siteUrl": "https://anilist.co/character/311"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 314,
+          "name": {
+            "first": "Takenori",
+            "last": "Akagi",
+            "native": "赤木剛憲",
+            "alternative": [
+              "Gori"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b314-MPvsR4ndNZDd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b314-MPvsR4ndNZDd.png"
+          },
+          "siteUrl": "https://anilist.co/character/314"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 8485,
+          "name": {
+            "first": "Haruko",
+            "last": "Akagi",
+            "native": "赤木晴子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/8485.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8485.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8485"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13687,
+          "name": {
+            "first": "Yuji",
+            "last": "Ookusu",
+            "native": "大楠雄二",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13687-tS9Bf6M7eeLv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13687-tS9Bf6M7eeLv.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13687"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 96911,
+          "name": {
+            "first": "Takehiko",
+            "last": "Inoue",
+            "native": "井上雄彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96911-r8s2tiuNoX8m.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96911-r8s2tiuNoX8m.png"
+          },
+          "description": "[Twitter](https://twitter.com/inouetake?s=09) | [Instagram](https://www.instagram.com/inouetake88/)\n\nTakehiko Inoue is a Japanese manga artist. He is best known for the basketball series [Slam Dunk](https://anilist.co/manga/30051/), which is one of the best-selling manga series in history, and the samurai manga [Vagabond](https://anilist.co/manga/30656/). Many of his works are about basketball, Inoue himself being a huge fan of the sport. His works sold in North America through Viz Media are Slam Dunk, Vagabond and [Real](https://anilist.co/manga/30657/), although Slam Dunk was earlier translated by Gutsoon! Entertainment. In 2012, Inoue became the first recipient of the Cultural Prize at the Asia Cosmopolitan Awards.\n\nBefore his debut, Inoue was an assistant to [Tsukasa Houjou](https://anilist.co/staff/97623/) on [City Hunter](https://anilist.co/manga/30792/). He made his debut in 1988, when Purple Kaede appeared in Weekly Shounen Jump magazine. It won the 35th annual Tezuka Award. His first serialization was in 1989 with [Chameleon Jail](https://anilist.co/manga/31611/), for which he was the illustrator of a story written by Kazuhiko Watanabe.\n\nInoue's first real fame came with his next manga, Slam Dunk, about a basketball team from Shohoku High School. It was published in Weekly Shounen Jump from 1990 to 1996 and has sold over 120 million copies in Japan alone. In 1995 it received the 40th annual Shogakukan Manga Award for shounen manga and in 2007 was declared Japan's favorite manga. The series was also adapted into a 101 episode [anime television series](https://anilist.co/anime/170/) and five movies.\n\nInoue launched [Buzzer Beater](https://anilist.co/manga/31221/) as an online comic in May 1996. It is about a basketball team from Earth that attempts to compete on the intergalactic level, it appears on his official web site in four languages: Japanese, English, Chinese, and Korean. Buzzer Beater beater got two 13-episode anime adaptations in [2005](https://anilist.co/anime/406/) and in [2007](https://anilist.co/anime/2684/).\n\nVagabond was Inoue's next manga, adapted from the fictionalized accounts by Eiji Yoshikawa of the samurai Miyamoto Musashi, which he began drawing in 1998. It won him the Kodansha Manga Award for General manga in 2000 and the Osamu Tezuka Culture Award in 2002.\n\nWhile still working on Vagabond, Inoue began drawing Real in 1999, his third basketball manga, which focuses on wheelchair basketball. It received an Excellence Prize at the 2001 Japan Media Arts Festival.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/96911"
+        }
+      },
+      {
+        "role": "Screenplay",
+        "node": {
+          "id": 100170,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Suga",
+            "native": "菅良幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100170-znhdDCa8kmcd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100170-znhdDCa8kmcd.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/100170"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 101306,
+          "name": {
+            "first": "Nobutaka",
+            "last": "Nishizawa",
+            "native": "西沢信孝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101306-waS8PkDVzdDc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101306-waS8PkDVzdDc.png"
+          },
+          "description": "<i>Nobutaka Nishizawa</i> was a director, animator, and producer. He worked for [Toei Animation](https://anilist.co/studio/18/) from 1964 to 2000.",
+          "siteUrl": "https://anilist.co/staff/101306"
+        }
+      },
+      {
+        "role": "Assistant Animation Director",
+        "node": {
+          "id": 101727,
+          "name": {
+            "first": "Takahiro",
+            "last": "Kagami",
+            "native": "加々美高浩"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101727-BscMKGNhO7Di.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101727-BscMKGNhO7Di.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/jetikariya50)\n\nAcknowledged internationally for his work on [Yu☆Gi☆Oh!](https://anilist.co/anime/481/) and [Death Note](https://anilist.co/anime/1535/).\n\nFamous for his depictions of fingers and the \"Joey Chin\" in Yu-Gi-Oh!.",
+          "siteUrl": "https://anilist.co/staff/101727"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 124000,
+          "name": {
+            "first": "Akemi",
+            "last": "Hayashi",
+            "native": "林明美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124000-TkcaYQOuPSdx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124000-TkcaYQOuPSdx.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/141121934) | [Instagram](https://www.instagram.com/akemi_h_0808/) | [Blog](http://replica08.web.fc2.com/index.html)",
+          "siteUrl": "https://anilist.co/staff/124000"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 125820,
+          "name": {
+            "first": "Hideki",
+            "last": "Hamasu",
+            "native": "濱洲英喜"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n125820-xa0704IntEUG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n125820-xa0704IntEUG.png"
+          },
+          "description": "Hamasu's animation mainly focuses on character acting, and his scenes often feature minimal camerawork with a heavy emphasis on expressive facial and body animation. Much like [Kouichi Arai](https://anilist.co/staff/121208/), he was heavily influenced by [Junichi Hayama](https://anilist.co/staff/140660/) and the late '80s realism. Early in his career he was employed at Toei Animation, and was thus a recurring presence in the studio's OVA works such as [Xanadu](https://anilist.co/anime/5920/), [Crying Freeman](https://anilist.co/anime/1153/) and [Vampire Wars](https://anilist.co/anime/1765/). His rising prominence during the early '90s allowed him to participate on [Ghost in the Shell](https://anilist.co/anime/43/), and from thereon he has been in high demand for feature films.\n\nIn 1993, Hamasu animated the car chase on [Satoshi Kon](https://anilist.co/staff/99580/)’s episode of the [JoJo’s Bizarre Adventure](https://anilist.co/anime/666/). The scene impressed Kon enough for Hamasu to end up as a character designer and animation director on [Perfect Blue](https://anilist.co/anime/437/). He was also set to serve a similar role in [Millennium Actress](https://anilist.co/anime/1033/), but was replaced in the role by [Takeshi Honda](https://anilist.co/staff/103303/) due to having contracted a severe tendon inflammation. He appeared on all of Kon’s films, as well as [Paranoia Agent](https://anilist.co/anime/323/) until the director's passing.\n\nMore recently he has mostly worked on [Ghibli](https://anilist.co/studio/21/) and [Hosoda](https://anilist.co/staff/100067/)'s films.",
+          "siteUrl": "https://anilist.co/staff/125820"
+        }
+      },
+      {
+        "role": "Assistant Animation Director",
+        "node": {
+          "id": 125820,
+          "name": {
+            "first": "Hideki",
+            "last": "Hamasu",
+            "native": "濱洲英喜"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n125820-xa0704IntEUG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n125820-xa0704IntEUG.png"
+          },
+          "description": "Hamasu's animation mainly focuses on character acting, and his scenes often feature minimal camerawork with a heavy emphasis on expressive facial and body animation. Much like [Kouichi Arai](https://anilist.co/staff/121208/), he was heavily influenced by [Junichi Hayama](https://anilist.co/staff/140660/) and the late '80s realism. Early in his career he was employed at Toei Animation, and was thus a recurring presence in the studio's OVA works such as [Xanadu](https://anilist.co/anime/5920/), [Crying Freeman](https://anilist.co/anime/1153/) and [Vampire Wars](https://anilist.co/anime/1765/). His rising prominence during the early '90s allowed him to participate on [Ghost in the Shell](https://anilist.co/anime/43/), and from thereon he has been in high demand for feature films.\n\nIn 1993, Hamasu animated the car chase on [Satoshi Kon](https://anilist.co/staff/99580/)’s episode of the [JoJo’s Bizarre Adventure](https://anilist.co/anime/666/). The scene impressed Kon enough for Hamasu to end up as a character designer and animation director on [Perfect Blue](https://anilist.co/anime/437/). He was also set to serve a similar role in [Millennium Actress](https://anilist.co/anime/1033/), but was replaced in the role by [Takeshi Honda](https://anilist.co/staff/103303/) due to having contracted a severe tendon inflammation. He appeared on all of Kon’s films, as well as [Paranoia Agent](https://anilist.co/anime/323/) until the director's passing.\n\nMore recently he has mostly worked on [Ghibli](https://anilist.co/studio/21/) and [Hosoda](https://anilist.co/staff/100067/)'s films.",
+          "siteUrl": "https://anilist.co/staff/125820"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 18,
+          "name": "Toei Animation",
+          "siteUrl": "https://anilist.co/studio/18"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 48697,
+      "url": "https://www.bilibili.tv/media/1016640",
+      "site": "Bilibili TV"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 15699,
+      "rank": 5,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 1994,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 15729,
+      "rank": 7,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 1994,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 34003,
+          "rating": 2,
+          "media": {
+            "id": 1764,
+            "title": {
+              "native": "SLAM DUNK (Movie)"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 292,
+            "title": {
+              "native": "ディア・ボーイズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 34048,
+          "rating": 10,
+          "media": {
+            "id": 1764,
+            "title": {
+              "native": "SLAM DUNK (Movie)"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 11771,
+            "title": {
+              "native": "黒子のバスケ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 34050,
+          "rating": 9,
+          "media": {
+            "id": 1764,
+            "title": {
+              "native": "SLAM DUNK (Movie)"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 101239,
+            "title": {
+              "native": "あひるの空"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 179769,
+          "rating": 2,
+          "media": {
+            "id": 1764,
+            "title": {
+              "native": "SLAM DUNK (Movie)"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 15487,
+            "title": {
+              "native": "黒子のバスケNG集"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 403461,
+          "rating": 1,
+          "media": {
+            "id": 1764,
+            "title": {
+              "native": "SLAM DUNK (Movie)"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1861,
+            "title": {
+              "native": "SLAM DUNK 全国制覇だ! 桜木花道"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 403463,
+          "rating": 1,
+          "media": {
+            "id": 1764,
+            "title": {
+              "native": "SLAM DUNK (Movie)"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2498,
+            "title": {
+              "native": "SLAM DUNK 湘北最大の危機! 燃えろ桜木花道"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 403470,
+          "rating": 1,
+          "media": {
+            "id": 1764,
+            "title": {
+              "native": "SLAM DUNK (Movie)"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2499,
+            "title": {
+              "native": "SLAM DUNK 吠えろバスケットマン魂! 花道と流川の熱き夏"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 403472,
+          "rating": 1,
+          "media": {
+            "id": 1764,
+            "title": {
+              "native": "SLAM DUNK (Movie)"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 128207,
+            "title": {
+              "native": "THE FIRST SLAM DUNK"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 9
+      },
+      {
+        "score": 20,
+        "amount": 13
+      },
+      {
+        "score": 30,
+        "amount": 33
+      },
+      {
+        "score": 40,
+        "amount": 42
+      },
+      {
+        "score": 50,
+        "amount": 189
+      },
+      {
+        "score": 60,
+        "amount": 358
+      },
+      {
+        "score": 70,
+        "amount": 691
+      },
+      {
+        "score": 80,
+        "amount": 385
+      },
+      {
+        "score": 90,
+        "amount": 281
+      },
+      {
+        "score": 100,
+        "amount": 124
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 135
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1459
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 3529
+      },
+      {
+        "status": "DROPPED",
+        "amount": 39
+      },
+      {
+        "status": "PAUSED",
+        "amount": 42
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/1764",
+  "modNotes": null
+}

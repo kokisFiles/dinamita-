@@ -1,0 +1,579 @@
+{
+  "id": 9531,
+  "idMal": 9531,
+  "title": {
+    "native": "手塚治虫物語 ぼくは孫悟空",
+    "romaji": "Tezuka Osamu Monogatari: Boku wa Son-Goku",
+    "english": "Tezuka Osamu Story: I Am Son-Goku"
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "A semi autobiography of Tezuka Osamu.",
+  "startDate": {
+    "year": 1989,
+    "month": 8,
+    "day": 27
+  },
+  "endDate": {
+    "year": 1989,
+    "month": 8,
+    "day": 27
+  },
+  "season": "SUMMER",
+  "seasonYear": 1989,
+  "seasonInt": 893,
+  "episodes": 1,
+  "duration": 69,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": {
+    "id": "hQevVZg9RCw",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/hQevVZg9RCw/hqdefault.jpg"
+  },
+  "updatedAt": 1748802617,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9531-7hTAAQFKnOSF.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9531-7hTAAQFKnOSF.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9531-7hTAAQFKnOSF.jpg",
+    "color": "#f1d60d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n9531-5KUcUK5qK41w.jpg",
+  "genres": [
+    "Adventure"
+  ],
+  "synonyms": [
+    "The Tale of Osamu Tezuka: I'm Songoku"
+  ],
+  "averageScore": 58,
+  "meanScore": 63,
+  "popularity": 531,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 25,
+      "name": "Historical",
+      "description": "Partly or completely set during a real period of world history.",
+      "category": "Setting-Time",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 239,
+      "name": "Biographical",
+      "description": "Based on true stories of real persons living or dead, written by another.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 20189,
+          "title": {
+            "native": "ぼくの孫悟空"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 49507,
+          "title": {
+            "native": "ぼくのそんごくう"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 14292,
+          "name": {
+            "first": "Osamu",
+            "last": "Tezuka",
+            "native": "手塚治虫",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14292-rPA9OzLl1KHN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14292-rPA9OzLl1KHN.png"
+          },
+          "siteUrl": "https://anilist.co/character/14292"
+        },
+        "voiceActors": [
+          {
+            "id": 164199,
+            "name": {
+              "first": "Kyouji",
+              "last": "Kobayashi",
+              "native": "小林恭治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164199-TpH0MGZHR3Cw.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n164199-TpH0MGZHR3Cw.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/164199"
+          },
+          {
+            "id": 95134,
+            "name": {
+              "first": "Takeshi",
+              "last": "Kusao",
+              "native": "草尾毅"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95134-OZzRIDS8eAUd.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95134-OZzRIDS8eAUd.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95134"
+          },
+          {
+            "id": 333692,
+            "name": {
+              "first": "Kunikazu",
+              "last": "Ishii",
+              "native": "石井邦和"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/333692"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 132367,
+          "name": {
+            "first": "Goku",
+            "last": "Son",
+            "native": "孫悟空",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n132367-UDnjkdnuK8Z0.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n132367-UDnjkdnuK8Z0.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/132367"
+        },
+        "voiceActors": [
+          {
+            "id": 95075,
+            "name": {
+              "first": "Mayumi",
+              "last": "Tanaka",
+              "native": "田中真弓"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95075-1qD4TeW1ON92.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95075-1qD4TeW1ON92.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95075"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 36309,
+          "name": {
+            "first": "Narrator",
+            "last": null,
+            "native": "ナレーター",
+            "alternative": [
+              "語り手",
+              "ナレーション",
+              "Narrador",
+              "Rozprávač",
+              "Vyprávěč",
+              "Dış ses",
+              "Narratore",
+              "Pripovjedač",
+              "Narradora",
+              "Рассказчик",
+              "Người dẫn chuyện",
+              "Tagapagsalaysay",
+              "내레이터",
+              "Narratore",
+              "Erzählperson",
+              "מספר",
+              "Narrátor",
+              "讲述人",
+              "راوي",
+              "Forteller",
+              "Berättare",
+              "Αφηγητής",
+              "Narrateur",
+              "なれーしょん",
+              "旁白",
+              "Narrato"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36309"
+        },
+        "voiceActors": [
+          {
+            "id": 101730,
+            "name": {
+              "first": "Ichirou",
+              "last": "Nagai",
+              "native": "永井一郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101730-PQO9AMRtT5jB.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101730-PQO9AMRtT5jB.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101730"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Script",
+        "node": {
+          "id": 102305,
+          "name": {
+            "first": "Rintarou",
+            "last": "",
+            "native": "りんたろう"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102305-6Wk23RSJQTy1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102305-6Wk23RSJQTy1.png"
+          },
+          "description": "Shigeyuki Hayashi, better known by his pseudonym Rintarou, is a well-known anime director.\n\nA film buff ever since he was a kid, he wanted to pursue a career in filmmaking. After having worked as a cel painter in commercial animation, he joined [Toei Animation](https://anilist.co/studio/18/) in 1958 for a brief time working on films such as [Hakujaden](https://anilist.co/anime/4513/) and [Saiyuuki](https://anilist.co/anime/4481/). After having been told that he couldn't work as a director due to not being a college graduate, he moved to [Mushi Production](https://anilist.co/studio/68/) - making his directorial debut as one of the regular episode directors on [Tetsuwan Atom](https://anilist.co/anime/2747/).\n\nIn 1972, Rintarou left Mushi Pro to go freelance and to co-found [Madhouse](https://anilist.co/studio/11) together with [Masao Maruyama](https://anilist.co/staff/103170/), [Osamu Dezaki](https://anilist.co/staff/100393/) and [Yoshiaki Kawajiri](https://anilist.co/staff/100812/). A few years later, Rintarou got invited to direct [Jetter Mars](https://anilist.co/anime/6087/) at his previously disinterested workplace, Toei Animation. He accepted the offer but didn't join the studio as an employee, making him one of the few people who've directed for the studio while not being an inhouse employee. He continued to direct multiple entries for Toei, including [Arrow Emblem](https://anilist.co/anime/3800/), [Captain Harlock](https://anilist.co/anime/1000/), as well as the 1979 film [Galaxy Express 999](https://anilist.co/anime/1301/), which is still considered by many as his best work.\n\n[Haruki Kadokawa](https://anilist.co/staff/170354/), the president of [Kadokawa Shoten](https://anilist.co/studio/113/), took notice of the commercial success of Rintarou's works and hired him to direct [Genma Taisen](https://anilist.co/anime/1626/), which was the very first film produced by Kadokawa. The animation production was handled by Madhouse, where Rintarou changed his post at this time. There he continued his directorial efforts with numerous films and OVA series.\n\nThe older brother of [Masayuki Hayashi](https://anilist.co/staff/161046/).",
+          "siteUrl": "https://anilist.co/staff/102305"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 102305,
+          "name": {
+            "first": "Rintarou",
+            "last": "",
+            "native": "りんたろう"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102305-6Wk23RSJQTy1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102305-6Wk23RSJQTy1.png"
+          },
+          "description": "Shigeyuki Hayashi, better known by his pseudonym Rintarou, is a well-known anime director.\n\nA film buff ever since he was a kid, he wanted to pursue a career in filmmaking. After having worked as a cel painter in commercial animation, he joined [Toei Animation](https://anilist.co/studio/18/) in 1958 for a brief time working on films such as [Hakujaden](https://anilist.co/anime/4513/) and [Saiyuuki](https://anilist.co/anime/4481/). After having been told that he couldn't work as a director due to not being a college graduate, he moved to [Mushi Production](https://anilist.co/studio/68/) - making his directorial debut as one of the regular episode directors on [Tetsuwan Atom](https://anilist.co/anime/2747/).\n\nIn 1972, Rintarou left Mushi Pro to go freelance and to co-found [Madhouse](https://anilist.co/studio/11) together with [Masao Maruyama](https://anilist.co/staff/103170/), [Osamu Dezaki](https://anilist.co/staff/100393/) and [Yoshiaki Kawajiri](https://anilist.co/staff/100812/). A few years later, Rintarou got invited to direct [Jetter Mars](https://anilist.co/anime/6087/) at his previously disinterested workplace, Toei Animation. He accepted the offer but didn't join the studio as an employee, making him one of the few people who've directed for the studio while not being an inhouse employee. He continued to direct multiple entries for Toei, including [Arrow Emblem](https://anilist.co/anime/3800/), [Captain Harlock](https://anilist.co/anime/1000/), as well as the 1979 film [Galaxy Express 999](https://anilist.co/anime/1301/), which is still considered by many as his best work.\n\n[Haruki Kadokawa](https://anilist.co/staff/170354/), the president of [Kadokawa Shoten](https://anilist.co/studio/113/), took notice of the commercial success of Rintarou's works and hired him to direct [Genma Taisen](https://anilist.co/anime/1626/), which was the very first film produced by Kadokawa. The animation production was handled by Madhouse, where Rintarou changed his post at this time. There he continued his directorial efforts with numerous films and OVA series.\n\nThe older brother of [Masayuki Hayashi](https://anilist.co/staff/161046/).",
+          "siteUrl": "https://anilist.co/staff/102305"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 104541,
+          "name": {
+            "first": "Masami",
+            "last": "Hata",
+            "native": "波多正美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9541.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9541.jpg"
+          },
+          "description": "He made his debut as an animator on the show [Big X](https://anilist.co/anime/9613/), and joined Mushi Production working there as a director. Around 1975, he began working at Sanrio, which was just moving into the anime market, and wound up staying there for over a decade, going on to direct several of Sanrio's full-length theatrical features such as [Chirin no Suzu](https://anilist.co/anime/2199/), [Sirius no Densetsu](https://anilist.co/anime/2029/) and [Yousei Florence](https://anilist.co/anime/4943/).\n\nHe has been working as a freelancer since the breakup of Sanrio's animation department in 1985 following the release of the film Yousei Florence, directing and storyboarding for TV series and movies at various studios.",
+          "siteUrl": "https://anilist.co/staff/104541"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 104541,
+          "name": {
+            "first": "Masami",
+            "last": "Hata",
+            "native": "波多正美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9541.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9541.jpg"
+          },
+          "description": "He made his debut as an animator on the show [Big X](https://anilist.co/anime/9613/), and joined Mushi Production working there as a director. Around 1975, he began working at Sanrio, which was just moving into the anime market, and wound up staying there for over a decade, going on to direct several of Sanrio's full-length theatrical features such as [Chirin no Suzu](https://anilist.co/anime/2199/), [Sirius no Densetsu](https://anilist.co/anime/2029/) and [Yousei Florence](https://anilist.co/anime/4943/).\n\nHe has been working as a freelancer since the breakup of Sanrio's animation department in 1985 following the release of the film Yousei Florence, directing and storyboarding for TV series and movies at various studios.",
+          "siteUrl": "https://anilist.co/staff/104541"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 111751,
+          "name": {
+            "first": "Masato",
+            "last": "Shibata",
+            "native": "柴田正人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/111751"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 115050,
+          "name": {
+            "first": "Katsuyoshi",
+            "last": "Kobayashi",
+            "native": "小林克良"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115050-m4IN3QWk3iUn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115050-m4IN3QWk3iUn.png"
+          },
+          "description": "Joined Audio Planning U in 1982, where he studied under [Yasuo Urakami](https://anilist.co/staff/111277/).",
+          "siteUrl": "https://anilist.co/staff/115050"
+        }
+      },
+      {
+        "role": "Production Assistance",
+        "node": {
+          "id": 103170,
+          "name": {
+            "first": "Masao",
+            "last": "Maruyama",
+            "native": "丸山正雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103170-Z341HxSngUO3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103170-Z341HxSngUO3.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/136171134)\n\nA long-serving anime producer, as well as a founder of [Madhouse](https://anilist.co/studio/11/), [Mappa](https://anilist.co/studio/569/) and [Studio M2](https://anilist.co/studio/6137/). He currently serves as the Chairman of the Board at [Mappa](https://anilist.co/studio/569/).\n\nMaruyama graduated from Hosei University in 1963, and soon after, he found work at [Mushi Production](https://anilist.co/studio/68/) in 1965. It was here that he met many of Madhouse's future staff members. In October 1972, he left Mushi Production together with [Rintarou](https://anilist.co/staff/102305/), [Osamu Dezaki](https://anilist.co/staff/100393/) and [Yoshiaki Kawajiri](https://anilist.co/staff/100812/) and founded Madhouse. From that time onward, Maruyama focused mainly on producing and planning Madhouse's upcoming projects. He also served as the studio's president through the '80s and '90s.\n\nThanks in large part to his frequent attendance at anime conventions, he has become well-known in America among Madhouse's fanbase. Not simply wanting to emulate past successes, Maruyama frequently says at these events that his goal as a producer is to seek out new challenges that will allow the production staff to keep experimenting. This attitude in part has been the reason why he has encouraged the studio to take on projects that may not seem like sure-fire commercial hits. In addition, Maruyama has long been a supporter of bringing new talents into the animation business, and continues to encourage young people to work in anime.\n\nIn 2011, he left Madhouse and founded Mappa. Later in 2016, he left Mappa and founded Studio M2.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/103170"
+        }
+      },
+      {
+        "role": "Insert Song Performance",
+        "node": {
+          "id": 236976,
+          "name": {
+            "first": "Kamitakada Shounen Gasshoudan",
+            "last": null,
+            "native": "上高田少年合唱団"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (JP)](https://ja.wikipedia.org/wiki/上高田少年合唱団)\n\nKamitakada Shounen Gasshoudan was a children's choir from Tokyo, Japan. They recorded many theme songs from the early 1950s to the 70s for anime and live-action shows.",
+          "siteUrl": "https://anilist.co/staff/236976"
+        }
+      },
+      {
+        "role": "Insert Song Composition",
+        "node": {
+          "id": 224258,
+          "name": {
+            "first": "Tatsuo",
+            "last": "Takai",
+            "native": "高井達雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n224258-wImsGmnIpFMJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n224258-wImsGmnIpFMJ.png"
+          },
+          "description": "Takai Tatsuo, born in Hyougo Prefecture, Japan, is a musician most known for composing music for Tetsuwan Atom and Aru Machi Kado no Monogatari. ",
+          "siteUrl": "https://anilist.co/staff/224258"
+        }
+      },
+      {
+        "role": "Insert Song Arrangement",
+        "node": {
+          "id": 224258,
+          "name": {
+            "first": "Tatsuo",
+            "last": "Takai",
+            "native": "高井達雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n224258-wImsGmnIpFMJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n224258-wImsGmnIpFMJ.png"
+          },
+          "description": "Takai Tatsuo, born in Hyougo Prefecture, Japan, is a musician most known for composing music for Tetsuwan Atom and Aru Machi Kado no Monogatari. ",
+          "siteUrl": "https://anilist.co/staff/224258"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 96938,
+          "name": {
+            "first": "Osamu",
+            "last": "Tezuka",
+            "native": "手塚治虫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96938-6i6jed9aM1cX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96938-6i6jed9aM1cX.png"
+          },
+          "description": "[Official Website](https://tezukaosamu.net)\n\nOsamu Tezuka was a legendary Japanese Mangaka and Doctor of Medicine. Tezuka made his manga debut in 1946 with [The Diary of Ma-chan](https://anilist.co/manga/52202) (マアちゃんの日記帳, Machan no Nikkicho) for the children's newspaper Mainichi Shogakusei Shinbun (Mainichi Elementary Schoolchildren's Newspaper) while he was a student at Osaka University. His breakout work, '[New Treasure Island](https://anilist.co/manga/41273)' (新宝島, Shin Takarajima) was in 1947, followed three years later by '[Jungle Emperor](https://anilist.co/manga/31771)' (ジャングル大帝, Jungle Taitei), which was serialized in Manga-Shonen.\n\nFrom a very young age, Osamu Tezuka had been a great fan of Disney animation. Tezuka was also very successful in the animation field. Not only did he do the first TV anime ([Astroboy](https://anilist.co/anime/2747), 1963), but he also produced the first Japanese color anime series ([Jungle Emperor](https://anilist.co/anime/1572), 1965). Influenced by Disney and old movies, Tezuka has in turn influenced countless numbers of Japanese mangaka. Tezuka's works are being reprinted again and again, earning him the undisputed title of 'God of Manga.' In 1994, the city of Takarazuka, where he grew up, inaugurated The Osamu Tezuka Manga Museum. And in 1997, postage stamps with his artwork were sold in Japan.\n\nIn 1971 the semi-annual Tezuka awards were established by the magazine Weekly Shonen Jump. In 1997 a different award named after Tezuka, namely the Osamu Tezuka Cultural Prize, was brought into life.\n\nThe impact Tezuka has had on Japanese Manga is almost impossible to exaggerate, because he created the present form of the medium. Maybe it stems from his medical education or from the Japanese character, but Tezuka had an enormous respect for life. This respect is a theme that can be traced throughout his work, reflected in his life's work, '[Phoenix](https://anilist.co/manga/31325)'. He has reportedly made about 150,000 pages of manga in his life, and has been awarded many prizes for his efforts. Many of Tezuka's work have been translated into English as well as French, Italian, Korean, and so forth. Other characters Osamu Tezuka created include [Unico](https://anilist.co/manga/47240) and [Black Jack](https://anilist.co/manga/31600).\n\nIn 1989 an asteroid was named after Tezuka and [Toshio Ban](https://anilist.co/staff/127281), one of Tezuka's former assistants serialized a manga biography entitled The Osamu Tezuka Story (手塚治虫物語, Osamu Tezuka Monogatari and it was released in English in 2016.\n\nHe is considered the Japanese equivalent to [Walt Disney](https://anilist.co/staff/139600), who served as a major inspiration during his formative years. His prolific output, pioneering techniques, and innovative redefinitions of genres earned him such titles as \"the Father of Manga\" and \"the Godfather of Manga\".\n\n(Sources: MangaUpdates, Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/96938"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 200,
+          "name": "Tezuka Productions",
+          "siteUrl": "https://anilist.co/studio/200"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 11,
+          "name": "MADHOUSE",
+          "siteUrl": "https://anilist.co/studio/11"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 12
+      },
+      {
+        "score": 40,
+        "amount": 8
+      },
+      {
+        "score": 50,
+        "amount": 34
+      },
+      {
+        "score": 60,
+        "amount": 36
+      },
+      {
+        "score": 70,
+        "amount": 28
+      },
+      {
+        "score": 80,
+        "amount": 14
+      },
+      {
+        "score": 90,
+        "amount": 45
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 13
+      },
+      {
+        "status": "PLANNING",
+        "amount": 236
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 250
+      },
+      {
+        "status": "DROPPED",
+        "amount": 19
+      },
+      {
+        "status": "PAUSED",
+        "amount": 13
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/9531",
+  "modNotes": null
+}

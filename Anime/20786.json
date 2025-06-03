@@ -1,0 +1,898 @@
+{
+  "id": 20786,
+  "idMal": 22677,
+  "title": {
+    "native": "アップルシード α",
+    "romaji": "Appleseed α",
+    "english": "Appleseed Alpha"
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "Appleseed Alpha depicts the early days of Deunan Knute and Briareos in the 22nd century, as they embark on a journey throughout dystopic ruins of New York in search of the city of Olympus. They are hired by Two Horns, the warlord of the ruined city, to eliminate bipedal combat machines. During the fight, they encouter Iris and Olson, both on a mission. Deunan and Briareos befriend with them and decide to join their mission.<br>\r\n<br>\r\nIris is tasked with preventing the malevolent cyborg Talos from capturing a secret weapon humans were building. Talos uses Iris to activate the gigantic war machine.<br>\r\n<br>\r\n(Source: Wikipedia)",
+  "startDate": {
+    "year": 2014,
+    "month": 7,
+    "day": 15
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 7,
+    "day": 15
+  },
+  "season": "SUMMER",
+  "seasonYear": 2014,
+  "seasonInt": 143,
+  "episodes": 1,
+  "duration": 93,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": {
+    "id": "T3h4_lC1gmY",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/T3h4_lC1gmY/hqdefault.jpg"
+  },
+  "updatedAt": 1748879574,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20786-0vaNh7UD3vx4.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20786-0vaNh7UD3vx4.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20786-0vaNh7UD3vx4.jpg",
+    "color": "#f18635"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20786-61AV1qPcNxvn.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Project Alpha"
+  ],
+  "averageScore": 64,
+  "meanScore": 65,
+  "popularity": 3830,
+  "favourites": 28,
+  "tags": [
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 40,
+      "name": "Police",
+      "description": "Centers around the life and activities of law enforcement officers.",
+      "category": "Theme-Other-Organisations",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 90,
+      "name": "CGI",
+      "description": "Prominently features scenes created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 217,
+      "name": "Dystopian",
+      "description": "Partly or completely set in a society characterized by poverty, squalor or oppression.",
+      "category": "Setting-Time",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 89,
+      "name": "Full CGI",
+      "description": "Almost entirely created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 109,
+      "name": "Primarily Adult Cast",
+      "description": "Main cast is mostly composed of characters above a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 157,
+      "name": "Guns",
+      "description": "Prominently features the use of guns in combat.",
+      "category": "Theme-Action",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 54,
+          "title": {
+            "native": "アップルシード"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 93771,
+          "title": {
+            "native": "アップルシードα"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2211,
+          "name": {
+            "first": "Briareos",
+            "last": "Hecatonchires",
+            "native": "ブリアレオス・ヘカトンケイレス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2211.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2211.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2211"
+        },
+        "voiceActors": [
+          {
+            "id": 95095,
+            "name": {
+              "first": "Junichi",
+              "last": "Suwabe",
+              "native": "諏訪部順一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95095-DvSjTQnqcgXP.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95095"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2210,
+          "name": {
+            "first": "Deunan",
+            "last": "Knute",
+            "native": "デュナン・ナッツ ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2210.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2210.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2210"
+        },
+        "voiceActors": [
+          {
+            "id": 104858,
+            "name": {
+              "first": "Yuka",
+              "last": "Komatsu",
+              "native": "小松由佳"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104858-ao0i80o81GHR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104858-ao0i80o81GHR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/104858"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 284494,
+          "name": {
+            "first": "Iris",
+            "last": null,
+            "native": "アイリス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284494-vonvUh7V12rP.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b284494-vonvUh7V12rP.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/284494"
+        },
+        "voiceActors": [
+          {
+            "id": 101686,
+            "name": {
+              "first": "Aoi",
+              "last": "Yuuki",
+              "native": "悠木碧"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101686-PTd0lQZMsmcv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/101686"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 341325,
+          "name": {
+            "first": "Nyx",
+            "last": null,
+            "native": "ニュクス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b341325-GCZBmIcjsyEM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b341325-GCZBmIcjsyEM.png"
+          },
+          "siteUrl": "https://anilist.co/character/341325"
+        },
+        "voiceActors": [
+          {
+            "id": 95078,
+            "name": {
+              "first": "Kaori",
+              "last": "Nazuka",
+              "native": "名塚佳織"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95078-tMm7zdlRNZ3P.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95078-tMm7zdlRNZ3P.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95078"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 341327,
+          "name": {
+            "first": "Olson",
+            "last": null,
+            "native": "オルソン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b341327-JSdqQ6JpIgtf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b341327-JSdqQ6JpIgtf.png"
+          },
+          "siteUrl": "https://anilist.co/character/341327"
+        },
+        "voiceActors": [
+          {
+            "id": 95064,
+            "name": {
+              "first": "Hiroki",
+              "last": "Takahashi",
+              "native": "高橋広樹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95064-CcZ7bbDPvJ4v.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95064-CcZ7bbDPvJ4v.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95064"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 341326,
+          "name": {
+            "first": "Matthews",
+            "last": null,
+            "native": "マシューズ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b341326-MJ2HRDQ5WRKN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b341326-MJ2HRDQ5WRKN.png"
+          },
+          "siteUrl": "https://anilist.co/character/341326"
+        },
+        "voiceActors": [
+          {
+            "id": 95325,
+            "name": {
+              "first": "Katsunosuke",
+              "last": "Hori",
+              "native": "堀勝之祐"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95325-eNtFhowXlTGP.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95325-eNtFhowXlTGP.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95325"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 341324,
+          "name": {
+            "first": "Talos",
+            "last": null,
+            "native": "タロス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b341324-tKk4HFCXbfap.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b341324-tKk4HFCXbfap.png"
+          },
+          "siteUrl": "https://anilist.co/character/341324"
+        },
+        "voiceActors": [
+          {
+            "id": 95236,
+            "name": {
+              "first": "Hiroki",
+              "last": "Touchi",
+              "native": "東地宏樹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95236-nlMo4dnjdT8p.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95236"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 341323,
+          "name": {
+            "first": "Soukaku",
+            "last": null,
+            "native": "双角",
+            "alternative": [
+              "Two Horns"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b341323-EvDBqA5ZFGg6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b341323-EvDBqA5ZFGg6.png"
+          },
+          "siteUrl": "https://anilist.co/character/341323"
+        },
+        "voiceActors": [
+          {
+            "id": 95761,
+            "name": {
+              "first": "Tesshou",
+              "last": "Genda",
+              "native": "玄田哲章"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95761-nwndYRCqJxno.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95761-nwndYRCqJxno.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95761"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Producer",
+        "node": {
+          "id": 104798,
+          "name": {
+            "first": "Joseph",
+            "last": "Chou",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104798-doITFg2tSWc6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104798-doITFg2tSWc6.png"
+          },
+          "description": "While growing up in Korea Joseph Chou became exposed to Japanese anime which inspired him to go into the entertainment industry. He came to work for Warner Home Entertainment group as the project The Animatrix began picking up momentum. After the surprise success of The Animatrix, Chou was placed head of a division within Warner to oversee new animation projects. He helped lead the way for other projects such as Batman Gotham Knight to be produced after he left Warner. He's worked with some noted industry giants such as Shinji Aramaki and John Woo, as well as people in the U.S. such as ADV founder John Ledford.\n\nHe is the founder and CEO of [Sola Digital Arts](https://anilist.co/studio/6195/), an anime production company.",
+          "siteUrl": "https://anilist.co/staff/104798"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 102454,
+          "name": {
+            "first": "Shinji",
+            "last": "Aramaki",
+            "native": "荒牧伸志"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102454-9blDekHrzZ7d.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102454-9blDekHrzZ7d.png"
+          },
+          "description": "[Twitter](https://twitter.com/snjaramaki) | [Wiki (jp)](https://ja.wikipedia.org/wiki/荒牧伸志) | [Wiki (en)](https://en.wikipedia.org/wiki/Shinji_Aramaki)\n\nAramaki is one of the leading figures in the industry's CG animation, and is noted for his various design works in numerous anime series such as [Gasaraki](https://anilist.co/anime/782/), [Witch Hunter Robin](https://anilist.co/anime/7/), [Wolf's Rain](https://anilist.co/anime/202/) and [Soul Eater](https://anilist.co/anime/3588/) among many others.\n\nInfluenced by [Space Battleship Yamato](https://anilist.co/anime/1650/), [Mobile Suit Gundam](https://anilist.co/anime/80/), and Star Wars during his junior and senior high school years, he decided to pursue a career in film. One of his first representative works was an independently produced animation titled \"Moonstruck Artemis,\" that he made while part of a manga club during his university days. Aramaki didn't have a special desire to work in the animation industry, but has stated joining it solely because he could draw and the industry had a wide range of options for someone like that. He has also said that the spread of digital technology has made it easier for him to work in both anime and live-action.\n\nIn 2004, Aramaki directed [Appleseed](https://anilist.co/anime/54/), a re-interpretation of a [Shirou Masamune](https://anilist.co/staff/97609/) manga by [the same name](https://anilist.co/manga/30668/). Although bashed by critics, the movie was an influential piece in the medium that had great impact on creators around the world. Studio Ghibli co-founder [Toshio Suzuki](https://anilist.co/staff/101638/) said the movie would reform the industry.",
+          "siteUrl": "https://anilist.co/staff/102454"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97609,
+          "name": {
+            "first": "Masamune",
+            "last": "Shirow",
+            "native": "士郎正宗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2609.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2609.jpg"
+          },
+          "description": "Shirow studied oil painting at Osaka University of Arts. While in college, he developed an interest in manga, which led him to create his own complete work, Black Magic, which was published in the manga dōjinshi Atlas. His work caught the eye of Seishinsha President Harumichi Aoki, who offered to publish him.\n\nThe result was best-selling manga Appleseed, a full volume of densely plotted drama taking place in an ambiguous future. The story was a sensation, and won the 1986 Seiun Award for Best Manga. After a professional reprint of Black Magic and a second volume of Appleseed, he released Dominion in 1986. Two more volumes of Appleseed followed before he began work on Ghost in the Shell.\n\nIn 2007, he collaborated again with Production I.G to co-create the original concept for the anime television series Shinreigari/Ghost Hound, Production I.G's 20th anniversary project. A further original collaboration with Production I.G began airing in April 2008, titled Real Drive.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/97609"
+        }
+      },
+      {
+        "role": "CG Director",
+        "node": {
+          "id": 243087,
+          "name": {
+            "first": "Masaru",
+            "last": "Matsumoto",
+            "native": "松本勝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n243087-nkKZBTHSMu88.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n243087-nkKZBTHSMu88.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/243087"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 103057,
+          "name": {
+            "first": "Masaki",
+            "last": "Yamada",
+            "native": "山田正樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8057.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8057.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/103057"
+        }
+      },
+      {
+        "role": "ADR Director (English)",
+        "node": {
+          "id": 106631,
+          "name": {
+            "first": "Steven",
+            "last": "Foster",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11631.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11631.jpg"
+          },
+          "description": " [Instagram](https://www.instagram.com/ste7en_foster/) | [Facebook](https://www.facebook.com/foster.steven)",
+          "siteUrl": "https://anilist.co/staff/106631"
+        }
+      },
+      {
+        "role": "ADR Producer (English)",
+        "node": {
+          "id": 147800,
+          "name": {
+            "first": "Joey",
+            "last": "Goubeaud",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/147800"
+        }
+      },
+      {
+        "role": "Insert Song Lyrics (\"Try It Out (Try Harder Mix)\")",
+        "node": {
+          "id": 153987,
+          "name": {
+            "first": "Skrillex",
+            "last": "",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n153987-gUxr7dUxI14T.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n153987-gUxr7dUxI14T.png"
+          },
+          "description": "[Website](https://www.skrillex.com/) | [Twitter](https://twitter.com/skrillex) | [Facebook](https://www.facebook.com/skrillex) | [Instagram](https://www.instagram.com/skrillex/)\n\nSonny John Moore, known professionally as Skrillex, is an American record producer, DJ, musician, singer and songwriter. Growing up in Northeast Los Angeles and in Northern California, he joined the American post-hardcore band From First to Last as the lead singer in 2004, and recorded two studio albums with the band (Dear Diary, My Teen Angst Has a Body Count, 2004, and Heroine, 2006) before leaving to pursue a solo career in 2007. He began his first tour as a solo artist in late 2007. \n\nAfter releasing the Gypsyhook EP in 2009, Moore was scheduled to record his debut studio album, Bells, with producer Noah Shain. He ceased production of the album, however, and began performing under the name Skrillex, distributing the My Name Is Skrillex EP for free download on his official MySpace page. Subsequently, he released the Scary Monsters and Nice Sprites EP in late–2010 and More Monsters and Sprites EP in mid–2011, both of which have since become moderate commercial successes. Skrillex has won eight Grammy Awards and holds the world record for most Grammys won by an Electronic Dance Music artist. Skrillex has collaborated with Diplo and Boys Noize to form the groups of Jack Ü and Dog Blood respectively. It was announced on Moore's 29th birthday, he reunited with From First To Last and released a single named \"Make War\". In 2017, Skrillex produced and mixed 8, the eighth studio album by rock band Incubus. In July 2017, Skrillex released another single featuring debuting solo artist Poo Bear. (Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/153987"
+        }
+      },
+      {
+        "role": "Insert Song Performance (\"Castle\")",
+        "node": {
+          "id": 191499,
+          "name": {
+            "first": "AKLO",
+            "last": null,
+            "native": "AKLO"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n191499-q4mNDOLfmGah.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n191499-q4mNDOLfmGah.png"
+          },
+          "description": "__[Website](https://www.aklo.jp/) | [Twitter](https://twitter.com/aklovision) | [Instagram](https://www.instagram.com/aklovision/)__\n\n__Birthplace:__ Tokyo, Japan\n__Hometown:__ Mexico City, Mexico\n\n__AKLO__ is a half Japanese and half Mexican rapper, vocalist, lyricist and composer.",
+          "siteUrl": "https://anilist.co/staff/191499"
+        }
+      },
+      {
+        "role": "Theme Song Composition (ED)",
+        "node": {
+          "id": 102415,
+          "name": {
+            "first": "Yasutaka",
+            "last": "Nakata",
+            "native": "中田ヤスタカ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7415.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/7415.jpg"
+          },
+          "description": "A Japanese musician, DJ, record producer, songwriter, composer, and arranger. He formed the band [capsule](https://anilist.co/staff/107506/) in 1997, and the band debuted in 2001 with the song \"Sakura.\" He is also known for being the music producer for the Japanese girl group [Perfume](https://anilist.co/staff/158112/) and [Kyary Pamyu Pamyu](https://anilist.co/staff/118684/).",
+          "siteUrl": "https://anilist.co/staff/102415"
+        }
+      },
+      {
+        "role": "Insert Song Composition (\"Try It Out (Try Harder Mix)\")",
+        "node": {
+          "id": 153987,
+          "name": {
+            "first": "Skrillex",
+            "last": "",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n153987-gUxr7dUxI14T.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n153987-gUxr7dUxI14T.png"
+          },
+          "description": "[Website](https://www.skrillex.com/) | [Twitter](https://twitter.com/skrillex) | [Facebook](https://www.facebook.com/skrillex) | [Instagram](https://www.instagram.com/skrillex/)\n\nSonny John Moore, known professionally as Skrillex, is an American record producer, DJ, musician, singer and songwriter. Growing up in Northeast Los Angeles and in Northern California, he joined the American post-hardcore band From First to Last as the lead singer in 2004, and recorded two studio albums with the band (Dear Diary, My Teen Angst Has a Body Count, 2004, and Heroine, 2006) before leaving to pursue a solo career in 2007. He began his first tour as a solo artist in late 2007. \n\nAfter releasing the Gypsyhook EP in 2009, Moore was scheduled to record his debut studio album, Bells, with producer Noah Shain. He ceased production of the album, however, and began performing under the name Skrillex, distributing the My Name Is Skrillex EP for free download on his official MySpace page. Subsequently, he released the Scary Monsters and Nice Sprites EP in late–2010 and More Monsters and Sprites EP in mid–2011, both of which have since become moderate commercial successes. Skrillex has won eight Grammy Awards and holds the world record for most Grammys won by an Electronic Dance Music artist. Skrillex has collaborated with Diplo and Boys Noize to form the groups of Jack Ü and Dog Blood respectively. It was announced on Moore's 29th birthday, he reunited with From First To Last and released a single named \"Make War\". In 2017, Skrillex produced and mixed 8, the eighth studio album by rock band Incubus. In July 2017, Skrillex released another single featuring debuting solo artist Poo Bear. (Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/153987"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 101385,
+          "name": {
+            "first": "Eiichi",
+            "last": "Kamagata",
+            "native": "鎌形英一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6385.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6385.jpg"
+          },
+          "description": "Eiichi Kamagata serves as president of Lucent Pictures Entertainment, Inc. and co-founder of the newly established animation studio \"Lucent 4°C\". Previously, he held the position of chief producer and production manager at SPE Visual Works Inc., now known as Aniplex Inc., a joint venture between Sony Pictures Entertainment and Sony Music Entertainment Japan. During his 10 year tenure at Aniplex Inc., he laid the groundwork for animation business and was responsible for overseeing the production process of animated featured films, animated television programs and original video animations.    As a producer, Kamagata has enjoyed the critical acclaim and success of the animated feature film Tekkon Kinkreet and has produced some of the most successful animated television series, including Gurren Lagann, Gintama and D.Gray-man. In addition, he has overseen both the business and creative areas of the animated features of Naruto and Bleach animated television series.",
+          "siteUrl": "https://anilist.co/staff/101385"
+        }
+      },
+      {
+        "role": "Insert Song Lyrics (\"Castle\")",
+        "node": {
+          "id": 191499,
+          "name": {
+            "first": "AKLO",
+            "last": null,
+            "native": "AKLO"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n191499-q4mNDOLfmGah.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n191499-q4mNDOLfmGah.png"
+          },
+          "description": "__[Website](https://www.aklo.jp/) | [Twitter](https://twitter.com/aklovision) | [Instagram](https://www.instagram.com/aklovision/)__\n\n__Birthplace:__ Tokyo, Japan\n__Hometown:__ Mexico City, Mexico\n\n__AKLO__ is a half Japanese and half Mexican rapper, vocalist, lyricist and composer.",
+          "siteUrl": "https://anilist.co/staff/191499"
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (ED)",
+        "node": {
+          "id": 102415,
+          "name": {
+            "first": "Yasutaka",
+            "last": "Nakata",
+            "native": "中田ヤスタカ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7415.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/7415.jpg"
+          },
+          "description": "A Japanese musician, DJ, record producer, songwriter, composer, and arranger. He formed the band [capsule](https://anilist.co/staff/107506/) in 1997, and the band debuted in 2001 with the song \"Sakura.\" He is also known for being the music producer for the Japanese girl group [Perfume](https://anilist.co/staff/158112/) and [Kyary Pamyu Pamyu](https://anilist.co/staff/118684/).",
+          "siteUrl": "https://anilist.co/staff/102415"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 341328,
+          "name": {
+            "first": "Marianne",
+            "last": "Krawczyk",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n341328-TtVyQZRBY5Ic.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n341328-TtVyQZRBY5Ic.png"
+          },
+          "description": "Marianne Krawczyk is a screenwriter and video game writer. She wrote the screenplay for <i>[Appleseed Alpha](https://anilist.co/anime/20786/Appleseed-Alpha/)</i> (2014), based on the manga by [Masamune Shirow](https://anilist.co/staff/97609/Masamune-Shirow) and directed by [Shinji Aramaki](https://anilist.co/staff/102454/Shinji-Aramaki). Krawczyk is best known for writing the installments of the God of War video game franchise, from its start in 2005, until 2015. She won a BAFTA Game Award for Best Story and Character for her work on God of War II (2007).",
+          "siteUrl": "https://anilist.co/staff/341328"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 15,
+          "name": "Sony Pictures Entertainment",
+          "siteUrl": "https://anilist.co/studio/15"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 6195,
+          "name": "Sola Digital Arts",
+          "siteUrl": "https://anilist.co/studio/6195"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 95744,
+      "url": "https://twitter.com/APPLESEED_ALPHA",
+      "site": "Twitter"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 17846,
+      "rank": 35,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2014,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 17912,
+      "rank": 27,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2014,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 276229,
+          "rating": 1,
+          "media": {
+            "id": 20786,
+            "title": {
+              "native": "アップルシード α"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2969,
+            "title": {
+              "native": "アップルシード サーガ エクスマキナ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 276234,
+          "rating": 0,
+          "media": {
+            "id": 20786,
+            "title": {
+              "native": "アップルシード α"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 937,
+            "title": {
+              "native": "アップルシード"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 276236,
+          "rating": 1,
+          "media": {
+            "id": 20786,
+            "title": {
+              "native": "アップルシード α"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 9737,
+            "title": {
+              "native": "アップルシード XIII"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 30
+      },
+      {
+        "score": 20,
+        "amount": 13
+      },
+      {
+        "score": 30,
+        "amount": 47
+      },
+      {
+        "score": 40,
+        "amount": 77
+      },
+      {
+        "score": 50,
+        "amount": 211
+      },
+      {
+        "score": 60,
+        "amount": 352
+      },
+      {
+        "score": 70,
+        "amount": 478
+      },
+      {
+        "score": 80,
+        "amount": 291
+      },
+      {
+        "score": 90,
+        "amount": 116
+      },
+      {
+        "score": 100,
+        "amount": 43
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 93
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1193
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2466
+      },
+      {
+        "status": "DROPPED",
+        "amount": 37
+      },
+      {
+        "status": "PAUSED",
+        "amount": 41
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/20786",
+  "modNotes": null
+}

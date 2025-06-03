@@ -1,0 +1,202 @@
+{
+  "id": 42377,
+  "idMal": 12377,
+  "title": {
+    "native": "ツヨシしっかりしなさい",
+    "romaji": "Tsuyoshi Shikkari Shinasai",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Comedic slice of life series about Tsuyoshi, a high school student who has to deal with a very domineering mother and sisters.",
+  "startDate": {
+    "year": 1986,
+    "month": 9,
+    "day": null
+  },
+  "endDate": {
+    "year": 1990,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": 19,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1745327020,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42377-Z8Iw6BE1RWOd.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42377-Z8Iw6BE1RWOd.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx42377-Z8Iw6BE1RWOd.jpg",
+    "color": "#e4bb50"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Hang in There Tsuyoshi",
+    "Get a Grip Tsuyoshi"
+  ],
+  "averageScore": null,
+  "meanScore": 56,
+  "popularity": 51,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 87,
+      "name": "Family Life",
+      "description": "Centers around the activities of a family unit.",
+      "category": "Theme-Slice of Life",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 5992,
+          "title": {
+            "native": "ツヨシしっかりしなさい"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 42378,
+          "title": {
+            "native": "ツヨシもっとしっかりしなさい"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 81059,
+          "name": {
+            "first": "Tsuyoshi",
+            "last": "Ikawa",
+            "native": "井川 強",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/81059"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 102155,
+          "name": {
+            "first": "Kiyoshi",
+            "last": "Nagamatsu",
+            "native": "永松潔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/102155"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 2
+      },
+      {
+        "score": 60,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 4
+      },
+      {
+        "status": "PLANNING",
+        "amount": 29
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 13
+      },
+      {
+        "status": "DROPPED",
+        "amount": 5
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/42377",
+  "modNotes": null
+}

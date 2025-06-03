@@ -1,0 +1,1003 @@
+{
+  "id": 8995,
+  "idMal": 8995,
+  "title": {
+    "native": "テイルズ オブ シンフォニア THE ANIMATION 世界統合編",
+    "romaji": "Tales of Symphonia THE ANIMATION: Sekai Tougou-hen",
+    "english": "Tales of Symphonia: The Animation - The United World Arc"
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "The third and final OVA series concluding the story of Tales of Symphonia: The Animation.",
+  "startDate": {
+    "year": 2011,
+    "month": 11,
+    "day": 23
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 10,
+    "day": 24
+  },
+  "season": "FALL",
+  "seasonYear": 2011,
+  "seasonInt": 114,
+  "episodes": 3,
+  "duration": 36,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748883403,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8995-iaXZoJQN06F1.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8995-iaXZoJQN06F1.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8995-iaXZoJQN06F1.jpg",
+    "color": "#93bbff"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "synonyms": [],
+  "averageScore": 71,
+  "meanScore": 72,
+  "popularity": 5025,
+  "favourites": 41,
+  "tags": [
+    {
+      "id": 43,
+      "name": "Swordplay",
+      "description": "Prominently features the use of swords in combat.",
+      "category": "Theme-Action",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 598,
+      "name": "Elf",
+      "description": "Prominently features a character who is an elf.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 5306,
+          "title": {
+            "native": "テイルズ オブ シンフォニア THE ANIMATION テセアラ編"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 12709,
+          "title": {
+            "native": "テイルズ オブ シンフォニア THE ANIMATION 世界統合編"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 11802,
+          "name": {
+            "first": "Yuan",
+            "last": "Ka-Fai",
+            "native": "ユアン・カーフェイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/11802.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/11802.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/11802"
+        },
+        "voiceActors": [
+          {
+            "id": 95006,
+            "name": {
+              "first": "Toshiyuki",
+              "last": "Morikawa",
+              "native": "森川智之"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95006-hoLuiZANeD3Q.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95006"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2898,
+          "name": {
+            "first": "Lloyd",
+            "last": "Irving",
+            "native": "ロイド・アーヴィング",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2898-QCNHmFC4M8Il.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2898-QCNHmFC4M8Il.png"
+          },
+          "siteUrl": "https://anilist.co/character/2898"
+        },
+        "voiceActors": [
+          {
+            "id": 95020,
+            "name": {
+              "first": "Katsuyuki",
+              "last": "Konishi",
+              "native": "小西克幸"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95020-uOJO2IlwpcX0.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95020"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 11803,
+          "name": {
+            "first": "Mithos",
+            "last": "Yggdrasill",
+            "native": "ミトス・ユグドラシル",
+            "alternative": [
+              "Mitos"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11803-WTCxxV6B21mB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b11803-WTCxxV6B21mB.png"
+          },
+          "siteUrl": "https://anilist.co/character/11803"
+        },
+        "voiceActors": [
+          {
+            "id": 95024,
+            "name": {
+              "first": "Minami",
+              "last": "Takayama",
+              "native": "高山みなみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95024-qsZgGp8VHqMP.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95024-qsZgGp8VHqMP.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95024"
+          },
+          {
+            "id": 95234,
+            "name": {
+              "first": "Hideyuki",
+              "last": "Tanaka",
+              "native": "田中秀幸"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95234-YAu7XmoSIIS7.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95234-YAu7XmoSIIS7.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95234"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9225,
+          "name": {
+            "first": "Presea",
+            "last": "Combatir",
+            "native": "プレセア・コンバティール",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9225.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9225.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9225"
+        },
+        "voiceActors": [
+          {
+            "id": 95057,
+            "name": {
+              "first": "Houko",
+              "last": "Kuwashima",
+              "native": "桑島法子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95057-zkd7yTPVxfyu.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95057-zkd7yTPVxfyu.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95057"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2903,
+          "name": {
+            "first": "Sheena",
+            "last": "Fujibayashi",
+            "native": "藤林しいな",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2903-PW3R6exLZaUC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2903-PW3R6exLZaUC.png"
+          },
+          "siteUrl": "https://anilist.co/character/2903"
+        },
+        "voiceActors": [
+          {
+            "id": 95076,
+            "name": {
+              "first": "Akemi",
+              "last": "Okamura",
+              "native": "岡村明美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95076-itRGy8F3x5Em.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95076-itRGy8F3x5Em.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95076"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2899,
+          "name": {
+            "first": "Colette",
+            "last": "Brunel",
+            "native": "コレット・ブルーネル",
+            "alternative": [
+              "Collet",
+              "Chosen One"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2899-cgvc9rTG6bd1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2899-cgvc9rTG6bd1.png"
+          },
+          "siteUrl": "https://anilist.co/character/2899"
+        },
+        "voiceActors": [
+          {
+            "id": 95081,
+            "name": {
+              "first": "Nana",
+              "last": "Mizuki",
+              "native": "水樹奈々"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95081-qto4UanYkpQT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95081-qto4UanYkpQT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95081"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16082,
+          "name": {
+            "first": "Regal",
+            "last": "Bryant",
+            "native": "リーガル・ブライアン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16082.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16082.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16082"
+        },
+        "voiceActors": [
+          {
+            "id": 95146,
+            "name": {
+              "first": "Akio",
+              "last": "Ootsuka",
+              "native": "大塚明夫"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95146-T6IEmqXW3xUN.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95146-T6IEmqXW3xUN.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95146"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2904,
+          "name": {
+            "first": "Zelos",
+            "last": "Wilder",
+            "native": "ゼロス・ワイルダー",
+            "alternative": [
+              "Chosen of Tethe'alla"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2904-SElwgzftMIQ2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2904-SElwgzftMIQ2.png"
+          },
+          "siteUrl": "https://anilist.co/character/2904"
+        },
+        "voiceActors": [
+          {
+            "id": 95173,
+            "name": {
+              "first": "Masaya",
+              "last": "Onosaka",
+              "native": "小野坂昌也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95173-LIuN04REF5eA.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95173-LIuN04REF5eA.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95173"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2900,
+          "name": {
+            "first": "Genius",
+            "last": "Sage",
+            "native": "ジーニアス・セイジ",
+            "alternative": [
+              "Genis"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2900-fvBZtMBxu1zh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2900-fvBZtMBxu1zh.png"
+          },
+          "siteUrl": "https://anilist.co/character/2900"
+        },
+        "voiceActors": [
+          {
+            "id": 95208,
+            "name": {
+              "first": "Ai",
+              "last": "Orikasa",
+              "native": "折笠愛"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95208-DIfpWvWN401M.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95208-DIfpWvWN401M.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95208"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 38008,
+          "name": {
+            "first": "Martel",
+            "last": "Yggdrasill",
+            "native": "マーテル・ユグドラシル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/38008.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/38008.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/38008"
+        },
+        "voiceActors": [
+          {
+            "id": 95230,
+            "name": {
+              "first": "Misa",
+              "last": "Watanabe",
+              "native": "渡辺美佐"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95230-lCHOeyeVaISA.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95230-lCHOeyeVaISA.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95230"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2901,
+          "name": {
+            "first": "Kratos",
+            "last": "Aurion",
+            "native": "クラトス・アウリオン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2901-5RNVjyhW2AUD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2901-5RNVjyhW2AUD.png"
+          },
+          "siteUrl": "https://anilist.co/character/2901"
+        },
+        "voiceActors": [
+          {
+            "id": 95284,
+            "name": {
+              "first": "Fumihiko",
+              "last": "Tachiki",
+              "native": "立木文彦"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95284-k97k9dULn4vr.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95284-k97k9dULn4vr.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95284"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2902,
+          "name": {
+            "first": "Refill",
+            "last": "Sage",
+            "native": "リフィル・セイジ",
+            "alternative": [
+              "Raine",
+              "Professor"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2902-Cg6F71G127rL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2902-Cg6F71G127rL.png"
+          },
+          "siteUrl": "https://anilist.co/character/2902"
+        },
+        "voiceActors": [
+          {
+            "id": 95435,
+            "name": {
+              "first": "Yumi",
+              "last": "Touma",
+              "native": "冬馬由美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95435-REiTyMQqIfH4.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95435-REiTyMQqIfH4.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95435"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 51661,
+          "name": {
+            "first": "Pronyma",
+            "last": null,
+            "native": "プロネーマ",
+            "alternative": [
+              "Twilight Pronyma"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/51661.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/51661.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/51661"
+        },
+        "voiceActors": [
+          {
+            "id": 96597,
+            "name": {
+              "first": "Yuki",
+              "last": "Makishima",
+              "native": "有希牧島"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1597.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1597.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96597"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 51653,
+          "name": {
+            "first": "Dirk",
+            "last": null,
+            "native": "のダイク",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/51653.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/51653.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/51653"
+        },
+        "voiceActors": [
+          {
+            "id": 100386,
+            "name": {
+              "first": "Masaharu",
+              "last": "Satou",
+              "native": "佐藤正治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5386.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5386.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/100386"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 164232,
+          "name": {
+            "first": "Seles",
+            "last": "Wilder",
+            "native": "セレス・ワイルダー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164232-8SvrLLQfczyK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164232-8SvrLLQfczyK.png"
+          },
+          "siteUrl": "https://anilist.co/character/164232"
+        },
+        "voiceActors": [
+          {
+            "id": 95056,
+            "name": {
+              "first": "Hiromi",
+              "last": "Konno",
+              "native": "今野宏美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95056-QAsT1PIBuIh3.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95056-QAsT1PIBuIh3.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95056"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 99006,
+          "name": {
+            "first": "Haruo",
+            "last": "Sotozaki",
+            "native": "外崎春雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99006-ubhRe65EcEUF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99006-ubhRe65EcEUF.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/外崎春雄)\n\nAffiliated with [ufotable](https://anilist.co/studio/43/).",
+          "siteUrl": "https://anilist.co/staff/99006"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 102319,
+          "name": {
+            "first": "Akiko",
+            "last": "Shikata",
+            "native": "志方あきこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7319-hFwSQtqtz01g.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/7319-hFwSQtqtz01g.png"
+          },
+          "description": "Akiko Shikata is a singer-songwriter and composer. She was born in Tokyo, Japan.  She's known for her contribution in the video game series Ar Tonelico and Shadow Hearts.  She also gave her contribution on Umineko no Naku Koro ni musics, such as the OP Theme for the Visual Novel and the Anime.  Recently she released her second maxi single, Inori no Kanata, that is Tales of Symphonia TETHE'ALLA Hen ED Theme.  She sings in multiple languages such as Italian, German, English, Celtic and Hymmnos, Ar Tonelico's Official Language.",
+          "siteUrl": "https://anilist.co/staff/102319"
+        }
+      },
+      {
+        "role": "Key Animation (ep 1)",
+        "node": {
+          "id": 124353,
+          "name": {
+            "first": "Masato",
+            "last": "Nagamori",
+            "native": "永森雅人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124353-uF2ifddYuhyc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124353-uF2ifddYuhyc.png"
+          },
+          "description": "Affiliated with [ufotable](https://anilist.co/studio/43/).",
+          "siteUrl": "https://anilist.co/staff/124353"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 43,
+          "name": "ufotable",
+          "siteUrl": "https://anilist.co/studio/43"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 28925,
+      "url": "https://www.crunchyroll.com/tales-of-symphonia-the-animation",
+      "site": "Crunchyroll"
+    }
+  ],
+  "streamingEpisodes": [
+    {
+      "title": "Episode 1 - Sylvarant Arc 1",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/37f7b70c9f7e8e465c6ff9d08d6bb8511612807214_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G4VUQ32WQ/sylvarant-arc-1",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 2 - Sylvarant Arc 2",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/f0fdd88cd02074d4df6bf624f787d9801612807289_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G14U43MVV/sylvarant-arc-2",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 3 - Sylvarant Arc 3",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/1907d19f578c0db23b1c4ed9672dbca21612807514_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GK9U3ZXG9/sylvarant-arc-3",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 4 - Sylvarant Arc 4",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/db110ac3da92229d8e6025eb6fe783db1612807804_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GVWU0V98V/sylvarant-arc-4",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 5 - Tethe'alla Arc 1",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/72b9a44645db55f1a93d24842c781e8a1612807928_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GPWUKQG85/tethealla-arc-1",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 6 - Tethe'alla Arc 2",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/a8d8125d890ca07ba60ad7b4c137c7ae1612807996_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G2XU02QNJ/tethealla-arc-2",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 7 - Tethe'alla Arc 3",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/2587cdee008b95a71da6231d06b65f0c1612808289_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GZ7UV74D8/tethealla-arc-3",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 8 - Tethe'alla Arc 4",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/237d197acbe9ca7b62b228fa6cf94ea01612808362_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G50UZ25M5/tethealla-arc-4",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 9 - The United World Arc 1",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/5feff7719de611ff8bc02c44db7e4b031612808592_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GWDU89D7Q/the-united-world-arc-1",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 10 - The United World Arc 2",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/ed762dd1d86e28d420ef65ba5e651c4c1612808653_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G0DUN38MK/the-united-world-arc-2",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 11 - The United World Arc 3",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9779b4695c76fd351697be07b5a64e2a1612808908_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G7PU4598P/the-united-world-arc-3",
+      "site": "Crunchyroll"
+    }
+  ],
+  "rankings": [
+    {
+      "id": 21191,
+      "rank": 11,
+      "type": "RATED",
+      "format": "OVA",
+      "year": 2011,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 95018,
+          "rating": 3,
+          "media": {
+            "id": 8995,
+            "title": {
+              "native": "テイルズ オブ シンフォニア THE ANIMATION 世界統合編"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 391,
+            "title": {
+              "native": "テイルズ オブ ファンタジア THE ANIMATION"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 95022,
+          "rating": 5,
+          "media": {
+            "id": 8995,
+            "title": {
+              "native": "テイルズ オブ シンフォニア THE ANIMATION 世界統合編"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 4884,
+            "title": {
+              "native": "テイルズ オブ ジ アビス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 95024,
+          "rating": 2,
+          "media": {
+            "id": 8995,
+            "title": {
+              "native": "テイルズ オブ シンフォニア THE ANIMATION 世界統合編"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 445,
+            "title": {
+              "native": "テイルズ オブ エターニア THE ANIMATION"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 95028,
+          "rating": 8,
+          "media": {
+            "id": 8995,
+            "title": {
+              "native": "テイルズ オブ シンフォニア THE ANIMATION 世界統合編"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 21221,
+            "title": {
+              "native": "テイルズ オブ ゼスティリア ザ クロス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 278301,
+          "rating": 4,
+          "media": {
+            "id": 8995,
+            "title": {
+              "native": "テイルズ オブ シンフォニア THE ANIMATION 世界統合編"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 174576,
+            "title": {
+              "native": "杖と剣のウィストリア"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 313472,
+          "rating": 2,
+          "media": {
+            "id": 8995,
+            "title": {
+              "native": "テイルズ オブ シンフォニア THE ANIMATION 世界統合編"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 99749,
+            "title": {
+              "native": "FAIRY TAIL (2018)"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 313474,
+          "rating": 1,
+          "media": {
+            "id": 8995,
+            "title": {
+              "native": "テイルズ オブ シンフォニア THE ANIMATION 世界統合編"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 139095,
+            "title": {
+              "native": "FAIRY TAIL 100 YEARS QUEST"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 11
+      },
+      {
+        "score": 20,
+        "amount": 9
+      },
+      {
+        "score": 30,
+        "amount": 25
+      },
+      {
+        "score": 40,
+        "amount": 56
+      },
+      {
+        "score": 50,
+        "amount": 135
+      },
+      {
+        "score": 60,
+        "amount": 234
+      },
+      {
+        "score": 70,
+        "amount": 567
+      },
+      {
+        "score": 80,
+        "amount": 461
+      },
+      {
+        "score": 90,
+        "amount": 277
+      },
+      {
+        "score": 100,
+        "amount": 148
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 152
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1799
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2921
+      },
+      {
+        "status": "DROPPED",
+        "amount": 70
+      },
+      {
+        "status": "PAUSED",
+        "amount": 83
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/8995",
+  "modNotes": null
+}

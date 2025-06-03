@@ -1,0 +1,533 @@
+{
+  "id": 3223,
+  "idMal": 3223,
+  "title": {
+    "native": "キディ・グレイド　劇場版　第三部: 黎明篇",
+    "romaji": "Kiddy Grade: Reimei-hen",
+    "english": "Kiddy Grade: Truth Dawn"
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "This Movie is the retelling of the original anime's final.",
+  "startDate": {
+    "year": 2007,
+    "month": 9,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2007,
+    "month": 9,
+    "day": 1
+  },
+  "season": "FALL",
+  "seasonYear": 2007,
+  "seasonInt": 74,
+  "episodes": 1,
+  "duration": 90,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748281259,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3223-qT8H27UlSiJW.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3223-qT8H27UlSiJW.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3223-qT8H27UlSiJW.png",
+    "color": "#f13586"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Kiddy Grade: Reimei Hen",
+    "Kiddy Grade Movie 3"
+  ],
+  "averageScore": 65,
+  "meanScore": 68,
+  "popularity": 1087,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 3222,
+          "title": {
+            "native": "キディ・グレイド 劇場版 第二部: 氾濫篇"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 274,
+          "title": {
+            "native": "キディ・グレイド"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2662,
+          "name": {
+            "first": "Lumière",
+            "last": null,
+            "native": "リュミエール",
+            "alternative": [
+              "Lumiere"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2662.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2662.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2662"
+        },
+        "voiceActors": [
+          {
+            "id": 95004,
+            "name": {
+              "first": "Aya",
+              "last": "Hirano",
+              "native": "平野綾"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95004-qWQQHGzY3wqr.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95004-qWQQHGzY3wqr.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95004"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17162,
+          "name": {
+            "first": "Un-ou",
+            "last": null,
+            "native": "アンオウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17162.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17162.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17162"
+        },
+        "voiceActors": [
+          {
+            "id": 95017,
+            "name": {
+              "first": "Akira",
+              "last": "Ishida",
+              "native": "石田彰"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95017-GSRcmQ97a8ZT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95017"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2661,
+          "name": {
+            "first": "Éclair",
+            "last": null,
+            "native": "エクレール",
+            "alternative": [
+              "Eclair"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2661-Qjd9aWsL1ZaL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2661-Qjd9aWsL1ZaL.png"
+          },
+          "siteUrl": "https://anilist.co/character/2661"
+        },
+        "voiceActors": [
+          {
+            "id": 95154,
+            "name": {
+              "first": "Ryouko",
+              "last": "Nagata",
+              "native": "永田亮子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/154.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/154.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95154"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17362,
+          "name": {
+            "first": "Chevalier",
+            "last": "D'Autriche",
+            "native": "シュバリエ・ドートリッシュ",
+            "alternative": [
+              "Che"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17362.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17362.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17362"
+        },
+        "voiceActors": [
+          {
+            "id": 95084,
+            "name": {
+              "first": "Norio",
+              "last": "Wakamoto",
+              "native": "若本規夫"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95084-RTrZSU38POPF.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95084-RTrZSU38POPF.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95084"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 97307,
+          "name": {
+            "first": "Keiji",
+            "last": "Gotou",
+            "native": "後藤圭二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97307-zziUpWjBxWFO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97307-zziUpWjBxWFO.png"
+          },
+          "description": "__[Website](http://goto.cute.or.jp)__\n\nGotou began his career as an animator at Atorie. After the closing of Atorie, he worked for other studios such as Project Team Muu and Fenx before going freelancer. He serves as character designer, animation director and animator on countless anime series and contributes to a monthly comic strip to Newtype magazine.\n\nHe has been an animator since he graduated from high school at 18. Unlike most other animators Gotou had never gone to an art school. He became interested in animation after seeing an advertisement in an animation magazine saying that animators were needed. Without having any connections within the industry he went on and joined Atelier Giga and studied there for a year under [Akihiko Yamashita](https://anilist.co/staff/103299/) before marking his debut as animator on [Mister Ajikko](https://anilist.co/anime/3437/).\n\nIn 1988 Studio Atelier declared bancrupcy and he went to Project Team Muu, which later became Phoenix Entertainment. His first work there was as animator on Anime Sanjushi. When working on the Yuusha Saga, he met Ishida Atsuko on Densetsu no Yuusha Da Garn, who influenced Gotou in his character design, particularly the design of the eyes. Together with the experience from training under Yamashita Akihiko this influence resulted in Gotou's so called \"gocky picture\" later.\n\nHe made his debut as character designer on Choujin Densetsu Urotsukidouji 4 and his debut as series director on Kiddy Grade.\n\nMarried to [Megumi Kadonosono](https://anilist.co/staff/100963/).\n\n(Source: Anidb)",
+          "siteUrl": "https://anilist.co/staff/97307"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 100963,
+          "name": {
+            "first": "Megumi",
+            "last": "Kadonosono",
+            "native": "門之園恵美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/門之園恵美)\n\nMarried to fellow animator [Keiji Gotou](https://anilist.co/staff/97307/).",
+          "siteUrl": "https://anilist.co/staff/100963"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 100964,
+          "name": {
+            "first": "Hidefumi",
+            "last": "Kimura",
+            "native": "きむらひでふみ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/きむらひでふみ)",
+          "siteUrl": "https://anilist.co/staff/100964"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 101771,
+          "name": {
+            "first": "Yasuhiro",
+            "last": "Takemoto",
+            "native": "武本康弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101771-8t6BcVpxQnGs.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101771-8t6BcVpxQnGs.jpg"
+          },
+          "description": "Yasuhiro Takemoto studied animation at the Yoyogi Animation Academy. After graduating, he started working at [Kyoto Animation](https://anilist.co/studio/2/Kyoto-Animation) for almost his entire animation career, joining the company in 1996. At the company, Yasuhiro was considered one of the most reliable and trustworthy members of the staff. [Nurse Witch Komugi](https://anilist.co/anime/615/Nurse-Witch-Komugichan/) was his directorial debut​ and [Full Metal Panic? Fumoffu](https://anilist.co/anime/72/Full-Metal-Panic-Fumoffu/) his first solo directorial debut.\n\nHe died in the arson attack at Kyoto Animation's Studio 1 on July 18, 2019.",
+          "siteUrl": "https://anilist.co/staff/101771"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 102689,
+          "name": {
+            "first": "Shiro",
+            "last": "Hamaguchi",
+            "native": "浜口史郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7689.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/7689.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/102689"
+        }
+      },
+      {
+        "role": "Theme Song Performance  (ED)",
+        "node": {
+          "id": 103817,
+          "name": {
+            "first": "",
+            "last": "savage genius",
+            "native": "サヴィッジ・ジーニアス"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8817.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8817.jpg"
+          },
+          "description": "savage genius is a Japanese band signed to Victor Entertainment. The duo Aa (vocals and lyricist) and Takumi (composer/arranger, producer) started as a songwriting group in the live music scene in Kobe. They debuted in the 2001 AXIA Artist Audition, and signed with Warner Music Japan, cutting two singles.  On November 30, 2007, it was announced that one of the group's members, Takumi, had retired.  (Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/103817"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 110749,
+          "name": {
+            "first": "Yuuichi",
+            "last": "Takahashi",
+            "native": "高橋裕一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110749-Q0N5So5adxnb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110749-Q0N5So5adxnb.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/193795545)\n\nOriginating from [J.C. Staff](https://anilist.co/studio/7/).",
+          "siteUrl": "https://anilist.co/staff/110749"
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (ED)",
+        "node": {
+          "id": 111403,
+          "name": {
+            "first": "Shinji",
+            "last": "Kakijima",
+            "native": "伸次 柿島"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/111403"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 123419,
+          "name": {
+            "first": "Chikara",
+            "last": "Sakurai",
+            "native": "櫻井親良"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123419-NtAlDP6Vuorg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n123419-NtAlDP6Vuorg.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/123419"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 3,
+          "name": "GONZO",
+          "siteUrl": "https://anilist.co/studio/3"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 113,
+          "name": "Kadokawa Shoten",
+          "siteUrl": "https://anilist.co/studio/113"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 163,
+          "name": "Asread",
+          "siteUrl": "https://anilist.co/studio/163"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 880,
+          "name": "gimik",
+          "siteUrl": "https://anilist.co/studio/880"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 16745,
+      "rank": 25,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 16813,
+      "rank": 34,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 10
+      },
+      {
+        "score": 40,
+        "amount": 23
+      },
+      {
+        "score": 50,
+        "amount": 27
+      },
+      {
+        "score": 60,
+        "amount": 54
+      },
+      {
+        "score": 70,
+        "amount": 64
+      },
+      {
+        "score": 80,
+        "amount": 71
+      },
+      {
+        "score": 90,
+        "amount": 50
+      },
+      {
+        "score": 100,
+        "amount": 22
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 40
+      },
+      {
+        "status": "PLANNING",
+        "amount": 465
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 531
+      },
+      {
+        "status": "DROPPED",
+        "amount": 25
+      },
+      {
+        "status": "PAUSED",
+        "amount": 26
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/3223",
+  "modNotes": null
+}

@@ -1,0 +1,942 @@
+{
+  "id": 122671,
+  "idMal": 48941,
+  "title": {
+    "native": "全职法师 第5季",
+    "romaji": "Quanzhi Fashi 5",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "The fifth season of <i>Quanzhi Fashi</i>",
+  "startDate": {
+    "year": 2021,
+    "month": 7,
+    "day": 28
+  },
+  "endDate": {
+    "year": 2021,
+    "month": 8,
+    "day": 25
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 12,
+  "duration": 20,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748909064,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122671-0ie6U9LGaILt.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122671-0ie6U9LGaILt.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx122671-0ie6U9LGaILt.png",
+    "color": "#5093d6"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Full-Time Magister 5",
+    "全职法师V"
+  ],
+  "averageScore": 71,
+  "meanScore": 72,
+  "popularity": 8016,
+  "favourites": 155,
+  "tags": [
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 88,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 243,
+      "name": "Reincarnation",
+      "description": "Features a character being born again after death, typically as another person or in another world.",
+      "category": "Theme-Other",
+      "rank": 51,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 244,
+      "name": "Isekai",
+      "description": "Features characters being transported into an alternate world setting and having to adapt to their new surroundings.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 115800,
+          "title": {
+            "native": "全职法师 第4季"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 137726,
+          "title": {
+            "native": "全职法师 第6季"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 132351,
+          "name": {
+            "first": "Fan",
+            "last": "Mo",
+            "native": "莫凡",
+            "alternative": [
+              "The Great Demon King",
+              "One Mage Army",
+              "Bandit King",
+              "Worlds Biggest Hooligan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n132351-OuK4B2ykm9Ss.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n132351-OuK4B2ykm9Ss.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/132351"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 210665,
+          "name": {
+            "first": "Ningxue",
+            "last": "Mu",
+            "native": "穆宁雪",
+            "alternative": [
+              "Snow Goddess",
+              "Xuexue",
+              "雪雪",
+              "宁雪"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210665-8yN2j6YZNajN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210665-8yN2j6YZNajN.png"
+          },
+          "siteUrl": "https://anilist.co/character/210665"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 219663,
+          "name": {
+            "first": "Zhouyun",
+            "last": "Mu",
+            "native": "穆卓云",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219663-zmFEhdJVyy0f.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b219663-zmFEhdJVyy0f.png"
+          },
+          "siteUrl": "https://anilist.co/character/219663"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243036,
+          "name": {
+            "first": "Pang Laoban",
+            "last": null,
+            "native": "胖老板",
+            "alternative": [
+              "Fat Boss"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243036"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243037,
+          "name": {
+            "first": "Man",
+            "last": "Li",
+            "native": "离曼",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b243037-GmYTKRma4rH5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b243037-GmYTKRma4rH5.png"
+          },
+          "siteUrl": "https://anilist.co/character/243037"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243038,
+          "name": {
+            "first": "Xin",
+            "last": "Qiu",
+            "native": "秋信",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243038"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243039,
+          "name": {
+            "first": "Meng",
+            "last": "Zhu",
+            "native": "祝蒙",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b243039-A89O6qCwID4H.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b243039-A89O6qCwID4H.png"
+          },
+          "siteUrl": "https://anilist.co/character/243039"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243040,
+          "name": {
+            "first": "Kuo",
+            "last": "Ming",
+            "native": "明阔",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243040"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243041,
+          "name": {
+            "first": "Yang",
+            "last": "Zhao",
+            "native": "赵养",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243041"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 210671,
+          "name": {
+            "first": "Zhankong",
+            "last": "",
+            "native": "斩空",
+            "alternative": [
+              "斩空",
+              "总教官",
+              "斩空老大"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210671-sAGlkUoXkTmB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210671-sAGlkUoXkTmB.png"
+          },
+          "siteUrl": "https://anilist.co/character/210671"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 219481,
+          "name": {
+            "first": "Xiaohou",
+            "last": "Zhang",
+            "native": "张小侯",
+            "alternative": [
+              "小侯",
+              "猴子",
+              "侯哥"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219481-8jl5c1lfRJNl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b219481-8jl5c1lfRJNl.png"
+          },
+          "siteUrl": "https://anilist.co/character/219481"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243042,
+          "name": {
+            "first": "Niao",
+            "last": "Hong",
+            "native": "红鸟",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243042"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243043,
+          "name": {
+            "first": "Huang",
+            "last": "Zhuosi",
+            "native": "黄卓思",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243043"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243044,
+          "name": {
+            "first": "Ming",
+            "last": "Dongfang",
+            "native": "东方明",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243044"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243045,
+          "name": {
+            "first": "Dachui",
+            "last": "Liang",
+            "native": "梁大锤",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243045"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243046,
+          "name": {
+            "first": "Kance Duizhang",
+            "last": null,
+            "native": "勘测队长",
+            "alternative": [
+              "Investigation Leader"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243046"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243047,
+          "name": {
+            "first": "Jingping",
+            "last": "Wu",
+            "native": "武景平",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243047"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243048,
+          "name": {
+            "first": "Yunqi",
+            "last": "Chen",
+            "native": "陈云琪",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243048"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243049,
+          "name": {
+            "first": "Xinxia",
+            "last": null,
+            "native": "心夏",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243049"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243050,
+          "name": {
+            "first": "Yilin",
+            "last": "Liu",
+            "native": "柳一林",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243050"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243051,
+          "name": {
+            "first": "Heiyu",
+            "last": null,
+            "native": "黑羽",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243051"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 210664,
+          "name": {
+            "first": "Yue",
+            "last": "Tang",
+            "native": "唐月",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210664-ibe8Se0Wb9M7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210664-ibe8Se0Wb9M7.png"
+          },
+          "siteUrl": "https://anilist.co/character/210664"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 220197,
+          "name": {
+            "first": "Zhong",
+            "last": "Tang",
+            "native": "唐忠",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/220197"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243052,
+          "name": {
+            "first": "Li",
+            "last": "Xu",
+            "native": "许立",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243052"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243053,
+          "name": {
+            "first": "Mian",
+            "last": "Luo",
+            "native": "罗冕",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/243053"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 208170,
+          "name": {
+            "first": "LuaN",
+            "last": "",
+            "native": "乱"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n208170-9FF828VTYsji.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n208170-9FF828VTYsji.jpg"
+          },
+          "description": "[Weibo](https://weibo.com/u/3903115659)",
+          "siteUrl": "https://anilist.co/staff/208170"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6162,
+          "name": "Foch",
+          "siteUrl": "https://anilist.co/studio/6162"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6382,
+          "name": "Tencent Penguin Pictures",
+          "siteUrl": "https://anilist.co/studio/6382"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6469,
+          "name": "China Literature",
+          "siteUrl": "https://anilist.co/studio/6469"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 310350,
+          "airingAt": 1627437600,
+          "episode": 1,
+          "mediaId": 122671,
+          "media": {
+            "id": 122671
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 310351,
+          "airingAt": 1627437601,
+          "episode": 2,
+          "mediaId": 122671,
+          "media": {
+            "id": 122671
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 310352,
+          "airingAt": 1628042400,
+          "episode": 3,
+          "mediaId": 122671,
+          "media": {
+            "id": 122671
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 310353,
+          "airingAt": 1628647200,
+          "episode": 4,
+          "mediaId": 122671,
+          "media": {
+            "id": 122671
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 310354,
+          "airingAt": 1629252000,
+          "episode": 5,
+          "mediaId": 122671,
+          "media": {
+            "id": 122671
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 310355,
+          "airingAt": 1629856800,
+          "episode": 6,
+          "mediaId": 122671,
+          "media": {
+            "id": 122671
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 310356,
+          "airingAt": 1629856801,
+          "episode": 7,
+          "mediaId": 122671,
+          "media": {
+            "id": 122671
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 310357,
+          "airingAt": 1629856802,
+          "episode": 8,
+          "mediaId": 122671,
+          "media": {
+            "id": 122671
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 310358,
+          "airingAt": 1629856803,
+          "episode": 9,
+          "mediaId": 122671,
+          "media": {
+            "id": 122671
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 310359,
+          "airingAt": 1629856804,
+          "episode": 10,
+          "mediaId": 122671,
+          "media": {
+            "id": 122671
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 310360,
+          "airingAt": 1629856805,
+          "episode": 11,
+          "mediaId": 122671,
+          "media": {
+            "id": 122671
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 310361,
+          "airingAt": 1629856806,
+          "episode": 12,
+          "mediaId": 122671,
+          "media": {
+            "id": 122671
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 22075,
+      "url": "https://weibo.com/u/5580781966",
+      "site": "Weibo"
+    },
+    {
+      "id": 33318,
+      "url": "https://v.qq.com/detail/m/mzc00200dpv18be.html",
+      "site": "Tencent Video"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 93270,
+          "rating": 9,
+          "media": {
+            "id": 122671,
+            "title": {
+              "native": "全职法师 第5季"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 99200,
+            "title": {
+              "native": "全职法师"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 93272,
+          "rating": 8,
+          "media": {
+            "id": 122671,
+            "title": {
+              "native": "全职法师 第5季"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 100294,
+            "title": {
+              "native": "全职法师 第2季"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 93274,
+          "rating": 8,
+          "media": {
+            "id": 122671,
+            "title": {
+              "native": "全职法师 第5季"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 104745,
+            "title": {
+              "native": "全职法师 第3季"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 93900,
+          "rating": 10,
+          "media": {
+            "id": 122671,
+            "title": {
+              "native": "全职法师 第5季"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 114121,
+            "title": {
+              "native": "仙王的日常生活"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 26
+      },
+      {
+        "score": 20,
+        "amount": 14
+      },
+      {
+        "score": 30,
+        "amount": 23
+      },
+      {
+        "score": 40,
+        "amount": 51
+      },
+      {
+        "score": 50,
+        "amount": 161
+      },
+      {
+        "score": 60,
+        "amount": 277
+      },
+      {
+        "score": 70,
+        "amount": 662
+      },
+      {
+        "score": 80,
+        "amount": 473
+      },
+      {
+        "score": 90,
+        "amount": 297
+      },
+      {
+        "score": 100,
+        "amount": 209
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 611
+      },
+      {
+        "status": "PLANNING",
+        "amount": 2594
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 4539
+      },
+      {
+        "status": "DROPPED",
+        "amount": 140
+      },
+      {
+        "status": "PAUSED",
+        "amount": 132
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/122671",
+  "modNotes": null
+}

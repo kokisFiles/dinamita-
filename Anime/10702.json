@@ -1,0 +1,756 @@
+{
+  "id": 10702,
+  "idMal": 10702,
+  "title": {
+    "native": "鉄拳 BLOOD VENGEANCE",
+    "romaji": "Tekken: BLOOD VENGEANCE",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "High school student Ling Xiaoyu is recruited by Anna Williams of G Corporation to transfer to Kyoto University and gather information on a student named Shin Kamiya. Meanwhile, Jin Kazama, the current head of the Mishima Zaibatsu, sends Alisa Bosconovitch to the university for the same mission. Though they do not know each other's true motives, Xiaoyu and Alisa become close friends. However, their friendship is put to the test when Shin is captured by an unknown assailant.\n<br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 2011,
+    "month": 7,
+    "day": 26
+  },
+  "endDate": {
+    "year": 2011,
+    "month": 7,
+    "day": 26
+  },
+  "season": "SUMMER",
+  "seasonYear": 2011,
+  "seasonInt": 113,
+  "episodes": 1,
+  "duration": 93,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748905924,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10702.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10702.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/10702.jpg",
+    "color": "#936b28"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "synonyms": [],
+  "averageScore": 62,
+  "meanScore": 62,
+  "popularity": 4306,
+  "favourites": 35,
+  "tags": [
+    {
+      "id": 30,
+      "name": "Martial Arts",
+      "description": "Centers around the use of traditional hand-to-hand combat.",
+      "category": "Theme-Action",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 308,
+      "name": "Video Games",
+      "description": "Centers around characters playing video games.",
+      "category": "Theme-Game",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 153906,
+          "title": {
+            "native": "Tekken: Bloodline"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 44489,
+          "name": {
+            "first": "Shin",
+            "last": "Kamiya",
+            "native": "神谷真",
+            "alternative": [
+              "Shin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44489.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44489.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44489"
+        },
+        "voiceActors": [
+          {
+            "id": 95065,
+            "name": {
+              "first": "Mamoru",
+              "last": "Miyano",
+              "native": "宮野真守"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95065-eyynywrhombR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95065"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 44485,
+          "name": {
+            "first": "Alisa",
+            "last": "Bosconovitch",
+            "native": "アリサ・ボスコノビッチ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44485.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44485.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44485"
+        },
+        "voiceActors": [
+          {
+            "id": 95073,
+            "name": {
+              "first": "Yuki",
+              "last": "Matsuoka",
+              "native": "松岡由貴"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95073-HIjUyhssrxGs.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95073-HIjUyhssrxGs.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95073"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 44487,
+          "name": {
+            "first": "Xiaoyu",
+            "last": "Ling",
+            "native": "リン・シャオユウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44487.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44487.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44487"
+        },
+        "voiceActors": [
+          {
+            "id": 95090,
+            "name": {
+              "first": "Maaya",
+              "last": "Sakamoto",
+              "native": "坂本真綾"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95090-oARRP42NEhu0.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95090-oARRP42NEhu0.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95090"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 8429,
+          "name": {
+            "first": "Anna",
+            "last": "Williams",
+            "native": "アンナ・ウィリアムズ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/8429.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8429.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8429"
+        },
+        "voiceActors": [
+          {
+            "id": 95094,
+            "name": {
+              "first": "Akeno",
+              "last": "Watanabe",
+              "native": "渡辺明乃"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95094-nRPWBG1cVGo5.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95094-nRPWBG1cVGo5.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95094"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 8428,
+          "name": {
+            "first": "Nina",
+            "last": "Williams",
+            "native": "ニーナ・ウィリアムズ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/8428.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8428.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8428"
+        },
+        "voiceActors": [
+          {
+            "id": 95100,
+            "name": {
+              "first": "Atsuko",
+              "last": "Tanaka",
+              "native": "田中敦子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-v07xvA8V2Yeh.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95100-v07xvA8V2Yeh.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95100"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4673,
+          "name": {
+            "first": "Chaolan",
+            "last": "Lee",
+            "native": "リー・チャオラン",
+            "alternative": [
+              "李超狼"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4673.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4673.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4673"
+        },
+        "voiceActors": [
+          {
+            "id": 95177,
+            "name": {
+              "first": "Ryoutarou",
+              "last": "Okiayu",
+              "native": "置鮎龍太郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95177-6SiaUTf3CLkN.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95177-6SiaUTf3CLkN.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95177"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4671,
+          "name": {
+            "first": "Kazuya",
+            "last": "Mishima",
+            "native": "三島一八",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4671.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4671.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4671"
+        },
+        "voiceActors": [
+          {
+            "id": 247736,
+            "name": {
+              "first": "Masanori",
+              "last": "Shinohara",
+              "native": "篠原まさのり"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n247736-aUNmIxZBjYuv.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n247736-aUNmIxZBjYuv.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/247736"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45483,
+          "name": {
+            "first": "Jin",
+            "last": "Kazama",
+            "native": "風間仁",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45483.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45483.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45483"
+        },
+        "voiceActors": [
+          {
+            "id": 95899,
+            "name": {
+              "first": "Isshin",
+              "last": "Chiba",
+              "native": "千葉一伸"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95899-AMM2JgmiM26f.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95899-AMM2JgmiM26f.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95899"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4675,
+          "name": {
+            "first": "Heihachi",
+            "last": "Mishima",
+            "native": "三島平八",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4675-37BHCoWAD70E.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4675-37BHCoWAD70E.png"
+          },
+          "siteUrl": "https://anilist.co/character/4675"
+        },
+        "voiceActors": [
+          {
+            "id": 95357,
+            "name": {
+              "first": "Unshou",
+              "last": "Ishizuka",
+              "native": "石塚運昇"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95357-umndcceko65h.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95357"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45799,
+          "name": {
+            "first": "Ganryu",
+            "last": null,
+            "native": "巌竜",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45799.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45799.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45799"
+        },
+        "voiceActors": [
+          {
+            "id": 103022,
+            "name": {
+              "first": "Hidenari",
+              "last": "Ugaki",
+              "native": "宇垣秀成"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103022-eePmaoJGrs94.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103022-eePmaoJGrs94.png"
+            },
+            "siteUrl": "https://anilist.co/staff/103022"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 285462,
+          "name": {
+            "first": "Mokujin",
+            "last": null,
+            "native": "木人",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b285462-1oAmc5c23FU5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b285462-1oAmc5c23FU5.png"
+          },
+          "siteUrl": "https://anilist.co/character/285462"
+        },
+        "voiceActors": [
+          {
+            "id": 95635,
+            "name": {
+              "first": "Keiko",
+              "last": "Nemoto",
+              "native": "根本圭子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/635.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/635.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95635"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 304744,
+          "name": {
+            "first": "Panda",
+            "last": null,
+            "native": "パンダ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304744-okykDTkzcm9q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b304744-okykDTkzcm9q.png"
+          },
+          "siteUrl": "https://anilist.co/character/304744"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Screenplay",
+        "node": {
+          "id": 100245,
+          "name": {
+            "first": "Dai",
+            "last": "Satou",
+            "native": "佐藤大"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100245-5IiemeCT9AHa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100245-5IiemeCT9AHa.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/佐藤大)",
+          "siteUrl": "https://anilist.co/staff/100245"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 102410,
+          "name": {
+            "first": "Hitoshi",
+            "last": "Sakimoto",
+            "native": "崎元仁"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7410.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/7410.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/102410"
+        }
+      },
+      {
+        "role": "ADR Director (English)",
+        "node": {
+          "id": 117201,
+          "name": {
+            "first": "Kristi",
+            "last": "Reed",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117201-Syyq4RGc0pYF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n117201-Syyq4RGc0pYF.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/DangKristi)",
+          "siteUrl": "https://anilist.co/staff/117201"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 101389,
+          "name": {
+            "first": "Souichi",
+            "last": "Masui",
+            "native": "増井壮一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101389-iWt4q5603NGA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101389-iWt4q5603NGA.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/増井壮一)",
+          "siteUrl": "https://anilist.co/staff/101389"
+        }
+      },
+      {
+        "role": "ADR Director (German)",
+        "node": {
+          "id": 286660,
+          "name": {
+            "first": "Erik",
+            "last": "Paulsen",
+            "native": null
+          },
+          "language": "GERMAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Official Website](https://www.erikpaulsen.de/)",
+          "siteUrl": "https://anilist.co/staff/286660"
+        }
+      },
+      {
+        "role": "ADR Script (German)",
+        "node": {
+          "id": 286660,
+          "name": {
+            "first": "Erik",
+            "last": "Paulsen",
+            "native": null
+          },
+          "language": "GERMAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Official Website](https://www.erikpaulsen.de/)",
+          "siteUrl": "https://anilist.co/staff/286660"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 233,
+          "name": "Bandai Entertainment",
+          "siteUrl": "https://anilist.co/studio/233"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 486,
+          "name": "Digital Frontier",
+          "siteUrl": "https://anilist.co/studio/486"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 17336,
+      "rank": 42,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2011,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 17409,
+      "rank": 34,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2011,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 145273,
+          "rating": 5,
+          "media": {
+            "id": 10702,
+            "title": {
+              "native": "鉄拳 BLOOD VENGEANCE"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 537,
+            "title": {
+              "native": "鉄拳"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 266572,
+          "rating": 1,
+          "media": {
+            "id": 10702,
+            "title": {
+              "native": "鉄拳 BLOOD VENGEANCE"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 153906,
+            "title": {
+              "native": "Tekken: Bloodline"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 43
+      },
+      {
+        "score": 20,
+        "amount": 53
+      },
+      {
+        "score": 30,
+        "amount": 131
+      },
+      {
+        "score": 40,
+        "amount": 174
+      },
+      {
+        "score": 50,
+        "amount": 334
+      },
+      {
+        "score": 60,
+        "amount": 538
+      },
+      {
+        "score": 70,
+        "amount": 535
+      },
+      {
+        "score": 80,
+        "amount": 312
+      },
+      {
+        "score": 90,
+        "amount": 157
+      },
+      {
+        "score": 100,
+        "amount": 144
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 70
+      },
+      {
+        "status": "PLANNING",
+        "amount": 805
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 3373
+      },
+      {
+        "status": "DROPPED",
+        "amount": 37
+      },
+      {
+        "status": "PAUSED",
+        "amount": 21
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/10702",
+  "modNotes": null
+}

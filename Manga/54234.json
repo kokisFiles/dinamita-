@@ -1,0 +1,584 @@
+{
+  "id": 54234,
+  "idMal": 24234,
+  "title": {
+    "native": "ポケモン不思議のダンジョン 炎の探検隊",
+    "romaji": "Pokemon Fushigi no Dungeon: Honoo no Tankentai",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The manga is based on the Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness games.\n<br><br>\nThe story revolves around Honō, an amnesiac human who wakes up as a Chimchar. He meets a cowardly Totodile, and together, they form Team Blaze. \n<br><br>\n(Source: Bulbapedia)\n",
+  "startDate": {
+    "year": 2008,
+    "month": 8,
+    "day": 28
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 8,
+    "day": 28
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 6,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748091180,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx54234-VQtUCCqOBugz.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx54234-VQtUCCqOBugz.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx54234-VQtUCCqOBugz.png",
+    "color": "#ffae35"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure"
+  ],
+  "synonyms": [
+    "Pokémon Fushigi no Dungeon no Tanken Tai",
+    "Pocket Monsters Mystery Dungeon: Blazing Exploration Team",
+    "Pokémon Mystery Dungeon: Blazing Exploration"
+  ],
+  "averageScore": 53,
+  "meanScore": 64,
+  "popularity": 221,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 96,
+      "name": "Time Manipulation",
+      "description": "Prominently features time-traveling or other time-warping phenomena.",
+      "category": "Theme-Sci-Fi",
+      "rank": 20,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 1455,
+      "name": "Fairy",
+      "description": "Prominently features a character who is a fairy.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 5256,
+          "title": {
+            "native": "ポケモン不思議のダンジョン 時の探検隊・闇の探検隊"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31897,
+          "name": {
+            "first": "Serebii",
+            "last": null,
+            "native": "セレビィ",
+            "alternative": [
+              "Celebi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31897-zNfEYSP6TVwA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31897-zNfEYSP6TVwA.png"
+          },
+          "siteUrl": "https://anilist.co/character/31897"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 177041,
+          "name": {
+            "first": "Waninoko",
+            "last": null,
+            "native": "ワニノコ",
+            "alternative": [
+              "Totodile",
+              "Kaiminus",
+              "Karnimani"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177041-FkSUUBpwUSxE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177041-FkSUUBpwUSxE.png"
+          },
+          "siteUrl": "https://anilist.co/character/177041"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 224561,
+          "name": {
+            "first": "Honoo",
+            "last": null,
+            "native": "炎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224561-wbRPbDSgfKiV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224561-wbRPbDSgfKiV.png"
+          },
+          "siteUrl": "https://anilist.co/character/224561"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224564,
+          "name": {
+            "first": "Dogars",
+            "last": null,
+            "native": "ドガース",
+            "alternative": [
+              "Koffing",
+              "Smogo",
+              "Smogon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224564-lwiPrUKP6pp0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224564-lwiPrUKP6pp0.png"
+          },
+          "siteUrl": "https://anilist.co/character/224564"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224565,
+          "name": {
+            "first": "Yonoir",
+            "last": null,
+            "native": "ヨノワール",
+            "alternative": [
+              "Dusknoir",
+              "Noctunoir",
+              "Zwirrfinst"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224565-OHScZwvppZR1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224565-OHScZwvppZR1.png"
+          },
+          "siteUrl": "https://anilist.co/character/224565"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224568,
+          "name": {
+            "first": "Cotoise",
+            "last": null,
+            "native": "コータス",
+            "alternative": [
+              "Torkoal",
+              "Chartor",
+              "Qurtel"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224568-ODF7SXhfr1Rt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224568-ODF7SXhfr1Rt.png"
+          },
+          "siteUrl": "https://anilist.co/character/224568"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224567,
+          "name": {
+            "first": "Zubat",
+            "last": null,
+            "native": "ズバット",
+            "alternative": [
+              "Nosferapti"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224567-IPEeT9SYthez.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224567-IPEeT9SYthez.png"
+          },
+          "siteUrl": "https://anilist.co/character/224567"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224569,
+          "name": {
+            "first": "Juptile",
+            "last": null,
+            "native": "ジュプトル",
+            "alternative": [
+              "Grovyle",
+              "Massko",
+              "Reptain"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224569-foWn3akw2mwZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224569-foWn3akw2mwZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/224569"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224570,
+          "name": {
+            "first": "Dogohmb",
+            "last": null,
+            "native": "ドゴーム",
+            "alternative": [
+              "Loudred",
+              "Ramboum",
+              "Krakeelo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224570-Q8JFaLlcV8R3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224570-Q8JFaLlcV8R3.png"
+          },
+          "siteUrl": "https://anilist.co/character/224570"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224572,
+          "name": {
+            "first": "Bippa",
+            "last": null,
+            "native": "ビッパ",
+            "alternative": [
+              "Bidoof",
+              "Keunotor",
+              "Bidiza"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224572-K88DyoscxV3E.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224572-K88DyoscxV3E.png"
+          },
+          "siteUrl": "https://anilist.co/character/224572"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224571,
+          "name": {
+            "first": "Perap",
+            "last": null,
+            "native": "ペラップ",
+            "alternative": [
+              "Chatot",
+              "Pijako",
+              "Plaudagei"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224571-poJz5kHpeVjZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224571-poJz5kHpeVjZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/224571"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224574,
+          "name": {
+            "first": "Kimawari",
+            "last": null,
+            "native": "キマワリ",
+            "alternative": [
+              "Sunflora",
+              "Héliatronc",
+              "Sonnflora"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224574-rSSK1EW00zvy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224574-rSSK1EW00zvy.png"
+          },
+          "siteUrl": "https://anilist.co/character/224574"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224573,
+          "name": {
+            "first": "Agnome",
+            "last": null,
+            "native": "アグノム",
+            "alternative": [
+              "Azelf",
+              "Créfadet",
+              "Tobutz"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224573-JWcMbUxLeaK7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224573-JWcMbUxLeaK7.png"
+          },
+          "siteUrl": "https://anilist.co/character/224573"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224577,
+          "name": {
+            "first": "Mikaruge",
+            "last": null,
+            "native": "ミカルゲ",
+            "alternative": [
+              "Spiritomb",
+              "Kryppuk"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224577-bw95tbAMWxxB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224577-bw95tbAMWxxB.png"
+          },
+          "siteUrl": "https://anilist.co/character/224577"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224576,
+          "name": {
+            "first": "Dialga",
+            "last": null,
+            "native": "ディアルガ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224576-TlCJziKweaOc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224576-TlCJziKweaOc.png"
+          },
+          "siteUrl": "https://anilist.co/character/224576"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 224575,
+          "name": {
+            "first": "Laplace",
+            "last": null,
+            "native": "ラプラス",
+            "alternative": [
+              "Lapras",
+              "Lokhlass"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b224575-QAmzeADDKgBh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b224575-QAmzeADDKgBh.png"
+          },
+          "siteUrl": "https://anilist.co/character/224575"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97351,
+          "name": {
+            "first": "Makoto",
+            "last": "Mizobuchi",
+            "native": "溝渕誠"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/97351"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 18712,
+          "rating": 2,
+          "media": {
+            "id": 54234,
+            "title": {
+              "native": "ポケモン不思議のダンジョン 炎の探検隊"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31693,
+            "title": {
+              "native": "ポケモン不思議のダンジョンギンジの救助隊"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 291277,
+          "rating": 1,
+          "media": {
+            "id": 54234,
+            "title": {
+              "native": "ポケモン不思議のダンジョン 炎の探検隊"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 182256,
+            "title": {
+              "native": "ポケモン超不思議のダンジョンそれいけ！新米調査団"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 12
+      },
+      {
+        "score": 60,
+        "amount": 7
+      },
+      {
+        "score": 70,
+        "amount": 23
+      },
+      {
+        "score": 80,
+        "amount": 4
+      },
+      {
+        "score": 90,
+        "amount": 5
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 14
+      },
+      {
+        "status": "PLANNING",
+        "amount": 103
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 100
+      },
+      {
+        "status": "DROPPED",
+        "amount": 4
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/54234",
+  "modNotes": null
+}

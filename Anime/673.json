@@ -1,0 +1,639 @@
+{
+  "id": 673,
+  "idMal": 673,
+  "title": {
+    "native": "舞-HiME",
+    "romaji": "Mai-HiME Specials",
+    "english": "My-Hime Specials"
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "Extra shorts that come after each episode. This entry also includes the Mai Hime vs. Mai Otome - \"Moe\"? The Greatest Battle! episode.",
+  "startDate": {
+    "year": 2005,
+    "month": 1,
+    "day": 28
+  },
+  "endDate": {
+    "year": 2010,
+    "month": 1,
+    "day": 27
+  },
+  "season": "WINTER",
+  "seasonYear": 2005,
+  "seasonInt": 51,
+  "episodes": 27,
+  "duration": 1,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748885647,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/673.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/673.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/673.jpg",
+    "color": "#4378e4"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "My-HiME",
+    "My Princess"
+  ],
+  "averageScore": 62,
+  "meanScore": 63,
+  "popularity": 1979,
+  "favourites": 7,
+  "tags": [
+    {
+      "id": 779,
+      "name": "Kuudere",
+      "description": "Prominently features a character who generally retains a cold, blunt and cynical exterior, but once one gets to know them, they have a very warm and loving interior.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 98,
+          "title": {
+            "native": "舞-HiME"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 315,
+          "name": {
+            "first": "Mai",
+            "last": "Tokiha",
+            "native": "鴇羽舞衣",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315-rMcO48RZKmbD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b315-rMcO48RZKmbD.png"
+          },
+          "siteUrl": "https://anilist.co/character/315"
+        },
+        "voiceActors": [
+          {
+            "id": 95031,
+            "name": {
+              "first": "Mai",
+              "last": "Nakahara",
+              "native": "中原麻衣"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95031-tipPIz2k0Ncw.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95031-tipPIz2k0Ncw.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95031"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3667,
+          "name": {
+            "first": "Yukino",
+            "last": "Kikukawa",
+            "native": "菊川雪之",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/3667.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/3667.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3667"
+        },
+        "voiceActors": [
+          {
+            "id": 95040,
+            "name": {
+              "first": "Mamiko",
+              "last": "Noto",
+              "native": "能登麻美子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95040-hSONMMOAmiJ6.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95040"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4051,
+          "name": {
+            "first": "Reito",
+            "last": "Kanzaki",
+            "native": "神崎黎人",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4051-q3EcbGCy7TXr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4051-q3EcbGCy7TXr.png"
+          },
+          "siteUrl": "https://anilist.co/character/4051"
+        },
+        "voiceActors": [
+          {
+            "id": 95129,
+            "name": {
+              "first": "Toshihiko",
+              "last": "Seki",
+              "native": "関俊彦"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95129-AAL7kfwAPpgR.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95129-AAL7kfwAPpgR.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95129"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 772,
+          "name": {
+            "first": "Natsuki",
+            "last": "Kuga",
+            "native": "玖我なつき",
+            "alternative": [
+              "Summer Princess",
+              "Ice Princess"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b772-W6afMmdaD8Lr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b772-W6afMmdaD8Lr.png"
+          },
+          "siteUrl": "https://anilist.co/character/772"
+        },
+        "voiceActors": [
+          {
+            "id": 95135,
+            "name": {
+              "first": "Saeko",
+              "last": "Chiba",
+              "native": "千葉紗子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95135-zptQ6sZjTSU9.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95135-zptQ6sZjTSU9.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95135"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4047,
+          "name": {
+            "first": "Fumi",
+            "last": "Himeno",
+            "native": "姫野二三",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4047.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4047.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4047"
+        },
+        "voiceActors": [
+          {
+            "id": 95140,
+            "name": {
+              "first": "Yukana",
+              "last": "",
+              "native": "ゆかな"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95140-sFp0uedEmZ9f.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95140-sFp0uedEmZ9f.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95140"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4053,
+          "name": {
+            "first": "Mashiro",
+            "last": "Kazahana",
+            "native": "風花真白",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4053.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4053.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4053"
+        },
+        "voiceActors": [
+          {
+            "id": 95140,
+            "name": {
+              "first": "Yukana",
+              "last": "",
+              "native": "ゆかな"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95140-sFp0uedEmZ9f.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95140-sFp0uedEmZ9f.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95140"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3642,
+          "name": {
+            "first": "Haruka",
+            "last": "Suzushiro",
+            "native": "珠洲城遥",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/3642.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/3642.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3642"
+        },
+        "voiceActors": [
+          {
+            "id": 95141,
+            "name": {
+              "first": "Ryouka",
+              "last": "Yuzuki",
+              "native": "柚木涼香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95141-RUTdfZUbNcUv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95141-RUTdfZUbNcUv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95141"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4055,
+          "name": {
+            "first": "Yukariko",
+            "last": "Sanada",
+            "native": "真田紫子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4055.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4055.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4055"
+        },
+        "voiceActors": [
+          {
+            "id": 95195,
+            "name": {
+              "first": "Kikuko",
+              "last": "Inoue",
+              "native": "井上喜久子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95195-nLvtZl5sCK0D.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95195"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5905,
+          "name": {
+            "first": "Chie",
+            "last": "Harada",
+            "native": "原田千絵",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5905.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5905.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5905"
+        },
+        "voiceActors": [
+          {
+            "id": 95197,
+            "name": {
+              "first": "Mitsuki",
+              "last": "Saiga",
+              "native": "斎賀みつき"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95197-4Uxn95bRlvMu.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95197-4Uxn95bRlvMu.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95197"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 875,
+          "name": {
+            "first": "Akane",
+            "last": "Higurashi",
+            "native": "日暮あかね",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b875-U5bTHLBaAbCd.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b875-U5bTHLBaAbCd.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/875"
+        },
+        "voiceActors": [
+          {
+            "id": 95289,
+            "name": {
+              "first": "Junko",
+              "last": "Iwao",
+              "native": "岩男潤子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95289-B5RApCeWP4xk.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95289-B5RApCeWP4xk.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95289"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1189,
+          "name": {
+            "first": "Miyu",
+            "last": "Glear",
+            "native": "深優・グリーア",
+            "alternative": [
+              "M.I.Y.U."
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/1189.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/1189.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1189"
+        },
+        "voiceActors": [
+          {
+            "id": 95457,
+            "name": {
+              "first": "Kiyomi",
+              "last": "Asai",
+              "native": "浅井清己"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95457-hxphTxr1yRok.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95457-hxphTxr1yRok.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95457"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4054,
+          "name": {
+            "first": "Youko",
+            "last": "Sagisawa",
+            "native": "鷺沢陽子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4054.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4054.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4054"
+        },
+        "voiceActors": [
+          {
+            "id": 95467,
+            "name": {
+              "first": "Akiko",
+              "last": "Kimura",
+              "native": "木村亜希子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/467.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/467.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95467"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4052,
+          "name": {
+            "first": "Takumi",
+            "last": "Tokiha",
+            "native": "鴇羽巧海",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4052.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4052.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4052"
+        },
+        "voiceActors": [
+          {
+            "id": 95468,
+            "name": {
+              "first": "Yugo",
+              "last": "Takahashi",
+              "native": "高橋裕吾"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/468.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/468.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95468"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 106841,
+          "name": {
+            "first": "Hirokazu",
+            "last": "Hisayuki",
+            "native": "久行宏和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/久行宏和)",
+          "siteUrl": "https://anilist.co/staff/106841"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 14,
+          "name": "Sunrise",
+          "siteUrl": "https://anilist.co/studio/14"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 11
+      },
+      {
+        "score": 20,
+        "amount": 20
+      },
+      {
+        "score": 30,
+        "amount": 26
+      },
+      {
+        "score": 40,
+        "amount": 45
+      },
+      {
+        "score": 50,
+        "amount": 115
+      },
+      {
+        "score": 60,
+        "amount": 175
+      },
+      {
+        "score": 70,
+        "amount": 217
+      },
+      {
+        "score": 80,
+        "amount": 111
+      },
+      {
+        "score": 90,
+        "amount": 55
+      },
+      {
+        "score": 100,
+        "amount": 36
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 47
+      },
+      {
+        "status": "PLANNING",
+        "amount": 510
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1328
+      },
+      {
+        "status": "DROPPED",
+        "amount": 43
+      },
+      {
+        "status": "PAUSED",
+        "amount": 51
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/673",
+  "modNotes": null
+}

@@ -1,0 +1,776 @@
+{
+  "id": 3460,
+  "idMal": 3460,
+  "title": {
+    "native": "ボスコアドベンチャー",
+    "romaji": "Bosco Adventure",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "Apricot, princess of Fountain land, is kidnapped by evil Hoodman and his mercenaries Jack and Franz to keep her away from returning to her home until the total eclipse of the Sun. Humanoid animals from Bosco forest, Frog, Tutty and Otter, help her out and agree to take her to her homeland, before it's too late. On they way over, they become plunged into many adventures where they show their willingness to help the others in need and importance of water—all-life enhancer.<br><br>(Source: Anime News Network)",
+  "startDate": {
+    "year": 1986,
+    "month": 10,
+    "day": 6
+  },
+  "endDate": {
+    "year": 1987,
+    "month": 3,
+    "day": 30
+  },
+  "season": "FALL",
+  "seasonYear": 1986,
+  "seasonInt": 864,
+  "episodes": 26,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748906401,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3460-sQL4ZaaikRY8.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3460-sQL4ZaaikRY8.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3460-sQL4ZaaikRY8.jpg",
+    "color": "#f1e443"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Bosco Daibouken",
+    "Principessa dai capelli blu"
+  ],
+  "averageScore": 67,
+  "meanScore": 73,
+  "popularity": 797,
+  "favourites": 15,
+  "tags": [
+    {
+      "id": 1310,
+      "name": "Travel",
+      "description": "Centers around character(s) moving between places a significant distance apart.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 227,
+      "name": "Classic Literature",
+      "description": "Discusses or adapts a work of classic world literature.",
+      "category": "Theme-Arts",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 355,
+      "name": "Aviation",
+      "description": "Regarding the flying or operation of aircraft.",
+      "category": "Theme-Other-Vehicle",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 191,
+      "name": "Aliens",
+      "description": "Prominently features extraterrestrial lifeforms.",
+      "category": "Cast-Traits",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 12371,
+          "title": {
+            "native": "ボスコの森のなかまたち"
+          }
+        },
+        "relationType": "OTHER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 10375,
+          "name": {
+            "first": "Apricot",
+            "last": null,
+            "native": "アプリコット",
+            "alternative": [
+              "Apri",
+              "Elfin Princess"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10375.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10375.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10375"
+        },
+        "voiceActors": [
+          {
+            "id": 95170,
+            "name": {
+              "first": "Yuuko",
+              "last": "Minaguchi",
+              "native": "皆口裕子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95170-oAiTh7t2T1J0.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95170-oAiTh7t2T1J0.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95170"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17748,
+          "name": {
+            "first": "Hoodman",
+            "last": null,
+            "native": "フードマン",
+            "alternative": [
+              "Cloaked Man"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17748.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17748.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17748"
+        },
+        "voiceActors": [
+          {
+            "id": 95330,
+            "name": {
+              "first": "Banjou",
+              "last": "Ginga",
+              "native": "銀河万丈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95330-PHDm9uDhKAsT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95330-PHDm9uDhKAsT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95330"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 10619,
+          "name": {
+            "first": "Damia",
+            "last": null,
+            "native": "ダミア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10619.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10619.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10619"
+        },
+        "voiceActors": [
+          {
+            "id": 95920,
+            "name": {
+              "first": "Rihoko",
+              "last": "Yoshida",
+              "native": "吉田理保子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95920-loaTHS2gUR39.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95920-loaTHS2gUR39.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95920"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 168370,
+          "name": {
+            "first": "Frog",
+            "last": null,
+            "native": "フローク",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/168370"
+        },
+        "voiceActors": [
+          {
+            "id": 95445,
+            "name": {
+              "first": "Shigeru",
+              "last": "Nakahara",
+              "native": "中原茂"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/445.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/445.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95445"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 168371,
+          "name": {
+            "first": "Otter",
+            "last": null,
+            "native": "オッター",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/168371"
+        },
+        "voiceActors": [
+          {
+            "id": 95011,
+            "name": {
+              "first": "Kouichi",
+              "last": "Yamadera",
+              "native": "山寺宏一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95011-2RfLzncNyvbR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95011"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 168373,
+          "name": {
+            "first": "Raby",
+            "last": null,
+            "native": "ラビィ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/168373"
+        },
+        "voiceActors": [
+          {
+            "id": 95674,
+            "name": {
+              "first": "Naoko",
+              "last": "Watanabe",
+              "native": "渡辺菜生子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95674-VNsBjVJQe5kD.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95674-VNsBjVJQe5kD.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95674"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 168372,
+          "name": {
+            "first": "Tutty",
+            "last": null,
+            "native": "タッティ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/168372"
+        },
+        "voiceActors": [
+          {
+            "id": 95718,
+            "name": {
+              "first": "Hiroya",
+              "last": "Ishimaru",
+              "native": "石丸博也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95718-3ke4CyMs9um5.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95718-3ke4CyMs9um5.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95718"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Theme Song Performance (OP, ED)",
+        "node": {
+          "id": 95181,
+          "name": {
+            "first": "Noriko",
+            "last": "Hidaka",
+            "native": "日高のり子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95181-VZKOK4WN0UuO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95181-VZKOK4WN0UuO.png"
+          },
+          "description": "__Birth Name:__ Noriko Nagai (永井範子)\n__Height:__ 157 cm\n\n[Website](https://norikohidaka.com/) | [Twitter](https://twitter.com/nonko_hidaka531) | [Instagram](https://www.instagram.com/nonko_hidaka531/) | [YouTube](https://www.youtube.com/channel/UCAKD48ecL5cR87BWPze34HQ)\n\nA Japanese actress, voice actress, singer and narrator. She played Minami Asakura in Touch, Akane Tendo in Ranma ½, Satsuki Kusakabe in My Neighbor Totoro, Near in Death Note, Seta Sōjirō in Rurouni Kenshin, Jean Roque Raltique in Nadia: The Secret of Blue Water and Kikyo in Inuyasha. She is also the dub actress for Jayma Mays in the American TV series Glee, as well as in The Smurfs film series. \n\n__Non-Anime Roles:__\n\n- Mysterious Voice - Metaphor: ReFantazio (VG)",
+          "siteUrl": "https://anilist.co/staff/95181"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 110725,
+          "name": {
+            "first": "Toshiyuki",
+            "last": "Watanabe",
+            "native": "渡辺俊幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/15725.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/15725.jpg"
+          },
+          "description": "[Official Website](http://www.toshiyuki-watanabe.com/)\n\nHe is a composer and arranger who has scored several films and anime, most notably the Mothra films in the 1990s. He is the son of legendary tokusatsu and anime composer, [Chuumei Watanabe](https://anilist.co/staff/169740).",
+          "siteUrl": "https://anilist.co/staff/110725"
+        }
+      },
+      {
+        "role": "Negative Editing",
+        "node": {
+          "id": 129149,
+          "name": {
+            "first": "Yumiko",
+            "last": "Nakaba",
+            "native": "中葉由美子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/129149"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 168099,
+          "name": {
+            "first": "Taku",
+            "last": "Sugiyama",
+            "native": "杉山卓"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n168099-MwimgLLwmIFL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n168099-MwimgLLwmIFL.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/杉山卓_(アニメ演出家))\n\nThe older brother of [Youko Hatta](https://anilist.co/staff/103085), a co-founder of Kyoto Animation.",
+          "siteUrl": "https://anilist.co/staff/168099"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 162800,
+          "name": {
+            "first": "Shuuichi",
+            "last": "Seki",
+            "native": "関修一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n162800-Zc7cWnmrnH1U.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n162800-Zc7cWnmrnH1U.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/162800"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 147153,
+          "name": {
+            "first": "Nobuyuki",
+            "last": "Fujimoto",
+            "native": "藤本信行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n147153-ln3rs4691aK8.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n147153-ln3rs4691aK8.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/147153"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 106686,
+          "name": {
+            "first": "Souji",
+            "last": "Yoshikawa",
+            "native": "吉川惣司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106686-YFyy8V504YfY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106686-YFyy8V504YfY.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/吉川惣司)\n\nA fan of [Osamu Tezuka](https://anilist.co/staff/96938/)'s works, when Yoshikawa was a sophomore in high school, he saw a \"Mushi Production's first batch of animators wanted\" news article and applied for the job, which led him to enter the anime industry. He was planning to go to art college, but was invited to join Mushi Pro, so he quit high school and joined the company. He participated as an animator for the first [Astro Boy](https://anilist.co/anime/2747/) series. In 1967, he participated in the founding of _Art Fresh with Gisaburou Sugii and Osamu Dezaki_. After working as an animator on Mushi Production's [Gokuu no Daibouken](https://anilist.co/anime/2687/), which Art Fresh participated in, he worked as a freelance animator before becoming a senior director and board member of Dyna-Method Inc.\n\nIn addition to serving as episode director, storyboard artist and writer, he also worked as a director. He has participated in [Tensai Bakabon](https://anilist.co/anime/6468/), [Star of the Giants](https://anilist.co/anime/5834/), [Ashita no Joe](https://anilist.co/anime/2402/), [Moomin](https://anilist.co/anime/8234/), [Lupin III](https://anilist.co/anime/1412/), [Invincible Super Man Zambot 3](https://anilist.co/anime/2200/), [Invincible Steel Man Daitarn 3](https://anilist.co/anime/3305/), and [Future Boy Conan](https://anilist.co/anime/302/).\n\nIn addition to anime, he created, wrote and directed Star Guardian with Airship Theater Company, wrote the screenplays for Tanoshii Moomin Ikka and Snow White and the Seven Dwarfs and wrote and directed The Wizard of Oz. It all started when he was asked by director [Masaaki Oosumi](https://anilist.co/staff/122102/) to help with the screenplay of Aladdin for Airship Theater Company's Aladdin when he was working on the TV adaptation of Moomin. In addition, he has worked on commercials, events, performances and novels. He has been a fan of science fiction since he read Shounen Shoujo Sekai Kagaku Bouken Zenshuu by Kodansha when he was a kid.\n\nOne of the reasons that the 100th episode of the [Kirby: Right Back at Ya!](https://anilist.co/anime/2390/) anime contained some problems, inconsistencies, and heavy-handedness in the plot and development is that Yoshikawa, who wrote the final episode, learned that his wife was in critical condition at the time and had to rush through the script and leave it in incomplete form in order to be present for her dying moments.\n\n[Yasuo Ootsuka](https://anilist.co/staff/136873/) cited in an interview for the Lupin III Perfect Book: Complete Collector's Edition, that [Hayao Miyazaki](https://anilist.co/staff/96870/), [Isao Takahata](https://anilist.co/staff/100579/), Osamu Dezaki, and Yoshikawa as representative members of the Japanese anime world.\n\n(Source: Wikipedia)\n",
+          "siteUrl": "https://anilist.co/staff/106686"
+        }
+      },
+      {
+        "role": "ADR Director (Polish)",
+        "node": {
+          "id": 279974,
+          "name": {
+            "first": "Dariusz",
+            "last": "Dunowski",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n279974-hBivv2QzogN5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n279974-hBivv2QzogN5.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/279974"
+        }
+      },
+      {
+        "role": "ADR Song Performance (Polish: ep 26)",
+        "node": {
+          "id": 218295,
+          "name": {
+            "first": "Iwona",
+            "last": "Rulewicz",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n218295-nvNtg2Atg3Gd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n218295-nvNtg2Atg3Gd.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/218295"
+        }
+      },
+      {
+        "role": "ADR Song Performance (Polish: ep 26)",
+        "node": {
+          "id": 277545,
+          "name": {
+            "first": "Wojciech",
+            "last": "Paszkowski",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n277545-Tw4vkbJePW5g.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n277545-Tw4vkbJePW5g.png"
+          },
+          "description": "__Non-anime roles:__\n~!\n• Mike Wazowski in \"Monsters Inc\"\n• Dr. Heinz Doofenshmirtz in \"Phineas and Ferb\"\n• Maurice in \"Madagascar\"\n• Jango Fett and Boba Fett in \"Star Wars\"\n• Chicken in \"Cow and Chicken\"\n• Jack Skellington in \"The Nightmare Before Christmas\"\n• President Business in \"The Lego Movie\"\n• Timmy's Dad in \"The Fairly OddParents\"\n• Mr. Ping in \"Kung Fu Panda\"\n• Elmer Fudd in various \"Looney Tunes\" media\n• Zapp Brannigan in \"Futurama\"\n• Harry Flynn in \"Uncharted 2: Among Thieves\"\n• Otto Octavius in \"Marvel’s Spider-Man\" (2018 video game)!~\n\nHe was also an experienced ADR director, having directed the Polish dubs of many Disney and Pixar movies and shows.",
+          "siteUrl": "https://anilist.co/staff/277545"
+        }
+      },
+      {
+        "role": "ADR Song Performance (Polish: ep 26)",
+        "node": {
+          "id": 317496,
+          "name": {
+            "first": "Jacek",
+            "last": "Mikołajczak",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n317496-Igkan991vQHx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n317496-Igkan991vQHx.png"
+          },
+          "description": "Known for voicing the protagonist of the \"Gothic\" video game series.",
+          "siteUrl": "https://anilist.co/staff/317496"
+        }
+      },
+      {
+        "role": "ADR Song Performance (Polish: ep 26)",
+        "node": {
+          "id": 218969,
+          "name": {
+            "first": "Wojciech",
+            "last": "Machnicki",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n218969-DOU7pXQWYE77.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n218969-DOU7pXQWYE77.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/218969"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 22,
+          "name": "Nippon Animation",
+          "siteUrl": "https://anilist.co/studio/22"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 76,
+          "name": "Yomiuri TV",
+          "siteUrl": "https://anilist.co/studio/76"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 53,
+          "name": "Dentsu",
+          "siteUrl": "https://anilist.co/studio/53"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 141199,
+          "rating": 3,
+          "media": {
+            "id": 3460,
+            "title": {
+              "native": "ボスコアドベンチャー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 5267,
+            "title": {
+              "native": "ガンバの冒険"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 143484,
+          "rating": 2,
+          "media": {
+            "id": 3460,
+            "title": {
+              "native": "ボスコアドベンチャー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 3317,
+            "title": {
+              "native": "宇宙船サジタリウス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 191504,
+          "rating": 3,
+          "media": {
+            "id": 3460,
+            "title": {
+              "native": "ボスコアドベンチャー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 302,
+            "title": {
+              "native": "未来少年コナン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 210904,
+          "rating": 2,
+          "media": {
+            "id": 3460,
+            "title": {
+              "native": "ボスコアドベンチャー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1972,
+            "title": {
+              "native": "名探偵ホームズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 314324,
+          "rating": 2,
+          "media": {
+            "id": 3460,
+            "title": {
+              "native": "ボスコアドベンチャー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 3201,
+            "title": {
+              "native": "セレンディピティ物語 ピュア島の仲間たち"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 4
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 4
+      },
+      {
+        "score": 40,
+        "amount": 14
+      },
+      {
+        "score": 50,
+        "amount": 30
+      },
+      {
+        "score": 60,
+        "amount": 27
+      },
+      {
+        "score": 70,
+        "amount": 31
+      },
+      {
+        "score": 80,
+        "amount": 42
+      },
+      {
+        "score": 90,
+        "amount": 48
+      },
+      {
+        "score": 100,
+        "amount": 42
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 44
+      },
+      {
+        "status": "PLANNING",
+        "amount": 378
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 283
+      },
+      {
+        "status": "DROPPED",
+        "amount": 63
+      },
+      {
+        "status": "PAUSED",
+        "amount": 29
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/3460",
+  "modNotes": null
+}

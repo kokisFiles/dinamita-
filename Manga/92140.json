@@ -1,0 +1,521 @@
+{
+  "id": 92140,
+  "idMal": 75181,
+  "title": {
+    "native": "平成生まれ",
+    "romaji": "Heisei Umare",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "High school girls everyday surreal life.",
+  "startDate": {
+    "year": 2010,
+    "month": 7,
+    "day": 28
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 10,
+    "day": 28
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 29,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748615685,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx92140-VOQM5f8WaZfR.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx92140-VOQM5f8WaZfR.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx92140-VOQM5f8WaZfR.jpg",
+    "color": "#5dbbe4"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/92140-JspaljT4NTJg.jpg",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Natural Born Heisei"
+  ],
+  "averageScore": 60,
+  "meanScore": 66,
+  "popularity": 706,
+  "favourites": 15,
+  "tags": [
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 86,
+      "name": "Primarily Female Cast",
+      "description": "Main cast is mostly composed of female characters.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 206,
+      "name": "4-koma",
+      "description": "A manga in the 'yonkoma' format, which consists of four equal-sized panels arranged in a vertical strip.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 281,
+      "name": "Surreal Comedy",
+      "description": "Prominently features comedic moments that defy casual reasoning, resulting in illogical events.",
+      "category": "Theme-Comedy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 99098,
+          "title": {
+            "native": "平成生まれ2"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 130856,
+          "name": {
+            "first": "Satou",
+            "last": null,
+            "native": "佐藤",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130856-j8ef5r7tUN5O.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130856-j8ef5r7tUN5O.png"
+          },
+          "siteUrl": "https://anilist.co/character/130856"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 130857,
+          "name": {
+            "first": "Nakagawa",
+            "last": null,
+            "native": "中川",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130857-XRLtqcHLD5Yk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130857-XRLtqcHLD5Yk.png"
+          },
+          "siteUrl": "https://anilist.co/character/130857"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 130858,
+          "name": {
+            "first": "Harada",
+            "last": null,
+            "native": "原田",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130858-qLUUVWl2QaWC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130858-qLUUVWl2QaWC.png"
+          },
+          "siteUrl": "https://anilist.co/character/130858"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 130859,
+          "name": {
+            "first": "Yuri",
+            "last": "Yomura",
+            "native": "四村ユリ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130859-iQYGk5TOUQBP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n130859-iQYGk5TOUQBP.png"
+          },
+          "siteUrl": "https://anilist.co/character/130859"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 122150,
+          "name": {
+            "first": "Hatopopoko",
+            "last": null,
+            "native": "ハトポポコ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/122150-npeKKklakNlR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/122150-npeKKklakNlR.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/hatopopoko) | [Tumblr](https://hatopopoko.tumblr.com) | [Pixiv](https://www.pixiv.net/member.php?id=91645)",
+          "siteUrl": "https://anilist.co/staff/122150"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 46445,
+      "url": "https://houbunsha.co.jp/comics/detail.php?p=%CA%BF%C0%AE%C0%B8%A4%DE%A4%EC",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 28363,
+          "rating": 2,
+          "media": {
+            "id": 92140,
+            "title": {
+              "native": "平成生まれ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 105164,
+            "title": {
+              "native": "あ～んちゃんのあ～ん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 35597,
+          "rating": 2,
+          "media": {
+            "id": 92140,
+            "title": {
+              "native": "平成生まれ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 120537,
+            "title": {
+              "native": "スクールゾーン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 43277,
+          "rating": 3,
+          "media": {
+            "id": 92140,
+            "title": {
+              "native": "平成生まれ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 122590,
+            "title": {
+              "native": "アキタランド・ゴシック"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 67194,
+          "rating": 3,
+          "media": {
+            "id": 92140,
+            "title": {
+              "native": "平成生まれ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 75353,
+            "title": {
+              "native": "ゆゆ式"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 67196,
+          "rating": 1,
+          "media": {
+            "id": 92140,
+            "title": {
+              "native": "平成生まれ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 75980,
+            "title": {
+              "native": "あいうら"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 80374,
+          "rating": 5,
+          "media": {
+            "id": 92140,
+            "title": {
+              "native": "平成生まれ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33082,
+            "title": {
+              "native": "日常"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 91872,
+          "rating": 5,
+          "media": {
+            "id": 92140,
+            "title": {
+              "native": "平成生まれ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30085,
+            "title": {
+              "native": "あずまんが大王"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 124878,
+          "rating": 2,
+          "media": {
+            "id": 92140,
+            "title": {
+              "native": "平成生まれ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 46104,
+            "title": {
+              "native": "じょしらく"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 210197,
+          "rating": 3,
+          "media": {
+            "id": 92140,
+            "title": {
+              "native": "平成生まれ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 137219,
+            "title": {
+              "native": "またぞろ。"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 254294,
+          "rating": 2,
+          "media": {
+            "id": 92140,
+            "title": {
+              "native": "平成生まれ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 103087,
+            "title": {
+              "native": "児玉まりあ文学集成"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 299287,
+          "rating": 1,
+          "media": {
+            "id": 92140,
+            "title": {
+              "native": "平成生まれ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 104223,
+            "title": {
+              "native": "ナンバーガール"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 299292,
+          "rating": 1,
+          "media": {
+            "id": 92140,
+            "title": {
+              "native": "平成生まれ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 47930,
+            "title": {
+              "native": "ひらめきはつめちゃん"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 8
+      },
+      {
+        "score": 50,
+        "amount": 27
+      },
+      {
+        "score": 60,
+        "amount": 34
+      },
+      {
+        "score": 70,
+        "amount": 35
+      },
+      {
+        "score": 80,
+        "amount": 26
+      },
+      {
+        "score": 90,
+        "amount": 11
+      },
+      {
+        "score": 100,
+        "amount": 12
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 71
+      },
+      {
+        "status": "PLANNING",
+        "amount": 380
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 213
+      },
+      {
+        "status": "DROPPED",
+        "amount": 34
+      },
+      {
+        "status": "PAUSED",
+        "amount": 8
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/92140",
+  "modNotes": null
+}

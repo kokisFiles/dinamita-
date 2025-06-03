@@ -1,0 +1,571 @@
+{
+  "id": 112980,
+  "idMal": null,
+  "title": {
+    "native": "ソードアート・オンライン コミックアンソロジー",
+    "romaji": "Sword Art Online Comic Anthology",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The Sword Art Online Comic Anthology is a comic anthology of Sword Art Online-themed short, independent manga stories by various illustrators, published under the Dengeki Comics imprint.",
+  "startDate": {
+    "year": 2013,
+    "month": 5,
+    "day": 27
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 3,
+    "day": 27
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "LIGHT_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747997419,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx112980-kjpcBD4Fbua8.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112980-kjpcBD4Fbua8.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx112980-kjpcBD4Fbua8.jpg",
+    "color": "#f1e4c9"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 60,
+  "popularity": 213,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 471,
+      "name": "Anthology",
+      "description": "A collection of separate works collated into a single release.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 51479,
+          "title": {
+            "native": "ソードアート・オンライン"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 36765,
+          "name": {
+            "first": "Kazuto",
+            "last": "Kirigaya",
+            "native": "桐ヶ谷和人",
+            "alternative": [
+              "Kirito (キリト)",
+              "The Black Swordsman",
+              "Papa (パパ)",
+              "Daddy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36765-BnLbXg0Tzzh9.png"
+          },
+          "siteUrl": "https://anilist.co/character/36765"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 36828,
+          "name": {
+            "first": "Asuna",
+            "last": "Yuuki",
+            "native": "結城明日奈",
+            "alternative": [
+              "アスナ",
+              "Berserker Healer (バーサクヒーラー)",
+              "Lightning Flash (閃光)",
+              "Mama (ママ)",
+              "Erika (エリカ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36828-j5ib0adAzGMx.png"
+          },
+          "siteUrl": "https://anilist.co/character/36828"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 37681,
+          "name": {
+            "first": "Keiko",
+            "last": "Ayano",
+            "native": "綾野珪子",
+            "alternative": [
+              "Silica (シリカ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b37681-GDtOAN6NiJ9M.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b37681-GDtOAN6NiJ9M.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/37681"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36830,
+          "name": {
+            "first": "Ryoutarou",
+            "last": "Tsuboi",
+            "native": "壷井遼太郎",
+            "alternative": [
+              "Klein"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36830-41SWIDvhqOo4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36830-41SWIDvhqOo4.png"
+          },
+          "siteUrl": "https://anilist.co/character/36830"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43906,
+          "name": {
+            "first": "Rika",
+            "last": "Shinozaki",
+            "native": "篠崎里香",
+            "alternative": [
+              "Lis (リズ)",
+              "Lisbeth (リズベット)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43906-15QwTm2ZFDse.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b43906-15QwTm2ZFDse.png"
+          },
+          "siteUrl": "https://anilist.co/character/43906"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 212810,
+          "name": {
+            "first": "Pina",
+            "last": null,
+            "native": "ピナ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b212810-jHVw3QgmELu9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b212810-jHVw3QgmELu9.png"
+          },
+          "siteUrl": "https://anilist.co/character/212810"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 54099,
+          "name": {
+            "first": "Andrew Gilbert",
+            "last": "Mills",
+            "native": "アンドリュー・ギルバート・ミルズ",
+            "alternative": [
+              "エギル",
+              "Agil"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/54099.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/54099.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/54099"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43892,
+          "name": {
+            "first": "Yui",
+            "last": null,
+            "native": "ユイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b43892-Ig6ZMdUbQDO2.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43892"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 66645,
+          "name": {
+            "first": "Tomo",
+            "last": "Hosaka",
+            "native": "帆坂カリーナ朋",
+            "alternative": [
+              "Argo (アルゴ)",
+              "The Rat"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66645-wSoq0pZ4Oa5H.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b66645-wSoq0pZ4Oa5H.png"
+          },
+          "siteUrl": "https://anilist.co/character/66645"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36831,
+          "name": {
+            "first": "Suguha",
+            "last": "Kirigaya",
+            "native": "桐ヶ谷直葉",
+            "alternative": [
+              "Leafa",
+              "Sugu",
+              "Lyfa"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36831-JfyFU7gPPVmr.png"
+          },
+          "siteUrl": "https://anilist.co/character/36831"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36829,
+          "name": {
+            "first": "Akihiko",
+            "last": "Kayaba",
+            "native": "茅場晶彦",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36829-X5zITNEQ7xij.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36829-X5zITNEQ7xij.png"
+          },
+          "siteUrl": "https://anilist.co/character/36829"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Art",
+        "node": {
+          "id": 100671,
+          "name": {
+            "first": "Itaru",
+            "last": "Hinoue",
+            "native": "樋上いたる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100671-v5SVcdIVQsNF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100671-v5SVcdIVQsNF.png"
+          },
+          "description": "[Twitter](https://twitter.com/hinoueitaru) | [Website](https://hinoueitaru.com/)\nArtist for various bishoujo games, mainly Key.",
+          "siteUrl": "https://anilist.co/staff/100671"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 107355,
+          "name": {
+            "first": "",
+            "last": "Hisasi",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107355-91AoeCvGu8fn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107355-91AoeCvGu8fn.png"
+          },
+          "description": "__Doujin Circle:__ Neko wa Manma ga Utsukushii\n\n[Website](http://nekoman9.x.fc2.com/) | [Twitter](https://twitter.com/nekomanHisasi) | [Piapro](http://piapro.jp/hisasi) | [Pixiv](https://www.pixiv.net/users/119045)",
+          "siteUrl": "https://anilist.co/staff/107355"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 117673,
+          "name": {
+            "first": "Naoto",
+            "last": "Fukuyama",
+            "native": "復八磨直兎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117673-TGvy6WtERqup.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n117673-TGvy6WtERqup.jpg"
+          },
+          "description": "__Doujin Circle:__ Aka Usagi\n\n[Blog](http://efuku53.blog130.fc2.com/) | [Twitter](https://twitter.com/akaiusagi3) | [Pixiv](https://www.pixiv.net/member.php?id=1526412) | [Pawoo](https://pawoo.net/oauth_authentications/1526412)",
+          "siteUrl": "https://anilist.co/staff/117673"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 119493,
+          "name": {
+            "first": "Karory",
+            "last": null,
+            "native": "かろり"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119493-wNT94Ep0MjcA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119493-wNT94Ep0MjcA.png"
+          },
+          "description": "Japanese female illustrator and game creator. Born in Mie Prefecture. \n\nContrary to popular belief, her pseudonym derives from the French picture book \"The Story of Caroline\", by author Pierre Probst, rather than the \"calorie\" (unit of energy).\n\n[Twitter](https://twitter.com/karory) | [Pixiv](https://www.pixiv.net/member.php?id=18095070)",
+          "siteUrl": "https://anilist.co/staff/119493"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 121141,
+          "name": {
+            "first": "",
+            "last": "Hiten",
+            "native": "Hiten"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121141-msyQax7d3d6c.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121141-msyQax7d3d6c.png"
+          },
+          "description": "[Website](http://www.hitenkei.net/) | [Twitter](http://twitter.com/HitenKei) | [Pixiv](http://www.pixiv.net/member.php?id=490219) | [Instagram](https://www.instagram.com/hitenkei/) | [Tumblr](https://hitenkei.tumblr.com/)\n\nHiten is an artist that comes from Taiwan. They are currently living in Tokyo, Japan. Married to fellow illustrator [Tadano Yukiko](https://anilist.co/staff/263208/Tadano-Yukiko).",
+          "siteUrl": "https://anilist.co/staff/121141"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 112425,
+          "name": {
+            "first": "",
+            "last": "Kogorou",
+            "native": "こごろー"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/112425"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 119419,
+          "name": {
+            "first": "Matsuryuu",
+            "last": null,
+            "native": "松竜 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119419-eZWUEDFvk4Jf.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119419-eZWUEDFvk4Jf.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/home) | [Pixiv](https://www.pixiv.net/en/users/2159670)\n\n",
+          "siteUrl": "https://anilist.co/staff/119419"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 106251,
+          "name": {
+            "first": "Atsuto",
+            "last": "Shinozuka",
+            "native": "しのづかあつと"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106251-AzxSg0Wo8cWc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106251-AzxSg0Wo8cWc.png"
+          },
+          "description": "__Doujin circle:__ Makuu Gundan (魔空軍団)\n\n[Twitter](https://twitter.com/sinozuka_atsuto) | [Pixiv](https://www.pixiv.net/users/9463)",
+          "siteUrl": "https://anilist.co/staff/106251"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 140722,
+          "name": {
+            "first": "Ryou",
+            "last": "Yuuki",
+            "native": "結城涼"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n140722-3ta3zSRzLGHv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n140722-3ta3zSRzLGHv.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/140722"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 102551,
+          "name": {
+            "first": "",
+            "last": "Puyo",
+            "native": "ぷよ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/102551-Sn0CETSEu7xH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/102551-Sn0CETSEu7xH.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/puyotopia) | [Alternate Twitter](https://twitter.com/puyotopia2) | [Pixiv](https://www.pixiv.net/member.php?id=4200986)",
+          "siteUrl": "https://anilist.co/staff/102551"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 5
+      },
+      {
+        "score": 60,
+        "amount": 3
+      },
+      {
+        "score": 70,
+        "amount": 3
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 24
+      },
+      {
+        "status": "PLANNING",
+        "amount": 119
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 57
+      },
+      {
+        "status": "DROPPED",
+        "amount": 7
+      },
+      {
+        "status": "PAUSED",
+        "amount": 6
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/112980",
+  "modNotes": null
+}

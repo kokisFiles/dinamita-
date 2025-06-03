@@ -1,0 +1,669 @@
+{
+  "id": 31208,
+  "idMal": 1208,
+  "title": {
+    "native": "SILVER DIAMOND",
+    "romaji": "SILVER DIAMOND",
+    "english": "Silver Diamond"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Rakan lives alone, and the plants in his garden grow so thick and fast that it seems like a jungle. One day a man, holding a gun made of wood, falls right down into his garden. He seems to come from another world, and he's searching for someone who can bring back the green into his own dark and inhospitable world.\n",
+  "startDate": {
+    "year": 2003,
+    "month": 8,
+    "day": 20
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 5,
+    "day": 20
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 82,
+  "volumes": 27,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748876399,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31208-vc41R17xRkwx.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31208-vc41R17xRkwx.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx31208-vc41R17xRkwx.jpg",
+    "color": "#f16b5d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/31208-lsSsrWJnFMSj.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "synonyms": [
+    "S♢",
+    "シルバー ダイヤモンド",
+    "銀色鑽石"
+  ],
+  "averageScore": 72,
+  "meanScore": 77,
+  "popularity": 1369,
+  "favourites": 53,
+  "tags": [
+    {
+      "id": 53,
+      "name": "Shoujo",
+      "description": "Target demographic is teenage and young adult females.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 75,
+      "name": "Boys' Love",
+      "description": "Prominently features romance between two males, not inherently sexual.",
+      "category": "Theme-Romance",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 88,
+      "name": "Primarily Male Cast",
+      "description": "Main cast is mostly composed of male characters.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 483,
+      "name": "LGBTQ+ Themes",
+      "description": "Prominently features characters or themes associated with the LGBTQ+ community, such as sexuality or gender identity.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 244,
+      "name": "Isekai",
+      "description": "Features characters being transported into an alternate world setting and having to adapt to their new surroundings.",
+      "category": "Theme-Fantasy",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 253,
+      "name": "Gods",
+      "description": "Prominently features a character of divine or religious nature.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 1453,
+      "name": "Desert",
+      "description": "Prominently features a desert environment.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1525,
+      "name": "Horticulture",
+      "description": "The story prominently features plant care and gardening.",
+      "category": "Theme-Slice of Life",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 77657,
+          "title": {
+            "native": "SILVER DIAMOND外伝"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 10673,
+          "name": {
+            "first": "Rakan",
+            "last": "Sawa",
+            "native": "沢羅貫",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10673-Ysq5Rb5k9IWd.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b10673-Ysq5Rb5k9IWd.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10673"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 14130,
+          "name": {
+            "first": "Chigusa",
+            "last": "Senrou",
+            "native": "千鋃千艸",
+            "alternative": [
+              "Pervert",
+              "Monster",
+              "Chigusa Senroh"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14130-His9rAqMnm32.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14130-His9rAqMnm32.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14130"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 15578,
+          "name": {
+            "first": "Narushige",
+            "last": "Shigeka",
+            "native": "重華成重",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15578-hGrGnLsyy5TW.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15578-hGrGnLsyy5TW.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15578"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 15579,
+          "name": {
+            "first": "Touji",
+            "last": "Touno",
+            "native": "灯野灯二",
+            "alternative": [
+              "Tohji Tohno"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15579-iPWH4GtWPQrG.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15579-iPWH4GtWPQrG.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15579"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 338737,
+          "name": {
+            "first": "Kinrei",
+            "last": "Kingen",
+            "native": "金弦金隷",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338737-hE9n2HQBdQJ6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338737-hE9n2HQBdQJ6.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/338737"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 338738,
+          "name": {
+            "first": "Sae",
+            "last": "Shigeka",
+            "native": "重華三重",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338738-Rfy8Jqpgqc9D.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338738-Rfy8Jqpgqc9D.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/338738"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 338739,
+          "name": {
+            "first": "Miko",
+            "last": null,
+            "native": "皇子",
+            "alternative": [
+              "The Prince"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338739-h6GTkkDachCZ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338739-h6GTkkDachCZ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/338739"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 338807,
+          "name": {
+            "first": "Hakubi",
+            "last": "Shirakawa",
+            "native": "白河白琵",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338807-PmJlFVmJ5B4d.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338807-PmJlFVmJ5B4d.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/338807"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 338808,
+          "name": {
+            "first": "Karaku",
+            "last": "Utaeda",
+            "native": "歌支歌珞",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338808-4V38CMwsZm7T.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338808-4V38CMwsZm7T.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/338808"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 338809,
+          "name": {
+            "first": "Rinrai",
+            "last": "Suzumori",
+            "native": "鈴守鈴蕾",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338809-Q0q2panO186S.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338809-Q0q2panO186S.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/338809"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 338810,
+          "name": {
+            "first": "Miya",
+            "last": null,
+            "native": "宮",
+            "alternative": [
+              "夜橋三夜",
+              "Miya Yorubashi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338810-8Q4MWVutXpGC.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338810-8Q4MWVutXpGC.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/338810"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 338811,
+          "name": {
+            "first": "Goushi",
+            "last": null,
+            "native": "鬨士",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338811-NSsnns08gYKM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338811-NSsnns08gYKM.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/338811"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 338812,
+          "name": {
+            "first": "Kou",
+            "last": null,
+            "native": "虹",
+            "alternative": [
+              "Koh"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338812-QHD8gy3SEdiD.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338812-QHD8gy3SEdiD.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/338812"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 338813,
+          "name": {
+            "first": "Kazuhi",
+            "last": null,
+            "native": "主匪",
+            "alternative": [
+              "灯野一灯",
+              "Kazuhi Touno",
+              "Kazuhi Tohno"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b338813-YQhOv1vWkmpH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b338813-YQhOv1vWkmpH.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/338813"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97874,
+          "name": {
+            "first": "Shiho",
+            "last": "Sugiura",
+            "native": "杉浦志保"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2874.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2874.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/SugiuraShiho) ",
+          "siteUrl": "https://anilist.co/staff/97874"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 93899,
+      "url": "https://magcomi.com/episode/13933686331661692774",
+      "site": "Magcomi"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 26599,
+      "rank": 34,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2003,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 26725,
+      "rank": 60,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 2003,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 9339,
+          "rating": 5,
+          "media": {
+            "id": 31208,
+            "title": {
+              "native": "SILVER DIAMOND"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31982,
+            "title": {
+              "native": "氷の魔物の物語"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 10895,
+          "rating": 5,
+          "media": {
+            "id": 31208,
+            "title": {
+              "native": "SILVER DIAMOND"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30923,
+            "title": {
+              "native": "彼方から"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 82757,
+          "rating": 0,
+          "media": {
+            "id": 31208,
+            "title": {
+              "native": "SILVER DIAMOND"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 134548,
+            "title": {
+              "native": "靠近你会掉刺"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 82760,
+          "rating": 2,
+          "media": {
+            "id": 31208,
+            "title": {
+              "native": "SILVER DIAMOND"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30102,
+            "title": {
+              "native": "フルーツバスケット"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 283435,
+          "rating": 1,
+          "media": {
+            "id": 31208,
+            "title": {
+              "native": "SILVER DIAMOND"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33565,
+            "title": {
+              "native": "シノビライフ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 8
+      },
+      {
+        "score": 40,
+        "amount": 11
+      },
+      {
+        "score": 50,
+        "amount": 13
+      },
+      {
+        "score": 60,
+        "amount": 25
+      },
+      {
+        "score": 70,
+        "amount": 57
+      },
+      {
+        "score": 80,
+        "amount": 70
+      },
+      {
+        "score": 90,
+        "amount": 77
+      },
+      {
+        "score": 100,
+        "amount": 53
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 164
+      },
+      {
+        "status": "PLANNING",
+        "amount": 714
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 336
+      },
+      {
+        "status": "DROPPED",
+        "amount": 64
+      },
+      {
+        "status": "PAUSED",
+        "amount": 91
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/31208",
+  "modNotes": null
+}

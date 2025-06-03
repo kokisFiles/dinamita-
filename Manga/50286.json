@@ -1,0 +1,371 @@
+{
+  "id": 50286,
+  "idMal": 20286,
+  "title": {
+    "native": "放課後プレイ3",
+    "romaji": "Houkago Play 3",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Houkago Play continues with new characters. A 4-koma featuring boy and a girl who are both gamers, though they play with different styles. They trade games, discuss gaming, and discuss other otaku-type things, like manga and zombies, as their relationship slowly progresses.<br><br>(Source: MangaHelpers)",
+  "startDate": {
+    "year": 2010,
+    "month": 3,
+    "day": 12
+  },
+  "endDate": {
+    "year": 2011,
+    "month": 1,
+    "day": 27
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 15,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748185115,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx50286-YIe3WszTZf7N.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50286-YIe3WszTZf7N.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx50286-YIe3WszTZf7N.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Ecchi",
+    "Romance",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Afterschool Play 3"
+  ],
+  "averageScore": 57,
+  "meanScore": 64,
+  "popularity": 318,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 206,
+      "name": "4-koma",
+      "description": "A manga in the 'yonkoma' format, which consists of four equal-sized panels arranged in a vertical strip.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 97,
+      "name": "Otaku Culture",
+      "description": "Centers around the culture of a fanatical fan-base.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 308,
+      "name": "Video Games",
+      "description": "Centers around characters playing video games.",
+      "category": "Theme-Game",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 50131,
+          "title": {
+            "native": "放課後プレイ2"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 64075,
+          "title": {
+            "native": "放課後プレイR"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 33879,
+          "name": {
+            "first": "Buchou",
+            "last": null,
+            "native": "部長",
+            "alternative": [
+              "Club Leader"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/33879.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/33879.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/33879"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 27388,
+          "name": {
+            "first": "Kanojo",
+            "last": null,
+            "native": "彼女",
+            "alternative": [
+              "Girlfriend"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/27388.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/27388.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/27388"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36380,
+          "name": {
+            "first": "Kareshi",
+            "last": null,
+            "native": "彼氏",
+            "alternative": [
+              "Boyfriend"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/36380.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36380.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36380"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 37027,
+          "name": {
+            "first": "Juumai",
+            "last": null,
+            "native": "従妹",
+            "alternative": [
+              "Cousin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/37027.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/37027.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/37027"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 37030,
+          "name": {
+            "first": "Kouhai",
+            "last": null,
+            "native": "後輩",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/37030.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/37030.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/37030"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 163174,
+          "name": {
+            "first": "Ore",
+            "last": null,
+            "native": "オレ",
+            "alternative": [
+              "Boy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b163174-30lDMfD8IGVc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b163174-30lDMfD8IGVc.png"
+          },
+          "siteUrl": "https://anilist.co/character/163174"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 176797,
+          "name": {
+            "first": "Sense",
+            "last": null,
+            "native": "センセ",
+            "alternative": [
+              "Sensei"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/176797"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 102441,
+          "name": {
+            "first": "Rendou",
+            "last": "Kurosaki",
+            "native": "黒咲練導"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102441-heH85e92oCWV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102441-heH85e92oCWV.jpg"
+          },
+          "description": "[pixiv](https://www.pixiv.net/member.php?id=222698)",
+          "siteUrl": "https://anilist.co/staff/102441"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 4
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 15
+      },
+      {
+        "score": 60,
+        "amount": 34
+      },
+      {
+        "score": 70,
+        "amount": 40
+      },
+      {
+        "score": 80,
+        "amount": 16
+      },
+      {
+        "score": 90,
+        "amount": 9
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 11
+      },
+      {
+        "status": "PLANNING",
+        "amount": 95
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 206
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1
+      },
+      {
+        "status": "PAUSED",
+        "amount": 5
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/50286",
+  "modNotes": null
+}

@@ -1,0 +1,793 @@
+{
+  "id": 21056,
+  "idMal": 29325,
+  "title": {
+    "native": "攻殻機動隊ARISE ALTERNATIVE ARCHITECTURE",
+    "romaji": "Koukaku Kidoutai ARISE: ALTERNATIVE ARCHITECTURE",
+    "english": "Ghost in the Shell Arise: Alternative Architecture"
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "A TV anime version of <i>Ghost in the Shell: Arise</i>. <br><br>\n\n<i>Note: The first eight episodes are an edited version of the four movies while the last two are new content.</i>",
+  "startDate": {
+    "year": 2015,
+    "month": 4,
+    "day": 5
+  },
+  "endDate": {
+    "year": 2015,
+    "month": 6,
+    "day": 14
+  },
+  "season": "SPRING",
+  "seasonYear": 2015,
+  "seasonInt": 152,
+  "episodes": 10,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": "#攻殻新劇",
+  "trailer": null,
+  "updatedAt": 1748888558,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21056-Lv2scuQyXusc.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21056-Lv2scuQyXusc.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21056-Lv2scuQyXusc.png",
+    "color": "#f1a15d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21056-QaHHmTJ7qpJh.jpg",
+  "genres": [
+    "Action",
+    "Mecha",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Koukaku Kidoutai: AAA"
+  ],
+  "averageScore": 68,
+  "meanScore": 68,
+  "popularity": 9214,
+  "favourites": 50,
+  "tags": [
+    {
+      "id": 40,
+      "name": "Police",
+      "description": "Centers around the life and activities of law enforcement officers.",
+      "category": "Theme-Other-Organisations",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 108,
+      "name": "Cyberpunk",
+      "description": "Set in a future of advanced technological and scientific achievements that have resulted in social disorder.",
+      "category": "Theme-Sci-Fi",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 157,
+      "name": "Guns",
+      "description": "Prominently features the use of guns in combat.",
+      "category": "Theme-Action",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 801,
+      "name": "Cyborg",
+      "description": "Prominently features a human character whose physiological functions are aided or enhanced by artificial means.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 109,
+      "name": "Primarily Adult Cast",
+      "description": "Main cast is mostly composed of characters above a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 517,
+      "name": "Artificial Intelligence",
+      "description": "Intelligent non-organic machines that work and react similarly to humans.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 88,
+      "name": "Primarily Male Cast",
+      "description": "Main cast is mostly composed of male characters.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 90,
+      "name": "CGI",
+      "description": "Prominently features scenes created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 160,
+      "name": "Real Robot",
+      "description": "Prominently features mechanical designs loosely influenced by real-world robotics.",
+      "category": "Theme-Sci-Fi-Mecha",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1045,
+      "name": "Heterosexual",
+      "description": "Prominently features a romance between a man and a woman, not inherently sexual.",
+      "category": "Theme-Romance",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 779,
+      "name": "Kuudere",
+      "description": "Prominently features a character who generally retains a cold, blunt and cynical exterior, but once one gets to know them, they have a very warm and loving interior.",
+      "category": "Cast-Traits",
+      "rank": 10,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 17187,
+          "title": {
+            "native": "攻殻機動隊ARISE -GHOST IN THE SHELL- border:1 Ghost Pain"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 19191,
+          "title": {
+            "native": "攻殻機動隊ARISE -GHOST IN THE SHELL- border:2 Ghost Whispers"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 19193,
+          "title": {
+            "native": "攻殻機動隊ARISE -GHOST IN THE SHELL- border:3 Ghost Tears"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 19195,
+          "title": {
+            "native": "攻殻機動隊ARISE -GHOST IN THE SHELL- border:4 Ghost Stands Alone"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 21057,
+          "title": {
+            "native": "攻殻機動隊 新劇場版"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1795,
+          "name": {
+            "first": "Motoko",
+            "last": "Kusanagi",
+            "native": "草薙素子",
+            "alternative": [
+              "Major"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1795-vKakY5aXVyCl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1795-vKakY5aXVyCl.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1795"
+        },
+        "voiceActors": [
+          {
+            "id": 95090,
+            "name": {
+              "first": "Maaya",
+              "last": "Sakamoto",
+              "native": "坂本真綾"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95090-oARRP42NEhu0.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95090-oARRP42NEhu0.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95090"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 115781,
+          "name": {
+            "first": "Kazuchika",
+            "last": "Kise",
+            "native": "黄瀬和哉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115781-emo0TsD51tVx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115781-emo0TsD51tVx.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/1522114648098619397)\n\nHe grew up admiring anime such as [Space Battleship Yamato](https://anilist.co/anime/1650/) an during highschool he started animating with his friends. He enrolled into a professional animation school after graduating but quit quickly due to being disappointed in how the lessons were conducted.\n\nHe joined Anime R and later its subsidiary Studio Muu. His first work was as an in-betweener on [Psycho Armor Govarian](https://anilist.co/anime/6428/) while his debut as a key animator was on [Captain Tsubasa](https://anilist.co/anime/2116/).\n\nAfter working on [Mamoru Oshii](https://anilist.co/staff/99097/)'s [Patlabor](https://anilist.co/anime/1095/) he permanently joined Production I.G. becoming known, together with [Hiroyuki Okiura](https://anilist.co/staff/103502/) and [Tetsuya Nishio](https://anilist.co/staff/103725/), as \"The Three Gods of I.G.\"\n\nHe's is one of the most prominent animators of the realist school, with emphasis on solid shapes and weighty character animation.",
+          "siteUrl": "https://anilist.co/staff/115781"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 115781,
+          "name": {
+            "first": "Kazuchika",
+            "last": "Kise",
+            "native": "黄瀬和哉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115781-emo0TsD51tVx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115781-emo0TsD51tVx.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/1522114648098619397)\n\nHe grew up admiring anime such as [Space Battleship Yamato](https://anilist.co/anime/1650/) an during highschool he started animating with his friends. He enrolled into a professional animation school after graduating but quit quickly due to being disappointed in how the lessons were conducted.\n\nHe joined Anime R and later its subsidiary Studio Muu. His first work was as an in-betweener on [Psycho Armor Govarian](https://anilist.co/anime/6428/) while his debut as a key animator was on [Captain Tsubasa](https://anilist.co/anime/2116/).\n\nAfter working on [Mamoru Oshii](https://anilist.co/staff/99097/)'s [Patlabor](https://anilist.co/anime/1095/) he permanently joined Production I.G. becoming known, together with [Hiroyuki Okiura](https://anilist.co/staff/103502/) and [Tetsuya Nishio](https://anilist.co/staff/103725/), as \"The Three Gods of I.G.\"\n\nHe's is one of the most prominent animators of the realist school, with emphasis on solid shapes and weighty character animation.",
+          "siteUrl": "https://anilist.co/staff/115781"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 101016,
+          "name": {
+            "first": "Yoshikazu",
+            "last": "Iwanami",
+            "native": "岩浪美和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101016-H7RaX55ooWr0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101016-H7RaX55ooWr0.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/岩浪美和) | [Twitter](https://x.com/i/user/169097071)",
+          "siteUrl": "https://anilist.co/staff/101016"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 97229,
+          "name": {
+            "first": "Tou",
+            "last": "Ubukata",
+            "native": "冲方丁"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97229-FZIEcRtR7AQ6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97229-FZIEcRtR7AQ6.png"
+          },
+          "description": "Ubukata was exposed to a blending of cultures from early childhood until the age of fourteen, having lived in Singapore and Nepal because of his father's work. In 1996, while in college, Ubukata won the first Sneaker Taisho Gold Prize for his light novel Kuroi Kisetsu, and thus debuted as a writer. In 2003, he won the Nihon SF Taisho Award for Mardock Scramble, originally published as a three-volume series. He is involved in a wide range of projects including anime production for Fafner, video game production, and original content writing for comics such as Le Chevalier D'Eon. His other works include the Bye-Bye Earth and Spiegel novel series. In 2009, he published his first historical novel, Tenchi Meisatsu, focusing on a mathematician of the Edo period. ",
+          "siteUrl": "https://anilist.co/staff/97229"
+        }
+      },
+      {
+        "role": "Screenplay (eps 9-10)",
+        "node": {
+          "id": 100423,
+          "name": {
+            "first": "Junichi",
+            "last": "Fujisaku",
+            "native": "藤咲淳一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100423-NHuMcNLPdxcx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100423-NHuMcNLPdxcx.png"
+          },
+          "description": "**Education:** Yoyogi Animation Academy\n\n[Twitter](https://twitter.com/junichifujisaku)\n\nJunichi Fujisaku is a Japanese director, animation director, scriptwriter, game producer and novelist. He's affiliated with studio Production I.G.",
+          "siteUrl": "https://anilist.co/staff/100423"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 121208,
+          "name": {
+            "first": "Kouichi",
+            "last": "Arai",
+            "native": "新井浩一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121208-YNiLYX3kfrMU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121208-YNiLYX3kfrMU.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/新井浩一)\n\nOne of the founders of [Kinema Citrus](https://anilist.co/studio/290/).",
+          "siteUrl": "https://anilist.co/staff/121208"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 121208,
+          "name": {
+            "first": "Kouichi",
+            "last": "Arai",
+            "native": "新井浩一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121208-YNiLYX3kfrMU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121208-YNiLYX3kfrMU.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/新井浩一)\n\nOne of the founders of [Kinema Citrus](https://anilist.co/studio/290/).",
+          "siteUrl": "https://anilist.co/staff/121208"
+        }
+      },
+      {
+        "role": "Key Animation (eps 2-4, 6-8)",
+        "node": {
+          "id": 103725,
+          "name": {
+            "first": "Tetsuya",
+            "last": "Nishio",
+            "native": "西尾鉄也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103725-B2EyjAqJ47NI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103725-B2EyjAqJ47NI.png"
+          },
+          "description": "Nishio graduated from Nagoya Designer Academy and started his career at Anime Spot, a subcontracting studio, after being refused in interviews with several animation studios. He debuted as an in-betweener on [Osomatsu-kun](https://anilist.co/anime/9883/) and as a key animator on [Laughing Salesman](https://anilist.co/anime/3077/).\n\nIt's on [Yu Yu Hakusho](https://anilist.co/anime/392//) that Nishio came into his own as an animator, developing weighty and realistic movements influenced by [Satoru Utsunomiya](https://anilist.co/staff/101489/). Thanks to the ability demonstrated there, he was chosen to design the characters for [Ninku](https://anilist.co/anime/912/).\n\nAfter working as character designer and chief animation director on [Jin-Roh](https://anilist.co/anime/570/) he permanently joined Production I.G. where he became known, together with [Hiroyuki Okiura](https://anilist.co/staff/103502/) and [Kazuchika Kise](https://anilist.co/staff/115781/), as \"The Three Gods of I.G.\"\n\n[Masashi Kishimoto](https://anilist.co/staff/96879/) requested for Nishio to be the character designer of the Naruto anime.\n\nIn August 2020, he was promoted to company director of Production I.G alongside [Takayuki Gotou](https://anilist.co/staff/103266/Takayuki-Gotou/), a co-founder of the studio.",
+          "siteUrl": "https://anilist.co/staff/103725"
+        }
+      },
+      {
+        "role": "Animation Director (OP, eps 7, 8)",
+        "node": {
+          "id": 103725,
+          "name": {
+            "first": "Tetsuya",
+            "last": "Nishio",
+            "native": "西尾鉄也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103725-B2EyjAqJ47NI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103725-B2EyjAqJ47NI.png"
+          },
+          "description": "Nishio graduated from Nagoya Designer Academy and started his career at Anime Spot, a subcontracting studio, after being refused in interviews with several animation studios. He debuted as an in-betweener on [Osomatsu-kun](https://anilist.co/anime/9883/) and as a key animator on [Laughing Salesman](https://anilist.co/anime/3077/).\n\nIt's on [Yu Yu Hakusho](https://anilist.co/anime/392//) that Nishio came into his own as an animator, developing weighty and realistic movements influenced by [Satoru Utsunomiya](https://anilist.co/staff/101489/). Thanks to the ability demonstrated there, he was chosen to design the characters for [Ninku](https://anilist.co/anime/912/).\n\nAfter working as character designer and chief animation director on [Jin-Roh](https://anilist.co/anime/570/) he permanently joined Production I.G. where he became known, together with [Hiroyuki Okiura](https://anilist.co/staff/103502/) and [Kazuchika Kise](https://anilist.co/staff/115781/), as \"The Three Gods of I.G.\"\n\n[Masashi Kishimoto](https://anilist.co/staff/96879/) requested for Nishio to be the character designer of the Naruto anime.\n\nIn August 2020, he was promoted to company director of Production I.G alongside [Takayuki Gotou](https://anilist.co/staff/103266/Takayuki-Gotou/), a co-founder of the studio.",
+          "siteUrl": "https://anilist.co/staff/103725"
+        }
+      },
+      {
+        "role": "Key Animation (ep 5)",
+        "node": {
+          "id": 142736,
+          "name": {
+            "first": "Akiko",
+            "last": "Kudou",
+            "native": "工藤晃子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142736-x2wUG38UQdlz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n142736-x2wUG38UQdlz.jpg"
+          },
+          "description": "[Twitter](https://x.com/ku101010)\n\nAffiliated with [MAPPA](https://anilist.co/studio/569/MAPPA).",
+          "siteUrl": "https://anilist.co/staff/142736"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97609,
+          "name": {
+            "first": "Masamune",
+            "last": "Shirow",
+            "native": "士郎正宗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2609.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2609.jpg"
+          },
+          "description": "Shirow studied oil painting at Osaka University of Arts. While in college, he developed an interest in manga, which led him to create his own complete work, Black Magic, which was published in the manga dōjinshi Atlas. His work caught the eye of Seishinsha President Harumichi Aoki, who offered to publish him.\n\nThe result was best-selling manga Appleseed, a full volume of densely plotted drama taking place in an ambiguous future. The story was a sensation, and won the 1986 Seiun Award for Best Manga. After a professional reprint of Black Magic and a second volume of Appleseed, he released Dominion in 1986. Two more volumes of Appleseed followed before he began work on Ghost in the Shell.\n\nIn 2007, he collaborated again with Production I.G to co-create the original concept for the anime television series Shinreigari/Ghost Hound, Production I.G's 20th anniversary project. A further original collaboration with Production I.G began airing in April 2008, titled Real Drive.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/97609"
+        }
+      },
+      {
+        "role": "Production Assistant (ep 9)",
+        "node": {
+          "id": 189703,
+          "name": {
+            "first": "Daisuke",
+            "last": "Oohigashi",
+            "native": "大東大介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n189703-IROg31Fzr8le.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n189703-IROg31Fzr8le.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/189703"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 10,
+          "name": "Production I.G",
+          "siteUrl": "https://anilist.co/studio/10"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 49348,
+          "airingAt": 1428240600,
+          "episode": 1,
+          "mediaId": 21056,
+          "media": {
+            "id": 21056
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 49349,
+          "airingAt": 1428845400,
+          "episode": 2,
+          "mediaId": 21056,
+          "media": {
+            "id": 21056
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 49350,
+          "airingAt": 1429450200,
+          "episode": 3,
+          "mediaId": 21056,
+          "media": {
+            "id": 21056
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 49351,
+          "airingAt": 1430055000,
+          "episode": 4,
+          "mediaId": 21056,
+          "media": {
+            "id": 21056
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 49352,
+          "airingAt": 1430659800,
+          "episode": 5,
+          "mediaId": 21056,
+          "media": {
+            "id": 21056
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 49353,
+          "airingAt": 1431264600,
+          "episode": 6,
+          "mediaId": 21056,
+          "media": {
+            "id": 21056
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 49354,
+          "airingAt": 1431869400,
+          "episode": 7,
+          "mediaId": 21056,
+          "media": {
+            "id": 21056
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 49355,
+          "airingAt": 1432474200,
+          "episode": 8,
+          "mediaId": 21056,
+          "media": {
+            "id": 21056
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 49356,
+          "airingAt": 1433079000,
+          "episode": 9,
+          "mediaId": 21056,
+          "media": {
+            "id": 21056
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 49357,
+          "airingAt": 1434288600,
+          "episode": 10,
+          "mediaId": 21056,
+          "media": {
+            "id": 21056
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 60703,
+      "url": "https://www.crunchyroll.com/ghost-in-the-shell-arise",
+      "site": "Crunchyroll"
+    },
+    {
+      "id": 68151,
+      "url": "http://kokaku-a.jp/tv/",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [
+    {
+      "title": "Episode 1 - Border 1: Ghost Pain",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/55e8be0f68f23927b18d9b5cc5928b131525986022_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GR5PV40GR/border-1-ghost-pain",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 2 - Border 2: Ghost Whispers",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/999e5045b8c320d3aeb72c59f1d3c4b71525987234_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G6G5GJ1W6/border-2-ghost-whispers",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 3 - Border 3: Ghost Tears",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/b8cb8171d92756ba9bccb846d8775ca11525986997_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G6EX54VGR/border-3-ghost-tears",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 4 - Border 4: Ghost Stands Alone",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/ed97e5bd4d9fa13d1b5af0afd3db02501525988725_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GY9VPKD4R/border-4-ghost-stands-alone",
+      "site": "Crunchyroll"
+    }
+  ],
+  "rankings": [
+    {
+      "id": 7183,
+      "rank": 77,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2015,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 7384,
+      "rank": 22,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2015,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 15120,
+          "rating": 0,
+          "media": {
+            "id": 21056,
+            "title": {
+              "native": "攻殻機動隊ARISE ALTERNATIVE ARCHITECTURE"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 13863,
+            "title": {
+              "native": "アルヴ・レズル -機械仕掛けの妖精たち-"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 43
+      },
+      {
+        "score": 20,
+        "amount": 21
+      },
+      {
+        "score": 30,
+        "amount": 57
+      },
+      {
+        "score": 40,
+        "amount": 98
+      },
+      {
+        "score": 50,
+        "amount": 262
+      },
+      {
+        "score": 60,
+        "amount": 479
+      },
+      {
+        "score": 70,
+        "amount": 999
+      },
+      {
+        "score": 80,
+        "amount": 681
+      },
+      {
+        "score": 90,
+        "amount": 248
+      },
+      {
+        "score": 100,
+        "amount": 128
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 302
+      },
+      {
+        "status": "PLANNING",
+        "amount": 3807
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 4495
+      },
+      {
+        "status": "DROPPED",
+        "amount": 343
+      },
+      {
+        "status": "PAUSED",
+        "amount": 267
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/21056",
+  "modNotes": null
+}

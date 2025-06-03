@@ -1,0 +1,948 @@
+{
+  "id": 34208,
+  "idMal": 4208,
+  "title": {
+    "native": "マブラヴ",
+    "romaji": "Muv-Luv",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Takeru and Sumika have been neighbors and friends since they were little, but when a mysterious girl arrives, and is found in bed with Takeru, their daily lives will be thrown into chaos.",
+  "startDate": {
+    "year": 2003,
+    "month": 5,
+    "day": 27
+  },
+  "endDate": {
+    "year": 2004,
+    "month": 12,
+    "day": 17
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 20,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VISUAL_NOVEL",
+  "hashtag": "#マブラヴ",
+  "trailer": null,
+  "updatedAt": 1748876172,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34208-4JN3vZ1EUmo7.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34208-4JN3vZ1EUmo7.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx34208-4JN3vZ1EUmo7.jpg",
+    "color": "#e4d65d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/34208-iMqK8a2TsMyP.jpg",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Sports"
+  ],
+  "synonyms": [
+    "Muv-Luv Extra",
+    "MuvLuv Extra"
+  ],
+  "averageScore": 52,
+  "meanScore": 57,
+  "popularity": 816,
+  "favourites": 7,
+  "tags": [
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 38235,
+          "title": {
+            "native": "マブラヴ・アンリミテッド"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 114482,
+          "title": {
+            "native": "マブラヴ"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 136033,
+          "title": {
+            "native": "MUV-LUV EXTRA 冥夜と！ちょこっとAfter"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 281,
+          "title": {
+            "native": "アカネマニアックス"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 147,
+          "title": {
+            "native": "君が望む永遠"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 151936,
+          "title": {
+            "native": "君が望む永遠"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 158922,
+          "title": {
+            "native": "マブラヴコミックアンソロジー"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 158924,
+          "title": {
+            "native": "マブラヴ : ゲームコミック "
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 158953,
+          "title": {
+            "native": "マブラヴアンソロジーコミック"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 159130,
+          "title": {
+            "native": "マブラヴ アンソロジーコミックス"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 31931,
+          "name": {
+            "first": "Sumika",
+            "last": "Kagami",
+            "native": "鑑純夏",
+            "alternative": [
+              "Rubeus",
+              "Pawn of Gedler",
+              "Cinnabun Boy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31931-3lzD4H8P9T6E.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31931-3lzD4H8P9T6E.png"
+          },
+          "siteUrl": "https://anilist.co/character/31931"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 31933,
+          "name": {
+            "first": "Meiya",
+            "last": "Mitsurugi",
+            "native": "御剣冥夜",
+            "alternative": [
+              "Valkyrie 11",
+              "Princess Mitsurugi",
+              "Sword Dancer",
+              "Eurydice",
+              "UN-20702",
+              "Oberon Two",
+              "Milady",
+              "Grasshopper",
+              "War Princess of the Southern Seas",
+              "May. Y"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31933-lGhcO8YJOedr.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31933-lGhcO8YJOedr.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31933"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 31932,
+          "name": {
+            "first": "Takeru",
+            "last": "Shirogane",
+            "native": "白銀武",
+            "alternative": [
+              "Love Nucleus",
+              "Romeo",
+              "Pilgrim",
+              "White Flash",
+              "Valkyrie 10",
+              "UN-20706",
+              "Oberon Three",
+              "Genius",
+              "Record-Breaker",
+              "Flight Commander Shirogane",
+              "The Snake",
+              "SES 009",
+              "'Special' Boy",
+              "Silver-Tongue Shirogane",
+              "The Great Takeru-dini",
+              "Chop-kun",
+              "Six-Pack Shirogane",
+              "The Cafete"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31932-5OxcwZ1kpNhJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31932-5OxcwZ1kpNhJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/31932"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 31935,
+          "name": {
+            "first": "Kei",
+            "last": "Ayamine",
+            "native": "彩峰慧",
+            "alternative": [
+              "Yakisoba",
+              "Quiet Wolf",
+              "Valkyrie 12",
+              "UN-20704",
+              "Bandit 01",
+              "Oberon Four",
+              "Kami-sama",
+              "God",
+              "Ayamine the Unaffected"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31935-9C3Hq77XQHws.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31935-9C3Hq77XQHws.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31935"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 32570,
+          "name": {
+            "first": "Marimo",
+            "last": "Jinguuji",
+            "native": "神宮司まりも",
+            "alternative": [
+              "Mad Dog",
+              "Death",
+              "Shinigami",
+              "Hepatica",
+              "Commander",
+              "Demon Sergeant",
+              "The Sergeant from Hell",
+              "Instructor Jinguuji",
+              "Mori Mari",
+              "Jewel Sorceress",
+              "Blade 1",
+              "UN-20700",
+              "Wardog 1"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32570-8e7bpgz45qzQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b32570-8e7bpgz45qzQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/32570"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 32569,
+          "name": {
+            "first": "Yuuko",
+            "last": "Kouzuki",
+            "native": "香月夕呼",
+            "alternative": [
+              "Sensei",
+              "Professor Kouzuki",
+              "XO",
+              "Vixen of Yokohama",
+              "The Holy Mother",
+              "Doctor Kouzuki",
+              "The Power-Hungry Physicist",
+              "Dr. Evening",
+              "Stone-Cold Yuuko-sensei",
+              "Santa"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32569-vA7te2nf8GGj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b32569-vA7te2nf8GGj.png"
+          },
+          "siteUrl": "https://anilist.co/character/32569"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 31934,
+          "name": {
+            "first": "Chizuru",
+            "last": "Sakaki",
+            "native": "榊千鶴",
+            "alternative": [
+              "Class Rep",
+              "Iinchou",
+              "Camellia Crane",
+              "Valkyrie 7",
+              "UN-20701",
+              "Bandit 04",
+              "Oberon Five",
+              "Chizuko Sakakibara",
+              "Squad Leader Overlord",
+              "Dog of the System",
+              "Daddy's Little Princess",
+              "The Evil Magistrate",
+              "The Human Calculator",
+              "Flight Commander",
+              "Commander Sakaki"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31934-NGr1JIAjKMAg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31934-NGr1JIAjKMAg.png"
+          },
+          "siteUrl": "https://anilist.co/character/31934"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 918,
+          "name": {
+            "first": "Akane",
+            "last": "Suzumiya",
+            "native": "涼宮茜",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b918-wHLQbmou9v7K.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b918-wHLQbmou9v7K.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/918"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 31936,
+          "name": {
+            "first": "Miki",
+            "last": "Tamase",
+            "native": "珠瀬壬姫",
+            "alternative": [
+              "Tama",
+              "Ambassador of the Animal Kingdom",
+              "Almeria",
+              "Master Tama",
+              "Little Soldier",
+              "Squad Leader",
+              "Valkyrie 9",
+              "UN-20705",
+              "Oberon Seven"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31936-8hiRTXOxv864.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31936-8hiRTXOxv864.png"
+          },
+          "siteUrl": "https://anilist.co/character/31936"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67135,
+          "name": {
+            "first": "Mana",
+            "last": "Tsukuyomi",
+            "native": "月詠真那",
+            "alternative": [
+              "Bloody Red",
+              "Moon Leader",
+              "Mana-Mana",
+              "Crest 2",
+              "IRG-1901",
+              "Crimson Guardian",
+              "Lieutenant",
+              "Chamberlain"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67135-JLN4ascffjaG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67135-JLN4ascffjaG.png"
+          },
+          "siteUrl": "https://anilist.co/character/67135"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31937,
+          "name": {
+            "first": "Mikoto",
+            "last": "Yoroi",
+            "native": "鎧衣美琴",
+            "alternative": [
+              "鎧衣尊人",
+              "Iroiyo Tokomi (色代常美)",
+              "Gaia",
+              "Messenger of Gaia",
+              "Laid Back",
+              "Survivalist Extraordinare",
+              "He-koto",
+              "She-koto",
+              "Valkyrie 8",
+              "UN-20703",
+              "Oberon One"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31937-pctzPHZimXnF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31937-pctzPHZimXnF.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31937"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 245041,
+          "name": {
+            "first": "Sakon",
+            "last": "Yoroi",
+            "native": "鎧衣左近",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245041-jR5hr32I7wZ5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b245041-jR5hr32I7wZ5.png"
+          },
+          "siteUrl": "https://anilist.co/character/245041"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247273,
+          "name": {
+            "first": "Tatsumi",
+            "last": "Kamiyo",
+            "native": "神代巽",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247273-5Gc4tIVVLgY0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247273-5Gc4tIVVLgY0.png"
+          },
+          "siteUrl": "https://anilist.co/character/247273"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 234814,
+          "name": {
+            "first": "Haruko",
+            "last": "Kashiwagi",
+            "native": "柏木晴子",
+            "alternative": [
+              "Haru",
+              "BIg Sis",
+              "Valkyrie 6",
+              "Versatile",
+              "DJ Haru. K",
+              "Oberon Six"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b234814-4vuqbr6x4m1z.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b234814-4vuqbr6x4m1z.png"
+          },
+          "siteUrl": "https://anilist.co/character/234814"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247269,
+          "name": {
+            "first": "Yukino",
+            "last": "Tomoe",
+            "native": "巴雪乃",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247269-JPGsOJiHdhT3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247269-JPGsOJiHdhT3.png"
+          },
+          "siteUrl": "https://anilist.co/character/247269"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247272,
+          "name": {
+            "first": "Genjousai",
+            "last": "Tamase",
+            "native": "珠瀬玄丞斎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247272-0gygrZx1U0H1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247272-0gygrZx1U0H1.png"
+          },
+          "siteUrl": "https://anilist.co/character/247272"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 203531,
+          "name": {
+            "first": "Naoya",
+            "last": "Sagiri",
+            "native": "沙霧尚哉",
+            "alternative": [
+              "Captain Sagiri",
+              "Doctor"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b203531-SxFDZDPSgD5U.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b203531-SxFDZDPSgD5U.png"
+          },
+          "siteUrl": "https://anilist.co/character/203531"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247268,
+          "name": {
+            "first": "Minagi",
+            "last": "Ebisu",
+            "native": "戎美凪",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247268-wJMsrlmP9TU9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247268-wJMsrlmP9TU9.png"
+          },
+          "siteUrl": "https://anilist.co/character/247268"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 294192,
+          "name": {
+            "first": "Sachiko",
+            "last": "Sakaki",
+            "native": "榊千祥子",
+            "alternative": [
+              "Chizuru's Mother",
+              "千鶴の母"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294192-S8amYPkNrvHH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294192-S8amYPkNrvHH.png"
+          },
+          "siteUrl": "https://anilist.co/character/294192"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 294193,
+          "name": {
+            "first": "Kawazoe",
+            "last": null,
+            "native": "川副",
+            "alternative": [
+              "Zoe-san",
+              "ゾエさん"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294193-ywFdJJoVrwAB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294193-ywFdJJoVrwAB.png"
+          },
+          "siteUrl": "https://anilist.co/character/294193"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 294194,
+          "name": {
+            "first": "Tsukiji",
+            "last": null,
+            "native": "築地",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294194-1YwfS7GcqZFK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294194-1YwfS7GcqZFK.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/294194"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 294195,
+          "name": {
+            "first": "Fukumen no Otoko 2",
+            "last": null,
+            "native": "覆面の男2",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294195-kZOJM841m6PH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294195-kZOJM841m6PH.png"
+          },
+          "siteUrl": "https://anilist.co/character/294195"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 294196,
+          "name": {
+            "first": "Takeru",
+            "last": null,
+            "native": "武",
+            "alternative": [
+              "Inu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294196-u7eIQP7GB7dV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294196-u7eIQP7GB7dV.png"
+          },
+          "siteUrl": "https://anilist.co/character/294196"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 294197,
+          "name": {
+            "first": "Fukumen no Otoko 1",
+            "last": null,
+            "native": "覆面の男1",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294197-Wc1T8UjQUBDB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294197-Wc1T8UjQUBDB.png"
+          },
+          "siteUrl": "https://anilist.co/character/294197"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 294198,
+          "name": {
+            "first": "Raiden",
+            "last": "Mitsurugi",
+            "native": "御剣 雷電",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294198-qOFHTOIVM5E6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294198-qOFHTOIVM5E6.png"
+          },
+          "siteUrl": "https://anilist.co/character/294198"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Art",
+        "node": {
+          "id": 98092,
+          "name": {
+            "first": "Ukyou",
+            "last": "Kodachi",
+            "native": "小太刀右京"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98092-49numFELbVQO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98092-49numFELbVQO.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/u_kodachi)",
+          "siteUrl": "https://anilist.co/staff/98092"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 112889,
+          "name": {
+            "first": "",
+            "last": "Age",
+            "native": "âge"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/17889.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/17889.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/112889"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 113101,
+          "name": {
+            "first": "Kouki",
+            "last": "Yoshimune",
+            "native": "吉宗鋼紀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/113101-IRzwi5L7UAOv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/113101-IRzwi5L7UAOv.jpg"
+          },
+          "description": "Representative director of âge at ACID Co., Ltd. and one of the founding members of doujin circle \"relic\" (now: âge). He's the creator of the successful visual novel Kimi ga Nozomu Eien, Muv-Luv and Muv-Luv Alternative. He also did mechanical design for the Muv-Luv franchise and wrote other side-stories related. His real name is Yoshida Hirohiko.",
+          "siteUrl": "https://anilist.co/staff/113101"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 26753,
+      "rank": 88,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 2003,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 187269,
+          "rating": 1,
+          "media": {
+            "id": 34208,
+            "title": {
+              "native": "マブラヴ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30671,
+            "title": {
+              "native": "To LOVEる -とらぶる-"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 272757,
+          "rating": 1,
+          "media": {
+            "id": 34208,
+            "title": {
+              "native": "マブラヴ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30789,
+            "title": {
+              "native": "フルメタル・パニック！"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 6
+      },
+      {
+        "score": 30,
+        "amount": 8
+      },
+      {
+        "score": 40,
+        "amount": 16
+      },
+      {
+        "score": 50,
+        "amount": 14
+      },
+      {
+        "score": 60,
+        "amount": 29
+      },
+      {
+        "score": 70,
+        "amount": 23
+      },
+      {
+        "score": 80,
+        "amount": 18
+      },
+      {
+        "score": 90,
+        "amount": 5
+      },
+      {
+        "score": 100,
+        "amount": 9
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 63
+      },
+      {
+        "status": "PLANNING",
+        "amount": 534
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 171
+      },
+      {
+        "status": "DROPPED",
+        "amount": 19
+      },
+      {
+        "status": "PAUSED",
+        "amount": 29
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/34208",
+  "modNotes": null
+}

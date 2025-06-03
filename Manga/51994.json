@@ -1,0 +1,603 @@
+{
+  "id": 51994,
+  "idMal": 21994,
+  "title": {
+    "native": "トランスフォーマー スターゲート戦役",
+    "romaji": "Transformers: The Battle of Star Gate",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Near the end of the 20th century, the Transformers form an alliance with the humans. Together they start to develop a large transportation gate named \"Trigger\" as a symbol of amicability. However, the Decepticons have their eyes on the gate, and so does somebody else. <br>\n(Source: Transformers Wiki)",
+  "startDate": {
+    "year": 2003,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 4,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747137841,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21994.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21994.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/21994.jpg",
+    "color": "#e44328"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Transformers: The Stargate Battles",
+    "Transformer Stargate Sen'eki"
+  ],
+  "averageScore": null,
+  "meanScore": 64,
+  "popularity": 42,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2268,
+          "title": {
+            "native": "戦え!超ロボット生命体トランスフォーマー"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 2265,
+          "title": {
+            "native": "トランスフォーマー　ザ・ムービー"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 2284,
+          "title": {
+            "native": "トランスフォーマー・カーロボット"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 48236,
+          "title": {
+            "native": "キスぷれ"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 4241,
+          "name": {
+            "first": "Ironhide",
+            "last": null,
+            "native": "アイアンハイド",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4241-pRcsC2F5kCaH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4241-pRcsC2F5kCaH.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4241"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 8501,
+          "name": {
+            "first": "Rodimus",
+            "last": "Prime",
+            "native": "ロディマスコンボイ",
+            "alternative": [
+              "Rodimus Convoy",
+              "Hot Rod"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8501-68D1nsm9UhS4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8501-68D1nsm9UhS4.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8501"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 9522,
+          "name": {
+            "first": "Sunstreaker",
+            "last": null,
+            "native": "サンストリーカー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9522.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9522.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9522"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2409,
+          "name": {
+            "first": "Convoy",
+            "last": "",
+            "native": "コンボイ",
+            "alternative": [
+              "Optimus Prime (オプティマスプライム)",
+              "Orion Pax (オライオン・パックス)",
+              "Star Convoy (スターコンボイ)",
+              "Battle Convoy (バトルコンボイ)",
+              "Super Convoy (スーパーコンボイ)",
+              "Supreme Commander (総司令官)",
+              "G1 Convoy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2409-Fvnig8dLG91S.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2409-Fvnig8dLG91S.png"
+          },
+          "siteUrl": "https://anilist.co/character/2409"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 33057,
+          "name": {
+            "first": "Twincast",
+            "last": null,
+            "native": "ツインキャスト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/33057"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3920,
+          "name": {
+            "first": "Megatron",
+            "last": null,
+            "native": "メガトロン",
+            "alternative": [
+              "Emperor of Destruction (破壊大帝)",
+              "G1 Megatron"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3920-7QomG8QuqJzm.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3920-7QomG8QuqJzm.png"
+          },
+          "siteUrl": "https://anilist.co/character/3920"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 4239,
+          "name": {
+            "first": "Soundwave",
+            "last": null,
+            "native": "サウンドウェーブ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4239-JdLQVTwwxmA3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4239-JdLQVTwwxmA3.png"
+          },
+          "siteUrl": "https://anilist.co/character/4239"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3913,
+          "name": {
+            "first": "Starscream",
+            "last": null,
+            "native": "スタースクリーム",
+            "alternative": [
+              "Screamer",
+              "Air Commander"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3913-lZglt3rU137u.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3913-lZglt3rU137u.png"
+          },
+          "siteUrl": "https://anilist.co/character/3913"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 9526,
+          "name": {
+            "first": "Jazz",
+            "last": null,
+            "native": "マイスター",
+            "alternative": [
+              "Meister"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9526-cmQUUsrJyGld.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9526-cmQUUsrJyGld.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9526"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 3921,
+          "name": {
+            "first": "Bumble",
+            "last": null,
+            "native": "バンブル",
+            "alternative": [
+              "Bumblebee (バンブルビー )"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3921-Ta7OrLiEHlh1.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3921-Ta7OrLiEHlh1.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3921"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 10886,
+          "name": {
+            "first": "Tracks",
+            "last": null,
+            "native": "トラックス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10886.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10886.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10886"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 15640,
+          "name": {
+            "first": "Galvatron",
+            "last": null,
+            "native": "ガルバトロン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15640-cYMfiu6USRbu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15640-cYMfiu6USRbu.png"
+          },
+          "siteUrl": "https://anilist.co/character/15640"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 15604,
+          "name": {
+            "first": "Thundercracker",
+            "last": null,
+            "native": "サンダークラッカー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15604.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15604.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15604"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 33302,
+          "name": {
+            "first": "Sixshot",
+            "last": null,
+            "native": "シックスショット",
+            "alternative": [
+              "Ninja Consultant Sixshot"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b33302-xCnDGoLd490L.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b33302-xCnDGoLd490L.png"
+          },
+          "siteUrl": "https://anilist.co/character/33302"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 322528,
+          "name": {
+            "first": "Makoto",
+            "last": null,
+            "native": "真",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322528-CTAHeSFYQOmz.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b322528-CTAHeSFYQOmz.png"
+          },
+          "siteUrl": "https://anilist.co/character/322528"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 322529,
+          "name": {
+            "first": "Dr. Adle",
+            "last": "",
+            "native": "アドル",
+            "alternative": [
+              "Felix Adle"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322529-Q9zJQnEyF40R.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b322529-Q9zJQnEyF40R.png"
+          },
+          "siteUrl": "https://anilist.co/character/322529"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 322530,
+          "name": {
+            "first": "Katua",
+            "last": "Adle",
+            "native": "カチュア・アドル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322530-WWwvnMa6AyzY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b322530-WWwvnMa6AyzY.png"
+          },
+          "siteUrl": "https://anilist.co/character/322530"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 322535,
+          "name": {
+            "first": "Trov",
+            "last": null,
+            "native": "トロフ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322535-YMuVlodublAN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b322535-YMuVlodublAN.png"
+          },
+          "siteUrl": "https://anilist.co/character/322535"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 322532,
+          "name": {
+            "first": "Flegg",
+            "last": null,
+            "native": "フレッグ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322532-fjb7pqp7O3Bt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b322532-fjb7pqp7O3Bt.png"
+          },
+          "siteUrl": "https://anilist.co/character/322532"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 322534,
+          "name": {
+            "first": "Anya",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322534-x8bbowxEtvEk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b322534-x8bbowxEtvEk.png"
+          },
+          "siteUrl": "https://anilist.co/character/322534"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 322531,
+          "name": {
+            "first": "C-X",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322531-k5vZcUUh2CyS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b322531-k5vZcUUh2CyS.png"
+          },
+          "siteUrl": "https://anilist.co/character/322531"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 104604,
+          "name": {
+            "first": "Naoto",
+            "last": "Tsushima",
+            "native": "津島直人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104604-EPMdpUjTegRw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104604-EPMdpUjTegRw.png"
+          },
+          "description": "[Twitter](https://twitter.com/naototsushima) | [Pixiv](https://www.pixiv.net/en/users/763853) | [Wiki (jp)](https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%B3%B6%E7%9B%B4%E4%BA%BA)",
+          "siteUrl": "https://anilist.co/staff/104604"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 1
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 2
+      },
+      {
+        "status": "PLANNING",
+        "amount": 20
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 19
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/51994",
+  "modNotes": null
+}

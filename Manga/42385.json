@@ -1,0 +1,318 @@
+{
+  "id": 42385,
+  "idMal": 12385,
+  "title": {
+    "native": "ALEXANDRITE",
+    "romaji": "ALEXANDRITE",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "This story is a spin-off of Minako Narita's <i>Cipher</i>, with Siva's friend Alex Levine as the main character. Ever since Alex was young, he has harbored a complex about his extremely pretty face. People are always comparing him to a girl, so to combat this image, he has thrown himself into practicing martial arts. One day, though, he is scouted by someone to become a fashion model, and thus begins Alex's tale of growth and romance!\n",
+  "startDate": {
+    "year": 1991,
+    "month": 2,
+    "day": 23
+  },
+  "endDate": {
+    "year": 1994,
+    "month": 9,
+    "day": 24
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 35,
+  "volumes": 7,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748875769,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42385-QNF7W3P8RZAD.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42385-QNF7W3P8RZAD.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx42385-QNF7W3P8RZAD.png",
+    "color": "#ff781a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "synonyms": [
+    "アレクザンドライト"
+  ],
+  "averageScore": null,
+  "meanScore": 69,
+  "popularity": 356,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 53,
+      "name": "Shoujo",
+      "description": "Target demographic is teenage and young adult females.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 198,
+      "name": "Foreign",
+      "description": "Partly or completely set in a country outside the country of origin.",
+      "category": "Setting-Scene",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 410,
+      "name": "Fashion",
+      "description": "Centers around the fashion industry.",
+      "category": "Theme-Arts",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 30,
+      "name": "Martial Arts",
+      "description": "Centers around the use of traditional hand-to-hand combat.",
+      "category": "Theme-Action",
+      "rank": 30,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 30624,
+          "title": {
+            "native": "CIPHER"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 37258,
+          "name": {
+            "first": "Jake",
+            "last": "Lang",
+            "native": "ジェイク・ラング",
+            "alternative": [
+              "Jake Rang",
+              "Siva",
+              "Shiva (シヴァ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b37258-ttdrJa82ym5z.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b37258-ttdrJa82ym5z.png"
+          },
+          "siteUrl": "https://anilist.co/character/37258"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 37257,
+          "name": {
+            "first": "Alexandrite",
+            "last": "Levine",
+            "native": null,
+            "alternative": [
+              "Alex",
+              "Xandra"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b37257-TaMS2m8AAPAo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b37257-TaMS2m8AAPAo.png"
+          },
+          "siteUrl": "https://anilist.co/character/37257"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 28621,
+          "name": {
+            "first": "Anise",
+            "last": "Murphy",
+            "native": "アニス・マーフィ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b28621-mHZSd1Qlvwzx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b28621-mHZSd1Qlvwzx.png"
+          },
+          "siteUrl": "https://anilist.co/character/28621"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 130342,
+          "name": {
+            "first": "Roy",
+            "last": "Lang",
+            "native": "ロイ・ラング",
+            "alternative": [
+              "Roy Rang",
+              "Cipher (サイファ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130342-iNkbMFXuqpsu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130342-iNkbMFXuqpsu.png"
+          },
+          "siteUrl": "https://anilist.co/character/130342"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97547,
+          "name": {
+            "first": "Minako",
+            "last": "Narita",
+            "native": "成田美名子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97547-gqJbIIOSzm1V.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97547-gqJbIIOSzm1V.jpg"
+          },
+          "description": "Debuted in 1977 with \"Invitation to a Star\" in the girls' manga magazine \"Hana to Yume\". Her best-known works are \"Alien Street\" and \"Cipher\". Acclaimed for her precise and intricate drawings and \"watermark,\" a collection of her pictures. Her works deal mostly with human relationships, life, ideals, friendship, etc. Currently, \"Hana Yori mo Hana no Gotoku,\" a manga series featuring a young Noh performer, runs in the bimonthly magazine \"Melody\".",
+          "siteUrl": "https://anilist.co/staff/97547"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 15156,
+      "url": "https://manga-park.com/title/2066",
+      "site": "Manga Park"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 24462,
+      "rank": 35,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 1991,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 6
+      },
+      {
+        "score": 60,
+        "amount": 6
+      },
+      {
+        "score": 70,
+        "amount": 7
+      },
+      {
+        "score": 80,
+        "amount": 13
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 11
+      },
+      {
+        "status": "PLANNING",
+        "amount": 270
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 65
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 4
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/42385",
+  "modNotes": null
+}

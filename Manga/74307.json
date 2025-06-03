@@ -1,0 +1,989 @@
+{
+  "id": 74307,
+  "idMal": 44307,
+  "title": {
+    "native": "かくかくしかじか",
+    "romaji": "Kakukaku Shikajika",
+    "english": "Blank Canvas: My So-Called Artist's Journey"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "High schooler Akiko has big plans to become a popular mangaka before she even graduates, but she needs to get much better at drawing if she ever wants to reach her goal. Looking for an easy fix, she signs up for an art class, thinking all her problems will soon be solved. She’s in for a surprise: her new instructor is a sword-wielding taskmaster who doesn’t care about manga one bit. But maybe this unconventional art teacher is just what she needs to realize her dreams!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<i>Notes:<br>\n- Kakukaku Shikajika is an autobiography detailing the life of author Akiko Higashimura.<br>\n- The manga won the Grand Prize at the 8th Manga Taisho Award in 2015.</i>",
+  "startDate": {
+    "year": 2011,
+    "month": 9,
+    "day": 28
+  },
+  "endDate": {
+    "year": 2015,
+    "month": 1,
+    "day": 28
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 34,
+  "volumes": 5,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748874538,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx74307-femphzZGNGYA.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74307-femphzZGNGYA.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx74307-femphzZGNGYA.png",
+    "color": "#d6e45d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/74307-0nqM7yoyjc5R.jpg",
+  "genres": [
+    "Drama",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Trait pour trait, dessine et tais-toi !",
+    "DISEGNA!",
+    "Vẽ vời vẩn vơ"
+  ],
+  "averageScore": 83,
+  "meanScore": 84,
+  "popularity": 12509,
+  "favourites": 791,
+  "tags": [
+    {
+      "id": 118,
+      "name": "Drawing",
+      "description": "Centers around the art of drawing, including manga and doujinshi.",
+      "category": "Theme-Arts",
+      "rank": 100,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 102,
+      "name": "Coming of Age",
+      "description": "Centers around a character's transition from childhood to adulthood.",
+      "category": "Theme-Drama",
+      "rank": 98,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 97,
+      "name": "Otaku Culture",
+      "description": "Centers around the culture of a fanatical fan-base.",
+      "category": "Theme-Other",
+      "rank": 90,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 165,
+      "name": "Teacher",
+      "description": "Protagonist is an educator, usually in a school setting.",
+      "category": "Cast-Traits",
+      "rank": 85,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 519,
+      "name": "Autobiographical",
+      "description": "Real stories and anecdotes written by the author about their own life.",
+      "category": "Theme-Other",
+      "rank": 84,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 27,
+      "name": "Josei",
+      "description": "Target demographic is adult females.",
+      "category": "Demographic",
+      "rank": 83,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 81,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 80,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 1337,
+      "name": "Non-fiction",
+      "description": "A work that provides information regarding a real world topic and does not focus on an imaginary narrative.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 404,
+      "name": "College",
+      "description": "Partly or completely set in a college or university.",
+      "category": "Setting-Scene",
+      "rank": 77,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 153,
+      "name": "Time Skip",
+      "description": "Features a gap in time used to advance the story.",
+      "category": "Setting-Time",
+      "rank": 72,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 144,
+      "name": "Meta",
+      "description": "Features fourth wall-breaking references to itself or genre tropes.",
+      "category": "Theme-Other",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 145,
+      "name": "Work",
+      "description": "Centers around the activities of a certain occupation.",
+      "category": "Setting-Scene",
+      "rank": 68,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 394,
+      "name": "Writing",
+      "description": "Centers around the profession of writing books or novels.",
+      "category": "Theme-Arts",
+      "rank": 65,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 109,
+      "name": "Primarily Adult Cast",
+      "description": "Main cast is mostly composed of characters above a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 62,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 250,
+      "name": "Rural",
+      "description": "Partly or completely set in the countryside.",
+      "category": "Setting-Scene",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 43,
+      "name": "Swordplay",
+      "description": "Prominently features the use of swords in combat.",
+      "category": "Theme-Action",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 391,
+      "name": "Philosophy",
+      "description": "Relating or devoted to the study of the fundamental nature of knowledge, reality, and existence.",
+      "category": "Theme-Other",
+      "rank": 56,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 140,
+      "name": "Educational",
+      "description": "Primary aim is to educate the audience.",
+      "category": "Theme-Other",
+      "rank": 53,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 176,
+      "name": "Mopeds",
+      "description": "Prominently features mopeds.",
+      "category": "Theme-Other-Vehicle",
+      "rank": 48,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": []
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 120797,
+          "name": {
+            "first": "Akiko",
+            "last": "Hayashi",
+            "native": "林明子",
+            "alternative": [
+              "Higashimura Akiko (東村アキコ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120797-qCPYM0kV9Zxs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120797-qCPYM0kV9Zxs.png"
+          },
+          "siteUrl": "https://anilist.co/character/120797"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 120798,
+          "name": {
+            "first": "Kenzou",
+            "last": "Hidaka",
+            "native": "日高健三",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120798-syYeP3pyYEcI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120798-syYeP3pyYEcI.png"
+          },
+          "siteUrl": "https://anilist.co/character/120798"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 327259,
+          "name": {
+            "first": "Futami",
+            "last": null,
+            "native": "二見",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327259-NMdZ5bpUvCol.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b327259-NMdZ5bpUvCol.png"
+          },
+          "siteUrl": "https://anilist.co/character/327259"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 99186,
+          "name": {
+            "first": "Akiko",
+            "last": "Higashimura",
+            "native": "東村アキコ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99186-ZaiqXkulsmyS.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99186-ZaiqXkulsmyS.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/higashimura_a)\n\nHigashimura debuted in the Japanese seinen manga magazine Weekly Morning. She has been nominated twice for the Manga Taishō. Her younger brother is the mangaka [Takuma Morishige](https://anilist.co/staff/108154). \n\nShe was married to the actor [Ikkan](https://anilist.co/staff/137396/) between 2004 to 2008. Then she remarried in 2013 to the fashion designer Satoshi Andou, but divorced him in 2017. ",
+          "siteUrl": "https://anilist.co/staff/99186"
+        }
+      },
+      {
+        "role": "Translator (English)",
+        "node": {
+          "id": 214600,
+          "name": {
+            "first": "Jenny",
+            "last": "McKeon",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n214600-tuYNAK1W3AXu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n214600-tuYNAK1W3AXu.png"
+          },
+          "description": "[Official Website](https://www.jlmkart.com/) | [Twitter](https://twitter.com/jennichijou) | [Instagram](https://www.instagram.com/jlmkart/)\n\nJenny McKeon is an artist and translator based in Western MA.\n\nHer comic work has been featured in anthologies such as Dirty Diamonds, Restless Minds, Planetside, and 1001 Knights; her personal projects include books and minicomics such as Life in Translation, Japanese Journal, and ABC: Anime Boston Confidential.\n\nAs a freelance Japanese to English translator, Jenny primarily works on manga and light novels for Seven Seas, Vertical, and Yen Press. She has a BA in Japanese and linguistics from UMass Amherst.\n\n(Source: JLMKart)",
+          "siteUrl": "https://anilist.co/staff/214600"
+        }
+      },
+      {
+        "role": "Translator (French)",
+        "node": {
+          "id": 216143,
+          "name": {
+            "first": "Miyako",
+            "last": "Slocombe",
+            "native": "スロコンブみやこ"
+          },
+          "language": "FRENCH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n216143-XndQiglvad3Y.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n216143-XndQiglvad3Y.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/miyakoslocombe)\n\nA Japanese-French translator and interpreter, Miyako Slocombe has a double nationality French-Japanese and currently resides in France. She won the Konishi Prize in 2021 for her French translation of Akiko Higashimura's Tokyo Tarareba Girls.",
+          "siteUrl": "https://anilist.co/staff/216143"
+        }
+      },
+      {
+        "role": "Translator (Vietnamese)",
+        "node": {
+          "id": 267598,
+          "name": {
+            "first": "Miro",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/267598"
+        }
+      },
+      {
+        "role": "Lettering (English)",
+        "node": {
+          "id": 219558,
+          "name": {
+            "first": "Lys",
+            "last": "Blakeslee",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n219558-QEL04YRiS57z.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n219558-QEL04YRiS57z.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/219558"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 91955,
+      "url": "https://sevenseasentertainment.com/series/blank-canvas-my-so-called-artists-journey-kakukaku-shikajika/",
+      "site": "Seven Seas Entertainment"
+    },
+    {
+      "id": 117751,
+      "url": "https://rimacomiplus.jp/cocohana/episodes/6068202f541af/",
+      "site": "Rimacomi Plus"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 23362,
+      "rank": 121,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": null,
+      "season": null,
+      "allTime": true,
+      "context": "highest rated all time"
+    },
+    {
+      "id": 28169,
+      "rank": 4,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2011,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 28286,
+      "rank": 21,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 2011,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 4429,
+          "rating": 25,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 39711,
+            "title": {
+              "native": "バクマン。"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 10943,
+          "rating": 98,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 107237,
+            "title": {
+              "native": "ブルーピリオド"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 12894,
+          "rating": 0,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 110104,
+            "title": {
+              "native": "線は、僕を描く"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 12896,
+          "rating": 3,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 41558,
+            "title": {
+              "native": "幻覚ピカソ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 12898,
+          "rating": 8,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 87466,
+            "title": {
+              "native": "アルテ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 26378,
+          "rating": 4,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 43419,
+            "title": {
+              "native": "劇画漂流"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 29595,
+          "rating": 19,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 87459,
+            "title": {
+              "native": "さびしすぎてレズ風俗に行きましたレポ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 49090,
+          "rating": 14,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 47904,
+            "title": {
+              "native": "海月姫"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 91406,
+          "rating": 20,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 136807,
+            "title": {
+              "native": "ルックバック"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 98061,
+          "rating": 5,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 45536,
+            "title": {
+              "native": "少女・ネム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 109371,
+          "rating": -2,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 105151,
+            "title": {
+              "native": "酔うと化け物になる父がつらい"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 109498,
+          "rating": 7,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 102043,
+            "title": {
+              "native": "メタモルフォーゼの縁側"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 120817,
+          "rating": 0,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 105488,
+            "title": {
+              "native": "ボクの一生はゲゲゲの楽園だ マンガ水木しげる自叙伝"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 120819,
+          "rating": 2,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 109038,
+            "title": {
+              "native": "ひねもすのたり日記"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 120821,
+          "rating": 1,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 72043,
+            "title": {
+              "native": "まんが道"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 123827,
+          "rating": -1,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 85749,
+            "title": {
+              "native": "冴えない彼女の育てかた 恋するメトロノーム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 126487,
+          "rating": 1,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 107818,
+            "title": {
+              "native": "マッシュ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 145522,
+          "rating": 0,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 90236,
+            "title": {
+              "native": "ロジック"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 145524,
+          "rating": 0,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 97603,
+            "title": {
+              "native": "かくしごと"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 177854,
+          "rating": 0,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 132668,
+            "title": {
+              "native": "最後の秘境 東京藝大:天才たちのカオスな日常"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 208323,
+          "rating": 1,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 164465,
+            "title": {
+              "native": "まるさんかくしかく"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 217769,
+          "rating": 3,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 32895,
+            "title": {
+              "native": "ピアノの森"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 219163,
+          "rating": 5,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 137614,
+            "title": {
+              "native": "海が走るエンドロール"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 275837,
+          "rating": 4,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 178222,
+            "title": {
+              "native": "ファヴェーラの漫画家"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 277789,
+          "rating": 2,
+          "media": {
+            "id": 74307,
+            "title": {
+              "native": "かくかくしかじか"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 139087,
+            "title": {
+              "native": "ミューズの真髄"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 14
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 10
+      },
+      {
+        "score": 40,
+        "amount": 22
+      },
+      {
+        "score": 50,
+        "amount": 50
+      },
+      {
+        "score": 60,
+        "amount": 100
+      },
+      {
+        "score": 70,
+        "amount": 316
+      },
+      {
+        "score": 80,
+        "amount": 652
+      },
+      {
+        "score": 90,
+        "amount": 1019
+      },
+      {
+        "score": 100,
+        "amount": 680
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 654
+      },
+      {
+        "status": "PLANNING",
+        "amount": 7857
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 3610
+      },
+      {
+        "status": "DROPPED",
+        "amount": 148
+      },
+      {
+        "status": "PAUSED",
+        "amount": 240
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/74307",
+  "modNotes": null
+}

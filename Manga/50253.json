@@ -1,0 +1,264 @@
+{
+  "id": 50253,
+  "idMal": 20253,
+  "title": {
+    "native": "星のカービィ",
+    "romaji": "Hoshi no Kirby",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A hilarious series featuring Kirby and his friends. Each chapter features different hilarious story lines, and not an adventure type of manga.\n",
+  "startDate": {
+    "year": 1996,
+    "month": 3,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2010,
+    "month": 10,
+    "day": 28
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": 12,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747829811,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx50253-OOqzyCmYnGdT.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50253-OOqzyCmYnGdT.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx50253-OOqzyCmYnGdT.png",
+    "color": "#f1bb43"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Hoshi no Kaabi",
+    "Kirby",
+    "Kirby of the Stars"
+  ],
+  "averageScore": null,
+  "meanScore": 70,
+  "popularity": 100,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 81917,
+          "title": {
+            "native": "星のカービィ デデデでプププなものがたり"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 117679,
+          "title": {
+            "native": "星のカービィ ウルトラスーパープププヒーロー"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 120619,
+          "title": {
+            "native": "星のカービィ！もーれつプププアワー！"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 117291,
+          "title": {
+            "native": "星のカービィ 今日もまんまる日記!"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 145133,
+          "title": {
+            "native": "星のカービィ 〜まんぷくプププファンタジー〜"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 159412,
+          "title": {
+            "native": "星のカービィ プププヒーロー"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 170613,
+          "title": {
+            "native": "タッチ!カービィ4コマギャグバトル"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5473,
+          "name": {
+            "first": "Dedede Daiou",
+            "last": null,
+            "native": "デデデ大王",
+            "alternative": [
+              "King Dedede"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5473-Wsi4svMqk7Sh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5473-Wsi4svMqk7Sh.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5473"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5471,
+          "name": {
+            "first": "Kirby",
+            "last": "",
+            "native": "カービィ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5471-eeOkCyhMvIHH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5471-eeOkCyhMvIHH.png"
+          },
+          "siteUrl": "https://anilist.co/character/5471"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 117439,
+          "name": {
+            "first": "Yoshiko",
+            "last": "Sakuma",
+            "native": "良子さくま"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/117439"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 1
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 10
+      },
+      {
+        "status": "PLANNING",
+        "amount": 63
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 19
+      },
+      {
+        "status": "DROPPED",
+        "amount": 4
+      },
+      {
+        "status": "PAUSED",
+        "amount": 4
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/50253",
+  "modNotes": null
+}

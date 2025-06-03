@@ -1,0 +1,506 @@
+{
+  "id": 119771,
+  "idMal": 34358,
+  "title": {
+    "native": "お茶犬 ~「ほっ」とものがたり~",
+    "romaji": "Ocha-ken: Hotto Monogatari",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "The second Ocha-ken series features the Tea Dogs interacting with humans.",
+  "startDate": {
+    "year": 2006,
+    "month": 1,
+    "day": 16
+  },
+  "endDate": {
+    "year": 2006,
+    "month": 4,
+    "day": 10
+  },
+  "season": "WINTER",
+  "seasonYear": 2006,
+  "seasonInt": 61,
+  "episodes": 13,
+  "duration": 3,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748687816,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119771-IoIRHw4W8LR8.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119771-IoIRHw4W8LR8.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b119771-IoIRHw4W8LR8.jpg",
+    "color": "#e4c950"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 48,
+  "popularity": 168,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2233,
+          "title": {
+            "native": "お茶犬～ちょこっとものがたり～"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 119772,
+          "title": {
+            "native": "お茶犬 ~緑[リョク]っとものがたり~"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 29039,
+          "name": {
+            "first": "Earl",
+            "last": null,
+            "native": "アール",
+            "alternative": [
+              "Aru"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29039.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29039.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29039"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 29047,
+          "name": {
+            "first": "Ryoku",
+            "last": null,
+            "native": "リョク",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b29047-U5wnxjWvGuGD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b29047-U5wnxjWvGuGD.png"
+          },
+          "siteUrl": "https://anilist.co/character/29047"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 29043,
+          "name": {
+            "first": "Min",
+            "last": null,
+            "native": "ミン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29043.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29043.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29043"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 29048,
+          "name": {
+            "first": "Sakura",
+            "last": null,
+            "native": "サクラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29048.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29048.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29048"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 29044,
+          "name": {
+            "first": "Muha",
+            "last": null,
+            "native": "ムハ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29044.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29044.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29044"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 29040,
+          "name": {
+            "first": "Cafe",
+            "last": null,
+            "native": "カフェ",
+            "alternative": [
+              "Café"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29040.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29040.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29040"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 29041,
+          "name": {
+            "first": "Hana",
+            "last": null,
+            "native": "ハナ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29041.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29041.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29041"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 29042,
+          "name": {
+            "first": "Chai",
+            "last": null,
+            "native": "チャイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29042.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29042.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29042"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 29046,
+          "name": {
+            "first": "Ron",
+            "last": null,
+            "native": "ロン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29046.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29046.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29046"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 29045,
+          "name": {
+            "first": "Ran",
+            "last": null,
+            "native": "ラン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29045.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29045.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29045"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Script",
+        "node": {
+          "id": 142734,
+          "name": {
+            "first": "Hisato",
+            "last": "Shimoda",
+            "native": "下田久人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "**Shimoda Hisato (下田久人)** is a Japanese episode director, storyboard artist and production manager.",
+          "siteUrl": "https://anilist.co/staff/142734"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 117491,
+          "name": {
+            "first": "Shinya",
+            "last": "Umemura",
+            "native": "梅村真也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117491-A6FNZD8rdcli.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n117491-A6FNZD8rdcli.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/writer_u)",
+          "siteUrl": "https://anilist.co/staff/117491"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 158119,
+          "name": {
+            "first": "Kenichi",
+            "last": "Takashima",
+            "native": "高島健一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/158119"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 95683,
+          "name": {
+            "first": "Mitsuko",
+            "last": "Horie",
+            "native": "堀江美都子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95683-MajreqecBQpy.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95683-MajreqecBQpy.jpg"
+          },
+          "description": "__Height:__ 153 cm\n\nMitsuko Horie is a Japanese seiyuu and singer. She was born in Yamato, Kanagawa, Japan. She is most known to American anime fans as the voice of Sailor Galaxia, but in all Latin-America she is know as the \"Candy-Candy\" opening theme singer.",
+          "siteUrl": "https://anilist.co/staff/95683"
+        }
+      },
+      {
+        "role": "Key Animation (OP)",
+        "node": {
+          "id": 128525,
+          "name": {
+            "first": "Kouji",
+            "last": "Nanke",
+            "native": "南家こうじ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128525-GM7b5zbG2duH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n128525-GM7b5zbG2duH.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/南家こうじ)",
+          "siteUrl": "https://anilist.co/staff/128525"
+        }
+      },
+      {
+        "role": "Key Animation (ED)",
+        "node": {
+          "id": 128525,
+          "name": {
+            "first": "Kouji",
+            "last": "Nanke",
+            "native": "南家こうじ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128525-GM7b5zbG2duH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n128525-GM7b5zbG2duH.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/南家こうじ)",
+          "siteUrl": "https://anilist.co/staff/128525"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 285,
+          "name": "Four Some",
+          "siteUrl": "https://anilist.co/studio/285"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 12394,
+      "rank": 19,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2006,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 12412,
+      "rank": 4,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2006,
+      "season": "WINTER",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 10
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 6
+      },
+      {
+        "score": 60,
+        "amount": 9
+      },
+      {
+        "score": 70,
+        "amount": 5
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 14
+      },
+      {
+        "status": "PLANNING",
+        "amount": 59
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 59
+      },
+      {
+        "status": "DROPPED",
+        "amount": 25
+      },
+      {
+        "status": "PAUSED",
+        "amount": 11
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/119771",
+  "modNotes": null
+}

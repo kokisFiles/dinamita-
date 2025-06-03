@@ -1,0 +1,225 @@
+{
+  "id": 133521,
+  "idMal": 49125,
+  "title": {
+    "native": "큐비스타",
+    "romaji": "Cubistar",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": null,
+  "status": "NOT_YET_RELEASED",
+  "description": "Davi and her new friends become Cubistars. Magical guardians bestowed with powers of the stars to maintain the balance between good and evil.<br><br>\n\n(Source: iABC, translated)",
+  "startDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 26,
+  "duration": 11,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "KR",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": {
+    "id": "udQm7i0IkBU",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/udQm7i0IkBU/hqdefault.jpg"
+  },
+  "updatedAt": 1748686419,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133521-eYaACUUf91SZ.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133521-eYaACUUf91SZ.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx133521-eYaACUUf91SZ.png",
+    "color": "#1a6bd6"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/133521-0ydajKLnQRYo.jpg",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Mahou Shoujo"
+  ],
+  "synonyms": [
+    "キュービスター"
+  ],
+  "averageScore": null,
+  "meanScore": null,
+  "popularity": 435,
+  "favourites": 3,
+  "tags": [
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": []
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 222749,
+          "name": {
+            "first": "Davi",
+            "last": null,
+            "native": "다비",
+            "alternative": [
+              "Dabi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b222749-WSECBXRjnjhA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b222749-WSECBXRjnjhA.png"
+          },
+          "siteUrl": "https://anilist.co/character/222749"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 249945,
+          "name": {
+            "first": "Camaira",
+            "last": null,
+            "native": "카마이라",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/249945"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 222746,
+          "name": {
+            "first": "Ho-Jin",
+            "last": "Lee",
+            "native": "이호진"
+          },
+          "language": "KOREAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n222746-g9VOKhKKyCpd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n222746-g9VOKhKKyCpd.png"
+          },
+          "description": "__[Linkedin](https://kr.linkedin.com/in/hojin-lee-441156a3)__",
+          "siteUrl": "https://anilist.co/staff/222746"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 222746,
+          "name": {
+            "first": "Ho-Jin",
+            "last": "Lee",
+            "native": "이호진"
+          },
+          "language": "KOREAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n222746-g9VOKhKKyCpd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n222746-g9VOKhKKyCpd.png"
+          },
+          "description": "__[Linkedin](https://kr.linkedin.com/in/hojin-lee-441156a3)__",
+          "siteUrl": "https://anilist.co/staff/222746"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6829,
+          "name": "studio TNT",
+          "siteUrl": "https://anilist.co/studio/6829"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 4
+      },
+      {
+        "status": "PLANNING",
+        "amount": 419
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 3
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/133521",
+  "modNotes": null
+}

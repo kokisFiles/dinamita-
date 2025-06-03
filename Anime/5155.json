@@ -1,0 +1,926 @@
+{
+  "id": 5155,
+  "idMal": 5155,
+  "title": {
+    "native": "源氏物語千年紀Genji",
+    "romaji": "Genji Monogatari Sennenki",
+    "english": "Millennium Old Journal: Tale of Genji"
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "Born from a much loved, but lowly ranked concubine, Genji Hikaru is called the Shining Prince and is the beloved second son of the Emperor. Although he cannot be an heir to the throne of his father, Genji spends his life surrounded by every pleasure and love. And yet, his one longing in love is something that even the power of an Emperor can never give him.\n<br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 2009,
+    "month": 1,
+    "day": 16
+  },
+  "endDate": {
+    "year": 2009,
+    "month": 3,
+    "day": 27
+  },
+  "season": "WINTER",
+  "seasonYear": 2009,
+  "seasonInt": 91,
+  "episodes": 11,
+  "duration": 22,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748884142,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5155-ukSvlhxCChRO.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5155-ukSvlhxCChRO.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5155-ukSvlhxCChRO.png",
+    "color": null
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5155-WoOtTjQn0dUj.jpg",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "synonyms": [
+    "Genji Monogatari Sennenki Genji",
+    "The Tale of Genji"
+  ],
+  "averageScore": 65,
+  "meanScore": 67,
+  "popularity": 3332,
+  "favourites": 14,
+  "tags": [
+    {
+      "id": 25,
+      "name": "Historical",
+      "description": "Partly or completely set during a real period of world history.",
+      "category": "Setting-Time",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 227,
+      "name": "Classic Literature",
+      "description": "Discusses or adapts a work of classic world literature.",
+      "category": "Theme-Arts",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 109,
+      "name": "Primarily Adult Cast",
+      "description": "Main cast is mostly composed of characters above a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 65,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 60,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 3488,
+          "title": {
+            "native": "源氏物語"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17915,
+          "name": {
+            "first": "To no Chujo",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17915.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17915.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17915"
+        },
+        "voiceActors": [
+          {
+            "id": 95002,
+            "name": {
+              "first": "Tomokazu",
+              "last": "Sugita",
+              "native": "杉田智和"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95002-nDIvHaynicEg.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95002"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 42506,
+          "name": {
+            "first": "Murasaki",
+            "last": null,
+            "native": "紫",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/42506.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42506.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42506"
+        },
+        "voiceActors": [
+          {
+            "id": 95054,
+            "name": {
+              "first": "Aya",
+              "last": "Endou",
+              "native": "遠藤綾"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95054-8VgnlGK5QX2A.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95054"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42327,
+          "name": {
+            "first": "Yuugao",
+            "last": null,
+            "native": "夕顔",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/42327.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42327.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42327"
+        },
+        "voiceActors": [
+          {
+            "id": 95070,
+            "name": {
+              "first": "Ami",
+              "last": "Koshimizu",
+              "native": "小清水亜美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95070-klkIfKz1VItS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95070"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 17881,
+          "name": {
+            "first": "Hikaru",
+            "last": "Genji",
+            "native": "光源氏",
+            "alternative": [
+              "Hikaru-kimi",
+              "Genji no kimi",
+              "Shining Prince"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17881.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17881.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17881"
+        },
+        "voiceActors": [
+          {
+            "id": 95079,
+            "name": {
+              "first": "Takahiro",
+              "last": "Sakurai",
+              "native": "櫻井孝宏"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95079-MdbWTLxPUvFf.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95079"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24220,
+          "name": {
+            "first": "Rokujo no Miyasudokoro",
+            "last": null,
+            "native": null,
+            "alternative": [
+              "Rokujo Haven"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24220.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24220.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24220"
+        },
+        "voiceActors": [
+          {
+            "id": 95354,
+            "name": {
+              "first": "Hiromi",
+              "last": "Tsuru",
+              "native": "鶴ひろみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/95354-Ds90swc530OH.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/95354-Ds90swc530OH.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95354"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24219,
+          "name": {
+            "first": "Fujitsubo no Miya",
+            "last": null,
+            "native": "藤壺",
+            "alternative": [
+              "Princess Fujitsubo",
+              "Fujitsubo no Nyogo",
+              "Lady of the Wisteria Pavillion"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24219.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24219.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24219"
+        },
+        "voiceActors": [
+          {
+            "id": 95448,
+            "name": {
+              "first": "Sakiko",
+              "last": "Tamagawa",
+              "native": "玉川砂記子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95448-aZ4oV0K3UJf2.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95448-aZ4oV0K3UJf2.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95448"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24248,
+          "name": {
+            "first": "Aoi no Ue",
+            "last": null,
+            "native": "葵の上",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24248.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24248.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24248"
+        },
+        "voiceActors": [
+          {
+            "id": 102069,
+            "name": {
+              "first": "Eriko",
+              "last": "Hirata",
+              "native": "平田絵里子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102069-L6rWTL9BH34b.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102069-L6rWTL9BH34b.png"
+            },
+            "siteUrl": "https://anilist.co/staff/102069"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 313168,
+          "name": {
+            "first": "Oborozukiyo",
+            "last": null,
+            "native": "朧月夜",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b313168-d3RVbZaS6cDi.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b313168-d3RVbZaS6cDi.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/313168"
+        },
+        "voiceActors": [
+          {
+            "id": 95209,
+            "name": {
+              "first": "Miki",
+              "last": "Nagasawa",
+              "native": "長沢美樹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95209-9RHgLGkMrska.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95209-9RHgLGkMrska.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95209"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 98083,
+          "name": {
+            "first": "Murasaki",
+            "last": "Shikibu",
+            "native": "紫式部"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98083-PCdI814KpigM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98083-PCdI814KpigM.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/紫式部) | [Wiki (en)](https://en.wikipedia.org/wiki/Murasaki_Shikibu)\n\nMurasaki Shikibu (973 or 978 - 1014 or 1031) was a Japanese novelist, poet and lady-in-waiting at the Imperial court during the Heian period. She is best known as the author of The Tale of Genji, widely considered to be one of the world's first novels, written in Japanese between about 1000 and 1012.\n\nMurasaki wrote The Diary of Lady Murasaki, a volume of poetry, and The Tale of Genji. Within a decade of its completion, Genji was distributed throughout the provinces; within a century it was recognized as a classic of Japanese literature and had become a subject of scholarly criticism. Early in the 20th century her work was translated; a six-volume English translation was completed in 1933. Scholars continue to recognize the importance of her work, which reflects Heian court society at its peak. Since the 13th century her works have been illustrated by Japanese artists and well-known ukiyo-e woodblock masters.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/98083"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100393,
+          "name": {
+            "first": "Osamu",
+            "last": "Dezaki",
+            "native": "出﨑統"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100393-lYIq2h5QrcQ4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100393-lYIq2h5QrcQ4.png"
+          },
+          "description": "Was a fan of Le Mans.\n\nDezaki was known for his distinct visual style, which makes use of split screen, stark lighting, extensive use of dutch angle, and pastel freeze frames that he called \"postcard memories\", which may be his most famous trademark.\n\nYounger brother of director [Satoshi Dezaki](https://anilist.co/staff/111371). He is married to the mangaka [Rikako Kugayama](https://anilist.co/staff/304119).\n\nNon-anime staff credits:~!\nAnimation director for \"The Visionaries\" (US cartoon)\nAnimation for \"Rainbow Brite\" (US cartoon)!~",
+          "siteUrl": "https://anilist.co/staff/100393"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 101628,
+          "name": {
+            "first": "Kousuke",
+            "last": "Atari",
+            "native": "中孝介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6628.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6628.jpg"
+          },
+          "description": "Hometown: Amami-Ōshima, Kagoshima, Japan   Performs in the 'shima-uta' folk style particular to Amami-Ōshima region.",
+          "siteUrl": "https://anilist.co/staff/101628"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 103064,
+          "name": {
+            "first": "Akio",
+            "last": "Sugino",
+            "native": "杉野昭夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103064-Nc8fgYOcBCSY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103064-Nc8fgYOcBCSY.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/杉野昭夫) | [Wiki (en)](https://en.wikipedia.org/wiki/Akio_Sugino)\n\nA veteran animator with a career spanning over 50 years.\n\nNoted for his work on shows like [Ashita no Joe](https://anilist.co/anime/2402/), [Ace wo Nerae!](https://anilist.co/anime/311/), [Nobody's Boy: Remi](https://anilist.co/anime/2828/) and [Treasure Island](https://anilist.co/anime/2618/).",
+          "siteUrl": "https://anilist.co/staff/103064"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 103064,
+          "name": {
+            "first": "Akio",
+            "last": "Sugino",
+            "native": "杉野昭夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103064-Nc8fgYOcBCSY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103064-Nc8fgYOcBCSY.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/杉野昭夫) | [Wiki (en)](https://en.wikipedia.org/wiki/Akio_Sugino)\n\nA veteran animator with a career spanning over 50 years.\n\nNoted for his work on shows like [Ashita no Joe](https://anilist.co/anime/2402/), [Ace wo Nerae!](https://anilist.co/anime/311/), [Nobody's Boy: Remi](https://anilist.co/anime/2828/) and [Treasure Island](https://anilist.co/anime/2618/).",
+          "siteUrl": "https://anilist.co/staff/103064"
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (OP)",
+        "node": {
+          "id": 103213,
+          "name": {
+            "first": "Ringo",
+            "last": "Shiina",
+            "native": "椎名林檎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103213-6A7DXneY5CfB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103213-6A7DXneY5CfB.png"
+          },
+          "description": "Ringo Shiina is a Japanese singer, songwriter and musician. She is also the founder and frontwoman of the band Tokyo Jihen.\n\nShe describes herself as \"Shinjuku-kei Jisaku-Jien-ya (新宿系自作自演屋, a Shinjuku-style writer-performer)\". She was ranked number 36 in a list of Japan's top 100 musicians compiled by HMV in 2003.\n\nShiina is an accomplished musician and songwriter who writes music spanning numerous genres. She is well known for her eccentricity, rolling her \"r\"s and creating promotional music videos with striking visuals. She mainly plays rhythm guitar, but she plays other musical instruments. During live shows she sometimes plays the piano and occasionally plays the bass guitar. While recording, she sometimes plays piano and drums, and occasionally uses uncommon musical instruments such as a melodica and a shamisen.",
+          "siteUrl": "https://anilist.co/staff/103213"
+        }
+      },
+      {
+        "role": "Theme Song Lyrics (OP)",
+        "node": {
+          "id": 103213,
+          "name": {
+            "first": "Ringo",
+            "last": "Shiina",
+            "native": "椎名林檎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103213-6A7DXneY5CfB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103213-6A7DXneY5CfB.png"
+          },
+          "description": "Ringo Shiina is a Japanese singer, songwriter and musician. She is also the founder and frontwoman of the band Tokyo Jihen.\n\nShe describes herself as \"Shinjuku-kei Jisaku-Jien-ya (新宿系自作自演屋, a Shinjuku-style writer-performer)\". She was ranked number 36 in a list of Japan's top 100 musicians compiled by HMV in 2003.\n\nShiina is an accomplished musician and songwriter who writes music spanning numerous genres. She is well known for her eccentricity, rolling her \"r\"s and creating promotional music videos with striking visuals. She mainly plays rhythm guitar, but she plays other musical instruments. During live shows she sometimes plays the piano and occasionally plays the bass guitar. While recording, she sometimes plays piano and drums, and occasionally uses uncommon musical instruments such as a melodica and a shamisen.",
+          "siteUrl": "https://anilist.co/staff/103213"
+        }
+      },
+      {
+        "role": "Theme Song Composition (OP)",
+        "node": {
+          "id": 103213,
+          "name": {
+            "first": "Ringo",
+            "last": "Shiina",
+            "native": "椎名林檎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103213-6A7DXneY5CfB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103213-6A7DXneY5CfB.png"
+          },
+          "description": "Ringo Shiina is a Japanese singer, songwriter and musician. She is also the founder and frontwoman of the band Tokyo Jihen.\n\nShe describes herself as \"Shinjuku-kei Jisaku-Jien-ya (新宿系自作自演屋, a Shinjuku-style writer-performer)\". She was ranked number 36 in a list of Japan's top 100 musicians compiled by HMV in 2003.\n\nShiina is an accomplished musician and songwriter who writes music spanning numerous genres. She is well known for her eccentricity, rolling her \"r\"s and creating promotional music videos with striking visuals. She mainly plays rhythm guitar, but she plays other musical instruments. During live shows she sometimes plays the piano and occasionally plays the bass guitar. While recording, she sometimes plays piano and drums, and occasionally uses uncommon musical instruments such as a melodica and a shamisen.",
+          "siteUrl": "https://anilist.co/staff/103213"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 103741,
+          "name": {
+            "first": "",
+            "last": "S.E.N.S.",
+            "native": "センス"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8741.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8741.jpg"
+          },
+          "description": "S.E.N.S. is a Japanese new age instrumental group formed in 1988, originally with two members. The name stands for \"Sound, Earth, Nature, and Spirit\" based on their spiritual policy.  They have produced many musical scores for TV dramas, documentaries, and movies in Japan, also making it into the anime scene with the score for xxxHolic.",
+          "siteUrl": "https://anilist.co/staff/103741"
+        }
+      },
+      {
+        "role": "Producer  (Fuji TV)",
+        "node": {
+          "id": 116607,
+          "name": {
+            "first": "Kouji",
+            "last": "Yamamoto",
+            "native": "山本幸治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116607-iP59boGkCuRu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116607-iP59boGkCuRu.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/42231474)\n\nThe founder and representative director of [Twin Engine](https://anilist.co/studio/6199/). Originally a producer for [Fuji TV](https://anilist.co/studio/169/), where he produced numerous anime for the Noitamina programming block.",
+          "siteUrl": "https://anilist.co/staff/116607"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 106400,
+          "name": {
+            "first": "",
+            "last": "PUFFY",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11400.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11400.jpg"
+          },
+          "description": "Puffy (romanized as PUFFY in Japan) or Puffy AmiYumi is a Japanese rock duo that is currently signed with Sony Music Japan. The group continues to go by the moniker of PUFFY in Japan, but in order to avoid legal naming conflicts with Sean Combs, it has adopted the name Puffy AmiYumi outside of Japan. They sing in Japanese and English.  [Ami Oonuki](https://anilist.co/staff/101448/), whose nickname is Jane, and [Yumi Yoshimura](https://anilist.co/staff/101449), nicknamed Sue, were scouted by Sony-affiliated talent agencies and put together in the mid-1990s. The band gained mainstream success in Japan during 1998, following the release of their Jet album and tour in support of it.  Their first release \"Asia no Junshin\" sold a million records and their success has continued with several more full-length releases (totaling 14 million sales in Japan). ",
+          "siteUrl": "https://anilist.co/staff/106400"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 200,
+          "name": "Tezuka Productions",
+          "siteUrl": "https://anilist.co/studio/200"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 73,
+          "name": "TMS Entertainment",
+          "siteUrl": "https://anilist.co/studio/73"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 51688,
+      "url": "https://www.retrocrush.tv/series/027198s/genji-monogatari-sennenki",
+      "site": "RetroCrush"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 4742,
+      "rank": 73,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2009,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 4863,
+      "rank": 94,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 2009,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 4886,
+      "rank": 17,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2009,
+      "season": "WINTER",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 4912,
+      "rank": 21,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 2009,
+      "season": "WINTER",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2701,
+          "rating": 4,
+          "media": {
+            "id": 5155,
+            "title": {
+              "native": "源氏物語千年紀Genji"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 13349,
+            "title": {
+              "native": "超訳百人一首 うた恋い。"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 11651,
+          "rating": 1,
+          "media": {
+            "id": 5155,
+            "title": {
+              "native": "源氏物語千年紀Genji"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 14181,
+            "title": {
+              "native": "お江戸はねむれない"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 11706,
+          "rating": 1,
+          "media": {
+            "id": 5155,
+            "title": {
+              "native": "源氏物語千年紀Genji"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 10800,
+            "title": {
+              "native": "ちはやふる"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 12035,
+          "rating": 6,
+          "media": {
+            "id": 5155,
+            "title": {
+              "native": "源氏物語千年紀Genji"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 16664,
+            "title": {
+              "native": "かぐや姫の物語"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 101093,
+          "rating": 10,
+          "media": {
+            "id": 5155,
+            "title": {
+              "native": "源氏物語千年紀Genji"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 138714,
+            "title": {
+              "native": "平家物語"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 175570,
+          "rating": 1,
+          "media": {
+            "id": 5155,
+            "title": {
+              "native": "源氏物語千年紀Genji"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 7193,
+            "title": {
+              "native": "青い文学シリーズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 196930,
+          "rating": 2,
+          "media": {
+            "id": 5155,
+            "title": {
+              "native": "源氏物語千年紀Genji"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 109928,
+            "title": {
+              "native": "犬王"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 311152,
+          "rating": 1,
+          "media": {
+            "id": 5155,
+            "title": {
+              "native": "源氏物語千年紀Genji"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 338,
+            "title": {
+              "native": "ベルサイユのばら"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 318094,
+          "rating": 1,
+          "media": {
+            "id": 5155,
+            "title": {
+              "native": "源氏物語千年紀Genji"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2800,
+            "title": {
+              "native": "キャンディ・キャンディ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 318106,
+          "rating": 1,
+          "media": {
+            "id": 5155,
+            "title": {
+              "native": "源氏物語千年紀Genji"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2921,
+            "title": {
+              "native": "あしたのジョー２"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 19
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 11
+      },
+      {
+        "score": 40,
+        "amount": 40
+      },
+      {
+        "score": 50,
+        "amount": 71
+      },
+      {
+        "score": 60,
+        "amount": 96
+      },
+      {
+        "score": 70,
+        "amount": 154
+      },
+      {
+        "score": 80,
+        "amount": 117
+      },
+      {
+        "score": 90,
+        "amount": 120
+      },
+      {
+        "score": 100,
+        "amount": 13
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 103
+      },
+      {
+        "status": "PLANNING",
+        "amount": 2198
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 782
+      },
+      {
+        "status": "DROPPED",
+        "amount": 140
+      },
+      {
+        "status": "PAUSED",
+        "amount": 109
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/5155",
+  "modNotes": null
+}

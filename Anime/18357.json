@@ -1,0 +1,381 @@
+{
+  "id": 18357,
+  "idMal": 18357,
+  "title": {
+    "native": "それいけ! アンパンマン とばせ! 希望のハンカチ",
+    "romaji": "Sore Ike! Anpanman: Tobase! Kibou no Handkerchief",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "25th Anpanman movie. Screened simultaneously with <em>Minna de Teasobi: Anpanman to Itazura Obake</em>.",
+  "startDate": {
+    "year": 2013,
+    "month": 7,
+    "day": 6
+  },
+  "endDate": {
+    "year": 2013,
+    "month": 7,
+    "day": 6
+  },
+  "season": "SUMMER",
+  "seasonYear": 2013,
+  "seasonInt": 133,
+  "episodes": 1,
+  "duration": 47,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748800602,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18357.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18357.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/18357.jpg",
+    "color": "#1abbe4"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 57,
+  "popularity": 254,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 476,
+      "name": "Circus",
+      "description": "Prominently features a circus.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1960,
+          "title": {
+            "native": "それいけ!アンパンマン"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31024,
+          "name": {
+            "first": "Dokin-chan",
+            "last": null,
+            "native": "ドキンちゃん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31024.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31024.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31024"
+        },
+        "voiceActors": [
+          {
+            "id": 95354,
+            "name": {
+              "first": "Hiromi",
+              "last": "Tsuru",
+              "native": "鶴ひろみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/95354-Ds90swc530OH.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/95354-Ds90swc530OH.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95354"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31019,
+          "name": {
+            "first": "",
+            "last": "Jam Oji-san",
+            "native": "ジャムおじさん",
+            "alternative": [
+              "Uncle Jam"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31019-s4K9Sgb8LOtC.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31019-s4K9Sgb8LOtC.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31019"
+        },
+        "voiceActors": [
+          {
+            "id": 96247,
+            "name": {
+              "first": "Hiroshi",
+              "last": "Masuoka",
+              "native": "増岡弘"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96247-wKKO6fSfwvPn.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96247-wKKO6fSfwvPn.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96247"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16401,
+          "name": {
+            "first": "Anpanman",
+            "last": null,
+            "native": "アンパンマン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16401.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16401.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16401"
+        },
+        "voiceActors": [
+          {
+            "id": 96271,
+            "name": {
+              "first": "Keiko",
+              "last": "Toda",
+              "native": "戸田恵子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96271-m3jBqqUfSo33.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96271-m3jBqqUfSo33.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96271"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31022,
+          "name": {
+            "first": "Cheese",
+            "last": null,
+            "native": "めいけんチーズ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31022.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31022.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31022"
+        },
+        "voiceActors": [
+          {
+            "id": 95011,
+            "name": {
+              "first": "Kouichi",
+              "last": "Yamadera",
+              "native": "山寺宏一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95011-2RfLzncNyvbR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95011"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 31023,
+          "name": {
+            "first": "Baikinman",
+            "last": null,
+            "native": "ばいきんまん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31023.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31023.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31023"
+        },
+        "voiceActors": [
+          {
+            "id": 95259,
+            "name": {
+              "first": "Ryuusei",
+              "last": "Nakao",
+              "native": "中尾隆聖"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95259-A1sNVqfD2MWp.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95259-A1sNVqfD2MWp.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95259"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 209997,
+          "name": {
+            "first": "Ryuuki",
+            "last": "Hashimoto",
+            "native": "橋本隆希"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n209997-nVtwyu97XkDO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n209997-nVtwyu97XkDO.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/733174574045495296)\n\nAffiliated with [ENGI](https://anilist.co/studio/6292/).",
+          "siteUrl": "https://anilist.co/staff/209997"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 73,
+          "name": "TMS Entertainment",
+          "siteUrl": "https://anilist.co/studio/73"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 17771,
+      "rank": 60,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2013,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 4
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 3
+      },
+      {
+        "score": 50,
+        "amount": 6
+      },
+      {
+        "score": 60,
+        "amount": 9
+      },
+      {
+        "score": 70,
+        "amount": 2
+      },
+      {
+        "score": 80,
+        "amount": 8
+      },
+      {
+        "score": 90,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 10
+      },
+      {
+        "status": "PLANNING",
+        "amount": 132
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 76
+      },
+      {
+        "status": "DROPPED",
+        "amount": 27
+      },
+      {
+        "status": "PAUSED",
+        "amount": 9
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/18357",
+  "modNotes": null
+}

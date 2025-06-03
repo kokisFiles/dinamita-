@@ -1,0 +1,351 @@
+{
+  "id": 101993,
+  "idMal": 81171,
+  "title": {
+    "native": "西の善き魔女外伝",
+    "romaji": "Nishi no Yoki Majo Gaiden",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2007,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": 2007,
+    "month": 12,
+    "day": 10
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "LIGHT_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748950722,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101993-vGElXthU4pTO.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101993-vGElXthU4pTO.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx101993-vGElXthU4pTO.png",
+    "color": "#e4285d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 56,
+  "popularity": 28,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 103,
+      "name": "Politics",
+      "description": "Centers around politics, politicians, or government activities.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 30464,
+          "title": {
+            "native": "西の善き魔女"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 135659,
+          "title": {
+            "native": "西の善き魔女　外伝"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5957,
+          "name": {
+            "first": "Firiel",
+            "last": "Dee",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5957.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5957.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5957"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5959,
+          "name": {
+            "first": "Adele",
+            "last": "Roland",
+            "native": "アデイル·ロウランド",
+            "alternative": [
+              "Adale. Addie",
+              "Evangeline",
+              "Mimi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5959.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5959.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5959"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5958,
+          "name": {
+            "first": "Roux",
+            "last": "Ltskin",
+            "native": null,
+            "alternative": [
+              "Rumpelsti Ltskin",
+              "Rune",
+              "Runette"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5958.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5958.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5958"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5960,
+          "name": {
+            "first": "Eusis",
+            "last": "Roland",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5960.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5960.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5960"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5961,
+          "name": {
+            "first": "Cheviat",
+            "last": "Leandra",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5961.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5961.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5961"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5965,
+          "name": {
+            "first": "Riez",
+            "last": "Liamon",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5965.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5965.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5965"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5963,
+          "name": {
+            "first": "Chrisbart",
+            "last": "Lot",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5963.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5963.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5963"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5964,
+          "name": {
+            "first": "Oset",
+            "last": "Marie",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5964.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5964.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5964"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97431,
+          "name": {
+            "first": "Haruhiko",
+            "last": "Momokawa",
+            "native": "桃川春日子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/97431"
+        }
+      },
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 97430,
+          "name": {
+            "first": "Noriko",
+            "last": "Ogiwara",
+            "native": "荻原規子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97430-uLK3zaljZJUC.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97430-uLK3zaljZJUC.jpg"
+          },
+          "description": "[Blog](http://andante-d.way-nifty.com/blog/)\n\nNoriko Ogiwara was born in 1959. Having read C. S. Lewis' Chronicles of Narnia at a very early age, she decided to become a fantasy writer.\n\nHer first book, Sorairo Magatama won her several awards for children's literature and was translated into English by Cathy Hirano as Dragon Sword and Wind Child; the English version was out-of-print until it was re-released by Viz Media in October 2007. The two sequels, Hakuchou Iden and Usubeni Tennyo, have only been published in Japanese. The re-issuing of Dragon Sword and Wind Child encouraged Viz to publish the next novel in the sequence, Hakuchou Iden, as Mirror Sword and Shadow Prince in May 2011. These three books together are called The Jade Trilogy.\n\nAnother of her works is Nishi no Yoki Majo, a western-styled high fantasy series featuring a girl on the quest of finding out the mysteries surrounding the legends of her country and her friends. Nishi no Yoki Majo has been adapted into a manga series by Haruhiko Momokawa in Comic Blade, and licensed for English publication as The Good Witch of the West.\n\nHer fantasy novel series Red Data Girl was first published in 2008, and was adapted into an anime television series.",
+          "siteUrl": "https://anilist.co/staff/97430"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 1
+      },
+      {
+        "score": 80,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 5
+      },
+      {
+        "status": "PLANNING",
+        "amount": 11
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 11
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/101993",
+  "modNotes": null
+}

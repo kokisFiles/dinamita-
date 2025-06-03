@@ -1,0 +1,453 @@
+{
+  "id": 130249,
+  "idMal": null,
+  "title": {
+    "native": "景色",
+    "romaji": "Keshiki",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Animated music video for Kaf’s song <i>Keshiki</i>. \nThis track is also used as the ending song for <i>Japan Sinks 2020‘</i>s final episode. ",
+  "startDate": {
+    "year": 2020,
+    "month": 7,
+    "day": 22
+  },
+  "endDate": {
+    "year": 2020,
+    "month": 7,
+    "day": 22
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 5,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": {
+    "id": "46HgoDkRCns",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/46HgoDkRCns/hqdefault.jpg"
+  },
+  "updatedAt": 1748773349,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130249-5m8cRhniV5Ad.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130249-5m8cRhniV5Ad.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx130249-5m8cRhniV5Ad.png",
+    "color": "#a1d6ff"
+  },
+  "bannerImage": null,
+  "genres": [],
+  "synonyms": [
+    "Landscape"
+  ],
+  "averageScore": 59,
+  "meanScore": 68,
+  "popularity": 312,
+  "favourites": 6,
+  "tags": [
+    {
+      "id": 1047,
+      "name": "VTuber",
+      "description": "Prominently features a character who is either an actual or fictive VTuber.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 112357,
+          "title": {
+            "native": "日本沈没2020"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 127041,
+          "title": {
+            "native": "物語を君へ。-不可解弐Q1 エンディングアニメーション-"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 199204,
+          "name": {
+            "first": "KAF",
+            "last": null,
+            "native": "花譜",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b199204-0tEz7XYTlHiJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b199204-0tEz7XYTlHiJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/199204"
+        },
+        "voiceActors": [
+          {
+            "id": 168254,
+            "name": {
+              "first": "KAF",
+              "last": null,
+              "native": "花譜"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n168254-qcF89qCGROCy.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n168254-qcF89qCGROCy.png"
+            },
+            "siteUrl": "https://anilist.co/staff/168254"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music Performance",
+        "node": {
+          "id": 168254,
+          "name": {
+            "first": "KAF",
+            "last": null,
+            "native": "花譜"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n168254-qcF89qCGROCy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n168254-qcF89qCGROCy.png"
+          },
+          "description": "__Residency:__ Tokyo, Japan\n\n__[Profile (Kamitsubaki Studio)](http://kamitsubaki.jp/artist/kaf/) | [Twitter](https://twitter.com/virtual_kaf) | [Instagram](https://www.instagram.com/virtual_kaf/) | [YouTube](https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A) | [TikTok](https://www.tiktok.com/@virtual_kaf) | [Spotify](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4)__\n\n__Kaf__ is a virtual Japanese singer affiliated and managed by Kamitsubaki Studio. She has been uploading original songs and covers to YouTube, Instagram, and TikTok since October 2018. All of her original songs were provided by [Iori Kanzaki](https://anilist.co/staff/180461/Iori-Kanzaki) until 2023, and her character designer is [PALOW](https://anilist.co/staff/306406/PALOW).\n",
+          "siteUrl": "https://anilist.co/staff/168254"
+        }
+      },
+      {
+        "role": "Music Arrangement",
+        "node": {
+          "id": 180461,
+          "name": {
+            "first": "Iori",
+            "last": "Kanzaki",
+            "native": "カンザキイオリ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n180461-rKsqyqhtS3QQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n180461-rKsqyqhtS3QQ.jpg"
+          },
+          "description": "**[Website (Kamitsubaki)](https://kanzakiiori.kamitsubaki.jp/) | [Twitter](https://twitter.com/kurogaki0311) | [Instagram](https://www.instagram.com/kurogaki0311) | [YouTube](https://www.youtube.com/channel/UCv1KOiaRusvqOR4BrT9Sh8w) | [TikTok](https://www.tiktok.com/@iori_kanzaki)**\n\n__Introduction:__\n__Iori Kanzaki__ is a Japanese Vocaloid producer, singer-songwriter and vocalist.\n\n__Biography:__\nIn January 2014, he made his debut in Vocaloid-P by posting \"[Hankouki](https://youtu.be/nYcSlZKyAD0)\".\nIn 2017, the song \"[Inochi ni Kiwarete iru.](https://youtu.be/0HYm60Mjm0k)\" was released and has since garnered an impressive 24 million plays as of 2023.\nResponsible for writing, composing and arranging all the original songs of the virtual singer \"[KAF](https://anilist.co/staff/168254)\".\nApril 2019 saw the release of his first album, \"Hakushi,\" which featured a collection of his popular tracks.\nIn February 2020, he unveiled a special box set that seamlessly merged his passion for storytelling with his musical talents. This unique release included the first full-length novel, \"Beast,\" along with the EP \"[Life is Comedy](https://youtu.be/t-Ux4ccMCGE).\"\nIn September 2020, \"Ano Natsu ga Houwa Suru.\", a substantially revised edition of the long novel \"Beast\" initially launched in February, was released by Kawade Shobo.\nIn June 2021, he ventured into full-scale self-vocals.\nFollowing his first one-man live performance, the release of his second album, \"Clumsy Man,\" followed suit.\nThe BOX edition of this release also included his new novel, \"Shin'ai Naru Anata e,\" which was published in November 2021 by Kawade Shobo.\nA manga adaptation, titled \"[Ano Natsu ga Houwa Suru.](https://anilist.co/manga/159516)\", based on his first novel of the same name, commenced serialization in August 2022.\nIn May 2023, after graduating from Kamitsubaki Studio, he launched his own label, Ikuru Shelf, to kickstart his activities.",
+          "siteUrl": "https://anilist.co/staff/180461"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 180461,
+          "name": {
+            "first": "Iori",
+            "last": "Kanzaki",
+            "native": "カンザキイオリ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n180461-rKsqyqhtS3QQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n180461-rKsqyqhtS3QQ.jpg"
+          },
+          "description": "**[Website (Kamitsubaki)](https://kanzakiiori.kamitsubaki.jp/) | [Twitter](https://twitter.com/kurogaki0311) | [Instagram](https://www.instagram.com/kurogaki0311) | [YouTube](https://www.youtube.com/channel/UCv1KOiaRusvqOR4BrT9Sh8w) | [TikTok](https://www.tiktok.com/@iori_kanzaki)**\n\n__Introduction:__\n__Iori Kanzaki__ is a Japanese Vocaloid producer, singer-songwriter and vocalist.\n\n__Biography:__\nIn January 2014, he made his debut in Vocaloid-P by posting \"[Hankouki](https://youtu.be/nYcSlZKyAD0)\".\nIn 2017, the song \"[Inochi ni Kiwarete iru.](https://youtu.be/0HYm60Mjm0k)\" was released and has since garnered an impressive 24 million plays as of 2023.\nResponsible for writing, composing and arranging all the original songs of the virtual singer \"[KAF](https://anilist.co/staff/168254)\".\nApril 2019 saw the release of his first album, \"Hakushi,\" which featured a collection of his popular tracks.\nIn February 2020, he unveiled a special box set that seamlessly merged his passion for storytelling with his musical talents. This unique release included the first full-length novel, \"Beast,\" along with the EP \"[Life is Comedy](https://youtu.be/t-Ux4ccMCGE).\"\nIn September 2020, \"Ano Natsu ga Houwa Suru.\", a substantially revised edition of the long novel \"Beast\" initially launched in February, was released by Kawade Shobo.\nIn June 2021, he ventured into full-scale self-vocals.\nFollowing his first one-man live performance, the release of his second album, \"Clumsy Man,\" followed suit.\nThe BOX edition of this release also included his new novel, \"Shin'ai Naru Anata e,\" which was published in November 2021 by Kawade Shobo.\nA manga adaptation, titled \"[Ano Natsu ga Houwa Suru.](https://anilist.co/manga/159516)\", based on his first novel of the same name, commenced serialization in August 2022.\nIn May 2023, after graduating from Kamitsubaki Studio, he launched his own label, Ikuru Shelf, to kickstart his activities.",
+          "siteUrl": "https://anilist.co/staff/180461"
+        }
+      },
+      {
+        "role": "Animation",
+        "node": {
+          "id": 185393,
+          "name": {
+            "first": "Sonoka",
+            "last": "Kuroiwa",
+            "native": "黒岩園加"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/185393"
+        }
+      },
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 180461,
+          "name": {
+            "first": "Iori",
+            "last": "Kanzaki",
+            "native": "カンザキイオリ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n180461-rKsqyqhtS3QQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n180461-rKsqyqhtS3QQ.jpg"
+          },
+          "description": "**[Website (Kamitsubaki)](https://kanzakiiori.kamitsubaki.jp/) | [Twitter](https://twitter.com/kurogaki0311) | [Instagram](https://www.instagram.com/kurogaki0311) | [YouTube](https://www.youtube.com/channel/UCv1KOiaRusvqOR4BrT9Sh8w) | [TikTok](https://www.tiktok.com/@iori_kanzaki)**\n\n__Introduction:__\n__Iori Kanzaki__ is a Japanese Vocaloid producer, singer-songwriter and vocalist.\n\n__Biography:__\nIn January 2014, he made his debut in Vocaloid-P by posting \"[Hankouki](https://youtu.be/nYcSlZKyAD0)\".\nIn 2017, the song \"[Inochi ni Kiwarete iru.](https://youtu.be/0HYm60Mjm0k)\" was released and has since garnered an impressive 24 million plays as of 2023.\nResponsible for writing, composing and arranging all the original songs of the virtual singer \"[KAF](https://anilist.co/staff/168254)\".\nApril 2019 saw the release of his first album, \"Hakushi,\" which featured a collection of his popular tracks.\nIn February 2020, he unveiled a special box set that seamlessly merged his passion for storytelling with his musical talents. This unique release included the first full-length novel, \"Beast,\" along with the EP \"[Life is Comedy](https://youtu.be/t-Ux4ccMCGE).\"\nIn September 2020, \"Ano Natsu ga Houwa Suru.\", a substantially revised edition of the long novel \"Beast\" initially launched in February, was released by Kawade Shobo.\nIn June 2021, he ventured into full-scale self-vocals.\nFollowing his first one-man live performance, the release of his second album, \"Clumsy Man,\" followed suit.\nThe BOX edition of this release also included his new novel, \"Shin'ai Naru Anata e,\" which was published in November 2021 by Kawade Shobo.\nA manga adaptation, titled \"[Ano Natsu ga Houwa Suru.](https://anilist.co/manga/159516)\", based on his first novel of the same name, commenced serialization in August 2022.\nIn May 2023, after graduating from Kamitsubaki Studio, he launched his own label, Ikuru Shelf, to kickstart his activities.",
+          "siteUrl": "https://anilist.co/staff/180461"
+        }
+      },
+      {
+        "role": "Video Production",
+        "node": {
+          "id": 140554,
+          "name": {
+            "first": "Kenji",
+            "last": "Kawasaki",
+            "native": "川崎健司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n140554-Xb3d1j8dxOEs.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n140554-Xb3d1j8dxOEs.jpg"
+          },
+          "description": "[Website](https://kenji-kawasaki.tumblr.com/works) | [Twitter](https://twitter.com/Knji__k) | [YouTube](https://www.youtube.com/user/kawa6kawa6kawa) | [Artstation](https://www.artstation.com/kenjikawasaki)",
+          "siteUrl": "https://anilist.co/staff/140554"
+        }
+      },
+      {
+        "role": "Photography",
+        "node": {
+          "id": 209116,
+          "name": {
+            "first": "Masanori",
+            "last": "Toba",
+            "native": "戸羽正憲"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Photographer.",
+          "siteUrl": "https://anilist.co/staff/209116"
+        }
+      },
+      {
+        "role": "Photography Assistant",
+        "node": {
+          "id": 209140,
+          "name": {
+            "first": "Jou",
+            "last": "Sakae",
+            "native": "榮穣"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n209140-1QxyNtHJXFB9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n209140-1QxyNtHJXFB9.png"
+          },
+          "description": "__[Twitter](https://twitter.com/thereandbackaga) | [Instagram](https://www.instagram.com/thereandbackaga/)__\n\n__Jou Sakae__ is a Japanese photographer and video producer.",
+          "siteUrl": "https://anilist.co/staff/209140"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 6860,
+          "name": "KAMITSUBAKI RECORD",
+          "siteUrl": "https://anilist.co/studio/6860"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 28875,
+      "url": "https://www.youtube.com/watch?v=46HgoDkRCns",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 62948,
+          "rating": 2,
+          "media": {
+            "id": 130249,
+            "title": {
+              "native": "景色"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 113059,
+            "title": {
+              "native": "はじめましての気持ちを"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 74579,
+          "rating": 1,
+          "media": {
+            "id": 130249,
+            "title": {
+              "native": "景色"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 133132,
+            "title": {
+              "native": "夜明けまで"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 78103,
+          "rating": 1,
+          "media": {
+            "id": 130249,
+            "title": {
+              "native": "景色"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 134060,
+            "title": {
+              "native": "三原色"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 113429,
+          "rating": 1,
+          "media": {
+            "id": 130249,
+            "title": {
+              "native": "景色"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 142260,
+            "title": {
+              "native": "それを世界と言うんだね"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 6
+      },
+      {
+        "score": 50,
+        "amount": 11
+      },
+      {
+        "score": 60,
+        "amount": 19
+      },
+      {
+        "score": 70,
+        "amount": 18
+      },
+      {
+        "score": 80,
+        "amount": 16
+      },
+      {
+        "score": 90,
+        "amount": 19
+      },
+      {
+        "score": 100,
+        "amount": 9
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 7
+      },
+      {
+        "status": "PLANNING",
+        "amount": 77
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 221
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/130249",
+  "modNotes": null
+}

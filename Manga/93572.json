@@ -1,0 +1,728 @@
+{
+  "id": 93572,
+  "idMal": 84341,
+  "title": {
+    "native": "ガールズ＆パンツァー 激闘! マジノ戦ですっ!!",
+    "romaji": "Girls und Panzer: Gekitou! Maginot-sen desu!!",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Side-story taking place between the match against St. Gloriana and the beginning of the Senshadou Nationals. It centers around a training match not shown in the anime, between Ooarai Girls High School and the Maginot Girl's Academy.",
+  "startDate": {
+    "year": 2014,
+    "month": 11,
+    "day": 19
+  },
+  "endDate": {
+    "year": 2015,
+    "month": 8,
+    "day": 19
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 12,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748791475,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx93572-vEK7096QkBix.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93572-vEK7096QkBix.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx93572-vEK7096QkBix.jpg",
+    "color": "#a11a50"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Sports"
+  ],
+  "synonyms": [
+    "Girls und Panzer: Fierce Fight! It's the Maginot Battle!"
+  ],
+  "averageScore": 63,
+  "meanScore": 71,
+  "popularity": 391,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 174,
+      "name": "Tanks",
+      "description": "Prominently features the use of tanks or other armoured vehicles.",
+      "category": "Theme-Other-Vehicle",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 86,
+      "name": "Primarily Female Cast",
+      "description": "Main cast is mostly composed of female characters.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 72223,
+          "title": {
+            "native": "ガールズ & パンツァー"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 255146,
+          "name": {
+            "first": "Éclair",
+            "last": null,
+            "native": "エクレア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b255146-80mRcC2rSDnh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b255146-80mRcC2rSDnh.png"
+          },
+          "siteUrl": "https://anilist.co/character/255146"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67489,
+          "name": {
+            "first": "Kiyomi",
+            "last": "Sugiyama",
+            "native": "杉山清美",
+            "alternative": [
+              "左衛門佐",
+              "Saemonza"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67489-WXupJtFIni43.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67489-WXupJtFIni43.png"
+          },
+          "siteUrl": "https://anilist.co/character/67489"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67485,
+          "name": {
+            "first": "Riko",
+            "last": "Matsumoto",
+            "native": "松本里子",
+            "alternative": [
+              "エルヴィン",
+              "Erwin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67485-yJkJuIZxBDgy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67485-yJkJuIZxBDgy.png"
+          },
+          "siteUrl": "https://anilist.co/character/67485"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62939,
+          "name": {
+            "first": "Miho",
+            "last": "Nishizumi",
+            "native": "西住みほ",
+            "alternative": [
+              "Miporin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62939-WXOAXdfAhHrF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62939-WXOAXdfAhHrF.png"
+          },
+          "siteUrl": "https://anilist.co/character/62939"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67487,
+          "name": {
+            "first": "Takeko",
+            "last": "Nogami",
+            "native": "野上武子",
+            "alternative": [
+              "おりょう",
+              "Oryou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67487-gYTYC9cqgyyP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67487-gYTYC9cqgyyP.png"
+          },
+          "siteUrl": "https://anilist.co/character/67487"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67477,
+          "name": {
+            "first": "Taeko",
+            "last": "Kondou",
+            "native": "近藤妙子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67477-jzyaIsC5MxSI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67477-jzyaIsC5MxSI.png"
+          },
+          "siteUrl": "https://anilist.co/character/67477"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67493,
+          "name": {
+            "first": "Ayumi",
+            "last": "Yamagou",
+            "native": "山郷あゆみ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67493-8J9iEdUHyU00.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67493-8J9iEdUHyU00.png"
+          },
+          "siteUrl": "https://anilist.co/character/67493"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67479,
+          "name": {
+            "first": "Shinobu",
+            "last": "Kawanishi",
+            "native": "河西忍",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67479-nGsMjwqdFzuZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67479-nGsMjwqdFzuZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/67479"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62947,
+          "name": {
+            "first": "Mako",
+            "last": "Reizei",
+            "native": "冷泉麻子",
+            "alternative": [
+              "Remako"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62947-i0EbCOwtyyIG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62947-i0EbCOwtyyIG.png"
+          },
+          "siteUrl": "https://anilist.co/character/62947"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62945,
+          "name": {
+            "first": "Yukari",
+            "last": "Akiyama",
+            "native": "秋山優花里",
+            "alternative": [
+              "Guderian",
+              "Sergeant Oddball"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62945-X9Y608pYoTZK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62945-X9Y608pYoTZK.png"
+          },
+          "siteUrl": "https://anilist.co/character/62945"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67491,
+          "name": {
+            "first": "Azusa",
+            "last": "Sawa",
+            "native": "澤梓",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67491-aa3VFl8rW65C.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67491-aa3VFl8rW65C.png"
+          },
+          "siteUrl": "https://anilist.co/character/67491"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62941,
+          "name": {
+            "first": "Saori",
+            "last": "Takebe",
+            "native": "武部沙織",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62941-zuJumccZ2I1q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62941-zuJumccZ2I1q.png"
+          },
+          "siteUrl": "https://anilist.co/character/62941"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65267,
+          "name": {
+            "first": "Anzu",
+            "last": "Kadotani",
+            "native": "角谷杏",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65267-VIXi60SIleM5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65267-VIXi60SIleM5.png"
+          },
+          "siteUrl": "https://anilist.co/character/65267"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65269,
+          "name": {
+            "first": "Yuzu",
+            "last": "Koyama",
+            "native": "小山柚子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65269-AGGSTvLWhezD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65269-AGGSTvLWhezD.png"
+          },
+          "siteUrl": "https://anilist.co/character/65269"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67481,
+          "name": {
+            "first": "Akebi",
+            "last": "Sasaki",
+            "native": "佐々木あけび",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67481-9DGgtvnD7uBD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67481-9DGgtvnD7uBD.png"
+          },
+          "siteUrl": "https://anilist.co/character/67481"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62943,
+          "name": {
+            "first": "Hana",
+            "last": "Isuzu",
+            "native": "五十鈴華",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62943-eP7QURZkIMzQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62943-eP7QURZkIMzQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/62943"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65271,
+          "name": {
+            "first": "Momo",
+            "last": "Kawashima",
+            "native": "河嶋桃",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65271-NHJbmnkplMVe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65271-NHJbmnkplMVe.png"
+          },
+          "siteUrl": "https://anilist.co/character/65271"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67475,
+          "name": {
+            "first": "Noriko",
+            "last": "Isobe",
+            "native": "磯辺典子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67475-SwSrzkuAaRih.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67475-SwSrzkuAaRih.png"
+          },
+          "siteUrl": "https://anilist.co/character/67475"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67483,
+          "name": {
+            "first": "Takako",
+            "last": "Suzuki",
+            "native": "鈴木貴子",
+            "alternative": [
+              "カエサル",
+              "Caesar"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67483-jiYE2bwyvTPD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67483-jiYE2bwyvTPD.png"
+          },
+          "siteUrl": "https://anilist.co/character/67483"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67495,
+          "name": {
+            "first": "Saki",
+            "last": "Maruyama",
+            "native": "丸山紗希",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67495-rTQzZDudaNel.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67495-rTQzZDudaNel.png"
+          },
+          "siteUrl": "https://anilist.co/character/67495"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67499,
+          "name": {
+            "first": "Yuuki",
+            "last": "Utsugi",
+            "native": "宇津木優季",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67499-fcessuf3zjNw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67499-fcessuf3zjNw.png"
+          },
+          "siteUrl": "https://anilist.co/character/67499"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67501,
+          "name": {
+            "first": "Aya",
+            "last": "Oono",
+            "native": "大野あや",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67501-iVeoZthtOmlf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67501-iVeoZthtOmlf.png"
+          },
+          "siteUrl": "https://anilist.co/character/67501"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67497,
+          "name": {
+            "first": "Karina",
+            "last": "Sakaguchi",
+            "native": "阪口桂利奈",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67497-zzQnylBZ4yv5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67497-zzQnylBZ4yv5.png"
+          },
+          "siteUrl": "https://anilist.co/character/67497"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 257772,
+          "name": {
+            "first": "Fondue",
+            "last": null,
+            "native": "フォンデュ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b257772-CfJDyUxHHqWa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b257772-CfJDyUxHHqWa.png"
+          },
+          "siteUrl": "https://anilist.co/character/257772"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 257774,
+          "name": {
+            "first": "Galette",
+            "last": null,
+            "native": "ガレット",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b257774-sIbOhIYmBPlL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b257774-sIbOhIYmBPlL.png"
+          },
+          "siteUrl": "https://anilist.co/character/257774"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 113645,
+          "name": {
+            "first": "Ryouichi",
+            "last": "Saitaniya",
+            "native": "才谷屋龍一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113645-zZtMZspZSEzw.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n113645-zZtMZspZSEzw.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/xxsaitaniyaxx)\n\nWorked as an assistant in Eureka Seven manga.",
+          "siteUrl": "https://anilist.co/staff/113645"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 162441,
+          "rating": 2,
+          "media": {
+            "id": 93572,
+            "title": {
+              "native": "ガールズ＆パンツァー 激闘! マジノ戦ですっ!!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 92985,
+            "title": {
+              "native": "ガールズ&パンツァー リボンの武者"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 162443,
+          "rating": 1,
+          "media": {
+            "id": 93572,
+            "title": {
+              "native": "ガールズ＆パンツァー 激闘! マジノ戦ですっ!!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 117007,
+            "title": {
+              "native": "ガールズ&パンツァー アバンティ! アンツィオ高校"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 316169,
+          "rating": 2,
+          "media": {
+            "id": 93572,
+            "title": {
+              "native": "ガールズ＆パンツァー 激闘! マジノ戦ですっ!!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 36310,
+            "title": {
+              "native": "咲 -Saki-"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 10
+      },
+      {
+        "score": 60,
+        "amount": 27
+      },
+      {
+        "score": 70,
+        "amount": 56
+      },
+      {
+        "score": 80,
+        "amount": 24
+      },
+      {
+        "score": 90,
+        "amount": 16
+      },
+      {
+        "score": 100,
+        "amount": 9
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 30
+      },
+      {
+        "status": "PLANNING",
+        "amount": 140
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 207
+      },
+      {
+        "status": "DROPPED",
+        "amount": 7
+      },
+      {
+        "status": "PAUSED",
+        "amount": 7
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/93572",
+  "modNotes": null
+}

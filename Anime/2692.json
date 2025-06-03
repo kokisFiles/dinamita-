@@ -1,0 +1,959 @@
+{
+  "id": 2692,
+  "idMal": 2692,
+  "title": {
+    "native": "ＣＢキャラ永井豪ワールド",
+    "romaji": "CB chara Go Nagai World",
+    "english": "CB Character Go Nagai World"
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "Various characters from Go Nagai works including Devil Man, Mazinger, and Violence Jack, become trapped in a parody world where they all be come super deformed. They get trapped in this mishmash, fighting each other and are trying to figure a way back to their own world.",
+  "startDate": {
+    "year": 1991,
+    "month": 2,
+    "day": 21
+  },
+  "endDate": {
+    "year": 1991,
+    "month": 6,
+    "day": 27
+  },
+  "season": "WINTER",
+  "seasonYear": 1991,
+  "seasonInt": 911,
+  "episodes": 3,
+  "duration": 45,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748884898,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2692.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2692.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2692.jpg",
+    "color": "#e45035"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Chibichiara - Nagai Go Sekai",
+    "Chibi World",
+    "El loco mundo de Go Nagai"
+  ],
+  "averageScore": 63,
+  "meanScore": 66,
+  "popularity": 1298,
+  "favourites": 19,
+  "tags": [
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 158,
+      "name": "Crossover",
+      "description": "Centers around the placement of two or more otherwise discrete fictional characters, settings, or universes into the context of a single story.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 31442,
+          "title": {
+            "native": "バイオレンスジャック"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 2252,
+          "title": {
+            "native": "デビルマン"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 2253,
+          "title": {
+            "native": "マジンガーＺ"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21217,
+          "name": {
+            "first": "Baron Ashura",
+            "last": null,
+            "native": "あしゅら男爵",
+            "alternative": [
+              "Devileen"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21217.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21217.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21217"
+        },
+        "voiceActors": [
+          {
+            "id": 95011,
+            "name": {
+              "first": "Kouichi",
+              "last": "Yamadera",
+              "native": "山寺宏一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95011-2RfLzncNyvbR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95011"
+          },
+          {
+            "id": 95957,
+            "name": {
+              "first": "Saeko",
+              "last": "Shimazu",
+              "native": "島津冴子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95957-Jjkttrgr4ux9.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95957-Jjkttrgr4ux9.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95957"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7372,
+          "name": {
+            "first": "Kouji",
+            "last": "Kabuto",
+            "native": "兜甲児",
+            "alternative": [
+              "Tommy Davis",
+              "Lance"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7372.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7372.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7372"
+        },
+        "voiceActors": [
+          {
+            "id": 95067,
+            "name": {
+              "first": "Kappei",
+              "last": "Yamaguchi",
+              "native": "山口勝平"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95067-hqIpNxMfAuN2.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95067-hqIpNxMfAuN2.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95067"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 20201,
+          "name": {
+            "first": "Sayaka",
+            "last": "Yumi",
+            "native": "弓さやか",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b20201-5K7xg28hCkTu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b20201-5K7xg28hCkTu.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/20201"
+        },
+        "voiceActors": [
+          {
+            "id": 95128,
+            "name": {
+              "first": "Ikue",
+              "last": "Ootani",
+              "native": "大谷育江"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95128-9YWpE1d2U8Sj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95128"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7973,
+          "name": {
+            "first": "Devilman",
+            "last": null,
+            "native": "デビルマン",
+            "alternative": [
+              "Amon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7973-xqPod2UbMcmH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7973-xqPod2UbMcmH.png"
+          },
+          "siteUrl": "https://anilist.co/character/7973"
+        },
+        "voiceActors": [
+          {
+            "id": 95137,
+            "name": {
+              "first": "Shou",
+              "last": "Hayami",
+              "native": "速水奨"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95137-2Q5l3Br9G7sk.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95137-2Q5l3Br9G7sk.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95137"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2456,
+          "name": {
+            "first": "Akira",
+            "last": "Fudou",
+            "native": "不動明",
+            "alternative": [
+              "Devilman"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2456-rTjIXMLPHTu2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2456-rTjIXMLPHTu2.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2456"
+        },
+        "voiceActors": [
+          {
+            "id": 95137,
+            "name": {
+              "first": "Shou",
+              "last": "Hayami",
+              "native": "速水奨"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95137-2Q5l3Br9G7sk.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95137-2Q5l3Br9G7sk.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95137"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 18592,
+          "name": {
+            "first": "Jinmen",
+            "last": null,
+            "native": "ジンメン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18592-bJ0uhY8d7VLT.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b18592-bJ0uhY8d7VLT.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/18592"
+        },
+        "voiceActors": [
+          {
+            "id": 95142,
+            "name": {
+              "first": "Takeshi",
+              "last": "Aono",
+              "native": "青野武"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95142-73E1XmGOOmhG.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95142-73E1XmGOOmhG.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95142"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9911,
+          "name": {
+            "first": "Violence Jack",
+            "last": null,
+            "native": "バイオレンスジャック",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9911.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9911.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9911"
+        },
+        "voiceActors": [
+          {
+            "id": 95357,
+            "name": {
+              "first": "Unshou",
+              "last": "Ishizuka",
+              "native": "石塚運昇"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95357-umndcceko65h.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95357"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 18590,
+          "name": {
+            "first": "Silene",
+            "last": null,
+            "native": "シレーヌ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18590-uSU2YjJWxWgJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b18590-uSU2YjJWxWgJ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/18590"
+        },
+        "voiceActors": [
+          {
+            "id": 95362,
+            "name": {
+              "first": "Yoshiko",
+              "last": "Sakakibara",
+              "native": "榊原良子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95362-OdfKlvHimh3b.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95362-OdfKlvHimh3b.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95362"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 18593,
+          "name": {
+            "first": "Zenon",
+            "last": null,
+            "native": "ゼノン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/18593-dXelacQtcb7V.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/18593-dXelacQtcb7V.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/18593"
+        },
+        "voiceActors": [
+          {
+            "id": 95726,
+            "name": {
+              "first": "Shouzou",
+              "last": "Iizuka",
+              "native": "飯塚昭三"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95726-SddF7dYKZshB.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95726-SddF7dYKZshB.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95726"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7966,
+          "name": {
+            "first": "Psycho Jenny",
+            "last": null,
+            "native": "サイコジェニー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7966-nh5ZbkAioYaz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7966-nh5ZbkAioYaz.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7966"
+        },
+        "voiceActors": [
+          {
+            "id": 95874,
+            "name": {
+              "first": "Yuuji",
+              "last": "Mitsuya",
+              "native": "三ツ矢雄二"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95874-grd6XzrNhfoP.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95874-grd6XzrNhfoP.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95874"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4092,
+          "name": {
+            "first": "Ryo",
+            "last": "Asuka",
+            "native": "飛鳥了",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4092-63yxC7cCrWke.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4092-63yxC7cCrWke.png"
+          },
+          "siteUrl": "https://anilist.co/character/4092"
+        },
+        "voiceActors": [
+          {
+            "id": 96452,
+            "name": {
+              "first": "Yuu",
+              "last": "Mizushima",
+              "native": "水島裕"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96452-8CGpwJxc9MJ6.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96452-8CGpwJxc9MJ6.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96452"
+          },
+          {
+            "id": 95448,
+            "name": {
+              "first": "Sakiko",
+              "last": "Tamagawa",
+              "native": "玉川砂記子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95448-aZ4oV0K3UJf2.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95448-aZ4oV0K3UJf2.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95448"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 17651,
+          "name": {
+            "first": "Dr. Hell",
+            "last": null,
+            "native": "Dr.ヘル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17651.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17651.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17651"
+        },
+        "voiceActors": [
+          {
+            "id": 101792,
+            "name": {
+              "first": "Kousei",
+              "last": "Tomita",
+              "native": "富田耕生"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101792-hWklcmOIkrDO.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101792-hWklcmOIkrDO.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101792"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7968,
+          "name": {
+            "first": "Miki",
+            "last": "Makimura",
+            "native": "牧村美樹",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7968-te8U6niaAoKk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7968-te8U6niaAoKk.png"
+          },
+          "siteUrl": "https://anilist.co/character/7968"
+        },
+        "voiceActors": [
+          {
+            "id": 104119,
+            "name": {
+              "first": "Jun",
+              "last": "Kouyamaki",
+              "native": "高野槇じゅん"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/104119"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 22929,
+          "name": {
+            "first": "Gamia Q3",
+            "last": null,
+            "native": "ガミア Q3",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/22929.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/22929.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/22929"
+        },
+        "voiceActors": [
+          {
+            "id": 95003,
+            "name": {
+              "first": "Satsuki",
+              "last": "Yukino",
+              "native": "ゆきのさつき"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95003-Du7wb5JJzb8P.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95003-Du7wb5JJzb8P.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95003"
+          },
+          {
+            "id": 95141,
+            "name": {
+              "first": "Ryouka",
+              "last": "Yuzuki",
+              "native": "柚木涼香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95141-RUTdfZUbNcUv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95141-RUTdfZUbNcUv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95141"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97992,
+          "name": {
+            "first": "Gou",
+            "last": "Nagai",
+            "native": "永井豪"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97992-N7uzR2y78tfB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97992-N7uzR2y78tfB.png"
+          },
+          "description": "Kiyoshi Nagai, better known by the pen name Gou Nagai, is a Japanese manga artist and a prolific author of science fiction, fantasy, horror and erotica. He made his professional debut in 1967 with Meakashi Polikichi, but is best known for creating popular 1970s manga and anime series such as [Cutie Honey](https://anilist.co/manga/86168/Cutey-Honey/), [Devilman](https://anilist.co/manga/31474/Devilman/) and [Mazinger Z](https://anilist.co/manga/38773/Mazinger-Z/). He is credited with creating the super robot genre and for designing the first mecha robots piloted by a user from within a cockpit with Mazinger Z, and for pioneering the magical girl genre with Cutie Honey, the post-apocalyptic genre with [Violence Jack](https://anilist.co/manga/31442/Violence-Jack/), and the ecchi genre with [Harenchi Gakuen](https://anilist.co/manga/42808/Harenchi-Gakuen/). \n\nIn 2005, he became a Character Design professor at the Osaka University of Arts. He has been a member of the Tezuka Osamu Cultural Prize's nominating committee since 2009.",
+          "siteUrl": "https://anilist.co/staff/97992"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 100304,
+          "name": {
+            "first": "Kenji",
+            "last": "Kawai",
+            "native": "川井憲次"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100304-jqOrPZIUxRVl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100304-jqOrPZIUxRVl.jpg"
+          },
+          "description": "[Website](http://www.kenjikawai.com/index_e.html) | [Wiki (jp)](https://ja.wikipedia.org/wiki/%E5%B7%9D%E4%BA%95%E6%86%B2%E6%AC%A1)\n\nAfter dropping out of a nuclear engineering program at Tokai University, Kawai Kenji began studying music at Shobi Music Academy. However, he dropped out after half a year. With a few friends, he created the band Muse, playing fusion rock and participating in music competitions. Through competing in such contests, the band members became technically competent to enter the music industry and decided to part ways.\n\nAfter leaving Muse, Kawai Kenji began composing music for commercials in his home studio. While recording music for [Yuji Mitsuya](https://anilist.co/staff/95874/) he met music director Naoko Asari, who advised him to compose anime soundtracks. Some of his most famous anime soundtracks can be found in [Patlabor](https://anilist.co/anime/1288/), [Ranma ½](https://anilist.co/anime/210/), [Ghost in the Shell](https://anilist.co/anime/43/), [Fate/Stay Night](https://anilist.co/anime/356/), [When They Cry](https://anilist.co/anime/934/) and more recently in [Mob Psycho 100](https://anilist.co/anime/21507/).\n\nHe has worked on several projects with the director [Mamoru Oshii](https://anilist.co/staff/99097/) and has written scores for all of Hideo Nakata's films. Kenji Kawai's music has received the Annie award and Hong Kong Film Award in 2005, for [Ghost in The Shell 2: Innocence](https://anilist.co/anime/468/) he was nominated for an Annie award.\n\nFollowing his success as an anime music composer, he became involved in live action movies. He contributed music to horror films: Ring, Ring 2, Dark Water, Japanese-Polish science-fiction film Avalon and the Hong Kong film Seven Swords.\n\nFor the music found in Seven Swords and A Battle of Wits he was nominated for Best Original Film Score Awards at both the 25th and 26th Hong Kong Film Awards in 2006 and 2007.\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/100304"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 106597,
+          "name": {
+            "first": "Umanosuke",
+            "last": "Iida",
+            "native": "飯田馬之介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106597-e6OyQUZPl1OX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106597-e6OyQUZPl1OX.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/106597"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 106597,
+          "name": {
+            "first": "Umanosuke",
+            "last": "Iida",
+            "native": "飯田馬之介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106597-e6OyQUZPl1OX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106597-e6OyQUZPl1OX.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/106597"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 107281,
+          "name": {
+            "first": "Shinichi",
+            "last": "Ishihara",
+            "native": "慎一 石原"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12281.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/12281.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/107281"
+        }
+      },
+      {
+        "role": "Theme Song Composition (OP, ED)",
+        "node": {
+          "id": 100304,
+          "name": {
+            "first": "Kenji",
+            "last": "Kawai",
+            "native": "川井憲次"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100304-jqOrPZIUxRVl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100304-jqOrPZIUxRVl.jpg"
+          },
+          "description": "[Website](http://www.kenjikawai.com/index_e.html) | [Wiki (jp)](https://ja.wikipedia.org/wiki/%E5%B7%9D%E4%BA%95%E6%86%B2%E6%AC%A1)\n\nAfter dropping out of a nuclear engineering program at Tokai University, Kawai Kenji began studying music at Shobi Music Academy. However, he dropped out after half a year. With a few friends, he created the band Muse, playing fusion rock and participating in music competitions. Through competing in such contests, the band members became technically competent to enter the music industry and decided to part ways.\n\nAfter leaving Muse, Kawai Kenji began composing music for commercials in his home studio. While recording music for [Yuji Mitsuya](https://anilist.co/staff/95874/) he met music director Naoko Asari, who advised him to compose anime soundtracks. Some of his most famous anime soundtracks can be found in [Patlabor](https://anilist.co/anime/1288/), [Ranma ½](https://anilist.co/anime/210/), [Ghost in the Shell](https://anilist.co/anime/43/), [Fate/Stay Night](https://anilist.co/anime/356/), [When They Cry](https://anilist.co/anime/934/) and more recently in [Mob Psycho 100](https://anilist.co/anime/21507/).\n\nHe has worked on several projects with the director [Mamoru Oshii](https://anilist.co/staff/99097/) and has written scores for all of Hideo Nakata's films. Kenji Kawai's music has received the Annie award and Hong Kong Film Award in 2005, for [Ghost in The Shell 2: Innocence](https://anilist.co/anime/468/) he was nominated for an Annie award.\n\nFollowing his success as an anime music composer, he became involved in live action movies. He contributed music to horror films: Ring, Ring 2, Dark Water, Japanese-Polish science-fiction film Avalon and the Hong Kong film Seven Swords.\n\nFor the music found in Seven Swords and A Battle of Wits he was nominated for Best Original Film Score Awards at both the 25th and 26th Hong Kong Film Awards in 2006 and 2007.\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/100304"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 219695,
+          "name": {
+            "first": "Junko",
+            "last": "Hirotani",
+            "native": "広谷順子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n219695-w8MOvw5e1vIs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n219695-w8MOvw5e1vIs.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/広谷順子) | [Wiki (en)](https://en.wikipedia.org/wiki/Junko_Hirotani)",
+          "siteUrl": "https://anilist.co/staff/219695"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 129558,
+          "name": {
+            "first": "Kazuo",
+            "last": "Komatsubara",
+            "native": "小松原一男"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129558-XbebqfP26Bcj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n129558-XbebqfP26Bcj.png"
+          },
+          "description": "Noted for his work as a character designer on various works in '70s and '80s.\n\nPassed away on due to a cancerous tumor on his neck on March 24, 2000.",
+          "siteUrl": "https://anilist.co/staff/129558"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 129558,
+          "name": {
+            "first": "Kazuo",
+            "last": "Komatsubara",
+            "native": "小松原一男"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129558-XbebqfP26Bcj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n129558-XbebqfP26Bcj.png"
+          },
+          "description": "Noted for his work as a character designer on various works in '70s and '80s.\n\nPassed away on due to a cancerous tumor on his neck on March 24, 2000.",
+          "siteUrl": "https://anilist.co/staff/129558"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 23,
+          "name": "Bandai Visual",
+          "siteUrl": "https://anilist.co/studio/23"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 921,
+          "name": "Dynamic Planning",
+          "siteUrl": "https://anilist.co/studio/921"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 110,
+          "name": "Triangle Staff",
+          "siteUrl": "https://anilist.co/studio/110"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 19988,
+      "rank": 8,
+      "type": "RATED",
+      "format": "OVA",
+      "year": 1991,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 20034,
+      "rank": 24,
+      "type": "POPULAR",
+      "format": "OVA",
+      "year": 1991,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 219572,
+          "rating": 4,
+          "media": {
+            "id": 2692,
+            "title": {
+              "native": "ＣＢキャラ永井豪ワールド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2302,
+            "title": {
+              "native": "機動戦士SDガンダム"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 7
+      },
+      {
+        "score": 20,
+        "amount": 7
+      },
+      {
+        "score": 30,
+        "amount": 21
+      },
+      {
+        "score": 40,
+        "amount": 24
+      },
+      {
+        "score": 50,
+        "amount": 45
+      },
+      {
+        "score": 60,
+        "amount": 82
+      },
+      {
+        "score": 70,
+        "amount": 123
+      },
+      {
+        "score": 80,
+        "amount": 85
+      },
+      {
+        "score": 90,
+        "amount": 34
+      },
+      {
+        "score": 100,
+        "amount": 34
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 38
+      },
+      {
+        "status": "PLANNING",
+        "amount": 512
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 674
+      },
+      {
+        "status": "DROPPED",
+        "amount": 46
+      },
+      {
+        "status": "PAUSED",
+        "amount": 28
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/2692",
+  "modNotes": null
+}

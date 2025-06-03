@@ -1,0 +1,592 @@
+{
+  "id": 9689,
+  "idMal": 9689,
+  "title": {
+    "native": "あぐかる",
+    "romaji": "Agukaru",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "Set in the eastern Japanese prefecture of Ibaraki, Agukaru centers around Sanae Baraki, a farmer&rsquo;s daughter who can see spirits. Every day she works on her field together with such spirits to produce the best agricultural goods. However, there is a group that aims for that field. With the blessing of the earth, she transforms into Agriculture Angel Baraki.<br>",
+  "startDate": {
+    "year": 2010,
+    "month": 9,
+    "day": 17
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 4,
+    "day": 1
+  },
+  "season": "FALL",
+  "seasonYear": 2010,
+  "seasonInt": 104,
+  "episodes": 5,
+  "duration": 13,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748883284,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9689.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9689.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9689.jpg",
+    "color": "#e4931a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Slice of Life",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "Agriculture Angel Baraki"
+  ],
+  "averageScore": 43,
+  "meanScore": 44,
+  "popularity": 557,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 99,
+      "name": "Henshin",
+      "description": "Prominently features character or costume transformations which often grant special abilities.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 250,
+      "name": "Rural",
+      "description": "Partly or completely set in the countryside.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 122241,
+          "title": {
+            "native": "あぐかる PLAY WITH IBARAKI編"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 122694,
+          "title": {
+            "native": "茨城県選挙啓発アニメ"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 182885,
+          "name": {
+            "first": "Sanae",
+            "last": "Baraki",
+            "native": "原木さなえ",
+            "alternative": [
+              "Baraki-chan",
+              "バラキちゃん"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b182885-oPzj3C1m7n8r.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b182885-oPzj3C1m7n8r.png"
+          },
+          "siteUrl": "https://anilist.co/character/182885"
+        },
+        "voiceActors": [
+          {
+            "id": 182886,
+            "name": {
+              "first": "Sayuri",
+              "last": "Yamamoto",
+              "native": "山本小百合"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n182886-sdnVd8Uh9hJ5.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n182886-sdnVd8Uh9hJ5.png"
+            },
+            "siteUrl": "https://anilist.co/staff/182886"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 182884,
+          "name": {
+            "first": "Mujirou",
+            "last": null,
+            "native": "ムジ郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b182884-kA6obn72s6Wn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b182884-kA6obn72s6Wn.png"
+          },
+          "siteUrl": "https://anilist.co/character/182884"
+        },
+        "voiceActors": [
+          {
+            "id": 95441,
+            "name": {
+              "first": "Hisayoshi",
+              "last": "Suganuma",
+              "native": "菅沼久義"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95441-i7m3Auotx9KB.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95441-i7m3Auotx9KB.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95441"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 182883,
+          "name": {
+            "first": "Pojirin",
+            "last": null,
+            "native": "ポジリン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b182883-ubTBERO2GnMw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b182883-ubTBERO2GnMw.png"
+          },
+          "siteUrl": "https://anilist.co/character/182883"
+        },
+        "voiceActors": [
+          {
+            "id": 105750,
+            "name": {
+              "first": "Shunzou",
+              "last": "Miyasaka",
+              "native": "宮坂俊蔵"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10750.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/10750.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/105750"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 182882,
+          "name": {
+            "first": "Degoro",
+            "last": null,
+            "native": "デェ五郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b182882-dCsD23Aws7jS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b182882-dCsD23Aws7jS.png"
+          },
+          "siteUrl": "https://anilist.co/character/182882"
+        },
+        "voiceActors": [
+          {
+            "id": 101980,
+            "name": {
+              "first": "Baron",
+              "last": "Yamazaki",
+              "native": "山崎バロン"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6980.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6980.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101980"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 182881,
+          "name": {
+            "first": "Inaho",
+            "last": null,
+            "native": "いなほ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b182881-gqa0osoLNa33.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b182881-gqa0osoLNa33.png"
+          },
+          "siteUrl": "https://anilist.co/character/182881"
+        },
+        "voiceActors": [
+          {
+            "id": 103030,
+            "name": {
+              "first": "Hitomi",
+              "last": "Harada",
+              "native": "原田ひとみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103030-CqmMNYO3QRCv.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103030-CqmMNYO3QRCv.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/103030"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 36309,
+          "name": {
+            "first": "Narrator",
+            "last": null,
+            "native": "ナレーター",
+            "alternative": [
+              "語り手",
+              "ナレーション",
+              "Narrador",
+              "Rozprávač",
+              "Vyprávěč",
+              "Dış ses",
+              "Narratore",
+              "Pripovjedač",
+              "Narradora",
+              "Рассказчик",
+              "Người dẫn chuyện",
+              "Tagapagsalaysay",
+              "내레이터",
+              "Narratore",
+              "Erzählperson",
+              "מספר",
+              "Narrátor",
+              "讲述人",
+              "راوي",
+              "Forteller",
+              "Berättare",
+              "Αφηγητής",
+              "Narrateur",
+              "なれーしょん",
+              "旁白",
+              "Narrato"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36309"
+        },
+        "voiceActors": [
+          {
+            "id": 101980,
+            "name": {
+              "first": "Baron",
+              "last": "Yamazaki",
+              "native": "山崎バロン"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6980.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6980.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101980"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 106987,
+          "name": {
+            "first": "Minoru",
+            "last": "Ashina",
+            "native": "芦名みのる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106987-zVVAaggOCOJO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106987-zVVAaggOCOJO.jpg"
+          },
+          "description": "[Website](http://ashina.info/) | [Twitter](https://twitter.com/minopu)\n\nMinoru Ashina is a Japanese anime director and veterinarian.",
+          "siteUrl": "https://anilist.co/staff/106987"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 106987,
+          "name": {
+            "first": "Minoru",
+            "last": "Ashina",
+            "native": "芦名みのる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106987-zVVAaggOCOJO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106987-zVVAaggOCOJO.jpg"
+          },
+          "description": "[Website](http://ashina.info/) | [Twitter](https://twitter.com/minopu)\n\nMinoru Ashina is a Japanese anime director and veterinarian.",
+          "siteUrl": "https://anilist.co/staff/106987"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 106987,
+          "name": {
+            "first": "Minoru",
+            "last": "Ashina",
+            "native": "芦名みのる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106987-zVVAaggOCOJO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106987-zVVAaggOCOJO.jpg"
+          },
+          "description": "[Website](http://ashina.info/) | [Twitter](https://twitter.com/minopu)\n\nMinoru Ashina is a Japanese anime director and veterinarian.",
+          "siteUrl": "https://anilist.co/staff/106987"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 106988,
+          "name": {
+            "first": "Minoru",
+            "last": "Takehara",
+            "native": "たけはらみのる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "**[Website](http://koshiandoh.com/) | [Twitter](https://twitter.com/koshiandoh)**",
+          "siteUrl": "https://anilist.co/staff/106988"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 106988,
+          "name": {
+            "first": "Minoru",
+            "last": "Takehara",
+            "native": "たけはらみのる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "**[Website](http://koshiandoh.com/) | [Twitter](https://twitter.com/koshiandoh)**",
+          "siteUrl": "https://anilist.co/staff/106988"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 106987,
+          "name": {
+            "first": "Minoru",
+            "last": "Ashina",
+            "native": "芦名みのる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106987-zVVAaggOCOJO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106987-zVVAaggOCOJO.jpg"
+          },
+          "description": "[Website](http://ashina.info/) | [Twitter](https://twitter.com/minopu)\n\nMinoru Ashina is a Japanese anime director and veterinarian.",
+          "siteUrl": "https://anilist.co/staff/106987"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 144465,
+          "name": {
+            "first": "Miki",
+            "last": "Micky",
+            "native": "ミッキー三木"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/144465"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 443,
+          "name": "Studio PuYUKAI",
+          "siteUrl": "https://anilist.co/studio/443"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 21338,
+      "url": "http://puyukai.com/agukaru/",
+      "site": "Official Site"
+    },
+    {
+      "id": 21339,
+      "url": "https://www.youtube.com/playlist?list=PLx86mGf-8WBr6CXeuYy64R3dkOYWFVhv2",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22302,
+      "rank": 17,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2010,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 22326,
+      "rank": 13,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2010,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 9
+      },
+      {
+        "score": 20,
+        "amount": 17
+      },
+      {
+        "score": 30,
+        "amount": 14
+      },
+      {
+        "score": 40,
+        "amount": 25
+      },
+      {
+        "score": 50,
+        "amount": 25
+      },
+      {
+        "score": 60,
+        "amount": 21
+      },
+      {
+        "score": 70,
+        "amount": 16
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 3
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 32
+      },
+      {
+        "status": "PLANNING",
+        "amount": 289
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 157
+      },
+      {
+        "status": "DROPPED",
+        "amount": 53
+      },
+      {
+        "status": "PAUSED",
+        "amount": 26
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/9689",
+  "modNotes": null
+}

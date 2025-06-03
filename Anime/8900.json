@@ -1,0 +1,464 @@
+{
+  "id": 8900,
+  "idMal": 8900,
+  "title": {
+    "native": "サルゲッチュ ～オンエアー～2nd",
+    "romaji": "Saru Getchu: On Air 2nd",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "Saru Getchu: On Air sequel.",
+  "startDate": {
+    "year": 2006,
+    "month": 10,
+    "day": 7
+  },
+  "endDate": {
+    "year": 2007,
+    "month": 9,
+    "day": 29
+  },
+  "season": "FALL",
+  "seasonYear": 2006,
+  "seasonInt": 64,
+  "episodes": 51,
+  "duration": 10,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748018039,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8900.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8900.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8900.jpg",
+    "color": "#f1c928"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "synonyms": [
+    "Saru! Get You: On Air",
+    "Ape Escape"
+  ],
+  "averageScore": 44,
+  "meanScore": 47,
+  "popularity": 259,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1872,
+          "title": {
+            "native": "サルゲッチュ ～オンエアー～"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 139884,
+          "title": {
+            "native": "レッチュ ゲッチュ サルゲッチュ"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 58579,
+          "name": {
+            "first": "Hakase",
+            "last": null,
+            "native": "ハカセ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/58579.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/58579.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/58579"
+        },
+        "voiceActors": [
+          {
+            "id": 101602,
+            "name": {
+              "first": "Hideyuki",
+              "last": "Umezu",
+              "native": "梅津秀行"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101602-wUvWtCkvNGNB.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101602-wUvWtCkvNGNB.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101602"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 58581,
+          "name": {
+            "first": "Satoru",
+            "last": null,
+            "native": "サトル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/58581"
+        },
+        "voiceActors": [
+          {
+            "id": 95015,
+            "name": {
+              "first": "Junko",
+              "last": "Takeuchi",
+              "native": "竹内順子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95015-QwI9K4FRe4Cq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95015-QwI9K4FRe4Cq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95015"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 58583,
+          "name": {
+            "first": "Sayaka",
+            "last": null,
+            "native": "サヤカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/58583"
+        },
+        "voiceActors": [
+          {
+            "id": 95032,
+            "name": {
+              "first": "Ai",
+              "last": "Nonaka",
+              "native": "野中藍"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95032-P8Hvtz5iaaoI.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95032-P8Hvtz5iaaoI.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95032"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 58585,
+          "name": {
+            "first": "Haruka",
+            "last": null,
+            "native": "ハルカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/58585"
+        },
+        "voiceActors": [
+          {
+            "id": 95471,
+            "name": {
+              "first": "Tomoe",
+              "last": "Hanba",
+              "native": "半場友恵"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95471-QFtcXqtRwhlS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95471-QFtcXqtRwhlS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95471"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 58587,
+          "name": {
+            "first": "Charu",
+            "last": null,
+            "native": "チャル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/58587.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/58587.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/58587"
+        },
+        "voiceActors": [
+          {
+            "id": 95241,
+            "name": {
+              "first": "Rina",
+              "last": "Satou",
+              "native": "佐藤利奈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95241-4XvR64oguxwS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95241-4XvR64oguxwS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95241"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 58589,
+          "name": {
+            "first": "Akie",
+            "last": null,
+            "native": "アキエ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/58589"
+        },
+        "voiceActors": [
+          {
+            "id": 95092,
+            "name": {
+              "first": "Sayaka",
+              "last": "Oohara",
+              "native": "大原さやか"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95092-dQXsTFQXLg3o.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95092"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 109439,
+          "name": {
+            "first": "Naruhisa",
+            "last": "Arakawa",
+            "native": "荒川稔久"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109439-uqgjFZbNWrCR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n109439-uqgjFZbNWrCR.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/荒川稔久)\n\nMarried to fellow scriptwriter [Hiroko Naka](https://anilist.co/staff/181820/).",
+          "siteUrl": "https://anilist.co/staff/109439"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 109763,
+          "name": {
+            "first": "Jun",
+            "last": "Kamiya",
+            "native": "神谷純"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109763-5hCcGHFmsAIK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n109763-5hCcGHFmsAIK.png"
+          },
+          "description": "Jun Kamiya is an anime director.\n\n[Twitter](https://twitter.com/junkamiya)",
+          "siteUrl": "https://anilist.co/staff/109763"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 27,
+          "name": "Xebec",
+          "siteUrl": "https://anilist.co/studio/27"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 12372,
+      "rank": 14,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2006,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12388,
+      "rank": 13,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2006,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 12440,
+      "rank": 2,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2006,
+      "season": "FALL",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12442,
+      "rank": 2,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2006,
+      "season": "FALL",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 11
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 5
+      },
+      {
+        "score": 40,
+        "amount": 7
+      },
+      {
+        "score": 50,
+        "amount": 5
+      },
+      {
+        "score": 60,
+        "amount": 6
+      },
+      {
+        "score": 70,
+        "amount": 9
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 14
+      },
+      {
+        "status": "PLANNING",
+        "amount": 109
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 96
+      },
+      {
+        "status": "DROPPED",
+        "amount": 28
+      },
+      {
+        "status": "PAUSED",
+        "amount": 12
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/8900",
+  "modNotes": null
+}

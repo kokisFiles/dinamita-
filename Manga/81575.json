@@ -1,0 +1,599 @@
+{
+  "id": 81575,
+  "idMal": 51575,
+  "title": {
+    "native": "スーパーダンガンロンパ2 だんがんアイランド ココロ常夏、ここロンパ♪",
+    "romaji": "Super Danganronpa 2: Dangan Island Kokoro Tokonatsu, Kokoronpa♪",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Based on the game's island mode where Usami defeats Monokuma, the killing game never starts, and everyone lives peacefully on the island together.",
+  "startDate": {
+    "year": 2012,
+    "month": 10,
+    "day": 30
+  },
+  "endDate": {
+    "year": 2013,
+    "month": 4,
+    "day": 15
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 5,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748792482,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx81575-33aaQ1O7pRaB.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx81575-33aaQ1O7pRaB.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx81575-33aaQ1O7pRaB.jpg",
+    "color": "#f1e45d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/81575-KNtwtT7z1X25.jpg",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Super Danganronpa 2: Dangan Island - Everlasting Summer Heart, Kokoronpa ♪",
+    "Super Danganronpa 2: Dangan Island - The Everlasting Summer of Heart-Thomping Rebuttals"
+  ],
+  "averageScore": 56,
+  "meanScore": 63,
+  "popularity": 543,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 198,
+      "name": "Foreign",
+      "description": "Partly or completely set in a country outside the country of origin.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 115236,
+          "title": {
+            "native": "スーパーダンガンロンパ2 さよなら絶望学園"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 73205,
+          "name": {
+            "first": "Chiaki",
+            "last": "Nanami",
+            "native": "七海千秋",
+            "alternative": [
+              "Ultimate Gamer",
+              "Super High School Level Gamer (超高校級のゲーマー)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73205-XVUjSJd97PbC.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b73205-XVUjSJd97PbC.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/73205"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 73227,
+          "name": {
+            "first": "Nagito",
+            "last": "Komaeda",
+            "native": "狛枝凪斗",
+            "alternative": [
+              "The Servant",
+              "Meshitsukai (召使い)",
+              "Ultimate Lucky Student",
+              "Super High School Level Good Luck (超高校級の幸運)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73227-AY45waaQAos0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b73227-AY45waaQAos0.png"
+          },
+          "siteUrl": "https://anilist.co/character/73227"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90007,
+          "name": {
+            "first": "Hajime",
+            "last": "Hinata",
+            "native": "日向創",
+            "alternative": [
+              "Ultimate ???",
+              "超高校級の???",
+              "Super High School Level ???"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90007-ybDO4Rv8ndr5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90007-ybDO4Rv8ndr5.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/90007"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90009,
+          "name": {
+            "first": "Ibuki",
+            "last": "Mioda",
+            "native": "澪田唯吹",
+            "alternative": [
+              "Ultimate Musician",
+              "Super High School Level Light Music Club Member (超高校級の軽音楽部)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90009-gDZiy2bgRV9q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90009-gDZiy2bgRV9q.png"
+          },
+          "siteUrl": "https://anilist.co/character/90009"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90012,
+          "name": {
+            "first": "Teruteru",
+            "last": "Hanamura",
+            "native": "花村輝々",
+            "alternative": [
+              "Ultimate Cook",
+              "Super High-school Level Cook",
+              "Ultimate Chef"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90012-9jR4g5b7QV94.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90012-9jR4g5b7QV94.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/90012"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 73213,
+          "name": {
+            "first": "Gundham",
+            "last": "Tanaka",
+            "native": "田中眼蛇夢",
+            "alternative": [
+              "The Supreme Overlord of Ice",
+              "Tanaka the Forbidden One",
+              "封印されし田中",
+              "Super High School Level Animal Breeder (超高校級の飼育委員)",
+              "Ultimate Animal Breeder"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73213-hVhvcl4Q6oCn.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b73213-hVhvcl4Q6oCn.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/73213"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90020,
+          "name": {
+            "first": "Mahiru",
+            "last": "Koizumi",
+            "native": "小泉真昼",
+            "alternative": [
+              "Ultimate Photographer",
+              "Super High School Level Photographer (超高校級の写真家)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90020-MN2sSubFF9pX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90020-MN2sSubFF9pX.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/90020"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90015,
+          "name": {
+            "first": "Sonia",
+            "last": "Nevermind",
+            "native": "ソニア・ネヴァーマインド",
+            "alternative": [
+              "Ultimate Princess",
+              "Super High School Level Princess (超高校級の王女)",
+              "The Dark Queen"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90015-KxplFCRHMlib.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90015-KxplFCRHMlib.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/90015"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90017,
+          "name": {
+            "first": "Hiyoko",
+            "last": "Saionji",
+            "native": "西園寺日寄子",
+            "alternative": [
+              "Super High-school Level Classical Dancer ( 超高校級の日本舞踊家)",
+              "Ultimate Traditional Dancer"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90017-RWI8SgVL9IXt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90017-RWI8SgVL9IXt.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/90017"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 73237,
+          "name": {
+            "first": "Monomi",
+            "last": null,
+            "native": "モノミ",
+            "alternative": [
+              "Usami (ウサミ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73237-w99yKcSulioC.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b73237-w99yKcSulioC.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/73237"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 73235,
+          "name": {
+            "first": "Monokuma",
+            "last": null,
+            "native": "モノクマ",
+            "alternative": [
+              "Ultimate Despair Headmaster",
+              "Monobear"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73235-74a7Y1lzFnDv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b73235-74a7Y1lzFnDv.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/73235"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90013,
+          "name": {
+            "first": "Peko",
+            "last": "Pekoyama",
+            "native": "辺古山ペコ",
+            "alternative": [
+              "Ultimate Swordswoman",
+              "Super High School Level Kendoka (超高校級の剣道家)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90013-i0RlQQV197c6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90013-i0RlQQV197c6.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/90013"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90010,
+          "name": {
+            "first": "Fuyuhiko",
+            "last": "Kuzuryuu",
+            "native": "九頭龍冬彦",
+            "alternative": [
+              "Ultimate Yakuza",
+              "Super High School Level Gangster (超高校級の極道)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90010-aLmjt1jy7XKN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90010-aLmjt1jy7XKN.png"
+          },
+          "siteUrl": "https://anilist.co/character/90010"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 65541,
+          "name": {
+            "first": "Byakuya",
+            "last": "Togami",
+            "native": "十神白夜",
+            "alternative": [
+              "Ultimate Affluent Progeny",
+              "超高校級の御曹司",
+              "Super High School Level Heir"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65541-Nha4B0vJIkFA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65541-Nha4B0vJIkFA.png"
+          },
+          "siteUrl": "https://anilist.co/character/65541"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90019,
+          "name": {
+            "first": "Kazuichi",
+            "last": "Souda",
+            "native": "左右田和一",
+            "alternative": [
+              "Ultimate Mechanic",
+              "Super High School Level Mechanic (超高校級のメカニック)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90019-D8sXJkRfrfcJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90019-D8sXJkRfrfcJ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/90019"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90016,
+          "name": {
+            "first": "Akane",
+            "last": "Owari",
+            "native": "終里赤音",
+            "alternative": [
+              "Ultimate Gymnast",
+              "Super High-school Level Gymnast"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90016-NPlDBgmLrjEh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90016-NPlDBgmLrjEh.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/90016"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90011,
+          "name": {
+            "first": "Nekomaru",
+            "last": "Nidai",
+            "native": "弐大猫丸",
+            "alternative": [
+              "Super High School Level Coach (超高校級のマネージャー)",
+              "Ultimate Team Manager",
+              "Ultimate Masseur"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90011-ckIdY1M5LwNA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90011-ckIdY1M5LwNA.png"
+          },
+          "siteUrl": "https://anilist.co/character/90011"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90008,
+          "name": {
+            "first": "Mikan",
+            "last": "Tsumiki",
+            "native": "罪木蜜柑",
+            "alternative": [
+              "Ultimate Nurse",
+              "Super High School Level Health Committee Member (超高校級の保健委員)",
+              "Rotten Mikan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90008-rwpjqIlTGFEl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b90008-rwpjqIlTGFEl.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/90008"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 112897,
+          "name": {
+            "first": "Spike Chunsoft",
+            "last": "",
+            "native": "スパイク・チュンソフト"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112897-uhJPwQyvgb29.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112897-uhJPwQyvgb29.jpg"
+          },
+          "description": "[Website](https://www.spike-chunsoft.co.jp/) | [Twitter](https://www.spike-chunsoft.co.jp/)\n\nSpike is a game content planning, developing and managing company. Spike and Chunsoft merged in 2012 as Spike Chunsoft.",
+          "siteUrl": "https://anilist.co/staff/112897"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 114367,
+          "name": {
+            "first": "Ryu",
+            "last": "Kaname",
+            "native": "要龍"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/114367-wqN2M6B1LdmC.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/114367-wqN2M6B1LdmC.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/kaname_dragon) | [Blog](http://kannjinnkaname.blog.shinobi.jp/) | [Pixiv](https://www.pixiv.net/member.php?id=4869154)",
+          "siteUrl": "https://anilist.co/staff/114367"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 6
+      },
+      {
+        "score": 50,
+        "amount": 8
+      },
+      {
+        "score": 60,
+        "amount": 23
+      },
+      {
+        "score": 70,
+        "amount": 35
+      },
+      {
+        "score": 80,
+        "amount": 14
+      },
+      {
+        "score": 90,
+        "amount": 3
+      },
+      {
+        "score": 100,
+        "amount": 8
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 20
+      },
+      {
+        "status": "PLANNING",
+        "amount": 349
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 163
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 5
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/81575",
+  "modNotes": null
+}

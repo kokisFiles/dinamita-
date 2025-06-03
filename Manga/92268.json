@@ -1,0 +1,665 @@
+{
+  "id": 92268,
+  "idMal": 75945,
+  "title": {
+    "native": "ガールズ&パンツァー",
+    "romaji": "Girls und Panzer",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "NOVEL",
+  "status": "FINISHED",
+  "description": "The main story retold from Saori Takebe's point of view.",
+  "startDate": {
+    "year": 2012,
+    "month": 11,
+    "day": 21
+  },
+  "endDate": {
+    "year": 2013,
+    "month": 6,
+    "day": 22
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 25,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748650100,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx92268-KGKRWJsZoM5n.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx92268-KGKRWJsZoM5n.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx92268-KGKRWJsZoM5n.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Girls & Panzer",
+    "สาวปิ๊ง! ซิ่งแทงค์"
+  ],
+  "averageScore": null,
+  "meanScore": 82,
+  "popularity": 253,
+  "favourites": 9,
+  "tags": [
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 14131,
+          "title": {
+            "native": "ガールズ&パンツァー"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 72223,
+          "title": {
+            "native": "ガールズ & パンツァー"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62939,
+          "name": {
+            "first": "Miho",
+            "last": "Nishizumi",
+            "native": "西住みほ",
+            "alternative": [
+              "Miporin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62939-WXOAXdfAhHrF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62939-WXOAXdfAhHrF.png"
+          },
+          "siteUrl": "https://anilist.co/character/62939"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62945,
+          "name": {
+            "first": "Yukari",
+            "last": "Akiyama",
+            "native": "秋山優花里",
+            "alternative": [
+              "Guderian",
+              "Sergeant Oddball"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62945-X9Y608pYoTZK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62945-X9Y608pYoTZK.png"
+          },
+          "siteUrl": "https://anilist.co/character/62945"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72663,
+          "name": {
+            "first": "Katyusha",
+            "last": null,
+            "native": "カチューシャ",
+            "alternative": [
+              "Drifting Snow",
+              "Tiny Tyrant",
+              "Катюша"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72663-MHYQxJnO6wBJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72663-MHYQxJnO6wBJ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/72663"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 69135,
+          "name": {
+            "first": "Ami",
+            "last": "Chouno",
+            "native": "蝶野亜美",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69135.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/69135.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/69135"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62947,
+          "name": {
+            "first": "Mako",
+            "last": "Reizei",
+            "native": "冷泉麻子",
+            "alternative": [
+              "Remako"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62947-i0EbCOwtyyIG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62947-i0EbCOwtyyIG.png"
+          },
+          "siteUrl": "https://anilist.co/character/62947"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62943,
+          "name": {
+            "first": "Hana",
+            "last": "Isuzu",
+            "native": "五十鈴華",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62943-eP7QURZkIMzQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62943-eP7QURZkIMzQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/62943"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 69137,
+          "name": {
+            "first": "Darjeeling",
+            "last": null,
+            "native": "ダージリン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69137-g6RLZiDzhEhL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n69137-g6RLZiDzhEhL.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/69137"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67485,
+          "name": {
+            "first": "Riko",
+            "last": "Matsumoto",
+            "native": "松本里子",
+            "alternative": [
+              "エルヴィン",
+              "Erwin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67485-yJkJuIZxBDgy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67485-yJkJuIZxBDgy.png"
+          },
+          "siteUrl": "https://anilist.co/character/67485"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 73269,
+          "name": {
+            "first": "Yuri",
+            "last": "Isuzu",
+            "native": "五十鈴百合",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/73269.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/73269.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/73269"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 76090,
+          "name": {
+            "first": "Taki",
+            "last": "Momose",
+            "native": "百瀬多希",
+            "alternative": [
+              "Momoga (モモガー)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76090-AWtjd8upr6Gf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b76090-AWtjd8upr6Gf.png"
+          },
+          "siteUrl": "https://anilist.co/character/76090"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67479,
+          "name": {
+            "first": "Shinobu",
+            "last": "Kawanishi",
+            "native": "河西忍",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67479-nGsMjwqdFzuZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67479-nGsMjwqdFzuZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/67479"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 76082,
+          "name": {
+            "first": "Keiko",
+            "last": "Hoshino",
+            "native": "星野慶子",
+            "alternative": [
+              "ホシノ"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76082-GUQAnl5LVJJJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b76082-GUQAnl5LVJJJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/76082"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72659,
+          "name": {
+            "first": "Alisa",
+            "last": null,
+            "native": "アリサ",
+            "alternative": [
+              "Arisa"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/72659.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/72659.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/72659"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72655,
+          "name": {
+            "first": "Kay",
+            "last": null,
+            "native": "ケイ",
+            "alternative": [
+              "Kei"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72655-gZoUK1pzPPCR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72655-gZoUK1pzPPCR.png"
+          },
+          "siteUrl": "https://anilist.co/character/72655"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 69141,
+          "name": {
+            "first": "Orange Pekoe",
+            "last": null,
+            "native": "オレンジペコ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69141-T7JvC9OiGWSe.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b69141-T7JvC9OiGWSe.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/69141"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62941,
+          "name": {
+            "first": "Saori",
+            "last": "Takebe",
+            "native": "武部沙織",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62941-zuJumccZ2I1q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62941-zuJumccZ2I1q.png"
+          },
+          "siteUrl": "https://anilist.co/character/62941"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72657,
+          "name": {
+            "first": "Naomi",
+            "last": null,
+            "native": "ナオミ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/72657.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/72657.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/72657"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65267,
+          "name": {
+            "first": "Anzu",
+            "last": "Kadotani",
+            "native": "角谷杏",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65267-VIXi60SIleM5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65267-VIXi60SIleM5.png"
+          },
+          "siteUrl": "https://anilist.co/character/65267"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 76088,
+          "name": {
+            "first": "Aoi",
+            "last": "Hiyoshi",
+            "native": "日吉葵",
+            "alternative": [
+              "Piyotan (ぴよたん)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76088-2AOy7pqjdAvj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b76088-2AOy7pqjdAvj.png"
+          },
+          "siteUrl": "https://anilist.co/character/76088"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72667,
+          "name": {
+            "first": "Erika",
+            "last": "Itsumi",
+            "native": "逸見エリカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72667-aaVnfszZu8kN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72667-aaVnfszZu8kN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/72667"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67499,
+          "name": {
+            "first": "Yuuki",
+            "last": "Utsugi",
+            "native": "宇津木優季",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67499-fcessuf3zjNw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67499-fcessuf3zjNw.png"
+          },
+          "siteUrl": "https://anilist.co/character/67499"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 76086,
+          "name": {
+            "first": "Muuton",
+            "last": "Tsuchiya",
+            "native": "土屋夢屯",
+            "alternative": [
+              "ツチヤ"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76086-OJuBN7tjhK9T.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b76086-OJuBN7tjhK9T.png"
+          },
+          "siteUrl": "https://anilist.co/character/76086"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 148787,
+          "name": {
+            "first": "Koume",
+            "last": "Akaboshi",
+            "native": "赤星小梅",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148787-TXdEkkmlNzaX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b148787-TXdEkkmlNzaX.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/148787"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 148788,
+          "name": {
+            "first": "Taiga",
+            "last": "Ou",
+            "native": "王大河",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148788-zoDabYOga1Uf.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b148788-zoDabYOga1Uf.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/148788"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 101531,
+          "name": {
+            "first": "Fumikane",
+            "last": "Shimada",
+            "native": "島田フミカネ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6531.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6531.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/humikane)\n\nThe original designer behind the popular mecha musume genre (now trademarked by Fumikane), he takes combinations of bishoujo and war machines and made it his well-recognized art form. So far, besides Mecha Musume, he has designed toy designs for Busou Shinki toy line by Konami, and the popular anime series Sky Girls and Strike Witches, the former also from Konami.",
+          "siteUrl": "https://anilist.co/staff/101531"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 127301,
+          "name": {
+            "first": "Yuu",
+            "last": "Hibiki",
+            "native": "ひびき遊"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n127301-Jk6SPMTV24Wg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n127301-Jk6SPMTV24Wg.jpg"
+          },
+          "description": "[Blog](http://hibikiyu.blog113.fc2.com/) | [Twitter](https://twitter.com/hibikiyu_)",
+          "siteUrl": "https://anilist.co/staff/127301"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 10
+      },
+      {
+        "score": 80,
+        "amount": 6
+      },
+      {
+        "score": 90,
+        "amount": 7
+      },
+      {
+        "score": 100,
+        "amount": 11
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 20
+      },
+      {
+        "status": "PLANNING",
+        "amount": 162
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 60
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 5
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/92268",
+  "modNotes": null
+}

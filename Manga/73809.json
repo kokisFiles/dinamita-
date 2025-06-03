@@ -1,0 +1,568 @@
+{
+  "id": 73809,
+  "idMal": 43809,
+  "title": {
+    "native": "Kitsy8",
+    "romaji": "Kitsy8",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "ONE_SHOT",
+  "status": "FINISHED",
+  "description": "Aoko, Alice and Soujuurou at the beach.",
+  "startDate": {
+    "year": 2012,
+    "month": 7,
+    "day": 21
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 7,
+    "day": 21
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 1,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748874555,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx73809-TlkeRp5yqqJr.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx73809-TlkeRp5yqqJr.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx73809-TlkeRp5yqqJr.jpg",
+    "color": "#bb281a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Mahoutsukai no Yoru: Kitsy8"
+  ],
+  "averageScore": 62,
+  "meanScore": 70,
+  "popularity": 491,
+  "favourites": 16,
+  "tags": [
+    {
+      "id": 179,
+      "name": "Witch",
+      "description": "Prominently features a character who is a witch.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 87196,
+          "title": {
+            "native": "TYPE-MOON学園 ちびちゅき!"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 143103,
+          "title": {
+            "native": "魔法使いの夜"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 11298,
+          "name": {
+            "first": "Aoko",
+            "last": "Aozaki",
+            "native": "蒼崎青子",
+            "alternative": [
+              "Miss Blue",
+              "Magic Gunner",
+              "Sensei",
+              "Super Aoko (スーパー青子)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11298-QVINnNyLJCN9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b11298-QVINnNyLJCN9.png"
+          },
+          "siteUrl": "https://anilist.co/character/11298"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 61127,
+          "name": {
+            "first": "Alice",
+            "last": "Kuonji",
+            "native": "久遠寺有珠",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b61127-LemVV2jIZFb7.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b61127-LemVV2jIZFb7.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/61127"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 61129,
+          "name": {
+            "first": "Soujuurou",
+            "last": "Shizuki",
+            "native": "静希草十郎",
+            "alternative": [
+              "Souji"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/61129.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/61129.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/61129"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 249348,
+          "name": {
+            "first": "Yuika",
+            "last": "Suse",
+            "native": "周瀬唯架",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b249348-hz5GMFxa4JAk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b249348-hz5GMFxa4JAk.png"
+          },
+          "siteUrl": "https://anilist.co/character/249348"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 249360,
+          "name": {
+            "first": "Tobimaru",
+            "last": "Tsukiji",
+            "native": "槻司鳶丸",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b249360-Bq1NHx3oqcg8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b249360-Bq1NHx3oqcg8.png"
+          },
+          "siteUrl": "https://anilist.co/character/249360"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 188335,
+          "name": {
+            "first": "Housuke ",
+            "last": "Kinomi",
+            "native": "木乃美芳助",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b188335-b32UWrvY4Z15.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b188335-b32UWrvY4Z15.png"
+          },
+          "siteUrl": "https://anilist.co/character/188335"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 254755,
+          "name": {
+            "first": "Kojika",
+            "last": "Kumari",
+            "native": "久万梨金鹿",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b254755-RbZdcc3Wymjl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b254755-RbZdcc3Wymjl.png"
+          },
+          "siteUrl": "https://anilist.co/character/254755"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 254756,
+          "name": {
+            "first": "Ritsuka",
+            "last": "Suse",
+            "native": "周瀬律架",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b254756-MSKK9iCtd2Sx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b254756-MSKK9iCtd2Sx.png"
+          },
+          "siteUrl": "https://anilist.co/character/254756"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 101450,
+          "name": {
+            "first": "Hirokazu",
+            "last": "Koyama",
+            "native": "こやまひろかず"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101450-LqQoUFfqXKRc.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101450-LqQoUFfqXKRc.jpg"
+          },
+          "description": "[Twitter ](https://twitter.com/k_hiroriro)\n\nGraphic Art Chief of TYPE-MOON",
+          "siteUrl": "https://anilist.co/staff/101450"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97582,
+          "name": {
+            "first": "",
+            "last": "Type-Moon",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97582-3Mi4DbWITF4T.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97582-3Mi4DbWITF4T.jpg"
+          },
+          "description": "__Headquarters:__ Tokyo, Japan\n\n__[Website](http://typemoon.com/) | [Twitter](https://twitter.com/tmitterofficial)__\n\n__Introduction:__\nType-Moon is a Japanese game company was founded by artist [Takashi Takeuchi](https://anilist.co/staff/99054/Takashi-Takeuchi) and writer [Kinoko Nasu](https://anilist.co/staff/98250/Kinoko-Nasu), who were also schoolmates. The names \"TYPE-MOON\" and \"Notes.\" come from one of their early works, Notes..\n\n__History:__\nOriginally formed as a Doujin Soft in 2000 and created the popular visual novel Tsukihime, but turned into a Commercial Organization on January 30, 2004 and in the same year, they released their PC-based eroge visual novel game Fate/stay night, which is their most well known title.",
+          "siteUrl": "https://anilist.co/staff/97582"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 223103,
+          "rating": 3,
+          "media": {
+            "id": 73809,
+            "title": {
+              "native": "Kitsy8"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 167710,
+            "title": {
+              "native": "魔法使いの夜"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 225823,
+          "rating": 1,
+          "media": {
+            "id": 73809,
+            "title": {
+              "native": "Kitsy8"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 159094,
+            "title": {
+              "native": "MELTY BLOOD: TYPE LUMINA Piece in Paradise"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 225826,
+          "rating": 1,
+          "media": {
+            "id": 73809,
+            "title": {
+              "native": "Kitsy8"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 96082,
+            "title": {
+              "native": "Fate/tiger colossum UPPER"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 241977,
+          "rating": 0,
+          "media": {
+            "id": 73809,
+            "title": {
+              "native": "Kitsy8"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 170865,
+            "title": {
+              "native": "사내에서는 정숙할 것"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 274439,
+          "rating": 1,
+          "media": {
+            "id": 73809,
+            "title": {
+              "native": "Kitsy8"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 103075,
+            "title": {
+              "native": "ロード・エルメロイII世の事件簿"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 291145,
+          "rating": 1,
+          "media": {
+            "id": 73809,
+            "title": {
+              "native": "Kitsy8"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 182224,
+            "title": {
+              "native": "満月姫楽 〜TYPE-MOON傑作選〜"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 397897,
+          "rating": 1,
+          "media": {
+            "id": 73809,
+            "title": {
+              "native": "Kitsy8"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 186377,
+            "title": {
+              "native": "槻司鳶丸というひと"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 397899,
+          "rating": 1,
+          "media": {
+            "id": 73809,
+            "title": {
+              "native": "Kitsy8"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 186379,
+            "title": {
+              "native": "朝の風景"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 400721,
+          "rating": 2,
+          "media": {
+            "id": 73809,
+            "title": {
+              "native": "Kitsy8"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 187572,
+            "title": {
+              "native": "月姫-A piece of blue glass moon-ムーンフェイズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 418209,
+          "rating": 1,
+          "media": {
+            "id": 73809,
+            "title": {
+              "native": "Kitsy8"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 192934,
+            "title": {
+              "native": "魔法使いの夜 コミックアラカルト ウィッチクラフト編"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 418211,
+          "rating": 1,
+          "media": {
+            "id": 73809,
+            "title": {
+              "native": "Kitsy8"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 192935,
+            "title": {
+              "native": "魔法使いの夜 コミックアラカルト ナーサリーライム編"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 16
+      },
+      {
+        "score": 60,
+        "amount": 36
+      },
+      {
+        "score": 70,
+        "amount": 32
+      },
+      {
+        "score": 80,
+        "amount": 17
+      },
+      {
+        "score": 90,
+        "amount": 14
+      },
+      {
+        "score": 100,
+        "amount": 21
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 14
+      },
+      {
+        "status": "PLANNING",
+        "amount": 123
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 352
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/73809",
+  "modNotes": null
+}

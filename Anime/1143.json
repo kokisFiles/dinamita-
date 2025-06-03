@@ -1,0 +1,471 @@
+{
+  "id": 1143,
+  "idMal": 1143,
+  "title": {
+    "native": ".hack//INTERMEZZO",
+    "romaji": ".hack//INTERMEZZO",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "A virtual multiplayer online role-playing game exists, known as 'The World'. In 'The World', there is an event held in the Dungeon of Nankoflank that Mimiru, a character in the game, undertakes with Bear, another character of the game. Mimiru confesses to Bear that she's not doing the event for the treasures or experiences, but for the memories and experiences of when she had first started playing. The two later meet a certain character named Mimika and together, the three proceed through quests and events as Mimiru learns the meaning of the game.<br><br>\n[Written by MAL Rewrite]",
+  "startDate": {
+    "year": 2003,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": 2003,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748885419,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1143-G47wtWf1nqtB.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1143-G47wtWf1nqtB.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1143-G47wtWf1nqtB.png",
+    "color": "#865d28"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    ".hack//Another Story",
+    ".hack//SIGN Episode 27"
+  ],
+  "averageScore": 60,
+  "meanScore": 61,
+  "popularity": 4366,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 308,
+      "name": "Video Games",
+      "description": "Centers around characters playing video games.",
+      "category": "Theme-Game",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 112,
+      "name": "Virtual World",
+      "description": "Partly or completely set in the world inside a video game.",
+      "category": "Setting-Universe",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 48,
+          "title": {
+            "native": ".hack//SIGN"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2181,
+          "name": {
+            "first": "Bear",
+            "last": null,
+            "native": "ベア",
+            "alternative": [
+              "Ryo Sakuma"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2181.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2181.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2181"
+        },
+        "voiceActors": [
+          {
+            "id": 95122,
+            "name": {
+              "first": "Kazuhiro",
+              "last": "Nakata",
+              "native": "中田和宏"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/122.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/122.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95122"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2180,
+          "name": {
+            "first": "Mimiru",
+            "last": null,
+            "native": "ミミル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2180-RbJqZHy1AGmH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2180-RbJqZHy1AGmH.png"
+          },
+          "siteUrl": "https://anilist.co/character/2180"
+        },
+        "voiceActors": [
+          {
+            "id": 95144,
+            "name": {
+              "first": "Megumi",
+              "last": "Toyoguchi",
+              "native": "豊口めぐみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95144-9Y8CtDVmxogE.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95144-9Y8CtDVmxogE.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95144"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 28270,
+          "name": {
+            "first": "Mimika",
+            "last": null,
+            "native": "ミミカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/28270.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28270.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28270"
+        },
+        "voiceActors": [
+          {
+            "id": 95342,
+            "name": {
+              "first": "Masako",
+              "last": "Katsuki",
+              "native": "勝生真沙子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95342-pC8tGadzfTNb.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95342-pC8tGadzfTNb.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95342"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Script",
+        "node": {
+          "id": 97941,
+          "name": {
+            "first": "Kazunori",
+            "last": "Itou",
+            "native": "伊藤和典 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97941-DUpHZ6rdA077.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97941-DUpHZ6rdA077.png"
+          },
+          "description": "[Twitter](https://twitter.com/Ito_Kazunori)",
+          "siteUrl": "https://anilist.co/staff/97941"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 98158,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Sadamoto",
+            "native": "貞本義行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/3158.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/3158.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/y_sadamoto)\n\nYoshiyuki Sadamoto is an animator, illustrator, character designer, and one of the founding members of studio Gainax.\n\nAfter college, Sadamoto learned the ropes of key animation under [Yasuo Otsuka](https://anilist.co/staff/136873/Yasuo--Otsuka) at Telecom before becoming a founding member of Gainax. Otsuka later named Sadamoto one of the three men more skillful than him. Though Sadamoto is not an unskilled animator by any means, his reputation rests mainly on his iconic character designs, evident in the reception of the Evangelion cast. Nearly all of Gainax' biggest productions have their characters designed by Sadamoto. He is one of the biggest contributors to the general look of Gainax anime and has proven to be massively influential for character designers of future generations.\n\nSadamoto's characters are often thin, fragile and have sharp yet understated facial features. He pays a lot of attention to fashion as well.\n\nMost of Sadamoto's influences are mangaka such as [Katsuhiro Otomo](https://anilist.co/staff/96872/Katsuhiro-Otomo), [Yoshitaka Amano](https://anilist.co/staff/97967/Yoshitaka-Amano), [Kazuo Umezu](https://anilist.co/staff/97777/Kazuo-Umezu), and [Leiji Matsumoto](https://anilist.co/staff/97597/Leiji-Matsumoto). Sadamoto would go on to author the Evangelion manga. \n\nPost-Gainax he has remained active as character designer, mostly for [Mamoru Hosoda](https://anilist.co/staff/100067/Mamoru-Hosoda)'s popular feature films. He has also focused on different visual and illustration works, as he worked on several manga and is co-creator and character designer for the .hack game franchise.",
+          "siteUrl": "https://anilist.co/staff/98158"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 100077,
+          "name": {
+            "first": "Yuki",
+            "last": "Kajiura",
+            "native": "梶浦由記"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100077-EQO5m2lkmUQk.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100077-EQO5m2lkmUQk.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/Fion0806) | [Facebook](https://www.facebook.com/profile.php?id=100001583365922) | [Spotify](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [Apple Music](https://music.apple.com/artist/yuki-kajiura/251013990) | [Deezer](https://www.deezer.com/artist/4663498)\n\nYuki Kajiura was born in Japan but raised in West Germany for most of her childhood. Her father was a big fan of classical and opera music and always desired for Yuki to play the piano for him. Yuki eventually gained a love for music and a love for the piano. Yuki started out as an SE programmer, but changed to music in 1992. She made her grand debut with a female trio called \"[See-Saw](https://anilist.co/staff/104342).\"  In the years to come the group released six singles and two albums. \n\nYuki then went on to work on her solo career composing for artists and some TV, films, and games, such as _Blood: The Last Vampire_ in 2001, and _Xenosaga II_ and _III_. In 2001, Yuki's claim to fame came with the release of the anime [_NOIR_](https://anilist.co/anime/272). The soundtrack sold 50,000 copies. In 2002, she was brought on to project .hack to write the score to [_.hack//SIGN_](https://anilist.co/anime/48), along with vocalist [Chiaki Ishikawa](https://anilist.co/staff/101059) and New York singer [Emily Bindiger](https://anilist.co/staff/103845). Shortly after Yuki comprised an album of original and complied songs known as Fiction, working again with Emily Bindiger as well as _Xenosaga_ vocalist Deb Lyons.  \n\nYuki's other well-known works were for [_Mobile Suite Gundam Seed_](https://anilist.co/anime/93), which hit 5th on the Oricon Charts its first week, and selling over 200,000 copies. Yuki has also become known for her work on CLAMP's [_Tsubasa Chronicle_](https://anilist.co/anime/177) series, [movie](https://anilist.co/anime/807), and [OVAs](https://anilist.co/anime/2685). In 2003, she formed the project [FictionJunction](https://anilist.co/staff/103691) in which pairs Yuki's songwriting and composition with different performing vocalists, first as separate solo works and later into a singular group. In 2007, Yuki formed the band [Kalafina](https://anilist.co/staff/101975), with two partners from FictionJunction, Wakana Ootaki and [Keiko Kubota](https://anilist.co/staff/104664), to perform for the anime [_Kara no Kyoukai_](https://anilist.co/anime/2593), further working on several others. Kalafina disbanded in 2018, with their final lineup including Wakana, Keiko, and [Hikaru](https://anilist.co/staff/168857).",
+          "siteUrl": "https://anilist.co/staff/100077"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100094,
+          "name": {
+            "first": "Kouichi",
+            "last": "Mashimo",
+            "native": "真下耕一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5094.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5094.jpg"
+          },
+          "description": "Kouichi Mashimo is a well-known Japanese anime director and the founder of the animation studio Bee Train. Since the creation of the studio, Mashimo directed or otherwise participated in (nearly) all its works, for example, as a member of art or sound department.\n\nMashimo was born in Tokyo, Japan and from his early years showed interest in photography, admittedly under the influence of his father. Mashimo studied jurisprudence at Sophia University and during his fourth university year, he participated in the making of several television commercials. However, this was a rather disappointing experience, and on November 6, 1975, he applied for a position of Hiroshi Sasagawa's assistant director in Tatsunoko Production. The first anime series he worked on was Time Bokan (1975–76).\n\nIn the mid-1980s, while still working for Tatsunoko, Mashimo survived a severe alpine skiing accident. During his stay in an intensive care unit, he came up with an idea of a \"hospital for animators\", an animation studio whose primary goal would be fostering and self-actualization of talented artists rather than commercial success and money. Some time after that, he founded a small freelance studio called Mashimo Jimusho that was mainly producing in-between animation for larger companies. In 1997, Mashimo presented his studio-as-hospital concept to Mitsuhisa Ishikawa, the president of Production I.G, who was so impressed with it that he immediately agreed to sponsor Mashimo. The new subsidiary has become known as Bee Train and in February 2006, it ended its relationship with I.G and became independent.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/100094"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 100323,
+          "name": {
+            "first": "Yukiko",
+            "last": "Ban",
+            "native": "番由紀子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100323-4tEr8KdY2i6v.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100323-4tEr8KdY2i6v.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/bang20140617)",
+          "siteUrl": "https://anilist.co/staff/100323"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 100325,
+          "name": {
+            "first": "Minako",
+            "last": "Shiba",
+            "native": "芝美奈子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100325-uGYQvBnmLf69.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100325-uGYQvBnmLf69.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/芝美奈子)\n\nNoted for her character designs on [Black Butler](https://anilist.co/anime/4898/), [Noir](https://anilist.co/anime/272/), [Tegami Bachi](https://anilist.co/anime/6444/) among many others.",
+          "siteUrl": "https://anilist.co/staff/100325"
+        }
+      },
+      {
+        "role": "Production Manager",
+        "node": {
+          "id": 104686,
+          "name": {
+            "first": "Ryouji",
+            "last": "Maru",
+            "native": "丸亮二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104686-XaQq3V60o0DT.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104686-XaQq3V60o0DT.jpg"
+          },
+          "description": "Ryouji Maru founded Japanese animation studio [C-Station](https://anilist.co/studio/6074/CStation) in 2009 as an extension of [Bee Train Production](https://anilist.co/studio/5/Bee-Train) and is the company's current representative director.",
+          "siteUrl": "https://anilist.co/staff/104686"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 106993,
+          "name": {
+            "first": "Kouji",
+            "last": "Morimoto",
+            "native": "森本浩二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106993-3f78815X047Y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106993-3f78815X047Y.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/森本浩二)",
+          "siteUrl": "https://anilist.co/staff/106993"
+        }
+      },
+      {
+        "role": "ADR Director (Brazilian Portuguese)",
+        "node": {
+          "id": 102974,
+          "name": {
+            "first": "Wellington",
+            "last": "Lima",
+            "native": null
+          },
+          "language": "PORTUGUESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102974-PW4xc2DMIK0d.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102974-PW4xc2DMIK0d.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/102974"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 5,
+          "name": "Bee Train",
+          "siteUrl": "https://anilist.co/studio/5"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 233,
+          "name": "Bandai Entertainment",
+          "siteUrl": "https://anilist.co/studio/233"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 30
+      },
+      {
+        "score": 20,
+        "amount": 22
+      },
+      {
+        "score": 30,
+        "amount": 55
+      },
+      {
+        "score": 40,
+        "amount": 127
+      },
+      {
+        "score": 50,
+        "amount": 397
+      },
+      {
+        "score": 60,
+        "amount": 539
+      },
+      {
+        "score": 70,
+        "amount": 505
+      },
+      {
+        "score": 80,
+        "amount": 205
+      },
+      {
+        "score": 90,
+        "amount": 81
+      },
+      {
+        "score": 100,
+        "amount": 59
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 54
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1154
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 3069
+      },
+      {
+        "status": "DROPPED",
+        "amount": 40
+      },
+      {
+        "status": "PAUSED",
+        "amount": 49
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/1143",
+  "modNotes": null
+}

@@ -1,0 +1,204 @@
+{
+  "id": 92960,
+  "idMal": 80129,
+  "title": {
+    "native": "グラゼニ ～東京ドーム編～",
+    "romaji": "Gurazeni: Tokyo Dome-hen",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2014,
+    "month": 9,
+    "day": 25
+  },
+  "endDate": {
+    "year": 2018,
+    "month": 2,
+    "day": 15
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 151,
+  "volumes": 15,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1746970156,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx92960-uSd5ZY4q3acx.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx92960-uSd5ZY4q3acx.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx92960-uSd5ZY4q3acx.jpg",
+    "color": "#f16b1a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Sports"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 68,
+  "popularity": 42,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 69757,
+          "title": {
+            "native": "グラゼニ"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 116522,
+          "title": {
+            "native": "グラゼニ～パ・リーグ編～"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 133029,
+          "name": {
+            "first": "Natsunosuke",
+            "last": "Bonda",
+            "native": "凡田夏之介",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133029-EM39KqzvzKe3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n133029-EM39KqzvzKe3.png"
+          },
+          "siteUrl": "https://anilist.co/character/133029"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Art",
+        "node": {
+          "id": 113173,
+          "name": {
+            "first": "Keiji",
+            "last": "Adachi",
+            "native": "足立金太郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/113173"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 104819,
+          "name": {
+            "first": "Yuuji",
+            "last": "Moritaka",
+            "native": "森高夕次"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104819-jnOLFkApuHss.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104819-jnOLFkApuHss.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/104819"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 7
+      },
+      {
+        "status": "PLANNING",
+        "amount": 22
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 8
+      },
+      {
+        "status": "DROPPED",
+        "amount": 4
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/92960",
+  "modNotes": null
+}

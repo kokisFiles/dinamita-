@@ -1,0 +1,917 @@
+{
+  "id": 106493,
+  "idMal": 38530,
+  "title": {
+    "native": "ドラえもん のび太の月面探査記",
+    "romaji": "Doraemon: Nobita no Getsumen Tansa-ki",
+    "english": "Doraemon the Movie 2019: Nobita's Chronicle of the Moon Exploration"
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "During a Japanese robotic exploration to find life on the other side of the moon, Nobita is watching from Earth and sees the moon turn yellow. With the help of Doraemon, the pair travel to the moon and create bunnies that will build their own colony. After he returns, Nobita tells his class about their adventure but no one will believe him. That is until a new student and his sister arrive who appear to come from a very far away place...<br>\n<br>\n(Source: themoviedb)\n",
+  "startDate": {
+    "year": 2019,
+    "month": 3,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2019,
+    "month": 3,
+    "day": 1
+  },
+  "season": "WINTER",
+  "seasonYear": 2019,
+  "seasonInt": 191,
+  "episodes": 1,
+  "duration": 111,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": {
+    "id": "AHentd63YDo",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/AHentd63YDo/hqdefault.jpg"
+  },
+  "updatedAt": 1748778468,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106493-TWaFM37aktmG.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106493-TWaFM37aktmG.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx106493-TWaFM37aktmG.jpg",
+    "color": "#f1d650"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "哆啦A梦：大雄的月球探险记",
+    "โดราเอมอน เดอะ มูฟวี่ ตอน โนบิตะสำรวจดินแดนจันทรา"
+  ],
+  "averageScore": 70,
+  "meanScore": 72,
+  "popularity": 1866,
+  "favourites": 24,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 8687,
+          "title": {
+            "native": "ドラえもん (2005)"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4303,
+          "name": {
+            "first": "Nobita",
+            "last": "Nobi",
+            "native": "野比のび太",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4303.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4303.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4303"
+        },
+        "voiceActors": [
+          {
+            "id": 111907,
+            "name": {
+              "first": "Megumi",
+              "last": "Oohara",
+              "native": "大原めぐみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111907-bypAKya73si1.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111907-bypAKya73si1.png"
+            },
+            "siteUrl": "https://anilist.co/staff/111907"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4304,
+          "name": {
+            "first": "Doraemon",
+            "last": null,
+            "native": "ドラえもん",
+            "alternative": [
+              "Dora-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4304-4eXX8C1O4Pda.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4304-4eXX8C1O4Pda.png"
+          },
+          "siteUrl": "https://anilist.co/character/4304"
+        },
+        "voiceActors": [
+          {
+            "id": 101567,
+            "name": {
+              "first": "Wasabi",
+              "last": "Mizuta",
+              "native": "水田わさび"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101567-CAAMepraYceN.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101567-CAAMepraYceN.png"
+            },
+            "siteUrl": "https://anilist.co/staff/101567"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8260,
+          "name": {
+            "first": "Shizuka",
+            "last": "Minamoto",
+            "native": "源静香",
+            "alternative": [
+              "Shizu-chan (静ちゃん)",
+              "しずか"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8260-Hz17eZuElZ7U.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8260-Hz17eZuElZ7U.png"
+          },
+          "siteUrl": "https://anilist.co/character/8260"
+        },
+        "voiceActors": [
+          {
+            "id": 95298,
+            "name": {
+              "first": "Yumi",
+              "last": "Kakazu",
+              "native": "かかずゆみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95298-wWENaJp9ERf7.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95298-wWENaJp9ERf7.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95298"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8261,
+          "name": {
+            "first": "Suneo",
+            "last": "Honekawa",
+            "native": "骨川スネ夫",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8261-qGxKWau5iZrf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8261-qGxKWau5iZrf.png"
+          },
+          "siteUrl": "https://anilist.co/character/8261"
+        },
+        "voiceActors": [
+          {
+            "id": 95001,
+            "name": {
+              "first": "Tomokazu",
+              "last": "Seki",
+              "native": "関智一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95001-vm0RtZhmlzhK.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95001"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8262,
+          "name": {
+            "first": "Takeshi",
+            "last": "Gouda",
+            "native": "剛田武",
+            "alternative": [
+              "Gian (ジャイアン)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8262-N2Lsf46EjZBf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8262-N2Lsf46EjZBf.png"
+          },
+          "siteUrl": "https://anilist.co/character/8262"
+        },
+        "voiceActors": [
+          {
+            "id": 107480,
+            "name": {
+              "first": "Subaru",
+              "last": "Kimura",
+              "native": "木村昴"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107480-h2RgLXNP7hcj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107480-h2RgLXNP7hcj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/107480"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 132071,
+          "name": {
+            "first": "Luna",
+            "last": null,
+            "native": "ルナ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n132071-CeO01uVjkZt1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n132071-CeO01uVjkZt1.png"
+          },
+          "siteUrl": "https://anilist.co/character/132071"
+        },
+        "voiceActors": [
+          {
+            "id": 132064,
+            "name": {
+              "first": "Alice ",
+              "last": "Hirose",
+              "native": "広瀬アリス"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n132064-8gS0ppfWiL7h.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n132064-8gS0ppfWiL7h.png"
+            },
+            "siteUrl": "https://anilist.co/staff/132064"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 118503,
+          "name": {
+            "first": "Shinnosuke",
+            "last": "Yakuwa",
+            "native": "八鍬新之介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118503-I3TE5gMfCIq6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118503-I3TE5gMfCIq6.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/118503"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97610,
+          "name": {
+            "first": "F. Fujio",
+            "last": "Fujiko",
+            "native": "藤子・F・不二雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2610.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2610.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/藤子・F・不二雄)\n\nHiroshi Fujimoto, better known as F. Fujio Fujiko, was part of the former manga-writing duo [Fujio Fujiko](https://anilist.co/staff/219230/).",
+          "siteUrl": "https://anilist.co/staff/97610"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 117307,
+          "name": {
+            "first": "Mizuki",
+            "last": "Tsujimura",
+            "native": "辻村深月"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117307-wgYekYXMfSaA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n117307-wgYekYXMfSaA.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/辻村深月)\n\nAn award-winning novelist specializing in mystery.",
+          "siteUrl": "https://anilist.co/staff/117307"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 101810,
+          "name": {
+            "first": "Takayuki",
+            "last": "Hattori",
+            "native": "服部隆之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101810-QPHID4MRwN4r.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101810-QPHID4MRwN4r.png"
+          },
+          "description": "Grandson of composer Ryoichi Hattori and son of composer Katsuhisa Hattori, Takayuki Hattori started out his career as a music arranger for Masashi Sada before given his big break by being allowed to compose Godzilla vs. SpaceGodzilla (1994), after Akira Ifukube turned down the oppurtinty. Hattori's body of work tends to be diverse, ranging from comedies like Welcome Back, Mr. McDonald (1997) to Toei's movie adaption of the GTO TV drama series.  ",
+          "siteUrl": "https://anilist.co/staff/101810"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 142882,
+          "name": {
+            "first": "Kouichi",
+            "last": "Maruyama",
+            "native": "丸山宏一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/丸山宏一)",
+          "siteUrl": "https://anilist.co/staff/142882"
+        }
+      },
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 109727,
+          "name": {
+            "first": "Susumu",
+            "last": "Yamaguchi",
+            "native": "山口晋"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109727-u1r5Jh2Fbc8b.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n109727-u1r5Jh2Fbc8b.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/109727"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 157708,
+          "name": {
+            "first": "Dai",
+            "last": "Hirai",
+            "native": "平井大"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n157708-L2UXHCSx5LIa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n157708-L2UXHCSx5LIa.png"
+          },
+          "description": "__[Official Site](http://hiraidai.com/) | [Youtube](https://www.youtube.com/channel/UCtrNaCCz5xEphtnyc7xGcQQ) | [Instagram](https://www.instagram.com/hirai_dai_official/) |[Twitter](https://twitter.com/hiraidai) | [Weibo](https://weibo.com/u/7218170924)__",
+          "siteUrl": "https://anilist.co/staff/157708"
+        }
+      },
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 157709,
+          "name": {
+            "first": "Shingo",
+            "last": "Okano",
+            "native": "岡野慎吾"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n157709-1roBAPuP89Mv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n157709-1roBAPuP89Mv.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/nonkichi79)",
+          "siteUrl": "https://anilist.co/staff/157709"
+        }
+      },
+      {
+        "role": "Art Design",
+        "node": {
+          "id": 142605,
+          "name": {
+            "first": "Kaoru",
+            "last": "Aoki",
+            "native": "青木薫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/142605"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 144389,
+          "name": {
+            "first": "Toshihiko",
+            "last": "Kojima",
+            "native": "小島俊彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144389-eH4WqTPGcB6G.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n144389-eH4WqTPGcB6G.png"
+          },
+          "description": "[Twitter](https://twitter.com/magicmagico)\n\nHe joined Okayasu Promotion after graduating and studied there as editor, he collected experience on tv animation and drama and gave his debut on Ninja Hattori. He is currently working for 1000 Yamakoshi.\n\nNot to be confused with the other <a href=\"https://anilist.co/staff/101017\">Toshihiko Kojima</a> whose name is written with different Kanji.",
+          "siteUrl": "https://anilist.co/staff/144389"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 119198,
+          "name": {
+            "first": "Yoshito",
+            "last": "Takamine",
+            "native": "高峯義人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/119198"
+        }
+      },
+      {
+        "role": "Prop Design",
+        "node": {
+          "id": 147868,
+          "name": {
+            "first": "Tsutomu",
+            "last": "Suzuki",
+            "native": "鈴木勤"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/147868"
+        }
+      },
+      {
+        "role": "Art Design",
+        "node": {
+          "id": 125367,
+          "name": {
+            "first": "Toshiki",
+            "last": "Amata",
+            "native": "天田俊貴"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/125367"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 157709,
+          "name": {
+            "first": "Shingo",
+            "last": "Okano",
+            "native": "岡野慎吾"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n157709-1roBAPuP89Mv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n157709-1roBAPuP89Mv.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/nonkichi79)",
+          "siteUrl": "https://anilist.co/staff/157709"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 145180,
+          "name": {
+            "first": "Akiyoshi",
+            "last": "Tanaka",
+            "native": "田中章喜"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/145180"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 118503,
+          "name": {
+            "first": "Shinnosuke",
+            "last": "Yakuwa",
+            "native": "八鍬新之介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118503-I3TE5gMfCIq6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118503-I3TE5gMfCIq6.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/118503"
+        }
+      },
+      {
+        "role": "Art Design",
+        "node": {
+          "id": 105133,
+          "name": {
+            "first": "Masanobu",
+            "last": "Nomura",
+            "native": "野村正信"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/105133"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 142882,
+          "name": {
+            "first": "Kouichi",
+            "last": "Maruyama",
+            "native": "丸山宏一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/丸山宏一)",
+          "siteUrl": "https://anilist.co/staff/142882"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 123724,
+          "name": {
+            "first": "Takuji",
+            "last": "Mogi",
+            "native": "茂木琢次"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123724-RxLAY2HeUQW9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n123724-RxLAY2HeUQW9.png"
+          },
+          "description": "Freelancer. Originating from Jungle Gym.",
+          "siteUrl": "https://anilist.co/staff/123724"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 110223,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Shimizu",
+            "native": "清水洋"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110223-ZHZhizItAu5D.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110223-ZHZhizItAu5D.png"
+          },
+          "description": "Originating from Oh! Production.",
+          "siteUrl": "https://anilist.co/staff/110223"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 157044,
+          "name": {
+            "first": "Hiroomi",
+            "last": "Yamakawa",
+            "native": "山川浩臣"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n157044-5gmsH84reJ6G.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n157044-5gmsH84reJ6G.jpg"
+          },
+          "description": "Freelancer who mostly works on [Studio Ghibli](https://anilist.co/studio/21/) films.",
+          "siteUrl": "https://anilist.co/staff/157044"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 153224,
+          "name": {
+            "first": "Masaru",
+            "last": "Ooshiro",
+            "native": "大城勝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Older brother of [Tsutomu Ooshiro](https://anilist.co/staff/154775/).",
+          "siteUrl": "https://anilist.co/staff/153224"
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 142882,
+          "name": {
+            "first": "Kouichi",
+            "last": "Maruyama",
+            "native": "丸山宏一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/丸山宏一)",
+          "siteUrl": "https://anilist.co/staff/142882"
+        }
+      },
+      {
+        "role": "Key Animation (ED)",
+        "node": {
+          "id": 116487,
+          "name": {
+            "first": "Shizue",
+            "last": "Kaneko",
+            "native": "金子志津枝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116487-ocYwDrnNIrp8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116487-ocYwDrnNIrp8.png"
+          },
+          "description": "[Twitter](https://twitter.com/QQQnekoQQQ)",
+          "siteUrl": "https://anilist.co/staff/116487"
+        }
+      },
+      {
+        "role": "Special Effects",
+        "node": {
+          "id": 157714,
+          "name": {
+            "first": "Souta",
+            "last": "Ooya",
+            "native": "大矢創太"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/157714"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 247,
+          "name": "Shin-Ei Animation",
+          "siteUrl": "https://anilist.co/studio/247"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 62,
+          "name": "Shogakukan-Shueisha Productions",
+          "siteUrl": "https://anilist.co/studio/62"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 55,
+          "name": "TV Asahi",
+          "siteUrl": "https://anilist.co/studio/55"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 7545,
+      "url": "https://doraeiga.com/2019/",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 18778,
+      "rank": 42,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 18881,
+      "rank": 60,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 60262,
+          "rating": 0,
+          "media": {
+            "id": 106493,
+            "title": {
+              "native": "ドラえもん のび太の月面探査記"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 9379,
+            "title": {
+              "native": "電波女と青春男"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 107484,
+          "rating": 1,
+          "media": {
+            "id": 106493,
+            "title": {
+              "native": "ドラえもん のび太の月面探査記"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 5656,
+            "title": {
+              "native": "プリごろ太 宇宙の友情大冒険"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 12
+      },
+      {
+        "score": 20,
+        "amount": 5
+      },
+      {
+        "score": 30,
+        "amount": 15
+      },
+      {
+        "score": 40,
+        "amount": 16
+      },
+      {
+        "score": 50,
+        "amount": 39
+      },
+      {
+        "score": 60,
+        "amount": 106
+      },
+      {
+        "score": 70,
+        "amount": 204
+      },
+      {
+        "score": 80,
+        "amount": 212
+      },
+      {
+        "score": 90,
+        "amount": 126
+      },
+      {
+        "score": 100,
+        "amount": 62
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 54
+      },
+      {
+        "status": "PLANNING",
+        "amount": 407
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1335
+      },
+      {
+        "status": "DROPPED",
+        "amount": 44
+      },
+      {
+        "status": "PAUSED",
+        "amount": 26
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/106493",
+  "modNotes": null
+}

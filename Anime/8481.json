@@ -1,0 +1,995 @@
+{
+  "id": 8481,
+  "idMal": 8481,
+  "title": {
+    "native": "文学少女 メモワール",
+    "romaji": "Bungaku Shoujo: Memoire",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "Three-episode prequel to the upcoming movie told by three main heroines.",
+  "startDate": {
+    "year": 2010,
+    "month": 6,
+    "day": 25
+  },
+  "endDate": {
+    "year": 2010,
+    "month": 12,
+    "day": 24
+  },
+  "season": "SUMMER",
+  "seasonYear": 2010,
+  "seasonInt": 103,
+  "episodes": 3,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "LIGHT_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748883470,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8481.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8481.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8481.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Psychological",
+    "Romance"
+  ],
+  "synonyms": [
+    "Book Girl: Memoire",
+    "Literature Girl: Memoire",
+    "Bungaku Shoujo Memoire I Yume-Miru Shoujo no Prelude",
+    "II Sora-Mau Tenshi no Requiem",
+    "III Koi Suru Otome no Rhapsody"
+  ],
+  "averageScore": 69,
+  "meanScore": 69,
+  "popularity": 6115,
+  "favourites": 17,
+  "tags": [
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 86,
+      "name": "Primarily Female Cast",
+      "description": "Main cast is mostly composed of female characters.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 227,
+      "name": "Classic Literature",
+      "description": "Discusses or adapts a work of classic world literature.",
+      "category": "Theme-Arts",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 6408,
+          "title": {
+            "native": "文学少女"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 40000,
+          "title": {
+            "native": "“文学少女”と死にたがりの道化【ピエロ】"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 30494,
+          "name": {
+            "first": "Miu",
+            "last": "Asakura",
+            "native": "朝倉美羽",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/30494.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/30494.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/30494"
+        },
+        "voiceActors": [
+          {
+            "id": 95004,
+            "name": {
+              "first": "Aya",
+              "last": "Hirano",
+              "native": "平野綾"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95004-qWQQHGzY3wqr.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95004-qWQQHGzY3wqr.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95004"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36480,
+          "name": {
+            "first": "Kanako",
+            "last": "Sakurai",
+            "native": "櫻井叶子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/36480.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36480.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36480"
+        },
+        "voiceActors": [
+          {
+            "id": 95009,
+            "name": {
+              "first": "Kotono",
+              "last": "Mitsuishi",
+              "native": "三石琴乃"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95009-d01Dg8mMwcg6.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95009-d01Dg8mMwcg6.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95009"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24792,
+          "name": {
+            "first": "Konoha",
+            "last": "Inoue",
+            "native": "井上心葉",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24792-cxbnAGFL6pRF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24792-cxbnAGFL6pRF.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24792"
+        },
+        "voiceActors": [
+          {
+            "id": 95061,
+            "name": {
+              "first": "Chiwa",
+              "last": "Saitou",
+              "native": "斎藤千和"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-R8YSAYX7UFCO.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95061-R8YSAYX7UFCO.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95061"
+          },
+          {
+            "id": 95088,
+            "name": {
+              "first": "Miyu",
+              "last": "Irino",
+              "native": "入野自由"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95088-BHyqnkadBEqi.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95088-BHyqnkadBEqi.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95088"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36482,
+          "name": {
+            "first": "Fumiharu",
+            "last": "Amano",
+            "native": "天野文陽",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/36482.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36482.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36482"
+        },
+        "voiceActors": [
+          {
+            "id": 95063,
+            "name": {
+              "first": "Keiji",
+              "last": "Fujiwara",
+              "native": "藤原啓治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95063-xAsEUzspuLMG.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95063-xAsEUzspuLMG.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95063"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 28936,
+          "name": {
+            "first": "Ryuuto",
+            "last": "Sakurai",
+            "native": "櫻井流人",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/28936.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28936.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28936"
+        },
+        "voiceActors": [
+          {
+            "id": 95065,
+            "name": {
+              "first": "Mamoru",
+              "last": "Miyano",
+              "native": "宮野真守"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95065-eyynywrhombR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95065"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 28937,
+          "name": {
+            "first": "Nanase",
+            "last": "Kotobuki",
+            "native": "琴吹ななせ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/28937.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28937.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28937"
+        },
+        "voiceActors": [
+          {
+            "id": 95081,
+            "name": {
+              "first": "Nana",
+              "last": "Mizuki",
+              "native": "水樹奈々"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95081-qto4UanYkpQT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95081-qto4UanYkpQT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95081"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 28451,
+          "name": {
+            "first": "Touko",
+            "last": "Amano",
+            "native": "天野遠子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b28451-joDcYzyQwsvh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b28451-joDcYzyQwsvh.png"
+          },
+          "siteUrl": "https://anilist.co/character/28451"
+        },
+        "voiceActors": [
+          {
+            "id": 95185,
+            "name": {
+              "first": "Kana",
+              "last": "Hanazawa",
+              "native": "花澤香菜"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95185-x8ZYvtN7SegC.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95185"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36483,
+          "name": {
+            "first": "Yui",
+            "last": "Amano",
+            "native": "天野結衣",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/36483.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36483.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36483"
+        },
+        "voiceActors": [
+          {
+            "id": 95195,
+            "name": {
+              "first": "Kikuko",
+              "last": "Inoue",
+              "native": "井上喜久子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95195-nLvtZl5sCK0D.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95195"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36481,
+          "name": {
+            "first": "Sasaki",
+            "last": null,
+            "native": "佐々木",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/36481.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36481.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36481"
+        },
+        "voiceActors": [
+          {
+            "id": 95260,
+            "name": {
+              "first": "Susumu",
+              "last": "Chiba",
+              "native": "千葉進歩"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95260-pKyM0LbhEznc.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95260-pKyM0LbhEznc.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95260"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 28933,
+          "name": {
+            "first": "Chia",
+            "last": "Takeda",
+            "native": "竹田千愛",
+            "alternative": [
+              "Chii"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/28933.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28933.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28933"
+        },
+        "voiceActors": [
+          {
+            "id": 95599,
+            "name": {
+              "first": "Aki",
+              "last": "Toyosaki",
+              "native": "豊崎愛生"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95599-XDGiluZB7IXL.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95599-XDGiluZB7IXL.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95599"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 28934,
+          "name": {
+            "first": "Kurara",
+            "last": "Mori",
+            "native": "森紅楽々",
+            "alternative": [
+              "森ちゃん"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/28934.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28934.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28934"
+        },
+        "voiceActors": [
+          {
+            "id": 96696,
+            "name": {
+              "first": "Asami",
+              "last": "Shimoda",
+              "native": "下田麻美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96696-nWJbm04iuOWW.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96696-nWJbm04iuOWW.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96696"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Theme Song Composition (OP, ED: ep 3)",
+        "node": {
+          "id": 96532,
+          "name": {
+            "first": "Rino",
+            "last": "",
+            "native": "りの"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96532-51NDeOaGwvlQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96532-51NDeOaGwvlQ.png"
+          },
+          "description": "__[Website](https://coorie.futureartist.net/) | [Profile (Peak A Soul)](https://www.peakasoul.net/coorie) | [Blog (JP)](https://rinocoorie.exblog.jp/) | [Twitter](https://twitter.com/rino_CooRie)__\n\n__Rino__ is a Japanese vocalist, lyricist and composer. She used to be a part of the two-piece unit [CooRie](https://anilist.co/staff/101323) alongside Naoyuki Osada between 2002 and 2003, which is when Osada formally left the unit. Rino would go on to continue the music unit under the same name, but now as a solo unit, and as the sole member. She mostly composes under the name CooRie, but will sometimes be credited under her own name instead.\n\n_(Not to be confused with the voice actress [Rino](https://anilist.co/staff/189936))_",
+          "siteUrl": "https://anilist.co/staff/96532"
+        }
+      },
+      {
+        "role": "Theme Song Lyrics (OP, ED: ep 3)",
+        "node": {
+          "id": 96532,
+          "name": {
+            "first": "Rino",
+            "last": "",
+            "native": "りの"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96532-51NDeOaGwvlQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96532-51NDeOaGwvlQ.png"
+          },
+          "description": "__[Website](https://coorie.futureartist.net/) | [Profile (Peak A Soul)](https://www.peakasoul.net/coorie) | [Blog (JP)](https://rinocoorie.exblog.jp/) | [Twitter](https://twitter.com/rino_CooRie)__\n\n__Rino__ is a Japanese vocalist, lyricist and composer. She used to be a part of the two-piece unit [CooRie](https://anilist.co/staff/101323) alongside Naoyuki Osada between 2002 and 2003, which is when Osada formally left the unit. Rino would go on to continue the music unit under the same name, but now as a solo unit, and as the sole member. She mostly composes under the name CooRie, but will sometimes be credited under her own name instead.\n\n_(Not to be confused with the voice actress [Rino](https://anilist.co/staff/189936))_",
+          "siteUrl": "https://anilist.co/staff/96532"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED: ep 1)",
+        "node": {
+          "id": 100235,
+          "name": {
+            "first": "",
+            "last": "KOKIA",
+            "native": "コキア "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5235.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5235.jpg"
+          },
+          "description": "Kokia is a Japanese singer-songwriter from Tokyo. She is mostly associated with games and anime soundtracks; having appeared in eight different game/anime soundtracks to date. Kokia has an extremely talented voice - she even held a long-tone opera note for a little over 29 seconds on national TV once. She is most well-known in Hong Kong and Taiwan for her song Arigatou..., which became so popular it was even covered by star Sammi Cheng. Her biggest hit in Japan was the single The Power of Smile / Remember the Kiss, which reached #15 on Oricon charts.  (Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/100235"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100805,
+          "name": {
+            "first": "Shunsuke",
+            "last": "Tada",
+            "native": "多田俊介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100805-HMhAgyEZZqro.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100805-HMhAgyEZZqro.png"
+          },
+          "description": "Started off as a production manager at Ad Cosmo.",
+          "siteUrl": "https://anilist.co/staff/100805"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP, ED: ep 3)",
+        "node": {
+          "id": 101323,
+          "name": {
+            "first": "CooRie",
+            "last": "",
+            "native": "クーリエ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101323-2T2ELX1i2fvj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101323-2T2ELX1i2fvj.png"
+          },
+          "description": "__[Website](https://coorie.futureartist.net/) | [Profile (Peak A Soul)](https://www.peakasoul.net/coorie) | [Blog (JP)](https://rinocoorie.exblog.jp/) | [Twitter](https://twitter.com/rino_CooRie)__\n\n__Formed:__ 2002 (as a two-piece unit), 2003 (as a solo unit)\n__Disbanded:__ 2003 (as a two-piece unit)\n\n__Biography:__\nCooRie was a Japanese self-produced two-piece music unit under record labels Mellow Head and Lantis consisting of the members Rino and Naoyuki Osada, where Rino would perform the vocals and do the lyrics, while Osada would do the composition and arrangement. About a year after they formed, Osada would formally leave the unit in 2003, which is also when they disbanded as a two-piece unit. \n\nRino decided to reform the music unit as a solo unit after Osada's departure, and has since been the sole member, who now performs the vocals, while also doing most of the lyrics and composition in the songs. When it comes to the arrangement, the unit largely collaborates with other creators, most prominently [Kaoru Ookubo](https://anilist.co/staff/150930/Kaoru-Ookubo), who has made the arrangement for 19 of CooRie's songs between 2005 and 2015.\n\n__Members:__\n- [Rino](https://anilist.co/staff/96532) (りの) – vocalist and in-charge of lyrics and composition\n\n__Former Members:__\n- Naoyuki Osada (長田直之) – keyboardist and in-charge of composition and arrangement",
+          "siteUrl": "https://anilist.co/staff/101323"
+        }
+      },
+      {
+        "role": "Animation Director (OP, ED)",
+        "node": {
+          "id": 101327,
+          "name": {
+            "first": "Youko",
+            "last": "Kikuchi",
+            "native": "菊地洋子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/101327-BVeZqxqyyNa4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/101327-BVeZqxqyyNa4.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/choco_kiku) | [Wiki (jp)](https://ja.wikipedia.org/wiki/菊地洋子)\n\nMarried to [Eiji Suganuma](https://anilist.co/staff/109167/).\n\n_Note: Not to be confused with [Youko Kikuchi (菊地陽子)](https://anilist.co/staff/141535/), different kanji._",
+          "siteUrl": "https://anilist.co/staff/101327"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 101327,
+          "name": {
+            "first": "Youko",
+            "last": "Kikuchi",
+            "native": "菊地洋子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/101327-BVeZqxqyyNa4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/101327-BVeZqxqyyNa4.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/choco_kiku) | [Wiki (jp)](https://ja.wikipedia.org/wiki/菊地洋子)\n\nMarried to [Eiji Suganuma](https://anilist.co/staff/109167/).\n\n_Note: Not to be confused with [Youko Kikuchi (菊地陽子)](https://anilist.co/staff/141535/), different kanji._",
+          "siteUrl": "https://anilist.co/staff/101327"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 102268,
+          "name": {
+            "first": "Kanta",
+            "last": "Kamei",
+            "native": "亀井幹太"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102268-bweCHrwSQRdf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102268-bweCHrwSQRdf.png"
+          },
+          "description": "[Twitter](https://twitter.com/kantakamei) | [Wiki (jp)](https://ja.wikipedia.org/wiki/亀井幹太)\n\nAdept in various fields related to computer graphics.\n\nClose friends with [Kazuto Nakazawa](https://anilist.co/staff/101474/).",
+          "siteUrl": "https://anilist.co/staff/102268"
+        }
+      },
+      {
+        "role": "Episode Director",
+        "node": {
+          "id": 102561,
+          "name": {
+            "first": "Itsurou",
+            "last": "Kawasaki",
+            "native": "川崎逸朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/102561-MfZQtWrqWPOw.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/102561-MfZQtWrqWPOw.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/itsuro_k)",
+          "siteUrl": "https://anilist.co/staff/102561"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 102606,
+          "name": {
+            "first": "Mizuki",
+            "last": "Nomura",
+            "native": "野村美月"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102606-osV7cR5ZN2ho.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102606-osV7cR5ZN2ho.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/Haruno_Soraha) | [Instagram](https://www.instagram.com/harunoasitaha/)",
+          "siteUrl": "https://anilist.co/staff/102606"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 102607,
+          "name": {
+            "first": "Miho",
+            "last": "Takeoka",
+            "native": "竹岡美穂"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Website](http://www.nezicaplant.com/)\n\nOlder sister of the novelist [Hazuki Takeoka](https://anilist.co/staff/115200).",
+          "siteUrl": "https://anilist.co/staff/102607"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED: ep 2)",
+        "node": {
+          "id": 103635,
+          "name": {
+            "first": "Masumi",
+            "last": "Itou",
+            "native": "伊藤真澄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8635.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8635.jpg"
+          },
+          "description": "Masumi Itou is a singer and composer. Ito has composed the soundtracks to many anime television shows and is part of the bands Oranges &amp; Lemons and Heart of Air. She graduated from Musashino College of Music, and her husband is music producer Yoshiyuki Ito.",
+          "siteUrl": "https://anilist.co/staff/103635"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 103635,
+          "name": {
+            "first": "Masumi",
+            "last": "Itou",
+            "native": "伊藤真澄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8635.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8635.jpg"
+          },
+          "description": "Masumi Itou is a singer and composer. Ito has composed the soundtracks to many anime television shows and is part of the bands Oranges &amp; Lemons and Heart of Air. She graduated from Musashino College of Music, and her husband is music producer Yoshiyuki Ito.",
+          "siteUrl": "https://anilist.co/staff/103635"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 104903,
+          "name": {
+            "first": "Rui",
+            "last": "Kuroki",
+            "native": "黒木るい"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104903-zK3kpS17gTeQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104903-zK3kpS17gTeQ.png"
+          },
+          "description": "Animation Producer formerly affiliated with [Production I.G.](https://anilist.co/studio/10/Production-IG) Currently President of CUE.",
+          "siteUrl": "https://anilist.co/staff/104903"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 110911,
+          "name": {
+            "first": "Hideyo",
+            "last": "Yamamoto",
+            "native": "山本秀世"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110911-IW7AiIkA3rWP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110911-IW7AiIkA3rWP.png"
+          },
+          "description": "[Twitter](https://twitter.com/bob_yamamoto)",
+          "siteUrl": "https://anilist.co/staff/110911"
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (OP, ED: ep 3)",
+        "node": {
+          "id": 150930,
+          "name": {
+            "first": "Kaoru",
+            "last": "Ookubo",
+            "native": "大久保薫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n150930-XFyCzvC82OGU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n150930-XFyCzvC82OGU.png"
+          },
+          "description": "__<a href=\"https://twitter.com/kaoruokubomusic\">Twitter</a> | <a href=\"https://www.instagram.com/kaoruokubomusic/\">Instagram</a>__\n\n__Kaoru Ookubo__ is a Japanese arranger, composer, musician, orechestrator and keyboardist. He is a part of the sound production studio <a href=\"http://popholic.jp/\">Popholic</a>.\n\nOnce had the title \"god of anison\" in the mid-2000s.",
+          "siteUrl": "https://anilist.co/staff/150930"
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (ED: eps 1, 2)",
+        "node": {
+          "id": 103635,
+          "name": {
+            "first": "Masumi",
+            "last": "Itou",
+            "native": "伊藤真澄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8635.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8635.jpg"
+          },
+          "description": "Masumi Itou is a singer and composer. Ito has composed the soundtracks to many anime television shows and is part of the bands Oranges &amp; Lemons and Heart of Air. She graduated from Musashino College of Music, and her husband is music producer Yoshiyuki Ito.",
+          "siteUrl": "https://anilist.co/staff/103635"
+        }
+      },
+      {
+        "role": "Theme Song Lyrics (ED: ep 2)",
+        "node": {
+          "id": 103635,
+          "name": {
+            "first": "Masumi",
+            "last": "Itou",
+            "native": "伊藤真澄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8635.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8635.jpg"
+          },
+          "description": "Masumi Itou is a singer and composer. Ito has composed the soundtracks to many anime television shows and is part of the bands Oranges &amp; Lemons and Heart of Air. She graduated from Musashino College of Music, and her husband is music producer Yoshiyuki Ito.",
+          "siteUrl": "https://anilist.co/staff/103635"
+        }
+      },
+      {
+        "role": "Theme Song Composition (ED: eps 1, 2)",
+        "node": {
+          "id": 103635,
+          "name": {
+            "first": "Masumi",
+            "last": "Itou",
+            "native": "伊藤真澄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8635.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8635.jpg"
+          },
+          "description": "Masumi Itou is a singer and composer. Ito has composed the soundtracks to many anime television shows and is part of the bands Oranges &amp; Lemons and Heart of Air. She graduated from Musashino College of Music, and her husband is music producer Yoshiyuki Ito.",
+          "siteUrl": "https://anilist.co/staff/103635"
+        }
+      },
+      {
+        "role": "Theme Song Lyrics (ED: ep 1)",
+        "node": {
+          "id": 100235,
+          "name": {
+            "first": "",
+            "last": "KOKIA",
+            "native": "コキア "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5235.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5235.jpg"
+          },
+          "description": "Kokia is a Japanese singer-songwriter from Tokyo. She is mostly associated with games and anime soundtracks; having appeared in eight different game/anime soundtracks to date. Kokia has an extremely talented voice - she even held a long-tone opera note for a little over 29 seconds on national TV once. She is most well-known in Hong Kong and Taiwan for her song Arigatou..., which became so popular it was even covered by star Sammi Cheng. Her biggest hit in Japan was the single The Power of Smile / Remember the Kiss, which reached #15 on Oricon charts.  (Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/100235"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 10,
+          "name": "Production I.G",
+          "siteUrl": "https://anilist.co/studio/10"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 21140,
+      "rank": 20,
+      "type": "RATED",
+      "format": "OVA",
+      "year": 2010,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 21177,
+      "rank": 27,
+      "type": "POPULAR",
+      "format": "OVA",
+      "year": 2010,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 21
+      },
+      {
+        "score": 20,
+        "amount": 21
+      },
+      {
+        "score": 30,
+        "amount": 42
+      },
+      {
+        "score": 40,
+        "amount": 80
+      },
+      {
+        "score": 50,
+        "amount": 247
+      },
+      {
+        "score": 60,
+        "amount": 448
+      },
+      {
+        "score": 70,
+        "amount": 818
+      },
+      {
+        "score": 80,
+        "amount": 541
+      },
+      {
+        "score": 90,
+        "amount": 310
+      },
+      {
+        "score": 100,
+        "amount": 136
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 147
+      },
+      {
+        "status": "PLANNING",
+        "amount": 2213
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 3530
+      },
+      {
+        "status": "DROPPED",
+        "amount": 104
+      },
+      {
+        "status": "PAUSED",
+        "amount": 121
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/8481",
+  "modNotes": null
+}

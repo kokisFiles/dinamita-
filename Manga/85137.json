@@ -1,0 +1,353 @@
+{
+  "id": 85137,
+  "idMal": 59669,
+  "title": {
+    "native": "STEINS;GATE 永劫回帰のパンドラ",
+    "romaji": "Steins;Gate: Eigou Kaiki no Pandora",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "CANCELLED",
+  "description": "The second part of the Steins;Gate Epigraph Trilogy, a continuation of Heiji Kyokusen no Epigraph.",
+  "startDate": {
+    "year": 2014,
+    "month": 5,
+    "day": 23
+  },
+  "endDate": {
+    "year": 2015,
+    "month": 4,
+    "day": 23
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 10,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748705940,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85137-f5B7rWmN1mcQ.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85137-f5B7rWmN1mcQ.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx85137-f5B7rWmN1mcQ.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Steins,Gate: Pandora of Eternal Return"
+  ],
+  "averageScore": 67,
+  "meanScore": 77,
+  "popularity": 765,
+  "favourites": 8,
+  "tags": [
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 79381,
+          "title": {
+            "native": "Steins;Gate 閉時曲線のエピグラフ"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 47517,
+          "title": {
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 91997,
+          "title": {
+            "native": "STEINS;GATE 星屑のデュプレット"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 35252,
+          "name": {
+            "first": "Rintarou",
+            "last": "Okabe",
+            "native": "岡部倫太郎",
+            "alternative": [
+              "Rintaro",
+              "Hououin Kyouma (鳳凰院凶真)",
+              "Okarin (オカリン)",
+              "Mad Scientist",
+              "Future Gadget Lab Member #001",
+              "Lintahlo",
+              "M3",
+              "Salieri's Neighbor",
+              "Rinta-kun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35252-DY9TW6pusqeh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35252-DY9TW6pusqeh.png"
+          },
+          "siteUrl": "https://anilist.co/character/35252"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 83419,
+          "name": {
+            "first": "Maho",
+            "last": "Hiyajou",
+            "native": "比屋定真帆 ",
+            "alternative": [
+              "Hiyajo",
+              "Maho-meow",
+              "Lab Member 009",
+              "Salieri",
+              "Loli Girl",
+              "Safina"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83419-p2gjgTL37GTU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b83419-p2gjgTL37GTU.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/83419"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35255,
+          "name": {
+            "first": "Suzuha",
+            "last": "Amane",
+            "native": "阿万音鈴羽",
+            "alternative": [
+              "Suzu",
+              "Part-Time Warrior",
+              "008",
+              "Suzu-meow",
+              "The Silent Slaughterer"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35255-Ra9Aq5Kn9lYq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35255-Ra9Aq5Kn9lYq.png"
+          },
+          "siteUrl": "https://anilist.co/character/35255"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35258,
+          "name": {
+            "first": "Itaru",
+            "last": "Hashida",
+            "native": "橋田至",
+            "alternative": [
+              "Daru",
+              "Perverted Gentleman",
+              "Super Hakar",
+              "Hack",
+              "DaSH",
+              "DaSP",
+              "Mr. Smileybear",
+              "Daru-meow",
+              "Lab Member 003"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35258-FeTGR4LEUNvt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35258-FeTGR4LEUNvt.png"
+          },
+          "siteUrl": "https://anilist.co/character/35258"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34470,
+          "name": {
+            "first": "Kurisu",
+            "last": "Makise",
+            "native": "牧瀬紅莉栖",
+            "alternative": [
+              "Christina",
+              "Assistant",
+              "American Virgin",
+              "Perverted Genius Girl",
+              "Celeb 17",
+              "The Zombie",
+              "Kuu-meow",
+              "k.makise",
+              "KuriGohan Kamehameha",
+              "Lab Member 004",
+              "KURI_KAME"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b34470-Jw2LXZBL5R8i.png"
+          },
+          "siteUrl": "https://anilist.co/character/34470"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Art",
+        "node": {
+          "id": 120910,
+          "name": {
+            "first": "Yasuyuki",
+            "last": "Torikai",
+            "native": "鳥飼やすゆき"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120910-BWtbFMLZNHSp.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n120910-BWtbFMLZNHSp.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/torikai_yasu) | [Pixiv](https://www.pixiv.net/users/16744020)",
+          "siteUrl": "https://anilist.co/staff/120910"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 120911,
+          "name": {
+            "first": "Masashi",
+            "last": "Takimoto",
+            "native": "たきもとまさし"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/120911"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 8
+      },
+      {
+        "score": 60,
+        "amount": 9
+      },
+      {
+        "score": 70,
+        "amount": 24
+      },
+      {
+        "score": 80,
+        "amount": 42
+      },
+      {
+        "score": 90,
+        "amount": 25
+      },
+      {
+        "score": 100,
+        "amount": 18
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 117
+      },
+      {
+        "status": "PLANNING",
+        "amount": 486
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 118
+      },
+      {
+        "status": "DROPPED",
+        "amount": 16
+      },
+      {
+        "status": "PAUSED",
+        "amount": 28
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/85137",
+  "modNotes": null
+}

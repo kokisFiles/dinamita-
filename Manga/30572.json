@@ -1,0 +1,988 @@
+{
+  "id": 30572,
+  "idMal": 572,
+  "title": {
+    "native": "美鳥の日々",
+    "romaji": "Midori no Hibi",
+    "english": "Midori Days"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Seiji Sawamura is the toughest seventeen-year-old in town, feared by all for his fighting prowess and his deadly \"Devil's Right Hand.\"  But at heart, Seiji is a softy, and all he wants is an end to his seventeen-year history of being a lonely single guy. Unfortunately, his tough-guy reputation only serves to decrease his popularity with the ladies, until one day he wakes up to find a girl named Midori has replaced his right hand, and admits she has had a crush on him since middle school.",
+  "startDate": {
+    "year": 2002,
+    "month": 9,
+    "day": 18
+  },
+  "endDate": {
+    "year": 2004,
+    "month": 7,
+    "day": 21
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 86,
+  "volumes": 8,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748909142,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/572.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/572.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/572.jpg",
+    "color": "#e4d60d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/30572-Gy87t89n7Ztp.jpg",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Ecchi",
+    "Romance"
+  ],
+  "synonyms": [
+    "Midori's Days",
+    "Midori, Échame una Mano"
+  ],
+  "averageScore": 73,
+  "meanScore": 74,
+  "popularity": 3966,
+  "favourites": 76,
+  "tags": [
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 311,
+      "name": "Rehabilitation",
+      "description": "Prominently features the recovery of a character who became incapable of social life or work.",
+      "category": "Theme-Drama",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 186,
+      "name": "Crossdressing",
+      "description": "Prominently features a character dressing up as the opposite sex.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 1456,
+      "name": "Femboy",
+      "description": "Features a boy who exhibits characteristics or behaviors considered in many cultures to be typical of girls.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 139,
+      "name": "Love Triangle",
+      "description": "Centered around romantic feelings between more than two people. Includes all love polygons.",
+      "category": "Theme-Romance",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 395,
+      "name": "Delinquents",
+      "description": "Features characters with a notorious image and attitude, sometimes referred to as \"yankees\".",
+      "category": "Cast-Traits",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1228,
+      "name": "Primarily Teen Cast",
+      "description": "Main cast is mostly composed of teen characters.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 97,
+      "name": "Otaku Culture",
+      "description": "Centers around the culture of a fanatical fan-base.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 330,
+          "title": {
+            "native": "美鳥の日々"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 37085,
+          "title": {
+            "native": "葵DESTRUCTION!"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3627,
+          "name": {
+            "first": "Midori",
+            "last": "Kasugano",
+            "native": "春日野美鳥",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3627-6aUVgjhr0j5x.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3627-6aUVgjhr0j5x.png"
+          },
+          "siteUrl": "https://anilist.co/character/3627"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3626,
+          "name": {
+            "first": "Seiji",
+            "last": "Sawamura",
+            "native": "沢村正治",
+            "alternative": [
+              "The Mad Dog"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/3626.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/3626.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3626"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4012,
+          "name": {
+            "first": "Takako",
+            "last": "Ayase",
+            "native": "綾瀬 貴子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4012.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4012.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4012"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 10243,
+          "name": {
+            "first": "Haruka",
+            "last": "Kasugano",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10243.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10243.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10243"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 10242,
+          "name": {
+            "first": "Shirou",
+            "last": "Makinoha",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10242.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10242.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10242"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3381,
+          "name": {
+            "first": "Nao",
+            "last": "Makinoha",
+            "native": "槙葉 奈緒,",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/3381.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/3381.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3381"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7729,
+          "name": {
+            "first": "Osamu",
+            "last": "Miyahara",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7729.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7729.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7729"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 10244,
+          "name": {
+            "first": "Miku",
+            "last": "Nekobe",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10244.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10244.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10244"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 10241,
+          "name": {
+            "first": "Hisashi",
+            "last": "Sakisaka",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10241.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10241.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10241"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 19478,
+          "name": {
+            "first": "Aoi",
+            "last": "Samejima",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/19478.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/19478.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/19478"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6993,
+          "name": {
+            "first": "Rin",
+            "last": "Sawamura",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/6993.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/6993.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6993"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 10246,
+          "name": {
+            "first": "Kouta",
+            "last": "Shingyouji",
+            "native": "真行寺 耕太",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10246.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10246.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10246"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6992,
+          "name": {
+            "first": "Shuuichi",
+            "last": "Takamizawa",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/6992.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/6992.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6992"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6991,
+          "name": {
+            "first": "Shiori",
+            "last": "Tsukishima",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/6991.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/6991.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6991"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 10245,
+          "name": {
+            "first": "Lucy",
+            "last": "Winrad",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/10245.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/10245.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/10245"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97541,
+          "name": {
+            "first": "Kazurou",
+            "last": "Inoue",
+            "native": "井上和郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97541-bhs6eKGR4NTO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97541-bhs6eKGR4NTO.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/inouekazurou)\n\nAfter working on 4-panel manga, his DREAM SECURITY Mao was selected for Shogakukan's prestigious 40th Shinjin Comic Taisho (Newcomer's Award for Comics). Kazurou Inoue worked as [FUJITA Kazuhiro](https://anilist.co/staff/97660/)'s assistant and in 2001 he debuted in Shonen Sunday Super with HEAT WAVE. His major works include Midori Days and Love & Collage. His latest series Maho no Iroha! started in the October issue of Shonen Sunday Super Zokan.\n\n",
+          "siteUrl": "https://anilist.co/staff/97541"
+        }
+      },
+      {
+        "role": "Editor",
+        "node": {
+          "id": 216961,
+          "name": {
+            "first": "Toshiyuki",
+            "last": "Hari",
+            "native": "畭俊之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/216961"
+        }
+      },
+      {
+        "role": "Assistant",
+        "node": {
+          "id": 150537,
+          "name": {
+            "first": "Tsuyoshi",
+            "last": "Yakou",
+            "native": "谷古宇剛"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n150537-rix15IybaXOZ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n150537-rix15IybaXOZ.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/Yakou_TNK)",
+          "siteUrl": "https://anilist.co/staff/150537"
+        }
+      },
+      {
+        "role": "Assistant",
+        "node": {
+          "id": 129192,
+          "name": {
+            "first": "Yukiwo",
+            "last": "Katayama",
+            "native": "片山ユキヲ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129192-x79NC7gJYcYU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n129192-x79NC7gJYcYU.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/inugawan)",
+          "siteUrl": "https://anilist.co/staff/129192"
+        }
+      },
+      {
+        "role": "Assistant",
+        "node": {
+          "id": 341569,
+          "name": {
+            "first": "Takeshi",
+            "last": "Kawakita",
+            "native": "河北タケシ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/341569"
+        }
+      },
+      {
+        "role": "Assistant",
+        "node": {
+          "id": 341568,
+          "name": {
+            "first": "Kojiro",
+            "last": "Yamakawa",
+            "native": "山川弘次郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/341568"
+        }
+      },
+      {
+        "role": "Assistant",
+        "node": {
+          "id": 341567,
+          "name": {
+            "first": "Noriyoshi",
+            "last": "Akabane",
+            "native": "赤羽紀良"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/341567"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 26395,
+      "rank": 30,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2002,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 26494,
+      "rank": 29,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 2002,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 54164,
+          "rating": 11,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30401,
+            "title": {
+              "native": "寄生獣"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 81569,
+          "rating": 3,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 46658,
+            "title": {
+              "native": "あねコミ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 84721,
+          "rating": 3,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33537,
+            "title": {
+              "native": "ヤンキー君とメガネちゃん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 89514,
+          "rating": 2,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 51809,
+            "title": {
+              "native": "ミニマム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 91335,
+          "rating": 6,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30160,
+            "title": {
+              "native": "スクールランブル"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99013,
+          "rating": 5,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30615,
+            "title": {
+              "native": "あいこら"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 113859,
+          "rating": 2,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33648,
+            "title": {
+              "native": "七人のナナ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 114422,
+          "rating": 0,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 46526,
+            "title": {
+              "native": "魔法のいろは！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 114424,
+          "rating": 3,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 97704,
+            "title": {
+              "native": "指定暴力少女しおみちゃん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 117429,
+          "rating": 3,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 42264,
+            "title": {
+              "native": "ごてんばチアリーダーズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 129863,
+          "rating": 1,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 109037,
+            "title": {
+              "native": "超可動ガール1/6"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 185265,
+          "rating": 1,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 91454,
+            "title": {
+              "native": "まりあさんは透明少女"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187187,
+          "rating": 3,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 117263,
+            "title": {
+              "native": "左手のための二重奏"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 190591,
+          "rating": 1,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 104481,
+            "title": {
+              "native": "君を回したい。"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 190635,
+          "rating": 2,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 154888,
+            "title": {
+              "native": "だきまくランナー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 226160,
+          "rating": 5,
+          "media": {
+            "id": 30572,
+            "title": {
+              "native": "美鳥の日々"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 147902,
+            "title": {
+              "native": "俺の股間は美少女だったのか"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 7
+      },
+      {
+        "score": 20,
+        "amount": 5
+      },
+      {
+        "score": 30,
+        "amount": 26
+      },
+      {
+        "score": 40,
+        "amount": 30
+      },
+      {
+        "score": 50,
+        "amount": 98
+      },
+      {
+        "score": 60,
+        "amount": 169
+      },
+      {
+        "score": 70,
+        "amount": 408
+      },
+      {
+        "score": 80,
+        "amount": 442
+      },
+      {
+        "score": 90,
+        "amount": 296
+      },
+      {
+        "score": 100,
+        "amount": 100
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 247
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1355
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2103
+      },
+      {
+        "status": "DROPPED",
+        "amount": 148
+      },
+      {
+        "status": "PAUSED",
+        "amount": 113
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/30572",
+  "modNotes": null
+}

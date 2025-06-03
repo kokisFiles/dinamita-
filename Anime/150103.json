@@ -1,0 +1,1215 @@
+{
+  "id": 150103,
+  "idMal": null,
+  "title": {
+    "native": "リック・アンド・モーティ ザ・アニメ",
+    "romaji": "Rick and Morty: The Anime",
+    "english": "Rick and Morty: The Anime"
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "An anime adaptation of Rick and Morty. Directed by Takashi Sano (Rick and Morty vs. Genocider, Summer Meets God) at Telecom Animation Film, the anime will be an original work, based on themes and events from the main Rick and Morty animated series. \n<br><br>\n(Source: Anime News Network, edited)\n<br><br>\n<i>Note: The first episode was screened early on June 25th at the 17th International Animated Film Festival ANIMATOR in Poznań, Poland.<i>",
+  "startDate": {
+    "year": 2024,
+    "month": 8,
+    "day": 16
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 10,
+    "day": 18
+  },
+  "season": "SUMMER",
+  "seasonYear": 2024,
+  "seasonInt": 243,
+  "episodes": 10,
+  "duration": 19,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": {
+    "id": "ASis6aJCnM8",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/ASis6aJCnM8/hqdefault.jpg"
+  },
+  "updatedAt": 1748899173,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150103-6rlFCeObUPlI.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150103-6rlFCeObUPlI.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150103-6rlFCeObUPlI.jpg",
+    "color": "#93e45d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Rick i Morty: Anime"
+  ],
+  "averageScore": 43,
+  "meanScore": 43,
+  "popularity": 5969,
+  "favourites": 98,
+  "tags": [
+    {
+      "id": 191,
+      "name": "Aliens",
+      "description": "Prominently features extraterrestrial lifeforms.",
+      "category": "Cast-Traits",
+      "rank": 90,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 63,
+      "name": "Space",
+      "description": "Partly or completely set in outer space.",
+      "category": "Setting-Universe",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 146,
+      "name": "Alternate Universe",
+      "description": "Features multiple alternate universes in the same series.",
+      "category": "Setting-Universe",
+      "rank": 79,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1342,
+      "name": "Clone",
+      "description": "Prominently features a character who is an artificial exact copy of another organism.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1666,
+      "name": "Elderly Protagonist",
+      "description": "The protagonist is either over 60 years of age, has an elderly appearance, or, in the case of non-humans, is considered elderly for their species.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 96,
+      "name": "Time Manipulation",
+      "description": "Prominently features time-traveling or other time-warping phenomena.",
+      "category": "Theme-Sci-Fi",
+      "rank": 79,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 226,
+      "name": "Fugitive",
+      "description": "Prominently features a character evading capture by an individual or organization.",
+      "category": "Theme-Action",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 294,
+      "name": "Bisexual",
+      "description": "Features a character who is romantically or sexually attracted to people of more than one sex or gender.",
+      "category": "Cast-Traits",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 93,
+      "name": "Post-Apocalyptic",
+      "description": "Partly or completely set in a world or civilization after a global disaster.",
+      "category": "Setting-Universe",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 112,
+      "name": "Virtual World",
+      "description": "Partly or completely set in the world inside a video game.",
+      "category": "Setting-Universe",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 308,
+      "name": "Video Games",
+      "description": "Centers around characters playing video games.",
+      "category": "Theme-Game",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 391,
+      "name": "Philosophy",
+      "description": "Relating or devoted to the study of the fundamental nature of knowledge, reality, and existence.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 104,
+      "name": "Anti-Hero",
+      "description": "Features a protagonist who lacks conventional heroic attributes and may be considered a borderline villain.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 172,
+      "name": "Superhero",
+      "description": "Prominently features super-powered humans who aim to serve the greater good.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 365,
+      "name": "Memory Manipulation",
+      "description": "Prominently features a character(s) who has had their memories altered.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 240,
+      "name": "Amnesia",
+      "description": "Prominently features a character(s) with memory loss.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 801,
+      "name": "Cyborg",
+      "description": "Prominently features a human character whose physiological functions are aided or enhanced by artificial means.",
+      "category": "Cast-Traits",
+      "rank": 53,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1616,
+      "name": "Snowscape",
+      "description": "Prominently or partially set in a snowy environment.",
+      "category": "Setting-Scene",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 199,
+      "name": "Yakuza",
+      "description": "Centered around Japanese organised crime syndicates.",
+      "category": "Theme-Other-Organisations",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1304,
+      "name": "Anthropomorphism",
+      "description": "Contains non-human character(s) that have attributes or characteristics of a human being.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 137537,
+          "title": {
+            "native": "リック・アンド・モーティ サマー・ミーツ・ゴッド"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 122536,
+          "title": {
+            "native": "リック・アンド・モーティ対ジェノサイダー"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 143287,
+          "title": {
+            "native": "Rick and Morty: The Great Yokai Battle of Akihabara"
+          }
+        },
+        "relationType": "OTHER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 184004,
+          "name": {
+            "first": "Richard",
+            "last": "Sanchez",
+            "native": "Rick Sanchez",
+            "alternative": [
+              "リック・サンチェス",
+              "Rick C-137",
+              "Pickle Rick"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184004-SvQPlDTAR5MW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184004-SvQPlDTAR5MW.png"
+          },
+          "siteUrl": "https://anilist.co/character/184004"
+        },
+        "voiceActors": [
+          {
+            "id": 100691,
+            "name": {
+              "first": "Youhei",
+              "last": "Tadano",
+              "native": "多田野曜平 "
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100691-3Z7NxFXFVoea.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100691-3Z7NxFXFVoea.png"
+            },
+            "siteUrl": "https://anilist.co/staff/100691"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 184005,
+          "name": {
+            "first": "Mortimer",
+            "last": "Smith",
+            "native": "Morty Smith",
+            "alternative": [
+              "モーティ・スミス",
+              "Morty C-137"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184005-Uk1BBs7ecqHR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184005-Uk1BBs7ecqHR.png"
+          },
+          "siteUrl": "https://anilist.co/character/184005"
+        },
+        "voiceActors": [
+          {
+            "id": 184024,
+            "name": {
+              "first": "Keisuke",
+              "last": "Chiba",
+              "native": "啓介千葉"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n184024-Rn9SLabNuRpH.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n184024-Rn9SLabNuRpH.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/184024"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 184020,
+          "name": {
+            "first": "Jerry",
+            "last": "Smith",
+            "native": "Jerry Smith",
+            "alternative": [
+              "ジェリー・スミス"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184020-0YRGrA9ZIXzc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184020-0YRGrA9ZIXzc.png"
+          },
+          "siteUrl": "https://anilist.co/character/184020"
+        },
+        "voiceActors": [
+          {
+            "id": 101057,
+            "name": {
+              "first": "Manabu",
+              "last": "Muraji",
+              "native": "村治学"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6057.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6057.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101057"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243190,
+          "name": {
+            "first": "Summer",
+            "last": "Smith",
+            "native": "Summer Smith",
+            "alternative": [
+              "サマー・スミス"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b243190-De3OcJSLQNCr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b243190-De3OcJSLQNCr.png"
+          },
+          "siteUrl": "https://anilist.co/character/243190"
+        },
+        "voiceActors": [
+          {
+            "id": 162412,
+            "name": {
+              "first": "Akiha",
+              "last": "Matsui",
+              "native": "松井暁波"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n162412-blAgPbN5hJJg.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n162412-blAgPbN5hJJg.png"
+            },
+            "siteUrl": "https://anilist.co/staff/162412"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 243191,
+          "name": {
+            "first": "Beth",
+            "last": "Smith",
+            "native": "Beth Smith",
+            "alternative": [
+              "ベス・スミス",
+              "Beth Sanchez (ベス・サンチェス)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b243191-YLpnME2PMNDa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b243191-YLpnME2PMNDa.png"
+          },
+          "siteUrl": "https://anilist.co/character/243191"
+        },
+        "voiceActors": [
+          {
+            "id": 106536,
+            "name": {
+              "first": "Takako",
+              "last": "Fuji",
+              "native": "藤貴子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106536-9lm8IDppDzcI.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106536-9lm8IDppDzcI.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/106536"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 344039,
+          "name": {
+            "first": "Elle",
+            "last": null,
+            "native": "エル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b344039-KCghbfntlHfB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b344039-KCghbfntlHfB.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/344039"
+        },
+        "voiceActors": [
+          {
+            "id": 121050,
+            "name": {
+              "first": "Hitomi",
+              "last": "Sasaki",
+              "native": "咲々木瞳"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121050-ixtoPbWsZNOw.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121050-ixtoPbWsZNOw.png"
+            },
+            "siteUrl": "https://anilist.co/staff/121050"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 184142,
+          "name": {
+            "first": "Mark",
+            "last": "Roiland",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n184142-5LlA0Yg5ytWI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n184142-5LlA0Yg5ytWI.png"
+          },
+          "description": "Mark Justin Roiland is an American voice actor, animator, writer, producer, director, and comedian. He is best known as the co-creator of Adult Swim's Rick and Morty, of which he voices the show's titular characters. He is also the creator of Hulu's Solar Opposites, in which he voices the main character, Korvo, and is also known as the voice of the Earl of Lemongrab on Adventure Time and Blendin Blandin on Gravity Falls.\n\nHe is the founder of the animation studio Justin Roiland's Solo Vanity Card Productions! and the video game studio Squanch Games.\n\nIn August 2020, Roiland was charged with felony domestic battery and false imprisonment but knowledge of the charges were not made public until 2023. After the news broke, he was dismissed from Rick and Morty, removed from the shows Solar Opposites and Koala Man, and resigned from Squanch Games. The charges were later dismissed due to insufficient evidence, but in September 2023, new allegations of sexual assault were reported against him.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/184142"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 184141,
+          "name": {
+            "first": "Daniel",
+            "last": "Harmon",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n184141-RIYkzpOp22ae.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n184141-RIYkzpOp22ae.png"
+          },
+          "description": "Daniel James Harmon is an American writer, producer, actor, and comedian. Harmon created and produced the NBC sitcom Community (2009–2015), co-created the Adult Swim animated series Rick and Morty (2013–present), and co-founded the alternative television network and website Channel 101. Harmon published the book You'll Be Perfect When You're Dead in 2013 He also hosted a weekly podcast, Harmontown (2012–2019).\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/184141"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 141892,
+          "name": {
+            "first": "Takashi",
+            "last": "Sano",
+            "native": "佐野隆史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n141892-LRVxjcH5EdKa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n141892-LRVxjcH5EdKa.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/141892"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 104313,
+          "name": {
+            "first": "Makiko",
+            "last": "Kojima",
+            "native": "小島真喜子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/104313"
+        }
+      },
+      {
+        "role": "Animation Producer",
+        "node": {
+          "id": 158893,
+          "name": {
+            "first": "Yuu",
+            "last": "Kiyozono",
+            "native": "浄園祐"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n158893-Aroos3n7n8Nr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n158893-Aroos3n7n8Nr.png"
+          },
+          "description": "President and CEO of [Telecom Animation Film](https://anilist.co/studio/94/). ",
+          "siteUrl": "https://anilist.co/staff/158893"
+        }
+      },
+      {
+        "role": "Executive Producer",
+        "node": {
+          "id": 104798,
+          "name": {
+            "first": "Joseph",
+            "last": "Chou",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104798-doITFg2tSWc6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104798-doITFg2tSWc6.png"
+          },
+          "description": "While growing up in Korea Joseph Chou became exposed to Japanese anime which inspired him to go into the entertainment industry. He came to work for Warner Home Entertainment group as the project The Animatrix began picking up momentum. After the surprise success of The Animatrix, Chou was placed head of a division within Warner to oversee new animation projects. He helped lead the way for other projects such as Batman Gotham Knight to be produced after he left Warner. He's worked with some noted industry giants such as Shinji Aramaki and John Woo, as well as people in the U.S. such as ADV founder John Ledford.\n\nHe is the founder and CEO of [Sola Digital Arts](https://anilist.co/studio/6195/), an anime production company.",
+          "siteUrl": "https://anilist.co/staff/104798"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 190646,
+          "name": {
+            "first": "Arisa",
+            "last": "Matsuzawa",
+            "native": "松沢有紗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with [Telecom Animation Film (TAF)](https://anilist.co/studio/94). ",
+          "siteUrl": "https://anilist.co/staff/190646"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 162366,
+          "name": {
+            "first": "Tatsuo",
+            "last": "Noguchi",
+            "native": "野口龍生"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/162366"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 144842,
+          "name": {
+            "first": "Kouichi",
+            "last": "Iizuka",
+            "native": "飯塚康一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144842-EmWdtWz2v0rz.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n144842-EmWdtWz2v0rz.png"
+          },
+          "description": "[Twitter](https://twitter.com/koichi_iizuka)",
+          "siteUrl": "https://anilist.co/staff/144842"
+        }
+      },
+      {
+        "role": "Executive Producer",
+        "node": {
+          "id": 245993,
+          "name": {
+            "first": "Jason DeMarco",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n245993-4nh15ZF5pJsq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n245993-4nh15ZF5pJsq.png"
+          },
+          "description": "[Bluesky](https://bsky.app/profile/clarknova.bsky.social)\n\nSVP Anime & Action Series/Longform for Warner Discovery.\nVP and Creative Director for on-air at Adult Swim.\nCo-Creator and Senior Writer/Producer for Toonami.\nFounder of Williams Street Records.",
+          "siteUrl": "https://anilist.co/staff/245993"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 105205,
+          "name": {
+            "first": "Yoshihiro",
+            "last": "Kasahara",
+            "native": "笠原義宏"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/105205"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 107200,
+          "name": {
+            "first": "Tetsuya",
+            "last": "Takahashi",
+            "native": "高橋哲也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107200-B1vD4lTrkH1c.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107200-B1vD4lTrkH1c.jpg"
+          },
+          "description": "[Website](https://terra-musica.jp/) | [Twitter](https://twitter.com/t2_takahashi)\n\nJapanese composer and arranger. In 1987 he won a CM production contest together with some college friends and started his career as CM music producer afterwards. In 1996 he debuted under Toshiba EMI as singer-songwriter and continued to expand his work field further to that of arranger.",
+          "siteUrl": "https://anilist.co/staff/107200"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 104376,
+          "name": {
+            "first": "Takenari",
+            "last": "Maeda",
+            "native": "前田健成"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/104376"
+        }
+      },
+      {
+        "role": "Special Effects Supervisor",
+        "node": {
+          "id": 153938,
+          "name": {
+            "first": "Kaori",
+            "last": "Kobayashi",
+            "native": "小林香織"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Part of Team Taniguchi.",
+          "siteUrl": "https://anilist.co/staff/153938"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 310766,
+          "name": {
+            "first": "Cameron",
+            "last": "Earnshaw",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n310766-ghPmcoSJJG4m.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n310766-ghPmcoSJJG4m.jpg"
+          },
+          "description": "[Instagram](https://www.instagram.com/c4msh4w/)\n\nVocalist, musician, and composer. ",
+          "siteUrl": "https://anilist.co/staff/310766"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 310765,
+          "name": {
+            "first": "0C",
+            "last": null,
+            "native": "ぜろしー"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n310765-AZYLihvTXvlH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n310765-AZYLihvTXvlH.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/codeofzeroC)\n\nVocalist of the Japanese band CODE OF ZERO.",
+          "siteUrl": "https://anilist.co/staff/310765"
+        }
+      },
+      {
+        "role": "CG Director",
+        "node": {
+          "id": 162676,
+          "name": {
+            "first": "Yi",
+            "last": "Cao",
+            "native": "曹毅"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n162676-OLlWe2DpS03t.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n162676-OLlWe2DpS03t.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/473849441)\n\nCEO of Souki Production.",
+          "siteUrl": "https://anilist.co/staff/162676"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 326716,
+          "name": {
+            "first": "Max",
+            "last": "Nishi",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n326716-i1D7sWPQjqIh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n326716-i1D7sWPQjqIh.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/326716"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 326714,
+          "name": {
+            "first": "Maki",
+            "last": "Nagano",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/326714"
+        }
+      },
+      {
+        "role": "ADR Director (Polish)",
+        "node": {
+          "id": 275838,
+          "name": {
+            "first": "Jan",
+            "last": "Aleksandrowicz-Krasko",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n275838-JDO7nMyHwfJG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n275838-JDO7nMyHwfJG.png"
+          },
+          "description": "[Instagram](https://www.instagram.com/ale_krasny_jan?igsh=ZWFnc2c0cjYyeWV6)\n\nVoice actor and dubbing director at Iyuno Poland and TransPerfect Media Poland.\n\nSon of [Miriam Aleksandrowicz](https://anilist.co/staff/249510/). Stepson of [Jacek Czyż](https://anilist.co/staff/304525). Half-brother of [Aleksander Orsztynowicz-Czyż](https://anilist.co/staff/300565). Husband of [Joanna Sęk-Aleksandrowicz](https://anilist.co/staff/280648/). Father of [Modest Aleksandrowicz](https://dubbingpedia.pl/wiki/Modest_Aleksandrowicz) and [Tytus Aleksandrowicz](https://dubbingpedia.pl/wiki/Tytus_Aleksandrowicz).\n\n__Non-anime roles:__\n~!\n• Butt-head in \"Beavis and Butt-head\" (1993)\n• Owen in the \"Total Drama\" series\n• Krusty the Clown in \"The Simpsons Movie\" (2007)\n• Ultron in \"Avengers Assemble\" (2013)\n• Arthur Curry / Aquaman in the DC Extended Universe and various other DC Comics media\n• River Ward in \"Cyberpunk 2077\" (2020)\n• Vander in \"Arcane\" (2021)\n• Flint Marko / Sandman in \"Spider-Man: No Way Home\" (2021)!~",
+          "siteUrl": "https://anilist.co/staff/275838"
+        }
+      },
+      {
+        "role": "ADR Director (English)",
+        "node": {
+          "id": 96848,
+          "name": {
+            "first": "Andrew",
+            "last": "Love",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1848.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/1848.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/AndrewLoveVA)\n\nMarried to fellow anime voice actor [Emily Neves](https://anilist.co/staff/105073/Emily-Neves).",
+          "siteUrl": "https://anilist.co/staff/96848"
+        }
+      },
+      {
+        "role": "Storyboard (OP, ep 1)",
+        "node": {
+          "id": 141892,
+          "name": {
+            "first": "Takashi",
+            "last": "Sano",
+            "native": "佐野隆史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n141892-LRVxjcH5EdKa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n141892-LRVxjcH5EdKa.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/141892"
+        }
+      },
+      {
+        "role": "Key Animation (OP, ep 1)",
+        "node": {
+          "id": 141892,
+          "name": {
+            "first": "Takashi",
+            "last": "Sano",
+            "native": "佐野隆史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n141892-LRVxjcH5EdKa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n141892-LRVxjcH5EdKa.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/141892"
+        }
+      },
+      {
+        "role": "Episode Director (OP, ep 1)",
+        "node": {
+          "id": 141892,
+          "name": {
+            "first": "Takashi",
+            "last": "Sano",
+            "native": "佐野隆史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n141892-LRVxjcH5EdKa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n141892-LRVxjcH5EdKa.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/141892"
+        }
+      },
+      {
+        "role": "ADR Recording (Polish)",
+        "node": {
+          "id": 280650,
+          "name": {
+            "first": "Aleksander",
+            "last": "Shaida",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/280650"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 94,
+          "name": "Telecom Animation Film",
+          "siteUrl": "https://anilist.co/studio/94"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6497,
+          "name": "Adult Swim",
+          "siteUrl": "https://anilist.co/studio/6497"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 7439,
+          "name": "Sola Entertainment",
+          "siteUrl": "https://anilist.co/studio/7439"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 383525,
+          "airingAt": 1723780800,
+          "episode": 1,
+          "mediaId": 150103,
+          "media": {
+            "id": 150103
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 383526,
+          "airingAt": 1724385600,
+          "episode": 2,
+          "mediaId": 150103,
+          "media": {
+            "id": 150103
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 383527,
+          "airingAt": 1724990400,
+          "episode": 3,
+          "mediaId": 150103,
+          "media": {
+            "id": 150103
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 383528,
+          "airingAt": 1725595200,
+          "episode": 4,
+          "mediaId": 150103,
+          "media": {
+            "id": 150103
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 383529,
+          "airingAt": 1726200000,
+          "episode": 5,
+          "mediaId": 150103,
+          "media": {
+            "id": 150103
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 383530,
+          "airingAt": 1726804800,
+          "episode": 6,
+          "mediaId": 150103,
+          "media": {
+            "id": 150103
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 383531,
+          "airingAt": 1727409600,
+          "episode": 7,
+          "mediaId": 150103,
+          "media": {
+            "id": 150103
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 383532,
+          "airingAt": 1728014400,
+          "episode": 8,
+          "mediaId": 150103,
+          "media": {
+            "id": 150103
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 383533,
+          "airingAt": 1728619200,
+          "episode": 9,
+          "mediaId": 150103,
+          "media": {
+            "id": 150103
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 383534,
+          "airingAt": 1729224000,
+          "episode": 10,
+          "mediaId": 150103,
+          "media": {
+            "id": 150103
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 50465,
+      "url": "https://www.adultswim.com/videos/rick-and-morty-the-anime",
+      "site": "Adult Swim"
+    },
+    {
+      "id": 72086,
+      "url": "https://play.max.com/show/6ace005a-41eb-4e44-bf13-abdfaa9e5143",
+      "site": "Max"
+    },
+    {
+      "id": 96721,
+      "url": "https://x.com/RickandMorty",
+      "site": "Twitter"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 133
+      },
+      {
+        "score": 20,
+        "amount": 72
+      },
+      {
+        "score": 30,
+        "amount": 68
+      },
+      {
+        "score": 40,
+        "amount": 122
+      },
+      {
+        "score": 50,
+        "amount": 106
+      },
+      {
+        "score": 60,
+        "amount": 98
+      },
+      {
+        "score": 70,
+        "amount": 64
+      },
+      {
+        "score": 80,
+        "amount": 37
+      },
+      {
+        "score": 90,
+        "amount": 42
+      },
+      {
+        "score": 100,
+        "amount": 31
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 975
+      },
+      {
+        "status": "PLANNING",
+        "amount": 3226
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 810
+      },
+      {
+        "status": "DROPPED",
+        "amount": 833
+      },
+      {
+        "status": "PAUSED",
+        "amount": 125
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/150103",
+  "modNotes": null
+}

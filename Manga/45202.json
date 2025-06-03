@@ -1,0 +1,631 @@
+{
+  "id": 45202,
+  "idMal": 15202,
+  "title": {
+    "native": "X-Men",
+    "romaji": "X-Men",
+    "english": "X-Men: The Manga"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A manga adaptation of the beloved X-Men: The Animated Series. <BR><BR>\nIn X-Men, Vol. 1, Jubilation Lee is a teenager with a secret: she’s a mutant, the next level of human evolution, and has fantastic powers. All she wants is a normal life with trips to the mall to get away from her parents, but when the mutant-hunting robots known as Sentinels come after her, that normal life is pushed out of her reach! Discover the X-Men—mutant heroes hated and feared by a world they’re sworn to protect—alongside Jubilee in this classic manga series. <BR><BR>\n(Source: Marvel)\n",
+  "startDate": {
+    "year": 1998,
+    "month": 1,
+    "day": 21
+  },
+  "endDate": {
+    "year": 1999,
+    "month": 6,
+    "day": 16
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": 13,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748793733,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b45202-VH9wAzQLcTne.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b45202-VH9wAzQLcTne.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b45202-VH9wAzQLcTne.jpg",
+    "color": "#e4c943"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "synonyms": [
+    "X-Men: The Manga Remastered",
+    "エックスメン"
+  ],
+  "averageScore": null,
+  "meanScore": 47,
+  "popularity": 126,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 172,
+      "name": "Superhero",
+      "description": "Prominently features super-powered humans who aim to serve the greater good.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 20,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 6919,
+          "title": {
+            "native": "エックスメン"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 66985,
+          "name": {
+            "first": "James",
+            "last": "Howlett",
+            "native": "ジェームズ・ハウレット",
+            "alternative": [
+              "Wolverine (ウルヴァリン)",
+              "Logan (ローガン)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/66985.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/66985.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/66985"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 40773,
+          "name": {
+            "first": "Jean",
+            "last": "Grey",
+            "native": "ジーン・グレイ",
+            "alternative": [
+              "Phoenix (フェニックス)",
+              "Marvel Girl (マーベルガール)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40773-BquX3AqL0NVc.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b40773-BquX3AqL0NVc.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/40773"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 40821,
+          "name": {
+            "first": "Ororo",
+            "last": "Munroe",
+            "native": "オロロ・マンロー",
+            "alternative": [
+              "Storm (ストーム)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/40821.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/40821.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/40821"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 40822,
+          "name": {
+            "first": "Henry",
+            "last": "McCoy",
+            "native": "ヘンリー・マッコイ",
+            "alternative": [
+              "Beast (ビースト)",
+              "Hank"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/40822.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/40822.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/40822"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 40820,
+          "name": {
+            "first": "Charles",
+            "last": "Xavier",
+            "native": "チャールズ・エグゼビア",
+            "alternative": [
+              "Professor X (プロフェッサーX)",
+              "Professor Xavier (エグゼビア教授)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40820-oSRgcrw53VhF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b40820-oSRgcrw53VhF.png"
+          },
+          "siteUrl": "https://anilist.co/character/40820"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 40546,
+          "name": {
+            "first": "Scott",
+            "last": "Summers",
+            "native": "スコット・サマーズ",
+            "alternative": [
+              "Cyclops (サイクロップス)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/40546.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/40546.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/40546"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 336880,
+          "name": {
+            "first": "Anna Marie",
+            "last": "LeBeau",
+            "native": "アンナ・マリー",
+            "alternative": [
+              "Rogue (ローグ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b336880-p8nfUHb7pJcR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b336880-p8nfUHb7pJcR.png"
+          },
+          "siteUrl": "https://anilist.co/character/336880"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 336879,
+          "name": {
+            "first": "Jubilation",
+            "last": "Lee",
+            "native": "ジュビレーション・李",
+            "alternative": [
+              "Jubilee (ジュビリー)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b336879-kWJgMzrDyvE0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b336879-kWJgMzrDyvE0.png"
+          },
+          "siteUrl": "https://anilist.co/character/336879"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 336878,
+          "name": {
+            "first": "Remy",
+            "last": "LeBeau",
+            "native": "レミー・ルボー",
+            "alternative": [
+              "Gambit (ガンビット)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b336878-jebzY7G1cXNX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b336878-jebzY7G1cXNX.png"
+          },
+          "siteUrl": "https://anilist.co/character/336878"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 336877,
+          "name": {
+            "first": "Victor",
+            "last": "Creed",
+            "native": "ビクター・クリード",
+            "alternative": [
+              "Sabretooth (セイバートゥース)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b336877-yjFp69wXQTTB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b336877-yjFp69wXQTTB.png"
+          },
+          "siteUrl": "https://anilist.co/character/336877"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 336876,
+          "name": {
+            "first": "Lucas",
+            "last": "Bishop",
+            "native": "ルーカス・ビショップ",
+            "alternative": [
+              "Bishop (ビショップ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b336876-EVHxnhJolQrr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b336876-EVHxnhJolQrr.png"
+          },
+          "siteUrl": "https://anilist.co/character/336876"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 336875,
+          "name": {
+            "first": "Kevin",
+            "last": "Sidney",
+            "native": "ケビン・シドニー",
+            "alternative": [
+              "Morph (モーフ)",
+              "Changeling (チェンジリング)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b336875-reAGi1MMdgzb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b336875-reAGi1MMdgzb.png"
+          },
+          "siteUrl": "https://anilist.co/character/336875"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 336874,
+          "name": {
+            "first": "Max",
+            "last": "Eisenhardt",
+            "native": "マックス・アイゼンハート",
+            "alternative": [
+              "Magneto (マグニートー)",
+              "Erik Lehnsherr (エリック・レーンシャー)",
+              "Magnus (マグナス)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b336874-kaOCGxu600at.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b336874-kaOCGxu600at.png"
+          },
+          "siteUrl": "https://anilist.co/character/336874"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 336873,
+          "name": {
+            "first": "Nathan",
+            "last": "Summers",
+            "native": "ネイサン・サマーズ",
+            "alternative": [
+              "Cable (ケーブル)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b336873-sRV1zL0MsQqs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b336873-sRV1zL0MsQqs.png"
+          },
+          "siteUrl": "https://anilist.co/character/336873"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 100048,
+          "name": {
+            "first": "Stan",
+            "last": "Lee",
+            "native": "Stanley Martin Lieber"
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100048-HAs6WlM5OjrM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100048-HAs6WlM5OjrM.png"
+          },
+          "description": "Stan Lee was an American comic book writer, editor, actor, producer, publisher, television personality, and the former president and chairman of Marvel Comics.",
+          "siteUrl": "https://anilist.co/staff/100048"
+        }
+      },
+      {
+        "role": "Translator (English)",
+        "node": {
+          "id": 255194,
+          "name": {
+            "first": "Mutsumi",
+            "last": "Masuda",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/255194"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 104744,
+          "name": {
+            "first": "Rei",
+            "last": "Nakahara",
+            "native": "中原れい"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/104744"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 254930,
+          "name": {
+            "first": "Miyako",
+            "last": "Cojima",
+            "native": "児嶋都"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n254930-x8qs3k5JGeMq.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n254930-x8qs3k5JGeMq.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/miyakocojima) | [Facebook](https://www.facebook.com/miyako.cojima)",
+          "siteUrl": "https://anilist.co/staff/254930"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 359940,
+          "name": {
+            "first": "Kouji",
+            "last": "Yasue",
+            "native": "やすえこーじ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/359940"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 359939,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Higuchi",
+            "native": "ヒグチヒロシ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/359939"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 104272,
+      "url": "https://www.viz.com/vizmanga/chapters/x-men-the-manga-remastered",
+      "site": "Viz"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 38920,
+          "rating": 2,
+          "media": {
+            "id": 45202,
+            "title": {
+              "native": "X-Men"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 43126,
+            "title": {
+              "native": "ハルク"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 273737,
+          "rating": 1,
+          "media": {
+            "id": 45202,
+            "title": {
+              "native": "X-Men"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 152997,
+            "title": {
+              "native": "機動絶記ガンダム SEQUEL"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 6
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 3
+      },
+      {
+        "score": 60,
+        "amount": 2
+      },
+      {
+        "score": 80,
+        "amount": 4
+      },
+      {
+        "score": 90,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 18
+      },
+      {
+        "status": "PLANNING",
+        "amount": 79
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 21
+      },
+      {
+        "status": "DROPPED",
+        "amount": 4
+      },
+      {
+        "status": "PAUSED",
+        "amount": 4
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/45202",
+  "modNotes": null
+}

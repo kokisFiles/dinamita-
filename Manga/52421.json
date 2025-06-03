@@ -1,0 +1,216 @@
+{
+  "id": 52421,
+  "idMal": 22421,
+  "title": {
+    "native": "ポケモンコロシアム スナッチャーズレオ",
+    "romaji": "Pokémon Colosseum: Snatcher Leo",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A manga adaptation of Pok&eacute;mon Colosseum's plot, starring Leo (Wes) and Rui fighting against Cipher.",
+  "startDate": {
+    "year": 2004,
+    "month": 1,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2004,
+    "month": 3,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 3,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748091271,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22421.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22421.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/22421.jpg",
+    "color": "#f16b28"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Pokemon Colosseum Snatcher Wes",
+    "Pocket Monsters Colosseum Snatcher Leo"
+  ],
+  "averageScore": null,
+  "meanScore": 52,
+  "popularity": 182,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1490,
+      "name": "Proxy Battle",
+      "description": "A proxy battle is a battle where humans use creatures/robots to do the fighting for them, either by commanding those creatures/robots or by simply evolving them/changing them into battle mode.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 146394,
+          "title": {
+            "native": "ポケモンコロシアム スナッチャーズ"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 30928,
+          "title": {
+            "native": "ポケットモンスターSPECIAL"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 267105,
+          "name": {
+            "first": "Leo",
+            "last": null,
+            "native": "レオ",
+            "alternative": [
+              "Wes",
+              "Reo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b267105-jvGBzak5RbR1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b267105-jvGBzak5RbR1.png"
+          },
+          "siteUrl": "https://anilist.co/character/267105"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 181413,
+          "name": {
+            "first": "Suigun",
+            "last": "Oouchi",
+            "native": "大内水軍"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/181413"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 7
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 6
+      },
+      {
+        "score": 70,
+        "amount": 4
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 8
+      },
+      {
+        "status": "PLANNING",
+        "amount": 121
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 45
+      },
+      {
+        "status": "DROPPED",
+        "amount": 7
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/52421",
+  "modNotes": null
+}

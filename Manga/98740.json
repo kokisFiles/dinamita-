@@ -1,0 +1,835 @@
+{
+  "id": 98740,
+  "idMal": 90609,
+  "title": {
+    "native": "辺獄のシュヴェスタ",
+    "romaji": "Hengoku no Schwester",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "\"Iron Maiden\" is an instrument of torture modelled after Mother Mary's form. The interior is full with long nails, and people who are enclosed in it would be pierced to death. But the \"Iron Maiden\" that exists nowadays is simply a counterfeit made by us based off of old tales. The \"maiden\" who possesses a gentle, loving face as well as a violent \"body\"... Did the \"Iron Maiden\" really exist in the past?\n<br><br>\nThis is a story revolving around \"her\".\n",
+  "startDate": {
+    "year": 2014,
+    "month": 12,
+    "day": 27
+  },
+  "endDate": {
+    "year": 2017,
+    "month": 10,
+    "day": 27
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 32,
+  "volumes": 6,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748868372,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98740-goiKSoG5GXxu.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98740-goiKSoG5GXxu.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx98740-goiKSoG5GXxu.jpg",
+    "color": "#e46b43"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/98740-1zoUPAe5bDOh.jpg",
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "synonyms": [
+    "Le Couvent des Damnées",
+    "The Schwester of Limbo"
+  ],
+  "averageScore": 75,
+  "meanScore": 80,
+  "popularity": 1439,
+  "favourites": 49,
+  "tags": [
+    {
+      "id": 446,
+      "name": "Primarily Child Cast",
+      "description": "Main cast is mostly composed of characters below a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 252,
+      "name": "Revenge",
+      "description": "Prominently features a character who aims to exact punishment in a resentful or vindictive manner.",
+      "category": "Theme-Drama",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 143,
+      "name": "Survival",
+      "description": "Centers around the struggle to live in spite of extreme obstacles.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1091,
+      "name": "Religion",
+      "description": "Centers on the belief that humanity is related to supernatural, transcendental, and spiritual elements.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 179,
+      "name": "Witch",
+      "description": "Prominently features a character who is a witch.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 931,
+      "name": "Tomboy",
+      "description": "Features a girl who exhibits characteristics or behaviors considered in many cultures to be typical of boys.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 614,
+      "name": "Nun",
+      "description": "Prominently features a character who is a nun.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 94,
+      "name": "Gore",
+      "description": "Prominently features graphic bloodshed and violence.",
+      "category": "Theme-Other",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 25,
+      "name": "Historical",
+      "description": "Partly or completely set during a real period of world history.",
+      "category": "Setting-Time",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 217,
+      "name": "Dystopian",
+      "description": "Partly or completely set in a society characterized by poverty, squalor or oppression.",
+      "category": "Setting-Time",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 723,
+      "name": "Sadism",
+      "description": "Prominently features characters deriving pleasure, especially sexual gratification, from inflicting pain, suffering, or humiliation on others.",
+      "category": "Sexual Content",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": true
+    },
+    {
+      "id": 1121,
+      "name": "Torture",
+      "description": "The act of deliberately inflicting severe pain or suffering upon another individual or oneself as a punishment or with a specific purpose.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 456,
+      "name": "Conspiracy",
+      "description": "Contains one or more factions controlling or attempting to control the world from the shadows.",
+      "category": "Theme-Drama",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1752,
+      "name": "Medieval",
+      "description": "Partially or completely set in the Middle Ages or a Middle Ages-inspired setting. Commonly features elements such as European castles and knights.",
+      "category": "Setting-Time",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 50,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 104,
+      "name": "Anti-Hero",
+      "description": "Features a protagonist who lacks conventional heroic attributes and may be considered a borderline villain.",
+      "category": "Cast-Main Cast",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 100,
+      "name": "Nudity",
+      "description": "Features a character wearing no clothing or exposing intimate body parts.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": []
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 173446,
+          "name": {
+            "first": "Ella",
+            "last": "Kollwitz",
+            "native": "エラ・コルヴィッツ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b173446-hFR7RT34ajwQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b173446-hFR7RT34ajwQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/173446"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 121671,
+          "name": {
+            "first": "Minoru",
+            "last": "Takeyoshi",
+            "native": "竹良実"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121671-FUd8CtpQ58yt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121671-FUd8CtpQ58yt.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/takeyoshiminoru)",
+          "siteUrl": "https://anilist.co/staff/121671"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 18417,
+      "url": "https://comic.pixiv.net/works/4036",
+      "site": "Pixiv Comic"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 28810,
+      "rank": 45,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2014,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 21160,
+          "rating": 7,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 87423,
+            "title": {
+              "native": "約束のネバーランド"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 29255,
+          "rating": 3,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 87470,
+            "title": {
+              "native": "乙女戦争　ディーヴチー・ヴァールカ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 150676,
+          "rating": 6,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30002,
+            "title": {
+              "native": "ベルセルク"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 162575,
+          "rating": 3,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 104063,
+            "title": {
+              "native": "シャドーハウス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 162577,
+          "rating": 5,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30583,
+            "title": {
+              "native": "CLAYMORE"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 162579,
+          "rating": 3,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 85165,
+            "title": {
+              "native": "イノサン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 164450,
+          "rating": 6,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30642,
+            "title": {
+              "native": "ヴィンランド・サガ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 169180,
+          "rating": 3,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 106035,
+            "title": {
+              "native": "レイリ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 199833,
+          "rating": 1,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 156486,
+            "title": {
+              "native": "傷だらけ聖女より報復をこめて"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 236658,
+          "rating": 3,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 95978,
+            "title": {
+              "native": "碧いホルスの瞳 -男装の女王の物語-"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 237127,
+          "rating": 4,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 126285,
+            "title": {
+              "native": "魔女をまもる。"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 255122,
+          "rating": 3,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 54457,
+            "title": {
+              "native": "魔法少女まどか☆マギカ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 306151,
+          "rating": 4,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 53390,
+            "title": {
+              "native": "進撃の巨人"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 385308,
+          "rating": 3,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 86770,
+            "title": {
+              "native": "とつくにの少女"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 417512,
+          "rating": 2,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 124139,
+            "title": {
+              "native": "チ。―地球の運動について―"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 417514,
+          "rating": 2,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 41701,
+            "title": {
+              "native": "シュトヘル"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 417516,
+          "rating": 2,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 86559,
+            "title": {
+              "native": "ゴールデンカムイ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 417520,
+          "rating": 1,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 98263,
+            "title": {
+              "native": "とんがり帽子のアトリエ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 417524,
+          "rating": 2,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 86636,
+            "title": {
+              "native": "煉獄のアーシェ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 417528,
+          "rating": 2,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 118586,
+            "title": {
+              "native": "葬送のフリーレン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 417530,
+          "rating": 2,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30070,
+            "title": {
+              "native": "Übel Blatt ～ユーベルブラット～"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 417532,
+          "rating": 2,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 99684,
+            "title": {
+              "native": "イサック"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 417752,
+          "rating": 2,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 87251,
+            "title": {
+              "native": "Fate/Apocrypha"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 417820,
+          "rating": 3,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 55191,
+            "title": {
+              "native": "Fate/Zero"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 417822,
+          "rating": 3,
+          "media": {
+            "id": 98740,
+            "title": {
+              "native": "辺獄のシュヴェスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30715,
+            "title": {
+              "native": "Fate/stay night"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 8
+      },
+      {
+        "score": 50,
+        "amount": 16
+      },
+      {
+        "score": 60,
+        "amount": 26
+      },
+      {
+        "score": 70,
+        "amount": 57
+      },
+      {
+        "score": 80,
+        "amount": 68
+      },
+      {
+        "score": 90,
+        "amount": 74
+      },
+      {
+        "score": 100,
+        "amount": 90
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 271
+      },
+      {
+        "status": "PLANNING",
+        "amount": 739
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 315
+      },
+      {
+        "status": "DROPPED",
+        "amount": 48
+      },
+      {
+        "status": "PAUSED",
+        "amount": 66
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/98740",
+  "modNotes": null
+}

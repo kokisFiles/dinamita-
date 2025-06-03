@@ -1,0 +1,367 @@
+{
+  "id": 42374,
+  "idMal": 12374,
+  "title": {
+    "native": "ようこそロードス島へ!",
+    "romaji": "Youkoso Lodoss-tou he!",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A parody of the \"Record of Lodoss War\" series, using super-deformed characters.",
+  "startDate": {
+    "year": 1995,
+    "month": 12,
+    "day": 1
+  },
+  "endDate": {
+    "year": 1999,
+    "month": 4,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748091770,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12374.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12374.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/12374.jpg",
+    "color": "#e4ae50"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "synonyms": [
+    "Youkoso Roudosu-tou he!",
+    "Welcome to Lodoss Island!"
+  ],
+  "averageScore": null,
+  "meanScore": 68,
+  "popularity": 33,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 92655,
+          "title": {
+            "native": "ロードス島戦記"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 2840,
+          "title": {
+            "native": "ようこそロードス島へ！"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4776,
+          "name": {
+            "first": "Deedlit",
+            "last": null,
+            "native": "ディードリット",
+            "alternative": [
+              "Deed"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4776-6JAuQuIAhW3n.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4776-6JAuQuIAhW3n.png"
+          },
+          "siteUrl": "https://anilist.co/character/4776"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5909,
+          "name": {
+            "first": "Parn",
+            "last": null,
+            "native": "パーン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5909.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5909.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5909"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9154,
+          "name": {
+            "first": "Slayn",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9154.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9154.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9154"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9156,
+          "name": {
+            "first": "Ghim",
+            "last": null,
+            "native": "ギム",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9156.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9156.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9156"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9157,
+          "name": {
+            "first": "Etoh",
+            "last": null,
+            "native": "エト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9157.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9157.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9157"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9194,
+          "name": {
+            "first": "Leylia",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9194.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9194.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9194"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 8552,
+          "name": {
+            "first": "Karla",
+            "last": null,
+            "native": "カーラ",
+            "alternative": [
+              "Carla",
+              "The Grey Witch"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/8552.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8552.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8552"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 27083,
+          "name": {
+            "first": "Estas",
+            "last": null,
+            "native": "エスタス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/27083.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/27083.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/27083"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9153,
+          "name": {
+            "first": "Woodchuck",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9153.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9153.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9153"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9151,
+          "name": {
+            "first": "Pirotessa ",
+            "last": "Merestianna",
+            "native": "ピロテース",
+            "alternative": [
+              "Pirotess"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9151-i63cfsxfOBID.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9151-i63cfsxfOBID.png"
+          },
+          "siteUrl": "https://anilist.co/character/9151"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 102154,
+          "name": {
+            "first": "Rei",
+            "last": "Hyakuyashiki",
+            "native": "百やしきれい"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/102154"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 2
+      },
+      {
+        "score": 80,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 3
+      },
+      {
+        "status": "PLANNING",
+        "amount": 17
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 8
+      },
+      {
+        "status": "DROPPED",
+        "amount": 4
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/42374",
+  "modNotes": null
+}

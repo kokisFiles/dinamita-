@@ -1,0 +1,669 @@
+{
+  "id": 135626,
+  "idMal": 49189,
+  "title": {
+    "native": "Shiny Racers",
+    "romaji": "Shiny Racers",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Music video for the song <i>Shiny Racers</i> by Mari Ohara.",
+  "startDate": {
+    "year": 2021,
+    "month": 6,
+    "day": 12
+  },
+  "endDate": {
+    "year": 2021,
+    "month": 6,
+    "day": 12
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 4,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": {
+    "id": "BfUsGx5Xd2s",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/BfUsGx5Xd2s/hqdefault.jpg"
+  },
+  "updatedAt": 1748686249,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135626-fhDdgjqOMsgr.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135626-fhDdgjqOMsgr.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx135626-fhDdgjqOMsgr.jpg",
+    "color": "#e4c993"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/135626-cR2RPVuZN1YZ.jpg",
+  "genres": [],
+  "synonyms": [],
+  "averageScore": 67,
+  "meanScore": 70,
+  "popularity": 928,
+  "favourites": 8,
+  "tags": [
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 90,
+      "name": "CGI",
+      "description": "Prominently features scenes created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 21584,
+          "title": {
+            "native": "ラブライブ！サンシャイン!!"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 89851,
+          "name": {
+            "first": "Mari",
+            "last": "Ohara",
+            "native": "小原鞠莉",
+            "alternative": [
+              "Demon Lord"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89851-YMGrQCtVAqjz.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89851-YMGrQCtVAqjz.png"
+          },
+          "siteUrl": "https://anilist.co/character/89851"
+        },
+        "voiceActors": [
+          {
+            "id": 119438,
+            "name": {
+              "first": "Aina",
+              "last": "Suzuki",
+              "native": "鈴木愛奈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119438-FZPn3OEK22Zo.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119438-FZPn3OEK22Zo.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/119438"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 89846,
+          "name": {
+            "first": "Kanan",
+            "last": "Matsuura",
+            "native": "松浦果南",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89846-e78QbB8WupZl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89846-e78QbB8WupZl.png"
+          },
+          "siteUrl": "https://anilist.co/character/89846"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 89847,
+          "name": {
+            "first": "Dia",
+            "last": "Kurosawa",
+            "native": "黒澤ダイヤ",
+            "alternative": [
+              "Daiya Kurosawa",
+              "Scarlet Delta"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89847-oAPgNyrOp6tO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89847-oAPgNyrOp6tO.png"
+          },
+          "siteUrl": "https://anilist.co/character/89847"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 89848,
+          "name": {
+            "first": "You",
+            "last": "Watanabe",
+            "native": "渡辺曜",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89848-LO2VxCHCoE0G.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89848-LO2VxCHCoE0G.png"
+          },
+          "siteUrl": "https://anilist.co/character/89848"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 89852,
+          "name": {
+            "first": "Ruby",
+            "last": "Kurosawa",
+            "native": "黒澤ルビィ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89852-HMeqdRlxVyWM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89852-HMeqdRlxVyWM.png"
+          },
+          "siteUrl": "https://anilist.co/character/89852"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 89849,
+          "name": {
+            "first": "Yoshiko",
+            "last": "Tsushima",
+            "native": "津島善子",
+            "alternative": [
+              "Yohane"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89849-OXKMEsvrPQ12.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89849-OXKMEsvrPQ12.png"
+          },
+          "siteUrl": "https://anilist.co/character/89849"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 89845,
+          "name": {
+            "first": "Riko",
+            "last": "Sakurauchi",
+            "native": "桜内梨子",
+            "alternative": [
+              "Little Demon Lily (リトルデーモンリリー)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89845-KlToJ5lQEs5U.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89845-KlToJ5lQEs5U.png"
+          },
+          "siteUrl": "https://anilist.co/character/89845"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 89844,
+          "name": {
+            "first": "Chika",
+            "last": "Takami",
+            "native": "高海千歌",
+            "alternative": [
+              "Normalzilla Chika-chi (普通怪獣ちかちー)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89844-ixea0r4VSD7E.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89844-ixea0r4VSD7E.png"
+          },
+          "siteUrl": "https://anilist.co/character/89844"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 89850,
+          "name": {
+            "first": "Hanamaru",
+            "last": "Kunikida",
+            "native": "国木田花丸",
+            "alternative": [
+              "Zuramaru"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89850-oxXH5NDC5Pnj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89850-oxXH5NDC5Pnj.png"
+          },
+          "siteUrl": "https://anilist.co/character/89850"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Animation",
+        "node": {
+          "id": 162537,
+          "name": {
+            "first": "Popurika",
+            "last": null,
+            "native": "ぽぷりか"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n162537-Xp7qpyihoVgQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n162537-Xp7qpyihoVgQ.jpg"
+          },
+          "description": "[Website](http://hurray.fun/) | [Twitter](https://twitter.com/popreq)",
+          "siteUrl": "https://anilist.co/staff/162537"
+        }
+      },
+      {
+        "role": "Music Performance",
+        "node": {
+          "id": 119438,
+          "name": {
+            "first": "Aina",
+            "last": "Suzuki",
+            "native": "鈴木愛奈"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119438-FZPn3OEK22Zo.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119438-FZPn3OEK22Zo.jpg"
+          },
+          "description": "**Height:** 147 cm\n**Hobbies:** Singing, drawing, watching anime\n\n[Website](https://suzukiaina.jp/) | [Profile (IAM Agency)](http://iamagency.sukurepo.jp/actors/women/suzuki_aina) | [Twitter](https://twitter.com/aina_suzuki723) | [Agency Twitter](https://twitter.com/AinaSuzuki_Info) | [YouTube](https://www.youtube.com/channel/UCpNypDVlaMyJDx7P8u3dd-A)\n\nShe debuted as a voice actress in 2014. She is also skilled in the Minyou (民謡) genre, which is a genre of traditional Japanese music, where she won many competitions.\n\n__Non-anime roles:__\n- Sakawa - Azur Lane (VG)",
+          "siteUrl": "https://anilist.co/staff/119438"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 106018,
+          "name": {
+            "first": "Aki",
+            "last": "Hata",
+            "native": "畑亜貴"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106018-e4gAbLmw1Xut.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106018-e4gAbLmw1Xut.png"
+          },
+          "description": "__[Website](https://akihata.jp/) | [Twitter](https://twitter.com/akihata_jp) | [Instagram](https://www.instagram.com/akihata.jp/) | [YouTube](https://www.youtube.com/c/AKIHATAjp)__\n\n__Aki Hata__ is a Japanese vocalist, lyricist, composer and member of the music production team [Q-MHz](https://anilist.co/staff/156926/QMHz).",
+          "siteUrl": "https://anilist.co/staff/106018"
+        }
+      },
+      {
+        "role": "Animation Assistance",
+        "node": {
+          "id": 162539,
+          "name": {
+            "first": "Magotsuki",
+            "last": null,
+            "native": "まごつき"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n162539-kCEZY1n24Qup.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n162539-kCEZY1n24Qup.jpg"
+          },
+          "description": "[Website](http://hurray.fun/) | [Twitter](https://twitter.com/haruno_168)",
+          "siteUrl": "https://anilist.co/staff/162539"
+        }
+      },
+      {
+        "role": "3DCG",
+        "node": {
+          "id": 162537,
+          "name": {
+            "first": "Popurika",
+            "last": null,
+            "native": "ぽぷりか"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n162537-Xp7qpyihoVgQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n162537-Xp7qpyihoVgQ.jpg"
+          },
+          "description": "[Website](http://hurray.fun/) | [Twitter](https://twitter.com/popreq)",
+          "siteUrl": "https://anilist.co/staff/162537"
+        }
+      },
+      {
+        "role": "Animation",
+        "node": {
+          "id": 162538,
+          "name": {
+            "first": "Ohajiki",
+            "last": null,
+            "native": "おはじき"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n162538-k0L4QCpC7kNp.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n162538-k0L4QCpC7kNp.jpg"
+          },
+          "description": "[Website](http://hurray.fun/) | [Twitter](https://twitter.com/ohajikihko)",
+          "siteUrl": "https://anilist.co/staff/162538"
+        }
+      },
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 232025,
+          "name": {
+            "first": "Hiromitsu",
+            "last": "Kawashima",
+            "native": "川島弘光"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/232025"
+        }
+      },
+      {
+        "role": "Music Arrangement",
+        "node": {
+          "id": 232025,
+          "name": {
+            "first": "Hiromitsu",
+            "last": "Kawashima",
+            "native": "川島弘光"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/232025"
+        }
+      },
+      {
+        "role": "Title Logo Design",
+        "node": {
+          "id": 162538,
+          "name": {
+            "first": "Ohajiki",
+            "last": null,
+            "native": "おはじき"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n162538-k0L4QCpC7kNp.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n162538-k0L4QCpC7kNp.jpg"
+          },
+          "description": "[Website](http://hurray.fun/) | [Twitter](https://twitter.com/ohajikihko)",
+          "siteUrl": "https://anilist.co/staff/162538"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6850,
+          "name": "Hurray!",
+          "siteUrl": "https://anilist.co/studio/6850"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 104,
+          "name": "Lantis",
+          "siteUrl": "https://anilist.co/studio/104"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 34546,
+      "url": "https://www.youtube.com/watch?v=BfUsGx5Xd2s",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 84000,
+          "rating": 8,
+          "media": {
+            "id": 135626,
+            "title": {
+              "native": "Shiny Racers"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 129276,
+            "title": {
+              "native": "Perfect SEKAI"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 84002,
+          "rating": 4,
+          "media": {
+            "id": 135626,
+            "title": {
+              "native": "Shiny Racers"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 132234,
+            "title": {
+              "native": "あこがれランララン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 84004,
+          "rating": 5,
+          "media": {
+            "id": 135626,
+            "title": {
+              "native": "Shiny Racers"
+            }
+          },
+          "mediaRecommendation": null
+        }
+      },
+      {
+        "node": {
+          "id": 84006,
+          "rating": 8,
+          "media": {
+            "id": 135626,
+            "title": {
+              "native": "Shiny Racers"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 126611,
+            "title": {
+              "native": "コットンキャンディえいえいおー！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 84008,
+          "rating": 6,
+          "media": {
+            "id": 135626,
+            "title": {
+              "native": "Shiny Racers"
+            }
+          },
+          "mediaRecommendation": null
+        }
+      },
+      {
+        "node": {
+          "id": 84020,
+          "rating": 3,
+          "media": {
+            "id": 135626,
+            "title": {
+              "native": "Shiny Racers"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 126172,
+            "title": {
+              "native": "Never Giving Up!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 84022,
+          "rating": 5,
+          "media": {
+            "id": 135626,
+            "title": {
+              "native": "Shiny Racers"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 130307,
+            "title": {
+              "native": "もっとね！"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 10
+      },
+      {
+        "score": 40,
+        "amount": 16
+      },
+      {
+        "score": 50,
+        "amount": 48
+      },
+      {
+        "score": 60,
+        "amount": 53
+      },
+      {
+        "score": 70,
+        "amount": 75
+      },
+      {
+        "score": 80,
+        "amount": 42
+      },
+      {
+        "score": 90,
+        "amount": 64
+      },
+      {
+        "score": 100,
+        "amount": 47
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 13
+      },
+      {
+        "status": "PLANNING",
+        "amount": 128
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 768
+      },
+      {
+        "status": "DROPPED",
+        "amount": 12
+      },
+      {
+        "status": "PAUSED",
+        "amount": 7
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/135626",
+  "modNotes": null
+}

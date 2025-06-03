@@ -1,0 +1,441 @@
+{
+  "id": 99166,
+  "idMal": 107231,
+  "title": {
+    "native": "バットマン アンド ジャスティスリーグ",
+    "romaji": "BATMAN and JUSTICE LEAGUE",
+    "english": "Batman and Justice League"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The story will feature the Justice League heading to Gotham City to protect the world from the Joker and an alliance of super-villains.<br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 2017,
+    "month": 6,
+    "day": 19
+  },
+  "endDate": {
+    "year": 2019,
+    "month": 5,
+    "day": 17
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": 4,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748867375,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99166-UchuWOWR0zwr.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99166-UchuWOWR0zwr.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx99166-UchuWOWR0zwr.jpg",
+    "color": "#d6d61a"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/99166-eppq4vV7dETI.jpg",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Batman und die Justice League"
+  ],
+  "averageScore": 49,
+  "meanScore": 58,
+  "popularity": 252,
+  "favourites": 3,
+  "tags": [
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 172,
+      "name": "Superhero",
+      "description": "Prominently features super-powered humans who aim to serve the greater good.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 35756,
+          "title": {
+            "native": null
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 127334,
+          "title": {
+            "native": "BATMAN JUSTICE BUSTER"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 135972,
+          "title": {
+            "native": "SUPERMAN vs飯 スーパーマンのひとり飯"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 187526,
+          "name": {
+            "first": "Joker",
+            "last": "",
+            "native": "ジョーカー",
+            "alternative": [
+              "Lord Joker"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187526-z5BimLVakKUB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187526-z5BimLVakKUB.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/187526"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 10586,
+          "name": {
+            "first": "Bruce",
+            "last": "Wayne",
+            "native": "ブルース・ウェイン",
+            "alternative": [
+              "Batman (バットマン)",
+              "The Dark Knight",
+              "World's Greatest Detective",
+              "Defender of Gotham",
+              "The Caped Crusader"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10586-fjl9nusrIiWD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b10586-fjl9nusrIiWD.png"
+          },
+          "siteUrl": "https://anilist.co/character/10586"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 225723,
+          "name": {
+            "first": "Clark",
+            "last": "Kent",
+            "native": null,
+            "alternative": [
+              "Superman",
+              "The Man of Steel",
+              "Kal-El"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b225723-b6ap26CxghJ0.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b225723-b6ap26CxghJ0.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/225723"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 259913,
+          "name": {
+            "first": "Diana",
+            "last": "Prince",
+            "native": null,
+            "alternative": [
+              "Wonder Woman",
+              "Diana of Themyscira"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b259913-IwXCetQOXqsp.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b259913-IwXCetQOXqsp.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/259913"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 98691,
+          "name": {
+            "first": "Shiori",
+            "last": "Teshirogi",
+            "native": "手代木史織"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98691-KW0KdzGPiw8m.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98691-KW0KdzGPiw8m.png"
+          },
+          "description": "[Website](http://kuronekostoicism.oops.jp/) | [Twitter](https://twitter.com/teshi_kuro413) | [Tumblr](https://da-daism.tumblr.com/)",
+          "siteUrl": "https://anilist.co/staff/98691"
+        }
+      },
+      {
+        "role": "Translator (Spanish)",
+        "node": {
+          "id": 216335,
+          "name": {
+            "first": "Carlos",
+            "last": "Mingo",
+            "native": null
+          },
+          "language": "SPANISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n216335-EX6mxVrPdVDe.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n216335-EX6mxVrPdVDe.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/carlos_mingo)",
+          "siteUrl": "https://anilist.co/staff/216335"
+        }
+      },
+      {
+        "role": "Translator (Spanish)",
+        "node": {
+          "id": 233613,
+          "name": {
+            "first": "Irene",
+            "last": "Telleria",
+            "native": null
+          },
+          "language": "SPANISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n233613-NgRhY8x1351j.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n233613-NgRhY8x1351j.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/imizuchan)",
+          "siteUrl": "https://anilist.co/staff/233613"
+        }
+      },
+      {
+        "role": "Translator (French)",
+        "node": {
+          "id": 296667,
+          "name": {
+            "first": "Rodolphe",
+            "last": "Gicquel",
+            "native": null
+          },
+          "language": "FRENCH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Rodolphe Gicquel is a Japanese to French translator.",
+          "siteUrl": "https://anilist.co/staff/296667"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 57844,
+      "url": "https://www.akitashoten.co.jp/series/7835",
+      "site": "Official Site"
+    },
+    {
+      "id": 96023,
+      "url": "https://paninishop.de/justice-league-superhelden-manga/batman-und-die-justice-league-1-dbtma001",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 41140,
+          "rating": 4,
+          "media": {
+            "id": 99166,
+            "title": {
+              "native": "バットマン アンド ジャスティスリーグ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 96987,
+            "title": {
+              "native": "アベンジャーズ／ゾンビ・アセンブル"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 84193,
+          "rating": 1,
+          "media": {
+            "id": 99166,
+            "title": {
+              "native": "バットマン アンド ジャスティスリーグ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 56554,
+            "title": {
+              "native": "ミュータント・タートルズ外伝"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 267953,
+          "rating": 1,
+          "media": {
+            "id": 99166,
+            "title": {
+              "native": "バットマン アンド ジャスティスリーグ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 135972,
+            "title": {
+              "native": "SUPERMAN vs飯 スーパーマンのひとり飯"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 4
+      },
+      {
+        "score": 40,
+        "amount": 7
+      },
+      {
+        "score": 50,
+        "amount": 5
+      },
+      {
+        "score": 60,
+        "amount": 9
+      },
+      {
+        "score": 70,
+        "amount": 17
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 41
+      },
+      {
+        "status": "PLANNING",
+        "amount": 120
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 37
+      },
+      {
+        "status": "DROPPED",
+        "amount": 28
+      },
+      {
+        "status": "PAUSED",
+        "amount": 26
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/99166",
+  "modNotes": null
+}

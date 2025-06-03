@@ -1,0 +1,734 @@
+{
+  "id": 189602,
+  "idMal": 61363,
+  "title": {
+    "native": "ユーチューニャー 第3期 ",
+    "romaji": "YouTuNya 3",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "RELEASING",
+  "description": "The third season of <i>YouTuNya</i>.",
+  "startDate": {
+    "year": 2025,
+    "month": 4,
+    "day": 15
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": "SPRING",
+  "seasonYear": 2025,
+  "seasonInt": 252,
+  "episodes": 10,
+  "duration": 2,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": "#ユーチューニャー",
+  "trailer": {
+    "id": "d9prXcjnxqU",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/d9prXcjnxqU/hqdefault.jpg"
+  },
+  "updatedAt": 1748906351,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189602-LVMPUosYYjAW.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189602-LVMPUosYYjAW.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189602-LVMPUosYYjAW.png",
+    "color": "#3586e4"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 72,
+  "popularity": 65,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1601,
+      "name": "Primarily Animal Cast",
+      "description": "Main cast is mostly composed animal or animal-like characters.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 193,
+      "name": "Episodic",
+      "description": "Features story arcs that are loosely tied or lack an overarching plot.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 176635,
+          "title": {
+            "native": "ユーチューニャー２"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 300994,
+          "name": {
+            "first": "Tomoneko",
+            "last": null,
+            "native": "ともネコ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300994-ook9jnMlSmVu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b300994-ook9jnMlSmVu.png"
+          },
+          "siteUrl": "https://anilist.co/character/300994"
+        },
+        "voiceActors": [
+          {
+            "id": 95672,
+            "name": {
+              "first": "Yuuki",
+              "last": "Kaji",
+              "native": "梶裕貴"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-RN4nm0OFwCyU.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95672-RN4nm0OFwCyU.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95672"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 300992,
+          "name": {
+            "first": "Nyaa",
+            "last": null,
+            "native": "ニャー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300992-9DXLbYd5bjAD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b300992-9DXLbYd5bjAD.png"
+          },
+          "siteUrl": "https://anilist.co/character/300992"
+        },
+        "voiceActors": [
+          {
+            "id": 133625,
+            "name": {
+              "first": "Fairouz Ai",
+              "last": "",
+              "native": "ファイルーズあい"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133625-YpEgKD7flV2S.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n133625-YpEgKD7flV2S.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/133625"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 300993,
+          "name": {
+            "first": "Tsuyoneko",
+            "last": null,
+            "native": "つよネコ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300993-DXDBoKoqNUF7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b300993-DXDBoKoqNUF7.png"
+          },
+          "siteUrl": "https://anilist.co/character/300993"
+        },
+        "voiceActors": [
+          {
+            "id": 107480,
+            "name": {
+              "first": "Subaru",
+              "last": "Kimura",
+              "native": "木村昴"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107480-h2RgLXNP7hcj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107480-h2RgLXNP7hcj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/107480"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 300991,
+          "name": {
+            "first": "Kawaii ne Onee-san",
+            "last": null,
+            "native": "かわいいねおねえさん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300991-W0hScYBgdJxW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b300991-W0hScYBgdJxW.png"
+          },
+          "siteUrl": "https://anilist.co/character/300991"
+        },
+        "voiceActors": [
+          {
+            "id": 106360,
+            "name": {
+              "first": "Mikoi",
+              "last": "Sasaki",
+              "native": "佐々木未来"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106360-v5iXFAn6YX1q.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106360-v5iXFAn6YX1q.png"
+            },
+            "siteUrl": "https://anilist.co/staff/106360"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 36309,
+          "name": {
+            "first": "Narrator",
+            "last": null,
+            "native": "ナレーター",
+            "alternative": [
+              "語り手",
+              "ナレーション",
+              "Narrador",
+              "Rozprávač",
+              "Vyprávěč",
+              "Dış ses",
+              "Narratore",
+              "Pripovjedač",
+              "Narradora",
+              "Рассказчик",
+              "Người dẫn chuyện",
+              "Tagapagsalaysay",
+              "내레이터",
+              "Narratore",
+              "Erzählperson",
+              "מספר",
+              "Narrátor",
+              "讲述人",
+              "راوي",
+              "Forteller",
+              "Berättare",
+              "Αφηγητής",
+              "Narrateur",
+              "なれーしょん",
+              "旁白",
+              "Narrato"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36309"
+        },
+        "voiceActors": [
+          {
+            "id": 95146,
+            "name": {
+              "first": "Akio",
+              "last": "Ootsuka",
+              "native": "大塚明夫"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95146-T6IEmqXW3xUN.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95146-T6IEmqXW3xUN.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95146"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 361779,
+          "name": {
+            "first": "Konyaa",
+            "last": null,
+            "native": "コニャー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b361779-tope2hcetcj5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b361779-tope2hcetcj5.png"
+          },
+          "siteUrl": "https://anilist.co/character/361779"
+        },
+        "voiceActors": [
+          {
+            "id": 95128,
+            "name": {
+              "first": "Ikue",
+              "last": "Ootani",
+              "native": "大谷育江"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95128-9YWpE1d2U8Sj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95128"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 362565,
+          "name": {
+            "first": "Nezumi",
+            "last": null,
+            "native": "ネズミ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b362565-dL1FsJRp9YbY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b362565-dL1FsJRp9YbY.png"
+          },
+          "siteUrl": "https://anilist.co/character/362565"
+        },
+        "voiceActors": [
+          {
+            "id": 207332,
+            "name": {
+              "first": "Yuzuki",
+              "last": "Watase",
+              "native": "渡瀬結月"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n207332-PAAbY800I6lE.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n207332-PAAbY800I6lE.png"
+            },
+            "siteUrl": "https://anilist.co/staff/207332"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 119779,
+          "name": {
+            "first": "Kyou",
+            "last": "Yatate",
+            "native": "矢立恭"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/119779"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 300512,
+          "name": {
+            "first": "Shaberry Man",
+            "last": null,
+            "native": "シャベリーマン"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n300512-CFEA34I2DIKB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n300512-CFEA34I2DIKB.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/shaberry_man)",
+          "siteUrl": "https://anilist.co/staff/300512"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 300511,
+          "name": {
+            "first": "Kousuke",
+            "last": "Nishimoto",
+            "native": "西本康佑"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/300511"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 156743,
+          "name": {
+            "first": "Anchor",
+            "last": null,
+            "native": "ANCHOR"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156743-eAS1D9rVfbuh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n156743-eAS1D9rVfbuh.png"
+          },
+          "description": "__[Profile (Cymusic)](https://cymusic.co.jp/artist/?p=598)__ | __[Twitter](https://twitter.com/anchor_staff)__ | __[Instagram](https://www.instagram.com/anchor_sound/)__\n\n__Anchor__ is a Japanese composer, arranger, music producer and lyricist. He is a part of the music unit [ZiNG](https://anilist.co/staff/156742).",
+          "siteUrl": "https://anilist.co/staff/156743"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 247752,
+          "name": {
+            "first": "Takada Bear",
+            "last": null,
+            "native": "たかだべあ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n247752-eBFy7uF3eTDh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n247752-eBFy7uF3eTDh.png"
+          },
+          "description": "Has LINE stamps, animations, illustrations, etc.\nBelongs to the content studio CHOCOLATE Inc.",
+          "siteUrl": "https://anilist.co/staff/247752"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 119779,
+          "name": {
+            "first": "Kyou",
+            "last": "Yatate",
+            "native": "矢立恭"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/119779"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6252,
+          "name": "Lesprit",
+          "siteUrl": "https://anilist.co/studio/6252"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6609,
+          "name": "Bushiroad Creative",
+          "siteUrl": "https://anilist.co/studio/6609"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 7359,
+          "name": "CHOCOLATE",
+          "siteUrl": "https://anilist.co/studio/7359"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 396234,
+          "airingAt": 1744668000,
+          "episode": 1,
+          "mediaId": 189602,
+          "media": {
+            "id": 189602
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 396235,
+          "airingAt": 1745272800,
+          "episode": 2,
+          "mediaId": 189602,
+          "media": {
+            "id": 189602
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 396236,
+          "airingAt": 1745877600,
+          "episode": 3,
+          "mediaId": 189602,
+          "media": {
+            "id": 189602
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 396237,
+          "airingAt": 1747087200,
+          "episode": 4,
+          "mediaId": 189602,
+          "media": {
+            "id": 189602
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 396238,
+          "airingAt": 1747692000,
+          "episode": 5,
+          "mediaId": 189602,
+          "media": {
+            "id": 189602
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 396239,
+          "airingAt": 1748296800,
+          "episode": 6,
+          "mediaId": 189602,
+          "media": {
+            "id": 189602
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 396240,
+          "airingAt": 1748901600,
+          "episode": 7,
+          "mediaId": 189602,
+          "media": {
+            "id": 189602
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 396241,
+          "airingAt": 1749506400,
+          "episode": 8,
+          "mediaId": 189602,
+          "media": {
+            "id": 189602
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 396242,
+          "airingAt": 1750111200,
+          "episode": 9,
+          "mediaId": 189602,
+          "media": {
+            "id": 189602
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 396243,
+          "airingAt": 1750716000,
+          "episode": 10,
+          "mediaId": 189602,
+          "media": {
+            "id": 189602
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 112436,
+      "url": "https://x.com/youtunya",
+      "site": "Twitter"
+    },
+    {
+      "id": 112437,
+      "url": "https://www.tiktok.com/@youtunya",
+      "site": "TikTok"
+    },
+    {
+      "id": 112438,
+      "url": "https://youtunya.com/",
+      "site": "Official Site"
+    },
+    {
+      "id": 112439,
+      "url": "https://www.instagram.com/youtunya/",
+      "site": "Instagram"
+    },
+    {
+      "id": 112440,
+      "url": "https://www.youtube.com/@youtunya",
+      "site": "YouTube"
+    },
+    {
+      "id": 114402,
+      "url": "https://www.youtube.com/playlist?list=PLt1RFRlgRnroTMyLN9XCNDxlrKS9V_X2c",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 14793,
+      "rank": 20,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2025,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 14830,
+      "rank": 17,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2025,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 2
+      },
+      {
+        "score": 70,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 22
+      },
+      {
+        "status": "PLANNING",
+        "amount": 26
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 3
+      },
+      {
+        "status": "DROPPED",
+        "amount": 11
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/189602",
+  "modNotes": null
+}

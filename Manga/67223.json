@@ -1,0 +1,341 @@
+{
+  "id": 67223,
+  "idMal": 37223,
+  "title": {
+    "native": "まんがーる!",
+    "romaji": "Mangirl!",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Girls without manga editing experience create a new manga magazine.",
+  "startDate": {
+    "year": 2011,
+    "month": 3,
+    "day": 12
+  },
+  "endDate": {
+    "year": 2013,
+    "month": 6,
+    "day": 13
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 37,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747829218,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37223.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37223.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/37223.jpg",
+    "color": "#f1c950"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Soukan! Comic Earth Star Henshuubu"
+  ],
+  "averageScore": null,
+  "meanScore": 44,
+  "popularity": 103,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 97,
+      "name": "Otaku Culture",
+      "description": "Centers around the culture of a fanatical fan-base.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 86,
+      "name": "Primarily Female Cast",
+      "description": "Main cast is mostly composed of female characters.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 145,
+      "name": "Work",
+      "description": "Centers around the activities of a certain occupation.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 92,
+      "name": "Cute Girls Doing Cute Things",
+      "description": "Centers around female characters doing cute activities, usually with little to no emphasis on drama and conflict.\n",
+      "category": "Theme-Slice of Life",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 14045,
+          "title": {
+            "native": "まんがーる!"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62399,
+          "name": {
+            "first": "Tsugumi",
+            "last": "Haraki",
+            "native": "原木つぐみ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62399-kMosyds45V3z.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62399-kMosyds45V3z.png"
+          },
+          "siteUrl": "https://anilist.co/character/62399"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62401,
+          "name": {
+            "first": "Ringo",
+            "last": "Nishijima",
+            "native": "西島りんご",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62401-Ow3Z5sq2E1oz.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62401-Ow3Z5sq2E1oz.png"
+          },
+          "siteUrl": "https://anilist.co/character/62401"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62395,
+          "name": {
+            "first": "Hana",
+            "last": "Sasayama",
+            "native": "佐々山はな",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62395-CPuEY5yu0DV0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62395-CPuEY5yu0DV0.png"
+          },
+          "siteUrl": "https://anilist.co/character/62395"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62397,
+          "name": {
+            "first": "Aki",
+            "last": "Torii",
+            "native": "鳥井あき",
+            "alternative": [
+              "White Autumn"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62397-qTS2pEIgFxGk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62397-qTS2pEIgFxGk.png"
+          },
+          "siteUrl": "https://anilist.co/character/62397"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 75274,
+          "name": {
+            "first": "Hikari",
+            "last": "Ayano",
+            "native": "彩野 ひかり",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75274-AqAzUKs3xAJA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b75274-AqAzUKs3xAJA.png"
+          },
+          "siteUrl": "https://anilist.co/character/75274"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 62403,
+          "name": {
+            "first": "Shinobu",
+            "last": "Fujimori",
+            "native": "藤森しのぶ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62403-4Uus3ZHrXJEY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b62403-4Uus3ZHrXJEY.png"
+          },
+          "siteUrl": "https://anilist.co/character/62403"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 75272,
+          "name": {
+            "first": "Sayuri",
+            "last": "Misono",
+            "native": "御園 さゆり",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75272-npjRL3XHPgHe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b75272-npjRL3XHPgHe.png"
+          },
+          "siteUrl": "https://anilist.co/character/75272"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 75276,
+          "name": {
+            "first": "Kiiro",
+            "last": "Sakuradai",
+            "native": "桜台 きいろ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75276-S151Afws3sTt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b75276-S151Afws3sTt.png"
+          },
+          "siteUrl": "https://anilist.co/character/75276"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 111873,
+          "name": {
+            "first": "Kagari",
+            "last": "Tamaoka",
+            "native": "玉岡かがり "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111873-g66UN9F86pMu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111873-g66UN9F86pMu.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/rukiuki_k)",
+          "siteUrl": "https://anilist.co/staff/111873"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 2
+      },
+      {
+        "score": 70,
+        "amount": 2
+      },
+      {
+        "score": 80,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 7
+      },
+      {
+        "status": "PLANNING",
+        "amount": 76
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 15
+      },
+      {
+        "status": "DROPPED",
+        "amount": 5
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/67223",
+  "modNotes": null
+}

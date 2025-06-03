@@ -1,0 +1,283 @@
+{
+  "id": 3429,
+  "idMal": 3429,
+  "title": {
+    "native": null,
+    "romaji": "Blame! Special",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "Based on the Blame! manga series by Tsutomu Nihei.",
+  "startDate": {
+    "year": 2003,
+    "month": 10,
+    "day": 24
+  },
+  "endDate": {
+    "year": 2003,
+    "month": 10,
+    "day": 24
+  },
+  "season": "FALL",
+  "seasonYear": 2003,
+  "seasonInt": 34,
+  "episodes": 1,
+  "duration": 4,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748884700,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3429-7CSAUykqIt3Z.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3429-7CSAUykqIt3Z.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx3429-7CSAUykqIt3Z.jpg",
+    "color": "#6b351a"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3429-0mrVmoHE4r30.jpg",
+  "genres": [
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Blame! Extra Log: Collapsed Data"
+  ],
+  "averageScore": 46,
+  "meanScore": 46,
+  "popularity": 2153,
+  "favourites": 10,
+  "tags": [
+    {
+      "id": 108,
+      "name": "Cyberpunk",
+      "description": "Set in a future of advanced technological and scientific achievements that have resulted in social disorder.",
+      "category": "Theme-Sci-Fi",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 93,
+      "name": "Post-Apocalyptic",
+      "description": "Partly or completely set in a world or civilization after a global disaster.",
+      "category": "Setting-Universe",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 157,
+      "name": "Guns",
+      "description": "Prominently features the use of guns in combat.",
+      "category": "Theme-Action",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 801,
+      "name": "Cyborg",
+      "description": "Prominently features a human character whose physiological functions are aided or enhanced by artificial means.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1055,
+          "title": {
+            "native": "BLAME! Ver.0.11"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 30149,
+          "title": {
+            "native": "BLAME!"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3762,
+          "name": {
+            "first": "Killy",
+            "last": null,
+            "native": "キリー",
+            "alternative": [
+              "Kyrii"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3762-hh1LPjA5Tswg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3762-hh1LPjA5Tswg.png"
+          },
+          "siteUrl": "https://anilist.co/character/3762"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97000,
+          "name": {
+            "first": "Tsutomu",
+            "last": "Nihei",
+            "native": "弐瓶勉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97000-yz1CiErBWIiT.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97000-yz1CiErBWIiT.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/tsutomu_nihei)\n\nNihei studied architecture and after that, he went abroad to work for one year in New York. After that year, he returned to Japan and decided to become a mangaka. He started at Kodansha's Afternoon, and has been Takahashi Tsutomu's assistant for a while (working on Jiraishin).",
+          "siteUrl": "https://anilist.co/staff/97000"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 86,
+          "name": "Group TAC",
+          "siteUrl": "https://anilist.co/studio/86"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 6955,
+          "rating": 3,
+          "media": {
+            "id": 3429,
+            "title": {
+              "native": null
+            }
+          },
+          "mediaRecommendation": {
+            "id": 26,
+            "title": {
+              "native": "TEXHNOLYZE"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 63
+      },
+      {
+        "score": 20,
+        "amount": 68
+      },
+      {
+        "score": 30,
+        "amount": 92
+      },
+      {
+        "score": 40,
+        "amount": 120
+      },
+      {
+        "score": 50,
+        "amount": 202
+      },
+      {
+        "score": 60,
+        "amount": 156
+      },
+      {
+        "score": 70,
+        "amount": 71
+      },
+      {
+        "score": 80,
+        "amount": 27
+      },
+      {
+        "score": 90,
+        "amount": 18
+      },
+      {
+        "score": 100,
+        "amount": 15
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 35
+      },
+      {
+        "status": "PLANNING",
+        "amount": 709
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1369
+      },
+      {
+        "status": "DROPPED",
+        "amount": 23
+      },
+      {
+        "status": "PAUSED",
+        "amount": 17
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/3429",
+  "modNotes": null
+}

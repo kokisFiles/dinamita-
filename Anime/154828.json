@@ -1,0 +1,471 @@
+{
+  "id": 154828,
+  "idMal": 53251,
+  "title": {
+    "native": "风姿物语 仙罗篇",
+    "romaji": "Fengzi Wuyu: Xian Luo Pian",
+    "english": "The Story of Fengzhi Senla"
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "The second season of <i>Fengzi Wuyu</i>.",
+  "startDate": {
+    "year": 2022,
+    "month": 10,
+    "day": 3
+  },
+  "endDate": {
+    "year": 2023,
+    "month": 2,
+    "day": 6
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 20,
+  "duration": 16,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748770885,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154828-k3P1wRkhw2rw.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154828-k3P1wRkhw2rw.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154828-k3P1wRkhw2rw.jpg",
+    "color": "#e4bb5d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "The Shape of the Wind: Siam Era"
+  ],
+  "averageScore": null,
+  "meanScore": 68,
+  "popularity": 125,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 89,
+      "name": "Full CGI",
+      "description": "Almost entirely created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 129228,
+          "title": {
+            "native": "风姿物语 银河篇"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 116165,
+          "title": {
+            "native": "风姿物语"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 287787,
+          "name": {
+            "first": "Lancelot",
+            "last": "",
+            "native": "兰斯洛",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/287787"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 161913,
+          "name": {
+            "first": "Rosen",
+            "last": "",
+            "native": "罗森"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "__[Weibo](https://weibo.com/rosonwind)__",
+          "siteUrl": "https://anilist.co/staff/161913"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6835,
+          "name": "Star Hunter Animation",
+          "siteUrl": "https://anilist.co/studio/6835"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 340586,
+          "airingAt": 1664766000,
+          "episode": 1,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340587,
+          "airingAt": 1664766000,
+          "episode": 2,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340588,
+          "airingAt": 1665370800,
+          "episode": 3,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340589,
+          "airingAt": 1665975600,
+          "episode": 4,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340590,
+          "airingAt": 1666580400,
+          "episode": 5,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340591,
+          "airingAt": 1667185200,
+          "episode": 6,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340592,
+          "airingAt": 1667790000,
+          "episode": 7,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340593,
+          "airingAt": 1668394800,
+          "episode": 8,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340594,
+          "airingAt": 1668999600,
+          "episode": 9,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340595,
+          "airingAt": 1669604400,
+          "episode": 10,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340596,
+          "airingAt": 1670209200,
+          "episode": 11,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340597,
+          "airingAt": 1670814000,
+          "episode": 12,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340598,
+          "airingAt": 1671418800,
+          "episode": 13,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340599,
+          "airingAt": 1672023600,
+          "episode": 14,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340600,
+          "airingAt": 1672628400,
+          "episode": 15,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340601,
+          "airingAt": 1673233200,
+          "episode": 16,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340602,
+          "airingAt": 1673838000,
+          "episode": 17,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340603,
+          "airingAt": 1674442800,
+          "episode": 18,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340604,
+          "airingAt": 1675047600,
+          "episode": 19,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 340605,
+          "airingAt": 1675652400,
+          "episode": 20,
+          "mediaId": 154828,
+          "media": {
+            "id": 154828
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 57943,
+      "url": "https://www.bilibili.com/bangumi/media/md28339461/",
+      "site": "Bilibili"
+    },
+    {
+      "id": 59609,
+      "url": "https://www.bilibili.tv/media/2067667",
+      "site": "Bilibili TV"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 2
+      },
+      {
+        "score": 60,
+        "amount": 4
+      },
+      {
+        "score": 70,
+        "amount": 7
+      },
+      {
+        "score": 80,
+        "amount": 5
+      },
+      {
+        "score": 90,
+        "amount": 3
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 27
+      },
+      {
+        "status": "PLANNING",
+        "amount": 36
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 39
+      },
+      {
+        "status": "DROPPED",
+        "amount": 17
+      },
+      {
+        "status": "PAUSED",
+        "amount": 6
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/154828",
+  "modNotes": null
+}

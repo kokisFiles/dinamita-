@@ -1,0 +1,852 @@
+{
+  "id": 8521,
+  "idMal": 8521,
+  "title": {
+    "native": "ビリ犬なんでも商会",
+    "romaji": "Biriken Nandemo Shoukai",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "The sequel to Billy Ken.",
+  "startDate": {
+    "year": 1989,
+    "month": 4,
+    "day": 10
+  },
+  "endDate": {
+    "year": 1989,
+    "month": 9,
+    "day": 18
+  },
+  "season": "SPRING",
+  "seasonYear": 1989,
+  "seasonInt": 892,
+  "episodes": 22,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748104513,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8521-rMpEINuVAIoL.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8521-rMpEINuVAIoL.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8521-rMpEINuVAIoL.png",
+    "color": "#50c9e4"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Billy Inu Nandemo Shoukai",
+    "Billy Ken Nandemo Shoukai"
+  ],
+  "averageScore": 58,
+  "meanScore": 69,
+  "popularity": 227,
+  "favourites": 6,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 8520,
+          "title": {
+            "native": "ビリ犬"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 140171,
+          "title": {
+            "native": "ビリ犬"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 251504,
+          "name": {
+            "first": "Tetsuo",
+            "last": "Amemori",
+            "native": "雨森テツオ",
+            "alternative": [
+              "Tecchan (テッちゃん)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/251504"
+        },
+        "voiceActors": [
+          {
+            "id": 95637,
+            "name": {
+              "first": "Miina",
+              "last": "Tominaga",
+              "native": "冨永みーな"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95637-LT2PGGiw1HSB.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95637-LT2PGGiw1HSB.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95637"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 251500,
+          "name": {
+            "first": "Biriken",
+            "last": null,
+            "native": "ビリ犬",
+            "alternative": [
+              "Billy Ken"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251500-QPPgRLhinihL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251500-QPPgRLhinihL.png"
+          },
+          "siteUrl": "https://anilist.co/character/251500"
+        },
+        "voiceActors": [
+          {
+            "id": 95557,
+            "name": {
+              "first": "Masako",
+              "last": "Nozawa",
+              "native": "野沢雅子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95557-5a2nnIBK05ul.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95557-5a2nnIBK05ul.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95557"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 251502,
+          "name": {
+            "first": "Todoken",
+            "last": null,
+            "native": "トド犬",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251502-SYcfSCRfKtuR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251502-SYcfSCRfKtuR.png"
+          },
+          "siteUrl": "https://anilist.co/character/251502"
+        },
+        "voiceActors": [
+          {
+            "id": 96506,
+            "name": {
+              "first": "Yoku",
+              "last": "Shioya",
+              "native": "塩屋翼"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96506-toS3CQBXCrnR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96506-toS3CQBXCrnR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96506"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 251501,
+          "name": {
+            "first": "Gariken",
+            "last": null,
+            "native": "ガリ犬",
+            "alternative": [
+              "Garry Ken"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251501-Hp0dnLPBzcm5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b251501-Hp0dnLPBzcm5.png"
+          },
+          "siteUrl": "https://anilist.co/character/251501"
+        },
+        "voiceActors": [
+          {
+            "id": 100763,
+            "name": {
+              "first": "Eiko",
+              "last": "Yamada",
+              "native": "山田栄子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100763-V7UZZ6qFEOeP.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100763-V7UZZ6qFEOeP.png"
+            },
+            "siteUrl": "https://anilist.co/staff/100763"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 251503,
+          "name": {
+            "first": "Tatsuo",
+            "last": "Amemori",
+            "native": "雨森タツオ",
+            "alternative": [
+              "Tacchan (タッちゃん)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/251503"
+        },
+        "voiceActors": [
+          {
+            "id": 96119,
+            "name": {
+              "first": "Harumi",
+              "last": "Ichiryuusai",
+              "native": "一龍斎春水"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96119-fc73Td5Qm6RB.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96119-fc73Td5Qm6RB.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96119"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 115629,
+          "name": {
+            "first": "Hideyuki",
+            "last": "Motohashi",
+            "native": "本橋秀之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115629-9p7Sfesji7op.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115629-9p7Sfesji7op.png"
+          },
+          "description": "He is an animator and character designer. Motohashi started working at Studio Z. Later, after leaving Studio Z, he started together with Hirayama Satoshi and Kamegaki Hajime Studio Z5. Today he is affiliated with Xebec and is the representative director of its subsidiary Xebec M2.\n\n",
+          "siteUrl": "https://anilist.co/staff/115629"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 108941,
+          "name": {
+            "first": "Fujio A",
+            "last": "Fujiko",
+            "native": "藤子不二雄Ⓐ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/13941.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/13941.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/藤子不二雄A)\n\nMotoo Abiko, better known as Fujio A Fujiko, was part of the former manga-writing duo [Fujio Fujiko](https://anilist.co/staff/219230/).",
+          "siteUrl": "https://anilist.co/staff/108941"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 157504,
+          "name": {
+            "first": "Noboru ",
+            "last": "Shiroyama ",
+            "native": "城山昇"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/157504"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 145070,
+          "name": {
+            "first": "Nobuaki",
+            "last": "Kishima",
+            "native": "岸間信明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n145070-o5cKFYj0Iqpe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n145070-o5cKFYj0Iqpe.png"
+          },
+          "description": "He is a scriptwriter and novelist.",
+          "siteUrl": "https://anilist.co/staff/145070"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 161497,
+          "name": {
+            "first": "Masaaki",
+            "last": "Sakurai",
+            "native": "桜井正明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/桜井正明)\n\n_Note: Not to be confused with the [animator](https://anilist.co/staff/118601/)._",
+          "siteUrl": "https://anilist.co/staff/161497"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 101837,
+          "name": {
+            "first": "Junji",
+            "last": "Nishimura",
+            "native": "西村純二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101837-woJ77Nx3j8nn.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101837-woJ77Nx3j8nn.jpg"
+          },
+          "description": "Junji Nishimura is a male Japanese director, an episode director and storyboarder from Yobuko, Saga, Japan, though he currently resides in Karatsu, Saga. After graduating from Meiji Gakuin University in 1980, Nishimura entered into the anime studio Nishiko Production. Nishimura had his first job as an episode director for Baldios in 1980, and went on to be an episode director in other series such as Six God Combination Godmars, and Magical Princess Minky Momo in 1982. In 1984, he resigned from Nishiko and in 1985 had his director debut with Pro Golfer Saru. Since then, he has worked as the director on many anime produced by Studio Deen and later on for Seven Arcs.",
+          "siteUrl": "https://anilist.co/staff/101837"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 105276,
+          "name": {
+            "first": "Tsukasa",
+            "last": "Sunaga",
+            "native": "須永司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/須永司)",
+          "siteUrl": "https://anilist.co/staff/105276"
+        }
+      },
+      {
+        "role": "Episode Director",
+        "node": {
+          "id": 100315,
+          "name": {
+            "first": "Yuu",
+            "last": "Kou",
+            "native": "紅優"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5315.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5315.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/紅優)",
+          "siteUrl": "https://anilist.co/staff/100315"
+        }
+      },
+      {
+        "role": "Episode Director",
+        "node": {
+          "id": 135284,
+          "name": {
+            "first": "Kazunori",
+            "last": "Tanahashi",
+            "native": "棚橋一徳 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n135284-a3K1fbJsfvXQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n135284-a3K1fbJsfvXQ.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/135284"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 153957,
+          "name": {
+            "first": "Nobuhiro",
+            "last": "Okasako",
+            "native": "岡迫亘弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n153957-j5GcZ2cbNFtd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n153957-j5GcZ2cbNFtd.png"
+          },
+          "description": "__Birth Place:__ Shimane Prefecture, Japan\n\nOkasako Nobuhiro is an animator, character designer and director. \n\nHe entered Toei Douga in 1958 and has since gone through Mushi Production, Nippon Housou Douga (日本放送動画) and Tsuchida Production. In 1987 he established the animation studio Studio Victory and became its representative.",
+          "siteUrl": "https://anilist.co/staff/153957"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 135975,
+          "name": {
+            "first": "Chuuji",
+            "last": "Nakajima",
+            "native": "なかじまちゅうじ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/なかじまちゅうじ)\n\nFounder and former representative director of Studio Liberty.",
+          "siteUrl": "https://anilist.co/staff/135975"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 156854,
+          "name": {
+            "first": "Mitsuo ",
+            "last": "Shindou",
+            "native": "進藤満尾"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156854-CC1Faxw4J6Ei.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n156854-CC1Faxw4J6Ei.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/進藤満尾)\n\nFormer representative director of Shindou Production.",
+          "siteUrl": "https://anilist.co/staff/156854"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 101837,
+          "name": {
+            "first": "Junji",
+            "last": "Nishimura",
+            "native": "西村純二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101837-woJ77Nx3j8nn.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101837-woJ77Nx3j8nn.jpg"
+          },
+          "description": "Junji Nishimura is a male Japanese director, an episode director and storyboarder from Yobuko, Saga, Japan, though he currently resides in Karatsu, Saga. After graduating from Meiji Gakuin University in 1980, Nishimura entered into the anime studio Nishiko Production. Nishimura had his first job as an episode director for Baldios in 1980, and went on to be an episode director in other series such as Six God Combination Godmars, and Magical Princess Minky Momo in 1982. In 1984, he resigned from Nishiko and in 1985 had his director debut with Pro Golfer Saru. Since then, he has worked as the director on many anime produced by Studio Deen and later on for Seven Arcs.",
+          "siteUrl": "https://anilist.co/staff/101837"
+        }
+      },
+      {
+        "role": "Chief Director",
+        "node": {
+          "id": 103573,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Sasagawa",
+            "native": "笹川ひろし"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103573-5J40krh750F1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103573-5J40krh750F1.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/笹川ひろし)",
+          "siteUrl": "https://anilist.co/staff/103573"
+        }
+      },
+      {
+        "role": "Title Logo Design",
+        "node": {
+          "id": 192653,
+          "name": {
+            "first": "Akira",
+            "last": "Michikawa",
+            "native": "道川昭"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/192653"
+        }
+      },
+      {
+        "role": "Theme Song Lyrics (OP, ED)",
+        "node": {
+          "id": 108941,
+          "name": {
+            "first": "Fujio A",
+            "last": "Fujiko",
+            "native": "藤子不二雄Ⓐ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/13941.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/13941.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/藤子不二雄A)\n\nMotoo Abiko, better known as Fujio A Fujiko, was part of the former manga-writing duo [Fujio Fujiko](https://anilist.co/staff/219230/).",
+          "siteUrl": "https://anilist.co/staff/108941"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 95557,
+          "name": {
+            "first": "Masako",
+            "last": "Nozawa",
+            "native": "野沢雅子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95557-5a2nnIBK05ul.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95557-5a2nnIBK05ul.png"
+          },
+          "description": "__Chronology:__  \n- (1997) Won the \"Special/Lifetime Achievement\" Award at the 2nd Kobe Animation Awards. \n- (2006-04-01) Resigned from 81 Produce and established her own office, Office Nozawa.  ",
+          "siteUrl": "https://anilist.co/staff/95557"
+        }
+      },
+      {
+        "role": "Theme Song Composition (ED)",
+        "node": {
+          "id": 251499,
+          "name": {
+            "first": "Osamu",
+            "last": "Mitake",
+            "native": "見岳修"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/251499"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 95683,
+          "name": {
+            "first": "Mitsuko",
+            "last": "Horie",
+            "native": "堀江美都子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95683-MajreqecBQpy.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95683-MajreqecBQpy.jpg"
+          },
+          "description": "__Height:__ 153 cm\n\nMitsuko Horie is a Japanese seiyuu and singer. She was born in Yamato, Kanagawa, Japan. She is most known to American anime fans as the voice of Sailor Galaxia, but in all Latin-America she is know as the \"Candy-Candy\" opening theme singer.",
+          "siteUrl": "https://anilist.co/staff/95683"
+        }
+      },
+      {
+        "role": "Theme Song Composition (OP)",
+        "node": {
+          "id": 251498,
+          "name": {
+            "first": "Shousuke",
+            "last": "Ichikawa",
+            "native": "市川昭介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n251498-9rmie2APpVC4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n251498-9rmie2APpVC4.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/市川昭介)",
+          "siteUrl": "https://anilist.co/staff/251498"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 100763,
+          "name": {
+            "first": "Eiko",
+            "last": "Yamada",
+            "native": "山田栄子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100763-V7UZZ6qFEOeP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100763-V7UZZ6qFEOeP.png"
+          },
+          "description": "[Twitter](https://twitter.com/eiko751)",
+          "siteUrl": "https://anilist.co/staff/100763"
+        }
+      },
+      {
+        "role": "Theme Song Chorus (OP, ED)",
+        "node": {
+          "id": 211925,
+          "name": {
+            "first": "Koorogi'73",
+            "last": null,
+            "native": "こおろぎ`73"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n211925-U91t0x3dgOKN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n211925-U91t0x3dgOKN.png"
+          },
+          "description": "Koorogi'73 is a Japanese Chorus-Unit.\n\nThe correct name in Japanese is Koorogi Nanajuusan and means Cricket'73.\n\nThey disbanded after 1990.",
+          "siteUrl": "https://anilist.co/staff/211925"
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (OP, ED)",
+        "node": {
+          "id": 236517,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Takada",
+            "native": "高田弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (JP)](https://ja.wikipedia.org/wiki/高田弘)",
+          "siteUrl": "https://anilist.co/staff/236517"
+        }
+      },
+      {
+        "role": "Insert Song Performance",
+        "node": {
+          "id": 95683,
+          "name": {
+            "first": "Mitsuko",
+            "last": "Horie",
+            "native": "堀江美都子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95683-MajreqecBQpy.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95683-MajreqecBQpy.jpg"
+          },
+          "description": "__Height:__ 153 cm\n\nMitsuko Horie is a Japanese seiyuu and singer. She was born in Yamato, Kanagawa, Japan. She is most known to American anime fans as the voice of Sailor Galaxia, but in all Latin-America she is know as the \"Candy-Candy\" opening theme singer.",
+          "siteUrl": "https://anilist.co/staff/95683"
+        }
+      },
+      {
+        "role": "Insert Song Arrangement",
+        "node": {
+          "id": 235457,
+          "name": {
+            "first": "Ryou",
+            "last": "Kawakami",
+            "native": "川上了"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/235457"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 247,
+          "name": "Shin-Ei Animation",
+          "siteUrl": "https://anilist.co/studio/247"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 314205,
+          "rating": 1,
+          "media": {
+            "id": 8521,
+            "title": {
+              "native": "ビリ犬なんでも商会"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 7980,
+            "title": {
+              "native": "新オバケのＱ太郎"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 383092,
+          "rating": 1,
+          "media": {
+            "id": 8521,
+            "title": {
+              "native": "ビリ犬なんでも商会"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 20075,
+            "title": {
+              "native": "おぼっちゃまくん"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 4
+      },
+      {
+        "score": 20,
+        "amount": 9
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 2
+      },
+      {
+        "score": 60,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 6
+      },
+      {
+        "score": 80,
+        "amount": 24
+      },
+      {
+        "score": 90,
+        "amount": 23
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 10
+      },
+      {
+        "status": "PLANNING",
+        "amount": 74
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 99
+      },
+      {
+        "status": "DROPPED",
+        "amount": 38
+      },
+      {
+        "status": "PAUSED",
+        "amount": 6
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/8521",
+  "modNotes": null
+}

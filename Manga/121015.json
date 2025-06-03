@@ -1,0 +1,506 @@
+{
+  "id": 121015,
+  "idMal": 74335,
+  "title": {
+    "native": "しゅたいんず・げーと！",
+    "romaji": "Steins Gate!",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A comedic 4-koma spin-off series for Steins;Gate.",
+  "startDate": {
+    "year": 2011,
+    "month": 1,
+    "day": 27
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 3,
+    "day": 27
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 11,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VISUAL_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748687684,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121015-5OH5hIGI2dKZ.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121015-5OH5hIGI2dKZ.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx121015-5OH5hIGI2dKZ.jpg",
+    "color": "#d6c91a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": 63,
+  "meanScore": 80,
+  "popularity": 450,
+  "favourites": 9,
+  "tags": [
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 206,
+      "name": "4-koma",
+      "description": "A manga in the 'yonkoma' format, which consists of four equal-sized panels arranged in a vertical strip.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 23,
+      "name": "Female Harem",
+      "description": "Main cast features the protagonist plus several female characters who are romantically interested in them.",
+      "category": "Theme-Romance",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 47517,
+          "title": {
+            "native": "シュタインズ・ゲート"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 91997,
+          "title": {
+            "native": "STEINS;GATE 星屑のデュプレット"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 34470,
+          "name": {
+            "first": "Kurisu",
+            "last": "Makise",
+            "native": "牧瀬紅莉栖",
+            "alternative": [
+              "Christina",
+              "Assistant",
+              "American Virgin",
+              "Perverted Genius Girl",
+              "Celeb 17",
+              "The Zombie",
+              "Kuu-meow",
+              "k.makise",
+              "KuriGohan Kamehameha",
+              "Lab Member 004",
+              "KURI_KAME"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b34470-Jw2LXZBL5R8i.png"
+          },
+          "siteUrl": "https://anilist.co/character/34470"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 35253,
+          "name": {
+            "first": "Mayuri",
+            "last": "Shiina",
+            "native": "椎名まゆり",
+            "alternative": [
+              "Mayushii",
+              "Mayu",
+              "Lab Member 002"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35253-u6QVgLLyHq2W.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35253-u6QVgLLyHq2W.png"
+          },
+          "siteUrl": "https://anilist.co/character/35253"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 35252,
+          "name": {
+            "first": "Rintarou",
+            "last": "Okabe",
+            "native": "岡部倫太郎",
+            "alternative": [
+              "Rintaro",
+              "Hououin Kyouma (鳳凰院凶真)",
+              "Okarin (オカリン)",
+              "Mad Scientist",
+              "Future Gadget Lab Member #001",
+              "Lintahlo",
+              "M3",
+              "Salieri's Neighbor",
+              "Rinta-kun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35252-DY9TW6pusqeh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35252-DY9TW6pusqeh.png"
+          },
+          "siteUrl": "https://anilist.co/character/35252"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 30919,
+          "name": {
+            "first": "Luka",
+            "last": "Urushibara",
+            "native": "漆原るか",
+            "alternative": [
+              "Lukako",
+              "Ruka",
+              "Rukako",
+              "Ruka-meow",
+              "Lab Member 006",
+              "Warrior"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30919-5PjiA4ucfuuJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b30919-5PjiA4ucfuuJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/30919"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 35258,
+          "name": {
+            "first": "Itaru",
+            "last": "Hashida",
+            "native": "橋田至",
+            "alternative": [
+              "Daru",
+              "Perverted Gentleman",
+              "Super Hakar",
+              "Hack",
+              "DaSH",
+              "DaSP",
+              "Mr. Smileybear",
+              "Daru-meow",
+              "Lab Member 003"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35258-FeTGR4LEUNvt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35258-FeTGR4LEUNvt.png"
+          },
+          "siteUrl": "https://anilist.co/character/35258"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35256,
+          "name": {
+            "first": "Rumiho",
+            "last": "Akiha",
+            "native": "秋葉留美穂",
+            "alternative": [
+              "Rumi",
+              "Faris Nyan Nyan",
+              "Feyris",
+              "Cheshire Cat",
+              "Lab Member 007"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35256-A729dmHEgSYQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35256-A729dmHEgSYQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/35256"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35255,
+          "name": {
+            "first": "Suzuha",
+            "last": "Amane",
+            "native": "阿万音鈴羽",
+            "alternative": [
+              "Suzu",
+              "Part-Time Warrior",
+              "008",
+              "Suzu-meow",
+              "The Silent Slaughterer"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35255-Ra9Aq5Kn9lYq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35255-Ra9Aq5Kn9lYq.png"
+          },
+          "siteUrl": "https://anilist.co/character/35255"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35257,
+          "name": {
+            "first": "Moeka",
+            "last": "Kiryuu",
+            "native": "桐生萌郁",
+            "alternative": [
+              "Kiryu",
+              "Shining Finger",
+              "Moe-meow",
+              "Lab Member 005"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35257-uepVZyOvuqhi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35257-uepVZyOvuqhi.png"
+          },
+          "siteUrl": "https://anilist.co/character/35257"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 38558,
+          "name": {
+            "first": "Yuugo",
+            "last": "Tennouji",
+            "native": "天王寺裕吾",
+            "alternative": [
+              "Tennoji",
+              "Mr. Braun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38558-E4By0N5JXskJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b38558-E4By0N5JXskJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/38558"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 99997,
+          "name": {
+            "first": "nini",
+            "last": "",
+            "native": "nini"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99997-7AkAfKkbeGWV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99997-7AkAfKkbeGWV.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/nininco)",
+          "siteUrl": "https://anilist.co/staff/99997"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 99960,
+          "name": {
+            "first": "Nitro Plus",
+            "last": "",
+            "native": "ニトロプラス"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99960-hDXMZ30LKO3f.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99960-hDXMZ30LKO3f.png"
+          },
+          "description": "Nitro Plus, sometimes written as Nitro+, is a Japanese visual novel developer that has developed a number of visual novels, including eroge. They have been collaborating with TYPE-MOON (another developer) to create the light novel series, Fate/Zero.  They also have a branch of the company called Nitro+Chiral, which focuses on BL visual novels. Their works usually have dark themes such as reanimation of the dead and murder.",
+          "siteUrl": "https://anilist.co/staff/99960"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 109749,
+          "name": {
+            "first": "MAGES.",
+            "last": "",
+            "native": "株式会社MAGES."
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109749-Mvq7Q3G9rpMs.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n109749-Mvq7Q3G9rpMs.jpg"
+          },
+          "description": "<b><a href=\"http://mages.co.jp/\" target=\"blank\">Website</a></b> | <b><a href=\"https://ja.wikipedia.org/wiki/MAGES.\" target=\"blank\">Wiki</a></b> | <b><a href=\"https://www.youtube.com/@MAGES_GAME/\" target=\"blank\">YouTube</a></b>\n\nMAGES. is a Japanese video game manufacturer and record label for video game and anime music. 5pb. Inc. was formed on April 6, 2005 after Chiyomaru Shikura left Scitron to begin the company as its executive director, the position he still holds. The company is divided into two parts, MAGES. GAME for the manufacturing of video games, and MAGES. MUSIC for the record label. 5pb. was a wholly owned subsidiary of the TYO Group until Shikura purchased the remaining rights from the TYO Group on April 15, 2009. Shikura co-owned 5pb. with AGOne, an affiliate of Dwango Japan. 5pb. Inc. changed their name to MAGES. Inc. in 2011. In 2019 Chiyomaru Studio bought off MAGES. from Dwango Japan and merged 5pb. Games and 5pb. Records with MAGES.. In 2020 the company was bought by Colopl.",
+          "siteUrl": "https://anilist.co/staff/109749"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 105145,
+          "name": {
+            "first": "huke",
+            "last": "",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105145-DXibwFq2FgcI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105145-DXibwFq2FgcI.png"
+          },
+          "description": "\n__[Blog](http://huke.blog.shinobi.jp/) | [Twitter](https://twitter.com/hukeweb) | [DeviantArt](https://www.deviantart.com/ryoheihuke) | [Pixiv](https://www.pixiv.net/member.php?id=9794) | [Instagram](https://www.instagram.com/ryoheihuke/)__\n\nhuke is a Japanese illustrator who is best known for creating the original character [Black★Rock Shooter](https://anilist.co/character/19706) and working with the Japanese music group [supercell](https://anilist.co/staff/103913). His career as a professional illustrator began when he was involved as a character designer at a game company. He eventually resigned and became freelance, creating original concepts from his experience as a professional. huke soon became involved in certain illustrations based on the game Metal Gear Solid, and to enable and identify himself over the internet, he registered on Pixiv and created a personal blog. On December 2007, he submitted an illustration of Black★Rock Shooter. This inspired [ryo](https://anilist.co/staff/109941), the leader of supercell, and a song became the product of the band's first contact with Black★Rock Shooter. Aside from Black★Rock Shooter, huke also worked on the visual novel Steins;Gate, which was produced by [5pb.](https://anilist.co/staff/109749) and [Nitroplus](https://anilist.co/staff/99960). He also designed Hololive EN 1st Gen VTuber, [Takanashi Kiara](https://anilist.co/staff/206030/Kiara-Takanashi).",
+          "siteUrl": "https://anilist.co/staff/105145"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 67971,
+          "rating": 2,
+          "media": {
+            "id": 121015,
+            "title": {
+              "native": "しゅたいんず・げーと！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 46081,
+            "title": {
+              "native": "うみねこのなく頃に - Episode 3: Banquet of the Golden Witch"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 50,
+        "amount": 5
+      },
+      {
+        "score": 60,
+        "amount": 3
+      },
+      {
+        "score": 70,
+        "amount": 16
+      },
+      {
+        "score": 80,
+        "amount": 13
+      },
+      {
+        "score": 90,
+        "amount": 13
+      },
+      {
+        "score": 100,
+        "amount": 16
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 22
+      },
+      {
+        "status": "PLANNING",
+        "amount": 308
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 111
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/121015",
+  "modNotes": null
+}

@@ -1,0 +1,728 @@
+{
+  "id": 5006,
+  "idMal": 5006,
+  "title": {
+    "native": "ながぐつ三銃士",
+    "romaji": "Nagagutsu Sanjuushi",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "Second Puss in Boots movie, this time in a wild west setting. ",
+  "startDate": {
+    "year": 1972,
+    "month": 3,
+    "day": 18
+  },
+  "endDate": {
+    "year": 1972,
+    "month": 3,
+    "day": 18
+  },
+  "season": "SPRING",
+  "seasonYear": 1972,
+  "seasonInt": 722,
+  "episodes": 1,
+  "duration": 52,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748716433,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5006.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5006.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5006.jpg",
+    "color": "#f1bb1a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure"
+  ],
+  "synonyms": [
+    "Nagagutsu Sanjyuushi",
+    "The Three Musketeers in Boots",
+    "Continuavano a chiamarlo il gatto con gli stivali",
+    "Le retour du Chat Botté",
+    "Mästerkatten i vilda västern",
+    "Kot w butach na dzikim zachodzie"
+  ],
+  "averageScore": 63,
+  "meanScore": 67,
+  "popularity": 668,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 227,
+      "name": "Classic Literature",
+      "description": "Discusses or adapts a work of classic world literature.",
+      "category": "Theme-Arts",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2279,
+          "title": {
+            "native": "長靴をはいた猫"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 3752,
+          "title": {
+            "native": "長靴をはいた猫　８０日間世界一周"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 79893,
+          "name": {
+            "first": "Jane",
+            "last": null,
+            "native": "ジェーン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/79893"
+        },
+        "voiceActors": [
+          {
+            "id": 115072,
+            "name": {
+              "first": "Kazue",
+              "last": "Takahashi",
+              "native": "高橋和枝"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/20072.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/20072.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/115072"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 27988,
+          "name": {
+            "first": "Pero",
+            "last": null,
+            "native": "ペロ",
+            "alternative": [
+              "Mästerkatten"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b27988-5PKyytp8Bul1.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b27988-5PKyytp8Bul1.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/27988"
+        },
+        "voiceActors": [
+          {
+            "id": 232285,
+            "name": {
+              "first": "Yasushi",
+              "last": "Suzuki",
+              "native": "鈴木やすし"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/232285"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 101305,
+          "name": {
+            "first": "Tomoharu",
+            "last": "Katsumata",
+            "native": "勝間田具治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101305-hR93mdafMyuy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101305-hR93mdafMyuy.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/勝間田具治) | [Wiki (en)](https://en.wikipedia.org/wiki/Tomoharu_Katsumata)",
+          "siteUrl": "https://anilist.co/staff/101305"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 115530,
+          "name": {
+            "first": "Reiko",
+            "last": "Okuyama",
+            "native": "奥山玲子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115530-QFiBqMTDMM3Q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115530-QFiBqMTDMM3Q.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/奥山玲子)\n\nReiko Okuyama was notable for being one of the first female animators in the anime industry.\n\nShe spent much of her early life confined to bed due to a series of illnesses, and developed her interest in drawing during this time. After the end of World War II, she entered mission school. After graduation, she entered Tohoku University as per her father's wishes, but she eventually dropped out and left her home town to work in Tokyo.\n\nIn 1957, Okuyama applied for a position at Toei Animation, mistakenly believing that they were publishers of children's books. Her drawing skills were enough for her to be hired as an in-betweener. Her first work was on the landmark feature film, [Panda and the Magic Serpent](https://anilist.co/anime/4513/) in 1958. She was later promoted to 2nd key animator on [Magic Boy](https://anilist.co/anime/4948/), in spite of some sexual discrimination on the part of the studio heads. She was later promoted to key animator, and eventually to animation director.\n\nShe went freelance after briefly joining her husband [Youichi Kotabe](https://anilist.co/staff/115532/) at Nippon Animation. As a freelancer she worked as a printmaker, went on to illustrate several children's books and continued to teach animation at the Tokyo Designer Academy, which she had been doing since 1985.\n\nOkuyama passed away from pneumonia on May 6, 2007.",
+          "siteUrl": "https://anilist.co/staff/115530"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 131868,
+          "name": {
+            "first": "Akira",
+            "last": "Daikuhara",
+            "native": "大工原章"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131868-xgbVew1ApXG5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n131868-xgbVew1ApXG5.png"
+          },
+          "description": "Akira Daikuhara was an animation director, a person who laid down the genesis of Japanese animation. Established a totally different style for every piece of work and worked as an animation director for many early feature length animation films at Toei Doga (current Toei Animation Co. Ltd.) with his versatile technique and speed. There are a lot of younger staff who set out on their own with improved skills which were developed under his flexible coaching. He was involved in a various old hit films such as with original drawings of The White Snake Ehchantress, Kid Magician Sasuke and Adventure of Sindbad and as the animation director for Doggie March, Fables From Hans Christian Andersen and Alibaba and The Forty Thieves.\n\nHe received a Special Achievement Price for his lifework at the Japan Media Arts Festival in 2006.\n\n(Source: aniDB)",
+          "siteUrl": "https://anilist.co/staff/131868"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 168110,
+          "name": {
+            "first": "Akemi",
+            "last": "Miyazaki",
+            "native": "宮崎朱美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n168110-5iQNrZEYiRHB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n168110-5iQNrZEYiRHB.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/大田朱美)\n\nAkemi Miyazaki, née Oota, is a former animator.\n\nWife of [Hayao Miyazaki](https://anilist.co/staff/96870/), and mother of [Gorou](https://anilist.co/staff/101002/) and [Keisuke Miyazaki](https://anilist.co/staff/222813/).",
+          "siteUrl": "https://anilist.co/staff/168110"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 221764,
+          "name": {
+            "first": "Tsutomu",
+            "last": "Tominaga",
+            "native": "冨永勤"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/221764"
+        }
+      },
+      {
+        "role": "Background Art",
+        "node": {
+          "id": 222208,
+          "name": {
+            "first": "Iwamitsu",
+            "last": "Itou",
+            "native": "伊藤岩光"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/222208"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 226729,
+          "name": {
+            "first": "Eiji",
+            "last": "Itou",
+            "native": "伊藤英治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/226729"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 221775,
+          "name": {
+            "first": "Akira",
+            "last": "Sasaki",
+            "native": "佐々木章"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Started off as an animator in the late '60s.",
+          "siteUrl": "https://anilist.co/staff/221775"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 219419,
+          "name": {
+            "first": "Takao",
+            "last": "Sakano",
+            "native": "坂野隆雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/219419"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 219436,
+          "name": {
+            "first": "Katsuko",
+            "last": "Sakano",
+            "native": "坂野勝子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/219436"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 168101,
+          "name": {
+            "first": "Nobori",
+            "last": "Sekiai",
+            "native": "堰合昇"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/168101"
+        }
+      },
+      {
+        "role": "Tracing",
+        "node": {
+          "id": 217470,
+          "name": {
+            "first": "Kimiyo",
+            "last": "Okunishi",
+            "native": "奥西紀美代"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/217470"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 168109,
+          "name": {
+            "first": "Katsuya",
+            "last": "Oda",
+            "native": "小田克也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/168109"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 131866,
+          "name": {
+            "first": "Seiichirou",
+            "last": "Uno",
+            "native": "宇野誠一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131866-Kp0uSXJWtLvQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n131866-Kp0uSXJWtLvQ.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/131866"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 221784,
+          "name": {
+            "first": "Akihiro",
+            "last": "Ogawa",
+            "native": "小川明弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/221784"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 164459,
+          "name": {
+            "first": "Miyo",
+            "last": "Yamada",
+            "native": "山田みよ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/164459"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 145927,
+          "name": {
+            "first": "Hiroichi",
+            "last": "Fuse",
+            "native": "布勢博一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n145927-L7WQHwsbA4xl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n145927-L7WQHwsbA4xl.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/布勢博一)",
+          "siteUrl": "https://anilist.co/staff/145927"
+        }
+      },
+      {
+        "role": "Special Effects",
+        "node": {
+          "id": 216596,
+          "name": {
+            "first": "Chiaki",
+            "last": "Hirao",
+            "native": "平尾千秋"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n216596-2hif92I6klIh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n216596-2hif92I6klIh.png"
+          },
+          "description": "Handles special effects.",
+          "siteUrl": "https://anilist.co/staff/216596"
+        }
+      },
+      {
+        "role": "Finishing Check",
+        "node": {
+          "id": 219440,
+          "name": {
+            "first": "Saburou",
+            "last": "Niino",
+            "native": "新納三郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/219440"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 221780,
+          "name": {
+            "first": "Hideki",
+            "last": "Mori",
+            "native": "森英樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/221780"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 221766,
+          "name": {
+            "first": "Tatsuji",
+            "last": "Kino",
+            "native": "木野達児"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/221766"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 219434,
+          "name": {
+            "first": "Kyouko",
+            "last": "Yamashita",
+            "native": "山下恭子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/219434"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 103602,
+          "name": {
+            "first": "Yasuji",
+            "last": "Mori",
+            "native": "森康二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8602.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8602.jpg"
+          },
+          "description": "Father of [Atsushi Mori](https://anilist.co/staff/191173/).",
+          "siteUrl": "https://anilist.co/staff/103602"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 219439,
+          "name": {
+            "first": "Shouji",
+            "last": "Ikehara",
+            "native": "池原昭治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/219439"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 115414,
+          "name": {
+            "first": "Shigeo",
+            "last": "Matoba",
+            "native": "的場茂夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "He also served as an animator on *The Adventures of the American Rabbit*, a 1986 American-British animated film.",
+          "siteUrl": "https://anilist.co/staff/115414"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 18,
+          "name": "Toei Animation",
+          "siteUrl": "https://anilist.co/studio/18"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 16
+      },
+      {
+        "score": 40,
+        "amount": 31
+      },
+      {
+        "score": 50,
+        "amount": 63
+      },
+      {
+        "score": 60,
+        "amount": 41
+      },
+      {
+        "score": 70,
+        "amount": 33
+      },
+      {
+        "score": 80,
+        "amount": 11
+      },
+      {
+        "score": 90,
+        "amount": 38
+      },
+      {
+        "score": 100,
+        "amount": 63
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 21
+      },
+      {
+        "status": "PLANNING",
+        "amount": 183
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 425
+      },
+      {
+        "status": "DROPPED",
+        "amount": 28
+      },
+      {
+        "status": "PAUSED",
+        "amount": 11
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/5006",
+  "modNotes": null
+}

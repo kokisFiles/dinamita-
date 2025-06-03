@@ -1,0 +1,583 @@
+{
+  "id": 5279,
+  "idMal": 5279,
+  "title": {
+    "native": null,
+    "romaji": "Sekirei Special",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "\"Kusano's first errand\" - A ten minute OVA that came along with the 6th vol. limited edition of Sekirei. Kusano finally tires of nobody admitting her as Sahashi's potential wife, so she insists on joining Musubi and Tsukiumi on their shopping race to show her abilities. An iffy day ensues.",
+  "startDate": {
+    "year": 2009,
+    "month": 3,
+    "day": 25
+  },
+  "endDate": {
+    "year": 2009,
+    "month": 3,
+    "day": 25
+  },
+  "season": "SPRING",
+  "seasonYear": 2009,
+  "seasonInt": 92,
+  "episodes": 1,
+  "duration": 10,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748899330,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5279.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5279.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5279.jpg",
+    "color": "#f1bb5d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Ecchi",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Sekirei OVA"
+  ],
+  "averageScore": 65,
+  "meanScore": 66,
+  "popularity": 9913,
+  "favourites": 63,
+  "tags": [
+    {
+      "id": 23,
+      "name": "Female Harem",
+      "description": "Main cast features the protagonist plus several female characters who are romantically interested in them.",
+      "category": "Theme-Romance",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 100,
+      "name": "Nudity",
+      "description": "Features a character wearing no clothing or exposing intimate body parts.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 30873,
+          "title": {
+            "native": "セキレイ"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 4063,
+          "title": {
+            "native": "セキレイ"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 10052,
+          "name": {
+            "first": "Matsu",
+            "last": null,
+            "native": "松",
+            "alternative": [
+              "Sekirei No. 02"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10052-Cc7tDhu5y04h.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b10052-Cc7tDhu5y04h.png"
+          },
+          "siteUrl": "https://anilist.co/character/10052"
+        },
+        "voiceActors": [
+          {
+            "id": 95054,
+            "name": {
+              "first": "Aya",
+              "last": "Endou",
+              "native": "遠藤綾"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95054-8VgnlGK5QX2A.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95054"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7320,
+          "name": {
+            "first": "Miya",
+            "last": "Asama",
+            "native": "浅間 美哉",
+            "alternative": [
+              "Hannya of the North",
+              "Sekirei No. 01"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7320.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7320.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7320"
+        },
+        "voiceActors": [
+          {
+            "id": 95092,
+            "name": {
+              "first": "Sayaka",
+              "last": "Oohara",
+              "native": "大原さやか"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95092-dQXsTFQXLg3o.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95092"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7319,
+          "name": {
+            "first": "Tsukiumi",
+            "last": null,
+            "native": "月海",
+            "alternative": [
+              "Sekirei No.09",
+              "Tsu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7319-XiBGZXx8hvt6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7319-XiBGZXx8hvt6.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7319"
+        },
+        "voiceActors": [
+          {
+            "id": 95158,
+            "name": {
+              "first": "Marina",
+              "last": "Inoue",
+              "native": "井上麻里奈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95158-OLhgs8zv5xsp.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95158"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7323,
+          "name": {
+            "first": "Kusano",
+            "last": null,
+            "native": "草野",
+            "alternative": [
+              "Kuu",
+              "Sekirei No.108",
+              "Green Girl"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7323-rzOMc6h91any.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7323-rzOMc6h91any.png"
+          },
+          "siteUrl": "https://anilist.co/character/7323"
+        },
+        "voiceActors": [
+          {
+            "id": 95185,
+            "name": {
+              "first": "Kana",
+              "last": "Hanazawa",
+              "native": "花澤香菜"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95185-x8ZYvtN7SegC.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95185"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 6795,
+          "name": {
+            "first": "Minato",
+            "last": "Sahashi",
+            "native": "佐橋 皆人",
+            "alternative": [
+              "Mina-tan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/6795.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/6795.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6795"
+        },
+        "voiceActors": [
+          {
+            "id": 95792,
+            "name": {
+              "first": "Shinnosuke",
+              "last": "Tachibana",
+              "native": "立花慎之介"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95792-5413Ip70mSdV.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95792-5413Ip70mSdV.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95792"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7318,
+          "name": {
+            "first": "Musubi",
+            "last": null,
+            "native": "結",
+            "alternative": [
+              "Sekirei No.88",
+              "Mu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7318.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7318.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7318"
+        },
+        "voiceActors": [
+          {
+            "id": 95869,
+            "name": {
+              "first": "Saori",
+              "last": "Hayami",
+              "native": "早見沙織"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95869-qCQ0EaWpq1QT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95869"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97570,
+          "name": {
+            "first": "Sakurako",
+            "last": "Gokurakuin",
+            "native": "極楽院櫻子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97570-3d0rnS3FZwGk.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97570-3d0rnS3FZwGk.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/gs_lockshow)\n\nShe uses the pen name \"Ashika Sakura\" for her yaoi and shota titles.",
+          "siteUrl": "https://anilist.co/staff/97570"
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 97570,
+          "name": {
+            "first": "Sakurako",
+            "last": "Gokurakuin",
+            "native": "極楽院櫻子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97570-3d0rnS3FZwGk.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97570-3d0rnS3FZwGk.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/gs_lockshow)\n\nShe uses the pen name \"Ashika Sakura\" for her yaoi and shota titles.",
+          "siteUrl": "https://anilist.co/staff/97570"
+        }
+      },
+      {
+        "role": "Executive Producer (English)",
+        "node": {
+          "id": 100316,
+          "name": {
+            "first": "Gen",
+            "last": "Fukunaga",
+            "native": "福永元"
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100316-tG6FdGzqgxli.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100316-tG6FdGzqgxli.png"
+          },
+          "description": "The founder and former representative director of [Funimation](https://anilist.co/studio/102/).\n\n**Non-anime roles:**\n- Policeman in \"Chuck E. Cheese in the Galaxy 5000\"",
+          "siteUrl": "https://anilist.co/staff/100316"
+        }
+      },
+      {
+        "role": "ADR Director (English)",
+        "node": {
+          "id": 117199,
+          "name": {
+            "first": "Jason",
+            "last": "Grundy",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/117199"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 17,
+          "name": "Aniplex",
+          "siteUrl": "https://anilist.co/studio/17"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 35,
+          "name": "Seven Arcs",
+          "siteUrl": "https://anilist.co/studio/35"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 102,
+          "name": "Funimation",
+          "siteUrl": "https://anilist.co/studio/102"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 316972,
+          "rating": 1,
+          "media": {
+            "id": 5279,
+            "title": {
+              "native": null
+            }
+          },
+          "mediaRecommendation": {
+            "id": 8302,
+            "title": {
+              "native": "れでぃ×ばと!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 316974,
+          "rating": 0,
+          "media": {
+            "id": 5279,
+            "title": {
+              "native": null
+            }
+          },
+          "mediaRecommendation": {
+            "id": 8619,
+            "title": {
+              "native": "れでぃ×ばと!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 317018,
+          "rating": 1,
+          "media": {
+            "id": 5279,
+            "title": {
+              "native": null
+            }
+          },
+          "mediaRecommendation": {
+            "id": 21129,
+            "title": {
+              "native": "閃乱カグラ ESTIVAL VERSUS -水着だらけの前夜祭"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 323340,
+          "rating": 1,
+          "media": {
+            "id": 5279,
+            "title": {
+              "native": null
+            }
+          },
+          "mediaRecommendation": {
+            "id": 5772,
+            "title": {
+              "native": "あかね色に染まる坂 OVA"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 51
+      },
+      {
+        "score": 20,
+        "amount": 60
+      },
+      {
+        "score": 30,
+        "amount": 120
+      },
+      {
+        "score": 40,
+        "amount": 188
+      },
+      {
+        "score": 50,
+        "amount": 532
+      },
+      {
+        "score": 60,
+        "amount": 1048
+      },
+      {
+        "score": 70,
+        "amount": 1409
+      },
+      {
+        "score": 80,
+        "amount": 730
+      },
+      {
+        "score": 90,
+        "amount": 307
+      },
+      {
+        "score": 100,
+        "amount": 250
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 181
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1828
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 7777
+      },
+      {
+        "status": "DROPPED",
+        "amount": 55
+      },
+      {
+        "status": "PAUSED",
+        "amount": 72
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/5279",
+  "modNotes": null
+}

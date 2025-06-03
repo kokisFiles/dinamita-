@@ -1,0 +1,718 @@
+{
+  "id": 74005,
+  "idMal": 44005,
+  "title": {
+    "native": "レーカン!",
+    "romaji": "Re-Kan!",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "RELEASING",
+  "description": "A 4-koma comedy about a high school girl named Hibiki Amami has a sixth sense of perceiving and interacting with ghosts and supernatural beings as well as talking with cats and other animals. The story follows her everyday antics.",
+  "startDate": {
+    "year": 2009,
+    "month": 12,
+    "day": 1
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748874547,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx74005-ou1aA0gHnJXw.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74005-ou1aA0gHnJXw.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx74005-ou1aA0gHnJXw.png",
+    "color": "#f17800"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 63,
+  "popularity": 363,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 220,
+      "name": "Ghost",
+      "description": "Prominently features a character who is a ghost.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 206,
+      "name": "4-koma",
+      "description": "A manga in the 'yonkoma' format, which consists of four equal-sized panels arranged in a vertical strip.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 356,
+      "name": "Gyaru",
+      "description": "Prominently features a female character who has a distinct American-emulated fashion style, such as tanned skin, bleached hair, and excessive makeup. Also known as gal.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 20814,
+          "title": {
+            "native": "レーカン!"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 125441,
+          "title": {
+            "native": "レーカン! アンソロジーコミック"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177361,
+          "name": {
+            "first": "Faceless",
+            "last": "Spirit",
+            "native": "顔なし霊",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177361-CEfUUM5QdxeO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177361-CEfUUM5QdxeO.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177361"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 88967,
+          "name": {
+            "first": "Ero-neko",
+            "last": null,
+            "native": "エロ猫",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88967-itYjQ5PBeRn2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88967-itYjQ5PBeRn2.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/88967"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177351,
+          "name": {
+            "first": "",
+            "last": "Yoshida",
+            "native": "吉田",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177351-wpGwsFhrLLb0.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177351-wpGwsFhrLLb0.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177351"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 88968,
+          "name": {
+            "first": "Kana",
+            "last": "Uehara",
+            "native": "上原　佳菜",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88968-Ad0Bg5wtt2fg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88968-Ad0Bg5wtt2fg.png"
+          },
+          "siteUrl": "https://anilist.co/character/88968"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 88965,
+          "name": {
+            "first": "Hibiki",
+            "last": "Amami",
+            "native": "天海 響",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88965-VzaBef91ewsS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88965-VzaBef91ewsS.png"
+          },
+          "siteUrl": "https://anilist.co/character/88965"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 88969,
+          "name": {
+            "first": "Kyouko",
+            "last": "Esumi",
+            "native": "江角京子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88969-00eQ7pzKk1li.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88969-00eQ7pzKk1li.png"
+          },
+          "siteUrl": "https://anilist.co/character/88969"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177356,
+          "name": {
+            "first": "Ko-gal Rei no Haha",
+            "last": null,
+            "native": "コギャル霊の母",
+            "alternative": [
+              "Ko-gal Spirit's Mother"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177356-P9xmDEkgH2BZ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177356-P9xmDEkgH2BZ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177356"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177352,
+          "name": {
+            "first": "Masaki",
+            "last": "Yamada",
+            "native": "山田正輝",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177352-9Al6ULiVIIq3.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177352-9Al6ULiVIIq3.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177352"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177353,
+          "name": {
+            "first": "",
+            "last": "Moriya",
+            "native": "守屋先生",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177353-MHE3Y9TWt7yF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177353-MHE3Y9TWt7yF.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177353"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 88966,
+          "name": {
+            "first": "Narumi",
+            "last": "Inoue",
+            "native": "井上 成美",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88966-TU8sImQXLizk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88966-TU8sImQXLizk.png"
+          },
+          "siteUrl": "https://anilist.co/character/88966"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177358,
+          "name": {
+            "first": "Yuuki",
+            "last": "Inoue",
+            "native": "井上勇希",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177358-mQZBk2Os59sw.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177358-mQZBk2Os59sw.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177358"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177360,
+          "name": {
+            "first": "Hanako-san",
+            "last": null,
+            "native": "トイレの花子さん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177360-FAAS1cYp3MjQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177360-FAAS1cYp3MjQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177360"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177355,
+          "name": {
+            "first": "Little Ghost Girl",
+            "last": null,
+            "native": "少女霊",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177355-eueW8CHyfrQB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177355-eueW8CHyfrQB.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177355"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 88970,
+          "name": {
+            "first": "Makoto",
+            "last": "Ogawa",
+            "native": "小川 真琴",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88970-sHFyVUu6mfni.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88970-sHFyVUu6mfni.png"
+          },
+          "siteUrl": "https://anilist.co/character/88970"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177354,
+          "name": {
+            "first": "Mary-san",
+            "last": null,
+            "native": "メリーさん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177354-zwqH35QKRgQd.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177354-zwqH35QKRgQd.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177354"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 88971,
+          "name": {
+            "first": "Kenta",
+            "last": "Yamada",
+            "native": "山田 健太",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88971-bcAi190Ooa9M.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/88971-bcAi190Ooa9M.png"
+          },
+          "siteUrl": "https://anilist.co/character/88971"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177359,
+          "name": {
+            "first": "Yuuki's Mother",
+            "last": null,
+            "native": "勇希の母",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177359-yWDRlqW7sGa3.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177359-yWDRlqW7sGa3.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177359"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177363,
+          "name": {
+            "first": "Yuuhi",
+            "last": "Amami",
+            "native": "天海夕陽",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177363-nYCWzf75h0lX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177363-nYCWzf75h0lX.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177363"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177357,
+          "name": {
+            "first": "Ko-gal",
+            "last": "Spirit",
+            "native": "コギャル霊",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177357-EgxYr00I6X1x.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177357-EgxYr00I6X1x.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177357"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177362,
+          "name": {
+            "first": "Daihen-zamurai",
+            "last": null,
+            "native": "代返侍",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177362-WbaOnFoXg5jg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177362-WbaOnFoXg5jg.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177362"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177364,
+          "name": {
+            "first": "Asahi",
+            "last": "Amami",
+            "native": "天海朝陽",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177364-FfBYAxFxMc9s.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177364-FfBYAxFxMc9s.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177364"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 114597,
+          "name": {
+            "first": "Hinako",
+            "last": "Seta",
+            "native": "瀬田ヒナコ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/114597-ikfltLSm66j4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/114597-ikfltLSm66j4.jpg"
+          },
+          "description": "Associative names: Samidare Kingyo (SETA Hinako), さみだれ金魚 (瀬田ヒナコ), 濑田日名子\n\n\n[Official website](http://seta.blog16.fc2.com/)\n[Twitter](https://twitter.com/hinako_seta)",
+          "siteUrl": "https://anilist.co/staff/114597"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 88508,
+          "rating": 4,
+          "media": {
+            "id": 74005,
+            "title": {
+              "native": "レーカン!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 105097,
+            "title": {
+              "native": "見える子ちゃん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 301867,
+          "rating": 2,
+          "media": {
+            "id": 74005,
+            "title": {
+              "native": "レーカン!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 90838,
+            "title": {
+              "native": "六畳間の侵略者！？"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 312779,
+          "rating": 1,
+          "media": {
+            "id": 74005,
+            "title": {
+              "native": "レーカン!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 56769,
+            "title": {
+              "native": "僕らはみんな河合荘"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 312782,
+          "rating": 1,
+          "media": {
+            "id": 74005,
+            "title": {
+              "native": "レーカン!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 109608,
+            "title": {
+              "native": "ダークギャザリング"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 312784,
+          "rating": 1,
+          "media": {
+            "id": 74005,
+            "title": {
+              "native": "レーカン!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 76258,
+            "title": {
+              "native": "ふらいんぐうぃっち"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 312788,
+          "rating": 1,
+          "media": {
+            "id": 74005,
+            "title": {
+              "native": "レーカン!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 141186,
+            "title": {
+              "native": "ゆうれい色の日常"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 4
+      },
+      {
+        "score": 70,
+        "amount": 5
+      },
+      {
+        "score": 80,
+        "amount": 5
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 101
+      },
+      {
+        "status": "PLANNING",
+        "amount": 217
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 7
+      },
+      {
+        "status": "DROPPED",
+        "amount": 21
+      },
+      {
+        "status": "PAUSED",
+        "amount": 17
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/74005",
+  "modNotes": null
+}

@@ -1,0 +1,525 @@
+{
+  "id": 31115,
+  "idMal": 1115,
+  "title": {
+    "native": "STAR WARS 帝国の逆襲",
+    "romaji": "STAR WARS: Teikoku no Gyakushuu",
+    "english": "Star Wars: The Empire Strikes Back"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Star Wars Manga: The Empire Strikes Back is a manga-style adaptation of the film The Empire Strikes Back. The series was illustrated by Toshi Kudo and David Land, and was specifically adapted from the screenplay of the movie by Lawrence Kasdan and George Lucas. It was, of course, based on the original story, though slight differences between the manga and the movie do occur.<br><br>\nDue to the fact that it is an adaptation of the movie, it is treated in the same vein as the Star Wars Episode V: The Empire Strikes Back novelization.It enjoys a level of canon only slightly lower than G-level canon, and takes precedence over other Expanded Universe works. However, as far as it is known the manga is placed at the very bottom of the ladder, underneath the various other adaptations.<br><br>\n(Source: Star Wars Wikia)",
+  "startDate": {
+    "year": 1999,
+    "month": 1,
+    "day": 27
+  },
+  "endDate": {
+    "year": 1999,
+    "month": 4,
+    "day": 28
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": 4,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748708019,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31115-RuwL418eHmOG.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31115-RuwL418eHmOG.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx31115-RuwL418eHmOG.jpg",
+    "color": "#f17850"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": 57,
+  "meanScore": 70,
+  "popularity": 216,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 63,
+      "name": "Space",
+      "description": "Partly or completely set in outer space.",
+      "category": "Setting-Universe",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 162,
+      "name": "Space Opera",
+      "description": "Centers around space warfare, advanced technology, chivalric romance and adventure.",
+      "category": "Theme-Sci-Fi",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 31116,
+          "title": {
+            "native": null
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 34814,
+          "title": {
+            "native": "STAR WARS 新たなる希望"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 120676,
+          "title": {
+            "native": "스타워즈 : 깨어난 포스 그 이전의 이야기"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 15384,
+          "name": {
+            "first": "Darth Vader",
+            "last": null,
+            "native": null,
+            "alternative": [
+              "Lord Vader"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15384-VomOtaIqGprL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15384-VomOtaIqGprL.png"
+          },
+          "siteUrl": "https://anilist.co/character/15384"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 15385,
+          "name": {
+            "first": "Chewbacca",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15385-z1lOzNz514Pj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15385-z1lOzNz514Pj.png"
+          },
+          "siteUrl": "https://anilist.co/character/15385"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 15380,
+          "name": {
+            "first": "Leia",
+            "last": "Organa",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15380-716gBOHGvwnh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15380-716gBOHGvwnh.png"
+          },
+          "siteUrl": "https://anilist.co/character/15380"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 15379,
+          "name": {
+            "first": "Luke",
+            "last": "Skywalker",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15379-l9eUnbro1Xut.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15379-l9eUnbro1Xut.png"
+          },
+          "siteUrl": "https://anilist.co/character/15379"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15381,
+          "name": {
+            "first": "Han",
+            "last": "Solo",
+            "native": "ハン・ソロ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15381-MjdNJzODUBGe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15381-MjdNJzODUBGe.png"
+          },
+          "siteUrl": "https://anilist.co/character/15381"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15391,
+          "name": {
+            "first": "Yoda",
+            "last": null,
+            "native": null,
+            "alternative": [
+              "Master Yoda"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15391-KG8GGB7zW5br.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15391-KG8GGB7zW5br.png"
+          },
+          "siteUrl": "https://anilist.co/character/15391"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15388,
+          "name": {
+            "first": "Wedge",
+            "last": "Antilles",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15388.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15388.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15388"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15394,
+          "name": {
+            "first": "Lando",
+            "last": "Calrissian",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15394.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15394.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15394"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15401,
+          "name": {
+            "first": "Jabba",
+            "last": "Desilijic Tiure",
+            "native": null,
+            "alternative": [
+              "Jabba The Hutt"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15401.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15401.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15401"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15399,
+          "name": {
+            "first": "Boba",
+            "last": "Fett",
+            "native": "ボバ・フェット",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15399-m38r5DIVw1fG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15399-m38r5DIVw1fG.png"
+          },
+          "siteUrl": "https://anilist.co/character/15399"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15378,
+          "name": {
+            "first": "Obi Wan",
+            "last": "Kenobi",
+            "native": null,
+            "alternative": [
+              "オビ＝ワン・ケノービ"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15378-775VxF4CNHGt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15378-775VxF4CNHGt.png"
+          },
+          "siteUrl": "https://anilist.co/character/15378"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15400,
+          "name": {
+            "first": "Sheev",
+            "last": "Palpatine",
+            "native": null,
+            "alternative": [
+              "Darth Sidious",
+              "The Emperor",
+              "Chancellor Palpatine"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15400-YM8TylR2GkBp.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b15400-YM8TylR2GkBp.png"
+          },
+          "siteUrl": "https://anilist.co/character/15400"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15382,
+          "name": {
+            "first": "C3PO",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15382.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15382.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15382"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15383,
+          "name": {
+            "first": "R2D2",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/15383.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/15383.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/15383"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 97823,
+          "name": {
+            "first": "Lawrence",
+            "last": "Kasdan",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Date of birth: 1949-01-14",
+          "siteUrl": "https://anilist.co/staff/97823"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 97824,
+          "name": {
+            "first": "George",
+            "last": "Lucas",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2824.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2824.jpg"
+          },
+          "description": "An American film director, producer, screenwriter, and entrepreneur.",
+          "siteUrl": "https://anilist.co/staff/97824"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 97825,
+          "name": {
+            "first": "Toshiki",
+            "last": "Kudou",
+            "native": "工藤俊生"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/97825"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 25855,
+      "rank": 90,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 1999,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 6
+      },
+      {
+        "score": 60,
+        "amount": 7
+      },
+      {
+        "score": 70,
+        "amount": 26
+      },
+      {
+        "score": 80,
+        "amount": 9
+      },
+      {
+        "score": 90,
+        "amount": 9
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 7
+      },
+      {
+        "status": "PLANNING",
+        "amount": 114
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 86
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/31115",
+  "modNotes": null
+}

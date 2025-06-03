@@ -1,0 +1,493 @@
+{
+  "id": 10513,
+  "idMal": 10513,
+  "title": {
+    "native": "ウサビッチ IV",
+    "romaji": "Usavich IV",
+    "english": "Usavich IV"
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "The fourth season of Usavich.",
+  "startDate": {
+    "year": 2011,
+    "month": 4,
+    "day": 23
+  },
+  "endDate": {
+    "year": 2011,
+    "month": 9,
+    "day": 15
+  },
+  "season": "SPRING",
+  "seasonYear": 2011,
+  "seasonInt": 112,
+  "episodes": 13,
+  "duration": 1,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748883075,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10513.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10513.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/10513.jpg",
+    "color": "#e46b28"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Usavich 4"
+  ],
+  "averageScore": 55,
+  "meanScore": 58,
+  "popularity": 678,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 5397,
+          "title": {
+            "native": "ウサビッチ III"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 16347,
+          "title": {
+            "native": "ウサビッチ V"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16001,
+          "name": {
+            "first": "Putin",
+            "last": null,
+            "native": "プーチン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16001.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16001.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16001"
+        },
+        "voiceActors": [
+          {
+            "id": 110253,
+            "name": {
+              "first": "Hironori",
+              "last": "Ueno",
+              "native": "上野大典"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/110253"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16000,
+          "name": {
+            "first": "Kirenenko",
+            "last": null,
+            "native": "キレネンコ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16000.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16000.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16000"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 50739,
+          "name": {
+            "first": "Leningrad",
+            "last": null,
+            "native": "レニングラード",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/50739.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/50739.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/50739"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 50743,
+          "name": {
+            "first": "Mechanenko",
+            "last": null,
+            "native": "メカネンコ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/50743.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/50743.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/50743"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 50745,
+          "name": {
+            "first": "Comăneci",
+            "last": null,
+            "native": "コマネチ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/50745.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/50745.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/50745"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 54813,
+          "name": {
+            "first": "Boris",
+            "last": null,
+            "native": "ボリス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/54813.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/54813.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/54813"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 54815,
+          "name": {
+            "first": "Koptsev",
+            "last": null,
+            "native": "コプチェフ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/54815.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/54815.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/54815"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Script",
+        "node": {
+          "id": 109443,
+          "name": {
+            "first": "Satoshi",
+            "last": "Tomioka",
+            "native": "聡 富岡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14443.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14443.jpg"
+          },
+          "description": "Skilled in computer animation, he's the founder of animation studio Kanaban Graphics.",
+          "siteUrl": "https://anilist.co/staff/109443"
+        }
+      },
+      {
+        "role": "Screenplay",
+        "node": {
+          "id": 109443,
+          "name": {
+            "first": "Satoshi",
+            "last": "Tomioka",
+            "native": "聡 富岡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14443.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14443.jpg"
+          },
+          "description": "Skilled in computer animation, he's the founder of animation studio Kanaban Graphics.",
+          "siteUrl": "https://anilist.co/staff/109443"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 109443,
+          "name": {
+            "first": "Satoshi",
+            "last": "Tomioka",
+            "native": "聡 富岡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14443.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14443.jpg"
+          },
+          "description": "Skilled in computer animation, he's the founder of animation studio Kanaban Graphics.",
+          "siteUrl": "https://anilist.co/staff/109443"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 109443,
+          "name": {
+            "first": "Satoshi",
+            "last": "Tomioka",
+            "native": "聡 富岡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14443.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14443.jpg"
+          },
+          "description": "Skilled in computer animation, he's the founder of animation studio Kanaban Graphics.",
+          "siteUrl": "https://anilist.co/staff/109443"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 109443,
+          "name": {
+            "first": "Satoshi",
+            "last": "Tomioka",
+            "native": "聡 富岡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14443.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14443.jpg"
+          },
+          "description": "Skilled in computer animation, he's the founder of animation studio Kanaban Graphics.",
+          "siteUrl": "https://anilist.co/staff/109443"
+        }
+      },
+      {
+        "role": "Sound Effects",
+        "node": {
+          "id": 110253,
+          "name": {
+            "first": "Hironori",
+            "last": "Ueno",
+            "native": "上野大典"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Hironori Ueno is a musician.",
+          "siteUrl": "https://anilist.co/staff/110253"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 110253,
+          "name": {
+            "first": "Hironori",
+            "last": "Ueno",
+            "native": "上野大典"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Hironori Ueno is a musician.",
+          "siteUrl": "https://anilist.co/staff/110253"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 330,
+          "name": "Kanaban Graphics",
+          "siteUrl": "https://anilist.co/studio/330"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 12788,
+      "rank": 13,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2011,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12819,
+      "rank": 17,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2011,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 12844,
+      "rank": 7,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2011,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12856,
+      "rank": 6,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2011,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 18
+      },
+      {
+        "score": 20,
+        "amount": 10
+      },
+      {
+        "score": 30,
+        "amount": 23
+      },
+      {
+        "score": 40,
+        "amount": 18
+      },
+      {
+        "score": 50,
+        "amount": 70
+      },
+      {
+        "score": 60,
+        "amount": 83
+      },
+      {
+        "score": 70,
+        "amount": 74
+      },
+      {
+        "score": 80,
+        "amount": 34
+      },
+      {
+        "score": 90,
+        "amount": 15
+      },
+      {
+        "score": 100,
+        "amount": 14
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 11
+      },
+      {
+        "status": "PLANNING",
+        "amount": 87
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 546
+      },
+      {
+        "status": "DROPPED",
+        "amount": 27
+      },
+      {
+        "status": "PAUSED",
+        "amount": 7
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/10513",
+  "modNotes": null
+}

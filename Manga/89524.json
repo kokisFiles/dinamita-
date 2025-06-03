@@ -1,0 +1,207 @@
+{
+  "id": 89524,
+  "idMal": null,
+  "title": {
+    "native": "Saint Foire Festival/eve Mora",
+    "romaji": "Saint Foire Festival/eve Mora",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2011,
+    "month": 8,
+    "day": 12
+  },
+  "endDate": {
+    "year": 2011,
+    "month": 8,
+    "day": 12
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 1,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": false,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747223424,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/89524-sobqQFqN5380.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/89524-sobqQFqN5380.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/89524-sobqQFqN5380.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Hentai"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 77,
+  "popularity": 19,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 1752,
+      "name": "Medieval",
+      "description": "Partially or completely set in the Middle Ages or a Middle Ages-inspired setting. Commonly features elements such as European castles and knights.",
+      "category": "Setting-Time",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 25,
+      "name": "Historical",
+      "description": "Partly or completely set during a real period of world history.",
+      "category": "Setting-Time",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 89523,
+          "title": {
+            "native": "Saint Foire Festival"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 171516,
+          "title": {
+            "native": "Saint Foire Festival/eve 総集編"
+          }
+        },
+        "relationType": "OTHER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 332695,
+          "name": {
+            "first": "Mora",
+            "last": null,
+            "native": "モーラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b332695-CDgl20SEZVau.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b332695-CDgl20SEZVau.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/332695"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97787,
+          "name": {
+            "first": "En",
+            "last": "Kito",
+            "native": "鬼頭えん"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97787-0yHyAgjcZKen.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97787-0yHyAgjcZKen.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/kitoen2173) | [Pixiv](https://www.pixiv.net/en/users/415431)",
+          "siteUrl": "https://anilist.co/staff/97787"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": true,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 162737,
+          "rating": 1,
+          "media": {
+            "id": 89524,
+            "title": {
+              "native": "Saint Foire Festival/eve Mora"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 52468,
+            "title": {
+              "native": "天使の課外授業"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 70,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 2
+      },
+      {
+        "status": "PLANNING",
+        "amount": 11
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 5
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/89524",
+  "modNotes": null
+}

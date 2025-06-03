@@ -1,0 +1,833 @@
+{
+  "id": 163204,
+  "idMal": 54902,
+  "title": {
+    "native": "ガンダムビルドメタバース",
+    "romaji": "GUNDAM BUILD METAVERSE",
+    "english": "GUNDAM BUILD METAVERSE"
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "A series to commemorate the 10th anniversary of the \"Gundam Build\" franchise. <br><br>\n\nA new Internet service has been born in the world of Gunpla. Within the Metaverse realm, the user can control their own avatar, interact with other users, play Gunpla Battle, and purchase actual Gunpla. Rio Hojo is a boy who has dived into this new world. Studying Gunpla building techniques in the real world with Seria Urutuski, and absorbing Gunpla Battle know-how from Mask Lady in the Metaverse world, he has been honing his skills day by day. After completing his own original Gunpla, the Lah Gundam, Rio happens to encounter some past champions of Gunpla Battle in the Metaverse realm.\n<br><br>\n\n(Source: GUNDAM.INFO, edited)",
+  "startDate": {
+    "year": 2023,
+    "month": 10,
+    "day": 6
+  },
+  "endDate": {
+    "year": 2023,
+    "month": 10,
+    "day": 20
+  },
+  "season": "FALL",
+  "seasonYear": 2023,
+  "seasonInt": 234,
+  "episodes": 3,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": "#g_bm",
+  "trailer": {
+    "id": "V90yloBeenA",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/V90yloBeenA/hqdefault.jpg"
+  },
+  "updatedAt": 1748856704,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163204-gT8mIUIrC1lI.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163204-gT8mIUIrC1lI.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163204-gT8mIUIrC1lI.jpg",
+    "color": "#e443d6"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": 53,
+  "meanScore": 54,
+  "popularity": 2027,
+  "favourites": 32,
+  "tags": [
+    {
+      "id": 112,
+      "name": "Virtual World",
+      "description": "Partly or completely set in the world inside a video game.",
+      "category": "Setting-Universe",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 158,
+      "name": "Crossover",
+      "description": "Centers around the placement of two or more otherwise discrete fictional characters, settings, or universes into the context of a single story.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 19319,
+          "title": {
+            "native": "ガンダムビルドファイターズ"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 101036,
+          "title": {
+            "native": "ガンダムビルドダイバーズ"
+          }
+        },
+        "relationType": "OTHER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 305118,
+          "name": {
+            "first": "Rio",
+            "last": "Houjou",
+            "native": "ホウジョウ・リオ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305118-3ZgP7Q4F1Rew.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b305118-3ZgP7Q4F1Rew.png"
+          },
+          "siteUrl": "https://anilist.co/character/305118"
+        },
+        "voiceActors": [
+          {
+            "id": 106030,
+            "name": {
+              "first": "Chika",
+              "last": "Anzai",
+              "native": "安済知佳"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106030-oz4RUJZ3D9v9.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106030-oz4RUJZ3D9v9.png"
+            },
+            "siteUrl": "https://anilist.co/staff/106030"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 305119,
+          "name": {
+            "first": "Seria",
+            "last": "Urutsuki",
+            "native": "ウルツキ・セリア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/305119"
+        },
+        "voiceActors": [
+          {
+            "id": 198603,
+            "name": {
+              "first": "Rio",
+              "last": "Tsuchiya",
+              "native": "土屋李央"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n198603-Ed2Nldm8pBAi.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n198603-Ed2Nldm8pBAi.png"
+            },
+            "siteUrl": "https://anilist.co/staff/198603"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177805,
+          "name": {
+            "first": "Riku",
+            "last": "Mikami",
+            "native": "ミカミ・リク",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177805-7xngKoaWRR2J.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177805-7xngKoaWRR2J.png"
+          },
+          "siteUrl": "https://anilist.co/character/177805"
+        },
+        "voiceActors": [
+          {
+            "id": 118407,
+            "name": {
+              "first": "Yuusuke",
+              "last": "Kobayashi",
+              "native": "小林裕介"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118407-DMPcKY2AUSHV.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118407-DMPcKY2AUSHV.png"
+            },
+            "siteUrl": "https://anilist.co/staff/118407"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177808,
+          "name": {
+            "first": "Sarah",
+            "last": null,
+            "native": "サラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177808-lnrq2XwihlZV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177808-lnrq2XwihlZV.png"
+          },
+          "siteUrl": "https://anilist.co/character/177808"
+        },
+        "voiceActors": [
+          {
+            "id": 109161,
+            "name": {
+              "first": "Haruka",
+              "last": "Terui",
+              "native": "照井春佳"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109161-vJHWg4PyYW0a.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n109161-vJHWg4PyYW0a.png"
+            },
+            "siteUrl": "https://anilist.co/staff/109161"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 177810,
+          "name": {
+            "first": "Momoka",
+            "last": "Yashiro",
+            "native": "ヤシロ・モモカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177810-ZQcweaknOsqM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177810-ZQcweaknOsqM.png"
+          },
+          "siteUrl": "https://anilist.co/character/177810"
+        },
+        "voiceActors": [
+          {
+            "id": 163903,
+            "name": {
+              "first": "Nene",
+              "last": "Hieda",
+              "native": "稗田寧々"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n163903-22LPSYo8TEYU.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n163903-22LPSYo8TEYU.png"
+            },
+            "siteUrl": "https://anilist.co/staff/163903"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 145470,
+          "name": {
+            "first": "Ayame",
+            "last": "",
+            "native": "アヤメ",
+            "alternative": [
+              "Ayame"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145470-8RXPP5haZ86V.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145470-8RXPP5haZ86V.png"
+          },
+          "siteUrl": "https://anilist.co/character/145470"
+        },
+        "voiceActors": [
+          {
+            "id": 104973,
+            "name": {
+              "first": "Manami",
+              "last": "Numakura",
+              "native": "沼倉愛美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104973-rymSxCu8uP0Y.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104973-rymSxCu8uP0Y.png"
+            },
+            "siteUrl": "https://anilist.co/staff/104973"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97337,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Tomino",
+            "native": "富野由悠季"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97337-kXpaK7OANmr9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97337-kXpaK7OANmr9.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/富野由悠季) | [Wiki (en)](https://en.wikipedia.org/wiki/Yoshiyuki_Tomino)\n\nYoshiyuki Tomino is an anime creator best known for creating the Gundam anime franchise.\n\nBegan his career in 1963 with [Osamu Tezuka](https://anilist.co/staff/96938/)'s company, [Mushi Production](https://anilist.co/studio/68/), scripting and directing episodes of the first Japanese anime television series, [Astro Boy](https://anilist.co/anime/2747/). He later became one of the most important members of the anime studio [Sunrise](https://anilist.co/studio/14/), going on to direct numerous anime through the '70s, '80s and '90s. He is perhaps best known for his transformation of the \"Super Robot\" mecha anime genre into the \"Real Robot\" genre with 1979's [Mobile Suit Gundam](https://anilist.co/anime/80/), the first in the Gundam franchise.\n\nKnown for using numerous pseudonyms.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/97337"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97197,
+          "name": {
+            "first": "Hajime",
+            "last": "Yatate",
+            "native": "矢立肇"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97197-6NsKNt4EPoul.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97197-6NsKNt4EPoul.jpg"
+          },
+          "description": "[Website](http://www.yatate.net/) | [Twitter](https://twitter.com/yatate_hajime) | [Wiki (jp)](https://ja.wikipedia.org/wiki/矢立肇) | [Wiki (en)](https://en.wikipedia.org/wiki/Hajime_Yatate)\n\nHajime Yatate is a collective pseudonym for [Sunrise](https://anilist.co/studio/14/)'s staff.",
+          "siteUrl": "https://anilist.co/staff/97197"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 148414,
+          "name": {
+            "first": "Yoriko",
+            "last": "Gotou",
+            "native": "後藤依子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/148414"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 97415,
+          "name": {
+            "first": "Noboru",
+            "last": "Kimura",
+            "native": "木村暢"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/木村暢)",
+          "siteUrl": "https://anilist.co/staff/97415"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100660,
+          "name": {
+            "first": "Masami",
+            "last": "Oobari",
+            "native": "大張正己"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100660-zVMpkdfkFk9g.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100660-zVMpkdfkFk9g.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/298477416)\n\nOobari began his career when he joined the animation studio Ashi Production, working on titles like [Tokusou Kihei Dorvack](https://anilist.co/anime/5143/) and [Sei Juushi Bismarck](https://anilist.co/anime/2361/). Soon after, at the age of 19, he got his first major break when he landed the role of mecha designer on [Dancouga: Super Beast Machine God](https://anilist.co/anime/2255/). Not too long after, at the young age of 21, he was given his first directorial role by directing episodes 5 and 6 of the [Bubblegum Crisis](https://anilist.co/anime/1347/) OVA series. \n\nOobari mainly likes to work within the sci-fi mecha and fighting genres. His designs are easily recognizable from the voluptuous female forms and well-toned pretty boys he tends to create to appeal to wide audiences. For references, he likes to use images of professional wrestlers and models. He is friends with fellow former animator and current freelance illustrator [Tsukasa Kotoboki](https://anilist.co/staff/97965/).\n\nHe wasn't originally interested in animation but was inspired by [Satoshi Urushihara](https://anilist.co/staff/98177/).",
+          "siteUrl": "https://anilist.co/staff/100660"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 118610,
+          "name": {
+            "first": "Ippei",
+            "last": "Gyoubu",
+            "native": "形部一平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118610-NL8NJgHTq7aa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118610-NL8NJgHTq7aa.png"
+          },
+          "description": "[Twitter](https://twitter.com/ippeigyoubu)",
+          "siteUrl": "https://anilist.co/staff/118610"
+        }
+      },
+      {
+        "role": "Fumina Design Assistance",
+        "node": {
+          "id": 101531,
+          "name": {
+            "first": "Fumikane",
+            "last": "Shimada",
+            "native": "島田フミカネ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6531.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6531.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/humikane)\n\nThe original designer behind the popular mecha musume genre (now trademarked by Fumikane), he takes combinations of bishoujo and war machines and made it his well-recognized art form. So far, besides Mecha Musume, he has designed toy designs for Busou Shinki toy line by Konami, and the popular anime series Sky Girls and Strike Witches, the former also from Konami.",
+          "siteUrl": "https://anilist.co/staff/101531"
+        }
+      },
+      {
+        "role": "Mechanical Design",
+        "node": {
+          "id": 119713,
+          "name": {
+            "first": "Takayuki",
+            "last": "Yanase",
+            "native": "柳瀬敬之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119713-owsJ2IwdVyuw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119713-owsJ2IwdVyuw.png"
+          },
+          "description": "[Website](http://www.yanase.works/) | [Twitter](https://twitter.com/yanase_t)",
+          "siteUrl": "https://anilist.co/staff/119713"
+        }
+      },
+      {
+        "role": "Character Design Supervisor",
+        "node": {
+          "id": 123020,
+          "name": {
+            "first": "Kenichi",
+            "last": "Oonuki",
+            "native": "大貫健一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123020-mD5Szlx1rRoF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n123020-mD5Szlx1rRoF.png"
+          },
+          "description": "[Website](http://www.ekakiyahonpo.com)\n\nFreelancer originating from [Ajia-do](https://anilist.co/studio/30/).",
+          "siteUrl": "https://anilist.co/staff/123020"
+        }
+      },
+      {
+        "role": "Mechanical Design",
+        "node": {
+          "id": 101417,
+          "name": {
+            "first": "Kunio",
+            "last": "Okawara",
+            "native": "大河原邦男"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101417-S71ZdLN57Udo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101417-S71ZdLN57Udo.png"
+          },
+          "description": "Originating from [Tatsunoko Production](https://anilist.co/studio/103/).\nKunio Okawara was the first in the industry to be specifically credited as a mechanical designer. He is the designer of numerous Real Robots and Super Robots. ",
+          "siteUrl": "https://anilist.co/staff/101417"
+        }
+      },
+      {
+        "role": "Mechanical Design",
+        "node": {
+          "id": 103626,
+          "name": {
+            "first": "Kanetake",
+            "last": "Ebikawa",
+            "native": "海老川兼武"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103626-WAYYgGPrhgpN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103626-WAYYgGPrhgpN.png"
+          },
+          "description": "[Twitter](https://twitter.com/KANETAKE)",
+          "siteUrl": "https://anilist.co/staff/103626"
+        }
+      },
+      {
+        "role": "Mechanical Design",
+        "node": {
+          "id": 146194,
+          "name": {
+            "first": "Shinya",
+            "last": "Terashima",
+            "native": "寺島慎也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/146194"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 138077,
+          "name": {
+            "first": "Hirona",
+            "last": "Okada ",
+            "native": "岡田洋奈"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/138077"
+        }
+      },
+      {
+        "role": "Mechanical Design",
+        "node": {
+          "id": 110711,
+          "name": {
+            "first": "Naohiro",
+            "last": "Washio",
+            "native": "鷲尾直広"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/15711.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/15711.jpg"
+          },
+          "description": "Washio is a mechanical designer. Graduated from Tokyo Design College. His favourite animation is The Powerpuff Girls.",
+          "siteUrl": "https://anilist.co/staff/110711"
+        }
+      },
+      {
+        "role": "Mechanical Design",
+        "node": {
+          "id": 232202,
+          "name": {
+            "first": "Koutarou",
+            "last": "Andou",
+            "native": "安藤孝太郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n232202-gnhO14bTzl2u.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n232202-gnhO14bTzl2u.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/sukekiyo56)",
+          "siteUrl": "https://anilist.co/staff/232202"
+        }
+      },
+      {
+        "role": "Chief Mecha Animator",
+        "node": {
+          "id": 141855,
+          "name": {
+            "first": "Yuu",
+            "last": "Yoshiyama",
+            "native": "芳山優"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n141855-zKQKXPURPWS0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n141855-zKQKXPURPWS0.png"
+          },
+          "description": "[Twitter](https://twitter.com/yoshiyama_yuu)\n\nShe got her start at Studio Muu under [Hiromi Muranaka](https://anilist.co/staff/143692/)'s guidance. Heavily influenced by the works of [Masahito Yamashita](https://anilist.co/staff/138566/), [Yoshinori Kanada](https://anilist.co/staff/106398/) and [Masami Oobari](https://anilist.co/staff/100660/). Regular presence in [Toei](https://anilist.co/studio/18/)'s shows, specifically the [Precure](https://anilist.co/anime/100661/) franchise.\n\nHer animation is characterized by impact frames, dark shadows, thick outlines, and overly expressive hands.\n\nAlso a die-hard fan of insects.",
+          "siteUrl": "https://anilist.co/staff/141855"
+        }
+      },
+      {
+        "role": "Planning Assistance",
+        "node": {
+          "id": 98170,
+          "name": {
+            "first": "Bandai-Namco",
+            "last": "Entertainment",
+            "native": "バンダイナムコエンターテインメント"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/3170.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/3170.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/98170"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 101674,
+          "name": {
+            "first": "BACK-ON",
+            "last": null,
+            "native": "バックオン"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6674.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/6674.jpg"
+          },
+          "description": "A Japanese band who has explored the genre's of Alternative Rock, Rap-Rock, and Synth Pop.",
+          "siteUrl": "https://anilist.co/staff/101674"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 314495,
+          "name": {
+            "first": "LINKL PLANET",
+            "last": null,
+            "native": "LINKL PLANET"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/314495"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 64,
+          "name": "Sotsu",
+          "siteUrl": "https://anilist.co/studio/64"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6604,
+          "name": "BANDAI SPIRITS",
+          "siteUrl": "https://anilist.co/studio/6604"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 7137,
+          "name": "Bandai Namco Filmworks",
+          "siteUrl": "https://anilist.co/studio/7137"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 6573,
+          "name": "Sunrise Beyond",
+          "siteUrl": "https://anilist.co/studio/6573"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 364392,
+          "airingAt": 1696582800,
+          "episode": 1,
+          "mediaId": 163204,
+          "media": {
+            "id": 163204
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 364393,
+          "airingAt": 1697792400,
+          "episode": 2,
+          "mediaId": 163204,
+          "media": {
+            "id": 163204
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 364394,
+          "airingAt": 1697792400,
+          "episode": 3,
+          "mediaId": 163204,
+          "media": {
+            "id": 163204
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 69043,
+      "url": "https://gundam-bm.net/",
+      "site": "Official Site"
+    },
+    {
+      "id": 69044,
+      "url": "https://www.youtube.com/playlist?list=PLJV1h9xQ7Hx-41y3mef81FVIvQnWzMmXV",
+      "site": "YouTube"
+    },
+    {
+      "id": 69045,
+      "url": "https://twitter.com/buildfighters/",
+      "site": "Twitter"
+    },
+    {
+      "id": 71351,
+      "url": "https://en.gundam.info/about-gundam/series-pages/buildmetaverse/",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 26
+      },
+      {
+        "score": 20,
+        "amount": 21
+      },
+      {
+        "score": 30,
+        "amount": 37
+      },
+      {
+        "score": 40,
+        "amount": 67
+      },
+      {
+        "score": 50,
+        "amount": 104
+      },
+      {
+        "score": 60,
+        "amount": 143
+      },
+      {
+        "score": 70,
+        "amount": 93
+      },
+      {
+        "score": 80,
+        "amount": 38
+      },
+      {
+        "score": 90,
+        "amount": 27
+      },
+      {
+        "score": 100,
+        "amount": 13
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 175
+      },
+      {
+        "status": "PLANNING",
+        "amount": 801
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 936
+      },
+      {
+        "status": "DROPPED",
+        "amount": 79
+      },
+      {
+        "status": "PAUSED",
+        "amount": 36
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/163204",
+  "modNotes": null
+}

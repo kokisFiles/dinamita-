@@ -1,0 +1,950 @@
+{
+  "id": 31014,
+  "idMal": 1014,
+  "title": {
+    "native": "エイチツー",
+    "romaji": "H2",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Hiro has two loves: baseball and porn. But due to an elbow injury he gives up baseball choosing a school with no baseball team. His childhood friend Hikari attends a different school with baseball ace Hideo and the two wish Hiro had not given up baseball. Hiro joins the soccer team but meets Haruka, a very clumsy girl, who is manager of the unofficial baseball club. When the soccer team challenges the baseball club to a game, with hopes of humiliating them, the baseball club nearly loses until Hiro, disgusted by the soccer team`s arrogance, switches to the baseball club.\n",
+  "startDate": {
+    "year": 1992,
+    "month": 7,
+    "day": 29
+  },
+  "endDate": {
+    "year": 1999,
+    "month": 11,
+    "day": 24
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 338,
+  "volumes": 34,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748913992,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31014-ocfm8Nj3Ihl9.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31014-ocfm8Nj3Ihl9.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx31014-ocfm8Nj3Ihl9.jpg",
+    "color": "#f17843"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/31014-of3ZTg7H8qho.jpg",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Sports"
+  ],
+  "synonyms": [],
+  "averageScore": 81,
+  "meanScore": 83,
+  "popularity": 4262,
+  "favourites": 321,
+  "tags": [
+    {
+      "id": 149,
+      "name": "Baseball",
+      "description": "Centers around the sport of baseball.",
+      "category": "Theme-Game-Sport",
+      "rank": 100,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 90,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 90,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 139,
+      "name": "Love Triangle",
+      "description": "Centered around romantic feelings between more than two people. Includes all love polygons.",
+      "category": "Theme-Romance",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 84,
+      "name": "School Club",
+      "description": "Partly or completely set in a school club scene.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 102,
+      "name": "Coming of Age",
+      "description": "Centers around a character's transition from childhood to adulthood.",
+      "category": "Theme-Drama",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1045,
+      "name": "Heterosexual",
+      "description": "Prominently features a romance between a man and a woman, not inherently sexual.",
+      "category": "Theme-Romance",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 40,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 148,
+      "name": "Football",
+      "description": "Centers around the sport of football (known in the USA as \"soccer\").",
+      "category": "Theme-Game-Sport",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 251,
+      "name": "Archery",
+      "description": "Centers around the sport of archery, or prominently features the use of archery in combat.",
+      "category": "Theme-Action",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1228,
+      "name": "Primarily Teen Cast",
+      "description": "Main cast is mostly composed of teen characters.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 386,
+          "title": {
+            "native": "H2"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 13142,
+          "name": {
+            "first": "Hikari",
+            "last": "Amamiya",
+            "native": "雨宮ひかり",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13142-IU9rx20pbjVR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13142-IU9rx20pbjVR.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13142"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 13143,
+          "name": {
+            "first": "Haruka",
+            "last": "Koga",
+            "native": "古賀春華",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13143-7kOu4pWTLKE6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13143-7kOu4pWTLKE6.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13143"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1265,
+          "name": {
+            "first": "Hiro",
+            "last": "Kunimi",
+            "native": "国見比呂",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1265-FyTUx6BzzwnE.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1265-FyTUx6BzzwnE.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1265"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 13141,
+          "name": {
+            "first": "Hideo",
+            "last": "Tachibana",
+            "native": "橘英雄",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n13141-F48xGUe6xOt9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n13141-F48xGUe6xOt9.png"
+          },
+          "siteUrl": "https://anilist.co/character/13141"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 86309,
+          "name": {
+            "first": "Hironaga",
+            "last": null,
+            "native": "広永",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86309.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/86309.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/86309"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 14712,
+          "name": {
+            "first": "Mitsuru",
+            "last": "Adachi",
+            "native": "あだち充",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14712-OGfIBEz3kJTJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14712-OGfIBEz3kJTJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/14712"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13182,
+          "name": {
+            "first": "Taakaki",
+            "last": "Amamiya",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/13182.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/13182.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13182"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13186,
+          "name": {
+            "first": "Katsutoshi",
+            "last": "Hirota",
+            "native": "広田勝利",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13186-6jEWFk7OpWCA.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13186-6jEWFk7OpWCA.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13186"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13145,
+          "name": {
+            "first": "Ryuutarou",
+            "last": "Kine",
+            "native": "木根竜太郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13145-socPWezWoEhr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13145-socPWezWoEhr.png"
+          },
+          "siteUrl": "https://anilist.co/character/13145"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13147,
+          "name": {
+            "first": "Fujio",
+            "last": "Koga",
+            "native": "古賀富士夫",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/13147.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/13147.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13147"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13181,
+          "name": {
+            "first": "Taro",
+            "last": "Kunimi",
+            "native": "国見太郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/13181.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/13181.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13181"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13144,
+          "name": {
+            "first": "Atsushi",
+            "last": "Noda",
+            "native": "野田敦",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/13144.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/13144.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13144"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13185,
+          "name": {
+            "first": "Fumio",
+            "last": "Ohtake",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/13185.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/13185.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13185"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13146,
+          "name": {
+            "first": "Miho",
+            "last": "Osanai",
+            "native": "まこと美穂",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/13146.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/13146.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13146"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36334,
+          "name": {
+            "first": "Shuuji",
+            "last": "Sagawa",
+            "native": "佐川周二",
+            "alternative": [
+              "Shu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/36334.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36334.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36334"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13184,
+          "name": {
+            "first": "Osamu",
+            "last": "Shima",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/13184.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/13184.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13184"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13187,
+          "name": {
+            "first": "Morimichi",
+            "last": "Yanagi",
+            "native": "柳守道",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/13187.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/13187.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13187"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 207802,
+          "name": {
+            "first": "Principal",
+            "last": "Yanagi",
+            "native": "柳校長",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207802-vB1tCfL1x1XO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207802-vB1tCfL1x1XO.png"
+          },
+          "siteUrl": "https://anilist.co/character/207802"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97104,
+          "name": {
+            "first": "Mitsuru",
+            "last": "Adachi",
+            "native": "安達充"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97104-XumwUSbD28ap.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97104-XumwUSbD28ap.png"
+          },
+          "description": "\nHe debuted with Kieta Bakoun (1970), won the Shogakukan Manga Award in 1983 and 2009. He was once an assistant of [Isami Ishii](https://anilist.co/staff/194198).",
+          "siteUrl": "https://anilist.co/staff/97104"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 23527,
+      "rank": 286,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": null,
+      "season": null,
+      "allTime": true,
+      "context": "highest rated all time"
+    },
+    {
+      "id": 24530,
+      "rank": 3,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 1992,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 24587,
+      "rank": 7,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 1992,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1392,
+          "rating": 21,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31013,
+            "title": {
+              "native": "タッチ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 1394,
+          "rating": 26,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31183,
+            "title": {
+              "native": "クロスゲーム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 1398,
+          "rating": 11,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 67815,
+            "title": {
+              "native": "MIX"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 10734,
+          "rating": 7,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30915,
+            "title": {
+              "native": "ルーキーズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 33421,
+          "rating": 1,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 50532,
+            "title": {
+              "native": "レガッタ〜君といた永遠〜"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 79095,
+          "rating": 3,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 90696,
+            "title": {
+              "native": "あぶさん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 79712,
+          "rating": 2,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 35744,
+            "title": {
+              "native": "ピンポン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 94056,
+          "rating": 1,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 137361,
+            "title": {
+              "native": "男どアホウ甲子園"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99304,
+          "rating": 7,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 40978,
+            "title": {
+              "native": "メジャー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 149711,
+          "rating": 1,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 46555,
+            "title": {
+              "native": "ラストイニング"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 182557,
+          "rating": 0,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 86831,
+            "title": {
+              "native": "みかこさん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 185749,
+          "rating": 1,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 142735,
+            "title": {
+              "native": "ドラえもん物語〜藤子・F・不二雄先生の背中〜"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187545,
+          "rating": -2,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 105277,
+            "title": {
+              "native": "生理ちゃん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187548,
+          "rating": 3,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31184,
+            "title": {
+              "native": "ラフ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 193011,
+          "rating": 4,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30051,
+            "title": {
+              "native": "SLAM DUNK"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 242995,
+          "rating": 1,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33147,
+            "title": {
+              "native": "Mr.FULLSWING"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 419623,
+          "rating": 1,
+          "media": {
+            "id": 31014,
+            "title": {
+              "native": "エイチツー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 95443,
+            "title": {
+              "native": "バトルスタディーズ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 9
+      },
+      {
+        "score": 20,
+        "amount": 8
+      },
+      {
+        "score": 30,
+        "amount": 6
+      },
+      {
+        "score": 40,
+        "amount": 4
+      },
+      {
+        "score": 50,
+        "amount": 36
+      },
+      {
+        "score": 60,
+        "amount": 48
+      },
+      {
+        "score": 70,
+        "amount": 160
+      },
+      {
+        "score": 80,
+        "amount": 292
+      },
+      {
+        "score": 90,
+        "amount": 337
+      },
+      {
+        "score": 100,
+        "amount": 313
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 282
+      },
+      {
+        "status": "PLANNING",
+        "amount": 2269
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1536
+      },
+      {
+        "status": "DROPPED",
+        "amount": 64
+      },
+      {
+        "status": "PAUSED",
+        "amount": 111
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/31014",
+  "modNotes": null
+}

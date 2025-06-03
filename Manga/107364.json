@@ -1,0 +1,596 @@
+{
+  "id": 107364,
+  "idMal": 112949,
+  "title": {
+    "native": "ゾイドワイルド",
+    "romaji": "Zoids Wild",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2018,
+    "month": 4,
+    "day": 15
+  },
+  "endDate": {
+    "year": 2019,
+    "month": 5,
+    "day": 15
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1742641337,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx107364-XVY06CRm9w64.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107364-XVY06CRm9w64.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx107364-XVY06CRm9w64.jpg",
+    "color": "#285da1"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 67,
+  "popularity": 35,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 101228,
+          "title": {
+            "native": "ゾイドワイルド"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 110788,
+          "title": {
+            "native": "ゾイドワイルド ZERO"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 124152,
+          "title": {
+            "native": "ゾイドワイルド2"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165259,
+          "name": {
+            "first": "Garlic",
+            "last": null,
+            "native": "ガーリック",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165259-iO5LuQ3A4tDe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165259-iO5LuQ3A4tDe.png"
+          },
+          "siteUrl": "https://anilist.co/character/165259"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165254,
+          "name": {
+            "first": "Avocado",
+            "last": null,
+            "native": "アボカド",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165254-oMQl0CwCE3eb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165254-oMQl0CwCE3eb.png"
+          },
+          "siteUrl": "https://anilist.co/character/165254"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165262,
+          "name": {
+            "first": "Sauce",
+            "last": null,
+            "native": "ソース",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165262-6QbgI5vpTYWR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165262-6QbgI5vpTYWR.png"
+          },
+          "siteUrl": "https://anilist.co/character/165262"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165247,
+          "name": {
+            "first": "Candy",
+            "last": null,
+            "native": "キャンディ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165247-LfqGlKgvQphy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165247-LfqGlKgvQphy.png"
+          },
+          "siteUrl": "https://anilist.co/character/165247"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165290,
+          "name": {
+            "first": "Truffle",
+            "last": null,
+            "native": "トリュフ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165290-1Y0LTEwsdzEH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165290-1Y0LTEwsdzEH.png"
+          },
+          "siteUrl": "https://anilist.co/character/165290"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 165252,
+          "name": {
+            "first": "Onigiri",
+            "last": null,
+            "native": "オニギリ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165252-IZ7ZICVA3L4Z.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165252-IZ7ZICVA3L4Z.png"
+          },
+          "siteUrl": "https://anilist.co/character/165252"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 165251,
+          "name": {
+            "first": "Gyouza",
+            "last": null,
+            "native": "ギョーザ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165251-3H60Ye0wwCTU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165251-3H60Ye0wwCTU.png"
+          },
+          "siteUrl": "https://anilist.co/character/165251"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 165250,
+          "name": {
+            "first": "Arashi",
+            "last": null,
+            "native": "アラシ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165250-T1D5SW6le6Cs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165250-T1D5SW6le6Cs.png"
+          },
+          "siteUrl": "https://anilist.co/character/165250"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165264,
+          "name": {
+            "first": "Taifuu",
+            "last": null,
+            "native": "タイフウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165264-0B3PTDqnhaxe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165264-0B3PTDqnhaxe.png"
+          },
+          "siteUrl": "https://anilist.co/character/165264"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 165256,
+          "name": {
+            "first": "Penne",
+            "last": null,
+            "native": "ペンネ",
+            "alternative": [
+              "Battalia"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165256-EhKAvcGZdSqC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165256-EhKAvcGZdSqC.png"
+          },
+          "siteUrl": "https://anilist.co/character/165256"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165253,
+          "name": {
+            "first": "Ikazuchi",
+            "last": null,
+            "native": "イカヅチ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165253-WgOLDZU8tiZS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165253-WgOLDZU8tiZS.png"
+          },
+          "siteUrl": "https://anilist.co/character/165253"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165291,
+          "name": {
+            "first": "Caviar",
+            "last": null,
+            "native": "キャビア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165291-kQy64e8w8uhT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165291-kQy64e8w8uhT.png"
+          },
+          "siteUrl": "https://anilist.co/character/165291"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165288,
+          "name": {
+            "first": "Youkan",
+            "last": null,
+            "native": "ヨウカン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165288-LSJ3E5cJd7sa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165288-LSJ3E5cJd7sa.png"
+          },
+          "siteUrl": "https://anilist.co/character/165288"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165263,
+          "name": {
+            "first": "Soders",
+            "last": null,
+            "native": "ソダース",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165263-88XJi8TrW21M.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165263-88XJi8TrW21M.png"
+          },
+          "siteUrl": "https://anilist.co/character/165263"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165287,
+          "name": {
+            "first": "Salt",
+            "last": null,
+            "native": "ソルト",
+            "alternative": [
+              "Apex"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165287-glo1w2laTK26.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165287-glo1w2laTK26.png"
+          },
+          "siteUrl": "https://anilist.co/character/165287"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165292,
+          "name": {
+            "first": "Rakkyo",
+            "last": null,
+            "native": "ラッキョー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165292-nI0n7LLWEHNK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165292-nI0n7LLWEHNK.png"
+          },
+          "siteUrl": "https://anilist.co/character/165292"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165255,
+          "name": {
+            "first": "Gallagher",
+            "last": null,
+            "native": "ギャラガー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165255-Cfz9BIwhYhTP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165255-Cfz9BIwhYhTP.png"
+          },
+          "siteUrl": "https://anilist.co/character/165255"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165260,
+          "name": {
+            "first": "Sanlatan",
+            "last": null,
+            "native": "サンラータン",
+            "alternative": [
+              "Greta"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165260-JxzG08P4dFoE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165260-JxzG08P4dFoE.png"
+          },
+          "siteUrl": "https://anilist.co/character/165260"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165257,
+          "name": {
+            "first": "Bacon",
+            "last": null,
+            "native": "ベーコン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165257-9JzYDrX3ESBD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165257-9JzYDrX3ESBD.png"
+          },
+          "siteUrl": "https://anilist.co/character/165257"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165258,
+          "name": {
+            "first": "Drake",
+            "last": null,
+            "native": "ドレイク",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165258-svWOm70nkO1Q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165258-svWOm70nkO1Q.png"
+          },
+          "siteUrl": "https://anilist.co/character/165258"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165289,
+          "name": {
+            "first": "Foiegras",
+            "last": null,
+            "native": "フォアグラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165289-kkwNxY2yiLXF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165289-kkwNxY2yiLXF.png"
+          },
+          "siteUrl": "https://anilist.co/character/165289"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 114717,
+          "name": {
+            "first": "Moricha",
+            "last": "",
+            "native": "森茶"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114717-vMeHrcu2kRbM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114717-vMeHrcu2kRbM.png"
+          },
+          "description": "[Twitter](https://twitter.com/moritya_dayo) | [Twitter 2](https://twitter.com/moritya_dashi)",
+          "siteUrl": "https://anilist.co/staff/114717"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 123459,
+          "rating": 1,
+          "media": {
+            "id": 107364,
+            "title": {
+              "native": "ゾイドワイルド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 47005,
+            "title": {
+              "native": "コロッケ!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 123464,
+          "rating": 1,
+          "media": {
+            "id": 107364,
+            "title": {
+              "native": "ゾイドワイルド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 77551,
+            "title": {
+              "native": "ダンボール戦機"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 2
+      },
+      {
+        "score": 80,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 9
+      },
+      {
+        "status": "PLANNING",
+        "amount": 21
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 4
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/107364",
+  "modNotes": null
+}

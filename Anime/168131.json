@@ -1,0 +1,621 @@
+{
+  "id": 168131,
+  "idMal": null,
+  "title": {
+    "native": "完美世界 第4季",
+    "romaji": "Wanmei Shijie 4",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "The fourth season of <i>Wanmei Shijie</i>.",
+  "startDate": {
+    "year": 2023,
+    "month": 10,
+    "day": 6
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 9,
+    "day": 27
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 52,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": {
+    "id": "K1rOCk7iwDI",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/K1rOCk7iwDI/hqdefault.jpg"
+  },
+  "updatedAt": 1748806426,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168131-qa5FMiIpXGQS.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168131-qa5FMiIpXGQS.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168131-qa5FMiIpXGQS.png",
+    "color": "#78350d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Perfect World 4",
+    "完美世界 王之殇特"
+  ],
+  "averageScore": 71,
+  "meanScore": 83,
+  "popularity": 609,
+  "favourites": 58,
+  "tags": [
+    {
+      "id": 89,
+      "name": "Full CGI",
+      "description": "Almost entirely created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 326,
+      "name": "Cultivation",
+      "description": "Features characters using training, often martial arts-related, and other special methods to cultivate qi (a component of traditional Chinese philosophy, described as \"life force\") and gain strength or immortality.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 155222,
+          "title": {
+            "native": "完美世界 第3季"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 182562,
+          "title": {
+            "native": "完美世界 第五季"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 267022,
+          "name": {
+            "first": "Hao",
+            "last": "Shi",
+            "native": "石昊",
+            "alternative": [
+              "Hao'er"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b267022-StY3TXgSbZv2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b267022-StY3TXgSbZv2.png"
+          },
+          "siteUrl": "https://anilist.co/character/267022"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 335173,
+          "name": {
+            "first": "Linger",
+            "last": "Huo",
+            "native": "火灵儿",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b335173-z0NKXNcsQevf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b335173-z0NKXNcsQevf.png"
+          },
+          "siteUrl": "https://anilist.co/character/335173"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 206508,
+          "name": {
+            "first": "Dong",
+            "last": "Chen",
+            "native": "辰东"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n206508-gqwEEKs95BvO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n206508-gqwEEKs95BvO.png"
+          },
+          "description": "[Weibo](https://weibo.com/cd44444) | [Qidian](https://my.qidian.com/author/4362453/)\n\nMember of Chinese Writers Association.",
+          "siteUrl": "https://anilist.co/staff/206508"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6162,
+          "name": "Foch",
+          "siteUrl": "https://anilist.co/studio/6162"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6382,
+          "name": "Tencent Penguin Pictures",
+          "siteUrl": "https://anilist.co/studio/6382"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 361045,
+          "airingAt": 1696557600,
+          "episode": 1,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361046,
+          "airingAt": 1697162400,
+          "episode": 2,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361047,
+          "airingAt": 1697767200,
+          "episode": 3,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361048,
+          "airingAt": 1698372000,
+          "episode": 4,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361049,
+          "airingAt": 1698976800,
+          "episode": 5,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361050,
+          "airingAt": 1699581600,
+          "episode": 6,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361051,
+          "airingAt": 1700186400,
+          "episode": 7,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361052,
+          "airingAt": 1700791200,
+          "episode": 8,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361053,
+          "airingAt": 1701396000,
+          "episode": 9,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361054,
+          "airingAt": 1702000800,
+          "episode": 10,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361055,
+          "airingAt": 1702605600,
+          "episode": 11,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361056,
+          "airingAt": 1703210400,
+          "episode": 12,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361057,
+          "airingAt": 1703815200,
+          "episode": 13,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361058,
+          "airingAt": 1704420000,
+          "episode": 14,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361059,
+          "airingAt": 1705024800,
+          "episode": 15,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361060,
+          "airingAt": 1705629600,
+          "episode": 16,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361061,
+          "airingAt": 1706234400,
+          "episode": 17,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361062,
+          "airingAt": 1706839200,
+          "episode": 18,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361063,
+          "airingAt": 1707444000,
+          "episode": 19,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361064,
+          "airingAt": 1708048800,
+          "episode": 20,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361065,
+          "airingAt": 1708653600,
+          "episode": 21,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361066,
+          "airingAt": 1709258400,
+          "episode": 22,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361067,
+          "airingAt": 1709863200,
+          "episode": 23,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361068,
+          "airingAt": 1710468000,
+          "episode": 24,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 361069,
+          "airingAt": 1711072800,
+          "episode": 25,
+          "mediaId": 168131,
+          "media": {
+            "id": 168131
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 76400,
+      "url": "https://weibo.com/u/7453780346",
+      "site": "Weibo"
+    },
+    {
+      "id": 76401,
+      "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov.html",
+      "site": "Tencent Video"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 250750,
+          "rating": 1,
+          "media": {
+            "id": 168131,
+            "title": {
+              "native": "完美世界 第4季"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 102464,
+            "title": {
+              "native": "斗破苍穹"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 250752,
+          "rating": 1,
+          "media": {
+            "id": 168131,
+            "title": {
+              "native": "完美世界 第4季"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 107744,
+            "title": {
+              "native": "武动乾坤"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 271850,
+          "rating": 3,
+          "media": {
+            "id": 168131,
+            "title": {
+              "native": "完美世界 第4季"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 137653,
+            "title": {
+              "native": "仙逆"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 2
+      },
+      {
+        "score": 60,
+        "amount": 3
+      },
+      {
+        "score": 70,
+        "amount": 20
+      },
+      {
+        "score": 80,
+        "amount": 23
+      },
+      {
+        "score": 90,
+        "amount": 45
+      },
+      {
+        "score": 100,
+        "amount": 33
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 227
+      },
+      {
+        "status": "PLANNING",
+        "amount": 121
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 232
+      },
+      {
+        "status": "DROPPED",
+        "amount": 15
+      },
+      {
+        "status": "PAUSED",
+        "amount": 14
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/168131",
+  "modNotes": null
+}

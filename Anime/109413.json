@@ -1,0 +1,320 @@
+{
+  "id": 109413,
+  "idMal": 39912,
+  "title": {
+    "native": "万界仙踪 第二季",
+    "romaji": "Wan Jie Xian Zong 2",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2019,
+    "month": 4,
+    "day": 25
+  },
+  "endDate": {
+    "year": 2019,
+    "month": 9,
+    "day": 9
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 40,
+  "duration": 7,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748877618,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109413-yA9VBjWJavic.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109413-yA9VBjWJavic.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx109413-yA9VBjWJavic.jpg",
+    "color": "#1aa1d6"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "synonyms": [
+    "Wonderland 2",
+    "The Wonderland of Ten Thousands 2"
+  ],
+  "averageScore": 66,
+  "meanScore": 70,
+  "popularity": 818,
+  "favourites": 14,
+  "tags": [
+    {
+      "id": 89,
+      "name": "Full CGI",
+      "description": "Almost entirely created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 326,
+      "name": "Cultivation",
+      "description": "Features characters using training, often martial arts-related, and other special methods to cultivate qi (a component of traditional Chinese philosophy, described as \"life force\") and gain strength or immortality.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 103922,
+          "title": {
+            "native": "万界仙踪"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 110884,
+          "title": {
+            "native": "万界仙踪"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 113419,
+          "title": {
+            "native": "万界仙踪 第三季"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 217106,
+          "name": {
+            "first": "Yin",
+            "last": "Yu",
+            "native": "羽音",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217106-8oeylTWS1ZSm.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b217106-8oeylTWS1ZSm.png"
+          },
+          "siteUrl": "https://anilist.co/character/217106"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 207587,
+          "name": {
+            "first": "Xingyun",
+            "last": "Ye",
+            "native": "叶星云",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207587-HKKm9zOAIPAu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207587-HKKm9zOAIPAu.png"
+          },
+          "siteUrl": "https://anilist.co/character/207587"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 207585,
+          "name": {
+            "first": "Xueyun",
+            "last": "Ye",
+            "native": "叶雪云",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207585-aZ0D6LkSQkIA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207585-aZ0D6LkSQkIA.png"
+          },
+          "siteUrl": "https://anilist.co/character/207585"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 207586,
+          "name": {
+            "first": "Yanran",
+            "last": "Ye",
+            "native": "叶嫣然",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207586-GfqT1B31cXT9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b207586-GfqT1B31cXT9.png"
+          },
+          "siteUrl": "https://anilist.co/character/207586"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6475,
+          "name": "Ruo Hong Culture",
+          "siteUrl": "https://anilist.co/studio/6475"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 19651,
+      "url": "https://v.qq.com/detail/5/5cuf8ahvxvm2587.html",
+      "site": "Tencent Video"
+    },
+    {
+      "id": 35006,
+      "url": "https://weibo.com/wanjiexianzong",
+      "site": "Weibo"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22850,
+      "rank": 27,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 31762,
+          "rating": 4,
+          "media": {
+            "id": 109413,
+            "title": {
+              "native": "万界仙踪 第二季"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 101916,
+            "title": {
+              "native": "妖神记"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 10
+      },
+      {
+        "score": 50,
+        "amount": 26
+      },
+      {
+        "score": 60,
+        "amount": 44
+      },
+      {
+        "score": 70,
+        "amount": 96
+      },
+      {
+        "score": 80,
+        "amount": 62
+      },
+      {
+        "score": 90,
+        "amount": 33
+      },
+      {
+        "score": 100,
+        "amount": 26
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 66
+      },
+      {
+        "status": "PLANNING",
+        "amount": 117
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 588
+      },
+      {
+        "status": "DROPPED",
+        "amount": 37
+      },
+      {
+        "status": "PAUSED",
+        "amount": 10
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/109413",
+  "modNotes": null
+}

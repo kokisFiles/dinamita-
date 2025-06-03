@@ -1,0 +1,802 @@
+{
+  "id": 145480,
+  "idMal": 28983,
+  "title": {
+    "native": "冒険者たち ガンバと7匹のなかま",
+    "romaji": "Boukensha-tachi: Gamba to 7-hiki no Nakama",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "A movie version of Gamba no Bouken, covering the main events of the series in 90 minutes.\n<br><br>\nAn adventurous wild mouse called Gamba travels with his friends to see the ocean but he finds an injured mouse and hears about the violence of white ferret Noroi. Gamba decides to help the mice suffering under Noroi's tyranny.",
+  "startDate": {
+    "year": 1984,
+    "month": 3,
+    "day": 4
+  },
+  "endDate": {
+    "year": 1984,
+    "month": 3,
+    "day": 4
+  },
+  "season": "SPRING",
+  "seasonYear": 1984,
+  "seasonInt": 842,
+  "episodes": 1,
+  "duration": 93,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748166809,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145480-qP7P3wMNZnMn.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145480-qP7P3wMNZnMn.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145480-qP7P3wMNZnMn.jpg",
+    "color": "#50bbe4"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure"
+  ],
+  "synonyms": [
+    "Bouken-tachi Gamba to Nanbiki no Nakama"
+  ],
+  "averageScore": null,
+  "meanScore": 47,
+  "popularity": 87,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 305,
+      "name": "Ships",
+      "description": "Prominently features the use of sea-based transportation vessels.",
+      "category": "Theme-Other-Vehicle",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 5267,
+          "title": {
+            "native": "ガンバの冒険"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 19087,
+          "name": {
+            "first": "Noroi",
+            "last": null,
+            "native": "ノロイ",
+            "alternative": [
+              "Winston "
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19087-PACfHJZvtzPA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19087-PACfHJZvtzPA.png"
+          },
+          "siteUrl": "https://anilist.co/character/19087"
+        },
+        "voiceActors": [
+          {
+            "id": 95974,
+            "name": {
+              "first": "Chikao",
+              "last": "Ootsuka",
+              "native": "大塚周夫"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95974-SvJQqqEApoSf.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95974-SvJQqqEApoSf.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95974"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 19086,
+          "name": {
+            "first": "Gamba",
+            "last": null,
+            "native": "ガンバ",
+            "alternative": [
+              "Ganba",
+              "Gavin",
+              "Ganbari-ya no Gamba",
+              "Gamba of the Eager Beaver",
+              "がんばり屋のガンバ"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19086-FM8jr3MyfnXk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19086-FM8jr3MyfnXk.png"
+          },
+          "siteUrl": "https://anilist.co/character/19086"
+        },
+        "voiceActors": [
+          {
+            "id": 95557,
+            "name": {
+              "first": "Masako",
+              "last": "Nozawa",
+              "native": "野沢雅子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95557-5a2nnIBK05ul.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95557-5a2nnIBK05ul.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95557"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 150555,
+          "name": {
+            "first": "Gakusha",
+            "last": null,
+            "native": "ガクシャ",
+            "alternative": [
+              "Grayson"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150555-ezr2Nyil0eUe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150555-ezr2Nyil0eUe.png"
+          },
+          "siteUrl": "https://anilist.co/character/150555"
+        },
+        "voiceActors": [
+          {
+            "id": 95870,
+            "name": {
+              "first": "Kei",
+              "last": "Tomiyama",
+              "native": "富山敬"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95870-nqSFY9095pWw.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95870-nqSFY9095pWw.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95870"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 150559,
+          "name": {
+            "first": "Ikasama",
+            "last": null,
+            "native": "イカサマ",
+            "alternative": [
+              "Ace"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150559-mrp36A8zy7CQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150559-mrp36A8zy7CQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/150559"
+        },
+        "voiceActors": [
+          {
+            "id": 101453,
+            "name": {
+              "first": "Junko",
+              "last": "Hori",
+              "native": "堀絢子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101453-pAwpxoveMbbg.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101453-pAwpxoveMbbg.png"
+            },
+            "siteUrl": "https://anilist.co/staff/101453"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 150617,
+          "name": {
+            "first": "Shijin",
+            "last": null,
+            "native": "シジン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150617-VLGsaBEg07Y5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150617-VLGsaBEg07Y5.png"
+          },
+          "siteUrl": "https://anilist.co/character/150617"
+        },
+        "voiceActors": [
+          {
+            "id": 111489,
+            "name": {
+              "first": "Akira",
+              "last": "Shimada",
+              "native": "島田彰"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/111489"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 150557,
+          "name": {
+            "first": "Yoisho",
+            "last": null,
+            "native": "ヨイショ",
+            "alternative": [
+              "Rusty"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150557-y3We4dd0fXRZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150557-y3We4dd0fXRZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/150557"
+        },
+        "voiceActors": [
+          {
+            "id": 95138,
+            "name": {
+              "first": "Kenji",
+              "last": "Utsumi",
+              "native": "内海賢二"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95138-0iK7jnkuJb6o.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95138-0iK7jnkuJb6o.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95138"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Assistant Director",
+        "node": {
+          "id": 106812,
+          "name": {
+            "first": "Yoshio",
+            "last": "Takeuchi",
+            "native": "竹内啓雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11812.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11812.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/106812"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 143767,
+          "name": {
+            "first": "Atsuo",
+            "last": "Saitou",
+            "native": "斎藤惇夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n143767-HLrNGFJyFXhu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n143767-HLrNGFJyFXhu.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/143767"
+        }
+      },
+      {
+        "role": "Production",
+        "node": {
+          "id": 158954,
+          "name": {
+            "first": "Yutaka",
+            "last": "Fujioka",
+            "native": "藤岡豊"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n158954-ydEJkXKyekaJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n158954-ydEJkXKyekaJ.jpg"
+          },
+          "description": "Yutaka Fujioka is the founder of [TMS Entertainment](https://anilist.co/studio/73/) (formerly known as [Tokyo Movie Shinsha](https://anilist.co/studio/65/) and also [Tokyo Movie](https://anilist.co/studio/6361/)/[TMS-Kyokuichi](https://anilist.co/studio/707/)), a Japanese animation studio originally established on October 22, 1946 as a textile manufacturer. He also founded the animation studio [Telecom Animation Film](https://anilist.co/studio/94/) in 1975.\n\nHe retired from the animation industry in 1991 due to the troubled production and commercial failure of [Little Nemo](https://anilist.co/anime/2286/Nemo/), which he took responsibility for.",
+          "siteUrl": "https://anilist.co/staff/158954"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 123981,
+          "name": {
+            "first": "Hideo",
+            "last": "Takayashiki",
+            "native": "高屋敷英夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123981-GqcWVSenlwiP.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n123981-GqcWVSenlwiP.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/高屋敷英夫)\n\nFormerly married to fellow scriptwriter [Tomoko Konparu](https://anilist.co/staff/103462).",
+          "siteUrl": "https://anilist.co/staff/123981"
+        }
+      },
+      {
+        "role": "Layout Design",
+        "node": {
+          "id": 119556,
+          "name": {
+            "first": "Tsutomu",
+            "last": "Shibayama",
+            "native": "芝山努"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119556-izPc9BmU3GY2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119556-izPc9BmU3GY2.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/119556"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 106812,
+          "name": {
+            "first": "Yoshio",
+            "last": "Takeuchi",
+            "native": "竹内啓雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11812.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11812.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/106812"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 151998,
+          "name": {
+            "first": "Shunzou",
+            "last": "Katou",
+            "native": "加藤俊三"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n151998-IceCbT7CIpT7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n151998-IceCbT7CIpT7.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/151998"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 129516,
+          "name": {
+            "first": "Yoshio ",
+            "last": "Kabashima",
+            "native": "椛島義夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/129516"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 200012,
+          "name": {
+            "first": "Atsushi",
+            "last": "Yamatoya",
+            "native": "大和屋竺"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Date of Birth: June 19th, 1937\nDate of Death: January 16th, 1993\n\nFather of [Akatsuki Yamatoya](https://anilist.co/staff/101308)",
+          "siteUrl": "https://anilist.co/staff/200012"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 100393,
+          "name": {
+            "first": "Osamu",
+            "last": "Dezaki",
+            "native": "出﨑統"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100393-lYIq2h5QrcQ4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100393-lYIq2h5QrcQ4.png"
+          },
+          "description": "Was a fan of Le Mans.\n\nDezaki was known for his distinct visual style, which makes use of split screen, stark lighting, extensive use of dutch angle, and pastel freeze frames that he called \"postcard memories\", which may be his most famous trademark.\n\nYounger brother of director [Satoshi Dezaki](https://anilist.co/staff/111371). He is married to the mangaka [Rikako Kugayama](https://anilist.co/staff/304119).\n\nNon-anime staff credits:~!\nAnimation director for \"The Visionaries\" (US cartoon)\nAnimation for \"Rainbow Brite\" (US cartoon)!~",
+          "siteUrl": "https://anilist.co/staff/100393"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100393,
+          "name": {
+            "first": "Osamu",
+            "last": "Dezaki",
+            "native": "出﨑統"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100393-lYIq2h5QrcQ4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100393-lYIq2h5QrcQ4.png"
+          },
+          "description": "Was a fan of Le Mans.\n\nDezaki was known for his distinct visual style, which makes use of split screen, stark lighting, extensive use of dutch angle, and pastel freeze frames that he called \"postcard memories\", which may be his most famous trademark.\n\nYounger brother of director [Satoshi Dezaki](https://anilist.co/staff/111371). He is married to the mangaka [Rikako Kugayama](https://anilist.co/staff/304119).\n\nNon-anime staff credits:~!\nAnimation director for \"The Visionaries\" (US cartoon)\nAnimation for \"Rainbow Brite\" (US cartoon)!~",
+          "siteUrl": "https://anilist.co/staff/100393"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 174158,
+          "name": {
+            "first": "Yutaka",
+            "last": "Kaneko",
+            "native": "金子裕"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n174158-foGhMt6IOuGt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n174158-foGhMt6IOuGt.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/金子裕_(脚本家%29)\n\nFormer scriptwriter.",
+          "siteUrl": "https://anilist.co/staff/174158"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 168118,
+          "name": {
+            "first": "Shigetsugu",
+            "last": "Yoshida",
+            "native": "吉田茂承"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n168118-DwZnuoYZlJqh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n168118-DwZnuoYZlJqh.jpg"
+          },
+          "description": "After finishing school, Yoshida went to Tokyo, where he joined Toei in 1959. 10 years later - 1969 - he left Toei to work at Shin'ei Doga and Tokyo Movie Shinsha where he worked as a director for single episodes for the first time. ",
+          "siteUrl": "https://anilist.co/staff/168118"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 215245,
+          "name": {
+            "first": "Kyousuke",
+            "last": "Mikuriya",
+            "native": "御厨恭輔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Kyousuke Mikuriya is a director and storyboard artist.",
+          "siteUrl": "https://anilist.co/staff/215245"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 106686,
+          "name": {
+            "first": "Souji",
+            "last": "Yoshikawa",
+            "native": "吉川惣司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106686-YFyy8V504YfY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106686-YFyy8V504YfY.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/吉川惣司)\n\nA fan of [Osamu Tezuka](https://anilist.co/staff/96938/)'s works, when Yoshikawa was a sophomore in high school, he saw a \"Mushi Production's first batch of animators wanted\" news article and applied for the job, which led him to enter the anime industry. He was planning to go to art college, but was invited to join Mushi Pro, so he quit high school and joined the company. He participated as an animator for the first [Astro Boy](https://anilist.co/anime/2747/) series. In 1967, he participated in the founding of _Art Fresh with Gisaburou Sugii and Osamu Dezaki_. After working as an animator on Mushi Production's [Gokuu no Daibouken](https://anilist.co/anime/2687/), which Art Fresh participated in, he worked as a freelance animator before becoming a senior director and board member of Dyna-Method Inc.\n\nIn addition to serving as episode director, storyboard artist and writer, he also worked as a director. He has participated in [Tensai Bakabon](https://anilist.co/anime/6468/), [Star of the Giants](https://anilist.co/anime/5834/), [Ashita no Joe](https://anilist.co/anime/2402/), [Moomin](https://anilist.co/anime/8234/), [Lupin III](https://anilist.co/anime/1412/), [Invincible Super Man Zambot 3](https://anilist.co/anime/2200/), [Invincible Steel Man Daitarn 3](https://anilist.co/anime/3305/), and [Future Boy Conan](https://anilist.co/anime/302/).\n\nIn addition to anime, he created, wrote and directed Star Guardian with Airship Theater Company, wrote the screenplays for Tanoshii Moomin Ikka and Snow White and the Seven Dwarfs and wrote and directed The Wizard of Oz. It all started when he was asked by director [Masaaki Oosumi](https://anilist.co/staff/122102/) to help with the screenplay of Aladdin for Airship Theater Company's Aladdin when he was working on the TV adaptation of Moomin. In addition, he has worked on commercials, events, performances and novels. He has been a fan of science fiction since he read Shounen Shoujo Sekai Kagaku Bouken Zenshuu by Kodansha when he was a kid.\n\nOne of the reasons that the 100th episode of the [Kirby: Right Back at Ya!](https://anilist.co/anime/2390/) anime contained some problems, inconsistencies, and heavy-handedness in the plot and development is that Yoshikawa, who wrote the final episode, learned that his wife was in critical condition at the time and had to rush through the script and leave it in incomplete form in order to be present for her dying moments.\n\n[Yasuo Ootsuka](https://anilist.co/staff/136873/) cited in an interview for the Lupin III Perfect Book: Complete Collector's Edition, that [Hayao Miyazaki](https://anilist.co/staff/96870/), [Isao Takahata](https://anilist.co/staff/100579/), Osamu Dezaki, and Yoshikawa as representative members of the Japanese anime world.\n\n(Source: Wikipedia)\n",
+          "siteUrl": "https://anilist.co/staff/106686"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 149620,
+          "name": {
+            "first": "Mitsuru",
+            "last": "Majima",
+            "native": "馬嶋満"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n149620-WfD548M1U9an.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n149620-WfD548M1U9an.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/149620"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 103964,
+          "name": {
+            "first": "Shichirou",
+            "last": "Kobayashi",
+            "native": "小林七郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103964-1Da7Vx9y0nlo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103964-1Da7Vx9y0nlo.png"
+          },
+          "description": "[Instagram](https://www.instagram.com/shichiro_kobayashi/)\n\nA former art director and a guest professor at Kobe Design University.\n\nKobayashi graduated from Musashino Art University and first became an elementary school art teacher. It was only later that he joined the animation industry in 1964. He started quickly making a name for himself as a background artist and consequently established his own background art studio Kobayashi Production, in 1968. During this time thick poster paint was dominating the backgrounds in anime, but Kobayashi started a new style with much thinner painting and colored pencil strokes.\n\nHe has worked as an art director on over 100 titles and is one of the most distinguished art directors in the medium. Notable works include [Gamba no Bouken](https://anilist.co/anime/5267/), [Ie Naki Ko](https://anilist.co/anime/2828/), [Takarajima](https://anilist.co/anime/2618/), [Tenshi no Tamago](https://anilist.co/anime/885/), [Utena](https://anilist.co/anime/440/), [Berserk](https://anilist.co/anime/33/) and [Nodame Cantabile](https://anilist.co/anime/1698/).\n\nKobayashi retired from the industry in 2010, which was followed by his studio's closedown a year later.\n\nIn a 2015 [interview](https://youtu.be/V1tiKOsCz2M), Kobayashi talked about his life and passion in painting touring his atelier and showcasing his work.",
+          "siteUrl": "https://anilist.co/staff/103964"
+        }
+      },
+      {
+        "role": "Music Selection",
+        "node": {
+          "id": 161498,
+          "name": {
+            "first": "Seiji",
+            "last": "Suzuki",
+            "native": "鈴木清司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n161498-u7FVGfe0halQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n161498-u7FVGfe0halQ.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/161498"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 129514,
+          "name": {
+            "first": "Tatsumasa",
+            "last": "Shimizu",
+            "native": "清水達正"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129514-yw6whZtdOvEU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n129514-yw6whZtdOvEU.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/清水達正)",
+          "siteUrl": "https://anilist.co/staff/129514"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 122104,
+          "name": {
+            "first": "Takeo",
+            "last": "Yamashita",
+            "native": "山下毅雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122104-MHBnk7Mpdfj5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n122104-MHBnk7Mpdfj5.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/122104"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 207544,
+          "name": {
+            "first": "Yoshihisa",
+            "last": "Tsurubuchi",
+            "native": "鶴渕允寿"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/207544"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 129535,
+          "name": {
+            "first": "Satoshi",
+            "last": "Katou",
+            "native": "加藤敏"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129535-8s665STG0pL9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n129535-8s665STG0pL9.png"
+          },
+          "description": "A veteran in his field, having worked as a sound director for over 40 years from late '60s onwards. Predominantly known for his involvement in the [Lupin III](https://anilist.co/anime/1412/) franchise, in which he acted as a sound director for all the series' entries from the [second TV series](https://anilist.co/anime/1425/) onwards up until his retirement from the industry.\n\nMore recently he has been working as a lecturer at Eizou Technical Academy.",
+          "siteUrl": "https://anilist.co/staff/129535"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 65,
+          "name": "Tokyo Movie Shinsha",
+          "siteUrl": "https://anilist.co/studio/65"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 3
+      },
+      {
+        "score": 60,
+        "amount": 3
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 4
+      },
+      {
+        "status": "PLANNING",
+        "amount": 43
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 25
+      },
+      {
+        "status": "DROPPED",
+        "amount": 13
+      },
+      {
+        "status": "PAUSED",
+        "amount": 2
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/145480",
+  "modNotes": null
+}

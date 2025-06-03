@@ -1,0 +1,389 @@
+{
+  "id": 67669,
+  "idMal": 37669,
+  "title": {
+    "native": "あいえすっ!",
+    "romaji": "IS!",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A 4-koma manga based on Yumizuru, Izuru's Infinite Stratos.",
+  "startDate": {
+    "year": 2010,
+    "month": 12,
+    "day": 27
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 8,
+    "day": 27
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 21,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748522955,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b67669-GUguWTsfUGQc.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b67669-GUguWTsfUGQc.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b67669-GUguWTsfUGQc.png",
+    "color": "#ffae00"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Infinite Stratos 4-koma"
+  ],
+  "averageScore": null,
+  "meanScore": 71,
+  "popularity": 250,
+  "favourites": 7,
+  "tags": [
+    {
+      "id": 206,
+      "name": "4-koma",
+      "description": "A manga in the 'yonkoma' format, which consists of four equal-sized panels arranged in a vertical strip.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 23,
+      "name": "Female Harem",
+      "description": "Main cast features the protagonist plus several female characters who are romantically interested in them.",
+      "category": "Theme-Romance",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 86,
+      "name": "Primarily Female Cast",
+      "description": "Main cast is mostly composed of female characters.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 53881,
+          "title": {
+            "native": "IS〈インフィニット・ストラトス〉"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 36111,
+          "name": {
+            "first": "Cecilia",
+            "last": "Alcott",
+            "native": "セシリア・オルコット",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/36111.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36111.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36111"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 35663,
+          "name": {
+            "first": "Laura",
+            "last": "Bodewig",
+            "native": "ラウラ・ボーデヴィッヒ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35663-o1ObPNk2cR1d.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35663-o1ObPNk2cR1d.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/35663"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 35662,
+          "name": {
+            "first": "Charlotte",
+            "last": "Dunois",
+            "native": "シャルロット・デュノア",
+            "alternative": [
+              "Charles",
+              "Charl"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35662-6B012eUCJfpB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35662-6B012eUCJfpB.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/35662"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 36110,
+          "name": {
+            "first": "Lingyin",
+            "last": "Huang",
+            "native": "凰鈴音",
+            "alternative": [
+              "Rin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/36110.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36110.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36110"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 35659,
+          "name": {
+            "first": "Ichika",
+            "last": "Orimura",
+            "native": "織斑一夏",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/35659.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/35659.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/35659"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 35660,
+          "name": {
+            "first": "Houki",
+            "last": "Shinonono",
+            "native": "篠ノ之箒",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35660-kHfdwJ4ZOubg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35660-kHfdwJ4ZOubg.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/35660"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 107062,
+          "name": {
+            "first": "Izuru",
+            "last": "Yumizuru",
+            "native": "弓弦イズル"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107062-ZwMSELltYOw0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107062-ZwMSELltYOw0.png"
+          },
+          "description": "[Blog](http://izurism.blog25.fc2.com) | [Twitter](https://twitter.com/izuru_yumizuru)\n\nAlso known as \"Hachiman\"\nHe wrote scenarios for several visual novels created by Alicesoft: Tsumamigui 2 (2003), Shimaima (2004), Yokubari Saboten (2006), Double Sensei Life (2007)",
+          "siteUrl": "https://anilist.co/staff/107062"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 112001,
+          "name": {
+            "first": "Takuto",
+            "last": "Kon",
+            "native": "拓人  今"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/112001"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 113603,
+          "name": {
+            "first": "okiura",
+            "last": "",
+            "native": "okiura"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113603-6D8lZoXZ9PTu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n113603-6D8lZoXZ9PTu.jpg"
+          },
+          "description": "\n[Twitter](https://twitter.com/oki_noshi) | [Website](http://xxx0w.web.fc2.com/) | [Pixiv](http://www.pixiv.net/member.php?id=9764)",
+          "siteUrl": "https://anilist.co/staff/113603"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 70439,
+          "rating": 1,
+          "media": {
+            "id": 67669,
+            "title": {
+              "native": "あいえすっ!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 81461,
+            "title": {
+              "native": "IS -インフィニット・ストラトス-"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 5
+      },
+      {
+        "score": 60,
+        "amount": 7
+      },
+      {
+        "score": 70,
+        "amount": 15
+      },
+      {
+        "score": 80,
+        "amount": 9
+      },
+      {
+        "score": 90,
+        "amount": 6
+      },
+      {
+        "score": 100,
+        "amount": 6
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 26
+      },
+      {
+        "status": "PLANNING",
+        "amount": 123
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 88
+      },
+      {
+        "status": "DROPPED",
+        "amount": 11
+      },
+      {
+        "status": "PAUSED",
+        "amount": 2
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/67669",
+  "modNotes": null
+}

@@ -1,0 +1,323 @@
+{
+  "id": 40690,
+  "idMal": 10690,
+  "title": {
+    "native": null,
+    "romaji": "Try! Try! Try! Webcomics",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The two short Try! Try! Try! webcomics from the bonus CD that came with Azumanga Two. They were given silly episode numbers to represent the fact that they're just little bonus episodes. The first, Episode -1: Ena-chan's mishap, tells the story of an interesting discovery made by Ayase Ena. The second, Try! Try! Try! Fractional Episode, is a nice story about the different characters' reactions to Yotsuba's mischief.",
+  "startDate": {
+    "year": 2001,
+    "month": 7,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 2,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748618511,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/40690-OSZs1wcB9I6L.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/40690-OSZs1wcB9I6L.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/40690-OSZs1wcB9I6L.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Episode minus 1",
+    "Ena-chan's Mishap",
+    "Fractional Episode",
+    "Try Try Try Webcomics"
+  ],
+  "averageScore": 62,
+  "meanScore": 64,
+  "popularity": 1260,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 87,
+      "name": "Family Life",
+      "description": "Centers around the activities of a family unit.",
+      "category": "Theme-Slice of Life",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 193,
+      "name": "Episodic",
+      "description": "Features story arcs that are loosely tied or lack an overarching plot.",
+      "category": "Technical",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 30104,
+          "title": {
+            "native": "よつばと！"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 36604,
+          "title": {
+            "native": "Try! Try! Try!"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7757,
+          "name": {
+            "first": "Ena",
+            "last": "Ayase",
+            "native": "綾瀬恵那",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7757-51LGUgtARUrN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7757-51LGUgtARUrN.png"
+          },
+          "siteUrl": "https://anilist.co/character/7757"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3568,
+          "name": {
+            "first": "Yotsuba",
+            "last": "Koiwai",
+            "native": "小岩井四葉",
+            "alternative": [
+              "こいわいよつば"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3568-5mfNplO06SPY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3568-5mfNplO06SPY.png"
+          },
+          "siteUrl": "https://anilist.co/character/3568"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7742,
+          "name": {
+            "first": "Fuuka",
+            "last": "Ayase",
+            "native": "綾瀬風香",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n7742-qA8eLhbKWjRt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n7742-qA8eLhbKWjRt.png"
+          },
+          "siteUrl": "https://anilist.co/character/7742"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9164,
+          "name": {
+            "first": "Asagi",
+            "last": "Ayase",
+            "native": "綾瀬あさぎ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n9164-13YvBT8Y5DLM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n9164-13YvBT8Y5DLM.png"
+          },
+          "siteUrl": "https://anilist.co/character/9164"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3577,
+          "name": {
+            "first": "Yousuke",
+            "last": "Koiwai",
+            "native": "小岩井葉介",
+            "alternative": [
+              "Daddy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3577-gvuDyWJRv5mS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3577-gvuDyWJRv5mS.png"
+          },
+          "siteUrl": "https://anilist.co/character/3577"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 96939,
+          "name": {
+            "first": "Kiyohiko",
+            "last": "Azuma",
+            "native": "あずまきよひこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96939-5ts85GuFadRb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96939-5ts85GuFadRb.png"
+          },
+          "description": "[Official Website](http://www.azumakiyohiko.com/) | [Website](http://www.yotuba.com/) | [Twitter](https://twitter.com/azumakiyohiko)",
+          "siteUrl": "https://anilist.co/staff/96939"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 26242,
+      "rank": 77,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2001,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 26322,
+      "rank": 57,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 2001,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 12
+      },
+      {
+        "score": 40,
+        "amount": 22
+      },
+      {
+        "score": 50,
+        "amount": 105
+      },
+      {
+        "score": 60,
+        "amount": 166
+      },
+      {
+        "score": 70,
+        "amount": 167
+      },
+      {
+        "score": 80,
+        "amount": 67
+      },
+      {
+        "score": 90,
+        "amount": 37
+      },
+      {
+        "score": 100,
+        "amount": 21
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 14
+      },
+      {
+        "status": "PLANNING",
+        "amount": 190
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1050
+      },
+      {
+        "status": "DROPPED",
+        "amount": 5
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/40690",
+  "modNotes": null
+}

@@ -1,0 +1,1227 @@
+{
+  "id": 108767,
+  "idMal": 39277,
+  "title": {
+    "native": "妖怪ウォッチ!",
+    "romaji": "Youkai Watch!",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "A new season of Youkai Watch focusing on elementary schooler Keita Amano again. The events take place right after the original season; but still chronologically occur before the now complete Shadow Side events as they take place 30 years in the future.",
+  "startDate": {
+    "year": 2019,
+    "month": 4,
+    "day": 5
+  },
+  "endDate": {
+    "year": 2019,
+    "month": 12,
+    "day": 20
+  },
+  "season": "SPRING",
+  "seasonYear": 2019,
+  "seasonInt": 192,
+  "episodes": 36,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748909043,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108767-tv9Ue8vEhwc2.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108767-tv9Ue8vEhwc2.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx108767-tv9Ue8vEhwc2.jpg",
+    "color": "#f1bb5d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "妖怪ウォッチ (2019)",
+    "Youkai Watch (2019)",
+    "YO-KAI WATCH!"
+  ],
+  "averageScore": 64,
+  "meanScore": 66,
+  "popularity": 1860,
+  "favourites": 38,
+  "tags": [
+    {
+      "id": 233,
+      "name": "Youkai",
+      "description": "Prominently features supernatural creatures from Japanese folklore.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 101555,
+          "title": {
+            "native": "妖怪ウォッチ シャドウサイド"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 130445,
+          "title": {
+            "native": "妖怪ウォッチ♪"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 19157,
+          "title": {
+            "native": "妖怪ウォッチ"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 217446,
+          "name": {
+            "first": "Usapyon",
+            "last": null,
+            "native": "ＵＳＡピョン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217446-QKz8xFYW2PgP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b217446-QKz8xFYW2PgP.png"
+          },
+          "siteUrl": "https://anilist.co/character/217446"
+        },
+        "voiceActors": [
+          {
+            "id": 125030,
+            "name": {
+              "first": "Hana",
+              "last": "Satou",
+              "native": "佐藤はな"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n125030-qmzaBaeQA7xF.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n125030-qmzaBaeQA7xF.png"
+            },
+            "siteUrl": "https://anilist.co/staff/125030"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 162153,
+          "name": {
+            "first": "Whisper",
+            "last": null,
+            "native": "ウィスパー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162153-9bR1iZGvwpNn.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162153-9bR1iZGvwpNn.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/162153"
+        },
+        "voiceActors": [
+          {
+            "id": 95001,
+            "name": {
+              "first": "Tomokazu",
+              "last": "Seki",
+              "native": "関智一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95001-vm0RtZhmlzhK.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95001"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 162152,
+          "name": {
+            "first": "Jibanyan",
+            "last": null,
+            "native": "ジバニャン",
+            "alternative": [
+              "Akamaru"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162152-12KGEgbSWcA3.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162152-12KGEgbSWcA3.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/162152"
+        },
+        "voiceActors": [
+          {
+            "id": 95782,
+            "name": {
+              "first": "Etsuko",
+              "last": "Kozakura",
+              "native": "小桜エツコ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95782-Zova2vUsykFw.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95782-Zova2vUsykFw.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95782"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 223877,
+          "name": {
+            "first": "Fuyunyan",
+            "last": null,
+            "native": "フユニャン",
+            "alternative": [
+              "Hovernyan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b223877-qnQSxl2wAmRm.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b223877-qnQSxl2wAmRm.png"
+          },
+          "siteUrl": "https://anilist.co/character/223877"
+        },
+        "voiceActors": [
+          {
+            "id": 95672,
+            "name": {
+              "first": "Yuuki",
+              "last": "Kaji",
+              "native": "梶裕貴"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-RN4nm0OFwCyU.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95672-RN4nm0OFwCyU.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95672"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 162151,
+          "name": {
+            "first": "Keita",
+            "last": "Amano",
+            "native": "天野景太",
+            "alternative": [
+              "Nathan Adams"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162151-CGmeAM3OxRle.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162151-CGmeAM3OxRle.png"
+          },
+          "siteUrl": "https://anilist.co/character/162151"
+        },
+        "voiceActors": [
+          {
+            "id": 95890,
+            "name": {
+              "first": "Haruka",
+              "last": "Tomatsu",
+              "native": "戸松遥"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95890-pDWHkOm4ncq0.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95890-pDWHkOm4ncq0.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95890"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 210075,
+          "name": {
+            "first": "Komasan",
+            "last": null,
+            "native": "コマさん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210075-YVM6VIrx1S0r.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b210075-YVM6VIrx1S0r.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/210075"
+        },
+        "voiceActors": [
+          {
+            "id": 95054,
+            "name": {
+              "first": "Aya",
+              "last": "Endou",
+              "native": "遠藤綾"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95054-8VgnlGK5QX2A.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95054"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 162150,
+          "name": {
+            "first": "Inaho",
+            "last": "Misora",
+            "native": "未空イナホ",
+            "alternative": [
+              "Hailey Anne Thomas"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162150-71erfWR3Usvg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162150-71erfWR3Usvg.png"
+          },
+          "siteUrl": "https://anilist.co/character/162150"
+        },
+        "voiceActors": [
+          {
+            "id": 101686,
+            "name": {
+              "first": "Aoi",
+              "last": "Yuuki",
+              "native": "悠木碧"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101686-PTd0lQZMsmcv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/101686"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director (eps 1-22)",
+        "node": {
+          "id": 207911,
+          "name": {
+            "first": "Ryousuke",
+            "last": "Senbo",
+            "native": "泉保良輔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n207911-1YvIlTz5TsDU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n207911-1YvIlTz5TsDU.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/207911"
+        }
+      },
+      {
+        "role": "Animation Producer (eps 1-22)",
+        "node": {
+          "id": 266124,
+          "name": {
+            "first": "Ken",
+            "last": "Kiyota",
+            "native": "清田健"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/266124"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 119758,
+          "name": {
+            "first": "Youichi",
+            "last": "Katou",
+            "native": "加藤陽一 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119758-ZorR7yQkEr5W.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119758-ZorR7yQkEr5W.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/10185382)",
+          "siteUrl": "https://anilist.co/staff/119758"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 187973,
+          "name": {
+            "first": "Emi",
+            "last": "Kadono",
+            "native": "角野江美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/187973"
+        }
+      },
+      {
+        "role": "Production Desk (eps 1-22)",
+        "node": {
+          "id": 271355,
+          "name": {
+            "first": "Satoshi",
+            "last": "Kojima",
+            "native": "小嶋聡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/271355"
+        }
+      },
+      {
+        "role": "Animation Producer",
+        "node": {
+          "id": 212251,
+          "name": {
+            "first": "Takashi",
+            "last": "Inoue",
+            "native": "井上たかし"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n212251-kD50uQBNgWLv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n212251-kD50uQBNgWLv.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/inodan0306)\nAnimation Producer at [OLM](https://anilist.co/studio/28/).",
+          "siteUrl": "https://anilist.co/staff/212251"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 120066,
+          "name": {
+            "first": "Shouji",
+            "last": "Hata",
+            "native": "はたしょうじ "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120066-2VOeki0B1ygY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n120066-2VOeki0B1ygY.jpg"
+          },
+          "description": "Shouji Hata is an Audio Engineer.",
+          "siteUrl": "https://anilist.co/staff/120066"
+        }
+      },
+      {
+        "role": "Design Assistance",
+        "node": {
+          "id": 237942,
+          "name": {
+            "first": "Ken",
+            "last": "Motomura",
+            "native": "本村健"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n237942-BvaBLXCpAdpR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n237942-BvaBLXCpAdpR.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/237942"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 107521,
+          "name": {
+            "first": "Akihiro",
+            "last": "Hino",
+            "native": "日野晃博"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107521-bcbAJmgCJ2on.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107521-bcbAJmgCJ2on.png"
+          },
+          "description": "[Twitter](https://twitter.com/AkihiroHino)\n\nA video game designer. Started his career as a programmer in the late '80s, and later took on roles in writing, designing, directing and producing. In 1998, he founded Level-5, a Japanese video game studio, where he remains its president and CEO.\n\nKnown for titles such as Dark Cloud, Dark Chronicle, Inazuma Eleven and Professor Layton.",
+          "siteUrl": "https://anilist.co/staff/107521"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 144428,
+          "name": {
+            "first": "Kenichirou",
+            "last": "Saigou",
+            "native": "西郷憲一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144428-lajzAf1xYWTw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n144428-lajzAf1xYWTw.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%B7%E6%86%B2%E4%B8%80%E9%83%8E)\n\n**Kenichirou Saigou** is a composer affiliated with Level-5.",
+          "siteUrl": "https://anilist.co/staff/144428"
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 148677,
+          "name": {
+            "first": "Chie",
+            "last": "Mishima",
+            "native": "三島千枝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/148677"
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 144430,
+          "name": {
+            "first": "Akira",
+            "last": "Takeuchi",
+            "native": "武内啓 "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144430-yJw0DjgehfUQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n144430-yJw0DjgehfUQ.jpg"
+          },
+          "description": "[Twitter](https://x.com/AkinbeMichu0224)",
+          "siteUrl": "https://anilist.co/staff/144430"
+        }
+      },
+      {
+        "role": "Original Yo-kai Design",
+        "node": {
+          "id": 116593,
+          "name": {
+            "first": "Takuzou",
+            "last": "Nagano",
+            "native": "長野拓造"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/21593.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/21593.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/naganotakuzo)",
+          "siteUrl": "https://anilist.co/staff/116593"
+        }
+      },
+      {
+        "role": "Director (eps 23-36)",
+        "node": {
+          "id": 155558,
+          "name": {
+            "first": "Fumiya",
+            "last": "Houjou",
+            "native": "北條史也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/155558"
+        }
+      },
+      {
+        "role": "Concept Art",
+        "node": {
+          "id": 169418,
+          "name": {
+            "first": "Nobuyuki",
+            "last": "Yanai",
+            "native": "梁井信之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n169418-VgBqdk4XCorA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n169418-VgBqdk4XCorA.png"
+          },
+          "description": "**Nobuyuki Yanai** is an artist.",
+          "siteUrl": "https://anilist.co/staff/169418"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 211517,
+          "name": {
+            "first": "Aya",
+            "last": "Kuginuki",
+            "native": "釘貫彩"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Aya Kuginuki is an art director and background artist.",
+          "siteUrl": "https://anilist.co/staff/211517"
+        }
+      },
+      {
+        "role": "Original Yo-kai Design",
+        "node": {
+          "id": 151217,
+          "name": {
+            "first": "Miho",
+            "last": "Tanaka",
+            "native": "田中美穂"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "\n_Note: Not to be confused with the [color designer](https://anilist.co/staff/120600/)._",
+          "siteUrl": "https://anilist.co/staff/151217"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 218225,
+          "name": {
+            "first": "Nahomi",
+            "last": "Yamamichi",
+            "native": "山道奈保美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/218225"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 187487,
+          "name": {
+            "first": "Mayumi",
+            "last": "Komori",
+            "native": "小守真由美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/187487"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 149416,
+          "name": {
+            "first": "Toshiya",
+            "last": "Yamada",
+            "native": "山田俊也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n149416-Gwprb2VIDPkb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n149416-Gwprb2VIDPkb.png"
+          },
+          "description": "[Twitter](https://twitter.com/yamatoshi07) | [Wiki (jp)](https://ja.wikipedia.org/wiki/山田俊也)",
+          "siteUrl": "https://anilist.co/staff/149416"
+        }
+      },
+      {
+        "role": "Production Desk (eps 22-36)",
+        "node": {
+          "id": 317128,
+          "name": {
+            "first": "Daiki",
+            "last": "Komine",
+            "native": "小峰大輝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n317128-M4o3CXlreUNd.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n317128-M4o3CXlreUNd.jpg"
+          },
+          "description": "Production Desk at [OLM](https://anilist.co/studio/28).",
+          "siteUrl": "https://anilist.co/staff/317128"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 28,
+          "name": "OLM",
+          "siteUrl": "https://anilist.co/studio/28"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 207,
+          "name": "Magic Bus",
+          "siteUrl": "https://anilist.co/studio/207"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 281341,
+          "airingAt": 1554456300,
+          "episode": 1,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281342,
+          "airingAt": 1555061100,
+          "episode": 2,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281343,
+          "airingAt": 1555665900,
+          "episode": 3,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281344,
+          "airingAt": 1556270700,
+          "episode": 4,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281345,
+          "airingAt": 1556875500,
+          "episode": 5,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281346,
+          "airingAt": 1557480300,
+          "episode": 6,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281347,
+          "airingAt": 1558085100,
+          "episode": 7,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281348,
+          "airingAt": 1558689900,
+          "episode": 8,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281349,
+          "airingAt": 1559294700,
+          "episode": 9,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281350,
+          "airingAt": 1559899500,
+          "episode": 10,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281351,
+          "airingAt": 1560504300,
+          "episode": 11,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281352,
+          "airingAt": 1561109100,
+          "episode": 12,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281353,
+          "airingAt": 1561713900,
+          "episode": 13,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281354,
+          "airingAt": 1562318700,
+          "episode": 14,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281355,
+          "airingAt": 1562923500,
+          "episode": 15,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281356,
+          "airingAt": 1563528300,
+          "episode": 16,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281357,
+          "airingAt": 1564133100,
+          "episode": 17,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281358,
+          "airingAt": 1564737900,
+          "episode": 18,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281359,
+          "airingAt": 1565342700,
+          "episode": 19,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281360,
+          "airingAt": 1565947500,
+          "episode": 20,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281361,
+          "airingAt": 1566552300,
+          "episode": 21,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281362,
+          "airingAt": 1567157100,
+          "episode": 22,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281363,
+          "airingAt": 1567761900,
+          "episode": 23,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281364,
+          "airingAt": 1568366700,
+          "episode": 24,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 281365,
+          "airingAt": 1568971500,
+          "episode": 25,
+          "mediaId": 108767,
+          "media": {
+            "id": 108767
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 8949,
+      "rank": 89,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 9140,
+      "rank": 20,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2019,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 9180,
+      "rank": 30,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 2019,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 64720,
+          "rating": 2,
+          "media": {
+            "id": 108767,
+            "title": {
+              "native": "妖怪ウォッチ!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 19157,
+            "title": {
+              "native": "妖怪ウォッチ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 104512,
+          "rating": 2,
+          "media": {
+            "id": 108767,
+            "title": {
+              "native": "妖怪ウォッチ!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 527,
+            "title": {
+              "native": "ポケットモンスター"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 104514,
+          "rating": 1,
+          "media": {
+            "id": 108767,
+            "title": {
+              "native": "妖怪ウォッチ!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2471,
+            "title": {
+              "native": "ドラえもん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 251217,
+          "rating": 2,
+          "media": {
+            "id": 108767,
+            "title": {
+              "native": "妖怪ウォッチ!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 130706,
+            "title": {
+              "native": "悪魔くん (ONA)"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 16
+      },
+      {
+        "score": 20,
+        "amount": 5
+      },
+      {
+        "score": 30,
+        "amount": 17
+      },
+      {
+        "score": 40,
+        "amount": 29
+      },
+      {
+        "score": 50,
+        "amount": 75
+      },
+      {
+        "score": 60,
+        "amount": 112
+      },
+      {
+        "score": 70,
+        "amount": 125
+      },
+      {
+        "score": 80,
+        "amount": 89
+      },
+      {
+        "score": 90,
+        "amount": 61
+      },
+      {
+        "score": 100,
+        "amount": 62
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 139
+      },
+      {
+        "status": "PLANNING",
+        "amount": 545
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 976
+      },
+      {
+        "status": "DROPPED",
+        "amount": 138
+      },
+      {
+        "status": "PAUSED",
+        "amount": 62
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/108767",
+  "modNotes": null
+}

@@ -1,0 +1,358 @@
+{
+  "id": 37695,
+  "idMal": 7695,
+  "title": {
+    "native": "Zマジンガ",
+    "romaji": "Z Mazinger",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A retelling of Mazinger Z mixed with ancient Greek mythology with a modern touch.\n",
+  "startDate": {
+    "year": 1998,
+    "month": 9,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2000,
+    "month": 11,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 30,
+  "volumes": 5,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748876015,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37695-7rLy2tNhVEsr.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37695-7rLy2tNhVEsr.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b37695-7rLy2tNhVEsr.jpg",
+    "color": "#f1e450"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Mecha"
+  ],
+  "synonyms": [
+    "Z Majingā"
+  ],
+  "averageScore": null,
+  "meanScore": 63,
+  "popularity": 155,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 208,
+      "name": "Mythology",
+      "description": "Prominently features mythological elements, especially those from religious or cultural tradition.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 159,
+      "name": "Super Robot",
+      "description": "Prominently features large robots often piloted by hot-blooded protagonists.",
+      "category": "Theme-Sci-Fi-Mecha",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 170754,
+          "title": {
+            "native": "マジンガーZ 対 トランスフォーマー"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7372,
+          "name": {
+            "first": "Kouji",
+            "last": "Kabuto",
+            "native": "兜甲児",
+            "alternative": [
+              "Tommy Davis",
+              "Lance"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7372.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7372.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7372"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 20201,
+          "name": {
+            "first": "Sayaka",
+            "last": "Yumi",
+            "native": "弓さやか",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b20201-5K7xg28hCkTu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b20201-5K7xg28hCkTu.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/20201"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 25245,
+          "name": {
+            "first": "Hades",
+            "last": null,
+            "native": "ハーデス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/25245.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/25245.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/25245"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 22169,
+          "name": {
+            "first": "Zeus",
+            "last": null,
+            "native": "ゼウス",
+            "alternative": [
+              "Z Mazinger"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/22169.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/22169.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/22169"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97992,
+          "name": {
+            "first": "Gou",
+            "last": "Nagai",
+            "native": "永井豪"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97992-N7uzR2y78tfB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97992-N7uzR2y78tfB.png"
+          },
+          "description": "Kiyoshi Nagai, better known by the pen name Gou Nagai, is a Japanese manga artist and a prolific author of science fiction, fantasy, horror and erotica. He made his professional debut in 1967 with Meakashi Polikichi, but is best known for creating popular 1970s manga and anime series such as [Cutie Honey](https://anilist.co/manga/86168/Cutey-Honey/), [Devilman](https://anilist.co/manga/31474/Devilman/) and [Mazinger Z](https://anilist.co/manga/38773/Mazinger-Z/). He is credited with creating the super robot genre and for designing the first mecha robots piloted by a user from within a cockpit with Mazinger Z, and for pioneering the magical girl genre with Cutie Honey, the post-apocalyptic genre with [Violence Jack](https://anilist.co/manga/31442/Violence-Jack/), and the ecchi genre with [Harenchi Gakuen](https://anilist.co/manga/42808/Harenchi-Gakuen/). \n\nIn 2005, he became a Character Design professor at the Osaka University of Arts. He has been a member of the Tezuka Osamu Cultural Prize's nominating committee since 2009.",
+          "siteUrl": "https://anilist.co/staff/97992"
+        }
+      },
+      {
+        "role": "Translator (Spanish)",
+        "node": {
+          "id": 285853,
+          "name": {
+            "first": "Enric",
+            "last": "Joga",
+            "native": null
+          },
+          "language": "SPANISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/285853"
+        }
+      },
+      {
+        "role": "Translator (Spanish)",
+        "node": {
+          "id": 214718,
+          "name": {
+            "first": "Marc",
+            "last": "Bernabé",
+            "native": null
+          },
+          "language": "SPANISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n214718-EZfh6IyUJaQx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n214718-EZfh6IyUJaQx.png"
+          },
+          "description": "[Twitter](https://twitter.com/marcbernabe) |  [Official Website](https://www.japonesenvinetas.com)\n\nHe is a translator and interpreter of Japanese, with special emphasis on the translation of manga and anime, a field in which he has a background of hundreds of volumes and episodes translated. In addition, he's a  specialist in didactics of the Japanese language and culture for Spanish speakers. He also has published many books about Japan and Asia.\n\nHe is famous for appearing in a Shin-chan's episode where the family goes to Spain.",
+          "siteUrl": "https://anilist.co/staff/214718"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 43456,
+          "rating": 1,
+          "media": {
+            "id": 37695,
+            "title": {
+              "native": "Zマジンガ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 38773,
+            "title": {
+              "native": "マジンガーZ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 100337,
+          "rating": 1,
+          "media": {
+            "id": 37695,
+            "title": {
+              "native": "Zマジンガ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 92702,
+            "title": {
+              "native": "グレンダイザー ギガ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 6
+      },
+      {
+        "score": 70,
+        "amount": 13
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 13
+      },
+      {
+        "status": "PLANNING",
+        "amount": 81
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 46
+      },
+      {
+        "status": "DROPPED",
+        "amount": 7
+      },
+      {
+        "status": "PAUSED",
+        "amount": 8
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/37695",
+  "modNotes": null
+}

@@ -1,0 +1,425 @@
+{
+  "id": 110599,
+  "idMal": 121294,
+  "title": {
+    "native": "HELLO WORLD",
+    "romaji": "HELLO WORLD",
+    "english": "HELLO WORLD: The Manga"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Naomi, a shy teenage bookworm, is visited by his future self and tasked with fixing his biggest regret–his classmate and soon-to-be-girlfriend Ruri is going to die from an accident soon after they begin dating. But his chance to alter the future soon turns out to be far more complicated, as the very world the teens live in isn’t quite what it seems.\n<br><br>\n(Source: Seven Seas Entertainment)",
+  "startDate": {
+    "year": 2019,
+    "month": 7,
+    "day": 20
+  },
+  "endDate": {
+    "year": 2020,
+    "month": 3,
+    "day": 19
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 10,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": "#ハローワールド",
+  "trailer": null,
+  "updatedAt": 1748861795,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110599-4ZfA4SeovNz5.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110599-4ZfA4SeovNz5.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx110599-4ZfA4SeovNz5.jpg",
+    "color": "#f1c9ae"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Romance",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "HELLO WORLD เธอ.ฉัน.โลก.เรา"
+  ],
+  "averageScore": 66,
+  "meanScore": 69,
+  "popularity": 1620,
+  "favourites": 34,
+  "tags": [
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 779,
+      "name": "Kuudere",
+      "description": "Prominently features a character who generally retains a cold, blunt and cynical exterior, but once one gets to know them, they have a very warm and loving interior.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 96,
+      "name": "Time Manipulation",
+      "description": "Prominently features time-traveling or other time-warping phenomena.",
+      "category": "Theme-Sci-Fi",
+      "rank": 20,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 106240,
+          "title": {
+            "native": "HELLO WORLD"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 142131,
+          "name": {
+            "first": "Ruri",
+            "last": "Ichigyou",
+            "native": "一行瑠璃",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142131-tPOm5OKo9Yof.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142131-tPOm5OKo9Yof.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/142131"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 142133,
+          "name": {
+            "first": "Naomi",
+            "last": "Katagaki",
+            "native": "堅書直実",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142133-PnSHMPGyggnU.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142133-PnSHMPGyggnU.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/142133"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 142126,
+          "name": {
+            "first": "Karasu",
+            "last": null,
+            "native": "カラス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142126-yJKSyxABpfwS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142126-yJKSyxABpfwS.png"
+          },
+          "siteUrl": "https://anilist.co/character/142126"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 142129,
+          "name": {
+            "first": "Naomi",
+            "last": "Katagaki",
+            "native": "カタガキナオミ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142129-xMceYebBgmUb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142129-xMceYebBgmUb.png"
+          },
+          "siteUrl": "https://anilist.co/character/142129"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 142127,
+          "name": {
+            "first": "Yiyi",
+            "last": "Xu",
+            "native": "シュー・イーイー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142127-5MPDC4rDPmF3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142127-5MPDC4rDPmF3.png"
+          },
+          "siteUrl": "https://anilist.co/character/142127"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 142128,
+          "name": {
+            "first": "Tsunehisa",
+            "last": "Senko",
+            "native": "千古恒久",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142128-3wTm02miovEN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142128-3wTm02miovEN.png"
+          },
+          "siteUrl": "https://anilist.co/character/142128"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 142132,
+          "name": {
+            "first": "Misuzu",
+            "last": "Kadenokouji",
+            "native": "勘解由小路美鈴",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142132-u5fYSPBPT0yE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142132-u5fYSPBPT0yE.png"
+          },
+          "siteUrl": "https://anilist.co/character/142132"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 118863,
+          "name": {
+            "first": "Manatsu",
+            "last": "Suzuki",
+            "native": "鈴木マナツ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118863-w2OiitMxmbJb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118863-w2OiitMxmbJb.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/suzuki_cb) | [Tumblr](https://suzukicb.tumblr.com/)",
+          "siteUrl": "https://anilist.co/staff/118863"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 142093,
+          "name": {
+            "first": "Yoshihiro",
+            "last": "Sono",
+            "native": "曽野由大"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142093-JGK8NaNO5Gm5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n142093-JGK8NaNO5Gm5.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/142093"
+        }
+      },
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 121380,
+          "name": {
+            "first": "Mado",
+            "last": "Nozaki",
+            "native": "野﨑まど"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121380-gYJILmt95EQs.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121380-gYJILmt95EQs.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/121380"
+        }
+      },
+      {
+        "role": "Translator (English)",
+        "node": {
+          "id": 219451,
+          "name": {
+            "first": "Beni Axia",
+            "last": "Conrad",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/219451"
+        }
+      },
+      {
+        "role": "Touch-up Art & Lettering",
+        "node": {
+          "id": 224607,
+          "name": {
+            "first": "Carlo",
+            "last": "Vanstiphout",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n224607-FH6oRE7J5iwL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n224607-FH6oRE7J5iwL.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/224607"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 22309,
+      "url": "https://shonenjumpplus.com/episode/10834108156670004868",
+      "site": "Shonen Jump Plus"
+    },
+    {
+      "id": 33271,
+      "url": "https://sevenseasentertainment.com/series/hello-world-the-manga/",
+      "site": "Seven Seas Entertainment"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 5
+      },
+      {
+        "score": 30,
+        "amount": 10
+      },
+      {
+        "score": 40,
+        "amount": 18
+      },
+      {
+        "score": 50,
+        "amount": 40
+      },
+      {
+        "score": 60,
+        "amount": 50
+      },
+      {
+        "score": 70,
+        "amount": 101
+      },
+      {
+        "score": 80,
+        "amount": 84
+      },
+      {
+        "score": 90,
+        "amount": 53
+      },
+      {
+        "score": 100,
+        "amount": 26
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 196
+      },
+      {
+        "status": "PLANNING",
+        "amount": 796
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 566
+      },
+      {
+        "status": "DROPPED",
+        "amount": 34
+      },
+      {
+        "status": "PAUSED",
+        "amount": 28
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/110599",
+  "modNotes": null
+}

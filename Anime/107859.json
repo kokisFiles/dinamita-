@@ -1,0 +1,506 @@
+{
+  "id": 107859,
+  "idMal": 38011,
+  "title": {
+    "native": "Hello WeGo!",
+    "romaji": "Hello WeGo!",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2019,
+    "month": 3,
+    "day": 9
+  },
+  "endDate": {
+    "year": 2019,
+    "month": 3,
+    "day": 9
+  },
+  "season": "WINTER",
+  "seasonYear": 2019,
+  "seasonInt": 191,
+  "episodes": 1,
+  "duration": 23,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748777531,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107859-NvfntMqxzjRI.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107859-NvfntMqxzjRI.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx107859-NvfntMqxzjRI.jpg",
+    "color": "#e4d643"
+  },
+  "bannerImage": null,
+  "genres": [],
+  "synonyms": [
+    "2019 Young Animator Training Project",
+    "Anime Mirai 2019",
+    "Anime Tamago 2019"
+  ],
+  "averageScore": 48,
+  "meanScore": 55,
+  "popularity": 314,
+  "favourites": 0,
+  "tags": [],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 107857,
+          "title": {
+            "native": "キャプテン・バル"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 107858,
+          "title": {
+            "native": "チャックシメゾウ"
+          }
+        },
+        "relationType": "OTHER"
+      },
+      {
+        "node": {
+          "id": 107860,
+          "title": {
+            "native": "斗え! スペースアテンダントアオイ"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 119984,
+          "title": {
+            "native": "万能変化メカトロウィーゴ"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 153842,
+          "name": {
+            "first": "Akira",
+            "last": "Aoyama",
+            "native": "青山アキラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b153842-8Yos10yWjzsI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b153842-8Yos10yWjzsI.png"
+          },
+          "siteUrl": "https://anilist.co/character/153842"
+        },
+        "voiceActors": [
+          {
+            "id": 105013,
+            "name": {
+              "first": "Mutsumi",
+              "last": "Tamura",
+              "native": "田村睦心"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105013-DffN0XN2Zw7G.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105013-DffN0XN2Zw7G.png"
+            },
+            "siteUrl": "https://anilist.co/staff/105013"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 153843,
+          "name": {
+            "first": "Michiyo",
+            "last": "Ashita",
+            "native": "明日ミチヨ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b153843-yz0oEluozv6I.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b153843-yz0oEluozv6I.png"
+          },
+          "siteUrl": "https://anilist.co/character/153843"
+        },
+        "voiceActors": [
+          {
+            "id": 106833,
+            "name": {
+              "first": "Toshiko",
+              "last": "Sawada",
+              "native": "沢田敏子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106833-23lZsptjXOVT.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106833-23lZsptjXOVT.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/106833"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 153844,
+          "name": {
+            "first": "Satoru",
+            "last": "Ashita",
+            "native": "明日サトル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b153844-ZZkUv06IDMdw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b153844-ZZkUv06IDMdw.png"
+          },
+          "siteUrl": "https://anilist.co/character/153844"
+        },
+        "voiceActors": [
+          {
+            "id": 112215,
+            "name": {
+              "first": "Atsumi",
+              "last": "Tanezaki",
+              "native": "種﨑敦美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112215-kfABGD8W2YSJ.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/112215"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 153845,
+          "name": {
+            "first": "Namami",
+            "last": "Aiso",
+            "native": "相蘓ナナミ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b153845-EHBRzPFiXfQL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b153845-EHBRzPFiXfQL.png"
+          },
+          "siteUrl": "https://anilist.co/character/153845"
+        },
+        "voiceActors": [
+          {
+            "id": 101686,
+            "name": {
+              "first": "Aoi",
+              "last": "Yuuki",
+              "native": "悠木碧"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101686-PTd0lQZMsmcv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/101686"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 153846,
+          "name": {
+            "first": "Genkichi",
+            "last": "Domon",
+            "native": "土門ゲンキチ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b153846-GpRjStUwpV4G.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b153846-GpRjStUwpV4G.png"
+          },
+          "siteUrl": "https://anilist.co/character/153846"
+        },
+        "voiceActors": [
+          {
+            "id": 95255,
+            "name": {
+              "first": "Shigeru",
+              "last": "Chiba",
+              "native": "千葉繁"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95255-VOwYfPMZuZGQ.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95255-VOwYfPMZuZGQ.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95255"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 124580,
+          "name": {
+            "first": "Yuka",
+            "last": "Shibata",
+            "native": "柴田由香"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124580-ucz0S4B63tZ1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124580-ucz0S4B63tZ1.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/265623665) | [Website](https://atelierub.jimdofree.com/)\n\nMarried to [Ryouji Masuyama](https://anilist.co/staff/100952/).",
+          "siteUrl": "https://anilist.co/staff/124580"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 124580,
+          "name": {
+            "first": "Yuka",
+            "last": "Shibata",
+            "native": "柴田由香"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124580-ucz0S4B63tZ1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124580-ucz0S4B63tZ1.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/265623665) | [Website](https://atelierub.jimdofree.com/)\n\nMarried to [Ryouji Masuyama](https://anilist.co/staff/100952/).",
+          "siteUrl": "https://anilist.co/staff/124580"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100952,
+          "name": {
+            "first": "Ryouji",
+            "last": "Masuyama",
+            "native": "益山亮司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100952-nG9Au8ShFy0K.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100952-nG9Au8ShFy0K.png"
+          },
+          "description": "[Twitter](https://twitter.com/masuyama56)\n\nMarried to [Yuka Shibata](https://anilist.co/staff/124580/).",
+          "siteUrl": "https://anilist.co/staff/100952"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 120031,
+          "name": {
+            "first": "Masakazu",
+            "last": "Miyake",
+            "native": "三宅昌和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120031-6h2vmQpILEPw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n120031-6h2vmQpILEPw.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/120031"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 142580,
+          "name": {
+            "first": "Akinori ",
+            "last": "Mishima",
+            "native": "三嶋章紀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/142580"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 138501,
+          "name": {
+            "first": "Maiko",
+            "last": "Okada",
+            "native": "岡田麻衣子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n138501-evjQ7uB2jgmm.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n138501-evjQ7uB2jgmm.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/mathimekomachi) \n\nAnimation Producer at [Wit Studio](https://anilist.co/studio/858/).\n\nMarried to [Yoshimichi Kameda](https://anilist.co/staff/105635)",
+          "siteUrl": "https://anilist.co/staff/138501"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 153847,
+          "name": {
+            "first": "Chiaki",
+            "last": "Fukui",
+            "native": "福井千耀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "__Chiaki Fukui__ is a Japanese photographer, who also provides assistance to the direction of photography in some series.",
+          "siteUrl": "https://anilist.co/staff/153847"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 858,
+          "name": "WIT STUDIO",
+          "siteUrl": "https://anilist.co/studio/858"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 8449,
+      "url": "https://animetamago.jp/title.php?id=1",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 18814,
+      "rank": 78,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 18899,
+      "rank": 78,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 9
+      },
+      {
+        "score": 50,
+        "amount": 15
+      },
+      {
+        "score": 60,
+        "amount": 11
+      },
+      {
+        "score": 70,
+        "amount": 8
+      },
+      {
+        "score": 80,
+        "amount": 8
+      },
+      {
+        "score": 90,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 12
+      },
+      {
+        "status": "PLANNING",
+        "amount": 193
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 82
+      },
+      {
+        "status": "DROPPED",
+        "amount": 16
+      },
+      {
+        "status": "PAUSED",
+        "amount": 11
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/107859",
+  "modNotes": null
+}

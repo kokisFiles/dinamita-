@@ -1,0 +1,823 @@
+{
+  "id": 34608,
+  "idMal": 4608,
+  "title": {
+    "native": "ブレイクブレイド",
+    "romaji": "Break Blade",
+    "english": "Broken Blade"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Rygart Arrow is the only one in his world who lacks the inherent ability to power up quartz, the energy source that makes all of the machines run. Good thing the King and Queen of his country of Krisna happen to be old college friends! But so is Zess, the leader of the army of mechs invading Krisna. As usual, Arrow feels useless in the face of battle, until he comes across a powerful, ancient battle suit that no one else can run. His natural affinity for the suit's operating mechanism may just turn Arrow into the most important player of all.<br><br>\n(Source: CMX)",
+  "startDate": {
+    "year": 2007,
+    "month": 4,
+    "day": 10
+  },
+  "endDate": {
+    "year": 2022,
+    "month": 10,
+    "day": 12
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 104,
+  "volumes": 20,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748906401,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34608-hCb6DaK2EqWE.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34608-hCb6DaK2EqWE.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx34608-hCb6DaK2EqWE.png",
+    "color": "#e4d66b"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/34608-S80YpHs5XCrj.jpg",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Mecha"
+  ],
+  "synonyms": [],
+  "averageScore": 73,
+  "meanScore": 74,
+  "popularity": 4047,
+  "favourites": 66,
+  "tags": [
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 111,
+      "name": "War",
+      "description": "Partly or completely set during wartime.",
+      "category": "Theme-Other",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 93,
+      "name": "Post-Apocalyptic",
+      "description": "Partly or completely set in a world or civilization after a global disaster.",
+      "category": "Setting-Universe",
+      "rank": 33,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 6772,
+          "title": {
+            "native": "ブレイク ブレイド 覚醒ノ刻"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 8514,
+          "title": {
+            "native": "ブレイクブレイド 訣別ノ路"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 9465,
+          "title": {
+            "native": "ブレイク ブレイド 第四章 惨禍ノ地"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 9724,
+          "title": {
+            "native": "ブレイク ブレイド 死線ノ涯"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 10092,
+          "title": {
+            "native": "ブレイク ブレイド 第六章 慟哭ノ砦"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 9252,
+          "title": {
+            "native": "ブレイク ブレイド 第三章 凶刃ノ痕"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 20618,
+          "title": {
+            "native": "ブレイク ブレイド"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 28203,
+          "name": {
+            "first": "Zess",
+            "last": null,
+            "native": "ゼス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/28203.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28203.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28203"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 28202,
+          "name": {
+            "first": "Hodr",
+            "last": null,
+            "native": "ホズル",
+            "alternative": [
+              "Krisna the 9th"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/28202.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/28202.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/28202"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 21292,
+          "name": {
+            "first": "Rygart",
+            "last": "Arrow",
+            "native": "ライガット・アロー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21292.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21292.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21292"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 21293,
+          "name": {
+            "first": "Sigyn",
+            "last": "Erster",
+            "native": "シギュン・エルステル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/21293.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/21293.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/21293"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43204,
+          "name": {
+            "first": "Bades",
+            "last": null,
+            "native": "バデス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/43204.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43204.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43204"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45385,
+          "name": {
+            "first": "Elsa",
+            "last": null,
+            "native": "エルザ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45385.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45385.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45385"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35095,
+          "name": {
+            "first": "Nike",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/35095.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/35095.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/35095"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31650,
+          "name": {
+            "first": "Sakura",
+            "last": null,
+            "native": "サクラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31650.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31650.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31650"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35097,
+          "name": {
+            "first": "Io",
+            "last": null,
+            "native": "イオ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/35097.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/35097.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/35097"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31651,
+          "name": {
+            "first": "Elekt",
+            "last": null,
+            "native": "エレクト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31651.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31651.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31651"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 30140,
+          "name": {
+            "first": "Baldr",
+            "last": null,
+            "native": "バルド",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/30140.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/30140.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/30140"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 40193,
+          "name": {
+            "first": "Loquis",
+            "last": null,
+            "native": "ロキス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/40193.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/40193.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/40193"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31652,
+          "name": {
+            "first": "Argath",
+            "last": null,
+            "native": "アルガス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31652.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31652.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31652"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 30141,
+          "name": {
+            "first": "True",
+            "last": null,
+            "native": "トゥル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/30141.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/30141.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/30141"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 40194,
+          "name": {
+            "first": "Leda",
+            "last": null,
+            "native": "レダ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/40194.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/40194.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/40194"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31653,
+          "name": {
+            "first": "Girge",
+            "last": null,
+            "native": "ジルグ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31653.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31653.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31653"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31632,
+          "name": {
+            "first": "Lee",
+            "last": null,
+            "native": "リィ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31632.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31632.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31632"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43195,
+          "name": {
+            "first": "Leto",
+            "last": null,
+            "native": "レト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/43195.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43195.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43195"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 32740,
+          "name": {
+            "first": "Bolgis",
+            "last": null,
+            "native": "ボルキュス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/32740.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/32740.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/32740"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 32827,
+          "name": {
+            "first": "Regarz",
+            "last": "Arrow",
+            "native": "レガッツ・アロー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/32827.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/32827.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/32827"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31649,
+          "name": {
+            "first": "Logen",
+            "last": "G. Garf Ensance",
+            "native": "ロギン・ジー・ガルフ・エンサンス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31649.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31649.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31649"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31648,
+          "name": {
+            "first": "Nile",
+            "last": "Stryze",
+            "native": "ナイル・ストライズ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31648.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31648.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31648"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 29513,
+          "name": {
+            "first": "Narvi",
+            "last": "Stryze",
+            "native": "ナルヴィ・ストライズ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29513.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29513.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29513"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 29447,
+          "name": {
+            "first": "Cleo",
+            "last": "Zaubraff",
+            "native": "クレオ・サーブラフ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29447.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29447.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29447"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 100155,
+          "name": {
+            "first": "Yunosuke",
+            "last": "Yoshinaga",
+            "native": "吉永裕ノ介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100155-QpCJtfvwdL3J.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100155-QpCJtfvwdL3J.png"
+          },
+          "description": "[Twitter](https://twitter.com/yoshinaga909)",
+          "siteUrl": "https://anilist.co/staff/100155"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 17634,
+      "url": "https://comic-meteor.jp/breakblade/",
+      "site": "Comic Meteor"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 27422,
+      "rank": 57,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 27518,
+      "rank": 53,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 23437,
+          "rating": 5,
+          "media": {
+            "id": 34608,
+            "title": {
+              "native": "ブレイクブレイド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 97153,
+            "title": {
+              "native": "ナイツ＆マジック"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 25289,
+          "rating": 1,
+          "media": {
+            "id": 34608,
+            "title": {
+              "native": "ブレイクブレイド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31659,
+            "title": {
+              "native": "ファイブスター物語"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 25393,
+          "rating": 3,
+          "media": {
+            "id": 34608,
+            "title": {
+              "native": "ブレイクブレイド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 111454,
+            "title": {
+              "native": "天牢のアヴァロン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 192791,
+          "rating": 3,
+          "media": {
+            "id": 34608,
+            "title": {
+              "native": "ブレイクブレイド"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31105,
+            "title": {
+              "native": "redEyes"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 17
+      },
+      {
+        "score": 40,
+        "amount": 23
+      },
+      {
+        "score": 50,
+        "amount": 49
+      },
+      {
+        "score": 60,
+        "amount": 96
+      },
+      {
+        "score": 70,
+        "amount": 186
+      },
+      {
+        "score": 80,
+        "amount": 222
+      },
+      {
+        "score": 90,
+        "amount": 187
+      },
+      {
+        "score": 100,
+        "amount": 79
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 1226
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1793
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 452
+      },
+      {
+        "status": "DROPPED",
+        "amount": 234
+      },
+      {
+        "status": "PAUSED",
+        "amount": 342
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/34608",
+  "modNotes": null
+}

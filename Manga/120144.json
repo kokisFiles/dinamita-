@@ -1,0 +1,690 @@
+{
+  "id": 120144,
+  "idMal": null,
+  "title": {
+    "native": "ダンガンロンパ 希望の学園と絶望の高校生",
+    "romaji": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A short manga adaption of the playable \"Trial Version\" of <i>Danganronpa: Trigger Happy Havoc</i>. It came bundled as a bonus for anyone who pre-ordered the game during its original release on the PSP through certain stores.\n",
+  "startDate": {
+    "year": 2010,
+    "month": 11,
+    "day": 25
+  },
+  "endDate": {
+    "year": 2010,
+    "month": 11,
+    "day": 25
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 3,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747910119,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120144-MlCycl3nQhmJ.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120144-MlCycl3nQhmJ.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx120144-MlCycl3nQhmJ.jpg",
+    "color": "#863528"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Danganronpa 1 (Trial Version)",
+    "Danganronpa The Demo",
+    "Danganronpa: Academy of Hope and High School Students of Despair"
+  ],
+  "averageScore": 52,
+  "meanScore": 63,
+  "popularity": 409,
+  "favourites": 8,
+  "tags": [
+    {
+      "id": 615,
+      "name": "Death Game",
+      "description": "Features characters participating in a game, where failure results in death.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 16592,
+          "title": {
+            "native": "ダンガンロンパ 希望の学園と絶望の高校生 The Animation"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65533,
+          "name": {
+            "first": "Yasuhiro",
+            "last": "Hagakure",
+            "native": "葉隠康比呂",
+            "alternative": [
+              "Hiro",
+              "Taro",
+              "Afro Thunder",
+              "Ultimate Clairvoyant",
+              "Super Super High School-Level Fortune-Teller"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65533-TTk8RyEQaoSe.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65533-TTk8RyEQaoSe.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/65533"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 63845,
+          "name": {
+            "first": "Kyouko",
+            "last": "Kirigiri",
+            "native": "霧切響子",
+            "alternative": [
+              "Kyoko Kirigiri",
+              "Miss Conan",
+              "Ultimate ???",
+              "Super High School Level ???",
+              "超高校級の???"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63845-43rWjycWhYFF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b63845-43rWjycWhYFF.png"
+          },
+          "siteUrl": "https://anilist.co/character/63845"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65543,
+          "name": {
+            "first": "Kiyotaka",
+            "last": "Ishimaru",
+            "native": "石丸清多夏",
+            "alternative": [
+              "Taka",
+              "Tick Tock",
+              "Ultimate Moral Compass",
+              "Super High School Level Public Morals (超高校級の風紀委員)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65543-eyfH7fv9FMw9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65543-eyfH7fv9FMw9.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/65543"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 66573,
+          "name": {
+            "first": "Chihiro",
+            "last": "Fujisaki",
+            "native": "不二咲千尋",
+            "alternative": [
+              "Ultimate Programmer",
+              "Super High School Level Programmer (超高校級のプログラマー)",
+              "Chi-tan",
+              "Master"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66573-a2VZm5cfacP5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b66573-a2VZm5cfacP5.png"
+          },
+          "siteUrl": "https://anilist.co/character/66573"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65537,
+          "name": {
+            "first": "Leon",
+            "last": "Kuwata",
+            "native": "桑田怜恩",
+            "alternative": [
+              "Ultimate Baseball Star",
+              "超高校級の野球選手",
+              "Super High School Level Baseball Player"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65537-SwnvmZnRJlTa.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65537-SwnvmZnRJlTa.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/65537"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65535,
+          "name": {
+            "first": "Hifumi",
+            "last": "Yamada",
+            "native": "山田一二三",
+            "alternative": [
+              "Huffy",
+              "Super High-school Level Doujin Author"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65535-fHBwpeiOuPsL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65535-fHBwpeiOuPsL.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/65535"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 63851,
+          "name": {
+            "first": "Makoto",
+            "last": "Naegi",
+            "native": "苗木誠",
+            "alternative": [
+              "Ultimate Lucky Student",
+              "Super High School-Level Lucky Student",
+              "Super High School Level Good Luck (超高校級の幸運)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63851-PnzyOWEPVPHD.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b63851-PnzyOWEPVPHD.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/63851"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65539,
+          "name": {
+            "first": "Mondo",
+            "last": "Oowada",
+            "native": "大和田紋土",
+            "alternative": [
+              "Owada",
+              "Ultimate Biker Gang Leader",
+              "超高校級の暴走族",
+              "Super High School Level Gang Leader"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65539-zX1oS4BXtgma.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65539-zX1oS4BXtgma.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/65539"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65529,
+          "name": {
+            "first": "Touko",
+            "last": "Fukawa",
+            "native": "腐川冬子",
+            "alternative": [
+              "Ultimate Writing Prodigy (超高校級の文学少女)",
+              "Super High School Level Literary Girl"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65529-oy5acbdyUy4r.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65529-oy5acbdyUy4r.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/65529"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65531,
+          "name": {
+            "first": "Aoi",
+            "last": "Asahina",
+            "native": "朝日奈葵",
+            "alternative": [
+              "Hina",
+              "Ultimate Swimming Pro",
+              "超高校級のスイマー",
+              "Super High School Level Swimmer"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65531-zem6Bi2RRK2Q.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65531-zem6Bi2RRK2Q.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/65531"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65541,
+          "name": {
+            "first": "Byakuya",
+            "last": "Togami",
+            "native": "十神白夜",
+            "alternative": [
+              "Ultimate Affluent Progeny",
+              "超高校級の御曹司",
+              "Super High School Level Heir"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65541-Nha4B0vJIkFA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65541-Nha4B0vJIkFA.png"
+          },
+          "siteUrl": "https://anilist.co/character/65541"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 63849,
+          "name": {
+            "first": "Sayaka",
+            "last": "Maizono",
+            "native": "舞園さやか",
+            "alternative": [
+              "Ultimate Pop Sensation",
+              "超高校級のアイドル",
+              "Super High School Level Idol"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63849-f6gLkSTqDuEG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b63849-f6gLkSTqDuEG.png"
+          },
+          "siteUrl": "https://anilist.co/character/63849"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65523,
+          "name": {
+            "first": "Junko",
+            "last": "Enoshima",
+            "native": "江ノ島盾子",
+            "alternative": [
+              "Super High School Level Gyaru",
+              "Super High School Level Gal",
+              "超高校級のギャル",
+              "Ultimate Fashionista"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65523-OztiX9PhydrG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65523-OztiX9PhydrG.png"
+          },
+          "siteUrl": "https://anilist.co/character/65523"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 73235,
+          "name": {
+            "first": "Monokuma",
+            "last": null,
+            "native": "モノクマ",
+            "alternative": [
+              "Ultimate Despair Headmaster",
+              "Monobear"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73235-74a7Y1lzFnDv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b73235-74a7Y1lzFnDv.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/73235"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 75434,
+          "name": {
+            "first": "Sakura",
+            "last": "Oogami",
+            "native": "大神さくら",
+            "alternative": [
+              "Ogami",
+              "Ogre",
+              "Ultimate Martial Artist",
+              "Super High School Level Fighter ( 超高校級の格闘家)",
+              "Super High School-Level Grappler"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75434-KFXsL2xG9Ckm.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b75434-KFXsL2xG9Ckm.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/75434"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65525,
+          "name": {
+            "first": "Celestia",
+            "last": "Ludenberg",
+            "native": "セレスティア・ルーデンベルク",
+            "alternative": [
+              "Celeste",
+              "Celes",
+              "Queen of Liars",
+              "Ultimate Gambler",
+              "超高校級のギャンブラー",
+              "Super High School Level Gambler"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65525-BoB482T3oEoN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b65525-BoB482T3oEoN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/65525"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 112899,
+          "name": {
+            "first": "Hajime",
+            "last": "Touya",
+            "native": "燈谷朔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/112899"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 112897,
+          "name": {
+            "first": "Spike Chunsoft",
+            "last": "",
+            "native": "スパイク・チュンソフト"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112897-uhJPwQyvgb29.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112897-uhJPwQyvgb29.jpg"
+          },
+          "description": "[Website](https://www.spike-chunsoft.co.jp/) | [Twitter](https://www.spike-chunsoft.co.jp/)\n\nSpike is a game content planning, developing and managing company. Spike and Chunsoft merged in 2012 as Spike Chunsoft.",
+          "siteUrl": "https://anilist.co/staff/112897"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 49211,
+          "rating": 3,
+          "media": {
+            "id": 120144,
+            "title": {
+              "native": "ダンガンロンパ 希望の学園と絶望の高校生"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 67917,
+            "title": {
+              "native": "ダンガンロンパ 希望の学園と絶望の高校生"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 386953,
+          "rating": 2,
+          "media": {
+            "id": 120144,
+            "title": {
+              "native": "ダンガンロンパ 希望の学園と絶望の高校生"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 99747,
+            "title": {
+              "native": "ニューダンガンロンパV3 みんなのコロシアイ新学期 コミックアンソロジー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 386956,
+          "rating": 2,
+          "media": {
+            "id": 120144,
+            "title": {
+              "native": "ダンガンロンパ 希望の学園と絶望の高校生"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 115236,
+            "title": {
+              "native": "スーパーダンガンロンパ2 さよなら絶望学園"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 386958,
+          "rating": 1,
+          "media": {
+            "id": 120144,
+            "title": {
+              "native": "ダンガンロンパ 希望の学園と絶望の高校生"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 111596,
+            "title": {
+              "native": "スーパーダンガンロンパ２ 絶望的因果律の中の左右田和一"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 386960,
+          "rating": 2,
+          "media": {
+            "id": 120144,
+            "title": {
+              "native": "ダンガンロンパ 希望の学園と絶望の高校生"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 117632,
+            "title": {
+              "native": "ダンガンロンパ3 -The End of 希望ヶ峰学園- コミックアンソロジー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 386962,
+          "rating": 1,
+          "media": {
+            "id": 120144,
+            "title": {
+              "native": "ダンガンロンパ 希望の学園と絶望の高校生"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 94919,
+            "title": {
+              "native": "絶対絶望少女 ダンガンロンパ Another Episode ジェノサイダーモード"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 6
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 15
+      },
+      {
+        "score": 70,
+        "amount": 7
+      },
+      {
+        "score": 80,
+        "amount": 5
+      },
+      {
+        "score": 90,
+        "amount": 5
+      },
+      {
+        "score": 100,
+        "amount": 8
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 19
+      },
+      {
+        "status": "PLANNING",
+        "amount": 256
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 123
+      },
+      {
+        "status": "DROPPED",
+        "amount": 8
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/120144",
+  "modNotes": null
+}

@@ -1,0 +1,418 @@
+{
+  "id": 57419,
+  "idMal": 27419,
+  "title": {
+    "native": "ブレイブ・テン・スパイラル",
+    "romaji": "Brave 10 S",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A continuation of Brave 10. The main protagonist is an Iga ninja named Saizou, who meets an Izumo priestess and protects her on her short journey to Sanada Yukimura. Sanada Yukimura is a powerful warlord in the Sengoku era. Sanada wants to gather 10 warriors, a party unrivaled in skill and power, to set his still secret plan into action.\n",
+  "startDate": {
+    "year": 2011,
+    "month": 6,
+    "day": 15
+  },
+  "endDate": {
+    "year": 2016,
+    "month": 3,
+    "day": 15
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 48,
+  "volumes": 9,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747829491,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx57419-Y5DARy7sA8wJ.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx57419-Y5DARy7sA8wJ.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx57419-Y5DARy7sA8wJ.jpg",
+    "color": "#5daee4"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action"
+  ],
+  "synonyms": [
+    "Brave 10 Spiral"
+  ],
+  "averageScore": 55,
+  "meanScore": 66,
+  "popularity": 337,
+  "favourites": 6,
+  "tags": [
+    {
+      "id": 255,
+      "name": "Ninja",
+      "description": "Prominently features Japanese warriors traditionally trained in espionage, sabotage and assasination.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 53,
+      "name": "Shoujo",
+      "description": "Target demographic is teenage and young adult females.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 25,
+      "name": "Historical",
+      "description": "Partly or completely set during a real period of world history.",
+      "category": "Setting-Time",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 291,
+      "name": "Samurai",
+      "description": "Prominently features warriors of medieval Japanese nobility bound by a code of honor.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 11241,
+          "title": {
+            "native": "ブレイブ・テン"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 38850,
+          "title": {
+            "native": "ブレイヴ・テン"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 135723,
+          "title": {
+            "native": "殿といっしょ"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 49063,
+          "name": {
+            "first": "Isanami",
+            "last": null,
+            "native": "伊佐那海",
+            "alternative": [
+              "Miko"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/49063.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/49063.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/49063"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 46297,
+          "name": {
+            "first": "Saizo",
+            "last": "Kirigakure",
+            "native": "霧隠才蔵",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/46297.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/46297.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/46297"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 49065,
+          "name": {
+            "first": "Anastasia",
+            "last": null,
+            "native": "アナスタシア",
+            "alternative": [
+              "Ana",
+              "the Frozen Flower"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/49065.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/49065.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/49065"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 48693,
+          "name": {
+            "first": "Masamune",
+            "last": "Date",
+            "native": "伊達政宗",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/48693.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/48693.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/48693"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 48695,
+          "name": {
+            "first": "Hattori",
+            "last": "Hanzo",
+            "native": "服部半蔵",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/48695.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/48695.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/48695"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 48697,
+          "name": {
+            "first": "Kakei",
+            "last": "Juzo",
+            "native": "筧十蔵",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/48697.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/48697.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/48697"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 46303,
+          "name": {
+            "first": "Yukimura",
+            "last": "Sanada",
+            "native": "真田幸村",
+            "alternative": [
+              "Old Man"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/46303.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/46303.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/46303"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 46299,
+          "name": {
+            "first": "Sasuke",
+            "last": "Sarutobi",
+            "native": "猿飛佐助",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/46299.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/46299.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/46299"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 46301,
+          "name": {
+            "first": "Rokuro",
+            "last": "Unno",
+            "native": "海野六郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/46301.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/46301.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/46301"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45757,
+          "name": {
+            "first": "Kamanosuke",
+            "last": "Yuri",
+            "native": "由利鎌之介",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45757.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45757.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45757"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 99750,
+          "name": {
+            "first": "Kairi",
+            "last": "Shimotsuki",
+            "native": "霜月かいり"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99750-0dtpXjzSNDVz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99750-0dtpXjzSNDVz.jpg"
+          },
+          "description": "[Twitter](http://twitter.com/s_kaili) | [Blog](http://neneharu.blog.shinobi.jp/)",
+          "siteUrl": "https://anilist.co/staff/99750"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 29560,
+      "url": "https://comic.pixiv.net/works/1",
+      "site": "Pixiv Comic"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 6
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 6
+      },
+      {
+        "score": 60,
+        "amount": 12
+      },
+      {
+        "score": 70,
+        "amount": 17
+      },
+      {
+        "score": 80,
+        "amount": 14
+      },
+      {
+        "score": 90,
+        "amount": 9
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 41
+      },
+      {
+        "status": "PLANNING",
+        "amount": 186
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 91
+      },
+      {
+        "status": "DROPPED",
+        "amount": 7
+      },
+      {
+        "status": "PAUSED",
+        "amount": 12
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/57419",
+  "modNotes": null
+}

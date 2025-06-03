@@ -1,0 +1,428 @@
+{
+  "id": 116682,
+  "idMal": 139153,
+  "title": {
+    "native": "死神はきょうも舟を漕ぐ",
+    "romaji": "Shinigami wa Kyou mo Fune wo Kogu",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A Touhou manga featuring Komachi Onozuka, written by Azuma Aya and published in the official Strange Creators of Outer World magazine.",
+  "startDate": {
+    "year": 2019,
+    "month": 10,
+    "day": 28
+  },
+  "endDate": {
+    "year": 2020,
+    "month": 4,
+    "day": 26
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 6,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748956546,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116682-LudsalE0bugV.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116682-LudsalE0bugV.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx116682-LudsalE0bugV.jpg",
+    "color": "#e4ae5d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Touhou: The Shinigami's Rowing Her Boat as Usual"
+  ],
+  "averageScore": 66,
+  "meanScore": 77,
+  "popularity": 389,
+  "favourites": 17,
+  "tags": [
+    {
+      "id": 253,
+      "name": "Gods",
+      "description": "Prominently features a character of divine or religious nature.",
+      "category": "Cast-Traits",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 233,
+      "name": "Youkai",
+      "description": "Prominently features supernatural creatures from Japanese folklore.",
+      "category": "Theme-Fantasy",
+      "rank": 53,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 86,
+      "name": "Primarily Female Cast",
+      "description": "Main cast is mostly composed of female characters.",
+      "category": "Cast-Main Cast",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 51054,
+          "title": {
+            "native": "東方茨歌仙 ～ Wild and Horned Hermit"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5583,
+          "name": {
+            "first": "Komachi",
+            "last": "Onozuka",
+            "native": "小野塚小町",
+            "alternative": [
+              "Komachi Onoduka"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5583-yQ88b8rnMh8L.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5583-yQ88b8rnMh8L.png"
+          },
+          "siteUrl": "https://anilist.co/character/5583"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 87127,
+          "name": {
+            "first": "Eiki Shiki",
+            "last": "Yamaxanadu",
+            "native": "四季映姫・ヤマザナドゥ",
+            "alternative": [
+              "Shikieiki Yamaxanadu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87127-Rqop8S8HNdb5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b87127-Rqop8S8HNdb5.png"
+          },
+          "siteUrl": "https://anilist.co/character/87127"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 6019,
+          "name": {
+            "first": "Yukari",
+            "last": "Yakumo",
+            "native": "八雲紫",
+            "alternative": [
+              "Youkai of Boundaries",
+              "Border of Phantasm",
+              "Uncanny Smile",
+              "Gatekeeper of Gensokyo",
+              "Elusive and Two-Faced Youkai"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6019-TTrmMYmFi6OD.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b6019-TTrmMYmFi6OD.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/6019"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35307,
+          "name": {
+            "first": "Kasen",
+            "last": "Ibaraki",
+            "native": "茨木華扇 ",
+            "alternative": [
+              "Ibarakasen"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35307-jGHWBe9S93ov.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35307-jGHWBe9S93ov.png"
+          },
+          "siteUrl": "https://anilist.co/character/35307"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 174205,
+          "name": {
+            "first": "Mayumi",
+            "last": "Joutouguu",
+            "native": "杖刀偶磨弓",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174205-lO5YyWY08gZd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174205-lO5YyWY08gZd.png"
+          },
+          "siteUrl": "https://anilist.co/character/174205"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 174206,
+          "name": {
+            "first": "Keiki",
+            "last": "Haniyasushin",
+            "native": "埴安神袿姫",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174206-5D037CW55QFN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174206-5D037CW55QFN.png"
+          },
+          "siteUrl": "https://anilist.co/character/174206"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 182915,
+          "name": {
+            "first": "Kutaka",
+            "last": "Niwatari",
+            "native": "庭渡久侘歌",
+            "alternative": [
+              "Clerical God of Hell's Checkpoint"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b182915-MVcJbjwmI3AB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b182915-MVcJbjwmI3AB.png"
+          },
+          "siteUrl": "https://anilist.co/character/182915"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 145564,
+          "name": {
+            "first": "Aya",
+            "last": "Azuma",
+            "native": "あずまあや"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n145564-Y5izzh3sRPZk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n145564-Y5izzh3sRPZk.png"
+          },
+          "description": "[Website](https://www.azmaya.net/) | [Twitter](https://twitter.com/a_to_z) | [Pixiv](https://www.pixiv.net/users/9853)",
+          "siteUrl": "https://anilist.co/staff/145564"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97003,
+          "name": {
+            "first": "ZUN",
+            "last": "",
+            "native": "太田順也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97003-6IBGgxRYTCY6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97003-6IBGgxRYTCY6.jpg"
+          },
+          "description": "[Blog](https://kourindou.exblog.jp) | [Twitter](https://twitter.com/korindo) | [YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | [Official Website](http://www16.big.or.jp/~zun)\n\nThe sole known member of Team Shanghai Alice, and the designer, programmer, script writer, and composer of the extremely popular _Touhou Project_ series. He is seen to be rather reclusive, and thus very little is known about him except that he's very fond of beer. He was employed by Taito Corporation, and had been involved in the production of various Taito titles as a programmer.",
+          "siteUrl": "https://anilist.co/staff/97003"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 16259,
+      "url": "https://seiga.nicovideo.jp/comic/44567",
+      "site": "Nico Nico Seiga"
+    },
+    {
+      "id": 16260,
+      "url": "https://touhougarakuta.com/index_comic/shinigami/",
+      "site": "Official Site"
+    },
+    {
+      "id": 16261,
+      "url": "https://comic-walker.com/contents/detail/KDCW_AM21201275010000_68/",
+      "site": "ComicWalker"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 25340,
+          "rating": 6,
+          "media": {
+            "id": 116682,
+            "title": {
+              "native": "死神はきょうも舟を漕ぐ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 51054,
+            "title": {
+              "native": "東方茨歌仙 ～ Wild and Horned Hermit"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 257736,
+          "rating": 1,
+          "media": {
+            "id": 116682,
+            "title": {
+              "native": "死神はきょうも舟を漕ぐ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 150757,
+            "title": {
+              "native": "早苗さんは家出中!"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 10
+      },
+      {
+        "score": 70,
+        "amount": 23
+      },
+      {
+        "score": 80,
+        "amount": 33
+      },
+      {
+        "score": 90,
+        "amount": 24
+      },
+      {
+        "score": 100,
+        "amount": 17
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 16
+      },
+      {
+        "status": "PLANNING",
+        "amount": 157
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 216
+      },
+      {
+        "status": "DROPPED",
+        "amount": 0
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/116682",
+  "modNotes": null
+}

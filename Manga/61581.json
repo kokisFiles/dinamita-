@@ -1,0 +1,256 @@
+{
+  "id": 61581,
+  "idMal": 31581,
+  "title": {
+    "native": "メトロイド サムス&ジョイ",
+    "romaji": "Metroid: Samus and Joey",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Occurs several years after Samus Aran's raid on the Space Pirates at Zebes.\n<br><br>\n<i>Note: Chapter count includes 17 regular chapters and 1 extra.</i>",
+  "startDate": {
+    "year": 2002,
+    "month": 11,
+    "day": 15
+  },
+  "endDate": {
+    "year": 2004,
+    "month": 3,
+    "day": 15
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 18,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748792973,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/31581.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/31581.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/31581.jpg",
+    "color": "#f1f150"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/61581-swlEKFmC8ABl.jpg",
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Metroid Fusion: Rebirth of Samus"
+  ],
+  "averageScore": null,
+  "meanScore": 62,
+  "popularity": 102,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 63,
+      "name": "Space",
+      "description": "Partly or completely set in outer space.",
+      "category": "Setting-Universe",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 191,
+      "name": "Aliens",
+      "description": "Prominently features extraterrestrial lifeforms.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 36642,
+          "title": {
+            "native": "メトロイド"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 128610,
+          "title": {
+            "native": "メトロイドEX サムス&ジョイ"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 11998,
+          "name": {
+            "first": "Samus",
+            "last": "Aran",
+            "native": "サムス・アラン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11998-akZrClzG6mrR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b11998-akZrClzG6mrR.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/11998"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 247080,
+          "name": {
+            "first": "Joey",
+            "last": "Apronika",
+            "native": "ジョイ · アポロニカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247080-J3AF3wCLZp3I.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b247080-J3AF3wCLZp3I.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/247080"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 106313,
+          "name": {
+            "first": "Kouji",
+            "last": "Izuki",
+            "native": "こーじ 出月"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/106313"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 5
+      },
+      {
+        "score": 60,
+        "amount": 8
+      },
+      {
+        "score": 70,
+        "amount": 7
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 8
+      },
+      {
+        "status": "PLANNING",
+        "amount": 48
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 38
+      },
+      {
+        "status": "DROPPED",
+        "amount": 5
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/61581",
+  "modNotes": null
+}

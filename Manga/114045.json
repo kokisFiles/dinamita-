@@ -1,0 +1,844 @@
+{
+  "id": 114045,
+  "idMal": 124355,
+  "title": {
+    "native": "Fate/Grand Order 英霊食聞録",
+    "romaji": "Fate/Grand Order: Eirei Shoku Bunroku",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "RELEASING",
+  "description": "The manga focuses on Fujimura and Mash trying out real recipes and dishes from across history.",
+  "startDate": {
+    "year": 2019,
+    "month": 12,
+    "day": 20
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748947709,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114045-1yqSVdPYMfDM.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114045-1yqSVdPYMfDM.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx114045-1yqSVdPYMfDM.jpg",
+    "color": "#e45d5d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Slice of Life",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "페이트 그랜드 오더 영령식문록"
+  ],
+  "averageScore": null,
+  "meanScore": 70,
+  "popularity": 188,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 142,
+      "name": "Food",
+      "description": "Centers around cooking or food appraisal.",
+      "category": "Theme-Arts",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 110297,
+          "title": {
+            "native": "Fate/Grand Order -turas réalta-"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 108178,
+          "title": {
+            "native": "Fate/Grand Order -mortalis:stella-"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 135703,
+          "name": {
+            "first": "Fou ",
+            "last": null,
+            "native": "フォウ",
+            "alternative": [
+              "Cath Palug"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135703-G5LdKY9DD0Ct.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135703-G5LdKY9DD0Ct.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/135703"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 120735,
+          "name": {
+            "first": "Mash",
+            "last": "Kyrielight",
+            "native": "マシュ・キリエライト",
+            "alternative": [
+              "Mashu",
+              "Shielder"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120735-TjIeTlsKNaMl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120735-TjIeTlsKNaMl.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/120735"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 120734,
+          "name": {
+            "first": "Ritsuka",
+            "last": "Fujimaru",
+            "native": "藤丸立香",
+            "alternative": [
+              "Gudao"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120734-c6G802LzxRNG.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120734-c6G802LzxRNG.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/120734"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 51523,
+          "name": {
+            "first": "Nero",
+            "last": "Claudius",
+            "native": "ネロ・クラウディウス",
+            "alternative": [
+              "Red Saber",
+              "Nero Claudius Caesar Augustus Germanicus",
+              "セイバー",
+              "ネロ・クラウディウス・カエサル・アウグストゥス・ゲルマニクス",
+              "Emperor of Roses"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51523-OYPKGtJqtzSU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b51523-OYPKGtJqtzSU.png"
+          },
+          "siteUrl": "https://anilist.co/character/51523"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 497,
+          "name": {
+            "first": "Artoria",
+            "last": "Pendragon",
+            "native": "アルトリア・ペンドラゴン",
+            "alternative": [
+              "Saber (セイバー)",
+              "Altria Pendragon",
+              "King Arthur",
+              "King of Knights",
+              "Blue Saber",
+              "Arturia Pendragon",
+              "Goddess Rhongomyniad",
+              "Lion King",
+              "Elise Watoson",
+              "Once and Future King",
+              "Proud Knight-King",
+              "Arthur Pendragon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b497-Yg5pNmC8kxzs.png"
+          },
+          "siteUrl": "https://anilist.co/character/497"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 137153,
+          "name": {
+            "first": "Leonardo",
+            "last": "da Vinci",
+            "native": "レオナルド・ダ・ヴィンチ",
+            "alternative": [
+              "キャスター",
+              "DaVinci-chan",
+              "Caster",
+              "Universal Genius",
+              "Shopkeeper",
+              "Da Vinci Lily",
+              "Loli Vinci",
+              "Gran Cavallo",
+              "ShotaVinci"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137153-z1OAHznRE0rq.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137153-z1OAHznRE0rq.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/137153"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 499,
+          "name": {
+            "first": "Cú ",
+            "last": "Chulainn",
+            "native": "クー・フーリン",
+            "alternative": [
+              "Lancer",
+              "光の御子",
+              "Child of Light",
+              "Blue Spearman of the Wind",
+              "クランの猛犬",
+              "Beast of Culann",
+              "Hound of Culann",
+              "Sétanta",
+              "Child of the Sun",
+              "Cú Alter",
+              "Mad King Cú Chulainn",
+              "Cú Chulainn (Alter)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b499-gS5RAdupSKWQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b499-gS5RAdupSKWQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/499"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 137154,
+          "name": {
+            "first": "Romani",
+            "last": "Archaman",
+            "native": "ロマニ・アーキマン",
+            "alternative": [
+              "Dr. Roman"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137154-pa65jCryA6yl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137154-pa65jCryA6yl.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/137154"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 126571,
+          "name": {
+            "first": "Ozymandias",
+            "last": null,
+            "native": "オジマンディアス",
+            "alternative": [
+              "Rider",
+              "Ramesses II",
+              "Meryamen",
+              "King of Kings",
+              "King of Construction",
+              "Sun King",
+              "God-King"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126571-j0B0BPwuTkgn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126571-j0B0BPwuTkgn.png"
+          },
+          "siteUrl": "https://anilist.co/character/126571"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 138910,
+          "name": {
+            "first": "Souji",
+            "last": "Okita",
+            "native": "沖田総司",
+            "alternative": [
+              "Sakura Saber",
+              "Devil Saber",
+              "Okita Souji Alter",
+              "Majin Saber",
+              "Okita J Souji"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138910-uMquAkRSieR8.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138910-uMquAkRSieR8.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/138910"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 122798,
+          "name": {
+            "first": "William ",
+            "last": "Shakespeare",
+            "native": null,
+            "alternative": [
+              "Caster of Red",
+              "Aka no Caster",
+              "赤のキャスター "
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122798-zoECQiNGG8gl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b122798-zoECQiNGG8gl.png"
+          },
+          "siteUrl": "https://anilist.co/character/122798"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 249350,
+          "name": {
+            "first": "Medjed",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b249350-OSOSbgnyR06c.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b249350-OSOSbgnyR06c.png"
+          },
+          "siteUrl": "https://anilist.co/character/249350"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 55977,
+          "name": {
+            "first": "Mordred",
+            "last": "Pendragon",
+            "native": "モードレッド",
+            "alternative": [
+              "The Knight of Treachery",
+              "Saber of Red",
+              "Aka no Saber"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55977-wqiEfiJUuEFw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b55977-wqiEfiJUuEFw.png"
+          },
+          "siteUrl": "https://anilist.co/character/55977"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 163478,
+          "name": {
+            "first": "Tristan",
+            "last": null,
+            "native": "トリスタン",
+            "alternative": [
+              "Trystan",
+              "Tristram",
+              "Trischin",
+              "Child of Sadness"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b163478-Liag7MVqbmHI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b163478-Liag7MVqbmHI.png"
+          },
+          "siteUrl": "https://anilist.co/character/163478"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 52729,
+          "name": {
+            "first": "Tamamo-no-Mae",
+            "last": null,
+            "native": "玉藻の前",
+            "alternative": [
+              "Caster",
+              "Fox Priestess of Peerless Beauty",
+              "Tamamo Vitch",
+              "Tamamo Cat",
+              "Summer Tamamo-chan",
+              "Tamamo Shark",
+              "Cas-ko",
+              "Mizukume",
+              "Tamamo Aria"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b52729-umVnFFIWH62X.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b52729-umVnFFIWH62X.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/52729"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 2514,
+          "name": {
+            "first": "Gilgamesh",
+            "last": "",
+            "native": "ギルガメッシュ",
+            "alternative": [
+              "Archer",
+              "King of Heroes",
+              "King of Kings",
+              "Golden King",
+              "King of Babylon",
+              "Oldest King",
+              "AUO",
+              "Gil-kun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2514-hnE6LEdqm7Su.png"
+          },
+          "siteUrl": "https://anilist.co/character/2514"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 138357,
+          "name": {
+            "first": "Gawain",
+            "last": null,
+            "native": "ガウェイン",
+            "alternative": [
+              "Saber",
+              "Knight of the Sun",
+              "White Knight of the Round Table"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138357-xJTl4h2XP2vz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138357-xJTl4h2XP2vz.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/138357"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2087,
+          "name": {
+            "first": "Archer",
+            "last": null,
+            "native": "アーチャー",
+            "alternative": [
+              "Wrought Iron Hero (錬鉄の英霊)",
+              "Faker (フェイカー)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2087-l5WP4W4vmfJJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2087-l5WP4W4vmfJJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/2087"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 12732,
+          "name": {
+            "first": "Lancelot",
+            "last": null,
+            "native": "ランスロット",
+            "alternative": [
+              "Knight of the Lake",
+              "Berserker",
+              "Black Knight",
+              "Mad Dog",
+              "Sir Lancelot du Lac",
+              "Lord of Joyous Gard"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12732-yayxYNs1FQeF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b12732-yayxYNs1FQeF.png"
+          },
+          "siteUrl": "https://anilist.co/character/12732"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 188673,
+          "name": {
+            "first": "Julius",
+            "last": "Caesar",
+            "native": "ユリウス・カエサル",
+            "alternative": [
+              "Gaius Julius Caesar",
+              "Red Saber"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b188673-kyiqQzgQoSeu.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b188673-kyiqQzgQoSeu.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/188673"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 159246,
+          "name": {
+            "first": "Nitocris",
+            "last": "",
+            "native": "ニトクリス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b159246-1s2xdg4QzMeM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b159246-1s2xdg4QzMeM.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/159246"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 186957,
+          "name": {
+            "first": "Hans ",
+            "last": "Christian Andersen",
+            "native": "ハンス・クリスチャン・アンデルセン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186957-RUNhAYKH5Ml9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b186957-RUNhAYKH5Ml9.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/186957"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 147495,
+          "name": {
+            "first": "Wolfgang Amadeus",
+            "last": "Mozart",
+            "native": "ヴォルフガング・アマデウス・モーツァルト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b147495-3TWnnqVRL6BQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b147495-3TWnnqVRL6BQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/147495"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 180578,
+          "name": {
+            "first": "Charles-Henri",
+            "last": "Sanson ",
+            "native": "シャルル - アンリ・サンソン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180578-Qhqf2SEcTdad.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180578-Qhqf2SEcTdad.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/180578"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 180576,
+          "name": {
+            "first": "Marie ",
+            "last": "Antoinette",
+            "native": "マリー・アントワネット",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180576-OKs6siqJvlZQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180576-OKs6siqJvlZQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/180576"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97582,
+          "name": {
+            "first": "",
+            "last": "Type-Moon",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97582-3Mi4DbWITF4T.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97582-3Mi4DbWITF4T.jpg"
+          },
+          "description": "__Headquarters:__ Tokyo, Japan\n\n__[Website](http://typemoon.com/) | [Twitter](https://twitter.com/tmitterofficial)__\n\n__Introduction:__\nType-Moon is a Japanese game company was founded by artist [Takashi Takeuchi](https://anilist.co/staff/99054/Takashi-Takeuchi) and writer [Kinoko Nasu](https://anilist.co/staff/98250/Kinoko-Nasu), who were also schoolmates. The names \"TYPE-MOON\" and \"Notes.\" come from one of their early works, Notes..\n\n__History:__\nOriginally formed as a Doujin Soft in 2000 and created the popular visual novel Tsukihime, but turned into a Commercial Organization on January 30, 2004 and in the same year, they released their PC-based eroge visual novel game Fate/stay night, which is their most well known title.",
+          "siteUrl": "https://anilist.co/staff/97582"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 154760,
+          "name": {
+            "first": "Makoto",
+            "last": "Tokoma",
+            "native": "十駒マコト"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/154760"
+        }
+      },
+      {
+        "role": "Cooking Supervisor",
+        "node": {
+          "id": 154761,
+          "name": {
+            "first": "Masashi ",
+            "last": "Endou",
+            "native": "遠藤雅司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/154761"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 96514,
+      "url": "https://web-ace.jp/tmca/contents/2000016/",
+      "site": "Web Ace"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 188852,
+          "rating": 2,
+          "media": {
+            "id": 114045,
+            "title": {
+              "native": "Fate/Grand Order 英霊食聞録"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 87199,
+            "title": {
+              "native": "衛宮さんちの今日のごはん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 417835,
+          "rating": 1,
+          "media": {
+            "id": 114045,
+            "title": {
+              "native": "Fate/Grand Order 英霊食聞録"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 192970,
+            "title": {
+              "native": "Fate/ゼロカフェ ～Fate/Zero Cafeに集う英霊達～"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 6
+      },
+      {
+        "score": 70,
+        "amount": 9
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 56
+      },
+      {
+        "status": "PLANNING",
+        "amount": 110
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 5
+      },
+      {
+        "status": "DROPPED",
+        "amount": 5
+      },
+      {
+        "status": "PAUSED",
+        "amount": 12
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/114045",
+  "modNotes": null
+}

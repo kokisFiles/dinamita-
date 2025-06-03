@@ -1,0 +1,883 @@
+{
+  "id": 18047,
+  "idMal": 18047,
+  "title": {
+    "native": "声優刑事",
+    "romaji": "Seiyuu Deka",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "A girl who is protecting her city.",
+  "startDate": {
+    "year": 2010,
+    "month": 8,
+    "day": 4
+  },
+  "endDate": {
+    "year": 2010,
+    "month": 8,
+    "day": 4
+  },
+  "season": "SUMMER",
+  "seasonYear": 2010,
+  "seasonInt": 103,
+  "episodes": 1,
+  "duration": 3,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": {
+    "id": "scIWrdckzYs",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/scIWrdckzYs/hqdefault.jpg"
+  },
+  "updatedAt": 1748881747,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18047.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18047.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/18047.jpg",
+    "color": "#e450ae"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "성우형사"
+  ],
+  "averageScore": 40,
+  "meanScore": 40,
+  "popularity": 432,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 172,
+      "name": "Superhero",
+      "description": "Prominently features super-powered humans who aim to serve the greater good.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 548,
+      "name": "Acting",
+      "description": "Centers around actors or the acting industry.",
+      "category": "Theme-Arts",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": []
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 344816,
+          "name": {
+            "first": "Suika",
+            "last": null,
+            "native": "すいか",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/344816"
+        },
+        "voiceActors": [
+          {
+            "id": 104862,
+            "name": {
+              "first": "Fuuko",
+              "last": "Saitou",
+              "native": "斎藤楓子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104862-9QjrwQNQkbYJ.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104862-9QjrwQNQkbYJ.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/104862"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 344815,
+          "name": {
+            "first": "Katagiri Ribbon",
+            "last": null,
+            "native": "片桐りぼん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/344815"
+        },
+        "voiceActors": [
+          {
+            "id": 344819,
+            "name": {
+              "first": "Saori",
+              "last": "Tomita",
+              "native": "富田沙織"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n344819-8fDM50kUIwLL.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n344819-8fDM50kUIwLL.png"
+            },
+            "siteUrl": "https://anilist.co/staff/344819"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 344817,
+          "name": {
+            "first": "Akutou",
+            "last": null,
+            "native": "悪党",
+            "alternative": [
+              "Villain"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/344817"
+        },
+        "voiceActors": [
+          {
+            "id": 344818,
+            "name": {
+              "first": "Masakazu",
+              "last": "Sakimoto",
+              "native": "嵜本正和"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n344818-pmMvvs7wmiiP.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n344818-pmMvvs7wmiiP.png"
+            },
+            "siteUrl": "https://anilist.co/staff/344818"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music Producer",
+        "node": {
+          "id": 248628,
+          "name": {
+            "first": "Yasushi",
+            "last": "Miura",
+            "native": "三浦泰"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/248628"
+        }
+      },
+      {
+        "role": "Animation Producer",
+        "node": {
+          "id": 196344,
+          "name": {
+            "first": "Yukinobu",
+            "last": "Asai",
+            "native": "浅井幸信"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/ys_coupe)",
+          "siteUrl": "https://anilist.co/staff/196344"
+        }
+      },
+      {
+        "role": "Sound Producer",
+        "node": {
+          "id": 197419,
+          "name": {
+            "first": "Tomohiro",
+            "last": "Seki",
+            "native": "関智寛"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/197419"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 103834,
+          "name": {
+            "first": "Toshiki",
+            "last": "Kameyama",
+            "native": "亀山俊樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/103834-PKdTeVEzQMX3.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/103834-PKdTeVEzQMX3.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/亀山俊樹)",
+          "siteUrl": "https://anilist.co/staff/103834"
+        }
+      },
+      {
+        "role": "Animation Producer",
+        "node": {
+          "id": 235127,
+          "name": {
+            "first": "Toshirou",
+            "last": "Sakuma",
+            "native": "佐久間敏郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/235127"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 106799,
+          "name": {
+            "first": "Mayumi",
+            "last": "Watanabe",
+            "native": "渡辺真由美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106799-r9c2A0DJHWWj.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106799-r9c2A0DJHWWj.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/watawayuwaasa)\n\nOriginating from [Kaname Production](https://anilist.co/studio/288/).\n\nMarried to producer [Saburou Oomiya](https://anilist.co/staff/114329/).",
+          "siteUrl": "https://anilist.co/staff/106799"
+        }
+      },
+      {
+        "role": "Associate Producer",
+        "node": {
+          "id": 220759,
+          "name": {
+            "first": "Toshiyuki",
+            "last": "Koudate",
+            "native": "高達俊之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n220759-ckHgehCjMPzP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n220759-ckHgehCjMPzP.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/220759"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 106799,
+          "name": {
+            "first": "Mayumi",
+            "last": "Watanabe",
+            "native": "渡辺真由美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106799-r9c2A0DJHWWj.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106799-r9c2A0DJHWWj.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/watawayuwaasa)\n\nOriginating from [Kaname Production](https://anilist.co/studio/288/).\n\nMarried to producer [Saburou Oomiya](https://anilist.co/staff/114329/).",
+          "siteUrl": "https://anilist.co/staff/106799"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 106799,
+          "name": {
+            "first": "Mayumi",
+            "last": "Watanabe",
+            "native": "渡辺真由美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106799-r9c2A0DJHWWj.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106799-r9c2A0DJHWWj.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/watawayuwaasa)\n\nOriginating from [Kaname Production](https://anilist.co/studio/288/).\n\nMarried to producer [Saburou Oomiya](https://anilist.co/staff/114329/).",
+          "siteUrl": "https://anilist.co/staff/106799"
+        }
+      },
+      {
+        "role": "Executive Producer",
+        "node": {
+          "id": 267299,
+          "name": {
+            "first": "Hideki",
+            "last": "Okamura",
+            "native": "岡村秀樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/岡村秀樹)",
+          "siteUrl": "https://anilist.co/staff/267299"
+        }
+      },
+      {
+        "role": "Recording",
+        "node": {
+          "id": 213340,
+          "name": {
+            "first": "Tooru",
+            "last": "Kumakura",
+            "native": "熊倉亨"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/213340"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 235976,
+          "name": {
+            "first": "Masahito",
+            "last": "Arinaga",
+            "native": "有永真仁"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/235976"
+        }
+      },
+      {
+        "role": "Sound Effects",
+        "node": {
+          "id": 108457,
+          "name": {
+            "first": "Mari",
+            "last": "Adachi",
+            "native": "安達まり"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/13457.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/13457.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/adachi_mari)",
+          "siteUrl": "https://anilist.co/staff/108457"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 114329,
+          "name": {
+            "first": "Saburou",
+            "last": "Oomiya",
+            "native": "大宮三郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114329-AD4x41WbmgXf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114329-AD4x41WbmgXf.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/375907300)\n\nMarried to animator [Mayumi Watanabe](https://anilist.co/staff/106799/).",
+          "siteUrl": "https://anilist.co/staff/114329"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 233670,
+          "name": {
+            "first": "Manabu",
+            "last": "Harada",
+            "native": "原田学"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/233670"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 235758,
+          "name": {
+            "first": "Mamoru",
+            "last": "Chishima",
+            "native": "千島守"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/235758"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 344820,
+          "name": {
+            "first": "Manami",
+            "last": "Omi",
+            "native": "小見真菜美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344820"
+        }
+      },
+      {
+        "role": "Sound Coordinator",
+        "node": {
+          "id": 344821,
+          "name": {
+            "first": "Kimihiro",
+            "last": "Yamaoka",
+            "native": "山岡公広"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344821"
+        }
+      },
+      {
+        "role": "Associate Producer",
+        "node": {
+          "id": 344824,
+          "name": {
+            "first": "Norihiko",
+            "last": "Azuma",
+            "native": "東紀彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344824"
+        }
+      },
+      {
+        "role": "Associate Producer",
+        "node": {
+          "id": 344822,
+          "name": {
+            "first": "Emi",
+            "last": "Ozawa",
+            "native": "小沢恵美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344822"
+        }
+      },
+      {
+        "role": "Associate Producer",
+        "node": {
+          "id": 344823,
+          "name": {
+            "first": "Masato",
+            "last": "Matsuo",
+            "native": "松尾将人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344823"
+        }
+      },
+      {
+        "role": "Associate Producer",
+        "node": {
+          "id": 344825,
+          "name": {
+            "first": "Sakiko",
+            "last": "Yamamoto",
+            "native": "山本早紀子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344825"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 344826,
+          "name": {
+            "first": "Makoto",
+            "last": "Tsuruya",
+            "native": "鶴谷誠"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n344826-zb1F7Urm4ADv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n344826-zb1F7Urm4ADv.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344826"
+        }
+      },
+      {
+        "role": "Executive Producer",
+        "node": {
+          "id": 344827,
+          "name": {
+            "first": "Kouichi",
+            "last": "Hamamura",
+            "native": "浜村弘一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n344827-846UbXCp1TdW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n344827-846UbXCp1TdW.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/344827"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 114391,
+          "name": {
+            "first": "Chiyo",
+            "last": "Ousaki",
+            "native": "桜咲千依"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114391-i05AWt0UrKgi.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114391-i05AWt0UrKgi.jpg"
+          },
+          "description": "[Blog](https://lineblog.me/ousakichiyo/) | [Twitter 1](https://x.com/ousakichiyo) | [Twitter 2](https://x.com/hujisakiusa) | [Twitter 3](https://x.com/mikoshibakoyori) | [Instagram](https://www.instagram.com/ousakichiyo/) | [Wiki (jp)](https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%92%B2%E5%8D%83%E4%BE%9D)\n\nShe is a voice actress currently affiliated with Green Note. Her former stage name was \"桜咲ちよ\" (same reading). She is better known under her \"Usa Fujisaki\" alias as an adult game voice actress.",
+          "siteUrl": "https://anilist.co/staff/114391"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6624,
+          "name": "MooGoo",
+          "siteUrl": "https://anilist.co/studio/6624"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 685,
+          "name": "Kadokawa Contents Gate",
+          "siteUrl": "https://anilist.co/studio/685"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 73,
+          "name": "TMS Entertainment",
+          "siteUrl": "https://anilist.co/studio/73"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 7550,
+          "name": "Studio Ranmaru",
+          "siteUrl": "https://anilist.co/studio/7550"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 7549,
+          "name": "Sunny Gapen",
+          "siteUrl": "https://anilist.co/studio/7549"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 98805,
+      "url": "https://www.youtube.com/watch?v=scIWrdckzYs",
+      "site": "YouTube"
+    },
+    {
+      "id": 98810,
+      "url": "https://www.youtube.com/watch?v=HbPnbRri1tk",
+      "site": "YouTube"
+    },
+    {
+      "id": 98813,
+      "url": "https://www.nicovideo.jp/watch/so12612465",
+      "site": "Niconico Video"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22306,
+      "rank": 21,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2010,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 22330,
+      "rank": 17,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2010,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 122059,
+          "rating": -2,
+          "media": {
+            "id": 18047,
+            "title": {
+              "native": "声優刑事"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 125682,
+            "title": {
+              "native": "CUE!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 122071,
+          "rating": -2,
+          "media": {
+            "id": 18047,
+            "title": {
+              "native": "声優刑事"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1070,
+            "title": {
+              "native": "ラブゲッCHU ～ミラクル声優白書～"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 122075,
+          "rating": 0,
+          "media": {
+            "id": 18047,
+            "title": {
+              "native": "声優刑事"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 710,
+            "title": {
+              "native": "レック"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 288818,
+          "rating": 1,
+          "media": {
+            "id": 18047,
+            "title": {
+              "native": "声優刑事"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 8957,
+            "title": {
+              "native": "進め！ガチムチ３兄弟"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 24
+      },
+      {
+        "score": 20,
+        "amount": 29
+      },
+      {
+        "score": 30,
+        "amount": 40
+      },
+      {
+        "score": 40,
+        "amount": 24
+      },
+      {
+        "score": 50,
+        "amount": 39
+      },
+      {
+        "score": 60,
+        "amount": 25
+      },
+      {
+        "score": 70,
+        "amount": 13
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 8
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 16
+      },
+      {
+        "status": "PLANNING",
+        "amount": 111
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 274
+      },
+      {
+        "status": "DROPPED",
+        "amount": 22
+      },
+      {
+        "status": "PAUSED",
+        "amount": 9
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/18047",
+  "modNotes": null
+}

@@ -1,0 +1,604 @@
+{
+  "id": 38078,
+  "idMal": 8078,
+  "title": {
+    "native": "猫ラーメン",
+    "romaji": "Neko Ramen",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Attention ramen aficionados, cat lovers and avid manga collectors: this book is for you. The first course of a sweet and surly manga treat! <br><br>\n(Source: Jmanga)",
+  "startDate": {
+    "year": 2004,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": 2012,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 95,
+  "volumes": 6,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748003587,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8078.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8078.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/8078.jpg",
+    "color": "#e46b1a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Neko Raamen"
+  ],
+  "averageScore": null,
+  "meanScore": 69,
+  "popularity": 198,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 142,
+      "name": "Food",
+      "description": "Centers around cooking or food appraisal.",
+      "category": "Theme-Arts",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 145,
+      "name": "Work",
+      "description": "Centers around the activities of a certain occupation.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 206,
+      "name": "4-koma",
+      "description": "A manga in the 'yonkoma' format, which consists of four equal-sized panels arranged in a vertical strip.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1647,
+      "name": "Restaurant",
+      "description": "Features a business that prepares and serves food and drinks to customers. Also encompasses cafes and bistros.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 3535,
+          "title": {
+            "native": "猫ラーメン"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 115486,
+          "title": {
+            "native": "猫ラーメン物語 子猫のトーマス"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 95129,
+          "title": {
+            "native": "猫ラーメン THE MOVIE 〜猫ラーメン番外編〜"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 14519,
+          "title": {
+            "native": "猫ラーメン～俺の醤油味～"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16100,
+          "name": {
+            "first": "Taishou",
+            "last": null,
+            "native": "大将",
+            "alternative": [
+              "William Thomas Jefferson III"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16100-QgXBgENO0cX7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16100-QgXBgENO0cX7.png"
+          },
+          "siteUrl": "https://anilist.co/character/16100"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16099,
+          "name": {
+            "first": "Kouichi",
+            "last": "Tanaka",
+            "native": "田中康一",
+            "alternative": [
+              "Tanaka-san"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16099.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16099.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16099"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34426,
+          "name": {
+            "first": "Miki-chan",
+            "last": null,
+            "native": "ミキちゃん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34426.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34426.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34426"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 41725,
+          "name": {
+            "first": "2-gou Mise no Hito",
+            "last": null,
+            "native": "2号店の人",
+            "alternative": [
+              "Shinjin Baito (新人バイト)",
+              "The second shop guy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/41725.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/41725.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/41725"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34427,
+          "name": {
+            "first": "Mii-chan",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34427.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34427.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34427"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34428,
+          "name": {
+            "first": "Gourmet Hyouronka",
+            "last": null,
+            "native": "グルメ評論家",
+            "alternative": [
+              "The Critic"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34428.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34428.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34428"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34429,
+          "name": {
+            "first": "Shige-san",
+            "last": null,
+            "native": "しげさん",
+            "alternative": [
+              "Shige-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34429.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34429.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34429"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34430,
+          "name": {
+            "first": "Toku-san",
+            "last": null,
+            "native": "徳さん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34430.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34430.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34430"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34424,
+          "name": {
+            "first": "Taishou no Oyaji",
+            "last": null,
+            "native": "大将の親父",
+            "alternative": [
+              "Taisho's Father",
+              "William Thomas Jefferson II"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34424.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34424.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34424"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 41723,
+          "name": {
+            "first": "Mariko-chan",
+            "last": null,
+            "native": "まりこちゃん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/41723.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/41723.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/41723"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34425,
+          "name": {
+            "first": "Goro",
+            "last": null,
+            "native": "五郎",
+            "alternative": [
+              "Gorou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34425.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34425.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34425"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 41724,
+          "name": {
+            "first": "Hahaoya",
+            "last": null,
+            "native": "母親",
+            "alternative": [
+              "Taisho's Mother",
+              "Margaret Victorian Rose"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/41724.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/41724.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/41724"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 99623,
+          "name": {
+            "first": "Kenji",
+            "last": "Sonishi",
+            "native": "そにしけんじ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/99623-vqlg5QUUOBBQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/99623-vqlg5QUUOBBQ.png"
+          },
+          "description": "[Official website](https://ameblo.jp/hobo-zero-pet/)",
+          "siteUrl": "https://anilist.co/staff/99623"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 16748,
+      "url": "https://comic.mag-garden.co.jp/nekorahmen/",
+      "site": "Official Site"
+    },
+    {
+      "id": 16749,
+      "url": "https://magcomi.com/episode/10834108156766445196",
+      "site": "Official Site"
+    },
+    {
+      "id": 16750,
+      "url": "https://www.manga-doa.com/comic/342",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 190697,
+          "rating": 8,
+          "media": {
+            "id": 38078,
+            "title": {
+              "native": "猫ラーメン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 146328,
+            "title": {
+              "native": "ラーメン赤猫"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 190701,
+          "rating": 0,
+          "media": {
+            "id": 38078,
+            "title": {
+              "native": "猫ラーメン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 113063,
+            "title": {
+              "native": "OH! 麺!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 190704,
+          "rating": 1,
+          "media": {
+            "id": 38078,
+            "title": {
+              "native": "猫ラーメン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 142634,
+            "title": {
+              "native": "麺屋台ロード ナルトヤ!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 190706,
+          "rating": 1,
+          "media": {
+            "id": 38078,
+            "title": {
+              "native": "猫ラーメン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 136197,
+            "title": {
+              "native": "喧嘩ラーメン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 243567,
+          "rating": 1,
+          "media": {
+            "id": 38078,
+            "title": {
+              "native": "猫ラーメン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 115485,
+            "title": {
+              "native": "ねこねこ日本史"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 3
+      },
+      {
+        "score": 70,
+        "amount": 10
+      },
+      {
+        "score": 80,
+        "amount": 9
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 30
+      },
+      {
+        "status": "PLANNING",
+        "amount": 102
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 29
+      },
+      {
+        "status": "DROPPED",
+        "amount": 14
+      },
+      {
+        "status": "PAUSED",
+        "amount": 23
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/38078",
+  "modNotes": null
+}

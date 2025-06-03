@@ -1,0 +1,406 @@
+{
+  "id": 11787,
+  "idMal": 11787,
+  "title": {
+    "native": "トリコ バーバリアンアイビーを捕獲せよ!",
+    "romaji": "Toriko: Barbarian Ivy wo Hokaku Seyo!",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "Special shown at the Jump Super Anime Tour in 2010.",
+  "startDate": {
+    "year": 2010,
+    "month": 10,
+    "day": 23
+  },
+  "endDate": {
+    "year": 2010,
+    "month": 10,
+    "day": 23
+  },
+  "season": "FALL",
+  "seasonYear": 2010,
+  "seasonInt": 104,
+  "episodes": 1,
+  "duration": 40,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748882759,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11787.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11787.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/11787.jpg",
+    "color": "#3593e4"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n11787-s5C0q6vY8PZv.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "synonyms": [
+    "Toriko: Jump Super Anime Tour 2010 Special"
+  ],
+  "averageScore": 57,
+  "meanScore": 62,
+  "popularity": 930,
+  "favourites": 7,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 37887,
+          "title": {
+            "native": "トリコ"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 10033,
+          "title": {
+            "native": "トリコ"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 19939,
+          "name": {
+            "first": "Toriko",
+            "last": null,
+            "native": "トリコ",
+            "alternative": [
+              "The Glutton",
+              "Charismatic Goumet Hunter"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19939-BcCasRAV9SEJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19939-BcCasRAV9SEJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/19939"
+        },
+        "voiceActors": [
+          {
+            "id": 95206,
+            "name": {
+              "first": "Takashi",
+              "last": "Kondou",
+              "native": "近藤隆"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95206-R0eBPiYR9CRD.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95206-R0eBPiYR9CRD.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95206"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 19942,
+          "name": {
+            "first": "Komatsu",
+            "last": null,
+            "native": "小松",
+            "alternative": [
+              "Matsu",
+              "Komacchan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19942-K1Dyn78L7UDa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19942-K1Dyn78L7UDa.png"
+          },
+          "siteUrl": "https://anilist.co/character/19942"
+        },
+        "voiceActors": [
+          {
+            "id": 95440,
+            "name": {
+              "first": "Daisuke",
+              "last": "Kishio",
+              "native": "岸尾だいすけ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95440-j4iWV0MGWtBh.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95440-j4iWV0MGWtBh.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95440"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 19941,
+          "name": {
+            "first": "Coco",
+            "last": null,
+            "native": "ココ",
+            "alternative": [
+              "The Gentleman"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19941-bT4QxOUgZJzJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19941-bT4QxOUgZJzJ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/19941"
+        },
+        "voiceActors": [
+          {
+            "id": 95394,
+            "name": {
+              "first": "Mitsuaki",
+              "last": "Madono",
+              "native": "真殿光昭"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95394-BMiqrbgY0gIp.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95394-BMiqrbgY0gIp.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95394"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 41136,
+          "name": {
+            "first": "Starjun",
+            "last": null,
+            "native": "スタージュン",
+            "alternative": [
+              "Staa"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/41136.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/41136.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/41136"
+        },
+        "voiceActors": [
+          {
+            "id": 95137,
+            "name": {
+              "first": "Shou",
+              "last": "Hayami",
+              "native": "速水奨"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95137-2Q5l3Br9G7sk.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95137-2Q5l3Br9G7sk.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95137"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43849,
+          "name": {
+            "first": "Joejoe",
+            "last": null,
+            "native": "ジョージョー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/43849.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43849.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43849"
+        },
+        "voiceActors": [
+          {
+            "id": 95898,
+            "name": {
+              "first": "Choo",
+              "last": "",
+              "native": "チョー "
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95898-XHSESV65G8Jv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95898-XHSESV65G8Jv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95898"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 19940,
+          "name": {
+            "first": "Sunny",
+            "last": null,
+            "native": "サニー",
+            "alternative": [
+              "Sani"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19940-qkpINN5CWjis.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19940-qkpINN5CWjis.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/19940"
+        },
+        "voiceActors": [
+          {
+            "id": 95005,
+            "name": {
+              "first": "Kenichi",
+              "last": "Suzumura",
+              "native": "鈴村健一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95005-SkoVN02iOglr.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95005-SkoVN02iOglr.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95005"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 18,
+          "name": "Toei Animation",
+          "siteUrl": "https://anilist.co/studio/18"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 13
+      },
+      {
+        "score": 20,
+        "amount": 5
+      },
+      {
+        "score": 30,
+        "amount": 5
+      },
+      {
+        "score": 40,
+        "amount": 10
+      },
+      {
+        "score": 50,
+        "amount": 27
+      },
+      {
+        "score": 60,
+        "amount": 48
+      },
+      {
+        "score": 70,
+        "amount": 41
+      },
+      {
+        "score": 80,
+        "amount": 18
+      },
+      {
+        "score": 90,
+        "amount": 11
+      },
+      {
+        "score": 100,
+        "amount": 20
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 35
+      },
+      {
+        "status": "PLANNING",
+        "amount": 398
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 433
+      },
+      {
+        "status": "DROPPED",
+        "amount": 36
+      },
+      {
+        "status": "PAUSED",
+        "amount": 28
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/11787",
+  "modNotes": null
+}

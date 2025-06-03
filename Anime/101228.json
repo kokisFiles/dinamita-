@@ -1,0 +1,1649 @@
+{
+  "id": 101228,
+  "idMal": 37395,
+  "title": {
+    "native": "ゾイドワイルド",
+    "romaji": "Zoids Wild",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "Zoids Wild is an anime series based on the Zoids model kits produced by Tomy.",
+  "startDate": {
+    "year": 2018,
+    "month": 7,
+    "day": 7
+  },
+  "endDate": {
+    "year": 2019,
+    "month": 6,
+    "day": 29
+  },
+  "season": "SUMMER",
+  "seasonYear": 2018,
+  "seasonInt": 183,
+  "episodes": 50,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": {
+    "id": "7mESmExM2hs",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/7mESmExM2hs/hqdefault.jpg"
+  },
+  "updatedAt": 1748906401,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101228-OybMfjoSU07R.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101228-OybMfjoSU07R.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx101228-OybMfjoSU07R.jpg",
+    "color": "#43bbe4"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": 58,
+  "meanScore": 61,
+  "popularity": 1914,
+  "favourites": 19,
+  "tags": [
+    {
+      "id": 159,
+      "name": "Super Robot",
+      "description": "Prominently features large robots often piloted by hot-blooded protagonists.",
+      "category": "Theme-Sci-Fi-Mecha",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 90,
+      "name": "CGI",
+      "description": "Prominently features scenes created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 107364,
+          "title": {
+            "native": "ゾイドワイルド"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 110788,
+          "title": {
+            "native": "ゾイドワイルド ZERO"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 124152,
+          "title": {
+            "native": "ゾイドワイルド2"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165247,
+          "name": {
+            "first": "Candy",
+            "last": null,
+            "native": "キャンディ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165247-LfqGlKgvQphy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165247-LfqGlKgvQphy.png"
+          },
+          "siteUrl": "https://anilist.co/character/165247"
+        },
+        "voiceActors": [
+          {
+            "id": 153560,
+            "name": {
+              "first": "Youji",
+              "last": "Ikuta",
+              "native": "生田鷹司"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n153560-jkEOLJ5qQMyZ.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n153560-jkEOLJ5qQMyZ.png"
+            },
+            "siteUrl": "https://anilist.co/staff/153560"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 165251,
+          "name": {
+            "first": "Gyouza",
+            "last": null,
+            "native": "ギョーザ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165251-3H60Ye0wwCTU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165251-3H60Ye0wwCTU.png"
+          },
+          "siteUrl": "https://anilist.co/character/165251"
+        },
+        "voiceActors": [
+          {
+            "id": 107480,
+            "name": {
+              "first": "Subaru",
+              "last": "Kimura",
+              "native": "木村昴"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107480-h2RgLXNP7hcj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107480-h2RgLXNP7hcj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/107480"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 165250,
+          "name": {
+            "first": "Arashi",
+            "last": null,
+            "native": "アラシ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165250-T1D5SW6le6Cs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165250-T1D5SW6le6Cs.png"
+          },
+          "siteUrl": "https://anilist.co/character/165250"
+        },
+        "voiceActors": [
+          {
+            "id": 95819,
+            "name": {
+              "first": "Kenshou",
+              "last": "Ono",
+              "native": "小野賢章"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95819-O4fosAY0a1Ml.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95819-O4fosAY0a1Ml.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95819"
+          },
+          {
+            "id": 95930,
+            "name": {
+              "first": "Aki",
+              "last": "Kanada",
+              "native": "金田アキ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95930-tn7fNp6AXwUY.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95930-tn7fNp6AXwUY.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95930"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165253,
+          "name": {
+            "first": "Ikazuchi",
+            "last": null,
+            "native": "イカヅチ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165253-WgOLDZU8tiZS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165253-WgOLDZU8tiZS.png"
+          },
+          "siteUrl": "https://anilist.co/character/165253"
+        },
+        "voiceActors": [
+          {
+            "id": 95296,
+            "name": {
+              "first": "Takuya",
+              "last": "Kirimoto",
+              "native": "桐本拓哉"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95296-fYLp5Ff3eDI3.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95296-fYLp5Ff3eDI3.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95296"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165254,
+          "name": {
+            "first": "Avocado",
+            "last": null,
+            "native": "アボカド",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165254-oMQl0CwCE3eb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165254-oMQl0CwCE3eb.png"
+          },
+          "siteUrl": "https://anilist.co/character/165254"
+        },
+        "voiceActors": [
+          {
+            "id": 120160,
+            "name": {
+              "first": "Hayato",
+              "last": "Kimura",
+              "native": "木村隼人"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/25160-rGzpudcJuLKk.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/25160-rGzpudcJuLKk.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/120160"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 165252,
+          "name": {
+            "first": "Onigiri",
+            "last": null,
+            "native": "オニギリ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165252-IZ7ZICVA3L4Z.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165252-IZ7ZICVA3L4Z.png"
+          },
+          "siteUrl": "https://anilist.co/character/165252"
+        },
+        "voiceActors": [
+          {
+            "id": 95782,
+            "name": {
+              "first": "Etsuko",
+              "last": "Kozakura",
+              "native": "小桜エツコ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95782-Zova2vUsykFw.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95782-Zova2vUsykFw.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95782"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165258,
+          "name": {
+            "first": "Drake",
+            "last": null,
+            "native": "ドレイク",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165258-svWOm70nkO1Q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165258-svWOm70nkO1Q.png"
+          },
+          "siteUrl": "https://anilist.co/character/165258"
+        },
+        "voiceActors": [
+          {
+            "id": 115156,
+            "name": {
+              "first": "Kaito",
+              "last": "Ishikawa",
+              "native": "石川界人"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115156-ngYfqBazlxYQ.png"
+            },
+            "siteUrl": "https://anilist.co/staff/115156"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165260,
+          "name": {
+            "first": "Sanlatan",
+            "last": null,
+            "native": "サンラータン",
+            "alternative": [
+              "Greta"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165260-JxzG08P4dFoE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165260-JxzG08P4dFoE.png"
+          },
+          "siteUrl": "https://anilist.co/character/165260"
+        },
+        "voiceActors": [
+          {
+            "id": 106359,
+            "name": {
+              "first": "Suzuko",
+              "last": "Mimori",
+              "native": "三森すずこ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106359-G8dROMWpwlM6.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106359-G8dROMWpwlM6.png"
+            },
+            "siteUrl": "https://anilist.co/staff/106359"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165255,
+          "name": {
+            "first": "Gallagher",
+            "last": null,
+            "native": "ギャラガー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165255-Cfz9BIwhYhTP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165255-Cfz9BIwhYhTP.png"
+          },
+          "siteUrl": "https://anilist.co/character/165255"
+        },
+        "voiceActors": [
+          {
+            "id": 95001,
+            "name": {
+              "first": "Tomokazu",
+              "last": "Seki",
+              "native": "関智一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95001-vm0RtZhmlzhK.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95001"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165259,
+          "name": {
+            "first": "Garlic",
+            "last": null,
+            "native": "ガーリック",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165259-iO5LuQ3A4tDe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165259-iO5LuQ3A4tDe.png"
+          },
+          "siteUrl": "https://anilist.co/character/165259"
+        },
+        "voiceActors": [
+          {
+            "id": 112075,
+            "name": {
+              "first": "Koutarou",
+              "last": "Nishiyama",
+              "native": "西山宏太朗"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112075-3XkMb12Pl3Mx.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112075-3XkMb12Pl3Mx.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/112075"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 165256,
+          "name": {
+            "first": "Penne",
+            "last": null,
+            "native": "ペンネ",
+            "alternative": [
+              "Battalia"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165256-EhKAvcGZdSqC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165256-EhKAvcGZdSqC.png"
+          },
+          "siteUrl": "https://anilist.co/character/165256"
+        },
+        "voiceActors": [
+          {
+            "id": 105071,
+            "name": {
+              "first": "Mikako",
+              "last": "Komatsu",
+              "native": "小松未可子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105071-Hcj0X2gcliPq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105071-Hcj0X2gcliPq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/105071"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165257,
+          "name": {
+            "first": "Bacon",
+            "last": null,
+            "native": "ベーコン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165257-9JzYDrX3ESBD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165257-9JzYDrX3ESBD.png"
+          },
+          "siteUrl": "https://anilist.co/character/165257"
+        },
+        "voiceActors": [
+          {
+            "id": 95079,
+            "name": {
+              "first": "Takahiro",
+              "last": "Sakurai",
+              "native": "櫻井孝宏"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95079-MdbWTLxPUvFf.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95079"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165262,
+          "name": {
+            "first": "Sauce",
+            "last": null,
+            "native": "ソース",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165262-6QbgI5vpTYWR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165262-6QbgI5vpTYWR.png"
+          },
+          "siteUrl": "https://anilist.co/character/165262"
+        },
+        "voiceActors": [
+          {
+            "id": 95070,
+            "name": {
+              "first": "Ami",
+              "last": "Koshimizu",
+              "native": "小清水亜美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95070-klkIfKz1VItS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95070"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165263,
+          "name": {
+            "first": "Soders",
+            "last": null,
+            "native": "ソダース",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165263-88XJi8TrW21M.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165263-88XJi8TrW21M.png"
+          },
+          "siteUrl": "https://anilist.co/character/165263"
+        },
+        "voiceActors": [
+          {
+            "id": 106510,
+            "name": {
+              "first": "Yasuaki",
+              "last": "Takumi",
+              "native": "内匠靖明"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11510.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11510.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/106510"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165264,
+          "name": {
+            "first": "Taifuu",
+            "last": null,
+            "native": "タイフウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165264-0B3PTDqnhaxe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165264-0B3PTDqnhaxe.png"
+          },
+          "siteUrl": "https://anilist.co/character/165264"
+        },
+        "voiceActors": [
+          {
+            "id": 101602,
+            "name": {
+              "first": "Hideyuki",
+              "last": "Umezu",
+              "native": "梅津秀行"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101602-wUvWtCkvNGNB.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101602-wUvWtCkvNGNB.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101602"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165287,
+          "name": {
+            "first": "Salt",
+            "last": null,
+            "native": "ソルト",
+            "alternative": [
+              "Apex"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165287-glo1w2laTK26.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165287-glo1w2laTK26.png"
+          },
+          "siteUrl": "https://anilist.co/character/165287"
+        },
+        "voiceActors": [
+          {
+            "id": 119617,
+            "name": {
+              "first": "Yuuma",
+              "last": "Uchida",
+              "native": "内田雄馬"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119617-icFDk96OdV5k.png"
+            },
+            "siteUrl": "https://anilist.co/staff/119617"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165288,
+          "name": {
+            "first": "Youkan",
+            "last": null,
+            "native": "ヨウカン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165288-LSJ3E5cJd7sa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165288-LSJ3E5cJd7sa.png"
+          },
+          "siteUrl": "https://anilist.co/character/165288"
+        },
+        "voiceActors": [
+          {
+            "id": 95070,
+            "name": {
+              "first": "Ami",
+              "last": "Koshimizu",
+              "native": "小清水亜美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95070-klkIfKz1VItS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95070"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165289,
+          "name": {
+            "first": "Foiegras",
+            "last": null,
+            "native": "フォアグラ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165289-kkwNxY2yiLXF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165289-kkwNxY2yiLXF.png"
+          },
+          "siteUrl": "https://anilist.co/character/165289"
+        },
+        "voiceActors": [
+          {
+            "id": 95113,
+            "name": {
+              "first": "Rikiya",
+              "last": "Koyama",
+              "native": "小山力也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95113-z9eyYjTKSTX4.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95113"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165290,
+          "name": {
+            "first": "Truffle",
+            "last": null,
+            "native": "トリュフ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165290-1Y0LTEwsdzEH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165290-1Y0LTEwsdzEH.png"
+          },
+          "siteUrl": "https://anilist.co/character/165290"
+        },
+        "voiceActors": [
+          {
+            "id": 95257,
+            "name": {
+              "first": "Nobuyuki",
+              "last": "Hiyama",
+              "native": "檜山修之"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95257-PgYwsBplRSJa.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95257-PgYwsBplRSJa.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95257"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165291,
+          "name": {
+            "first": "Caviar",
+            "last": null,
+            "native": "キャビア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165291-kQy64e8w8uhT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165291-kQy64e8w8uhT.png"
+          },
+          "siteUrl": "https://anilist.co/character/165291"
+        },
+        "voiceActors": [
+          {
+            "id": 96659,
+            "name": {
+              "first": "Tooru",
+              "last": "Nara",
+              "native": "奈良徹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96659-zLvDfHLoxCne.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96659-zLvDfHLoxCne.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96659"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 165292,
+          "name": {
+            "first": "Rakkyo",
+            "last": null,
+            "native": "ラッキョー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165292-nI0n7LLWEHNK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b165292-nI0n7LLWEHNK.png"
+          },
+          "siteUrl": "https://anilist.co/character/165292"
+        },
+        "voiceActors": [
+          {
+            "id": 95884,
+            "name": {
+              "first": "Masahito",
+              "last": "Yabe",
+              "native": "矢部雅史"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/884.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/884.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95884"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 110939,
+          "name": {
+            "first": "Hirota",
+            "last": "Mitsutaka",
+            "native": "広田光毅"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110939-X5Bkt9JyvJew.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110939-X5Bkt9JyvJew.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/広田光毅)",
+          "siteUrl": "https://anilist.co/staff/110939"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 125065,
+          "name": {
+            "first": "Norihiko",
+            "last": "Sutou",
+            "native": "須藤典彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n125065-a2SyDjWOmkwd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n125065-a2SyDjWOmkwd.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/須藤典彦)",
+          "siteUrl": "https://anilist.co/staff/125065"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 100448,
+          "name": {
+            "first": "Noriyuki",
+            "last": "Asakura",
+            "native": "朝倉紀行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5448.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5448.jpg"
+          },
+          "description": "A native of Tokyo, Noriyuki Asakura made his debut into the music industry in 1982, performing the theme song for a TV series. Since then his career has expanded in the direction of composing and producing, including writing songs for pop artists such as Hikaru Nishida and Kahoru Kohiruimaki. But as his creative interests began to diversify, he started focusing more on soundtrack composition for TV, anime, games and motion pictures. His dual experience in both pop and soundtrack production makes him one of the very few individuals capable of producing high quality material in either field. Noriyuki's musical savvy is featured in the soundtrack for the popular animation series \"Rurouni Kenshin\" (1995), and the international success of PlayStation game \"Tenchu\"(1998) gave people all around the world a chance to experience his unique Pan-Asian sound. Currently he has just finished working on the soundtrack for \"Tenchu 2\", and is looking for opportunities in Hollywood in which his musical style - which fuses elements from throughout Asia, spanning from the Middle East and Western Asia to traditional Chinese and Japanese - can be used as a vehicle to move and excite the listener in a way that only he can do.    Source: www-n.asakura.com",
+          "siteUrl": "https://anilist.co/staff/100448"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 121817,
+          "name": {
+            "first": "Hiroki",
+            "last": "Matsuoka",
+            "native": "松岡裕紀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/121817"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 159634,
+          "name": {
+            "first": "Yoshiki",
+            "last": "Ushiroda",
+            "native": "後田良樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/159634"
+        }
+      },
+      {
+        "role": "Sub Character Design",
+        "node": {
+          "id": 143466,
+          "name": {
+            "first": "Takashi",
+            "last": "Honda",
+            "native": "本田隆"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/143466"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 118959,
+          "name": {
+            "first": "Izumi",
+            "last": "Hoki",
+            "native": "保木いずみ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/118959"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 103298,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Katou",
+            "native": "加藤浩"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/103298-8FemUyDCTnDX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/103298-8FemUyDCTnDX.jpg"
+          },
+          "description": "He is an art director and supervisor, who was a long time member of Bihou until 2007 when he went to head the background art department in Totonyan. He belongs to the anime production group Neko-Nanban-Tei together with director Watanabe Takashi and his wife Miyata Naomi.",
+          "siteUrl": "https://anilist.co/staff/103298"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 146166,
+          "name": {
+            "first": "Hideki",
+            "last": "Imaizumi",
+            "native": "今泉秀樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/146166"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 165271,
+          "name": {
+            "first": "Rika",
+            "last": "Murakami",
+            "native": "村上李香"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n165271-XsGWrbumBIQa.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n165271-XsGWrbumBIQa.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/r_m_umedaya)",
+          "siteUrl": "https://anilist.co/staff/165271"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 165273,
+          "name": {
+            "first": "Kentarou",
+            "last": "Kashiwagi",
+            "native": "柏木健太郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n165273-L7wcgDIEktgX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n165273-L7wcgDIEktgX.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/150286490)",
+          "siteUrl": "https://anilist.co/staff/165273"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 165272,
+          "name": {
+            "first": "Bolun",
+            "last": "Cai",
+            "native": "蔡伯崙"
+          },
+          "language": "KOREAN",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n165272-AYDNNqC10Q3I.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n165272-AYDNNqC10Q3I.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/165272"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED: ep 39)",
+        "node": {
+          "id": 103636,
+          "name": {
+            "first": "",
+            "last": "Sphere",
+            "native": "スフィア "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8636.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8636.jpg"
+          },
+          "description": "[Official Website](http://www.planet-sphere.jp/main.php) | [Portal Square Website](https://sphere.m-rayn.jp/) | [Twitter](https://twitter.com/sphere_PS) | [YouTube](https://www.youtube.com/channel/UCVtovl8b4hJT2X-_gS1VTOA) | [Wiki (en)](https://en.wikipedia.org/wiki/Sphere_&#40;Japanese_band&#41;) | [Wiki (jp)](https://ja.wikipedia.org/wiki/スフィア_&#40;声優ユニット&#41;)\n\nSphere is a Japanese seiyuu idol group managed by Sony Music Entertainment's Music Ray'n subdivision.\n\nThe group took a short hiatus in 2017, but resumed activities in 2019.\n\n__Members:__\n• [Haruka Tomatsu](https://anilist.co/staff/95890/)\n• [Minako Kotobuki](https://anilist.co/staff/101634/)\n• [Ayahi Takagaki](https://anilist.co/staff/95823/)\n• [Aki Toyosaki](https://anilist.co/staff/95599/)",
+          "siteUrl": "https://anilist.co/staff/103636"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED2)",
+        "node": {
+          "id": 100110,
+          "name": {
+            "first": "Shouko",
+            "last": "Nakagawa",
+            "native": "中川翔子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100110-9XwHUPKpNC3d.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100110-9XwHUPKpNC3d.jpg"
+          },
+          "description": "__Birth Name:__ Nakagawa (中川) Shiyōko (しようこ)\n__Birth Place:__ Nakano, Tokyo, Japan \n__Nickname:__ Shokotan (しょこたん), Shokotasu (ショコタス)  \n__Height:__ 156cm  \n__BWH:__ 84 - 58 - 84 cm\n\n[Official Website](http://www.nakagawashoko.com/) | [Other Website]( http://shokoland.excite.co.jp/) | [Blog](http://ameblo.jp/nakagawa-shoko/) | [Twitter](https://twitter.com/shoko55mmts/) | [Sony Music Profile](http://www.sonymusic.co.jp/Music/Arch/SR/ShokoNakagawa/) | [Watanabe Entertainment Profile](http://www.watanabepro.co.jp/mypage/artist/nakagawashoko.html)\n\nShe is a Japanese idol, tarento, actress, seiyū (voice actor), illustrator and singer. She is the daughter of [Katsuhiko Nakagawa](https://anilist.co/staff/265314), a celebrity in Japan in the 1980s. ",
+          "siteUrl": "https://anilist.co/staff/100110"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP: ep 39, ED1)",
+        "node": {
+          "id": 120093,
+          "name": {
+            "first": "PENGUIN RESEARCH",
+            "last": "",
+            "native": "ペンギンリサーチ "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/25093-OJCL4KftJ0HV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/25093-OJCL4KftJ0HV.jpg"
+          },
+          "description": "__Genres:__ Rock (Alternative Rock), Anison\n\n__[Website](http://www.penguinresearch.jp/) | [Profile (SonyMusic)](http://www.sonymusic.co.jp/artist/penguinresearch/)__ | __[YouTube](https://www.youtube.com/channel/UCZPSPAvxS6Kb_gLe_HYi94g)__ | __[Twitter](https://twitter.com/PGR_info)__ | __[Spotify](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28)__\n\n__Biography:__\nPENGUIN RESEARCH, alternatively abbreviated PGR, is a Japanese five-piece rock band under record labels ultraCeep (2016–), SME Records (2016–) and Sacra Music (2017–). They made their major debut in 2016 with the release of their first full single titled \"[Joker ni Yoroshiku](https://www.youtube.com/watch?v=SnoDBlVBLh4)\", which initially aired as an ending in [Durararax2 Ketsu](https://anilist.co/anime/20880/Durararax2-Ketsu/).\n\n__Members:__\n- [Youji Ikuta](https://anilist.co/staff/153560/) (生田鷹司) – vocalist\n- [Shouta Horie](https://anilist.co/staff/156564) (堀江晶太) – bass guitarist and in-charge of lyrics and composition\n- [John Kanda](https://anilist.co/staff/160031) (神田ジョン) – guitarist\n- [Keita Shinbo](https://twitter.com/KeitaShinbo_PGR) (新保恵大) – drummer\n- [Yosuke Shibazaki](https://twitter.com/yosuke_pgr) (柴﨑洋輔) – keyboardist",
+          "siteUrl": "https://anilist.co/staff/120093"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP2)",
+        "node": {
+          "id": 151792,
+          "name": {
+            "first": "Jaejoong",
+            "last": "Kim",
+            "native": "김재중"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n151792-CuXI0MfeLLEc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n151792-CuXI0MfeLLEc.png"
+          },
+          "description": "[Official Japanese Website](https://jaefans.com/) | [Instagram](https://www.instagram.com/jj_1986_jj/) | [Twitter](https://twitter.com/bornfreeonekiss)\n\nKim Jaejoong is a South Korean singer, songwriter, actor, director and designer. He is best known for being one of the original members of the korean boyband [TVXQ](https://anilist.co/staff/101629/TVXQ) and is currently part of the group JYJ as well as a soloist. ",
+          "siteUrl": "https://anilist.co/staff/151792"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED3)",
+        "node": {
+          "id": 165279,
+          "name": {
+            "first": "noovy",
+            "last": null,
+            "native": "ヌーヴィー"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n165279-E8aVtJJeZGPd.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n165279-E8aVtJJeZGPd.jpg"
+          },
+          "description": "__[Website](https://www.noovy.jp/) | [Website (Old)](https://noovy.localinfo.jp/) | [Twitter](https://twitter.com/noovySTAFF) | [Instagram](https://www.instagram.com/noovyjapan/) | [Facebook](https://www.facebook.com/noovy1111/) | [YouTube](https://www.youtube.com/channel/UCbCBuaWvHQH1X1hhLRgBW6g)__\n\n__Formed:__ October 9, 2014\n\n__Biography:__\nnoovy is a Taiwanese boy band under record label Sony Music.\n\n__Members:__\n- Shawn (ショーン) – vocalist and guitarist\n- JK (ジェイケイ) – bass, chorus and guitarist\n- Mark (マーク) – drummer, chorus\n- Jacob (ジェコ) – bassist",
+          "siteUrl": "https://anilist.co/staff/165279"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP3)",
+        "node": {
+          "id": 165280,
+          "name": {
+            "first": "Sky Peace",
+            "last": null,
+            "native": "スカイピース"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n165280-u9Z81nR3Djod.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n165280-u9Z81nR3Djod.png"
+          },
+          "description": "__[Website](https://sky-peace.com/) | [Twitter](https://twitter.com/skypeace_teojin) | [YouTube](https://www.youtube.com/channel/UC8_wmm5DX9mb4jrLiw8ZYzw)__\n\n__Formed:__ 2016\n\n__Introduction:__\nSky Peace is a Japanese music unit under record label Sony Music Entertainment, affiliated with Epic Records Japan. The duo consists of Vine star Ooki Terashima and Nico Nico Douga rapper Jin Fujieda, who through a mutual relationship on Twitter decided to form a musical group.\n\n__Members:__\n- Theo-kun (テオくん), also known by real name Ooki Terashima (寺島大輝) – vocalist\n- Ini (☆イニ☆), also known by real name Jin Fujieda (藤枝仁), otherwise simply known as Jin (じん) – vocalist",
+          "siteUrl": "https://anilist.co/staff/165280"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP1)",
+        "node": {
+          "id": 165281,
+          "name": {
+            "first": "DISH//",
+            "last": null,
+            "native": "ディッシュ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n165281-ptNuJJyptQrk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n165281-ptNuJJyptQrk.png"
+          },
+          "description": "__[Website](https://dish-web.com/) | [Twitter](https://twitter.com/dish_info) | [Instagram](http://shorturl.at/rzOV7) | [YouTube](https://www.youtube.com/user/dishSMEJ)__\n\n__Formed:__ December 25, 2011\n__Genres:__ Rock (Dance Rock), J-POP/Pop\n\n__Introduction:__\nDish (stylized as DISH//) is a Japanese four-piece pop/rock band under record label Sony Music Records (2013–), who are also managed by talent agency Stardust Promotion. The group formed through the male music collective EBiDAN. They are known primarily as a \"Dance Rock\" band, which is a genre of rock where you actively play instruments while dancing.\n\nFor a while after their debut, they wouldn't perform while dancing with their instruments, but they would still sing while performing at the release event of their eight single \"HIGH-VOLTAGE DANCER\", which released in 2016. Additionally, their live performances are roughly divided into six formats; dance rock format (with or without a performance), band format, and dance format (with some specific exceptions). The three others formats consist of solo singing performances, duet singing performances, and general contests.\n\nTheir group name \"DISH//\", or \"DISH\", means \"dish\" in English and was named as such with the wish of \"becoming the main dish for everyone\". For this reason, it is customary for the band members to throw paper plates at the audience during their live performances.\n\n__Biography:__\nThe band originally formed all the way back in 2011 with the four members TAKUMI (北村匠海, Takumi Kitamura), To-i (橘柊生, Toui Tachibana), Masaki (矢部昌暉), Masaki Yabe), and RYUJI (小林龍二, Ryuuji Kobayashi).\n\nOn June 10, 2012, the band made their first indie debut with the release of their first indie single titled \"It's alright\". Later on October 10 in the same year, they released their second indie single titled \"Peter Pan Syndrome\". Additionally, on February 13, 2013, they released their third indie single titled \"Give Me Chocolate!\".\n\nLater in 2013, on June 19, they would make their major debut with the single titled \"I Can Hear\" through record label Sony Music Records. On August 5 in the same year, they would go on a tour which would last 10 days from Wakkanai, Hokkaido with the end goal of reaching Kagoshima on August 14th. They would on October 16 in the same year, release their second single titled \"sunny YA!\". The single peaked on the fifth spot in the Billboard JAPAN Hot Singles Sales (also known as weekly single sales ranking), and fourth on the Oricon CD single weekly ranking. Closing the end of the year, on December 4, they would release a \"side dish\" single titled \"Itsukawa Merry Christmas\".\n\n<i>(Contination of their biography can be found on [Wikipedia](https://ja.wikipedia.org/wiki/DISH//))</i>\n\n__Members:__\n- [Takumi Kitamura](https://anilist.co/staff/142134) (北村匠海) – leader of the band, vocalist and guitarist\n- Masaki Yabe (矢部昌暉) – guitarist and chorus\n- Toui Tachibana (橘柊生) – rapper, keyboardist, DJ and Fling Dish\n- Daichi Izumi (泉大智) – drummer\n\n__Former Members:__\n- Ryuuji Koyabyashi (小林龍二) – bassist, rapper\n\n(Source: [Wikipedia (JP)](https://ja.wikipedia.org/wiki/DISH//), edited)",
+          "siteUrl": "https://anilist.co/staff/165281"
+        }
+      },
+      {
+        "role": "ADR Director (English; Ocean Studios)",
+        "node": {
+          "id": 117591,
+          "name": {
+            "first": "Karl",
+            "last": "Willems",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117591-cpU7tiMhJ0tV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n117591-cpU7tiMhJ0tV.jpg"
+          },
+          "description": "Karl Willems is known as a voice director for many of Ocean's productions.",
+          "siteUrl": "https://anilist.co/staff/117591"
+        }
+      },
+      {
+        "role": "ADR Director (English)",
+        "node": {
+          "id": 106101,
+          "name": {
+            "first": "Russell",
+            "last": "Wait",
+            "native": null
+          },
+          "language": "ENGLISH",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106101-KprCq2TspE3V.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106101-KprCq2TspE3V.jpg"
+          },
+          "description": "Russell Wait (born February 15, 1977 in Santa Fe, New Mexico, U.S.) is an American voice actor and voice director based in Hong Kong.",
+          "siteUrl": "https://anilist.co/staff/106101"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 105248,
+          "name": {
+            "first": "Naohito",
+            "last": "Takahashi",
+            "native": "高橋ナオヒト"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105248-38FEWOQSiNSU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105248-38FEWOQSiNSU.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/高橋ナオヒト)",
+          "siteUrl": "https://anilist.co/staff/105248"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 28,
+          "name": "OLM",
+          "siteUrl": "https://anilist.co/studio/28"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 327,
+          "name": "Takara Tomy",
+          "siteUrl": "https://anilist.co/studio/327"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 62,
+          "name": "Shogakukan-Shueisha Productions",
+          "siteUrl": "https://anilist.co/studio/62"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 465,
+          "name": "Hasbro",
+          "siteUrl": "https://anilist.co/studio/465"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 269063,
+          "airingAt": 1530912600,
+          "episode": 1,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269064,
+          "airingAt": 1531517400,
+          "episode": 2,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269065,
+          "airingAt": 1532122200,
+          "episode": 3,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269066,
+          "airingAt": 1532727000,
+          "episode": 4,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269067,
+          "airingAt": 1533331800,
+          "episode": 5,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269068,
+          "airingAt": 1533936600,
+          "episode": 6,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269069,
+          "airingAt": 1534541400,
+          "episode": 7,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269070,
+          "airingAt": 1535146200,
+          "episode": 8,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269071,
+          "airingAt": 1535751000,
+          "episode": 9,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269072,
+          "airingAt": 1536355800,
+          "episode": 10,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269073,
+          "airingAt": 1536960600,
+          "episode": 11,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269074,
+          "airingAt": 1537565400,
+          "episode": 12,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269075,
+          "airingAt": 1538170200,
+          "episode": 13,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269076,
+          "airingAt": 1538775000,
+          "episode": 14,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269077,
+          "airingAt": 1539379800,
+          "episode": 15,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269078,
+          "airingAt": 1539984600,
+          "episode": 16,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269079,
+          "airingAt": 1540589400,
+          "episode": 17,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269080,
+          "airingAt": 1541194200,
+          "episode": 18,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269081,
+          "airingAt": 1541799000,
+          "episode": 19,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269082,
+          "airingAt": 1542403800,
+          "episode": 20,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269083,
+          "airingAt": 1543008600,
+          "episode": 21,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269084,
+          "airingAt": 1543613400,
+          "episode": 22,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269085,
+          "airingAt": 1544218200,
+          "episode": 23,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269086,
+          "airingAt": 1544823000,
+          "episode": 24,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269087,
+          "airingAt": 1545427800,
+          "episode": 25,
+          "mediaId": 101228,
+          "media": {
+            "id": 101228
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 5742,
+      "url": "https://www.anime-zoidswild.jp/",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 18
+      },
+      {
+        "score": 20,
+        "amount": 22
+      },
+      {
+        "score": 30,
+        "amount": 30
+      },
+      {
+        "score": 40,
+        "amount": 38
+      },
+      {
+        "score": 50,
+        "amount": 43
+      },
+      {
+        "score": 60,
+        "amount": 38
+      },
+      {
+        "score": 70,
+        "amount": 39
+      },
+      {
+        "score": 80,
+        "amount": 43
+      },
+      {
+        "score": 90,
+        "amount": 88
+      },
+      {
+        "score": 100,
+        "amount": 14
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 192
+      },
+      {
+        "status": "PLANNING",
+        "amount": 907
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 390
+      },
+      {
+        "status": "DROPPED",
+        "amount": 309
+      },
+      {
+        "status": "PAUSED",
+        "amount": 116
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/101228",
+  "modNotes": null
+}

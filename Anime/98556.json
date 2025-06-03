@@ -1,0 +1,752 @@
+{
+  "id": 98556,
+  "idMal": 35346,
+  "title": {
+    "native": "シンデレラガールズ劇場 火曜シンデレラシアター",
+    "romaji": "Cinderella Girls Gekijou: Kayou Cinderella Theater",
+    "english": "THE IDOLM@STER CINDERELLA GIRLS Theater (Web)"
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "An anime adaptation of the 5-panel manga, The IDOLM@STER Cinderella Girls Gekijou.",
+  "startDate": {
+    "year": 2017,
+    "month": 4,
+    "day": 4
+  },
+  "endDate": {
+    "year": 2017,
+    "month": 6,
+    "day": 28
+  },
+  "season": "SPRING",
+  "seasonYear": 2017,
+  "seasonInt": 172,
+  "episodes": 13,
+  "duration": 2,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": "#しんげき",
+  "trailer": {
+    "id": "9in1ampGgFA",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/9in1ampGgFA/hqdefault.jpg"
+  },
+  "updatedAt": 1748868674,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98556-FZivLyKTEgKW.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98556-FZivLyKTEgKW.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98556-FZivLyKTEgKW.jpg",
+    "color": "#f1ae43"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Music",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Cingeki ONA",
+    "The IDOLM@STER Cinderella Girls Gekijou (Game)",
+    "Cinderella Girls Gekijou ONA",
+    "シンデレラガールズ劇場 ONA",
+    "THE IDOLM@STER CINDERELLA GIRLS Theater: Tuesday Cinderella Theater"
+  ],
+  "averageScore": 63,
+  "meanScore": 64,
+  "popularity": 2217,
+  "favourites": 8,
+  "tags": [
+    {
+      "id": 115,
+      "name": "Idol",
+      "description": "Centers around the life and activities of an idol.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 209,
+      "name": "Dancing",
+      "description": "Centers around the art of dance.",
+      "category": "Theme-Arts-Music",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 97765,
+          "title": {
+            "native": "シンデレラガールズ劇場"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 100225,
+          "title": {
+            "native": "シンデレラガールズ劇場 火曜シンデレラシアター"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 102184,
+          "title": {
+            "native": "シンデレラガールズ劇場"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": []
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 400,
+          "name": "Gathering",
+          "siteUrl": "https://anilist.co/studio/400"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 174301,
+          "airingAt": 1491310500,
+          "episode": 1,
+          "mediaId": 98556,
+          "media": {
+            "id": 98556
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 174302,
+          "airingAt": 1491915300,
+          "episode": 2,
+          "mediaId": 98556,
+          "media": {
+            "id": 98556
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 174303,
+          "airingAt": 1492520100,
+          "episode": 3,
+          "mediaId": 98556,
+          "media": {
+            "id": 98556
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 174304,
+          "airingAt": 1493124900,
+          "episode": 4,
+          "mediaId": 98556,
+          "media": {
+            "id": 98556
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 174305,
+          "airingAt": 1493729700,
+          "episode": 5,
+          "mediaId": 98556,
+          "media": {
+            "id": 98556
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 174306,
+          "airingAt": 1494334500,
+          "episode": 6,
+          "mediaId": 98556,
+          "media": {
+            "id": 98556
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 174307,
+          "airingAt": 1494939300,
+          "episode": 7,
+          "mediaId": 98556,
+          "media": {
+            "id": 98556
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 174308,
+          "airingAt": 1495544100,
+          "episode": 8,
+          "mediaId": 98556,
+          "media": {
+            "id": 98556
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 174309,
+          "airingAt": 1496148900,
+          "episode": 9,
+          "mediaId": 98556,
+          "media": {
+            "id": 98556
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 174310,
+          "airingAt": 1496753700,
+          "episode": 10,
+          "mediaId": 98556,
+          "media": {
+            "id": 98556
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 174311,
+          "airingAt": 1497358500,
+          "episode": 11,
+          "mediaId": 98556,
+          "media": {
+            "id": 98556
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 174312,
+          "airingAt": 1497963300,
+          "episode": 12,
+          "mediaId": 98556,
+          "media": {
+            "id": 98556
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 174313,
+          "airingAt": 1498568100,
+          "episode": 13,
+          "mediaId": 98556,
+          "media": {
+            "id": 98556
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 4022,
+      "url": "https://twitter.com/cingeki_anime",
+      "site": "Twitter"
+    },
+    {
+      "id": 4023,
+      "url": "http://cingeki-anime.com/",
+      "site": "Official Site"
+    },
+    {
+      "id": 4079,
+      "url": "http://www.crunchyroll.com/the-idolmster-cinderella-girls-theater",
+      "site": "Crunchyroll"
+    }
+  ],
+  "streamingEpisodes": [
+    {
+      "title": "Episode 1 - Our Derella G Guest",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/a3ae3dae774f0878dff534ebc908252a1491304046_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GR3VP0896/our-derella-g-guest",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 2 - Splash Panic",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/d9d548f4eb967e74431ce74d700c4ff11491859815_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GYQ40VE36/splash-panic",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 3 - Dere-Radi...Guest...H-Hello...",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/cc6b008dc1aaf89d4992569bd13aa2351492487614_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GR3VZ1GZ6/dere-radiguesth-hello",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 4 - I'll Keep Asking Until It's All Gone",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/cd411a6ef6d4b848eb2f58af2eb2e1d71493067038_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GRQ42WG9Y/ill-keep-asking-until-its-all-gone",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 5 - Flower-Viewing in the Off Season",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/49ab91153f5481a76bbe5234609bc8cc1493727751_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G6P82PJM6/flower-viewing-in-the-off-season",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 6 - Cleanse My Wings",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/137f35cc7bb6c9b79c3244ebca553b0b1494289752_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G6MG2P0G6/cleanse-my-wings",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 7 - My Exciting Room",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/0544cc15c09db602e9c27b915baf2ff71494879769_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GR9PZN936/my-exciting-room",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 8 - Isn't This What Maids Do?",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/762b6d0586e5c1af34e36ee54c6f2fd21495497058_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GR5VZ3X0R/isnt-this-what-maids-do",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 9 - Three Sister Detectives!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/5076e86a47f0cc23e966ccbc75c42f821496130557_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GYMG2N43Y/three-sister-detectives",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 10 - When I Grow Up",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/ffee95fec8fc238b11deccec8ee368f91496738303_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GYMG253PY/when-i-grow-up",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 11 - Robot Episode",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/d82dbb3492ebcf3271ab25786cff91401497341348_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GY758VVN6/robot-episode",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 12 - Can't Hide My Cuteness",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/042c3b129870bb1b44cef6b59943d6f41497930056_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GR5V89PPR/cant-hide-my-cuteness",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 13 - Infinite Possibilities",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/3b28f89b148a69fe30167861a7043bc51498543781_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GR9P84E46/infinite-possibilities",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 14 - My Precious...",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/a5c4249047fcabc7887e9e07d9921c0f1507022493_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G649WMVQY/my-precious",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 15 - The Trick Is To... / The Never-Ending Reading Pile / Love Your Mushrooms",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/658b00f7ff161e6403924e81cd58544e1507328530_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GY5VGQNPY/the-trick-is-to-the-never-ending-reading-pile-love-your-mushrooms",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 16 - I'm Confident in My Teeth / Inner Punchlines / Where Are You!?",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/977daa91dd998cf1d7c2c578f4a1fe9f1508198400_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G62PQ0V76/im-confident-in-my-teeth-inner-punchlines-where-are-you",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 17 - Trick or NEET / It's Formal / Counter-Trick",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/c02b1c9f86ec63f97bc3f150a58fd2a41508803348_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GYVN77EP6/trick-or-neet-its-formal-counter-trick",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 18 - Showing off Ninja Arts / Competing With Youth?! / Every Five Minutes, From Chihiro-san",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/0762c0878d6ebb8b29c2799c7315bd191509404775_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GYE502W1R/showing-off-ninja-arts-competing-with-youth-every-five-minutes-from-chihiro-san",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 19 - Ranko Quest",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/50d11b6192bc49bf161b8a1175e8129b1510026295_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G6JQMWG2R/ranko-quest",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 20 - Touch... / Try New Things / (Still Hasn't Changed)",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/2af559af1fa4e2fac8942840d8264fdb1510640140_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GR8VN7WWR/touch-try-new-things-still-hasnt-changed",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 21 - Everyone's Feelings / Girls Shuffle! / Secret Plan",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/aded5b134e9ddce14eba32bc7bda74061511245890_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GRWEJ7Z8R/everyones-feelings-girls-shuffle-secret-plan",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 22 - Achoo! / Knitting Is the Mark of a Mom / Tiptoe Valentine",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/89f517b9c2ea3c79a666fae9c6e6498a1511843480_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GRGGWN52R/achoo-knitting-is-the-mark-of-a-mom-tiptoe-valentine",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 23 - Munakata Atsumi's Tallest Mountains Challenge! 3-Bout Battle!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9e699f86010a37be8afd8f85c4d3ecf31512447651_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GYJQEV726/munakata-atsumis-tallest-mountains-challenge-3-bout-battle",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 24 - Chomp! / My Far Yet Close World / Hold Happiness in the Palm of Your Hand",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/7dfd0decc6bf1d1e926e1069d7e76a741513056188_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GRDQJQ91Y/chomp-my-far-yet-close-world-hold-happiness-in-the-palm-of-your-hand",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 25 - Aiko Santa's Merry Problem / A Wish to Anzu Santa / You Should Understand!",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/6ee1d0c4402f47696672d2450adde3411513626321_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/G609484G6/aiko-santas-merry-problem-a-wish-to-anzu-santa-you-should-understand",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 26 - Late-night Slumber Party",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/cacaec7431614269a22f470381f944851514269614_full.jpg",
+      "url": "http://www.crunchyroll.com/watch/GRX0KK0P6/late-night-slumber-party",
+      "site": "Crunchyroll"
+    }
+  ],
+  "rankings": [
+    {
+      "id": 22731,
+      "rank": 28,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2017,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 207730,
+          "rating": 2,
+          "media": {
+            "id": 98556,
+            "title": {
+              "native": "シンデレラガールズ劇場 火曜シンデレラシアター"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 128563,
+            "title": {
+              "native": "ぷっちみく♪D4DJ Petit Mix"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 207732,
+          "rating": 1,
+          "media": {
+            "id": 98556,
+            "title": {
+              "native": "シンデレラガールズ劇場 火曜シンデレラシアター"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 101632,
+            "title": {
+              "native": "BanG Dream! ガルパ☆ピコ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 207734,
+          "rating": 1,
+          "media": {
+            "id": 98556,
+            "title": {
+              "native": "シンデレラガールズ劇場 火曜シンデレラシアター"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 113906,
+            "title": {
+              "native": "BanG Dream! ガルパ☆ピコ~大盛り~"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 207736,
+          "rating": 1,
+          "media": {
+            "id": 98556,
+            "title": {
+              "native": "シンデレラガールズ劇場 火曜シンデレラシアター"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 135171,
+            "title": {
+              "native": "BanG Dream! ガルパ☆ピコ ふぃーばー！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 207748,
+          "rating": 2,
+          "media": {
+            "id": 98556,
+            "title": {
+              "native": "シンデレラガールズ劇場 火曜シンデレラシアター"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 20498,
+            "title": {
+              "native": "ぷちます！！プチプチ・アイドルマスター"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 207750,
+          "rating": 1,
+          "media": {
+            "id": 98556,
+            "title": {
+              "native": "シンデレラガールズ劇場 火曜シンデレラシアター"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 113463,
+            "title": {
+              "native": "フライングベイビーズ☆プチ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 207752,
+          "rating": 1,
+          "media": {
+            "id": 98556,
+            "title": {
+              "native": "シンデレラガールズ劇場 火曜シンデレラシアター"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 102582,
+            "title": {
+              "native": "ぷちます!! プチプチ・アイドルマスター: ふゆ→こたつ←はる"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 207754,
+          "rating": 2,
+          "media": {
+            "id": 98556,
+            "title": {
+              "native": "シンデレラガールズ劇場 火曜シンデレラシアター"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 15649,
+            "title": {
+              "native": "ぷちます！－プチ・アイドルマスター－"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 207756,
+          "rating": 1,
+          "media": {
+            "id": 98556,
+            "title": {
+              "native": "シンデレラガールズ劇場 火曜シンデレラシアター"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 103923,
+            "title": {
+              "native": "アイドルマスター SideM　理由あってMini!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 207758,
+          "rating": 1,
+          "media": {
+            "id": 98556,
+            "title": {
+              "native": "シンデレラガールズ劇場 火曜シンデレラシアター"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 20816,
+            "title": {
+              "native": "うぇいくあっぷがーるＺＯＯ！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 207760,
+          "rating": 1,
+          "media": {
+            "id": 98556,
+            "title": {
+              "native": "シンデレラガールズ劇場 火曜シンデレラシアター"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 6119,
+            "title": {
+              "native": "クッキンアイドル　アイ！マイ！まいん！"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 15
+      },
+      {
+        "score": 20,
+        "amount": 10
+      },
+      {
+        "score": 30,
+        "amount": 14
+      },
+      {
+        "score": 40,
+        "amount": 43
+      },
+      {
+        "score": 50,
+        "amount": 143
+      },
+      {
+        "score": 60,
+        "amount": 249
+      },
+      {
+        "score": 70,
+        "amount": 248
+      },
+      {
+        "score": 80,
+        "amount": 101
+      },
+      {
+        "score": 90,
+        "amount": 55
+      },
+      {
+        "score": 100,
+        "amount": 48
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 82
+      },
+      {
+        "status": "PLANNING",
+        "amount": 549
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1484
+      },
+      {
+        "status": "DROPPED",
+        "amount": 67
+      },
+      {
+        "status": "PAUSED",
+        "amount": 35
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/98556",
+  "modNotes": null
+}

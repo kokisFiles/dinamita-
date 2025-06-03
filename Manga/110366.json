@@ -1,0 +1,371 @@
+{
+  "id": 110366,
+  "idMal": 133004,
+  "title": {
+    "native": "魔法科高校の劣等生 司波達也暗殺計画",
+    "romaji": "Mahouka Koukou no Rettousei: Shiba Tatsuya Ansatsu Keikaku",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "RELEASING",
+  "description": null,
+  "startDate": {
+    "year": 2019,
+    "month": 5,
+    "day": 27
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "LIGHT_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748429832,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110366-ur3p9EpUc8Hs.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110366-ur3p9EpUc8Hs.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx110366-ur3p9EpUc8Hs.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 73,
+  "popularity": 255,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 322,
+      "name": "Assassins",
+      "description": "Centers around characters who murder people as a profession.",
+      "category": "Theme-Other-Organisations",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 310,
+      "name": "Espionage",
+      "description": "Prominently features characters infiltrating an organization in order to steal sensitive information.",
+      "category": "Theme-Action",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 63699,
+          "title": {
+            "native": "魔法科高校の劣等生 入学編"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 131074,
+          "title": {
+            "native": "魔法科高校の劣等生 司波達也暗殺計画"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 189575,
+          "name": {
+            "first": "Kyouko",
+            "last": "Fujibayashi",
+            "native": "藤林響子",
+            "alternative": [
+              "Electron Sorceress"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b189575-uIyLuP83rBNc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b189575-uIyLuP83rBNc.png"
+          },
+          "siteUrl": "https://anilist.co/character/189575"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 55743,
+          "name": {
+            "first": "Tatsuya",
+            "last": "Shiba",
+            "native": "司波達也",
+            "alternative": [
+              "Onii-sama",
+              "Ooguro Ryuuya"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55743-g5JD7Dj6iP7R.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b55743-g5JD7Dj6iP7R.png"
+          },
+          "siteUrl": "https://anilist.co/character/55743"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 287915,
+          "name": {
+            "first": "Yuki",
+            "last": "Hashibami",
+            "native": "榛有希",
+            "alternative": [
+              "Nuts"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/287915"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 213001,
+          "name": {
+            "first": "Maya",
+            "last": "Yotsuba",
+            "native": "四葉真夜",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b213001-qaFn4a2bSTpG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b213001-qaFn4a2bSTpG.png"
+          },
+          "siteUrl": "https://anilist.co/character/213001"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 55741,
+          "name": {
+            "first": "Miyuki",
+            "last": "Shiba",
+            "native": "司波深雪",
+            "alternative": [
+              "Snow Queen"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55741-FX0mwEYDYZmw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b55741-FX0mwEYDYZmw.png"
+          },
+          "siteUrl": "https://anilist.co/character/55741"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 273823,
+          "name": {
+            "first": "Fumiya",
+            "last": "Kuroba",
+            "native": "黒羽文弥",
+            "alternative": [
+              "Yami"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b273823-4zJD240nBHs3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b273823-4zJD240nBHs3.png"
+          },
+          "siteUrl": "https://anilist.co/character/273823"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 123071,
+          "name": {
+            "first": "Yuyu",
+            "last": "Ichino",
+            "native": "一乃ゆゆ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123071-geDlJBYXKodH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n123071-geDlJBYXKodH.jpg"
+          },
+          "description": "[Website](http://akiba.sub.jp/) | [Twitter](https://twitter.com/yuyu_d) | [Twitter 2](https://twitter.com/ichino) | [Pixiv](https://www.pixiv.net/member.php?id=68864) | [Instagram](https://www.instagram.com/yuyuichino/)\n\nPublishes hentai under the pen name **Kawaisounako** (かわいそうな子).",
+          "siteUrl": "https://anilist.co/staff/123071"
+        }
+      },
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 110613,
+          "name": {
+            "first": "Tsutomu",
+            "last": "Satou",
+            "native": "佐島勤"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110613-4TYtEKUYztJ8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110613-4TYtEKUYztJ8.png"
+          },
+          "description": "[Official Website](https://tsutomusato.jp/)",
+          "siteUrl": "https://anilist.co/staff/110613"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 112601,
+          "name": {
+            "first": "Kana",
+            "last": "Ishida",
+            "native": "石田可奈"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112601-rb2OkyjUCr14.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112601-rb2OkyjUCr14.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/112601"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 4
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 83
+      },
+      {
+        "status": "PLANNING",
+        "amount": 147
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 5
+      },
+      {
+        "status": "DROPPED",
+        "amount": 8
+      },
+      {
+        "status": "PAUSED",
+        "amount": 12
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/110366",
+  "modNotes": null
+}

@@ -1,0 +1,375 @@
+{
+  "id": 43867,
+  "idMal": 13867,
+  "title": {
+    "native": "子供の言い分",
+    "romaji": "Kodomo no Iibun",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "This is the fourth in a series of stories:<br>\n1. Mainichi Seiten<br>\n2. Kodomo wa Tomaranai<br>\n3. Children's Time<br><em>4. Kodomo no Iibun</em><br>\n5. Isoganaide.<br>\n6. Hanaya no Nikai de<br><br>\nAlthough not specifically \"sequels\", this is the order that the stories were written/published in.",
+  "startDate": {
+    "year": 2003,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": 2005,
+    "month": 6,
+    "day": 25
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 10,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "LIGHT_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748185636,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43867-9FuIF6esFfU3.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43867-9FuIF6esFfU3.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx43867-9FuIF6esFfU3.png",
+    "color": "#43a1f1"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/43867-Tu7vdY0TwXdl.jpg",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "毎日晴天！シリーズ",
+    "Mainichi Seiten! Series"
+  ],
+  "averageScore": null,
+  "meanScore": 69,
+  "popularity": 124,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 75,
+      "name": "Boys' Love",
+      "description": "Prominently features romance between two males, not inherently sexual.",
+      "category": "Theme-Romance",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1102,
+      "name": "Inseki",
+      "description": "Features sexual or romantic relations among step, adopted, and other non-blood related family members.",
+      "category": "Sexual Content",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": true
+    },
+    {
+      "id": 88,
+      "name": "Primarily Male Cast",
+      "description": "Main cast is mostly composed of male characters.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 44382,
+          "title": {
+            "native": "明ちゃんの言い分"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 43565,
+          "title": {
+            "native": "チルドレンズ・タイム"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 149510,
+          "title": {
+            "native": "子供の言い分"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 43868,
+          "title": {
+            "native": "いそがないで。"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 74792,
+          "name": {
+            "first": "Yuuta",
+            "last": "Asuou",
+            "native": "阿蘇芳勇太",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74792.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74792.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74792"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 74786,
+          "name": {
+            "first": "Akinobu",
+            "last": "Obinata",
+            "native": "帯刀明信",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74786.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74786.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74786"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 74790,
+          "name": {
+            "first": "Mayumi",
+            "last": "Obinata",
+            "native": "帯刀真弓",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74790.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74790.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74790"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 74784,
+          "name": {
+            "first": "Shuu",
+            "last": "Asuou",
+            "native": "阿蘇芳秀",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74784.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74784.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74784"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 74788,
+          "name": {
+            "first": "Jou",
+            "last": "Obinata",
+            "native": "帯刀丈",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74788.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74788.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74788"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 74796,
+          "name": {
+            "first": "Tatsuya",
+            "last": "Satou",
+            "native": "佐藤達也",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74796.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74796.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74796"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 74782,
+          "name": {
+            "first": "Taiga",
+            "last": "Obinata",
+            "native": "帯刀大河",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/74782.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/74782.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/74782"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 97879,
+          "name": {
+            "first": "Akira",
+            "last": "Sugano",
+            "native": "菅野彰"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97879-OYkzNUCbtxzj.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97879-OYkzNUCbtxzj.jpg"
+          },
+          "description": "[Official Website](https://www.akirasugano.com/) | [Twitter](https://twitter.com/akirasugano)",
+          "siteUrl": "https://anilist.co/staff/97879"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 97880,
+          "name": {
+            "first": "Etsumi",
+            "last": "Ninomiya",
+            "native": "二宮悦巳"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97880-nlOclsdTeaZg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97880-nlOclsdTeaZg.png"
+          },
+          "description": "[Twitter](https://twitter.com/ninokuro)\n\nZodiac: Aries\n\nLoves kitties, and has a serious coffee addiction.",
+          "siteUrl": "https://anilist.co/staff/97880"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 3
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 4
+      },
+      {
+        "score": 70,
+        "amount": 16
+      },
+      {
+        "score": 80,
+        "amount": 12
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 6
+      },
+      {
+        "status": "PLANNING",
+        "amount": 42
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 63
+      },
+      {
+        "status": "DROPPED",
+        "amount": 8
+      },
+      {
+        "status": "PAUSED",
+        "amount": 5
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/43867",
+  "modNotes": null
+}

@@ -1,0 +1,546 @@
+{
+  "id": 46872,
+  "idMal": 16872,
+  "title": {
+    "native": "魔法少女リリカルなのはThe MOVIE 1st",
+    "romaji": "Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics",
+    "english": "Magical Girl Lyrical Nanoha: Movie 1st the Comics"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Adaptation of the 1st movie of Nanoha.",
+  "startDate": {
+    "year": 2009,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 16,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748523722,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16872.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16872.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/16872.jpg",
+    "color": "#d6501a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mahou Shoujo"
+  ],
+  "synonyms": [],
+  "averageScore": 65,
+  "meanScore": 78,
+  "popularity": 252,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 99,
+      "name": "Henshin",
+      "description": "Prominently features character or costume transformations which often grant special abilities.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 4985,
+          "title": {
+            "native": "魔法少女リリカルなのは The MOVIE 1st"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2010,
+          "name": {
+            "first": "Nanoha",
+            "last": "Takamachi",
+            "native": "高町なのは",
+            "alternative": [
+              "Ace of Ace",
+              "White Devil"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2010-fimDXaXie396.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2010-fimDXaXie396.png"
+          },
+          "siteUrl": "https://anilist.co/character/2010"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1896,
+          "name": {
+            "first": "Fate",
+            "last": "Testarossa",
+            "native": "フェイト・テスタロッサ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1896-uwXbPEqvbfLG.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1896-uwXbPEqvbfLG.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/1896"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2014,
+          "name": {
+            "first": "Arf",
+            "last": null,
+            "native": "アルフ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2014.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2014.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2014"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 19632,
+          "name": {
+            "first": "Linith",
+            "last": null,
+            "native": "リニス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/19632.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/19632.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/19632"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 26576,
+          "name": {
+            "first": "Mariel",
+            "last": "Atenza",
+            "native": "マリエル・アテンザ",
+            "alternative": [
+              "Marie"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/26576.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/26576.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/26576"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5937,
+          "name": {
+            "first": "Alisa",
+            "last": "Bannings",
+            "native": "アリサ・バニングス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5937.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5937.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5937"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3846,
+          "name": {
+            "first": "Lindy",
+            "last": "Harlaown",
+            "native": "リンディ・ハラオウン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/3846.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/3846.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3846"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4179,
+          "name": {
+            "first": "Chrono",
+            "last": "Harlaown",
+            "native": "クロノ・ハラオウン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4179.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4179.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4179"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5938,
+          "name": {
+            "first": "Amy",
+            "last": "Limietta",
+            "native": "エイミィ・リミエッタ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5938.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5938.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5938"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2879,
+          "name": {
+            "first": "Yuuno",
+            "last": "Scrya",
+            "native": "ユーノ・スクライア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2879.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/2879.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/2879"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9624,
+          "name": {
+            "first": "Kyouya",
+            "last": "Takamachi",
+            "native": "高町 恭也",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9624.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9624.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9624"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9625,
+          "name": {
+            "first": "Miyuki",
+            "last": "Takamachi",
+            "native": "高町 美由希",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9625.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9625.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9625"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 19624,
+          "name": {
+            "first": "Shirou",
+            "last": "Takamachi",
+            "native": "高町 士郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/19624.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/19624.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/19624"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 19625,
+          "name": {
+            "first": "Momoko",
+            "last": "Takamachi",
+            "native": "高町桃子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/19625.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/19625.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/19625"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5940,
+          "name": {
+            "first": "Alicia",
+            "last": "Testarossa",
+            "native": "アリシア・テスタロッサ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5940.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5940.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5940"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5939,
+          "name": {
+            "first": "Precia",
+            "last": "Testarossa",
+            "native": "プレシア・テスタロッサ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5939.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5939.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5939"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5936,
+          "name": {
+            "first": "Suzuka",
+            "last": "Tsukimura",
+            "native": "月村 すずか",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5936.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5936.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5936"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 103826,
+          "name": {
+            "first": "Masaki",
+            "last": "Tsuzuki",
+            "native": "都築真紀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "__Doujin Circle:__ PINK VISION\n\n__Masaki Tsuzuki__(first name sometimes spelled Maki), is a Japanese mangaka, scriptwriter, novelist, lyricist and former visual novel creator. Currently affiliated with [Seven Arcs](https://anilist.co/studio/35/Seven-Arcs). He is best known for the Magical Girl Lyrical Nanoha series as well as its parent series Triangle Heart. \n\nTsuzuki began his career as a doujinshi artist and once ran a doujin circle called *PINK VISION*. He later worked at the adult game company Ivory(stylized as *ivory*), where he developed the Triangle Heart series of visual novels. Afterwards, he joined animation studio Seven Arcs.\n\nHe is said to be friends with Symphogear series creator [Akifumi Kaneko](https://anilist.co/staff/109609/Akifumi-Kaneko), and the two have collaborated on certain occasions.",
+          "siteUrl": "https://anilist.co/staff/103826"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 34288,
+          "rating": 3,
+          "media": {
+            "id": 46872,
+            "title": {
+              "native": "魔法少女リリカルなのはThe MOVIE 1st"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 67599,
+            "title": {
+              "native": "戦姫絶唱シンフォギア"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 255918,
+          "rating": 1,
+          "media": {
+            "id": 46872,
+            "title": {
+              "native": "魔法少女リリカルなのはThe MOVIE 1st"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 141283,
+            "title": {
+              "native": "ときめけ♡魔法幼女ココピュア"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 368201,
+          "rating": 1,
+          "media": {
+            "id": 46872,
+            "title": {
+              "native": "魔法少女リリカルなのはThe MOVIE 1st"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 50548,
+            "title": {
+              "native": "Fate/stay night×魔法少女リリカルなのは"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 50,
+        "amount": 3
+      },
+      {
+        "score": 60,
+        "amount": 10
+      },
+      {
+        "score": 70,
+        "amount": 26
+      },
+      {
+        "score": 80,
+        "amount": 26
+      },
+      {
+        "score": 90,
+        "amount": 23
+      },
+      {
+        "score": 100,
+        "amount": 9
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 15
+      },
+      {
+        "status": "PLANNING",
+        "amount": 90
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 130
+      },
+      {
+        "status": "DROPPED",
+        "amount": 10
+      },
+      {
+        "status": "PAUSED",
+        "amount": 7
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/46872",
+  "modNotes": null
+}

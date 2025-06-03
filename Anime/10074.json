@@ -1,0 +1,400 @@
+{
+  "id": 10074,
+  "idMal": 10074,
+  "title": {
+    "native": "トリコ３Ｄ 開幕グルメアドベンチャー！！",
+    "romaji": "Toriko 3D: Kaimaku Gourmet Adventure!!",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "A Toriko movie, the action in it takes place before the beginning of the TV series. The story follows a kid, Peck, who lives in a village attacked by a Gerold. So, he seeks the help of Toriko.",
+  "startDate": {
+    "year": 2011,
+    "month": 3,
+    "day": 19
+  },
+  "endDate": {
+    "year": 2011,
+    "month": 3,
+    "day": 19
+  },
+  "season": "SPRING",
+  "seasonYear": 2011,
+  "seasonInt": 112,
+  "episodes": 1,
+  "duration": 40,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748883186,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10074.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10074.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/10074.jpg",
+    "color": "#fe8628"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n10074-Xq9zlRSzWPxX.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "synonyms": [],
+  "averageScore": 61,
+  "meanScore": 63,
+  "popularity": 1804,
+  "favourites": 13,
+  "tags": [
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 142,
+      "name": "Food",
+      "description": "Centers around cooking or food appraisal.",
+      "category": "Theme-Arts",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 6941,
+          "title": {
+            "native": "トリコ"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 10033,
+          "title": {
+            "native": "トリコ"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 19942,
+          "name": {
+            "first": "Komatsu",
+            "last": null,
+            "native": "小松",
+            "alternative": [
+              "Matsu",
+              "Komacchan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19942-K1Dyn78L7UDa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19942-K1Dyn78L7UDa.png"
+          },
+          "siteUrl": "https://anilist.co/character/19942"
+        },
+        "voiceActors": [
+          {
+            "id": 95082,
+            "name": {
+              "first": "Romi",
+              "last": "Park",
+              "native": "朴璐美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95082-pNGbnYv4cHAK.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95082-pNGbnYv4cHAK.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95082"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34062,
+          "name": {
+            "first": "Tom",
+            "last": null,
+            "native": "十夢",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34062.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34062.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34062"
+        },
+        "voiceActors": [
+          {
+            "id": 95167,
+            "name": {
+              "first": "Tetsuya",
+              "last": "Kakihara",
+              "native": "柿原徹也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95167-wjIShzThRTlS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95167-wjIShzThRTlS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95167"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 19939,
+          "name": {
+            "first": "Toriko",
+            "last": null,
+            "native": "トリコ",
+            "alternative": [
+              "The Glutton",
+              "Charismatic Goumet Hunter"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19939-BcCasRAV9SEJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19939-BcCasRAV9SEJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/19939"
+        },
+        "voiceActors": [
+          {
+            "id": 95177,
+            "name": {
+              "first": "Ryoutarou",
+              "last": "Okiayu",
+              "native": "置鮎龍太郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95177-6SiaUTf3CLkN.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95177-6SiaUTf3CLkN.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95177"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 50055,
+          "name": {
+            "first": "Peck",
+            "last": null,
+            "native": "ペック",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/50055.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/50055.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/50055"
+        },
+        "voiceActors": [
+          {
+            "id": 105111,
+            "name": {
+              "first": "Kaori",
+              "last": "Momoi",
+              "native": "桃井かおり"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105111-k7ImwUbia0c4.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105111-k7ImwUbia0c4.png"
+            },
+            "siteUrl": "https://anilist.co/staff/105111"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 100417,
+          "name": {
+            "first": "Mitsutoshi",
+            "last": "Shimabukuro",
+            "native": "島袋光年"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100417-Iky17eD6JdD9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100417-Iky17eD6JdD9.jpg"
+          },
+          "description": "Mitsutoshi Shimabukuro (島袋 光年, Shimabukuro Mitsutoshi) is a Japanese manga artist. He made his debut in 1996 in Weekly Shounen Jump and received a Akatsuka Award for best new comic manga writer. He is best known for Seikimatsu Leader Den Takeshi! (世紀末リーダー伝たけし!, \"A Tale of a Leader in the End of the Century Takeshi!\" (1997–2002, 24 volumes), for which he won the 2001 Shogakukan Manga Award for children's manga. His current series is Toriko (トリコ), which began serialization in Shuukan Shounen Jump in 2008.\n\nShimabukuro is friends with Eiichiro Oda, author of One Piece. SASAKI Takeshi was once an assistant.\n\nIn 2002, he was arrested and convicted of violating child prostitution laws, including paying a 16-year-old girl ¥80,000 to have sex. As a result of the arrest, Seikimatsu Leader Den Takeshi! was cancelled by Shuukan Shounen Jump.\n\n(Source: MU)",
+          "siteUrl": "https://anilist.co/staff/100417"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 115058,
+          "name": {
+            "first": "Junji",
+            "last": "Shimizu",
+            "native": "志水淳児"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115058-nyYPKXvuQ3XF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115058-nyYPKXvuQ3XF.png"
+          },
+          "description": "An animator and director working for Toei Animation.",
+          "siteUrl": "https://anilist.co/staff/115058"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 18,
+          "name": "Toei Animation",
+          "siteUrl": "https://anilist.co/studio/18"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 17339,
+      "rank": 45,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2011,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 17420,
+      "rank": 45,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2011,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 14
+      },
+      {
+        "score": 20,
+        "amount": 14
+      },
+      {
+        "score": 30,
+        "amount": 17
+      },
+      {
+        "score": 40,
+        "amount": 35
+      },
+      {
+        "score": 50,
+        "amount": 95
+      },
+      {
+        "score": 60,
+        "amount": 159
+      },
+      {
+        "score": 70,
+        "amount": 182
+      },
+      {
+        "score": 80,
+        "amount": 104
+      },
+      {
+        "score": 90,
+        "amount": 25
+      },
+      {
+        "score": 100,
+        "amount": 29
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 57
+      },
+      {
+        "status": "PLANNING",
+        "amount": 606
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1080
+      },
+      {
+        "status": "DROPPED",
+        "amount": 32
+      },
+      {
+        "status": "PAUSED",
+        "amount": 29
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/10074",
+  "modNotes": null
+}

@@ -1,0 +1,268 @@
+{
+  "id": 152005,
+  "idMal": 51542,
+  "title": {
+    "native": "虚構推理 ミニアニメ Season2",
+    "romaji": "Kyokou Suiri Mini Anime Season 2",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "The second season of mini animations featuring characters from <i>Kyokou Suiri</i>, posted on the official Twitter account.",
+  "startDate": {
+    "year": 2022,
+    "month": 2,
+    "day": 11
+  },
+  "endDate": {
+    "year": 2022,
+    "month": 9,
+    "day": 30
+  },
+  "season": "WINTER",
+  "seasonYear": 2022,
+  "seasonInt": 221,
+  "episodes": 16,
+  "duration": 2,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": "#虚構推理",
+  "trailer": null,
+  "updatedAt": 1748771154,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152005-OXFYKLw6vQHu.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152005-OXFYKLw6vQHu.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx152005-OXFYKLw6vQHu.png",
+    "color": "#f1d65d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "In/Spectre Mini Season 2"
+  ],
+  "averageScore": 51,
+  "meanScore": 55,
+  "popularity": 733,
+  "favourites": 8,
+  "tags": [
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 113828,
+          "title": {
+            "native": "虚構推理 ミニアニメ"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 126529,
+          "title": {
+            "native": "虚構推理 Season2"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 125947,
+          "name": {
+            "first": "Kurou",
+            "last": "Sakuragawa",
+            "native": "桜川九郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125947-i00TGOORpPyt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b125947-i00TGOORpPyt.png"
+          },
+          "siteUrl": "https://anilist.co/character/125947"
+        },
+        "voiceActors": [
+          {
+            "id": 95065,
+            "name": {
+              "first": "Mamoru",
+              "last": "Miyano",
+              "native": "宮野真守"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95065-eyynywrhombR.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95065"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 125946,
+          "name": {
+            "first": "Kotoko",
+            "last": "Iwanaga",
+            "native": "岩永琴子",
+            "alternative": [
+              "Goddess of Wisdom"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125946-YAjl4xufsVYn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b125946-YAjl4xufsVYn.png"
+          },
+          "siteUrl": "https://anilist.co/character/125946"
+        },
+        "voiceActors": [
+          {
+            "id": 119722,
+            "name": {
+              "first": "Akari",
+              "last": "Kitou",
+              "native": "鬼頭明里"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119722-Ls7ORfBejJEP.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119722-Ls7ORfBejJEP.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/119722"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6417,
+          "name": "AQUA ARIS",
+          "siteUrl": "https://anilist.co/studio/6417"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 53722,
+      "url": "https://twitter.com/kyokou_suiri",
+      "site": "Twitter"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 20,
+        "amount": 6
+      },
+      {
+        "score": 30,
+        "amount": 7
+      },
+      {
+        "score": 40,
+        "amount": 14
+      },
+      {
+        "score": 50,
+        "amount": 28
+      },
+      {
+        "score": 60,
+        "amount": 27
+      },
+      {
+        "score": 70,
+        "amount": 15
+      },
+      {
+        "score": 80,
+        "amount": 10
+      },
+      {
+        "score": 90,
+        "amount": 8
+      },
+      {
+        "score": 100,
+        "amount": 5
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 38
+      },
+      {
+        "status": "PLANNING",
+        "amount": 383
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 248
+      },
+      {
+        "status": "DROPPED",
+        "amount": 41
+      },
+      {
+        "status": "PAUSED",
+        "amount": 23
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/152005",
+  "modNotes": null
+}

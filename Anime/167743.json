@@ -1,0 +1,983 @@
+{
+  "id": 167743,
+  "idMal": 56142,
+  "title": {
+    "native": "美少女無罪♡パイレーツ",
+    "romaji": "Bishoujyo Muzai♡Pirates",
+    "english": "Bishoujyo Muzai Pirates"
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Music video for the song <i>Bishoujyo Muzai♡Pirates</i> by Houshou Marine.",
+  "startDate": {
+    "year": 2023,
+    "month": 7,
+    "day": 30
+  },
+  "endDate": {
+    "year": 2023,
+    "month": 7,
+    "day": 30
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 4,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": "#宝鐘マリン #びしょパイ",
+  "trailer": {
+    "id": "KfZR9jVP6tw",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/KfZR9jVP6tw/hqdefault.jpg"
+  },
+  "updatedAt": 1748895352,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167743-ZQyhYBrR6SxO.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167743-ZQyhYBrR6SxO.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167743-ZQyhYBrR6SxO.png",
+    "color": "#d6781a"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167743-MM7PbiQTF4RG.jpg",
+  "genres": [],
+  "synonyms": [
+    "Bishopai",
+    "びしょパイ"
+  ],
+  "averageScore": 73,
+  "meanScore": 76,
+  "popularity": 1092,
+  "favourites": 25,
+  "tags": [
+    {
+      "id": 1047,
+      "name": "VTuber",
+      "description": "Prominently features a character who is either an actual or fictive VTuber.",
+      "category": "Cast-Traits",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 201,
+      "name": "Pirates",
+      "description": "Prominently features sea-faring adventurers branded as criminals by the law.",
+      "category": "Cast-Traits",
+      "rank": 75,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 209,
+      "name": "Dancing",
+      "description": "Centers around the art of dance.",
+      "category": "Theme-Arts-Music",
+      "rank": 65,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 118123,
+          "title": {
+            "native": "ホロのぐらふぃてぃ"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 169489,
+          "name": {
+            "first": "Marine",
+            "last": "Houshou",
+            "native": "宝鐘マリン",
+            "alternative": [
+              "Senchou (Captain)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169489-PQ0lLCD2BoKG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169489-PQ0lLCD2BoKG.png"
+          },
+          "siteUrl": "https://anilist.co/character/169489"
+        },
+        "voiceActors": [
+          {
+            "id": 197904,
+            "name": {
+              "first": "Marine",
+              "last": "Houshou",
+              "native": "宝鐘マリン"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n197904-X1SfwpvFZAXC.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n197904-X1SfwpvFZAXC.png"
+            },
+            "siteUrl": "https://anilist.co/staff/197904"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 206019,
+          "name": {
+            "first": "Ina'nis",
+            "last": "Ninomae",
+            "native": "一伊那尓栖",
+            "alternative": [
+              "Inanis Ninomae",
+              "Ina",
+              "Suspicious",
+              "Tako"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206019-DJ9tFFCDaEVt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206019-DJ9tFFCDaEVt.png"
+          },
+          "siteUrl": "https://anilist.co/character/206019"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 206017,
+          "name": {
+            "first": "Gura",
+            "last": "Gawr",
+            "native": "がうる・ぐら",
+            "alternative": [
+              "City Pop Shark",
+              "Same-chan",
+              "Apex Predator"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206017-SsxyG3HOaMdv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206017-SsxyG3HOaMdv.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/206017"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169492,
+          "name": {
+            "first": "Pekora",
+            "last": "Usada",
+            "native": "兎田ぺこら",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169492-td5UVxwzQe5g.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169492-td5UVxwzQe5g.png"
+          },
+          "siteUrl": "https://anilist.co/character/169492"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169497,
+          "name": {
+            "first": "Aqua",
+            "last": "Minato",
+            "native": "湊あくあ",
+            "alternative": [
+              "Dai Tenshi Aqua",
+              "Onion",
+              "Baqua",
+              "Aqu-tan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169497-w777keD7LP7l.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169497-w777keD7LP7l.png"
+          },
+          "siteUrl": "https://anilist.co/character/169497"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 180468,
+          "name": {
+            "first": "Kanata",
+            "last": "Amane",
+            "native": "天音かなた",
+            "alternative": [
+              "PPTenshi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180468-Dp56lXqOQE5q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180468-Dp56lXqOQE5q.png"
+          },
+          "siteUrl": "https://anilist.co/character/180468"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169498,
+          "name": {
+            "first": "Flare",
+            "last": "Shiranui",
+            "native": "不知火フレア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169498-t1J360vDV2JT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169498-t1J360vDV2JT.png"
+          },
+          "siteUrl": "https://anilist.co/character/169498"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169495,
+          "name": {
+            "first": "Noel",
+            "last": "Shirogane",
+            "native": "白銀ノエル",
+            "alternative": [
+              "Danchou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169495-tZfll0a8y8BV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169495-tZfll0a8y8BV.png"
+          },
+          "siteUrl": "https://anilist.co/character/169495"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music Vocal Performance",
+        "node": {
+          "id": 197904,
+          "name": {
+            "first": "Marine",
+            "last": "Houshou",
+            "native": "宝鐘マリン"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n197904-X1SfwpvFZAXC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n197904-X1SfwpvFZAXC.png"
+          },
+          "description": "**Height:** 150 cm\n**Fanbase name:** Houshou no Ichimi\n\n[YouTube](https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg) | [Twitter](https://twitter.com/houshoumarine) | [Hololive Profile](https://hololive.hololivepro.com/en/talents/houshou-marine/) | [Bilibili](https://space.bilibili.com/454955503/) | [Pixiv](https://www.pixiv.net/users/43505343)\n\n*\"Ahoy~!\"*\n\nHoushou Marine is a female Japanese Virtual YouTuber endorsed by Hololive Production. A part of the third generation wave of Hololive, also known as Hololive Fantasy. \n\nHer character designer is [Ai Akasa](https://anilist.co/staff/186919).",
+          "siteUrl": "https://anilist.co/staff/197904"
+        }
+      },
+      {
+        "role": "Title Logo Design",
+        "node": {
+          "id": 283852,
+          "name": {
+            "first": "saku39",
+            "last": null,
+            "native": "saku39"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n283852-UGPHUJoQjaW3.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n283852-UGPHUJoQjaW3.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/skb318)",
+          "siteUrl": "https://anilist.co/staff/283852"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 197904,
+          "name": {
+            "first": "Marine",
+            "last": "Houshou",
+            "native": "宝鐘マリン"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n197904-X1SfwpvFZAXC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n197904-X1SfwpvFZAXC.png"
+          },
+          "description": "**Height:** 150 cm\n**Fanbase name:** Houshou no Ichimi\n\n[YouTube](https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg) | [Twitter](https://twitter.com/houshoumarine) | [Hololive Profile](https://hololive.hololivepro.com/en/talents/houshou-marine/) | [Bilibili](https://space.bilibili.com/454955503/) | [Pixiv](https://www.pixiv.net/users/43505343)\n\n*\"Ahoy~!\"*\n\nHoushou Marine is a female Japanese Virtual YouTuber endorsed by Hololive Production. A part of the third generation wave of Hololive, also known as Hololive Fantasy. \n\nHer character designer is [Ai Akasa](https://anilist.co/staff/186919).",
+          "siteUrl": "https://anilist.co/staff/197904"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 120006,
+          "name": {
+            "first": "Masato",
+            "last": "Anno",
+            "native": "安野将人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120006-Bq2jM2cLRRdP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n120006-Bq2jM2cLRRdP.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/211927741)",
+          "siteUrl": "https://anilist.co/staff/120006"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 131185,
+          "name": {
+            "first": "Kanna",
+            "last": "Hirayama",
+            "native": "平山寛菜"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131185-DZZmi9rbz3yg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n131185-DZZmi9rbz3yg.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/kaaaaaappe) | [Bluesky](https://bsky.app/profile/kaaaaaappe.bsky.social) | [Tumblr](https://kaaaaaappe.tumblr.com) | [Pixiv](https://www.pixiv.net/en/users/11590181) | [Pixiv Fanbox](https://kaaaaaappe.fanbox.cc/) | [Sakugabooru](https://www.sakugabooru.com/post?tags=kanna_hirayama)",
+          "siteUrl": "https://anilist.co/staff/131185"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 287399,
+          "name": {
+            "first": "Shinjirou",
+            "last": "Kuroda",
+            "native": "黒田新次郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/kuro_shinjiro)",
+          "siteUrl": "https://anilist.co/staff/287399"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 244111,
+          "name": {
+            "first": "Houjicha",
+            "last": null,
+            "native": "ほうじ茶"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n244111-fL5EQn77Xq8n.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n244111-fL5EQn77Xq8n.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/asasafrrgreg)",
+          "siteUrl": "https://anilist.co/staff/244111"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 122660,
+          "name": {
+            "first": "Akiko",
+            "last": "Takase",
+            "native": "高瀬亜貴子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122660-pf3cXCTfaAyi.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n122660-pf3cXCTfaAyi.jpg"
+          },
+          "description": "[Twitter](https://mobile.twitter.com/takasemaru919)",
+          "siteUrl": "https://anilist.co/staff/122660"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 132083,
+          "name": {
+            "first": "Eri",
+            "last": "Irei",
+            "native": "伊礼えり"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n132083-uBbkplKbpn0T.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n132083-uBbkplKbpn0T.jpg"
+          },
+          "description": "[Twitter (JP)](https://twitter.com/ireieri_) | [Twitter (KR)](https://twitter.com/pinuett) | [Pixiv](https://www.pixiv.net/en/users/5298834)",
+          "siteUrl": "https://anilist.co/staff/132083"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 131950,
+          "name": {
+            "first": "Toshiya",
+            "last": "Kouno",
+            "native": "河野敏弥"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131950-Sr5sFKm9ZI5o.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n131950-Sr5sFKm9ZI5o.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/3070697778)",
+          "siteUrl": "https://anilist.co/staff/131950"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 283848,
+          "name": {
+            "first": "Chatsubaki",
+            "last": null,
+            "native": "茶椿"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n283848-pFvWGhv0hYfz.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n283848-pFvWGhv0hYfz.png"
+          },
+          "description": "[Twitter](https://twitter.com/tyabaco_va)",
+          "siteUrl": "https://anilist.co/staff/283848"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 266625,
+          "name": {
+            "first": "Cona",
+            "last": "Nitanda",
+            "native": "二反田こな"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n266625-j4YxuvW95zhI.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n266625-j4YxuvW95zhI.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/nitanda_cona) | [Pixiv](https://www.pixiv.net/en/users/2647358)",
+          "siteUrl": "https://anilist.co/staff/266625"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 244108,
+          "name": {
+            "first": "Tease",
+            "last": null,
+            "native": "てあせ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n244108-6qQhCSeGGbpq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n244108-6qQhCSeGGbpq.png"
+          },
+          "description": "[Twitter](https://twitter.com/tease__)",
+          "siteUrl": "https://anilist.co/staff/244108"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 175324,
+          "name": {
+            "first": "Orie",
+            "last": "Hirayama",
+            "native": "平山央利恵"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/175324"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 120006,
+          "name": {
+            "first": "Masato",
+            "last": "Anno",
+            "native": "安野将人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120006-Bq2jM2cLRRdP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n120006-Bq2jM2cLRRdP.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/211927741)",
+          "siteUrl": "https://anilist.co/staff/120006"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 183751,
+          "name": {
+            "first": "Naoyuki",
+            "last": "Yagi",
+            "native": "八木尚之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/183751"
+        }
+      },
+      {
+        "role": "3DCG",
+        "node": {
+          "id": 276389,
+          "name": {
+            "first": "TJ",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n276389-2LwXAfxeimjM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n276389-2LwXAfxeimjM.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/_TJ0816)\n\nAffiliated with [FLAT STUDIO](https://anilist.co/studio/6687/FLAT-STUDIO).",
+          "siteUrl": "https://anilist.co/staff/276389"
+        }
+      },
+      {
+        "role": "Finishing Assistance",
+        "node": {
+          "id": 187348,
+          "name": {
+            "first": "Naoto",
+            "last": "Kondou",
+            "native": "近藤直登"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Website](https://sites.google.com/view/color-kondo/) | [Facebook](https://www.facebook.com/naoto.kondo.397)",
+          "siteUrl": "https://anilist.co/staff/187348"
+        }
+      },
+      {
+        "role": "Photography",
+        "node": {
+          "id": 244112,
+          "name": {
+            "first": "Warabe",
+            "last": "Hoozuki",
+            "native": "鬼灯わらべ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n244112-3FPk0k7AFHhn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n244112-3FPk0k7AFHhn.png"
+          },
+          "description": "**Illustrator:** [Yasuyuki](https://anilist.co/staff/118285/)\n\n[YouTube](https://www.youtube.com/channel/UCLyTXfCZtl7dyhta9Jg3pZg) | [Twitter](https://twitter.com/hoozukiwarabe)\n\nHoozuki Warabe is a female Japanese Virtual YouTuber endorsed by [Tsukudani Norio](https://anilist.co/staff/115681/Norio-Tsukudani) Production. Apart of the second generation wave of NoriPro, she graduated of being a VTuber in 2023, but will continue as a video editor under NoriPro.",
+          "siteUrl": "https://anilist.co/staff/244112"
+        }
+      },
+      {
+        "role": "Background Art",
+        "node": {
+          "id": 276389,
+          "name": {
+            "first": "TJ",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n276389-2LwXAfxeimjM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n276389-2LwXAfxeimjM.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/_TJ0816)\n\nAffiliated with [FLAT STUDIO](https://anilist.co/studio/6687/FLAT-STUDIO).",
+          "siteUrl": "https://anilist.co/staff/276389"
+        }
+      },
+      {
+        "role": "Production Assistant",
+        "node": {
+          "id": 186072,
+          "name": {
+            "first": "Yuuya",
+            "last": "Konishi",
+            "native": "小西裕也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/186072"
+        }
+      },
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 311360,
+          "name": {
+            "first": "Takashi",
+            "last": "Iwami",
+            "native": "岩見陸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/sosite_iwamikun)",
+          "siteUrl": "https://anilist.co/staff/311360"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 311360,
+          "name": {
+            "first": "Takashi",
+            "last": "Iwami",
+            "native": "岩見陸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/sosite_iwamikun)",
+          "siteUrl": "https://anilist.co/staff/311360"
+        }
+      },
+      {
+        "role": "Music Arrangement",
+        "node": {
+          "id": 311360,
+          "name": {
+            "first": "Takashi",
+            "last": "Iwami",
+            "native": "岩見陸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/sosite_iwamikun)",
+          "siteUrl": "https://anilist.co/staff/311360"
+        }
+      },
+      {
+        "role": "Choreography",
+        "node": {
+          "id": 283849,
+          "name": {
+            "first": "Wata",
+            "last": null,
+            "native": "わた"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n283849-BxyCVakNDv23.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n283849-BxyCVakNDv23.png"
+          },
+          "description": "[Twitter](https://twitter.com/wata0w0) | [Instagram](https://www.instagram.com/wata0w0/) | [YouTube](https://www.youtube.com/@wata0w0)",
+          "siteUrl": "https://anilist.co/staff/283849"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 360200,
+          "airingAt": 1690722120,
+          "episode": 1,
+          "mediaId": 167743,
+          "media": {
+            "id": 167743
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 75822,
+      "url": "https://www.youtube.com/watch?v=KfZR9jVP6tw",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 222750,
+          "rating": 17,
+          "media": {
+            "id": 167743,
+            "title": {
+              "native": "美少女無罪♡パイレーツ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 152962,
+            "title": {
+              "native": "I’m Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 222752,
+          "rating": 14,
+          "media": {
+            "id": 167743,
+            "title": {
+              "native": "美少女無罪♡パイレーツ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 148104,
+            "title": {
+              "native": "マリン出航！！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 223404,
+          "rating": 6,
+          "media": {
+            "id": 167743,
+            "title": {
+              "native": "美少女無罪♡パイレーツ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 137800,
+            "title": {
+              "native": "Unison"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 237170,
+          "rating": 2,
+          "media": {
+            "id": 167743,
+            "title": {
+              "native": "美少女無罪♡パイレーツ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 126663,
+            "title": {
+              "native": "Ahoy!! 我ら宝鐘海賊団☆"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 239390,
+          "rating": 3,
+          "media": {
+            "id": 167743,
+            "title": {
+              "native": "美少女無罪♡パイレーツ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 170917,
+            "title": {
+              "native": "SHINKIRO"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 282511,
+          "rating": 3,
+          "media": {
+            "id": 167743,
+            "title": {
+              "native": "美少女無罪♡パイレーツ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 179880,
+            "title": {
+              "native": "幽霊船戦"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 289053,
+          "rating": 5,
+          "media": {
+            "id": 167743,
+            "title": {
+              "native": "美少女無罪♡パイレーツ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 181277,
+            "title": {
+              "native": "パイパイ仮面でどうかしらん？"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 415115,
+          "rating": 2,
+          "media": {
+            "id": 167743,
+            "title": {
+              "native": "美少女無罪♡パイレーツ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 191734,
+            "title": {
+              "native": "A Horny Money World ~伝説の夜~"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 4
+      },
+      {
+        "score": 20,
+        "amount": 7
+      },
+      {
+        "score": 30,
+        "amount": 6
+      },
+      {
+        "score": 40,
+        "amount": 10
+      },
+      {
+        "score": 50,
+        "amount": 24
+      },
+      {
+        "score": 60,
+        "amount": 48
+      },
+      {
+        "score": 70,
+        "amount": 109
+      },
+      {
+        "score": 80,
+        "amount": 103
+      },
+      {
+        "score": 90,
+        "amount": 86
+      },
+      {
+        "score": 100,
+        "amount": 93
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 14
+      },
+      {
+        "status": "PLANNING",
+        "amount": 92
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 963
+      },
+      {
+        "status": "DROPPED",
+        "amount": 17
+      },
+      {
+        "status": "PAUSED",
+        "amount": 6
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/167743",
+  "modNotes": null
+}

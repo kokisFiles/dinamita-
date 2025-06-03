@@ -1,0 +1,852 @@
+{
+  "id": 33159,
+  "idMal": 3159,
+  "title": {
+    "native": "ティスタ",
+    "romaji": "Tista",
+    "english": "Tista"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Tista leads a dual life as the grim reaper of New York City and a university student studying to be a teacher. With extraordinary eyesight allowing her to make long-range shots with unrivaled accuracy, she has come to be feared by the criminal underground. Tista knows she’s doomed, but can her feelings for a young man she just met bring her back from the abyss? And what will she do if he finds out who she really is?<br><br>(Source: VIZ)",
+  "startDate": {
+    "year": 2007,
+    "month": 11,
+    "day": 4
+  },
+  "endDate": {
+    "year": 2008,
+    "month": 8,
+    "day": 4
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 9,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748888558,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33159-6DTJk4eaiYLH.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33159-6DTJk4eaiYLH.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx33159-6DTJk4eaiYLH.png",
+    "color": "#783528"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "synonyms": [],
+  "averageScore": 61,
+  "meanScore": 62,
+  "popularity": 2156,
+  "favourites": 21,
+  "tags": [
+    {
+      "id": 157,
+      "name": "Guns",
+      "description": "Prominently features the use of guns in combat.",
+      "category": "Theme-Action",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 322,
+      "name": "Assassins",
+      "description": "Centers around characters who murder people as a profession.",
+      "category": "Theme-Other-Organisations",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 79,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 198,
+      "name": "Foreign",
+      "description": "Partly or completely set in a country outside the country of origin.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 648,
+      "name": "Crime",
+      "description": "Centers around unlawful activities punishable by the state or other authority.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 595,
+      "name": "Urban",
+      "description": "Partly or completely set in a city.",
+      "category": "Setting-Scene",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 104,
+      "name": "Anti-Hero",
+      "description": "Features a protagonist who lacks conventional heroic attributes and may be considered a borderline villain.",
+      "category": "Cast-Main Cast",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1382,
+      "name": "Orphan",
+      "description": "Prominently features a character that is an orphan.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 240,
+      "name": "Amnesia",
+      "description": "Prominently features a character(s) with memory loss.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 40,
+      "name": "Police",
+      "description": "Centers around the life and activities of law enforcement officers.",
+      "category": "Theme-Other-Organisations",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1045,
+      "name": "Heterosexual",
+      "description": "Prominently features a romance between a man and a woman, not inherently sexual.",
+      "category": "Theme-Romance",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 614,
+      "name": "Nun",
+      "description": "Prominently features a character who is a nun.",
+      "category": "Cast-Traits",
+      "rank": 53,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": []
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7303,
+          "name": {
+            "first": "Tista",
+            "last": "Lone",
+            "native": "ティスタ",
+            "alternative": [
+              "Sister Militia",
+              "Tisse"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7303.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7303.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7303"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72299,
+          "name": {
+            "first": "Charlie",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/72299.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/72299.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/72299"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7305,
+          "name": {
+            "first": "Macky",
+            "last": null,
+            "native": "マッキー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7305.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7305.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7305"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7306,
+          "name": {
+            "first": "Mother Superior",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7306.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7306.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7306"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72301,
+          "name": {
+            "first": "Scar",
+            "last": "Bandaid",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/72301.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/72301.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/72301"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7304,
+          "name": {
+            "first": "Arty",
+            "last": "Drowa",
+            "native": "アーティー・ドロワー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7304.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7304.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7304"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72305,
+          "name": {
+            "first": "Nina",
+            "last": "Holyvor",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/72305.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/72305.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/72305"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72297,
+          "name": {
+            "first": "Brother",
+            "last": "Lone",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/72297.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/72297.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/72297"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72303,
+          "name": {
+            "first": "Father",
+            "last": "Petrus",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/72303.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/72303.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/72303"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7307,
+          "name": {
+            "first": "Brother",
+            "last": "Proko",
+            "native": "ブラザー・プロコ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7307.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7307.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7307"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 54247,
+          "name": {
+            "first": "Snow",
+            "last": "Ruethart",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/54247.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/54247.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/54247"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 54811,
+          "name": {
+            "first": "Suzy",
+            "last": "Suzine",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/54811.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/54811.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/54811"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 98543,
+          "name": {
+            "first": "Tatsuya",
+            "last": "Endou",
+            "native": "遠藤達哉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98543-PbFshjbz7YpJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98543-PbFshjbz7YpJ.png"
+          },
+          "description": "\nHe was previously an assistant to [Tatsuki Fujimoto](https://anilist.co/staff/119917/Tatsuki-Fujimoto) and [Kazue Katou](https://anilist.co/staff/103052/Kazue-Katou)\n\n[Twitter](https://twitter.com/_tatsuyaendo_)",
+          "siteUrl": "https://anilist.co/staff/98543"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 257544,
+          "name": {
+            "first": "Shihei",
+            "last": "Lin",
+            "native": "林士平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n257544-M8repb3FUGgr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n257544-M8repb3FUGgr.png"
+          },
+          "description": "[Twitter](https://twitter.com/SHIHEILIN)\n\nA freelance editor previously affiliated with Shounen Jump+.",
+          "siteUrl": "https://anilist.co/staff/257544"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 102365,
+      "url": "https://www.viz.com/tista",
+      "site": "Official Site"
+    },
+    {
+      "id": 102527,
+      "url": "https://www.viz.com/shonenjump/chapters/tista",
+      "site": "Viz"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 27553,
+      "rank": 88,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 28162,
+          "rating": 5,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30267,
+            "title": {
+              "native": "HELLSING-ヘルシング"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 28164,
+          "rating": 6,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30649,
+            "title": {
+              "native": "GUNSLINGER GIRL"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 28166,
+          "rating": 4,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31376,
+            "title": {
+              "native": "ドッグス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 36557,
+          "rating": 1,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31230,
+            "title": {
+              "native": "東京赤ずきん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 53710,
+          "rating": 3,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 66099,
+            "title": {
+              "native": "GREEN BLOOD-グリーン・ブラッド"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 97594,
+          "rating": 2,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 39757,
+            "title": {
+              "native": "マスターモスキートン'"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99981,
+          "rating": 1,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 41268,
+            "title": {
+              "native": "エクストラ・イグジステンス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 111733,
+          "rating": 3,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 97216,
+            "title": {
+              "native": "幼女戦記"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 164370,
+          "rating": 1,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30958,
+            "title": {
+              "native": "GOTH"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187509,
+          "rating": 1,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 85605,
+            "title": {
+              "native": "ガール メイ キル"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 208808,
+          "rating": 2,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30040,
+            "title": {
+              "native": "ブラックキャット"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 248072,
+          "rating": 1,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31131,
+            "title": {
+              "native": "フリージア"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 267547,
+          "rating": 4,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 108556,
+            "title": {
+              "native": "SPY×FAMILY"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 288864,
+          "rating": 1,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30648,
+            "title": {
+              "native": "DOGS / BULLETS & CARNAGE"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 397110,
+          "rating": 2,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 86636,
+            "title": {
+              "native": "煉獄のアーシェ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 397115,
+          "rating": 1,
+          "media": {
+            "id": 33159,
+            "title": {
+              "native": "ティスタ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 113163,
+            "title": {
+              "native": "I SPY"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 7
+      },
+      {
+        "score": 20,
+        "amount": 10
+      },
+      {
+        "score": 30,
+        "amount": 24
+      },
+      {
+        "score": 40,
+        "amount": 42
+      },
+      {
+        "score": 50,
+        "amount": 97
+      },
+      {
+        "score": 60,
+        "amount": 116
+      },
+      {
+        "score": 70,
+        "amount": 176
+      },
+      {
+        "score": 80,
+        "amount": 91
+      },
+      {
+        "score": 90,
+        "amount": 36
+      },
+      {
+        "score": 100,
+        "amount": 15
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 136
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1107
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 816
+      },
+      {
+        "status": "DROPPED",
+        "amount": 59
+      },
+      {
+        "status": "PAUSED",
+        "amount": 38
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/33159",
+  "modNotes": null
+}

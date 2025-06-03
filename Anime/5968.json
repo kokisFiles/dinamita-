@@ -1,0 +1,337 @@
+{
+  "id": 5968,
+  "idMal": 5968,
+  "title": {
+    "native": "キン肉マンII世 ULTIMATE MUSCLE 2",
+    "romaji": "Kinnikuman II Sei: ULTIMATE MUSCLE 2",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "Mantaro has made it to the semifinal match of the Chojin Cup. He must now fight Ricardo in a soccer field to advance to the last match. Kevin Mask is also in the semifinals, and must defeat Ilioukhine in an aerial field to advance. These three matches will determine who wins the Chojin Cup.<br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 2006,
+    "month": 1,
+    "day": 4
+  },
+  "endDate": {
+    "year": 2006,
+    "month": 3,
+    "day": 29
+  },
+  "season": "WINTER",
+  "seasonYear": 2006,
+  "seasonInt": 61,
+  "episodes": 13,
+  "duration": 20,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748899330,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5968-EVCZg2ilzba8.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5968-EVCZg2ilzba8.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5968-EVCZg2ilzba8.jpg",
+    "color": "#865028"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi",
+    "Sports"
+  ],
+  "synonyms": [
+    "Kinnikuman Nisei: Ultimate Muscle 2",
+    "MR. MUSCLEMAN Second Generation ULTIMATE MUSCLE 2"
+  ],
+  "averageScore": 68,
+  "meanScore": 70,
+  "popularity": 1774,
+  "favourites": 16,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 231,
+      "name": "Wrestling",
+      "description": "Centers around the sport of wrestling.",
+      "category": "Theme-Game-Sport",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 5967,
+          "title": {
+            "native": "キン肉マンII世 ULTIMATE MUSCLE"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 35451,
+          "title": {
+            "native": "キン肉マンⅡ世"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 25067,
+          "name": {
+            "first": "Terry the Kid",
+            "last": null,
+            "native": "テリー・ザ・キッド",
+            "alternative": [
+              "Terry \"The Grand\" Kenyon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b25067-W1lZncfAxBqL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b25067-W1lZncfAxBqL.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/25067"
+        },
+        "voiceActors": [
+          {
+            "id": 95006,
+            "name": {
+              "first": "Toshiyuki",
+              "last": "Morikawa",
+              "native": "森川智之"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95006-hoLuiZANeD3Q.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95006"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 25066,
+          "name": {
+            "first": "Mantaro",
+            "last": "Kinniku",
+            "native": "キン肉万太郎",
+            "alternative": [
+              "Mantaro Muscle",
+              "Kid Muscle"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b25066-pjcbfEwUJgA4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b25066-pjcbfEwUJgA4.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/25066"
+        },
+        "voiceActors": [
+          {
+            "id": 95173,
+            "name": {
+              "first": "Masaya",
+              "last": "Onosaka",
+              "native": "小野坂昌也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95173-LIuN04REF5eA.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95173-LIuN04REF5eA.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95173"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97042,
+          "name": {
+            "first": "Yudetamago",
+            "last": "",
+            "native": "ゆでたまご"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97042-YlJXOHZ11Pdz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97042-YlJXOHZ11Pdz.jpg"
+          },
+          "description": "Yudetamago is the pen name of the Japanese mangaka duo consisting of story writer Takashi Shimada and artist Yoshinori Nakai. They are best known for the popular manga Kinnikuman, Ultimate Muscle (Kinnikuman Nisei), and Tatakae!! Ramenman.     \n\nShimada Takashi (嶋田 隆司)  Story Writer. \nHometown: Nishiyodogawa-ku, Osaka. \nBirthdate: October 28, 1960.   \nA graduate of Hatushiba High School (Higashi, Sakai, Osaka), up until 1984 he went by the name Takashi Kaneyama (金山 隆司, Kaneyama Takashi). He frequently attends movie premieres, events, and interviews by himself and has the more exposure of the duo. These appearances have led to his being jokingly referred to as \"The Non-Working Half of Yude\". He claims to have been a naughty child in his younger days and that his favorite show was a TV Drama called Playgirl. He loved to read and draw manga, and before he met Nakai he would often draw Kinnikuman on notebook paper.    \n\nNakai Yoshinori (中井 義則)  Artist. \nHometown: Nishinari-ku, Osaka. \nBirth date: January 11, 1961. \nA graduate of Hatushiba High School, up until 1984 he went by the name Yoshinori Iwamoto (岩元 義則, Iwamoto Yoshinori). He has stated that he likes to stay home by himself and that his favorite actress is Mariko Kawana. Before he started school, he was an avid baseball player and fan and dreamed of one day becoming a Pro Baseball player. He liked to draw but has said that he didn't really read manga until he met Shimada. ",
+          "siteUrl": "https://anilist.co/staff/97042"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 109523,
+          "name": {
+            "first": "Cher",
+            "last": "Watanabe",
+            "native": "渡部チェル"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14523.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14523.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/cher_vOwO)\n\n__Cher Watanabe__ is a Japanese musician, composer, arranger and keyboardist.",
+          "siteUrl": "https://anilist.co/staff/109523"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 18,
+          "name": "Toei Animation",
+          "siteUrl": "https://anilist.co/studio/18"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 3493,
+      "rank": 47,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2006,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 3653,
+      "rank": 7,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2006,
+      "season": "WINTER",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 3685,
+      "rank": 16,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 2006,
+      "season": "WINTER",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 7
+      },
+      {
+        "score": 20,
+        "amount": 5
+      },
+      {
+        "score": 30,
+        "amount": 11
+      },
+      {
+        "score": 40,
+        "amount": 18
+      },
+      {
+        "score": 50,
+        "amount": 49
+      },
+      {
+        "score": 60,
+        "amount": 132
+      },
+      {
+        "score": 70,
+        "amount": 264
+      },
+      {
+        "score": 80,
+        "amount": 120
+      },
+      {
+        "score": 90,
+        "amount": 112
+      },
+      {
+        "score": 100,
+        "amount": 42
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 45
+      },
+      {
+        "status": "PLANNING",
+        "amount": 444
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1211
+      },
+      {
+        "status": "DROPPED",
+        "amount": 52
+      },
+      {
+        "status": "PAUSED",
+        "amount": 22
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/5968",
+  "modNotes": null
+}

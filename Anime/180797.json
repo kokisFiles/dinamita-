@@ -1,0 +1,423 @@
+{
+  "id": 180797,
+  "idMal": 59518,
+  "title": {
+    "native": "Wander!",
+    "romaji": "Wander!",
+    "english": "Wander!"
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Music video directed and animated by Uraura Ura for the song <i>Wander!</i> by Shirogane Noel.",
+  "startDate": {
+    "year": 2024,
+    "month": 8,
+    "day": 8
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 8,
+    "day": 8
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 4,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": {
+    "id": "jupJ5t0Gdy8",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/jupJ5t0Gdy8/hqdefault.jpg"
+  },
+  "updatedAt": 1748855447,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180797-mKJRR4eGfkAF.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180797-mKJRR4eGfkAF.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180797-mKJRR4eGfkAF.png",
+    "color": "#e4d6ae"
+  },
+  "bannerImage": null,
+  "genres": [],
+  "synonyms": [],
+  "averageScore": 54,
+  "meanScore": 65,
+  "popularity": 176,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 1047,
+      "name": "VTuber",
+      "description": "Prominently features a character who is either an actual or fictive VTuber.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 118123,
+          "title": {
+            "native": "ホロのぐらふぃてぃ"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 169495,
+          "name": {
+            "first": "Noel",
+            "last": "Shirogane",
+            "native": "白銀ノエル",
+            "alternative": [
+              "Danchou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169495-tZfll0a8y8BV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169495-tZfll0a8y8BV.png"
+          },
+          "siteUrl": "https://anilist.co/character/169495"
+        },
+        "voiceActors": [
+          {
+            "id": 197906,
+            "name": {
+              "first": "Noel",
+              "last": "Shirogane",
+              "native": "白銀ノエル"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n197906-JP5pZEAEggvN.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n197906-JP5pZEAEggvN.png"
+            },
+            "siteUrl": "https://anilist.co/staff/197906"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169492,
+          "name": {
+            "first": "Pekora",
+            "last": "Usada",
+            "native": "兎田ぺこら",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169492-td5UVxwzQe5g.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169492-td5UVxwzQe5g.png"
+          },
+          "siteUrl": "https://anilist.co/character/169492"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169498,
+          "name": {
+            "first": "Flare",
+            "last": "Shiranui",
+            "native": "不知火フレア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169498-t1J360vDV2JT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169498-t1J360vDV2JT.png"
+          },
+          "siteUrl": "https://anilist.co/character/169498"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169489,
+          "name": {
+            "first": "Marine",
+            "last": "Houshou",
+            "native": "宝鐘マリン",
+            "alternative": [
+              "Senchou (Captain)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169489-PQ0lLCD2BoKG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169489-PQ0lLCD2BoKG.png"
+          },
+          "siteUrl": "https://anilist.co/character/169489"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music Performance",
+        "node": {
+          "id": 197906,
+          "name": {
+            "first": "Noel",
+            "last": "Shirogane",
+            "native": "白銀ノエル"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n197906-JP5pZEAEggvN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n197906-JP5pZEAEggvN.png"
+          },
+          "description": "**Height:** 158 cm\n**Fanbase name:** Order of Shirogane\n**Illustrator:** [Watao](https://twitter.com/wait_ar/)\n\n[YouTube](https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ) | [Twitter](https://twitter.com/shiroganenoel) | [Hololive Profile](https://hololive.hololivepro.com/en/talents/shirogane-noel/) | [Bilibili](https://space.bilibili.com/454733056)\n\n*\"Hey muscle! Shirogane Noel's here!\"*\n\nWhile she is easy-going, she has a dangerous side where she attempts to solve all her problems with muscle power. As much as this fluffy, meatheaded knight hungers for power, she came to the world of VTubers where all the stronk people are, for training.\n\nShirogane Noel is a female Japanese Virtual YouTuber endorsed by Hololive Production. Apart of the third generation wave of Hololive, also known as Hololive Fantasy. ",
+          "siteUrl": "https://anilist.co/staff/197906"
+        }
+      },
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 133408,
+          "name": {
+            "first": "Mito",
+            "last": null,
+            "native": "ミト"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133408-6k1HM5Y3HbCq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n133408-6k1HM5Y3HbCq.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/4006951) | [Instagram](https://www.instagram.com/micromicrophone/)\n\nA Japanese musician, lyricist, composer, arranger and the bandmaster of [Clammbon](https://anilist.co/staff/114171/).",
+          "siteUrl": "https://anilist.co/staff/133408"
+        }
+      },
+      {
+        "role": "Title Logo Design",
+        "node": {
+          "id": 274594,
+          "name": {
+            "first": "Ryou",
+            "last": "Hiiragi",
+            "native": "柊椋"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n274594-ZUvoDvSl3s4V.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n274594-ZUvoDvSl3s4V.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/hiiragiryo) | [Pixiv](https://www.pixiv.net/en/users/20341)",
+          "siteUrl": "https://anilist.co/staff/274594"
+        }
+      },
+      {
+        "role": "Music Arrangement",
+        "node": {
+          "id": 133408,
+          "name": {
+            "first": "Mito",
+            "last": null,
+            "native": "ミト"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133408-6k1HM5Y3HbCq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n133408-6k1HM5Y3HbCq.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/4006951) | [Instagram](https://www.instagram.com/micromicrophone/)\n\nA Japanese musician, lyricist, composer, arranger and the bandmaster of [Clammbon](https://anilist.co/staff/114171/).",
+          "siteUrl": "https://anilist.co/staff/133408"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 133408,
+          "name": {
+            "first": "Mito",
+            "last": null,
+            "native": "ミト"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133408-6k1HM5Y3HbCq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n133408-6k1HM5Y3HbCq.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/4006951) | [Instagram](https://www.instagram.com/micromicrophone/)\n\nA Japanese musician, lyricist, composer, arranger and the bandmaster of [Clammbon](https://anilist.co/staff/114171/).",
+          "siteUrl": "https://anilist.co/staff/133408"
+        }
+      },
+      {
+        "role": "Animation",
+        "node": {
+          "id": 344226,
+          "name": {
+            "first": "Ura",
+            "last": "Uraura",
+            "native": "浦浦浦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n344226-pY1ATM9At2tl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n344226-pY1ATM9At2tl.jpg"
+          },
+          "description": "[Twitter](https://x.com/urachan1629)",
+          "siteUrl": "https://anilist.co/staff/344226"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 344226,
+          "name": {
+            "first": "Ura",
+            "last": "Uraura",
+            "native": "浦浦浦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n344226-pY1ATM9At2tl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n344226-pY1ATM9At2tl.jpg"
+          },
+          "description": "[Twitter](https://x.com/urachan1629)",
+          "siteUrl": "https://anilist.co/staff/344226"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 344226,
+          "name": {
+            "first": "Ura",
+            "last": "Uraura",
+            "native": "浦浦浦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n344226-pY1ATM9At2tl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n344226-pY1ATM9At2tl.jpg"
+          },
+          "description": "[Twitter](https://x.com/urachan1629)",
+          "siteUrl": "https://anilist.co/staff/344226"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 98167,
+      "url": "https://www.youtube.com/watch?v=jupJ5t0Gdy8",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 287726,
+          "rating": 1,
+          "media": {
+            "id": 180797,
+            "title": {
+              "native": "Wander!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 170985,
+            "title": {
+              "native": "ぎゅーどんかーにばる！"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 11
+      },
+      {
+        "score": 60,
+        "amount": 16
+      },
+      {
+        "score": 70,
+        "amount": 14
+      },
+      {
+        "score": 80,
+        "amount": 9
+      },
+      {
+        "score": 90,
+        "amount": 5
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 3
+      },
+      {
+        "status": "PLANNING",
+        "amount": 32
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 133
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 2
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/180797",
+  "modNotes": null
+}

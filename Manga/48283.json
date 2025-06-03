@@ -1,0 +1,366 @@
+{
+  "id": 48283,
+  "idMal": 18283,
+  "title": {
+    "native": "白木蘭円舞曲",
+    "romaji": "Magnolia Waltz",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Sequel of 'Waltz in a White Dress'",
+  "startDate": {
+    "year": 1994,
+    "month": 2,
+    "day": 8
+  },
+  "endDate": {
+    "year": 1995,
+    "month": 1,
+    "day": 8
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 12,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748793560,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx48283-GQ2GMLnNocSc.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx48283-GQ2GMLnNocSc.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx48283-GQ2GMLnNocSc.png",
+    "color": "#e4a150"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/48283-AQDg8Ywywsuq.jpg",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "synonyms": [
+    "Haku Mokuren Enbukyoku",
+    "白木蘭円舞曲(マグノリアワルツ)"
+  ],
+  "averageScore": null,
+  "meanScore": 59,
+  "popularity": 155,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 25,
+      "name": "Historical",
+      "description": "Partly or completely set during a real period of world history.",
+      "category": "Setting-Time",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 27,
+      "name": "Josei",
+      "description": "Target demographic is adult females.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 198,
+      "name": "Foreign",
+      "description": "Partly or completely set in a country outside the country of origin.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 79,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 49880,
+          "title": {
+            "native": "恋物語"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 45924,
+          "title": {
+            "native": "紫丁香夜想曲 さいとうちほ傑作集"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 30830,
+          "title": {
+            "native": "円舞曲は白いドレスで"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 23183,
+          "name": {
+            "first": "Koto",
+            "last": "Aoki",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/23183.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/23183.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/23183"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 23180,
+          "name": {
+            "first": "Masaomi",
+            "last": "Kidoin",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/23180.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/23180.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/23180"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 23182,
+          "name": {
+            "first": "Sagitto",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/23182.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/23182.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/23182"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 97459,
+          "name": {
+            "first": "Chiho",
+            "last": "Saitou",
+            "native": "さいとうちほ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2459.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2459.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/chihochat)\n\nShe is part of the Be-Papas manga artist collective. Debut 1982 with Ken to Madomoaseru, serialized in Coronet. In 1997 she won the 42nd Shogakukan Award (Category Shoujo) for Kanon.  ",
+          "siteUrl": "https://anilist.co/staff/97459"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 25014,
+      "rank": 100,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 1994,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 194474,
+          "rating": 1,
+          "media": {
+            "id": 48283,
+            "title": {
+              "native": "白木蘭円舞曲"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30008,
+            "title": {
+              "native": "満月をさがして"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 234066,
+          "rating": 3,
+          "media": {
+            "id": 48283,
+            "title": {
+              "native": "白木蘭円舞曲"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30772,
+            "title": {
+              "native": "少女革命ウテナ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 234068,
+          "rating": 2,
+          "media": {
+            "id": 48283,
+            "title": {
+              "native": "白木蘭円舞曲"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30931,
+            "title": {
+              "native": "少女革命ウテナ～アドゥレセンス黙示録"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 2
+      },
+      {
+        "score": 60,
+        "amount": 6
+      },
+      {
+        "score": 70,
+        "amount": 8
+      },
+      {
+        "score": 80,
+        "amount": 4
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 5
+      },
+      {
+        "status": "PLANNING",
+        "amount": 83
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 59
+      },
+      {
+        "status": "DROPPED",
+        "amount": 5
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/48283",
+  "modNotes": null
+}

@@ -1,0 +1,834 @@
+{
+  "id": 54563,
+  "idMal": 24563,
+  "title": {
+    "native": "神様のメモ帳",
+    "romaji": "Kamisama no Memochou",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "NOVEL",
+  "status": "FINISHED",
+  "description": "Narumi is an assistant to detective Alice, a NEET teenage girl who stays in her pajamas and operates within her bedroom. She uses her vast network of people and the internet to solve cases. Will Alice be able to solve them in her PJs?",
+  "startDate": {
+    "year": 2007,
+    "month": 1,
+    "day": 25
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 9,
+    "day": 10
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 57,
+  "volumes": 9,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748793248,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx54563-VL2UoIvWl7xF.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx54563-VL2UoIvWl7xF.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx54563-VL2UoIvWl7xF.jpg",
+    "color": "#93c9e4"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "It's the Only NEET Thing to Do",
+    "Kami-sama no Memo-chou",
+    "ผ่าคดีลับนักสืบนีท"
+  ],
+  "averageScore": 63,
+  "meanScore": 74,
+  "popularity": 1174,
+  "favourites": 15,
+  "tags": [
+    {
+      "id": 694,
+      "name": "Detective",
+      "description": "Features a character who investigates and solves crimes.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 30,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 10568,
+          "title": {
+            "native": "神様のメモ帳"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 53779,
+          "title": {
+            "native": "神様のメモ帳"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 42917,
+          "name": {
+            "first": "Narumi",
+            "last": "Fujishima",
+            "native": "藤島鳴海",
+            "alternative": [
+              "Gardening Club Kid",
+              "Aniki",
+              "Vice Admiral Fujishima",
+              "Assistant"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/42917.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42917.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42917"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 42918,
+          "name": {
+            "first": "Ayaka",
+            "last": "Shinozaki",
+            "native": "篠崎彩夏",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/42918.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42918.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42918"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 41924,
+          "name": {
+            "first": "Yuuko",
+            "last": "Shionji",
+            "native": "紫苑寺有子",
+            "alternative": [
+              "Alice"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41924-wRhyD6IV8nPf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b41924-wRhyD6IV8nPf.png"
+          },
+          "siteUrl": "https://anilist.co/character/41924"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 47811,
+          "name": {
+            "first": "Yoshiki",
+            "last": null,
+            "native": "ヨシキ",
+            "alternative": [
+              "Hison"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/47811.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/47811.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/47811"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 44439,
+          "name": {
+            "first": "Nemo",
+            "last": null,
+            "native": "ネモ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44439.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44439.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44439"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 47919,
+          "name": {
+            "first": "Mika",
+            "last": null,
+            "native": "美嘉",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/47919.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/47919.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/47919"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 44441,
+          "name": {
+            "first": "Denchuu",
+            "last": null,
+            "native": "電柱",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44441.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44441.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44441"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 44443,
+          "name": {
+            "first": "Iwao",
+            "last": null,
+            "native": "岩男",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44443.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44443.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44443"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 44330,
+          "name": {
+            "first": "Kayo",
+            "last": "Fujishima",
+            "native": "藤島 佳代",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44330.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44330.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44330"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 48935,
+          "name": {
+            "first": "Shirou",
+            "last": "Hakamizaka",
+            "native": "墓見坂史郎",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/48935.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/48935.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/48935"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 48939,
+          "name": {
+            "first": "Masaru",
+            "last": "Hanada",
+            "native": "花田勝",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/48939.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/48939.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/48939"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42923,
+          "name": {
+            "first": "Soichirou",
+            "last": "Hinamura",
+            "native": "雛村壮一郎",
+            "alternative": [
+              "Yondaime",
+              "Hina",
+              "Sou",
+              "Fourth"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/42923.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42923.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42923"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45889,
+          "name": {
+            "first": "Renji",
+            "last": "Hirasaka",
+            "native": "平坂錬次",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45889.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45889.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45889"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42919,
+          "name": {
+            "first": "Ming Li",
+            "last": "Huang",
+            "native": "黄明麗",
+            "alternative": [
+              "Min",
+              "Master"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/42919.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42919.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42919"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42920,
+          "name": {
+            "first": "Tetsuo",
+            "last": "Ichinomiya",
+            "native": "一宮哲雄",
+            "alternative": [
+              "Tetsu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/42920.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42920.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42920"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 47407,
+          "name": {
+            "first": "Tomio",
+            "last": "Kimura",
+            "native": "木村富雄",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/47407.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/47407.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/47407"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 44332,
+          "name": {
+            "first": "Miku",
+            "last": "Kimura",
+            "native": "木村 未来",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44332.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44332.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44332"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 44328,
+          "name": {
+            "first": "Sayuri",
+            "last": "Kuroda",
+            "native": "黒田 小百合",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44328.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44328.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44328"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 44435,
+          "name": {
+            "first": "Masaya",
+            "last": "Kusakabe",
+            "native": "草壁 昌也",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44435.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44435.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44435"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 44326,
+          "name": {
+            "first": "Charunee",
+            "last": "Kusakabe",
+            "native": "メオ",
+            "alternative": [
+              "Meo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44326.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44326.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44326"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42922,
+          "name": {
+            "first": "Hiroaki",
+            "last": "Kuwahara",
+            "native": "桑原宏明",
+            "alternative": [
+              "Hiro"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/42922.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42922.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42922"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 44861,
+          "name": {
+            "first": "",
+            "last": "Mikawa",
+            "native": "美河",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44861.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44861.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44861"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 42921,
+          "name": {
+            "first": "Hitoshi",
+            "last": "Mukai",
+            "native": "向井均",
+            "alternative": [
+              "Shōsa",
+              "Major"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/42921.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/42921.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/42921"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 48497,
+          "name": {
+            "first": "",
+            "last": "Nishimura",
+            "native": "西村",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/48497.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/48497.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/48497"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 44334,
+          "name": {
+            "first": "Shouko",
+            "last": "Sakuma",
+            "native": "佐久間 翔子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/44334.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/44334.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/44334"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Art",
+        "node": {
+          "id": 105903,
+          "name": {
+            "first": "Mel",
+            "last": "Kishida",
+            "native": "岸田メル"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10903.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/10903.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/mellco)\n\nIllustrator mainly for light novels who first debuted in 2004.",
+          "siteUrl": "https://anilist.co/staff/105903"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 106752,
+          "name": {
+            "first": "Hikaru",
+            "last": "Sugii",
+            "native": "杉井光"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106752-XJrYFtYUdVnS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106752-XJrYFtYUdVnS.png"
+          },
+          "description": "[Twitter](https://twitter.com/hikarus225) | [Syosetu](mypage.syosetu.com/1811946/)",
+          "siteUrl": "https://anilist.co/staff/106752"
+        }
+      },
+      {
+        "role": "Translator (Thai)",
+        "node": {
+          "id": 268815,
+          "name": {
+            "first": "Nut",
+            "last": "Rittrairat",
+            "native": "ณัฐ ฤทธิ์ไตรรัตน์"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/268815"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 31704,
+      "rank": 20,
+      "type": "RATED",
+      "format": "NOVEL",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 31718,
+      "rank": 7,
+      "type": "POPULAR",
+      "format": "NOVEL",
+      "year": 2007,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 38521,
+          "rating": 2,
+          "media": {
+            "id": 54563,
+            "title": {
+              "native": "神様のメモ帳"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31313,
+            "title": {
+              "native": "GOSICK -ゴシック-"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 106191,
+          "rating": 1,
+          "media": {
+            "id": 54563,
+            "title": {
+              "native": "神様のメモ帳"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 114202,
+            "title": {
+              "native": "探偵はもう、死んでいる。"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 106195,
+          "rating": 3,
+          "media": {
+            "id": 54563,
+            "title": {
+              "native": "神様のメモ帳"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 39726,
+            "title": {
+              "native": "クビキリサイクル　青色サヴァンと戯言遣い"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 107973,
+          "rating": 3,
+          "media": {
+            "id": 54563,
+            "title": {
+              "native": "神様のメモ帳"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 101287,
+            "title": {
+              "native": "博多豚骨ラーメンズ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 108217,
+          "rating": 1,
+          "media": {
+            "id": 54563,
+            "title": {
+              "native": "神様のメモ帳"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 65513,
+            "title": {
+              "native": "氷菓"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 9
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 3
+      },
+      {
+        "score": 60,
+        "amount": 6
+      },
+      {
+        "score": 70,
+        "amount": 11
+      },
+      {
+        "score": 80,
+        "amount": 36
+      },
+      {
+        "score": 90,
+        "amount": 22
+      },
+      {
+        "score": 100,
+        "amount": 15
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 105
+      },
+      {
+        "status": "PLANNING",
+        "amount": 896
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 111
+      },
+      {
+        "status": "DROPPED",
+        "amount": 26
+      },
+      {
+        "status": "PAUSED",
+        "amount": 36
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/54563",
+  "modNotes": null
+}

@@ -1,0 +1,668 @@
+{
+  "id": 9088,
+  "idMal": 9088,
+  "title": {
+    "native": "最遊記外伝",
+    "romaji": "Saiyuuki Gaiden",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "An OVA adaptation of the climactic part of Saiyuki Gaiden.",
+  "startDate": {
+    "year": 2011,
+    "month": 3,
+    "day": 25
+  },
+  "endDate": {
+    "year": 2011,
+    "month": 11,
+    "day": 25
+  },
+  "season": "SPRING",
+  "seasonYear": 2011,
+  "seasonInt": 112,
+  "episodes": 3,
+  "duration": 30,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748883383,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9088-ZJ6P3FEzeCTQ.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9088-ZJ6P3FEzeCTQ.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9088-ZJ6P3FEzeCTQ.png",
+    "color": "#e4bb5d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "synonyms": [],
+  "averageScore": 71,
+  "meanScore": 73,
+  "popularity": 2613,
+  "favourites": 37,
+  "tags": [
+    {
+      "id": 94,
+      "name": "Gore",
+      "description": "Prominently features graphic bloodshed and violence.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 208,
+      "name": "Mythology",
+      "description": "Prominently features mythological elements, especially those from religious or cultural tradition.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 27,
+      "name": "Josei",
+      "description": "Target demographic is adult females.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2143,
+          "title": {
+            "native": "最遊記RELOAD -burial-"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 31097,
+          "title": {
+            "native": "最遊記外伝"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9278,
+          "name": {
+            "first": "Tenpou",
+            "last": "Gensui",
+            "native": "天蓬元帥",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9278.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9278.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9278"
+        },
+        "voiceActors": [
+          {
+            "id": 95017,
+            "name": {
+              "first": "Akira",
+              "last": "Ishida",
+              "native": "石田彰"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95017-GSRcmQ97a8ZT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95017"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 218,
+          "name": {
+            "first": "Goku",
+            "last": "Son",
+            "native": "孫悟空",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b218-UaEK4iDyciUg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b218-UaEK4iDyciUg.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/218"
+        },
+        "voiceActors": [
+          {
+            "id": 95030,
+            "name": {
+              "first": "Souichirou",
+              "last": "Hoshi",
+              "native": "保志総一朗"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95030-kj64Uy6Zr3bq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95030-kj64Uy6Zr3bq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95030"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9273,
+          "name": {
+            "first": "Kenren",
+            "last": "Taishou",
+            "native": "捲簾大将",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9273-IQaseQ4yUnJ3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9273-IQaseQ4yUnJ3.png"
+          },
+          "siteUrl": "https://anilist.co/character/9273"
+        },
+        "voiceActors": [
+          {
+            "id": 95125,
+            "name": {
+              "first": "Hiroaki",
+              "last": "Hirata",
+              "native": "平田広明"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95125-NeFFiJupoDVj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95125-NeFFiJupoDVj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95125"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 9277,
+          "name": {
+            "first": "Konzen",
+            "last": "Douji",
+            "native": "金蝉童子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9277.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9277.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9277"
+        },
+        "voiceActors": [
+          {
+            "id": 95129,
+            "name": {
+              "first": "Toshihiko",
+              "last": "Seki",
+              "native": "関俊彦"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95129-AAL7kfwAPpgR.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95129-AAL7kfwAPpgR.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95129"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9266,
+          "name": {
+            "first": "Kanzeon",
+            "last": "Bosatsu",
+            "native": "観世音菩薩",
+            "alternative": [
+              "Merciful Goddess"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9266.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9266.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9266"
+        },
+        "voiceActors": [
+          {
+            "id": 102524,
+            "name": {
+              "first": "Rei",
+              "last": "Igarashi",
+              "native": "五十嵐麗"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102524-g3nz3coVOPFS.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102524-g3nz3coVOPFS.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102524"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9276,
+          "name": {
+            "first": "Nataku",
+            "last": "Taishi",
+            "native": "那托大使",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9276.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9276.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9276"
+        },
+        "voiceActors": [
+          {
+            "id": 96474,
+            "name": {
+              "first": "Kaho",
+              "last": "Kouda",
+              "native": "幸田夏穂"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96474-lc3RZvrMlJcb.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96474-lc3RZvrMlJcb.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96474"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 29901,
+          "name": {
+            "first": "Goujun",
+            "last": null,
+            "native": "西海竜王 敖潤",
+            "alternative": [
+              "Dragon King of the Western Ocean"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29901.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29901.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29901"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97182,
+          "name": {
+            "first": "Kazuya",
+            "last": "Minekura",
+            "native": "峰倉かずや"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97182-Rh0eWU1pZMOo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97182-Rh0eWU1pZMOo.png"
+          },
+          "description": "[Website](http://minekura.net) | [Blog](http://shop.minekura.net/blog/) | [Twitter](https://twitter.com/kaz_minekura)\n\nA Japanese manga artist most known for the Saiyuki series. Her other manga series include Wild Adapter, Shiritsu Araiso Koto Gakko Seitokai Shikkobu (Araiso Private School Student Council Executive Committee), and Stigma. Stigma is notable for being a full-color work, unusual as manga is generally drawn in black and white.",
+          "siteUrl": "https://anilist.co/staff/97182"
+        }
+      },
+      {
+        "role": "Theme Song Composition",
+        "node": {
+          "id": 100235,
+          "name": {
+            "first": "",
+            "last": "KOKIA",
+            "native": "コキア "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5235.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5235.jpg"
+          },
+          "description": "Kokia is a Japanese singer-songwriter from Tokyo. She is mostly associated with games and anime soundtracks; having appeared in eight different game/anime soundtracks to date. Kokia has an extremely talented voice - she even held a long-tone opera note for a little over 29 seconds on national TV once. She is most well-known in Hong Kong and Taiwan for her song Arigatou..., which became so popular it was even covered by star Sammi Cheng. Her biggest hit in Japan was the single The Power of Smile / Remember the Kiss, which reached #15 on Oricon charts.  (Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/100235"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 100235,
+          "name": {
+            "first": "",
+            "last": "KOKIA",
+            "native": "コキア "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5235.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5235.jpg"
+          },
+          "description": "Kokia is a Japanese singer-songwriter from Tokyo. She is mostly associated with games and anime soundtracks; having appeared in eight different game/anime soundtracks to date. Kokia has an extremely talented voice - she even held a long-tone opera note for a little over 29 seconds on national TV once. She is most well-known in Hong Kong and Taiwan for her song Arigatou..., which became so popular it was even covered by star Sammi Cheng. Her biggest hit in Japan was the single The Power of Smile / Remember the Kiss, which reached #15 on Oricon charts.  (Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/100235"
+        }
+      },
+      {
+        "role": "Theme Song Lyrics",
+        "node": {
+          "id": 100235,
+          "name": {
+            "first": "",
+            "last": "KOKIA",
+            "native": "コキア "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5235.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5235.jpg"
+          },
+          "description": "Kokia is a Japanese singer-songwriter from Tokyo. She is mostly associated with games and anime soundtracks; having appeared in eight different game/anime soundtracks to date. Kokia has an extremely talented voice - she even held a long-tone opera note for a little over 29 seconds on national TV once. She is most well-known in Hong Kong and Taiwan for her song Arigatou..., which became so popular it was even covered by star Sammi Cheng. Her biggest hit in Japan was the single The Power of Smile / Remember the Kiss, which reached #15 on Oricon charts.  (Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/100235"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 153603,
+          "name": {
+            "first": "Youko",
+            "last": "Shiraishi",
+            "native": "白石容子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n153603-s7CVbt7GzX1n.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n153603-s7CVbt7GzX1n.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/153603"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 140610,
+          "name": {
+            "first": "Naoyuki",
+            "last": "Kuzuya",
+            "native": "葛谷直行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/140610"
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 132963,
+          "name": {
+            "first": "Minefumi",
+            "last": "Harada",
+            "native": "原田峰文"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/132963"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 132963,
+          "name": {
+            "first": "Minefumi",
+            "last": "Harada",
+            "native": "原田峰文"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/132963"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 376,
+          "name": "Sentai Filmworks",
+          "siteUrl": "https://anilist.co/studio/376"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 521,
+          "name": "Anpro",
+          "siteUrl": "https://anilist.co/studio/521"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 1,
+          "name": "Studio Pierrot",
+          "siteUrl": "https://anilist.co/studio/1"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 53,
+          "name": "Dentsu",
+          "siteUrl": "https://anilist.co/studio/53"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 16,
+          "name": "TV Tokyo",
+          "siteUrl": "https://anilist.co/studio/16"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 21193,
+      "rank": 13,
+      "type": "RATED",
+      "format": "OVA",
+      "year": 2011,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 91802,
+          "rating": 1,
+          "media": {
+            "id": 9088,
+            "title": {
+              "native": "最遊記外伝"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 129,
+            "title": {
+              "native": "幻想魔伝 最遊記"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 91804,
+          "rating": 1,
+          "media": {
+            "id": 9088,
+            "title": {
+              "native": "最遊記外伝"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 484,
+            "title": {
+              "native": "劇場版 幻想魔伝最遊記 Requiem 選ばれざる者への鎮魂歌"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 91808,
+          "rating": 1,
+          "media": {
+            "id": 9088,
+            "title": {
+              "native": "最遊記外伝"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 131,
+            "title": {
+              "native": "最遊記RELOAD GUNLOCK"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 10
+      },
+      {
+        "score": 30,
+        "amount": 19
+      },
+      {
+        "score": 40,
+        "amount": 17
+      },
+      {
+        "score": 50,
+        "amount": 43
+      },
+      {
+        "score": 60,
+        "amount": 64
+      },
+      {
+        "score": 70,
+        "amount": 177
+      },
+      {
+        "score": 80,
+        "amount": 156
+      },
+      {
+        "score": 90,
+        "amount": 90
+      },
+      {
+        "score": 100,
+        "amount": 95
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 94
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1317
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1066
+      },
+      {
+        "status": "DROPPED",
+        "amount": 56
+      },
+      {
+        "status": "PAUSED",
+        "amount": 80
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/9088",
+  "modNotes": null
+}

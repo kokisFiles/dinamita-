@@ -1,0 +1,782 @@
+{
+  "id": 7862,
+  "idMal": 7862,
+  "title": {
+    "native": "ロボットマスターズ",
+    "romaji": "Robot Masters",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "In 2004, G1 Convoy is alerted to a disturbance: an attack by a tyrannosaurus rex calling himself Beast Megatron! Cybertrons and Destrons from across the eras have converged on this time to clash over the newly-discovered energy source - solitarium!\n<br><br>\n<i>Note: Released on DVDs packed in with select Robotmasters figurines.</i>",
+  "startDate": {
+    "year": 2004,
+    "month": 1,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2005,
+    "month": 12,
+    "day": 31
+  },
+  "season": "WINTER",
+  "seasonYear": 2004,
+  "seasonInt": 41,
+  "episodes": 2,
+  "duration": 6,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747586521,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7862.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7862.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/7862.jpg",
+    "color": "#e4bb5d"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7862-PHZbzKTkTDAB.jpg",
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "synonyms": [
+    "Transformers: Robotmasters"
+  ],
+  "averageScore": 44,
+  "meanScore": 46,
+  "popularity": 322,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 170751,
+          "title": {
+            "native": "トランスフォーマーレジェンズ"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 48236,
+          "title": {
+            "native": "キスぷれ"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 174618,
+          "title": {
+            "native": "ロボットマスターズ"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2409,
+          "name": {
+            "first": "Convoy",
+            "last": "",
+            "native": "コンボイ",
+            "alternative": [
+              "Optimus Prime (オプティマスプライム)",
+              "Orion Pax (オライオン・パックス)",
+              "Star Convoy (スターコンボイ)",
+              "Battle Convoy (バトルコンボイ)",
+              "Super Convoy (スーパーコンボイ)",
+              "Supreme Commander (総司令官)",
+              "G1 Convoy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2409-Fvnig8dLG91S.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2409-Fvnig8dLG91S.png"
+          },
+          "siteUrl": "https://anilist.co/character/2409"
+        },
+        "voiceActors": [
+          {
+            "id": 95098,
+            "name": {
+              "first": "Wataru",
+              "last": "Hatano",
+              "native": "羽多野渉"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95098-x6T2xOTuvkuY.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95098-x6T2xOTuvkuY.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95098"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16606,
+          "name": {
+            "first": "Beast Convoy",
+            "last": null,
+            "native": "ビーストコンボイ",
+            "alternative": [
+              "Optimus Primal (オプティマスプライマル)",
+              "Metals Convoy (メタルスコンボイ)",
+              "Powered Convoy (パワードコンボイ)",
+              "Optimal Optimus (オプティマルオプティマス)",
+              "Yvonco (イボンコ)",
+              "Convobat (コンボバット)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16606-7BWlI7vJjNYB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16606-7BWlI7vJjNYB.png"
+          },
+          "siteUrl": "https://anilist.co/character/16606"
+        },
+        "voiceActors": [
+          {
+            "id": 95484,
+            "name": {
+              "first": "Yuuto",
+              "last": "Kazama",
+              "native": "風間勇刀"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/484.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/484.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95484"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 14730,
+          "name": {
+            "first": "Lio Convoy",
+            "last": null,
+            "native": "総司令官ライオコンボイ",
+            "alternative": [
+              "Leo Prime"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14730-VtUVVClqFnif.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b14730-VtUVVClqFnif.png"
+          },
+          "siteUrl": "https://anilist.co/character/14730"
+        },
+        "voiceActors": [
+          {
+            "id": 95102,
+            "name": {
+              "first": "Masayuki",
+              "last": "Katou",
+              "native": "加藤将之 "
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95102-3YCVzrTvVhou.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95102-3YCVzrTvVhou.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95102"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8502,
+          "name": {
+            "first": "Star",
+            "last": "Saber",
+            "native": "スターセイバー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/8502.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8502.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8502"
+        },
+        "voiceActors": [
+          {
+            "id": 95884,
+            "name": {
+              "first": "Masahito",
+              "last": "Yabe",
+              "native": "矢部雅史"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/884.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/884.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95884"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 3920,
+          "name": {
+            "first": "Megatron",
+            "last": null,
+            "native": "メガトロン",
+            "alternative": [
+              "Emperor of Destruction (破壊大帝)",
+              "G1 Megatron"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3920-7QomG8QuqJzm.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3920-7QomG8QuqJzm.png"
+          },
+          "siteUrl": "https://anilist.co/character/3920"
+        },
+        "voiceActors": [
+          {
+            "id": 102914,
+            "name": {
+              "first": "Jirou",
+              "last": "Saitou",
+              "native": "斉藤次郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102914-7ygW5ZSwODbF.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102914-7ygW5ZSwODbF.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102914"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 36309,
+          "name": {
+            "first": "Narrator",
+            "last": null,
+            "native": "ナレーター",
+            "alternative": [
+              "語り手",
+              "ナレーション",
+              "Narrador",
+              "Rozprávač",
+              "Vyprávěč",
+              "Dış ses",
+              "Narratore",
+              "Pripovjedač",
+              "Narradora",
+              "Рассказчик",
+              "Người dẫn chuyện",
+              "Tagapagsalaysay",
+              "내레이터",
+              "Narratore",
+              "Erzählperson",
+              "מספר",
+              "Narrátor",
+              "讲述人",
+              "راوي",
+              "Forteller",
+              "Berättare",
+              "Αφηγητής",
+              "Narrateur",
+              "なれーしょん",
+              "旁白",
+              "Narrato"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36309"
+        },
+        "voiceActors": [
+          {
+            "id": 95138,
+            "name": {
+              "first": "Kenji",
+              "last": "Utsumi",
+              "native": "内海賢二"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95138-0iK7jnkuJb6o.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95138-0iK7jnkuJb6o.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95138"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3913,
+          "name": {
+            "first": "Starscream",
+            "last": null,
+            "native": "スタースクリーム",
+            "alternative": [
+              "Screamer",
+              "Air Commander"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3913-lZglt3rU137u.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3913-lZglt3rU137u.png"
+          },
+          "siteUrl": "https://anilist.co/character/3913"
+        },
+        "voiceActors": [
+          {
+            "id": 105266,
+            "name": {
+              "first": "Kunihiro",
+              "last": "Kawamoto",
+              "native": "河本邦弘"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105266-Ka4xAbCDZm0b.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105266-Ka4xAbCDZm0b.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/105266"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 332619,
+          "name": {
+            "first": "Beast Megatron",
+            "last": null,
+            "native": "ビーストメガトロン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b332619-oZZzNRtkpiug.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b332619-oZZzNRtkpiug.png"
+          },
+          "siteUrl": "https://anilist.co/character/332619"
+        },
+        "voiceActors": [
+          {
+            "id": 107240,
+            "name": {
+              "first": "Toshitsugu",
+              "last": "Takashina",
+              "native": "髙階俊嗣"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107240-1mkB4UWETa7j.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107240-1mkB4UWETa7j.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/107240"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 332620,
+          "name": {
+            "first": "Victory Leo",
+            "last": null,
+            "native": "ビクトリーレオ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b332620-DMOkCL96l2ib.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b332620-DMOkCL96l2ib.png"
+          },
+          "siteUrl": "https://anilist.co/character/332620"
+        },
+        "voiceActors": [
+          {
+            "id": 95484,
+            "name": {
+              "first": "Yuuto",
+              "last": "Kazama",
+              "native": "風間勇刀"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/484.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/484.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95484"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 332621,
+          "name": {
+            "first": "Reverse Convoy",
+            "last": null,
+            "native": "リバースコンボイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b332621-vs1mkINC8lqK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b332621-vs1mkINC8lqK.png"
+          },
+          "siteUrl": "https://anilist.co/character/332621"
+        },
+        "voiceActors": [
+          {
+            "id": 102914,
+            "name": {
+              "first": "Jirou",
+              "last": "Saitou",
+              "native": "斉藤次郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102914-7ygW5ZSwODbF.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102914-7ygW5ZSwODbF.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102914"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 332622,
+          "name": {
+            "first": "Gigant Bomb",
+            "last": null,
+            "native": "ギガントボム",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b332622-gyW0sFHIT5UY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b332622-gyW0sFHIT5UY.png"
+          },
+          "siteUrl": "https://anilist.co/character/332622"
+        },
+        "voiceActors": [
+          {
+            "id": 107240,
+            "name": {
+              "first": "Toshitsugu",
+              "last": "Takashina",
+              "native": "髙階俊嗣"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107240-1mkB4UWETa7j.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107240-1mkB4UWETa7j.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/107240"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 332623,
+          "name": {
+            "first": "Wingstun",
+            "last": null,
+            "native": "ウィングスタン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b332623-MZjZe3wCwFbh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b332623-MZjZe3wCwFbh.png"
+          },
+          "siteUrl": "https://anilist.co/character/332623"
+        },
+        "voiceActors": [
+          {
+            "id": 95884,
+            "name": {
+              "first": "Masahito",
+              "last": "Yabe",
+              "native": "矢部雅史"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/884.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/884.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95884"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 332624,
+          "name": {
+            "first": "Smokesniper",
+            "last": null,
+            "native": "スモークスナイパー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b332624-fXzQ4OLiMmK5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b332624-fXzQ4OLiMmK5.png"
+          },
+          "siteUrl": "https://anilist.co/character/332624"
+        },
+        "voiceActors": [
+          {
+            "id": 95102,
+            "name": {
+              "first": "Masayuki",
+              "last": "Katou",
+              "native": "加藤将之 "
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95102-3YCVzrTvVhou.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95102-3YCVzrTvVhou.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95102"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Script",
+        "node": {
+          "id": 101166,
+          "name": {
+            "first": "Kouji",
+            "last": "Itou",
+            "native": "伊藤浩二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101166-H6qyykcpZnPr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101166-H6qyykcpZnPr.png"
+          },
+          "description": "[Twitter](https://twitter.com/manakare_i)",
+          "siteUrl": "https://anilist.co/staff/101166"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 101166,
+          "name": {
+            "first": "Kouji",
+            "last": "Itou",
+            "native": "伊藤浩二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101166-H6qyykcpZnPr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101166-H6qyykcpZnPr.png"
+          },
+          "description": "[Twitter](https://twitter.com/manakare_i)",
+          "siteUrl": "https://anilist.co/staff/101166"
+        }
+      },
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 104604,
+          "name": {
+            "first": "Naoto",
+            "last": "Tsushima",
+            "native": "津島直人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104604-EPMdpUjTegRw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104604-EPMdpUjTegRw.png"
+          },
+          "description": "[Twitter](https://twitter.com/naototsushima) | [Pixiv](https://www.pixiv.net/en/users/763853) | [Wiki (jp)](https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%B3%B6%E7%9B%B4%E4%BA%BA)",
+          "siteUrl": "https://anilist.co/staff/104604"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 327,
+          "name": "Takara Tomy",
+          "siteUrl": "https://anilist.co/studio/327"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 6183,
+          "name": "studio A-CAT",
+          "siteUrl": "https://anilist.co/studio/6183"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 60,
+          "name": "Actas",
+          "siteUrl": "https://anilist.co/studio/60"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 246994,
+          "rating": 1,
+          "media": {
+            "id": 7862,
+            "title": {
+              "native": "ロボットマスターズ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 9528,
+            "title": {
+              "native": "トランスフォーマー スーパーリンク"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 407726,
+          "rating": 1,
+          "media": {
+            "id": 7862,
+            "title": {
+              "native": "ロボットマスターズ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 188239,
+            "title": {
+              "native": "トランスフォーマー ワイルドキング"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 11
+      },
+      {
+        "score": 20,
+        "amount": 10
+      },
+      {
+        "score": 30,
+        "amount": 5
+      },
+      {
+        "score": 40,
+        "amount": 15
+      },
+      {
+        "score": 50,
+        "amount": 28
+      },
+      {
+        "score": 60,
+        "amount": 23
+      },
+      {
+        "score": 70,
+        "amount": 13
+      },
+      {
+        "score": 80,
+        "amount": 4
+      },
+      {
+        "score": 90,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 15
+      },
+      {
+        "status": "PLANNING",
+        "amount": 83
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 187
+      },
+      {
+        "status": "DROPPED",
+        "amount": 27
+      },
+      {
+        "status": "PAUSED",
+        "amount": 10
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/7862",
+  "modNotes": null
+}

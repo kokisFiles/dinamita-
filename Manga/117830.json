@@ -1,0 +1,1291 @@
+{
+  "id": 117830,
+  "idMal": null,
+  "title": {
+    "native": "Fate/Grand Order コミックアラカルト PLUS!",
+    "romaji": "Fate/Grand Order: Comic à la Carte PLUS!",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "RELEASING",
+  "description": null,
+  "startDate": {
+    "year": 2018,
+    "month": 12,
+    "day": 26
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748774573,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117830-x5PPyjLRzd98.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117830-x5PPyjLRzd98.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx117830-x5PPyjLRzd98.jpg",
+    "color": "#1a7886"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "페이트 그랜드 오더 코믹 아라카르트 PLUS!"
+  ],
+  "averageScore": null,
+  "meanScore": 67,
+  "popularity": 148,
+  "favourites": 3,
+  "tags": [
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 251,
+      "name": "Archery",
+      "description": "Centers around the sport of archery, or prominently features the use of archery in combat.",
+      "category": "Theme-Action",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 471,
+      "name": "Anthology",
+      "description": "A collection of separate works collated into a single release.",
+      "category": "Technical",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 117050,
+          "title": {
+            "native": "Fate/Grand Order コミックアラカルト"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 110297,
+          "title": {
+            "native": "Fate/Grand Order -turas réalta-"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 108178,
+          "title": {
+            "native": "Fate/Grand Order -mortalis:stella-"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 125557,
+          "title": {
+            "native": "Fate/Grand Order コミックアラカルト PLUS!　SP　対決編！"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 120735,
+          "name": {
+            "first": "Mash",
+            "last": "Kyrielight",
+            "native": "マシュ・キリエライト",
+            "alternative": [
+              "Mashu",
+              "Shielder"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120735-TjIeTlsKNaMl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120735-TjIeTlsKNaMl.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/120735"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 52729,
+          "name": {
+            "first": "Tamamo-no-Mae",
+            "last": null,
+            "native": "玉藻の前",
+            "alternative": [
+              "Caster",
+              "Fox Priestess of Peerless Beauty",
+              "Tamamo Vitch",
+              "Tamamo Cat",
+              "Summer Tamamo-chan",
+              "Tamamo Shark",
+              "Cas-ko",
+              "Mizukume",
+              "Tamamo Aria"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b52729-umVnFFIWH62X.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b52729-umVnFFIWH62X.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/52729"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 120734,
+          "name": {
+            "first": "Ritsuka",
+            "last": "Fujimaru",
+            "native": "藤丸立香",
+            "alternative": [
+              "Gudao"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120734-c6G802LzxRNG.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120734-c6G802LzxRNG.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/120734"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 137153,
+          "name": {
+            "first": "Leonardo",
+            "last": "da Vinci",
+            "native": "レオナルド・ダ・ヴィンチ",
+            "alternative": [
+              "キャスター",
+              "DaVinci-chan",
+              "Caster",
+              "Universal Genius",
+              "Shopkeeper",
+              "Da Vinci Lily",
+              "Loli Vinci",
+              "Gran Cavallo",
+              "ShotaVinci"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137153-z1OAHznRE0rq.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137153-z1OAHznRE0rq.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/137153"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 497,
+          "name": {
+            "first": "Artoria",
+            "last": "Pendragon",
+            "native": "アルトリア・ペンドラゴン",
+            "alternative": [
+              "Saber (セイバー)",
+              "Altria Pendragon",
+              "King Arthur",
+              "King of Knights",
+              "Blue Saber",
+              "Arturia Pendragon",
+              "Goddess Rhongomyniad",
+              "Lion King",
+              "Elise Watoson",
+              "Once and Future King",
+              "Proud Knight-King",
+              "Arthur Pendragon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b497-Yg5pNmC8kxzs.png"
+          },
+          "siteUrl": "https://anilist.co/character/497"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 154216,
+          "name": {
+            "first": "Ritsuka",
+            "last": "Fujimaru",
+            "native": "藤丸立香",
+            "alternative": [
+              "Gudako"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154216-u50KteXa51Pf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b154216-u50KteXa51Pf.png"
+          },
+          "siteUrl": "https://anilist.co/character/154216"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 120461,
+          "name": {
+            "first": "Karna ",
+            "last": "",
+            "native": "カルナ",
+            "alternative": [
+              "Lancer of Red",
+              "Aka no Lancer",
+              "赤のランサー",
+              "Hero of Charity",
+              "Launcher",
+              "Son of the Sun God"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120461-n2FsP6JfASZa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b120461-n2FsP6JfASZa.png"
+          },
+          "siteUrl": "https://anilist.co/character/120461"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 89925,
+          "name": {
+            "first": "Alice",
+            "last": null,
+            "native": "ありす",
+            "alternative": [
+              "Caster",
+              "Nursery Rhyme"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89925-RyCuPcBpyfQX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89925-RyCuPcBpyfQX.png"
+          },
+          "siteUrl": "https://anilist.co/character/89925"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 130864,
+          "name": {
+            "first": "Scáthach",
+            "last": null,
+            "native": "スカサハ",
+            "alternative": [
+              "Lancer",
+              "Shishou",
+              "Scathach",
+              "Scáthach-Skaði",
+              "Lord of Spirits",
+              "Skadi",
+              "Queen of Ice and Snow",
+              "Witch of Dún Scáith",
+              "Queen of the Land of Shadows",
+              "Scathach-Skadi",
+              "スカサハ＝スカディ"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130864-wmp9712xUnEB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b130864-wmp9712xUnEB.png"
+          },
+          "siteUrl": "https://anilist.co/character/130864"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 150759,
+          "name": {
+            "first": "Ereshkigal",
+            "last": null,
+            "native": "エレシュキガル",
+            "alternative": [
+              "Goddess of the Netherworld",
+              "Queen of the Great Below",
+              "Ereshkigal Alter",
+              "Lancer",
+              "Ninkigal (ニンキガル)",
+              "Lady of the Great Earth",
+              "Space Ereshkigal",
+              "Beast of the Universe",
+              "Anki-Ereshkigal"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b150759-VGIPIiMzriqI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b150759-VGIPIiMzriqI.png"
+          },
+          "siteUrl": "https://anilist.co/character/150759"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2087,
+          "name": {
+            "first": "Archer",
+            "last": null,
+            "native": "アーチャー",
+            "alternative": [
+              "Wrought Iron Hero (錬鉄の英霊)",
+              "Faker (フェイカー)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2087-l5WP4W4vmfJJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2087-l5WP4W4vmfJJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/2087"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2514,
+          "name": {
+            "first": "Gilgamesh",
+            "last": "",
+            "native": "ギルガメッシュ",
+            "alternative": [
+              "Archer",
+              "King of Heroes",
+              "King of Kings",
+              "Golden King",
+              "King of Babylon",
+              "Oldest King",
+              "AUO",
+              "Gil-kun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2514-hnE6LEdqm7Su.png"
+          },
+          "siteUrl": "https://anilist.co/character/2514"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 35603,
+          "name": {
+            "first": "Shirou Tokisada",
+            "last": "Amakusa ",
+            "native": "天草四郎時貞",
+            "alternative": [
+              "Shirou Kotomine (シロウ・コトミネ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35603-YsTDbUZ55RJW.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b35603-YsTDbUZ55RJW.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/35603"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 135703,
+          "name": {
+            "first": "Fou ",
+            "last": null,
+            "native": "フォウ",
+            "alternative": [
+              "Cath Palug"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135703-G5LdKY9DD0Ct.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135703-G5LdKY9DD0Ct.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/135703"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 137154,
+          "name": {
+            "first": "Romani",
+            "last": "Archaman",
+            "native": "ロマニ・アーキマン",
+            "alternative": [
+              "Dr. Roman"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137154-pa65jCryA6yl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137154-pa65jCryA6yl.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/137154"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 143709,
+          "name": {
+            "first": "Benienma",
+            "last": null,
+            "native": "紅閻魔",
+            "alternative": [
+              "Shita-kiri Suzume no Benienma",
+              "Tongue-Cut Sparrow Benienma",
+              "Beni-enma"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143709-IfPp5D1o0cTV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143709-IfPp5D1o0cTV.png"
+          },
+          "siteUrl": "https://anilist.co/character/143709"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 52315,
+          "name": {
+            "first": "Francis ",
+            "last": "Drake",
+            "native": "フランシス・ドレイク",
+            "alternative": [
+              "Rider",
+              "El Draque",
+              "King of Storms",
+              "King of Ghosts",
+              "Francis Drake Alter",
+              "Pirate Princess Dahut",
+              "Rider of Ys",
+              "嵐の航海者",
+              "イースのライダー",
+              "ダユー"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b52315-jbDDnEYuLVOA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b52315-jbDDnEYuLVOA.png"
+          },
+          "siteUrl": "https://anilist.co/character/52315"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 138357,
+          "name": {
+            "first": "Gawain",
+            "last": null,
+            "native": "ガウェイン",
+            "alternative": [
+              "Saber",
+              "Knight of the Sun",
+              "White Knight of the Round Table"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138357-xJTl4h2XP2vz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b138357-xJTl4h2XP2vz.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/138357"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 152370,
+          "name": {
+            "first": "Minamoto no Raikou",
+            "last": null,
+            "native": "源頼光",
+            "alternative": [
+              "Minamoto no Yorimitsu",
+              "Berserker",
+              "Ushi Gozen",
+              "Kālasūtra Hell Rider"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b152370-3zYFSAt7lhYl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b152370-3zYFSAt7lhYl.png"
+          },
+          "siteUrl": "https://anilist.co/character/152370"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 141627,
+          "name": {
+            "first": "Musashi",
+            "last": "Miyamoto",
+            "native": "宮本武蔵",
+            "alternative": [
+              "Flower of Tengen",
+              "Shinmen Musashi no Kami Fujiwara no Harunobu",
+              "Bennosuke",
+              "Niten Douraku",
+              "Shinmen Takezou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141627-3Fgg0SZOXePd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b141627-3Fgg0SZOXePd.png"
+          },
+          "siteUrl": "https://anilist.co/character/141627"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 126820,
+          "name": {
+            "first": "Merlin",
+            "last": null,
+            "native": "マーリン",
+            "alternative": [
+              "Magus of Flowers"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126820-9FU6ueHKN2LI.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126820-9FU6ueHKN2LI.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/126820"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67769,
+          "name": {
+            "first": "Jeanne ",
+            "last": "d'Arc",
+            "native": "ジャンヌ・ダルク",
+            "alternative": [
+              "Ruler (ルーラー)",
+              "Joan of Arc",
+              "The Maid of Orléans",
+              "Holy Maiden of Salvation",
+              "Juana de Arco",
+              "La Pucelle d'Orléans",
+              "The Maiden of Orleans",
+              "St. Joan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67769-6TSfn8kz4KVf.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67769-6TSfn8kz4KVf.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/67769"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 162447,
+          "name": {
+            "first": "Martha",
+            "last": null,
+            "native": "マルタ",
+            "alternative": [
+              "Saint Martha",
+              "Dragon Rider"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162447-uXTFv8Y8w78b.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b162447-uXTFv8Y8w78b.png"
+          },
+          "siteUrl": "https://anilist.co/character/162447"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 175329,
+          "name": {
+            "first": "Billy the Kid",
+            "last": null,
+            "native": "ビリー・ザ・キッド",
+            "alternative": [
+              "William Henry McCarty Junior",
+              "Juvenile Rascal King"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175329-jewnivgQowv3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b175329-jewnivgQowv3.png"
+          },
+          "siteUrl": "https://anilist.co/character/175329"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 215691,
+          "name": {
+            "first": "Jeanne",
+            "last": "d'Arc Alter",
+            "native": "ジャンヌ・ダルク・オルタ",
+            "alternative": [
+              "The Dragon Witch",
+              "Witch of Vengeance",
+              "Jalter",
+              "Avenger",
+              "Jeanne Alter",
+              "Jeanne d'Arc Alter Santa Lily",
+              "Cohort of the Evil Oni",
+              "Lancer"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b215691-3QKTkH6zoKFe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b215691-3QKTkH6zoKFe.png"
+          },
+          "siteUrl": "https://anilist.co/character/215691"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 119967,
+          "name": {
+            "first": "TAa",
+            "last": null,
+            "native": "たー"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119967-k906QaObjnFm.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119967-k906QaObjnFm.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/tam_00xx)",
+          "siteUrl": "https://anilist.co/staff/119967"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 102551,
+          "name": {
+            "first": "",
+            "last": "Puyo",
+            "native": "ぷよ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/102551-Sn0CETSEu7xH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/102551-Sn0CETSEu7xH.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/puyotopia) | [Alternate Twitter](https://twitter.com/puyotopia2) | [Pixiv](https://www.pixiv.net/member.php?id=4200986)",
+          "siteUrl": "https://anilist.co/staff/102551"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 162276,
+          "name": {
+            "first": "Nakatani",
+            "last": null,
+            "native": "中谷"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n162276-3mPOb1LRPu0k.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n162276-3mPOb1LRPu0k.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/naka6130)",
+          "siteUrl": "https://anilist.co/staff/162276"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 152666,
+          "name": {
+            "first": "Piyo",
+            "last": null,
+            "native": "ぴよ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n152666-C0k6B38TJ7h1.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n152666-C0k6B38TJ7h1.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/piyo_fgo)",
+          "siteUrl": "https://anilist.co/staff/152666"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 154762,
+          "name": {
+            "first": "Ayamatazu",
+            "last": null,
+            "native": "過たず"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n154762-hppItpTyBVQK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n154762-hppItpTyBVQK.png"
+          },
+          "description": "[Twitter](https://twitter.com/ayamatazu_)",
+          "siteUrl": "https://anilist.co/staff/154762"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 143371,
+          "name": {
+            "first": "Makoto",
+            "last": "Hoshino",
+            "native": "星野真"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n143371-nCmjQ8EEHd5Y.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n143371-nCmjQ8EEHd5Y.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/mkt_0220) | [Official Website](https://twpf.jp/MKT_0220)\n\nTheir sister is Rina Hoshino, bassist of the all-girl band ELFRIEDE.",
+          "siteUrl": "https://anilist.co/staff/143371"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 141091,
+          "name": {
+            "first": "Meiji",
+            "last": null,
+            "native": "メイジ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n141091-haDIGpR9BYIC.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n141091-haDIGpR9BYIC.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/MEIJI_PKMN)",
+          "siteUrl": "https://anilist.co/staff/141091"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 152659,
+          "name": {
+            "first": "Kurohachi",
+            "last": null,
+            "native": "黒八"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n152659-qMFER9AZQlka.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n152659-qMFER9AZQlka.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/mgk968)",
+          "siteUrl": "https://anilist.co/staff/152659"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 152657,
+          "name": {
+            "first": "Tama",
+            "last": "Ousaka",
+            "native": "逢坂たま"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n152657-4vRZooC3BtPg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n152657-4vRZooC3BtPg.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/ugutama)",
+          "siteUrl": "https://anilist.co/staff/152657"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 139979,
+          "name": {
+            "first": "Piroya",
+            "last": null,
+            "native": "ピロヤ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n139979-Yv6ViqpKx4ri.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n139979-Yv6ViqpKx4ri.png"
+          },
+          "description": "[Twitter](https://twitter.com/_3x23) | [Pixiv](https://www.pixiv.net/member.php?id=7433667)",
+          "siteUrl": "https://anilist.co/staff/139979"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 138480,
+          "name": {
+            "first": "NEGI",
+            "last": null,
+            "native": "NEGI"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n138480-wgLTZmzQ8y4Q.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n138480-wgLTZmzQ8y4Q.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/ulogbe) | [Pixiv](https://www.pixiv.net/member.php?id=40586) | [Website](https://ulogbe.net)",
+          "siteUrl": "https://anilist.co/staff/138480"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 135442,
+          "name": {
+            "first": "Araya",
+            "last": null,
+            "native": "荒野"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n135442-ENnUYZES8t4U.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n135442-ENnUYZES8t4U.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/arayadmdm) | [Pixiv](https://www.pixiv.net/users/1206499)",
+          "siteUrl": "https://anilist.co/staff/135442"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 126088,
+          "name": {
+            "first": "Isshiki",
+            "last": null,
+            "native": "一色"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n126088-9zfyLtdWZwUn.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n126088-9zfyLtdWZwUn.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/t1shiki) | [Pixiv](https://www.pixiv.net/users/388151)",
+          "siteUrl": "https://anilist.co/staff/126088"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 113007,
+          "name": {
+            "first": "Shigure",
+            "last": "Aoba",
+            "native": "青刃時雨"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113007-F8tgRamXlcX1.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n113007-F8tgRamXlcX1.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/abs17)",
+          "siteUrl": "https://anilist.co/staff/113007"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 167872,
+          "name": {
+            "first": "Meguru",
+            "last": "Morimachi",
+            "native": "森町めぐる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n167872-j1QSCu1i2GLI.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n167872-j1QSCu1i2GLI.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/m_eguru_)",
+          "siteUrl": "https://anilist.co/staff/167872"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 167873,
+          "name": {
+            "first": "Tori",
+            "last": "Mizutame",
+            "native": "水溜鳥"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n167873-WmF2dkppUS0j.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n167873-WmF2dkppUS0j.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/mizumizutorisan)",
+          "siteUrl": "https://anilist.co/staff/167873"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 167874,
+          "name": {
+            "first": null,
+            "last": "Agusuke",
+            "native": "あぐすけ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n167874-JytRL15k9dIP.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n167874-JytRL15k9dIP.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/agunosuke)",
+          "siteUrl": "https://anilist.co/staff/167874"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 167875,
+          "name": {
+            "first": "Genyaky",
+            "last": "",
+            "native": "げんやき"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n167875-TYoqQxPKqSoZ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n167875-TYoqQxPKqSoZ.jpg"
+          },
+          "description": "[Pixiv](https://www.pixiv.net/en/users/1867047) | [Twitter](https://twitter.com/gn_yaky) | [Blog](http://genyaky.blog.fc2.com/)",
+          "siteUrl": "https://anilist.co/staff/167875"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 167876,
+          "name": {
+            "first": "Ryouichi",
+            "last": "Otama",
+            "native": "尾玉了一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n167876-ldzBvJxKNDxk.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n167876-ldzBvJxKNDxk.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/gohan_kimi)",
+          "siteUrl": "https://anilist.co/staff/167876"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 167877,
+          "name": {
+            "first": null,
+            "last": "Jirou",
+            "native": "侍狼"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n167877-giZbR2ZNxg1K.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n167877-giZbR2ZNxg1K.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/jirohq)",
+          "siteUrl": "https://anilist.co/staff/167877"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 167878,
+          "name": {
+            "first": "Yuu",
+            "last": "Kisaragi",
+            "native": "如月憂"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n167878-qxUcHzM6Hzsw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n167878-qxUcHzM6Hzsw.png"
+          },
+          "description": "[Website](https://kisayuu.wixsite.com/fallensky) | [Twitter (Main)](https://twitter.com/KISAYU_) | [Twitter (Art)](https://twitter.com/ksyu_pic) | [Instagram](https://www.instagram.com/kisayu__/) | [Tumblr](https://kisaragiyuu.tumblr.com/)\n\nYuu Kisaragi, also known as kisayu, is a Japanese freelance illustrator and designer.",
+          "siteUrl": "https://anilist.co/staff/167878"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 144458,
+          "name": {
+            "first": "Nina",
+            "last": "Akabane",
+            "native": "赤羽にな"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144458-cwyGrL10T4II.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n144458-cwyGrL10T4II.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/akabanenina) | [Twitter 2](https://twitter.com/nina_pastime) | [Website](https://ninawingm.wixsite.com/mysite)",
+          "siteUrl": "https://anilist.co/staff/144458"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 188346,
+          "name": {
+            "first": "Peperon",
+            "last": null,
+            "native": "ぺペロン"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188346-sBBdW5FRNxBJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n188346-sBBdW5FRNxBJ.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/peperou9) | [Pixiv](https://www.pixiv.net/en/users/3675380) | [Skeb](https://skeb.jp/@peperou9)",
+          "siteUrl": "https://anilist.co/staff/188346"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 173362,
+          "name": {
+            "first": "Dashio",
+            "last": "Tsukimi",
+            "native": "月見だしお"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n173362-sFDg5ZYqqkdb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n173362-sFDg5ZYqqkdb.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/T_zoku_1)",
+          "siteUrl": "https://anilist.co/staff/173362"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 188347,
+          "name": {
+            "first": "Oyo",
+            "last": null,
+            "native": "およ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188347-OjUxXkqTZMF9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n188347-OjUxXkqTZMF9.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/ohyg3) | [Tumblr](https://ohyg3.tumblr.com/)",
+          "siteUrl": "https://anilist.co/staff/188347"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 211235,
+          "rating": 1,
+          "media": {
+            "id": 117830,
+            "title": {
+              "native": "Fate/Grand Order コミックアラカルト PLUS!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 114016,
+            "title": {
+              "native": "Fate/Grand Order フロム ロストベルト"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 400929,
+          "rating": -3,
+          "media": {
+            "id": 117830,
+            "title": {
+              "native": "Fate/Grand Order コミックアラカルト PLUS!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 98263,
+            "title": {
+              "native": "とんがり帽子のアトリエ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 3
+      },
+      {
+        "score": 70,
+        "amount": 1
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 27
+      },
+      {
+        "status": "PLANNING",
+        "amount": 107
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 6
+      },
+      {
+        "status": "DROPPED",
+        "amount": 2
+      },
+      {
+        "status": "PAUSED",
+        "amount": 6
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/117830",
+  "modNotes": null
+}

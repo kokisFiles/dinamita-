@@ -1,0 +1,218 @@
+{
+  "id": 106160,
+  "idMal": null,
+  "title": {
+    "native": "Floccinaucinihilipilificator",
+    "romaji": "Floccinaucinihilipilificator",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Part of a series of music videos featuring the cast of Kakuchou Shoujo-kei Trinary.",
+  "startDate": {
+    "year": 2017,
+    "month": 9,
+    "day": 6
+  },
+  "endDate": {
+    "year": 2017,
+    "month": 9,
+    "day": 6
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 3,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": {
+    "id": "5Z2vwHzIzgw",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/5Z2vwHzIzgw/hqdefault.jpg"
+  },
+  "updatedAt": 1748778697,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106160-YzntI2LXZNP8.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx106160-YzntI2LXZNP8.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx106160-YzntI2LXZNP8.jpg",
+    "color": "#f1bb0d"
+  },
+  "bannerImage": null,
+  "genres": [],
+  "synonyms": [
+    "Kakuchou Shoujo-kei Trinary: Ex.MV ep.3",
+    "Augmented Reality Girls Trinary: Ex.MV ep.3",
+    "拡張少女系トライナリー Ex.MV ep.3"
+  ],
+  "averageScore": 51,
+  "meanScore": 58,
+  "popularity": 219,
+  "favourites": 1,
+  "tags": [],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 98595,
+          "title": {
+            "native": "拡張少女系トライナリー"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 106158,
+          "title": {
+            "native": "Sigh-nage ～吐心感情戦～"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 131073,
+          "name": {
+            "first": "Kagura",
+            "last": "Uzuki",
+            "native": "卯月神楽",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n131073-jCd9KzXsHpef.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n131073-jCd9KzXsHpef.png"
+          },
+          "siteUrl": "https://anilist.co/character/131073"
+        },
+        "voiceActors": [
+          {
+            "id": 131075,
+            "name": {
+              "first": "Emi",
+              "last": "Hirayama",
+              "native": "平山笑美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131075-Pqf4pDPhBriB.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n131075-Pqf4pDPhBriB.png"
+            },
+            "siteUrl": "https://anilist.co/staff/131075"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 91,
+          "name": "feel.",
+          "siteUrl": "https://anilist.co/studio/91"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 18,
+          "name": "Toei Animation",
+          "siteUrl": "https://anilist.co/studio/18"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 7
+      },
+      {
+        "score": 50,
+        "amount": 12
+      },
+      {
+        "score": 60,
+        "amount": 18
+      },
+      {
+        "score": 70,
+        "amount": 9
+      },
+      {
+        "score": 80,
+        "amount": 7
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 6
+      },
+      {
+        "status": "PLANNING",
+        "amount": 62
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 144
+      },
+      {
+        "status": "DROPPED",
+        "amount": 4
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/106160",
+  "modNotes": null
+}

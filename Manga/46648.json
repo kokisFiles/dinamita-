@@ -1,0 +1,522 @@
+{
+  "id": 46648,
+  "idMal": 16648,
+  "title": {
+    "native": "エンジェルビーツ!",
+    "romaji": "Angel Beats! Track Zero",
+    "english": "Angel Beats! Track Zero"
+  },
+  "type": "MANGA",
+  "format": "NOVEL",
+  "status": "FINISHED",
+  "description": "The light novel is the official prequel to the anime series.<br>\nIt tells the story of how Yuri and Hinata meet, how they find out about \"Angel\" and the other characters and how the SSS was founded.",
+  "startDate": {
+    "year": 2009,
+    "month": 11,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2010,
+    "month": 5,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 9,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748523738,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b46648-LoHZbnmR0kNQ.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b46648-LoHZbnmR0kNQ.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b46648-LoHZbnmR0kNQ.jpg",
+    "color": "#e45086"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Music"
+  ],
+  "synonyms": [
+    "Angel Beats!"
+  ],
+  "averageScore": 68,
+  "meanScore": 73,
+  "popularity": 1390,
+  "favourites": 20,
+  "tags": [
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 49671,
+          "title": {
+            "native": "Angel Beats! Heaven's Door"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 6547,
+          "title": {
+            "native": "Angel Beats!"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 170530,
+          "title": {
+            "native": "Angel Beats! スピンオフ 旅する天使ちゃん"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24513,
+          "name": {
+            "first": "Hisako",
+            "last": null,
+            "native": "ひさ子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24513-Ic4S0IrlPqSM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24513-Ic4S0IrlPqSM.png"
+          },
+          "siteUrl": "https://anilist.co/character/24513"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24503,
+          "name": {
+            "first": "Hideki",
+            "last": "Hinata",
+            "native": "日向秀樹",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24503-aMw9BnXmEVrP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24503-aMw9BnXmEVrP.png"
+          },
+          "siteUrl": "https://anilist.co/character/24503"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24516,
+          "name": {
+            "first": "Miyuki",
+            "last": "Irie",
+            "native": "入江みゆき",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24516-nDU14Vw4DjHK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24516-nDU14Vw4DjHK.png"
+          },
+          "siteUrl": "https://anilist.co/character/24516"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24512,
+          "name": {
+            "first": "Masami",
+            "last": "Iwasawa",
+            "native": "岩沢まさみ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24512-lXCO1P7u8RMO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24512-lXCO1P7u8RMO.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24512"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 22370,
+          "name": {
+            "first": "Yuri",
+            "last": "Nakamura",
+            "native": "仲村ゆり",
+            "alternative": [
+              "Yurippe"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b22370-pNQxFEv1K7lS.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/22370"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24511,
+          "name": {
+            "first": "",
+            "last": "Ooyama",
+            "native": "大山",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24511.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24511.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24511"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24517,
+          "name": {
+            "first": "Shiori",
+            "last": "Sekine",
+            "native": "関根",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24517-o0aohkn3Uzig.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24517-o0aohkn3Uzig.png"
+          },
+          "siteUrl": "https://anilist.co/character/24517"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 22369,
+          "name": {
+            "first": "Kanade",
+            "last": "Tachibana",
+            "native": "立華かなで",
+            "alternative": [
+              "Angel (天使‚ Tenshi)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b22369-zC7OgGbfO7b6.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/22369"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24519,
+          "name": {
+            "first": "Chaa",
+            "last": null,
+            "native": "チャー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24519.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24519.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24519"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24505,
+          "name": {
+            "first": "",
+            "last": "Noda",
+            "native": "野田",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24505.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24505.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24505"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24506,
+          "name": {
+            "first": "",
+            "last": "Shiina",
+            "native": "椎名",
+            "alternative": [
+              "Shiinacchi",
+              "C7"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24506.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24506.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24506"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 97347,
+          "name": {
+            "first": "Jun",
+            "last": "Maeda",
+            "native": "麻枝准"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97347-rW4KaLhBzEvF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97347-rW4KaLhBzEvF.jpg"
+          },
+          "description": "__Graduated:__ Chuukyou University (Department of Psychology)\n\n__Introduction:__\nJun Maeda is a Japanese scriptwriter, lyricist, composer and music producer. He is known as one of the founding members of the software company Key, and he is the main composer and original creator for most of Key's visual novels. His most notable works are Kanon (Mai and Makoto routes), Air, Clannad, Angel Beats!, Tomoyo After, and Little Busters!. Maeda also worked on Summer Pockets, which he claimed \"needed to make readers cry or it would mean the end for Key\".\n\n__Biography:__\nBefore forming Key, Maeda worked for the company Tactics where he had a hand in the creation of two games for that company: Moon and One: Kagayaku Kisetsu e.",
+          "siteUrl": "https://anilist.co/staff/97347"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 97885,
+          "name": {
+            "first": "",
+            "last": "Key",
+            "native": "Key"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2885.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2885.jpg"
+          },
+          "description": "Key is a Japanese visual novel studio. It is known for making dramatic and plot-oriented visual novels. Some of their most famous works include CLANNAD, planetarian, and Little Busters!, among others. Several of their visual novels have received anime adaptations, making them quite well-known even outside of the visual novel community.\n\nThey've also formed Key Sounds Label for their music tracks, and they produced an Internet radio show called Key Net Radio which is now defunct as of 2010. Key works under the publishing company Visual Arts, where it originally sprung out of.",
+          "siteUrl": "https://anilist.co/staff/97885"
+        }
+      },
+      {
+        "role": "Illustration",
+        "node": {
+          "id": 141844,
+          "name": {
+            "first": "Goto-P",
+            "last": null,
+            "native": "ごとP"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n141844-35CnWAyCCbJZ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n141844-35CnWAyCCbJZ.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/gotop12)",
+          "siteUrl": "https://anilist.co/staff/141844"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 31812,
+      "rank": 13,
+      "type": "RATED",
+      "format": "NOVEL",
+      "year": 2009,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 31835,
+      "rank": 7,
+      "type": "POPULAR",
+      "format": "NOVEL",
+      "year": 2009,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 322015,
+          "rating": 1,
+          "media": {
+            "id": 46648,
+            "title": {
+              "native": "エンジェルビーツ!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 120546,
+            "title": {
+              "native": "Official Another Story Rewrite ~葉揺れささやく小径で~"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 322017,
+          "rating": 1,
+          "media": {
+            "id": 46648,
+            "title": {
+              "native": "エンジェルビーツ!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 70099,
+            "title": {
+              "native": "中二病でも恋がしたい!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 322052,
+          "rating": 1,
+          "media": {
+            "id": 46648,
+            "title": {
+              "native": "エンジェルビーツ!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 94367,
+            "title": {
+              "native": "ローゼンメイデン"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 4
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 5
+      },
+      {
+        "score": 40,
+        "amount": 9
+      },
+      {
+        "score": 50,
+        "amount": 16
+      },
+      {
+        "score": 60,
+        "amount": 34
+      },
+      {
+        "score": 70,
+        "amount": 82
+      },
+      {
+        "score": 80,
+        "amount": 66
+      },
+      {
+        "score": 90,
+        "amount": 40
+      },
+      {
+        "score": 100,
+        "amount": 35
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 69
+      },
+      {
+        "status": "PLANNING",
+        "amount": 855
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 412
+      },
+      {
+        "status": "DROPPED",
+        "amount": 22
+      },
+      {
+        "status": "PAUSED",
+        "amount": 32
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/46648",
+  "modNotes": null
+}

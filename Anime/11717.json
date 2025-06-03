@@ -1,0 +1,302 @@
+{
+  "id": 11717,
+  "idMal": 11717,
+  "title": {
+    "native": "星のカービィ パイロット版",
+    "romaji": "Hoshi no Kirby Pilot",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "Pilot episode for Kirby: Right Back At Ya!<br><br>\nThe episode begins with a mysterious pink creature, Kirby, crash landing his starship on a foreign planet, Popstar. ",
+  "startDate": {
+    "year": 2000,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": 2000,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 5,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748882849,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11717.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11717.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/11717.jpg",
+    "color": "#e4bb1a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Hoshi no Kirby",
+    "Kirby of the Stars",
+    "Hoshi no Kaabii",
+    "星のカービィPILOT"
+  ],
+  "averageScore": 50,
+  "meanScore": 51,
+  "popularity": 749,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2390,
+          "title": {
+            "native": "星のカービィ"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 170613,
+          "title": {
+            "native": "タッチ!カービィ4コマギャグバトル"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5471,
+          "name": {
+            "first": "Kirby",
+            "last": "",
+            "native": "カービィ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5471-eeOkCyhMvIHH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5471-eeOkCyhMvIHH.png"
+          },
+          "siteUrl": "https://anilist.co/character/5471"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 5472,
+          "name": {
+            "first": "Meta Knight",
+            "last": null,
+            "native": "メタナイト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5472-d2woNUc2CRdm.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5472-d2woNUc2CRdm.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5472"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5473,
+          "name": {
+            "first": "Dedede Daiou",
+            "last": null,
+            "native": "デデデ大王",
+            "alternative": [
+              "King Dedede"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5473-Wsi4svMqk7Sh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5473-Wsi4svMqk7Sh.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5473"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 17576,
+          "name": {
+            "first": "Fumu",
+            "last": null,
+            "native": "フーム",
+            "alternative": [
+              "Tiff"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17576-MAwfiX1eVimM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b17576-MAwfiX1eVimM.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17576"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 146,
+          "name": "CBC",
+          "siteUrl": "https://anilist.co/studio/146"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 18950,
+          "rating": 4,
+          "media": {
+            "id": 11717,
+            "title": {
+              "native": "星のカービィ パイロット版"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 101094,
+            "title": {
+              "native": "星のカービィ～特別編～ 倒せ!!甲殻魔獣エビゾウ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 211589,
+          "rating": 0,
+          "media": {
+            "id": 11717,
+            "title": {
+              "native": "星のカービィ パイロット版"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 101036,
+            "title": {
+              "native": "ガンダムビルドダイバーズ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 14
+      },
+      {
+        "score": 20,
+        "amount": 15
+      },
+      {
+        "score": 30,
+        "amount": 30
+      },
+      {
+        "score": 40,
+        "amount": 50
+      },
+      {
+        "score": 50,
+        "amount": 88
+      },
+      {
+        "score": 60,
+        "amount": 64
+      },
+      {
+        "score": 70,
+        "amount": 46
+      },
+      {
+        "score": 80,
+        "amount": 11
+      },
+      {
+        "score": 90,
+        "amount": 10
+      },
+      {
+        "score": 100,
+        "amount": 12
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 9
+      },
+      {
+        "status": "PLANNING",
+        "amount": 161
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 557
+      },
+      {
+        "status": "DROPPED",
+        "amount": 18
+      },
+      {
+        "status": "PAUSED",
+        "amount": 4
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/11717",
+  "modNotes": null
+}

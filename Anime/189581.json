@@ -1,0 +1,820 @@
+{
+  "id": 189581,
+  "idMal": null,
+  "title": {
+    "native": "7FATES: CHAKHO",
+    "romaji": "7FATES: CHAKHO",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "Original story based on <i>7FATES: CHAKHO</i>",
+  "startDate": {
+    "year": 2025,
+    "month": 4,
+    "day": 3
+  },
+  "endDate": {
+    "year": 2025,
+    "month": 4,
+    "day": 3
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 11,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": {
+    "id": "XTlNXYgIka0",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/XTlNXYgIka0/hqdefault.jpg"
+  },
+  "updatedAt": 1748862878,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189581-XkZZWUWgun9Z.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189581-XkZZWUWgun9Z.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189581-XkZZWUWgun9Z.jpg",
+    "color": "#50e4d6"
+  },
+  "bannerImage": null,
+  "genres": [],
+  "synonyms": [],
+  "averageScore": 63,
+  "meanScore": 72,
+  "popularity": 1210,
+  "favourites": 20,
+  "tags": [],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 141144,
+          "title": {
+            "native": "7Fates: CHAKHO"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 279261,
+          "name": {
+            "first": "Je-Ha",
+            "last": null,
+            "native": "제하",
+            "alternative": [
+              "Zeha"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279261-LlZn3sEfhNqe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b279261-LlZn3sEfhNqe.png"
+          },
+          "siteUrl": "https://anilist.co/character/279261"
+        },
+        "voiceActors": [
+          {
+            "id": 121940,
+            "name": {
+              "first": "Shouya",
+              "last": "Ishige",
+              "native": "石毛翔弥"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121940-VsqIg2qO2RXF.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121940-VsqIg2qO2RXF.png"
+            },
+            "siteUrl": "https://anilist.co/staff/121940"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 279260,
+          "name": {
+            "first": "Ha-Ru",
+            "last": null,
+            "native": "하루",
+            "alternative": [
+              "Haru"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279260-TaBa3srjFtZw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b279260-TaBa3srjFtZw.png"
+          },
+          "siteUrl": "https://anilist.co/character/279260"
+        },
+        "voiceActors": [
+          {
+            "id": 95513,
+            "name": {
+              "first": "Yuuichi",
+              "last": "Nakamura",
+              "native": "中村悠一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95513-up9ZDuocHgRs.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95513"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 279263,
+          "name": {
+            "first": "Hwan",
+            "last": null,
+            "native": "환",
+            "alternative": [
+              "Archer A"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279263-Qs2CURg1uJRH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b279263-Qs2CURg1uJRH.png"
+          },
+          "siteUrl": "https://anilist.co/character/279263"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 279265,
+          "name": {
+            "first": "Do-Geon",
+            "last": null,
+            "native": "도건",
+            "alternative": [
+              "Geon (건)",
+              "Dogeon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279265-ySj4louWlC0j.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b279265-ySj4louWlC0j.png"
+          },
+          "siteUrl": "https://anilist.co/character/279265"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 279262,
+          "name": {
+            "first": "Se-In",
+            "last": null,
+            "native": "세인",
+            "alternative": [
+              "Cein",
+              "Sein"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279262-lfY5KpYF0xcJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b279262-lfY5KpYF0xcJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/279262"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 279266,
+          "name": {
+            "first": "Ju-An",
+            "last": null,
+            "native": "주안",
+            "alternative": [
+              "Jooan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279266-NRn7UhWSrgzH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b279266-NRn7UhWSrgzH.png"
+          },
+          "siteUrl": "https://anilist.co/character/279266"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 279264,
+          "name": {
+            "first": "Ho-Su",
+            "last": null,
+            "native": "호수",
+            "alternative": [
+              "Hosu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279264-asTHyXNHGYmO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b279264-asTHyXNHGYmO.png"
+          },
+          "siteUrl": "https://anilist.co/character/279264"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Script",
+        "node": {
+          "id": 133644,
+          "name": {
+            "first": "Shin",
+            "last": "Wakabayashi",
+            "native": "若林信"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133644-Dxw0m5JU0WgS.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n133644-Dxw0m5JU0WgS.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/huusun)\n\nOriginating from Xebec. Although now is freelancer, currently engaged in training young directors for [CloverWorks](https://anilist.co/studio/6222/) as of May 2024. Debuted as a director on [Wonder Egg Priority](https://anilist.co/anime/124845/).",
+          "siteUrl": "https://anilist.co/staff/133644"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 181680,
+          "name": {
+            "first": "Danni",
+            "last": "Zhang",
+            "native": "張丹妮"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n181680-JP02w81z6qE4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n181680-JP02w81z6qE4.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/2414820985)",
+          "siteUrl": "https://anilist.co/staff/181680"
+        }
+      },
+      {
+        "role": "Prop Design",
+        "node": {
+          "id": 272231,
+          "name": {
+            "first": "KURO",
+            "last": null,
+            "native": "KURO"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n272231-RM4fAIHv0ETy.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n272231-RM4fAIHv0ETy.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/K_u___R_o) | [Instagram](https://www.instagram.com/k_u___r_o/) | [Pixiv](https://www.pixiv.net/en/users/37081654)",
+          "siteUrl": "https://anilist.co/staff/272231"
+        }
+      },
+      {
+        "role": "Special Effects",
+        "node": {
+          "id": 157507,
+          "name": {
+            "first": "Chiemi",
+            "last": "Irisa",
+            "native": "入佐芽詠美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n157507-G2uVpGPIgqlZ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n157507-G2uVpGPIgqlZ.jpg"
+          },
+          "description": "[Website](https://irisa1530.wixsite.com/mysite) | [Twitter](https://twitter.com/irisa_chiemi)",
+          "siteUrl": "https://anilist.co/staff/157507"
+        }
+      },
+      {
+        "role": "Assistant Director",
+        "node": {
+          "id": 127730,
+          "name": {
+            "first": "Katsuhiko",
+            "last": "Kitada",
+            "native": "北田勝彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n127730-YzsGBpybyCtj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n127730-YzsGBpybyCtj.png"
+          },
+          "description": "[Twitter](https://twitter.com/hoknosin)\n\nOriginating from [Xebec](https://anilist.co/studio/27/).",
+          "siteUrl": "https://anilist.co/staff/127730"
+        }
+      },
+      {
+        "role": "Director ",
+        "node": {
+          "id": 133644,
+          "name": {
+            "first": "Shin",
+            "last": "Wakabayashi",
+            "native": "若林信"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133644-Dxw0m5JU0WgS.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n133644-Dxw0m5JU0WgS.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/huusun)\n\nOriginating from Xebec. Although now is freelancer, currently engaged in training young directors for [CloverWorks](https://anilist.co/studio/6222/) as of May 2024. Debuted as a director on [Wonder Egg Priority](https://anilist.co/anime/124845/).",
+          "siteUrl": "https://anilist.co/staff/133644"
+        }
+      },
+      {
+        "role": "Concept Art",
+        "node": {
+          "id": 199887,
+          "name": {
+            "first": "taracod",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n199887-xPsPyKIRR5zS.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n199887-xPsPyKIRR5zS.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/dknrbssntri) | [Pixiv](https://www.pixiv.net/en/users/10502306) | [Website](https://taracod.wixsite.com/biotope/about)",
+          "siteUrl": "https://anilist.co/staff/199887"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 167702,
+          "name": {
+            "first": "Yuuki",
+            "last": "Funagakure",
+            "native": "船隠雄貴"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n167702-ZKVL6phjUq3B.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n167702-ZKVL6phjUq3B.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/400459936) | [Twitter 2](https://twitter.com/i/user/1321603444398985216) | [Pixiv](https://www.pixiv.net/en/users/4501479) | [Website](https://y-fngkr.jimdofree.com)",
+          "siteUrl": "https://anilist.co/staff/167702"
+        }
+      },
+      {
+        "role": "Prop Design",
+        "node": {
+          "id": 156761,
+          "name": {
+            "first": "Haruhi",
+            "last": "Inoue",
+            "native": "井上晴日"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156761-AKh2RdMKcD8W.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n156761-AKh2RdMKcD8W.png"
+          },
+          "description": "[Twitter](https://twitter.com/yogoinuchan) | [Twitter 2](https://x.com/haruhi_inoue) | [Instagram](https://www.instagram.com/haruhi.inoue)",
+          "siteUrl": "https://anilist.co/staff/156761"
+        }
+      },
+      {
+        "role": "Concept Art",
+        "node": {
+          "id": 140186,
+          "name": {
+            "first": "Yuuichirou",
+            "last": "Komuro",
+            "native": "小室裕一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Animator affiliated with [CloverWorks](https://anilist.co/studio/6222/CloverWorks).",
+          "siteUrl": "https://anilist.co/staff/140186"
+        }
+      },
+      {
+        "role": "Action Director",
+        "node": {
+          "id": 223552,
+          "name": {
+            "first": "Mayuko",
+            "last": "Kamitori",
+            "native": "神取万由子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n223552-BN7bGG0bJRZe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n223552-BN7bGG0bJRZe.png"
+          },
+          "description": "[Twitter](https://twitter.com/kammom)",
+          "siteUrl": "https://anilist.co/staff/223552"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 104353,
+          "name": {
+            "first": "Kazuko",
+            "last": "Nakashima",
+            "native": "中島和子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104353-3X4bKSyO3ARZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104353-3X4bKSyO3ARZ.png"
+          },
+          "description": "Director of the Finishing Department at [CloverWorks](https://anilist.co/studio/6222/).",
+          "siteUrl": "https://anilist.co/staff/104353"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 148336,
+          "name": {
+            "first": "Yukiko",
+            "last": "Nagase",
+            "native": "長瀬由起子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Compositing Director affiliated with [CloverWorks](https://anilist.co/studio/6222/CloverWorks).",
+          "siteUrl": "https://anilist.co/staff/148336"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 181680,
+          "name": {
+            "first": "Danni",
+            "last": "Zhang",
+            "native": "張丹妮"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n181680-JP02w81z6qE4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n181680-JP02w81z6qE4.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/2414820985)",
+          "siteUrl": "https://anilist.co/staff/181680"
+        }
+      },
+      {
+        "role": "Technical Director",
+        "node": {
+          "id": 136205,
+          "name": {
+            "first": "Yuuya",
+            "last": "Sakuma ",
+            "native": "佐久間悠也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n136205-nE8xDUXSYPmu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n136205-nE8xDUXSYPmu.png"
+          },
+          "description": "[Twitter](https://twitter.com/skm2y_1121)\n\nDirector of the Photography Department at [CloverWorks](https://anilist.co/studio/6222/CloverWorks).\n\nAfter moving to Tokyo, Sakuma initially joined Azuhata Production, where he gained some experience before joining [A-1 Pictures](https://anilist.co/studio/561/) in 2009. There he took part in the production of [Welcome to the Space Show](https://anilist.co/anime/8115/), and later made his debut as director of photography on [Saint Onii-san](https://anilist.co/anime/15775/). \n\n",
+          "siteUrl": "https://anilist.co/staff/136205"
+        }
+      },
+      {
+        "role": "Sound Effects",
+        "node": {
+          "id": 142291,
+          "name": {
+            "first": "Yuuji",
+            "last": "Furuya",
+            "native": "古谷友二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142291-IfPvhBuLm0GW.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n142291-IfPvhBuLm0GW.jpg"
+          },
+          "description": "[Twitter](https://x.com/yujipanda0717)",
+          "siteUrl": "https://anilist.co/staff/142291"
+        }
+      },
+      {
+        "role": "Music  ",
+        "node": {
+          "id": 176686,
+          "name": {
+            "first": "Shuta",
+            "last": "Hasunuma",
+            "native": "蓮沼執太"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n176686-n7sRCK47bl9z.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n176686-n7sRCK47bl9z.jpg"
+          },
+          "description": "[Website](http://www.shutahasunuma.com/) | [Instagram](https://www.instagram.com/shuta_hasunuma/) | [Twitter](https://twitter.com/shuta_hasunuma) | [Youtube](https://www.youtube.com/channel/UCSHp3rxbTIW0G2KZzk6R2cA/about)\n\nShuta Hasunuma (蓮沼執太, 1983) born in Tokyo is a musician , composer and performance artist.",
+          "siteUrl": "https://anilist.co/staff/176686"
+        }
+      },
+      {
+        "role": "CG Director",
+        "node": {
+          "id": 196843,
+          "name": {
+            "first": "Katsuaki",
+            "last": "Miyaji",
+            "native": "宮地克明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n196843-nCkGPIT8BqRQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n196843-nCkGPIT8BqRQ.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/196843"
+        }
+      },
+      {
+        "role": "Editing ",
+        "node": {
+          "id": 132701,
+          "name": {
+            "first": "Daisuke",
+            "last": "Hiraki",
+            "native": "平木大輔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n132701-e3zGfkHxwZuR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n132701-e3zGfkHxwZuR.png"
+          },
+          "description": "[Twitter](https://twitter.com/editorman_hira)",
+          "siteUrl": "https://anilist.co/staff/132701"
+        }
+      },
+      {
+        "role": "CG Animation (ED)",
+        "node": {
+          "id": 339889,
+          "name": {
+            "first": "Takuan Paradise",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n339889-U1Oi10JK6JCt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n339889-U1Oi10JK6JCt.jpg"
+          },
+          "description": "[Twitter](https://x.com/Tkanpdce)\n\nFreelance CG Artist.",
+          "siteUrl": "https://anilist.co/staff/339889"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 118972,
+          "name": {
+            "first": "Akiko",
+            "last": "Fujita",
+            "native": "藤田亜紀子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/118972"
+        }
+      },
+      {
+        "role": "Concept Art",
+        "node": {
+          "id": 360386,
+          "name": {
+            "first": "ONI Kuppa",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/360386"
+        }
+      },
+      {
+        "role": "Moster Design",
+        "node": {
+          "id": 360387,
+          "name": {
+            "first": "Perori",
+            "last": null,
+            "native": "ぺろり"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/360387"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 165810,
+          "name": {
+            "first": "Takuya",
+            "last": "Niinuma",
+            "native": "新沼拓也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n165810-SH9m4PKINKGE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n165810-SH9m4PKINKGE.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/1188499902)\n\nFreelancer originating from [Doga Kobo](https://anilist.co/studio/95/).",
+          "siteUrl": "https://anilist.co/staff/165810"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 136370,
+          "name": {
+            "first": "Saki",
+            "last": "Takahashi ",
+            "native": "高橋沙妃"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n136370-AJYwC1mTXUdD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n136370-AJYwC1mTXUdD.png"
+          },
+          "description": "[Twitter](https://twitter.com/haaagin) | [Instagram](https://www.instagram.com/87_hagi)\n\nAffiliated with [CloverWorks](https://anilist.co/studio/6222/CloverWorks). Debuted as a character designer on [Wonder Egg Priority](https://anilist.co/anime/124845/).",
+          "siteUrl": "https://anilist.co/staff/136370"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6222,
+          "name": "CloverWorks",
+          "siteUrl": "https://anilist.co/studio/6222"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 407823,
+          "rating": 4,
+          "media": {
+            "id": 189581,
+            "title": {
+              "native": "7FATES: CHAKHO"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 189576,
+            "title": {
+              "native": "The Star Seekers 星を追う少年たち"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 412092,
+          "rating": 1,
+          "media": {
+            "id": 189581,
+            "title": {
+              "native": "7FATES: CHAKHO"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 124845,
+            "title": {
+              "native": "ワンダーエッグ・プライオリティ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 9
+      },
+      {
+        "score": 60,
+        "amount": 12
+      },
+      {
+        "score": 70,
+        "amount": 37
+      },
+      {
+        "score": 80,
+        "amount": 34
+      },
+      {
+        "score": 90,
+        "amount": 22
+      },
+      {
+        "score": 100,
+        "amount": 6
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 86
+      },
+      {
+        "status": "PLANNING",
+        "amount": 851
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 263
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 4
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/189581",
+  "modNotes": null
+}

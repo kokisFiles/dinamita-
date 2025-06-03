@@ -1,0 +1,803 @@
+{
+  "id": 108473,
+  "idMal": 112780,
+  "title": {
+    "native": "福本ALLSTARS",
+    "romaji": "Koushiki Ekkyouden: Fukumoto All Stars",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A tribute manga book to the author Nobuyuki Fukumoto with the cooperation of Fukumoto himself. All characters shown in this series are from previous manga Fukumoto has published.",
+  "startDate": {
+    "year": 2014,
+    "month": 7,
+    "day": 16
+  },
+  "endDate": {
+    "year": 2017,
+    "month": 3,
+    "day": 15
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 98,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748862212,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108473-196PinOQ9AJA.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108473-196PinOQ9AJA.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx108473-196PinOQ9AJA.png",
+    "color": "#e46b28"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/108473-wKWGu0Qs1szL.jpg",
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Fukumoto All Stars"
+  ],
+  "averageScore": null,
+  "meanScore": 61,
+  "popularity": 230,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 206,
+      "name": "4-koma",
+      "description": "A manga in the 'yonkoma' format, which consists of four equal-sized panels arranged in a vertical strip.",
+      "category": "Technical",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 158,
+      "name": "Crossover",
+      "description": "Centers around the placement of two or more otherwise discrete fictional characters, settings, or universes into the context of a single story.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 88,
+      "name": "Primarily Male Cast",
+      "description": "Main cast is mostly composed of male characters.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 33572,
+          "title": {
+            "native": "賭博黙示録カイジ"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 33575,
+          "title": {
+            "native": "最強伝説黒沢"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 33576,
+          "title": {
+            "native": "賭博覇王伝 零"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 30613,
+          "title": {
+            "native": "無頼伝涯"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 33569,
+          "title": {
+            "native": "銀と金"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 31218,
+          "title": {
+            "native": "アカギ ～闇に降り立った天才～"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 33571,
+          "title": {
+            "native": "天 天和通りの快男児"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 60087,
+          "name": {
+            "first": "Kazuya",
+            "last": "Hyoudou",
+            "native": "兵藤和也",
+            "alternative": [
+              "Bocchan",
+              "Young Master"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n60087-pIhWvSPhNGge.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/n60087-pIhWvSPhNGge.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/60087"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 32415,
+          "name": {
+            "first": "Seiya",
+            "last": "Ichijou",
+            "native": "一条聖也",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/32415.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/32415.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/32415"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21939,
+          "name": {
+            "first": "Gai",
+            "last": "Kudou",
+            "native": "工藤涯",
+            "alternative": [
+              "くどうがい"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21939-x1hSI8Gs0HnQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b21939-x1hSI8Gs0HnQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/21939"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 14057,
+          "name": {
+            "first": "Kazutaka",
+            "last": "Hyoudou",
+            "native": "兵藤和尊",
+            "alternative": [
+              "Chairman"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/14057.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/14057.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/14057"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13149,
+          "name": {
+            "first": "Yukio",
+            "last": "Hirayama",
+            "native": "平山幸雄",
+            "alternative": [
+              "Fake Akagi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/13149.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/13149.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13149"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 79453,
+          "name": {
+            "first": "Shirube",
+            "last": null,
+            "native": "標",
+            "alternative": [
+              "しるべ"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/79453.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/79453.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/79453"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5578,
+          "name": {
+            "first": "Kaiji",
+            "last": "Itou",
+            "native": "伊藤開司",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5578-FqFWIjqfMbBj.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5578-FqFWIjqfMbBj.png"
+          },
+          "siteUrl": "https://anilist.co/character/5578"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2934,
+          "name": {
+            "first": "Shigeru",
+            "last": "Akagi",
+            "native": "赤木しげる",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2934-rP0N5PZQslGK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2934-rP0N5PZQslGK.png"
+          },
+          "siteUrl": "https://anilist.co/character/2934"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9129,
+          "name": {
+            "first": "Yukio",
+            "last": "Tonegawa",
+            "native": "利根川幸雄",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/9129.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/9129.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/9129"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 135913,
+          "name": {
+            "first": "Kotarou",
+            "last": "Shiroyama",
+            "native": "城山小太郎",
+            "alternative": [
+              " 小太郎・ヒルマウンテンウィリアムス・ハリソンジャガーサタケ・ジェームス城山",
+              "Kotarou Hill Mountain Williams Harrison Jagasatake James Shiroyama"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135913-KmF5o8yEEPPa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b135913-KmF5o8yEEPPa.png"
+          },
+          "siteUrl": "https://anilist.co/character/135913"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 43977,
+          "name": {
+            "first": "Tetsuo",
+            "last": "Morita",
+            "native": "森田鉄雄",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/43977.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43977.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43977"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 8471,
+          "name": {
+            "first": "Makoto",
+            "last": "Sahara",
+            "native": "佐原誠",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/8471.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/8471.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/8471"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45813,
+          "name": {
+            "first": "Shuuhei",
+            "last": "Nakane",
+            "native": "仲根秀平",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45813.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45813.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45813"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 43978,
+          "name": {
+            "first": "Ginji",
+            "last": "Hirai",
+            "native": "平井銀二",
+            "alternative": [
+              "Gin-ou",
+              "the Silver King"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/43978.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43978.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43978"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 27880,
+          "name": {
+            "first": "",
+            "last": "Kurosawa",
+            "native": "黒沢",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b27880-Y5rD5rszTpd5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b27880-Y5rD5rszTpd5.png"
+          },
+          "siteUrl": "https://anilist.co/character/27880"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13152,
+          "name": {
+            "first": "Nangou",
+            "last": null,
+            "native": "南郷",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/13152.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/13152.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13152"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43663,
+          "name": {
+            "first": "Mikoko",
+            "last": "Sakazaki",
+            "native": "坂崎美心",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/43663.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43663.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43663"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 17959,
+          "name": {
+            "first": "Yuuji",
+            "last": "Endou",
+            "native": "遠藤勇次",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/17959.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/17959.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/17959"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 46617,
+          "name": {
+            "first": "Tamotsu",
+            "last": "Murakami",
+            "native": "村上保",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/46617.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/46617.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/46617"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43925,
+          "name": {
+            "first": "Koutarou",
+            "last": "Sakazaki",
+            "native": "坂崎孝太郎",
+            "alternative": [
+              "Pops"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/43925.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/43925.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/43925"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 21906,
+          "name": {
+            "first": "Zero",
+            "last": "Ukai",
+            "native": "宇海零",
+            "alternative": [
+              "うかいゼロ"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21906-TcZyRCsqYgIs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b21906-TcZyRCsqYgIs.png"
+          },
+          "siteUrl": "https://anilist.co/character/21906"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13128,
+          "name": {
+            "first": "Ichikawa",
+            "last": null,
+            "native": "市川",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/13128.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/13128.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/13128"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24088,
+          "name": {
+            "first": "Sakura",
+            "last": "Suezaki",
+            "native": "末崎さくら",
+            "alternative": [
+              "すえざきさくら",
+              "Shoe-sole"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24088.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/24088.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/24088"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21997,
+          "name": {
+            "first": "Takashi",
+            "last": "Ten",
+            "native": "天貴史",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21997-m2judemB4pWK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b21997-m2judemB4pWK.png"
+          },
+          "siteUrl": "https://anilist.co/character/21997"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 9973,
+          "name": {
+            "first": "Iwao",
+            "last": "Washizu",
+            "native": "鷲巣巌",
+            "alternative": [
+              "Monster of Showa"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9973-r87hn7DrcArg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b9973-r87hn7DrcArg.png"
+          },
+          "siteUrl": "https://anilist.co/character/9973"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97539,
+          "name": {
+            "first": "Nobuyuki",
+            "last": "Fukumoto",
+            "native": "福本伸行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2539.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2539.jpg"
+          },
+          "description": "Nobuyuki Fukumoto is a Japanese manga artist well known throughout the Far East for his unique original gambling ideas, deep psychological analysis of characters and distinct artstyle. Yakuza and gambling are recurring themes in his manga.\n\nIn English language countries, he is most famous as the author of Akagi, a mahjong-related manga. In 1998, he won the Kodansha Manga Award for Tobaku Mokushiroku Kaiji. An onomatopoeia \"zawa\" (ざわ‥), meaning uneasy atmosphere, appears frequently in his comics and is considered Fukumoto's trademark.",
+          "siteUrl": "https://anilist.co/staff/97539"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 136875,
+          "name": {
+            "first": "Yuupon",
+            "last": null,
+            "native": "ゆーぽん"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n136875-rOZpmJK89PVg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n136875-rOZpmJK89PVg.jpg"
+          },
+          "description": "[Official Website](http://www.chimichara.com/) | [Twitter](https://twitter.com/yupon2106)",
+          "siteUrl": "https://anilist.co/staff/136875"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 136876,
+          "name": {
+            "first": "Chiromaru",
+            "last": null,
+            "native": "ちろ丸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/136876"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 4
+      },
+      {
+        "score": 40,
+        "amount": 3
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 7
+      },
+      {
+        "score": 70,
+        "amount": 7
+      },
+      {
+        "score": 80,
+        "amount": 3
+      },
+      {
+        "score": 90,
+        "amount": 8
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 27
+      },
+      {
+        "status": "PLANNING",
+        "amount": 129
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 41
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 27
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/108473",
+  "modNotes": null
+}

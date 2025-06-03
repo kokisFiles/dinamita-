@@ -1,0 +1,946 @@
+{
+  "id": 99516,
+  "idMal": 103063,
+  "title": {
+    "native": "ただいま、おかえり",
+    "romaji": "Tadaima, Okaeri",
+    "english": "Welcome Home"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "RELEASING",
+  "description": "Masaki lives as a househusband in the Fujiyoshi household with his loving trophy husband and breadwinner Hiromu and their two-year old Hikari, who is too cute for his own damn good. Full of doubt, the support of his family in their day-to-day lives carries Masaki through to a place of accepting himself for who he is.\n<br><br>\nA feeling, family-oriented BL between a Mr Right and a male beauty who feels like he doesn't size up.\n<br><br>\nEmbracing the good times and the bad, all to be a better today than they were yesterday.\n<br><br>\n(Source: Manga Club)",
+  "startDate": {
+    "year": 2015,
+    "month": 11,
+    "day": 24
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748952067,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99516-OUtAN5fFEUtL.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99516-OUtAN5fFEUtL.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx99516-OUtAN5fFEUtL.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Drama",
+    "Romance",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "我回来啦，欢迎回来",
+    "Welcome Back, I'm Home",
+    "Tadaima, Okaeri: Kagayaku Hi",
+    "Tadaima, Okaeri: Mata Ashita",
+    "Tadaima, Okaeri: Hitoyasumi",
+    "Bienvenue à la maison !",
+    "ただいま、おかえり－かがやくひ－",
+    "ただいま、おかえりーひとやすみー",
+    "TadaOka",
+    "ただおか"
+  ],
+  "averageScore": 79,
+  "meanScore": 82,
+  "popularity": 2721,
+  "favourites": 113,
+  "tags": [
+    {
+      "id": 75,
+      "name": "Boys' Love",
+      "description": "Prominently features romance between two males, not inherently sexual.",
+      "category": "Theme-Romance",
+      "rank": 95,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 533,
+      "name": "Omegaverse",
+      "description": "Alternative universe that prominently features dynamics modeled after wolves in which there are alphas, betas, and omegas and heat cycles as well as impregnation, regardless of gender.",
+      "category": "Setting-Universe",
+      "rank": 88,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": true
+    },
+    {
+      "id": 87,
+      "name": "Family Life",
+      "description": "Centers around the activities of a family unit.",
+      "category": "Theme-Slice of Life",
+      "rank": 83,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 88,
+      "name": "Primarily Male Cast",
+      "description": "Main cast is mostly composed of male characters.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1645,
+      "name": "Parenthood",
+      "description": "Centers around the experience of raising a child.",
+      "category": "Theme-Slice of Life",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 138,
+      "name": "Age Gap",
+      "description": "Prominently features romantic relations between people with a significant age difference.",
+      "category": "Theme-Romance",
+      "rank": 30,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 143683,
+          "title": {
+            "native": "おにたいじ！"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 143682,
+          "title": {
+            "native": "ともだちになろう"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 143684,
+          "title": {
+            "native": "やましいイミとかありません"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 169698,
+          "title": {
+            "native": "ただいま、おかえり"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 326836,
+          "name": {
+            "first": "Hiromu",
+            "last": "Fujiyoshi",
+            "native": "藤吉弘",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326836-AMynOjOCU9ND.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326836-AMynOjOCU9ND.png"
+          },
+          "siteUrl": "https://anilist.co/character/326836"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 326840,
+          "name": {
+            "first": "Tomohiro",
+            "last": "Matsuo",
+            "native": "松尾知泰",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326840-Sx9xepvgwNYK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326840-Sx9xepvgwNYK.png"
+          },
+          "siteUrl": "https://anilist.co/character/326840"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 326839,
+          "name": {
+            "first": "Yuki",
+            "last": "Hirai",
+            "native": "平井祐樹",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326839-KcxsjHmxlvym.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326839-KcxsjHmxlvym.png"
+          },
+          "siteUrl": "https://anilist.co/character/326839"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 326838,
+          "name": {
+            "first": "Hinata",
+            "last": "Fujiyoshi",
+            "native": "藤吉陽",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326838-tgjfSw29IBes.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326838-tgjfSw29IBes.png"
+          },
+          "siteUrl": "https://anilist.co/character/326838"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 326835,
+          "name": {
+            "first": "Masaki",
+            "last": "Fujiyoshi",
+            "native": "藤吉真生",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326835-IoIJlkD2t4Db.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326835-IoIJlkD2t4Db.png"
+          },
+          "siteUrl": "https://anilist.co/character/326835"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 326837,
+          "name": {
+            "first": "Hikari",
+            "last": "Fujiyoshi",
+            "native": "藤吉輝",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b326837-piKUJzRYXPeX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b326837-piKUJzRYXPeX.png"
+          },
+          "siteUrl": "https://anilist.co/character/326837"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 330195,
+          "name": {
+            "first": "Shuto",
+            "last": "Matsuo",
+            "native": "松尾秀人",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b330195-tXPpvJpHvrVF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b330195-tXPpvJpHvrVF.png"
+          },
+          "siteUrl": "https://anilist.co/character/330195"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 330196,
+          "name": {
+            "first": "Yuto",
+            "last": "Matsuo",
+            "native": "松尾秀人",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b330196-5d0uKzyvlPil.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b330196-5d0uKzyvlPil.png"
+          },
+          "siteUrl": "https://anilist.co/character/330196"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 330197,
+          "name": {
+            "first": "Michiru",
+            "last": "Mochizuki",
+            "native": "望月満",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b330197-g3fULFoNYc9b.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b330197-g3fULFoNYc9b.png"
+          },
+          "siteUrl": "https://anilist.co/character/330197"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 330198,
+          "name": {
+            "first": "Aoto",
+            "last": "Mochizuki",
+            "native": "望月仰人",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b330198-tdRzlpkn5qEb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b330198-tdRzlpkn5qEb.png"
+          },
+          "siteUrl": "https://anilist.co/character/330198"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 122776,
+          "name": {
+            "first": "Ichi",
+            "last": "Ichikawa",
+            "native": "いちかわ壱"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/122776-nfea0LJV5oma.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/122776-nfea0LJV5oma.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/ickwi)",
+          "siteUrl": "https://anilist.co/staff/122776"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 21813,
+      "url": "https://www.manga.club/book/title/MEDIBANGEN00159/",
+      "site": "Manga.Club"
+    },
+    {
+      "id": 53333,
+      "url": "https://toomics.com/en/webtoon/episode/toon/5584",
+      "site": "Toomics"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 23701,
+      "rank": 460,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": null,
+      "season": null,
+      "allTime": true,
+      "context": "highest rated all time"
+    },
+    {
+      "id": 28984,
+      "rank": 19,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 2015,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 35818,
+          "rating": 12,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 120823,
+            "title": {
+              "native": "パパの好きなひと"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 35820,
+          "rating": 14,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 98819,
+            "title": {
+              "native": "家族になろうよ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 54942,
+          "rating": 0,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 125815,
+            "title": {
+              "native": "시작은 i로부터"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 66487,
+          "rating": 23,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 111044,
+            "title": {
+              "native": "嫌いでいさせて"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 66489,
+          "rating": 6,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 103183,
+            "title": {
+              "native": "雛鳥は汐風にまどろむ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 66491,
+          "rating": 4,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 130616,
+            "title": {
+              "native": "家族になってみませんか？"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 66493,
+          "rating": 4,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 99902,
+            "title": {
+              "native": "元ヤンパパとヒツジ先生"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 66495,
+          "rating": 3,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 101438,
+            "title": {
+              "native": "オーマイヒーロー！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 84810,
+          "rating": 2,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 100779,
+            "title": {
+              "native": "狼パパは羊ヅラしてやってくる"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 84848,
+          "rating": 6,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 103270,
+            "title": {
+              "native": "僕らの食卓"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 84928,
+          "rating": 2,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 96687,
+            "title": {
+              "native": "親の顔がみてみたいっ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 84970,
+          "rating": 3,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 57047,
+            "title": {
+              "native": "イクメン☆アフター"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85006,
+          "rating": 2,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 67633,
+            "title": {
+              "native": "さんにんぐらし"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85042,
+          "rating": 1,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 55302,
+            "title": {
+              "native": "恋してダディ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85078,
+          "rating": 1,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 76710,
+            "title": {
+              "native": "君と朝ごはん!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85178,
+          "rating": 1,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 52687,
+            "title": {
+              "native": "それなりに真剣なんです。"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85224,
+          "rating": 1,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 111276,
+            "title": {
+              "native": "子持ちホストの危険な隣人"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85238,
+          "rating": 2,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 111618,
+            "title": {
+              "native": "ケダモノアラシ-kiss me baby! -"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85250,
+          "rating": 0,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 110001,
+            "title": {
+              "native": "かぞくごっこ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85260,
+          "rating": 1,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 115721,
+            "title": {
+              "native": "二人でパパはじめました"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85270,
+          "rating": 1,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 108703,
+            "title": {
+              "native": "レオとマブ ～ふたりはさらざんまい～"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85279,
+          "rating": 1,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 117747,
+            "title": {
+              "native": "哪里来的大宝贝"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85281,
+          "rating": 1,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 46801,
+            "title": {
+              "native": "子供が寝た後で"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85283,
+          "rating": 1,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 85107,
+            "title": {
+              "native": "小向家の事情"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 96399,
+          "rating": 2,
+          "media": {
+            "id": 99516,
+            "title": {
+              "native": "ただいま、おかえり"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 117469,
+            "title": {
+              "native": "Ω事件簿 この子オレが産みました"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 4
+      },
+      {
+        "score": 40,
+        "amount": 9
+      },
+      {
+        "score": 50,
+        "amount": 18
+      },
+      {
+        "score": 60,
+        "amount": 28
+      },
+      {
+        "score": 70,
+        "amount": 87
+      },
+      {
+        "score": 80,
+        "amount": 125
+      },
+      {
+        "score": 90,
+        "amount": 162
+      },
+      {
+        "score": 100,
+        "amount": 166
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 815
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1153
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 496
+      },
+      {
+        "status": "DROPPED",
+        "amount": 76
+      },
+      {
+        "status": "PAUSED",
+        "amount": 181
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/99516",
+  "modNotes": null
+}

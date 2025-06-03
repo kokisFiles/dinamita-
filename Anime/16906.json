@@ -1,0 +1,641 @@
+{
+  "id": 16906,
+  "idMal": 16906,
+  "title": {
+    "native": "LINE OFFLINE ～サラリーマン～",
+    "romaji": "LINE OFFLINE: Salaryman",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "The anime shorts are set in the fictional Line Corporation with a motley crew of idiosyncratic workers. There is the narcissistic section head and president's son James, the subsection head Moon (who is always gone somewhere but somehow gets his work done), the quiet but kindhearted subsection head Brown, and the subordinate Connie who is in an endless loop of yo-yo diets and weight gains.<br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 2013,
+    "month": 1,
+    "day": 8
+  },
+  "endDate": {
+    "year": 2013,
+    "month": 10,
+    "day": 1
+  },
+  "season": "WINTER",
+  "seasonYear": 2013,
+  "seasonInt": 131,
+  "episodes": 114,
+  "duration": 3,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748881927,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16906.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16906.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/16906.jpg",
+    "color": "#6be443"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [],
+  "averageScore": 57,
+  "meanScore": 61,
+  "popularity": 627,
+  "favourites": 3,
+  "tags": [
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 109,
+      "name": "Primarily Adult Cast",
+      "description": "Main cast is mostly composed of characters above a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 18155,
+          "title": {
+            "native": "ラインタウン"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 87005,
+          "name": {
+            "first": "Moon",
+            "last": null,
+            "native": "ムーン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87005.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/87005.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/87005"
+        },
+        "voiceActors": [
+          {
+            "id": 95006,
+            "name": {
+              "first": "Toshiyuki",
+              "last": "Morikawa",
+              "native": "森川智之"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95006-hoLuiZANeD3Q.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95006"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 87015,
+          "name": {
+            "first": "Oji-san",
+            "last": null,
+            "native": "おじさん",
+            "alternative": [
+              "部長",
+              "Buchou",
+              "Section Chief"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87015.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/87015.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/87015"
+        },
+        "voiceActors": [
+          {
+            "id": 95157,
+            "name": {
+              "first": "Nobuo",
+              "last": "Tobita",
+              "native": "飛田展男"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95157-td6WhlGehuDJ.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95157-td6WhlGehuDJ.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95157"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 87013,
+          "name": {
+            "first": "Sally",
+            "last": null,
+            "native": "サリー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87013.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/87013.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/87013"
+        },
+        "voiceActors": [
+          {
+            "id": 95411,
+            "name": {
+              "first": "Atsuko",
+              "last": "Enomoto",
+              "native": "榎本温子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95411-yVQiIcuYzQXr.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95411-yVQiIcuYzQXr.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95411"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 87009,
+          "name": {
+            "first": "James",
+            "last": null,
+            "native": "ジェームズ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87009.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/87009.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/87009"
+        },
+        "voiceActors": [
+          {
+            "id": 95484,
+            "name": {
+              "first": "Yuuto",
+              "last": "Kazama",
+              "native": "風間勇刀"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/484.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/484.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95484"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 87003,
+          "name": {
+            "first": "Cony",
+            "last": null,
+            "native": "コニー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87003.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/87003.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/87003"
+        },
+        "voiceActors": [
+          {
+            "id": 95930,
+            "name": {
+              "first": "Aki",
+              "last": "Kanada",
+              "native": "金田アキ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95930-tn7fNp6AXwUY.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95930-tn7fNp6AXwUY.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95930"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 87011,
+          "name": {
+            "first": "Jessica",
+            "last": null,
+            "native": "ジェシカ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87011.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/87011.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/87011"
+        },
+        "voiceActors": [
+          {
+            "id": 100997,
+            "name": {
+              "first": "Sachi",
+              "last": "Kokuryuu",
+              "native": "國立幸"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100997-LpXQJVqFUVpW.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100997-LpXQJVqFUVpW.png"
+            },
+            "siteUrl": "https://anilist.co/staff/100997"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 87007,
+          "name": {
+            "first": "Brown",
+            "last": null,
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87007.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/87007.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/87007"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music",
+        "node": {
+          "id": 119975,
+          "name": {
+            "first": "Kenichirou",
+            "last": "Suehiro",
+            "native": "末廣健一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119975-mOidz23KSKae.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119975-mOidz23KSKae.png"
+          },
+          "description": "__Hometown:__ Saitama City, Saitama Prefecture, Japan\n__Graduated:__ Omiya Koryo High School and SHOBI College of Music\n\n[Profile (One Music)](https://one-music.jp/suehiro/index.html) | [Twitter](https://twitter.com/kenichiro_s) | [Facebook](https://www.facebook.com/kenichiro.suehiro)\n\nA Japanese pianist, composer, and arranger.",
+          "siteUrl": "https://anilist.co/staff/119975"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 160815,
+          "name": {
+            "first": "Kiminori",
+            "last": "Tagami",
+            "native": "田上キミノリ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n160815-9GtlOoMN90Bl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n160815-9GtlOoMN90Bl.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/160815"
+        }
+      },
+      {
+        "role": "Sound Effects",
+        "node": {
+          "id": 146147,
+          "name": {
+            "first": "Toshiya",
+            "last": "Wada",
+            "native": "和田俊也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/146147"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 144506,
+          "name": {
+            "first": "Jun",
+            "last": "Watanabe",
+            "native": "渡辺淳"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144506-vM36gUIEMUrF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n144506-vM36gUIEMUrF.png"
+          },
+          "description": "\n_Note: Not to be confused with the [animator](https://anilist.co/staff/209351/)._",
+          "siteUrl": "https://anilist.co/staff/144506"
+        }
+      },
+      {
+        "role": "Music Producer",
+        "node": {
+          "id": 160825,
+          "name": {
+            "first": "Norihide",
+            "last": "Tanaka",
+            "native": "田中統英"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/160825"
+        }
+      },
+      {
+        "role": "Sound Producer",
+        "node": {
+          "id": 160826,
+          "name": {
+            "first": "Takeshi",
+            "last": "Nishina",
+            "native": "西名武"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/160826"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 160828,
+          "name": {
+            "first": "Jun",
+            "last": "Masuda",
+            "native": "舛田淳"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n160828-sval3g3yIipC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n160828-sval3g3yIipC.png"
+          },
+          "description": "[Twitter](https://twitter.com/masujun)",
+          "siteUrl": "https://anilist.co/staff/160828"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 160827,
+          "name": {
+            "first": "Susumu",
+            "last": "Anzai",
+            "native": "安齋進"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/160827"
+        }
+      },
+      {
+        "role": "Assistant Producer",
+        "node": {
+          "id": 160830,
+          "name": {
+            "first": "Yuuki",
+            "last": "Hasegawa",
+            "native": "長谷川友紀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/160830"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 160829,
+          "name": {
+            "first": "Shigenori",
+            "last": "Tanabe",
+            "native": "田辺茂範"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n160829-y1j56mobYJCo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n160829-y1j56mobYJCo.png"
+          },
+          "description": "[Twitter](https://twitter.com/s_tanave)\n\n**Date of Birth:** July 3, 1974",
+          "siteUrl": "https://anilist.co/staff/160829"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 16,
+          "name": "TV Tokyo",
+          "siteUrl": "https://anilist.co/studio/16"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 62,
+          "name": "Shogakukan-Shueisha Productions",
+          "siteUrl": "https://anilist.co/studio/62"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 474,
+          "name": "Shogakukan Music & Digital Entertainment",
+          "siteUrl": "https://anilist.co/studio/474"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 13034,
+      "rank": 17,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2013,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 13075,
+      "rank": 28,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2013,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 13081,
+      "rank": 4,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2013,
+      "season": "WINTER",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 13096,
+      "rank": 8,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2013,
+      "season": "WINTER",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 8
+      },
+      {
+        "score": 40,
+        "amount": 14
+      },
+      {
+        "score": 50,
+        "amount": 35
+      },
+      {
+        "score": 60,
+        "amount": 39
+      },
+      {
+        "score": 70,
+        "amount": 38
+      },
+      {
+        "score": 80,
+        "amount": 22
+      },
+      {
+        "score": 90,
+        "amount": 14
+      },
+      {
+        "score": 100,
+        "amount": 13
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 59
+      },
+      {
+        "status": "PLANNING",
+        "amount": 198
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 199
+      },
+      {
+        "status": "DROPPED",
+        "amount": 108
+      },
+      {
+        "status": "PAUSED",
+        "amount": 63
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/16906",
+  "modNotes": null
+}

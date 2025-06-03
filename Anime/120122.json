@@ -1,0 +1,537 @@
+{
+  "id": 120122,
+  "idMal": 21409,
+  "title": {
+    "native": "お願い！シンデレラ ",
+    "romaji": "Onegai! Cinderella",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "PV made for the iDOLM@STER Cinderella Girls 2nd Anniversary.",
+  "startDate": {
+    "year": 2013,
+    "month": 11,
+    "day": 28
+  },
+  "endDate": {
+    "year": 2013,
+    "month": 11,
+    "day": 28
+  },
+  "season": "FALL",
+  "seasonYear": 2013,
+  "seasonInt": 134,
+  "episodes": 1,
+  "duration": 2,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748860537,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120122-dTAgjvTQxcOL.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120122-dTAgjvTQxcOL.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx120122-dTAgjvTQxcOL.jpg",
+    "color": "#f1935d"
+  },
+  "bannerImage": null,
+  "genres": [],
+  "synonyms": [
+    "The Idolmaster Cinderella Girls: Onegai Cinderella",
+    "The iDOLM@STER Cinderella Girls 2nd Anniversary PV"
+  ],
+  "averageScore": 62,
+  "meanScore": 67,
+  "popularity": 841,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 92,
+      "name": "Cute Girls Doing Cute Things",
+      "description": "Centers around female characters doing cute activities, usually with little to no emphasis on drama and conflict.\n",
+      "category": "Theme-Slice of Life",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 115,
+      "name": "Idol",
+      "description": "Centers around the life and activities of an idol.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 505,
+      "name": "Advertisement",
+      "description": "Produced in order to promote the products of a certain company.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 20693,
+          "title": {
+            "native": "アイドルマスターシンデレラガールズ"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 70883,
+          "name": {
+            "first": "Uzuki",
+            "last": "Shimamura",
+            "native": "島村卯月",
+            "alternative": [
+              "Shimamu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70883-DreEmVe3UADs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b70883-DreEmVe3UADs.png"
+          },
+          "siteUrl": "https://anilist.co/character/70883"
+        },
+        "voiceActors": [
+          {
+            "id": 110903,
+            "name": {
+              "first": "Ayaka",
+              "last": "Oohashi",
+              "native": "大橋彩香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110903-GTQtkAs2pmO5.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110903-GTQtkAs2pmO5.png"
+            },
+            "siteUrl": "https://anilist.co/staff/110903"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 71275,
+          "name": {
+            "first": "Mio",
+            "last": "Honda",
+            "native": "本田未央",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71275-he7wDOs5MUXd.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b71275-he7wDOs5MUXd.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/71275"
+        },
+        "voiceActors": [
+          {
+            "id": 107013,
+            "name": {
+              "first": "Sayuri",
+              "last": "Hara",
+              "native": "原紗友里"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107013-4CjqalfRRmg9.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107013-4CjqalfRRmg9.png"
+            },
+            "siteUrl": "https://anilist.co/staff/107013"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 71273,
+          "name": {
+            "first": "Rin",
+            "last": "Shibuya",
+            "native": "渋谷凛",
+            "alternative": [
+              "Shiburin"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71273-zXfBpQK9zQko.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b71273-zXfBpQK9zQko.png"
+          },
+          "siteUrl": "https://anilist.co/character/71273"
+        },
+        "voiceActors": [
+          {
+            "id": 117223,
+            "name": {
+              "first": "Ayaka",
+              "last": "Fukuhara",
+              "native": "福原綾香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117223-vZXqGnmQhUEO.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n117223-vZXqGnmQhUEO.png"
+            },
+            "siteUrl": "https://anilist.co/staff/117223"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 71279,
+          "name": {
+            "first": "Rika",
+            "last": "Jougasaki",
+            "native": "城ヶ崎莉嘉",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71279-cMXOmh91Tz8M.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b71279-cMXOmh91Tz8M.png"
+          },
+          "siteUrl": "https://anilist.co/character/71279"
+        },
+        "voiceActors": [
+          {
+            "id": 107490,
+            "name": {
+              "first": "Nozomi",
+              "last": "Yamamoto",
+              "native": "山本希望"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107490-O3FSLNKmFUdF.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107490-O3FSLNKmFUdF.png"
+            },
+            "siteUrl": "https://anilist.co/staff/107490"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 71343,
+          "name": {
+            "first": "Ranko",
+            "last": "Kanzaki",
+            "native": "神崎蘭子",
+            "alternative": [
+              "Ranran"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71343-WgphMd3Ib1NG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b71343-WgphMd3Ib1NG.png"
+          },
+          "siteUrl": "https://anilist.co/character/71343"
+        },
+        "voiceActors": [
+          {
+            "id": 108639,
+            "name": {
+              "first": "Maaya",
+              "last": "Uchida",
+              "native": "内田真礼"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n108639-LLrR4WptCh5s.png"
+            },
+            "siteUrl": "https://anilist.co/staff/108639"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 75006,
+          "name": {
+            "first": "Kanako",
+            "last": "Mimura",
+            "native": "三村かな子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75006-i6zZrnMoEBHD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b75006-i6zZrnMoEBHD.png"
+          },
+          "siteUrl": "https://anilist.co/character/75006"
+        },
+        "voiceActors": [
+          {
+            "id": 107452,
+            "name": {
+              "first": "Yuka",
+              "last": "Ootsubo",
+              "native": "大坪由佳"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107452-PcfGagaON83G.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107452-PcfGagaON83G.png"
+            },
+            "siteUrl": "https://anilist.co/staff/107452"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 129270,
+          "name": {
+            "first": "Miho",
+            "last": "Kohinata",
+            "native": "小日向美穂",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129270-XUrPRo9jdKHV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b129270-XUrPRo9jdKHV.png"
+          },
+          "siteUrl": "https://anilist.co/character/129270"
+        },
+        "voiceActors": [
+          {
+            "id": 106492,
+            "name": {
+              "first": "Minami",
+              "last": "Tsuda",
+              "native": "津田美波"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106492-9DRvAekKdhDq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106492-9DRvAekKdhDq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/106492"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 78121,
+          "name": {
+            "first": "Mika",
+            "last": "Jougasaki",
+            "native": "城ヶ崎美嘉",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78121-QLKIdJBjSawx.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b78121-QLKIdJBjSawx.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/78121"
+        },
+        "voiceActors": [
+          {
+            "id": 118914,
+            "name": {
+              "first": "Haruka",
+              "last": "Yoshimura",
+              "native": "佳村はるか"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118914-y5SToHdnK2uZ.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118914-y5SToHdnK2uZ.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/118914"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 75008,
+          "name": {
+            "first": "Riina",
+            "last": "Tada",
+            "native": "多田李衣菜",
+            "alternative": [
+              "Darii"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/75008-vc1FvC9e3qAS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/75008-vc1FvC9e3qAS.png"
+          },
+          "siteUrl": "https://anilist.co/character/75008"
+        },
+        "voiceActors": [
+          {
+            "id": 119922,
+            "name": {
+              "first": "Ruriko",
+              "last": "Aoki",
+              "native": "青木瑠璃子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/24922-GZMYC1vTwn4W.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/24922-GZMYC1vTwn4W.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/119922"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 103130,
+          "name": {
+            "first": "Noriko",
+            "last": "Takao",
+            "native": "高雄統子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8130.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8130.jpg"
+          },
+          "description": "Originating from [Kyoto Animation](https://anilist.co/studio/2/).",
+          "siteUrl": "https://anilist.co/staff/103130"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 561,
+          "name": "A-1 Pictures",
+          "siteUrl": "https://anilist.co/studio/561"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 97969,
+          "rating": 5,
+          "media": {
+            "id": 120122,
+            "title": {
+              "native": "お願い！シンデレラ "
+            }
+          },
+          "mediaRecommendation": {
+            "id": 137075,
+            "title": {
+              "native": "VOY@GER"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 4
+      },
+      {
+        "score": 40,
+        "amount": 9
+      },
+      {
+        "score": 50,
+        "amount": 40
+      },
+      {
+        "score": 60,
+        "amount": 63
+      },
+      {
+        "score": 70,
+        "amount": 67
+      },
+      {
+        "score": 80,
+        "amount": 38
+      },
+      {
+        "score": 90,
+        "amount": 15
+      },
+      {
+        "score": 100,
+        "amount": 26
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 30
+      },
+      {
+        "status": "PLANNING",
+        "amount": 259
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 525
+      },
+      {
+        "status": "DROPPED",
+        "amount": 17
+      },
+      {
+        "status": "PAUSED",
+        "amount": 10
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/120122",
+  "modNotes": null
+}

@@ -1,0 +1,530 @@
+{
+  "id": 178084,
+  "idMal": 59091,
+  "title": {
+    "native": "童話リベンジャーズ",
+    "romaji": "Douwa Revengers",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "RELEASING",
+  "description": "Mini anime of <i>Tokyo Revengers</i> characters in renditions of various fairy tales.",
+  "startDate": {
+    "year": 2024,
+    "month": 10,
+    "day": 27
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": "FALL",
+  "seasonYear": 2024,
+  "seasonInt": 244,
+  "episodes": null,
+  "duration": 3,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": "#東京リベンジャーズ #東リベ",
+  "trailer": null,
+  "updatedAt": 1748769249,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178084-uy9FudPATgPM.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178084-uy9FudPATgPM.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178084-uy9FudPATgPM.jpg",
+    "color": "#1a93f1"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Fantasy"
+  ],
+  "synonyms": [
+    "東リベ 桃太郎編",
+    "Fairy Tale Revengers"
+  ],
+  "averageScore": null,
+  "meanScore": 65,
+  "popularity": 607,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 400,
+      "name": "Fairy Tale",
+      "description": "This work tells a fairy tale, centers around fairy tales, or is based on a classic fairy tale.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 324,
+      "name": "Chibi",
+      "description": "Features \"super deformed\" character designs with smaller, rounder proportions and a cute look.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 178083,
+          "title": {
+            "native": "東京リベンジャーズ 三天戦争編"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 145342,
+          "name": {
+            "first": "Takemichi",
+            "last": "Hanagaki",
+            "native": "花垣武道",
+            "alternative": [
+              "Takemitchy",
+              "Crybaby",
+              "Hero",
+              "Wuss-boy",
+              "Shitty-michi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145342-GSUutL83jGgI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145342-GSUutL83jGgI.png"
+          },
+          "siteUrl": "https://anilist.co/character/145342"
+        },
+        "voiceActors": [
+          {
+            "id": 153049,
+            "name": {
+              "first": "Yuuki",
+              "last": "Shin",
+              "native": "新祐樹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n153049-K0czk9NRoLWz.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n153049-K0czk9NRoLWz.png"
+            },
+            "siteUrl": "https://anilist.co/staff/153049"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 145345,
+          "name": {
+            "first": "Ken",
+            "last": "Ryuuguji",
+            "native": "龍宮寺 堅",
+            "alternative": [
+              "Draken (ドラケン)",
+              "Kenchin",
+              "Vice-Leader of The Tokyo 卍 Gang",
+              "Kenny"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145345-zyirrSsKIDCb.png"
+          },
+          "siteUrl": "https://anilist.co/character/145345"
+        },
+        "voiceActors": [
+          {
+            "id": 175016,
+            "name": {
+              "first": "Masaya",
+              "last": "Fukunishi",
+              "native": "福西勝也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n175016-ehNBIRIxCScY.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n175016-ehNBIRIxCScY.png"
+            },
+            "siteUrl": "https://anilist.co/staff/175016"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 168678,
+          "name": {
+            "first": "Souya",
+            "last": "Kawata",
+            "native": "河田ソウヤ",
+            "alternative": [
+              "Angry"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b168678-gf2ljBfKDnmC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b168678-gf2ljBfKDnmC.png"
+          },
+          "siteUrl": "https://anilist.co/character/168678"
+        },
+        "voiceActors": [
+          {
+            "id": 110877,
+            "name": {
+              "first": "Kengo",
+              "last": "Kawanishi",
+              "native": "河西健吾"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110877-8mqVadVTaFl4.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110877-8mqVadVTaFl4.png"
+            },
+            "siteUrl": "https://anilist.co/staff/110877"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 145344,
+          "name": {
+            "first": "Chifuyu",
+            "last": "Matsuno",
+            "native": "松野千冬",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145344-q4BqRljEBYNc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145344-q4BqRljEBYNc.png"
+          },
+          "siteUrl": "https://anilist.co/character/145344"
+        },
+        "voiceActors": [
+          {
+            "id": 137985,
+            "name": {
+              "first": "Shou",
+              "last": "Karino",
+              "native": "狩野翔"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n137985-b6WYHgpAmAsP.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n137985-b6WYHgpAmAsP.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/137985"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 170484,
+          "name": {
+            "first": "Izana",
+            "last": "Kurokawa",
+            "native": "黒川イザナ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b170484-HZEUSM7UrtKN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b170484-HZEUSM7UrtKN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/170484"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 145341,
+          "name": {
+            "first": "Manjirou",
+            "last": "Sano",
+            "native": "佐野万次郎",
+            "alternative": [
+              "Mikey",
+              "マイキー",
+              "Invincible Mikey",
+              "Shrimp",
+              "Michael"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b145341-CuPldCLZMvvf.png"
+          },
+          "siteUrl": "https://anilist.co/character/145341"
+        },
+        "voiceActors": [
+          {
+            "id": 116157,
+            "name": {
+              "first": "Yuu",
+              "last": "Hayashi",
+              "native": "林勇"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116157-MAPYgEeptEUh.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116157-MAPYgEeptEUh.png"
+            },
+            "siteUrl": "https://anilist.co/staff/116157"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 168679,
+          "name": {
+            "first": "Nahoya",
+            "last": "Kawata",
+            "native": "河田ナホヤ",
+            "alternative": [
+              "Smiley"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b168679-CRZktzv0DvBl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b168679-CRZktzv0DvBl.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/168679"
+        },
+        "voiceActors": [
+          {
+            "id": 110877,
+            "name": {
+              "first": "Kengo",
+              "last": "Kawanishi",
+              "native": "河西健吾"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110877-8mqVadVTaFl4.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n110877-8mqVadVTaFl4.png"
+            },
+            "siteUrl": "https://anilist.co/staff/110877"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 203564,
+          "name": {
+            "first": "Kakucho",
+            "last": "",
+            "native": "鶴蝶",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b203564-nRyP1rDplqq4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b203564-nRyP1rDplqq4.png"
+          },
+          "siteUrl": "https://anilist.co/character/203564"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 170483,
+          "name": {
+            "first": "Tetta",
+            "last": "Kisaki",
+            "native": "稀咲鉄太",
+            "alternative": [
+              "Dark Hero"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b170483-mXcSRDNqVwCP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b170483-mXcSRDNqVwCP.png"
+          },
+          "siteUrl": "https://anilist.co/character/170483"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 215868,
+          "name": {
+            "first": "Shuuji",
+            "last": "Hanma",
+            "native": "半間修二",
+            "alternative": [
+              "Grim Reaper",
+              "Zombie",
+              "罪God Of Death罰"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b215868-NwLXplJ79C62.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b215868-NwLXplJ79C62.png"
+          },
+          "siteUrl": "https://anilist.co/character/215868"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 170481,
+          "name": {
+            "first": "Kanji",
+            "last": "Mochizuki",
+            "native": "望月莞爾",
+            "alternative": [
+              "Mocchi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b170481-lIYIcFuSACtu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b170481-lIYIcFuSACtu.png"
+          },
+          "siteUrl": "https://anilist.co/character/170481"
+        },
+        "voiceActors": [
+          {
+            "id": 95395,
+            "name": {
+              "first": "Tetsu",
+              "last": "Inada",
+              "native": "稲田徹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95395-HpxLuh4ysrzJ.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95395"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 105463,
+          "name": {
+            "first": "Ken",
+            "last": "Wakui",
+            "native": "和久井健"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105463-LuJZiJDjBCMF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105463-LuJZiJDjBCMF.jpg"
+          },
+          "description": "Received a Young Magazine Newcomer Manga Award Honorable Mention for his _Shinjuku Swan_ one-shot in 2004.",
+          "siteUrl": "https://anilist.co/staff/105463"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 110775,
+      "url": "https://www.youtube.com/@animetoman",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 2
+      },
+      {
+        "score": 70,
+        "amount": 1
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 7
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 61
+      },
+      {
+        "status": "PLANNING",
+        "amount": 490
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 15
+      },
+      {
+        "status": "DROPPED",
+        "amount": 20
+      },
+      {
+        "status": "PAUSED",
+        "amount": 21
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/178084",
+  "modNotes": null
+}

@@ -1,0 +1,781 @@
+{
+  "id": 151327,
+  "idMal": 52275,
+  "title": {
+    "native": "知っている手紙",
+    "romaji": "Shitteiru Tegami",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Music video directed by Kentarou Waki for the song <i>Shitteiru Tegami</i> by ROF-MAO.",
+  "startDate": {
+    "year": 2022,
+    "month": 6,
+    "day": 23
+  },
+  "endDate": {
+    "year": 2022,
+    "month": 6,
+    "day": 23
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 1,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": {
+    "id": "XDwqCbA1cIU",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/XDwqCbA1cIU/hqdefault.jpg"
+  },
+  "updatedAt": 1748771229,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151327-99fWnOJyBrYF.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151327-99fWnOJyBrYF.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx151327-99fWnOJyBrYF.png",
+    "color": "#43e4e4"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151327-RpPWxS5HegYU.jpg",
+  "genres": [],
+  "synonyms": [],
+  "averageScore": 51,
+  "meanScore": 60,
+  "popularity": 150,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 1047,
+      "name": "VTuber",
+      "description": "Prominently features a character who is either an actual or fictive VTuber.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 133340,
+          "title": {
+            "native": "ちょこさんじ"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 165080,
+          "title": {
+            "native": "にじさんじ"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 221852,
+          "name": {
+            "first": "Hayato",
+            "last": "Kagami",
+            "native": "加賀美ハヤト",
+            "alternative": [
+              "社長 (Shachou)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b221852-gfpTdTPJRVYg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b221852-gfpTdTPJRVYg.png"
+          },
+          "siteUrl": "https://anilist.co/character/221852"
+        },
+        "voiceActors": [
+          {
+            "id": 254634,
+            "name": {
+              "first": "Hayato",
+              "last": "Kagami",
+              "native": "加賀美ハヤト"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n254634-M4OMRk5tqXYd.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n254634-M4OMRk5tqXYd.png"
+            },
+            "siteUrl": "https://anilist.co/staff/254634"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 221850,
+          "name": {
+            "first": "Toya",
+            "last": "Kenmochi",
+            "native": "剣持刀也",
+            "alternative": [
+              "Katana-san",
+              "Mochi-san",
+              "Kenmochi Toko"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b221850-tGm3wjjoLrks.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b221850-tGm3wjjoLrks.png"
+          },
+          "siteUrl": "https://anilist.co/character/221850"
+        },
+        "voiceActors": [
+          {
+            "id": 280095,
+            "name": {
+              "first": "Toya",
+              "last": "Kenmochi",
+              "native": "剣持刀也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n280095-C6VacOvgd3h4.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n280095-C6VacOvgd3h4.png"
+            },
+            "siteUrl": "https://anilist.co/staff/280095"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 244490,
+          "name": {
+            "first": "Minato",
+            "last": "Fuwa",
+            "native": "不破湊",
+            "alternative": [
+              "Fuwacchi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b244490-rW1r7Nwrbz4r.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b244490-rW1r7Nwrbz4r.png"
+          },
+          "siteUrl": "https://anilist.co/character/244490"
+        },
+        "voiceActors": [
+          {
+            "id": 280096,
+            "name": {
+              "first": "Minato",
+              "last": "Fuwa",
+              "native": "不破湊"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n280096-vQUhpNhvhaLl.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n280096-vQUhpNhvhaLl.png"
+            },
+            "siteUrl": "https://anilist.co/staff/280096"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 280097,
+          "name": {
+            "first": "Haru",
+            "last": "Kaida",
+            "native": "甲斐田晴",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280097-Hl8Yg7DsmNm5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b280097-Hl8Yg7DsmNm5.png"
+          },
+          "siteUrl": "https://anilist.co/character/280097"
+        },
+        "voiceActors": [
+          {
+            "id": 276780,
+            "name": {
+              "first": "Haru",
+              "last": "Kaida",
+              "native": "甲斐田晴"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n276780-ixbHHlxDHJ4o.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n276780-ixbHHlxDHJ4o.png"
+            },
+            "siteUrl": "https://anilist.co/staff/276780"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music Arrangement",
+        "node": {
+          "id": 156490,
+          "name": {
+            "first": "Keiichi",
+            "last": "Hirokawa",
+            "native": "広川恵一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156490-5rga6YjxJyOR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n156490-5rga6YjxJyOR.png"
+          },
+          "description": "__[Artist Profile (MONACA)](http://www.monaca.jp/staff/hirokawa.html)__ | __[Twitter](https://twitter.com/kayone87)__\n\n__Keiichi Hirokawa__ is a Japanese music composer and arranger who belongs to sound production studio MONACA.",
+          "siteUrl": "https://anilist.co/staff/156490"
+        }
+      },
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 156490,
+          "name": {
+            "first": "Keiichi",
+            "last": "Hirokawa",
+            "native": "広川恵一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156490-5rga6YjxJyOR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n156490-5rga6YjxJyOR.png"
+          },
+          "description": "__[Artist Profile (MONACA)](http://www.monaca.jp/staff/hirokawa.html)__ | __[Twitter](https://twitter.com/kayone87)__\n\n__Keiichi Hirokawa__ is a Japanese music composer and arranger who belongs to sound production studio MONACA.",
+          "siteUrl": "https://anilist.co/staff/156490"
+        }
+      },
+      {
+        "role": "Music Piano Peformance",
+        "node": {
+          "id": 146386,
+          "name": {
+            "first": "Yuuki",
+            "last": "Kishida",
+            "native": "岸田勇気"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146386-tJsQ37kCnelm.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146386-tJsQ37kCnelm.png"
+          },
+          "description": "__[Twitter](https://twitter.com/yukikishida) | [Instagram](https://www.instagram.com/yuki_kishida) | [YouTube](https://www.youtube.com/channel/UC7MhWrfW2HH8_umBaVNbUGw)__\n\n__Yuuki Kishida__ is a Japanese composer, arranger, pianist and keyboardist affiliated with Kick Up Studio.",
+          "siteUrl": "https://anilist.co/staff/146386"
+        }
+      },
+      {
+        "role": "Music Bass Performance",
+        "node": {
+          "id": 148232,
+          "name": {
+            "first": "Tomoya",
+            "last": "Tabuchi",
+            "native": "田淵智也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n148232-57p5vxGmvpT3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n148232-57p5vxGmvpT3.png"
+          },
+          "description": "__Likes:__ Fried Chicken and Clams\n__Dislikes:__ Tomatoes and Natto\n\n__Introduction:__\nTomoya Tabuchi is a Japanese musician, lyricist, bassist, composer and arranger. He is in charge of the bass and chorus for the three-piece rock band [UNISON SQUARE GARDEN](https://anilist.co/staff/119406/Unison-Square-Garden), and for the rock band [THE KEBABS](https://ja.wikipedia.org/wiki/THE_KEBABS), he also takes part in the [Q-MHz](https://ja.wikipedia.org/wiki/Q-MHz) music production team.\n\n__Biography:__\nTomoya is the same age as the two other UNISON SQUARE GARDEN members, Kousuke Saito (斎藤宏介) who is also a high school and university classmate, and Suzuki Takao (鈴木貴雄) who is an elementary school classmate. In elementary school, he was obsessed with soccer, to the point that he'd become a \"soccer boy\". His future dream at the time, was to become a junior league soccer player. Band member Suzuki Takao participated in the same soccer club, as well. When he was in fifth grade of elementary school, he had to move from Funabashi City, Chiba to Setagaya-ku, Tokyo due to his father's work.\n\nIn later years he graduated from the Faculty of Political Science and Economics at Waseda University. His specialized field is finance theory.",
+          "siteUrl": "https://anilist.co/staff/148232"
+        }
+      },
+      {
+        "role": "Music Guitar Performance",
+        "node": {
+          "id": 184453,
+          "name": {
+            "first": "Takeaki",
+            "last": "Wada",
+            "native": "和田たけあき"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n184453-jPjX2wg2e4Bz.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n184453-jPjX2wg2e4Bz.png"
+          },
+          "description": "__[Website](https://wadatakeaki.net) | [Twitter](https://twitter.com/WADATAKEAKI) | [Weibo](https://www.weibo.com/wadatakeaki) | [Instagram](https://www.instagram.com/wadatakeaki/) | [Facebook](https://www.facebook.com/WADATAKEAKI.KurageP/) | [YouTube](https://www.youtube.com/c/WADATAKEAKI) | [Pixiv Fanbox](https://rm4bbrqv.fanbox.cc/)__\n\n__Takeaki Wada__, alternatively known as KurageP, is a Japanese guitarist.\n",
+          "siteUrl": "https://anilist.co/staff/184453"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 156490,
+          "name": {
+            "first": "Keiichi",
+            "last": "Hirokawa",
+            "native": "広川恵一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156490-5rga6YjxJyOR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n156490-5rga6YjxJyOR.png"
+          },
+          "description": "__[Artist Profile (MONACA)](http://www.monaca.jp/staff/hirokawa.html)__ | __[Twitter](https://twitter.com/kayone87)__\n\n__Keiichi Hirokawa__ is a Japanese music composer and arranger who belongs to sound production studio MONACA.",
+          "siteUrl": "https://anilist.co/staff/156490"
+        }
+      },
+      {
+        "role": "Music Drums Performance",
+        "node": {
+          "id": 280099,
+          "name": {
+            "first": "Takuya",
+            "last": "Kanegawa",
+            "native": "金川卓矢"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n280099-h41LPtpW60Bm.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n280099-h41LPtpW60Bm.jpg"
+          },
+          "description": "[Website](https://kanetaku.com) | [Twitter](https://twitter.com/kanegawa5471)",
+          "siteUrl": "https://anilist.co/staff/280099"
+        }
+      },
+      {
+        "role": "Music Vocal Performance",
+        "node": {
+          "id": 280100,
+          "name": {
+            "first": "ROF-MAO",
+            "last": null,
+            "native": "ろふまお"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n280100-G9wkFGmRF5kr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n280100-G9wkFGmRF5kr.png"
+          },
+          "description": "[Website](https://www.rof-mao.com) | [Twitter](https://twitter.com/ROF_MAO) | [Instagram](https://www.instagram.com/rof_mao/) | [Youtube](https://www.youtube.com/c/ROFMAO/)\n\nVTuber group consisting of [Hayato Kagami](https://anilist.co/staff/254634), [Kenmochi Toya](https://anilist.co/staff/280095), [Fuwa Minato](https://anilist.co/staff/280096) and [Kaida Haru](https://anilist.co/staff/276780)",
+          "siteUrl": "https://anilist.co/staff/280100"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 146156,
+          "name": {
+            "first": "Kentarou",
+            "last": "Waki",
+            "native": "脇顯太朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146156-AQwpzDUe5Yda.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146156-AQwpzDUe5Yda.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/898885425028251648/)\n\nJapanese composite artist. Currently working as a freelancer after being affiliated with Asahi Productions from 2011-2022, although he still keeps a desk at the studio for potential collaboration.\n\nWhile his main focus is photography, he does animate on rare occasions, specifically [Kanada](https://anilist.co/staff/106398/)-esque effects animation.",
+          "siteUrl": "https://anilist.co/staff/146156"
+        }
+      },
+      {
+        "role": "Photography",
+        "node": {
+          "id": 146156,
+          "name": {
+            "first": "Kentarou",
+            "last": "Waki",
+            "native": "脇顯太朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146156-AQwpzDUe5Yda.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146156-AQwpzDUe5Yda.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/898885425028251648/)\n\nJapanese composite artist. Currently working as a freelancer after being affiliated with Asahi Productions from 2011-2022, although he still keeps a desk at the studio for potential collaboration.\n\nWhile his main focus is photography, he does animate on rare occasions, specifically [Kanada](https://anilist.co/staff/106398/)-esque effects animation.",
+          "siteUrl": "https://anilist.co/staff/146156"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 146156,
+          "name": {
+            "first": "Kentarou",
+            "last": "Waki",
+            "native": "脇顯太朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146156-AQwpzDUe5Yda.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146156-AQwpzDUe5Yda.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/898885425028251648/)\n\nJapanese composite artist. Currently working as a freelancer after being affiliated with Asahi Productions from 2011-2022, although he still keeps a desk at the studio for potential collaboration.\n\nWhile his main focus is photography, he does animate on rare occasions, specifically [Kanada](https://anilist.co/staff/106398/)-esque effects animation.",
+          "siteUrl": "https://anilist.co/staff/146156"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 146156,
+          "name": {
+            "first": "Kentarou",
+            "last": "Waki",
+            "native": "脇顯太朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146156-AQwpzDUe5Yda.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146156-AQwpzDUe5Yda.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/898885425028251648/)\n\nJapanese composite artist. Currently working as a freelancer after being affiliated with Asahi Productions from 2011-2022, although he still keeps a desk at the studio for potential collaboration.\n\nWhile his main focus is photography, he does animate on rare occasions, specifically [Kanada](https://anilist.co/staff/106398/)-esque effects animation.",
+          "siteUrl": "https://anilist.co/staff/146156"
+        }
+      },
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 146156,
+          "name": {
+            "first": "Kentarou",
+            "last": "Waki",
+            "native": "脇顯太朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146156-AQwpzDUe5Yda.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146156-AQwpzDUe5Yda.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/898885425028251648/)\n\nJapanese composite artist. Currently working as a freelancer after being affiliated with Asahi Productions from 2011-2022, although he still keeps a desk at the studio for potential collaboration.\n\nWhile his main focus is photography, he does animate on rare occasions, specifically [Kanada](https://anilist.co/staff/106398/)-esque effects animation.",
+          "siteUrl": "https://anilist.co/staff/146156"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 230608,
+          "name": {
+            "first": "Yuu",
+            "last": "Tanaka",
+            "native": "田中優"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n230608-dXtzfhKFIIhk.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n230608-dXtzfhKFIIhk.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/sumiyakiubii)",
+          "siteUrl": "https://anilist.co/staff/230608"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 131314,
+          "name": {
+            "first": "Rina",
+            "last": "Nagai",
+            "native": "永井里奈"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131314-nadb7JsOtouC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n131314-nadb7JsOtouC.png"
+          },
+          "description": "[Twitter](https://twitter.com/nagegen)",
+          "siteUrl": "https://anilist.co/staff/131314"
+        }
+      },
+      {
+        "role": "In-Betweens Check",
+        "node": {
+          "id": 156041,
+          "name": {
+            "first": "Ai",
+            "last": "Suzuki",
+            "native": "鈴木あい"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156041-bP3Kck8z1Al7.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n156041-bP3Kck8z1Al7.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/ai_szzzk)",
+          "siteUrl": "https://anilist.co/staff/156041"
+        }
+      },
+      {
+        "role": "Finishing Check",
+        "node": {
+          "id": 129576,
+          "name": {
+            "first": "Makiko",
+            "last": "Doi",
+            "native": "土居真紀子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/129576"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 128968,
+          "name": {
+            "first": "Takahiro",
+            "last": "Mogi",
+            "native": "茂木孝浩"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128968-uQPUWcFOPerA.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n128968-uQPUWcFOPerA.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/tk_mogi)\n\nColor designer who works frequently with [A-1 Pictures](https://anilist.co/studio/561/A1-Pictures).",
+          "siteUrl": "https://anilist.co/staff/128968"
+        }
+      },
+      {
+        "role": "Art Supervisor",
+        "node": {
+          "id": 103102,
+          "name": {
+            "first": "Yuusuke",
+            "last": "Takeda",
+            "native": "竹田悠介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103102-aEjIrYuaUaVn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103102-aEjIrYuaUaVn.png"
+          },
+          "description": "[Twitter](https://twitter.com/t_bamboo)\n\nHe grew up in Mexico because of his parents' work. In elementary school he read Ishinomori Shoutarou's Cyborg 009. Later he experienced the Yamato and Gundam boom, prompting him to be interested in animation. He started working as background artist, later becoming freelance. During that time Takeda got acquainted with Tokuhiro Hiragi and Tatsuya Kushida, whom he then helped establishing the art studio Bihou in 1993.\n\nIn 2005 he established the independent art studio Bamboo, which became a company in 2007.\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/103102"
+        }
+      },
+      {
+        "role": "Color Coordination",
+        "node": {
+          "id": 129576,
+          "name": {
+            "first": "Makiko",
+            "last": "Doi",
+            "native": "土居真紀子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/129576"
+        }
+      },
+      {
+        "role": "Background Art",
+        "node": {
+          "id": 170389,
+          "name": {
+            "first": "Takayuki",
+            "last": "Nagashima",
+            "native": "長島孝幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/170389"
+        }
+      },
+      {
+        "role": "Animation Producer",
+        "node": {
+          "id": 168895,
+          "name": {
+            "first": "Kazuki",
+            "last": "Niwa",
+            "native": "丹羽一希"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n168895-uhSArUYA2dfH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n168895-uhSArUYA2dfH.png"
+          },
+          "description": "[Facebook](https://www.facebook.com/kazuki.niwa.18)\n\nCurrently works for [ufotable](https://anilist.co/studio/43/ufotable). Previously worked for [Yostar Pictures](https://anilist.co/studio/6371/Yostar-Pictures) and CG company [Cre-p](http://www.cre-p.co.jp/).",
+          "siteUrl": "https://anilist.co/staff/168895"
+        }
+      },
+      {
+        "role": "Prop Design",
+        "node": {
+          "id": 133347,
+          "name": {
+            "first": "Akiko",
+            "last": "Toyoda",
+            "native": "豊田暁子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133347-9tc3n5oblra2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n133347-9tc3n5oblra2.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/ttakdawn)",
+          "siteUrl": "https://anilist.co/staff/133347"
+        }
+      },
+      {
+        "role": "Prop Design",
+        "node": {
+          "id": 146156,
+          "name": {
+            "first": "Kentarou",
+            "last": "Waki",
+            "native": "脇顯太朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146156-AQwpzDUe5Yda.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146156-AQwpzDUe5Yda.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/898885425028251648/)\n\nJapanese composite artist. Currently working as a freelancer after being affiliated with Asahi Productions from 2011-2022, although he still keeps a desk at the studio for potential collaboration.\n\nWhile his main focus is photography, he does animate on rare occasions, specifically [Kanada](https://anilist.co/staff/106398/)-esque effects animation.",
+          "siteUrl": "https://anilist.co/staff/146156"
+        }
+      },
+      {
+        "role": "Paste Material Design",
+        "node": {
+          "id": 221746,
+          "name": {
+            "first": "Saki",
+            "last": "Masuda",
+            "native": "増田咲紀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/221746"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6371,
+          "name": "Yostar Pictures",
+          "siteUrl": "https://anilist.co/studio/6371"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 52611,
+      "url": "https://www.youtube.com/watch?v=XDwqCbA1cIU",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 50,
+        "amount": 9
+      },
+      {
+        "score": 60,
+        "amount": 19
+      },
+      {
+        "score": 70,
+        "amount": 11
+      },
+      {
+        "score": 80,
+        "amount": 2
+      },
+      {
+        "score": 90,
+        "amount": 3
+      },
+      {
+        "score": 100,
+        "amount": 5
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 5
+      },
+      {
+        "status": "PLANNING",
+        "amount": 30
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 107
+      },
+      {
+        "status": "DROPPED",
+        "amount": 7
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/151327",
+  "modNotes": null
+}

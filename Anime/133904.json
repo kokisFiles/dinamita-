@@ -1,0 +1,234 @@
+{
+  "id": 133904,
+  "idMal": null,
+  "title": {
+    "native": "伍六七大电影",
+    "romaji": "Wu Liuqi Movie",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "NOT_YET_RELEASED",
+  "description": null,
+  "startDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": null,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748899330,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133904-yeqweNUxl9rM.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133904-yeqweNUxl9rM.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx133904-yeqweNUxl9rM.png",
+    "color": "#283578"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "synonyms": [
+    "Scissor Seven Movie"
+  ],
+  "averageScore": null,
+  "meanScore": null,
+  "popularity": 4110,
+  "favourites": 68,
+  "tags": [
+    {
+      "id": 322,
+      "name": "Assassins",
+      "description": "Centers around characters who murder people as a profession.",
+      "category": "Theme-Other-Organisations",
+      "rank": 85,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 240,
+      "name": "Amnesia",
+      "description": "Prominently features a character(s) with memory loss.",
+      "category": "Cast-Traits",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1052,
+      "name": "Adoption",
+      "description": "Features a character who has been adopted by someone who is neither of their biological parents.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 326,
+      "name": "Cultivation",
+      "description": "Features characters using training, often martial arts-related, and other special methods to cultivate qi (a component of traditional Chinese philosophy, described as \"life force\") and gain strength or immortality.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 127595,
+          "title": {
+            "native": "伍六七之玄武国篇"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 147093,
+          "name": {
+            "first": "Liuqi",
+            "last": "Wu",
+            "native": "伍六七",
+            "alternative": [
+              "Seven"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b147093-o39WBmBYj5Z1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b147093-o39WBmBYj5Z1.png"
+          },
+          "siteUrl": "https://anilist.co/character/147093"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6333,
+          "name": "Sharefun Studio",
+          "siteUrl": "https://anilist.co/studio/6333"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 32957,
+      "url": "https://weibo.com/u/5531567877",
+      "site": "Weibo"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 3
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 30
+      },
+      {
+        "score": 100,
+        "amount": 19
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 92
+      },
+      {
+        "status": "PLANNING",
+        "amount": 3915
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 37
+      },
+      {
+        "status": "DROPPED",
+        "amount": 27
+      },
+      {
+        "status": "PAUSED",
+        "amount": 39
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/133904",
+  "modNotes": null
+}

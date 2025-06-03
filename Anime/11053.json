@@ -1,0 +1,633 @@
+{
+  "id": 11053,
+  "idMal": 11053,
+  "title": {
+    "native": "ドラえもん のび太と奇跡の島 ～アニマル アドベンチャー～",
+    "romaji": "Doraemon: Nobita to Kiseki no Shima - Animal Adventure",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2012,
+    "month": 3,
+    "day": 3
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 3,
+    "day": 3
+  },
+  "season": "WINTER",
+  "seasonYear": 2012,
+  "seasonInt": 121,
+  "episodes": 1,
+  "duration": 100,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748882970,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11053-NVIucQcBuezt.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11053-NVIucQcBuezt.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11053-NVIucQcBuezt.jpg",
+    "color": "#f1d635"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Doraemon: En Busca del Escarabajo Dorado",
+    "Doraemon: Nobita and the Miracle Island - Animal Adventure"
+  ],
+  "averageScore": 70,
+  "meanScore": 71,
+  "popularity": 2480,
+  "favourites": 14,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 96,
+      "name": "Time Manipulation",
+      "description": "Prominently features time-traveling or other time-warping phenomena.",
+      "category": "Theme-Sci-Fi",
+      "rank": 20,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 8687,
+          "title": {
+            "native": "ドラえもん (2005)"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8261,
+          "name": {
+            "first": "Suneo",
+            "last": "Honekawa",
+            "native": "骨川スネ夫",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8261-qGxKWau5iZrf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8261-qGxKWau5iZrf.png"
+          },
+          "siteUrl": "https://anilist.co/character/8261"
+        },
+        "voiceActors": [
+          {
+            "id": 95001,
+            "name": {
+              "first": "Tomokazu",
+              "last": "Seki",
+              "native": "関智一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95001-vm0RtZhmlzhK.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95001"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8260,
+          "name": {
+            "first": "Shizuka",
+            "last": "Minamoto",
+            "native": "源静香",
+            "alternative": [
+              "Shizu-chan (静ちゃん)",
+              "しずか"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8260-Hz17eZuElZ7U.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8260-Hz17eZuElZ7U.png"
+          },
+          "siteUrl": "https://anilist.co/character/8260"
+        },
+        "voiceActors": [
+          {
+            "id": 95298,
+            "name": {
+              "first": "Yumi",
+              "last": "Kakazu",
+              "native": "かかずゆみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95298-wWENaJp9ERf7.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95298-wWENaJp9ERf7.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95298"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4304,
+          "name": {
+            "first": "Doraemon",
+            "last": null,
+            "native": "ドラえもん",
+            "alternative": [
+              "Dora-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4304-4eXX8C1O4Pda.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b4304-4eXX8C1O4Pda.png"
+          },
+          "siteUrl": "https://anilist.co/character/4304"
+        },
+        "voiceActors": [
+          {
+            "id": 101567,
+            "name": {
+              "first": "Wasabi",
+              "last": "Mizuta",
+              "native": "水田わさび"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101567-CAAMepraYceN.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101567-CAAMepraYceN.png"
+            },
+            "siteUrl": "https://anilist.co/staff/101567"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 8262,
+          "name": {
+            "first": "Takeshi",
+            "last": "Gouda",
+            "native": "剛田武",
+            "alternative": [
+              "Gian (ジャイアン)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8262-N2Lsf46EjZBf.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b8262-N2Lsf46EjZBf.png"
+          },
+          "siteUrl": "https://anilist.co/character/8262"
+        },
+        "voiceActors": [
+          {
+            "id": 107480,
+            "name": {
+              "first": "Subaru",
+              "last": "Kimura",
+              "native": "木村昴"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107480-h2RgLXNP7hcj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107480-h2RgLXNP7hcj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/107480"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4303,
+          "name": {
+            "first": "Nobita",
+            "last": "Nobi",
+            "native": "野比のび太",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4303.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4303.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4303"
+        },
+        "voiceActors": [
+          {
+            "id": 111907,
+            "name": {
+              "first": "Megumi",
+              "last": "Oohara",
+              "native": "大原めぐみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111907-bypAKya73si1.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111907-bypAKya73si1.png"
+            },
+            "siteUrl": "https://anilist.co/staff/111907"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 31870,
+          "name": {
+            "first": "Hidetoshi",
+            "last": "Dekisugi",
+            "native": "出木杉英才",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b31870-GGFedy239Ddk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b31870-GGFedy239Ddk.png"
+          },
+          "siteUrl": "https://anilist.co/character/31870"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 61815,
+          "name": {
+            "first": "Dorami",
+            "last": null,
+            "native": "ドラミ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b61815-iYem2dlcvRU9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b61815-iYem2dlcvRU9.png"
+          },
+          "siteUrl": "https://anilist.co/character/61815"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 163726,
+          "name": {
+            "first": "Nobisuke",
+            "last": "Nobi",
+            "native": "野比のび助",
+            "alternative": [
+              "Papa (パパ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b163726-PR4mAPmZpfnw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b163726-PR4mAPmZpfnw.png"
+          },
+          "siteUrl": "https://anilist.co/character/163726"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 163725,
+          "name": {
+            "first": "Tamako",
+            "last": "Nobi",
+            "native": "野比玉子",
+            "alternative": [
+              "Mama (ママ)",
+              "のびたまこ",
+              "Tamako Kataoka (片岡玉子)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b163725-HLpX1CACQtVL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b163725-HLpX1CACQtVL.png"
+          },
+          "siteUrl": "https://anilist.co/character/163725"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97610,
+          "name": {
+            "first": "F. Fujio",
+            "last": "Fujiko",
+            "native": "藤子・F・不二雄"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2610.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/2610.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/藤子・F・不二雄)\n\nHiroshi Fujimoto, better known as F. Fujio Fujiko, was part of the former manga-writing duo [Fujio Fujiko](https://anilist.co/staff/219230/).",
+          "siteUrl": "https://anilist.co/staff/97610"
+        }
+      },
+      {
+        "role": "Theme Song Lyrics",
+        "node": {
+          "id": 106879,
+          "name": {
+            "first": "Masaharu",
+            "last": "Fukuyama",
+            "native": "福山雅治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11879.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11879.jpg"
+          },
+          "description": "__Height__: 180 cm (5'11\")\n\n[Website](https://fmsp.amob.jp/mob/index.php?site=F&ima=1113)\n\nA Japanese singer-songwriter, guitarist, record producer, actor, radio personality, and photographer. He is one of the top male artists of Japan, and is a member of the entertainment company Amuse, Inc. He is known for his deep, low voice.\n\nHis debut voice-acting role was [Masaaki Fukuyama](https://anilist.co/character/40228/), a character in Doraemon created based on his image.",
+          "siteUrl": "https://anilist.co/staff/106879"
+        }
+      },
+      {
+        "role": "Theme Song Composition",
+        "node": {
+          "id": 106879,
+          "name": {
+            "first": "Masaharu",
+            "last": "Fukuyama",
+            "native": "福山雅治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11879.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11879.jpg"
+          },
+          "description": "__Height__: 180 cm (5'11\")\n\n[Website](https://fmsp.amob.jp/mob/index.php?site=F&ima=1113)\n\nA Japanese singer-songwriter, guitarist, record producer, actor, radio personality, and photographer. He is one of the top male artists of Japan, and is a member of the entertainment company Amuse, Inc. He is known for his deep, low voice.\n\nHis debut voice-acting role was [Masaaki Fukuyama](https://anilist.co/character/40228/), a character in Doraemon created based on his image.",
+          "siteUrl": "https://anilist.co/staff/106879"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 106879,
+          "name": {
+            "first": "Masaharu",
+            "last": "Fukuyama",
+            "native": "福山雅治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11879.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/11879.jpg"
+          },
+          "description": "__Height__: 180 cm (5'11\")\n\n[Website](https://fmsp.amob.jp/mob/index.php?site=F&ima=1113)\n\nA Japanese singer-songwriter, guitarist, record producer, actor, radio personality, and photographer. He is one of the top male artists of Japan, and is a member of the entertainment company Amuse, Inc. He is known for his deep, low voice.\n\nHis debut voice-acting role was [Masaaki Fukuyama](https://anilist.co/character/40228/), a character in Doraemon created based on his image.",
+          "siteUrl": "https://anilist.co/staff/106879"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 116269,
+          "name": {
+            "first": "Hidetsugu",
+            "last": "Itou",
+            "native": "伊藤秀次"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116269-nMyVxlsGCCpl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116269-nMyVxlsGCCpl.png"
+          },
+          "description": "A fast and highly regarded action animator. Friends with [Tetsuya Nishio](https://anilist.co/staff/103725/) since their junior high school days.",
+          "siteUrl": "https://anilist.co/staff/116269"
+        }
+      },
+      {
+        "role": "ADR Director (Brazilian Portuguese)",
+        "node": {
+          "id": 103241,
+          "name": {
+            "first": "Úrsula",
+            "last": "Bezerra",
+            "native": null
+          },
+          "language": "PORTUGUESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8241.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8241.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/103241"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 65,
+          "name": "Tokyo Movie Shinsha",
+          "siteUrl": "https://anilist.co/studio/65"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 17494,
+      "rank": 19,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2012,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 17578,
+      "rank": 33,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2012,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 90338,
+          "rating": 3,
+          "media": {
+            "id": 11053,
+            "title": {
+              "native": "ドラえもん のび太と奇跡の島 ～アニマル アドベンチャー～"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 10534,
+            "title": {
+              "native": "映画ドラえもん 新・のび太と鉄人兵団 ～はばたけ 天使たち～"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 90341,
+          "rating": 1,
+          "media": {
+            "id": 11053,
+            "title": {
+              "native": "ドラえもん のび太と奇跡の島 ～アニマル アドベンチャー～"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 19645,
+            "title": {
+              "native": "映画ドラえもん 新・のび太の大魔境 ~ペコと5人の探検隊~"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 90345,
+          "rating": 0,
+          "media": {
+            "id": 11053,
+            "title": {
+              "native": "ドラえもん のび太と奇跡の島 ～アニマル アドベンチャー～"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 7045,
+            "title": {
+              "native": "ドラえもん のび太の太陽王伝説"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 11
+      },
+      {
+        "score": 20,
+        "amount": 9
+      },
+      {
+        "score": 30,
+        "amount": 12
+      },
+      {
+        "score": 40,
+        "amount": 25
+      },
+      {
+        "score": 50,
+        "amount": 84
+      },
+      {
+        "score": 60,
+        "amount": 194
+      },
+      {
+        "score": 70,
+        "amount": 321
+      },
+      {
+        "score": 80,
+        "amount": 264
+      },
+      {
+        "score": 90,
+        "amount": 145
+      },
+      {
+        "score": 100,
+        "amount": 92
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 44
+      },
+      {
+        "status": "PLANNING",
+        "amount": 281
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2093
+      },
+      {
+        "status": "DROPPED",
+        "amount": 43
+      },
+      {
+        "status": "PAUSED",
+        "amount": 19
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/11053",
+  "modNotes": null
+}

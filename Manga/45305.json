@@ -1,0 +1,896 @@
+{
+  "id": 45305,
+  "idMal": 15305,
+  "title": {
+    "native": "巨人の星",
+    "romaji": "Kyojin no Hoshi",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "The story is about Hyuma Hoshi, a promising young baseball pitcher who dreams of becoming a top star like his father Ittetsu Hoshi in the professional Japanese league. His father was once a 3rd baseman until he was injured in World War II and was forced to retire. The boy would join the ever popular Giants team, and soon he realized the difficulty of managing the high expectations. From the grueling training to battling the rival Mitsuru Hanagata on the Hanshin Tigers, he would have to take out his best pitching magic to step up to the challenge.<br><br>\n(Source: Wikipedia)",
+  "startDate": {
+    "year": 1966,
+    "month": 8,
+    "day": 11
+  },
+  "endDate": {
+    "year": 1971,
+    "month": 1,
+    "day": 17
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 235,
+  "volumes": 19,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748736290,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b45305-gzmKyzxr1P4f.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b45305-gzmKyzxr1P4f.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b45305-gzmKyzxr1P4f.png",
+    "color": "#e44393"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Drama",
+    "Sports"
+  ],
+  "synonyms": [
+    "Star of the Giants"
+  ],
+  "averageScore": null,
+  "meanScore": 72,
+  "popularity": 747,
+  "favourites": 13,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 149,
+      "name": "Baseball",
+      "description": "Centers around the sport of baseball.",
+      "category": "Theme-Game-Sport",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 88,
+      "name": "Primarily Male Cast",
+      "description": "Main cast is mostly composed of male characters.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 20,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 5834,
+          "title": {
+            "native": "巨人の星"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 17447,
+          "title": {
+            "native": "巨人の星 宿命の対決"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 17445,
+          "title": {
+            "native": "巨人の星 大リーグボール"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 17443,
+          "title": {
+            "native": "巨人の星 行け行け飛雄馬"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 17441,
+          "title": {
+            "native": "巨人の星 血ぞめの決勝戦"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 17439,
+          "title": {
+            "native": "巨人の星 (1982)"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 45315,
+          "title": {
+            "native": "新巨人の星"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 166827,
+          "title": {
+            "native": "巨人のサムライ炎"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 41437,
+          "title": {
+            "native": "新約「巨人の星」花形"
+          }
+        },
+        "relationType": "SPIN_OFF"
+      },
+      {
+        "node": {
+          "id": 187564,
+          "title": {
+            "native": "俠気と肉体の時代 現代マンガ選集"
+          }
+        },
+        "relationType": "OTHER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 211931,
+          "name": {
+            "first": "Mitsuru",
+            "last": "Hanagata",
+            "native": "花形満",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211931-cib1OXD8OqhY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211931-cib1OXD8OqhY.png"
+          },
+          "siteUrl": "https://anilist.co/character/211931"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 211935,
+          "name": {
+            "first": "Chuuta",
+            "last": "Ban",
+            "native": "伴宙太",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211935-rNyG6rxQtroZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211935-rNyG6rxQtroZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/211935"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 211936,
+          "name": {
+            "first": "Armstrong",
+            "last": "Ozuma",
+            "native": "アームストロング・オズマ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211936-nn01rZrg7Neq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211936-nn01rZrg7Neq.png"
+          },
+          "siteUrl": "https://anilist.co/character/211936"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 33600,
+          "name": {
+            "first": "Hyuuma",
+            "last": "Hoshi",
+            "native": "星飛雄馬",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b33600-XctGfvgKnP2f.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b33600-XctGfvgKnP2f.png"
+          },
+          "siteUrl": "https://anilist.co/character/33600"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 211932,
+          "name": {
+            "first": "Akiko",
+            "last": "Hoshi",
+            "native": "星明子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211932-EpGEBxa57KTt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211932-EpGEBxa57KTt.png"
+          },
+          "siteUrl": "https://anilist.co/character/211932"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 211933,
+          "name": {
+            "first": "Ittetsu",
+            "last": "Hoshi",
+            "native": "星一徹",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211933-4paz14TxmEON.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211933-4paz14TxmEON.png"
+          },
+          "siteUrl": "https://anilist.co/character/211933"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 211934,
+          "name": {
+            "first": "Hosaku",
+            "last": "Samon",
+            "native": "左門豊作",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211934-5dXTYRO1ldId.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211934-5dXTYRO1ldId.png"
+          },
+          "siteUrl": "https://anilist.co/character/211934"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 99017,
+          "name": {
+            "first": "Ikki",
+            "last": "Kajiwara",
+            "native": "梶原一騎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99017-MtlVDsk5ZaiP.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99017-MtlVDsk5ZaiP.jpg"
+          },
+          "description": "Asaki Takamori, better known by this pen names Ikki Kajiwara and Asao Takamori, was a Japanese author, manga writer, and film producer. He is known for series about sports and martial arts. He considered [Tiger Mask](https://anilist.co/manga/60575/) and [Kyojin no Hoshi](https://anilist.co/manga/45305/) to be his life's work.\n\nFormerly married to [Bingbing Pai](https://anilist.co/staff/256250) from 1979 to 1981.",
+          "siteUrl": "https://anilist.co/staff/99017"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 103611,
+          "name": {
+            "first": "Noboru",
+            "last": "Kawasaki",
+            "native": "川崎のぼる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103611-3LHBtgVnT9aV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103611-3LHBtgVnT9aV.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/103611"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 85783,
+      "url": "https://kc.kodansha.co.jp/product?item=0000002402",
+      "site": "Kodansha"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 32785,
+          "rating": 7,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31303,
+            "title": {
+              "native": "あしたのジョー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 69646,
+          "rating": 3,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 95190,
+            "title": {
+              "native": "男一匹ガキ大将"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 69647,
+          "rating": 2,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 102867,
+            "title": {
+              "native": "荒野の少年イサム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 69661,
+          "rating": 5,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 91570,
+            "title": {
+              "native": "プレイボール"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 69665,
+          "rating": 5,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 90914,
+            "title": {
+              "native": "アストロ球団"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 79079,
+          "rating": 3,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 90696,
+            "title": {
+              "native": "あぶさん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 79099,
+          "rating": 5,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 48020,
+            "title": {
+              "native": "ドカベン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 94058,
+          "rating": 1,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 137361,
+            "title": {
+              "native": "男どアホウ甲子園"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99253,
+          "rating": 2,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 133729,
+            "title": {
+              "native": "おれのマウンド"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99359,
+          "rating": 4,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 138758,
+            "title": {
+              "native": "侍ジャイアンツ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99407,
+          "rating": 2,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 130489,
+            "title": {
+              "native": "夕やけ番長"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 101488,
+          "rating": 3,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 91571,
+            "title": {
+              "native": "キャプテン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 103061,
+          "rating": 3,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 139690,
+            "title": {
+              "native": "ちかいの魔球"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 147303,
+          "rating": 3,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 139382,
+            "title": {
+              "native": "アニマル1 "
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 181019,
+          "rating": 1,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 126088,
+            "title": {
+              "native": "父の魂"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 181443,
+          "rating": 2,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 113015,
+            "title": {
+              "native": "幽霊船"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 205769,
+          "rating": 2,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33291,
+            "title": {
+              "native": "花男"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 205775,
+          "rating": 2,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 50713,
+            "title": {
+              "native": "ストレート"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 205778,
+          "rating": 3,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 138906,
+            "title": {
+              "native": "アパッチ野球軍"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 205780,
+          "rating": 2,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 93252,
+            "title": {
+              "native": "野球狂の詩"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 209042,
+          "rating": 1,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 40978,
+            "title": {
+              "native": "メジャー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 215349,
+          "rating": 1,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 33168,
+            "title": {
+              "native": "陽あたり良好!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 236117,
+          "rating": 1,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 37948,
+            "title": {
+              "native": "エースをねらえ！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 243123,
+          "rating": 1,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 160896,
+            "title": {
+              "native": "県立海空高校野球部員山下たろ～くん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 246846,
+          "rating": 2,
+          "media": {
+            "id": 45305,
+            "title": {
+              "native": "巨人の星"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 44231,
+            "title": {
+              "native": "リングにかけろ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 5
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 60,
+        "amount": 2
+      },
+      {
+        "score": 70,
+        "amount": 8
+      },
+      {
+        "score": 80,
+        "amount": 7
+      },
+      {
+        "score": 90,
+        "amount": 8
+      },
+      {
+        "score": 100,
+        "amount": 6
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 62
+      },
+      {
+        "status": "PLANNING",
+        "amount": 614
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 50
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 15
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/45305",
+  "modNotes": null
+}

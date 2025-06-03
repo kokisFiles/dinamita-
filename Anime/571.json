@@ -1,0 +1,980 @@
+{
+  "id": 571,
+  "idMal": 571,
+  "title": {
+    "native": "モルダイバー",
+    "romaji": "Moldiver",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "Hiroshi Ozora invents the Mol Unit, a device that makes its user invincible. His plans of becoming a super hero are short lived however when his sister, Mirai, accidently modifies the suit configuration. Now she is forced to save Tokyo by herself from the evil Machinegal and his gang of all-female androids.\n<br><br>\n(Source: Anime News Network)",
+  "startDate": {
+    "year": 1993,
+    "month": 2,
+    "day": 25
+  },
+  "endDate": {
+    "year": 1993,
+    "month": 11,
+    "day": 25
+  },
+  "season": "WINTER",
+  "seasonYear": 1993,
+  "seasonInt": 931,
+  "episodes": 6,
+  "duration": 29,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748895352,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/571.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/571.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/571.jpg",
+    "color": "#5daee4"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n571-IcEncehvqKrD.jpg",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Mecha",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": 59,
+  "meanScore": 62,
+  "popularity": 1525,
+  "favourites": 19,
+  "tags": [
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 77,
+      "name": "Gender Bending",
+      "description": "Prominently features a character who dresses and behaves in a way characteristic of another gender, or has been transformed into a person of another gender.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 115,
+      "name": "Idol",
+      "description": "Centers around the life and activities of an idol.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 124774,
+          "title": {
+            "native": "モルダイバー"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 135585,
+          "title": {
+            "native": "モルダイバーEX"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 26497,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Ozora",
+            "native": "大宇宙寛",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/26497.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/26497.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/26497"
+        },
+        "voiceActors": [
+          {
+            "id": 95006,
+            "name": {
+              "first": "Toshiyuki",
+              "last": "Morikawa",
+              "native": "森川智之"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95006-hoLuiZANeD3Q.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95006"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 26500,
+          "name": {
+            "first": "Kaoru",
+            "last": "Misaki",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/26500"
+        },
+        "voiceActors": [
+          {
+            "id": 95798,
+            "name": {
+              "first": "Kiyoyuki",
+              "last": "Yanada",
+              "native": "梁田清之"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95798-zbNPAckSWMKV.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95798-zbNPAckSWMKV.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95798"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 26477,
+          "name": {
+            "first": "Mirai",
+            "last": "Ozora",
+            "native": null,
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/26477.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/26477.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/26477"
+        },
+        "voiceActors": [
+          {
+            "id": 95140,
+            "name": {
+              "first": "Yukana",
+              "last": "",
+              "native": "ゆかな"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95140-sFp0uedEmZ9f.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95140-sFp0uedEmZ9f.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95140"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 26498,
+          "name": {
+            "first": "Nozomu",
+            "last": "Ozora",
+            "native": "大宇宙 望夢",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/default.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/26498"
+        },
+        "voiceActors": [
+          {
+            "id": 95678,
+            "name": {
+              "first": "Rica",
+              "last": "Matsumoto",
+              "native": "松本梨香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95678-U0iKFbhteND6.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95678-U0iKFbhteND6.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95678"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 26499,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Amagi",
+            "native": "天城博士",
+            "alternative": [
+              "Professor Amagi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/26499.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/26499.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/26499"
+        },
+        "voiceActors": [
+          {
+            "id": 95670,
+            "name": {
+              "first": "Jouji",
+              "last": "Yanami",
+              "native": "八奈見乗児"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95670-fTFcKuDyrOjc.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95670-fTFcKuDyrOjc.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95670"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 97307,
+          "name": {
+            "first": "Keiji",
+            "last": "Gotou",
+            "native": "後藤圭二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97307-zziUpWjBxWFO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97307-zziUpWjBxWFO.png"
+          },
+          "description": "__[Website](http://goto.cute.or.jp)__\n\nGotou began his career as an animator at Atorie. After the closing of Atorie, he worked for other studios such as Project Team Muu and Fenx before going freelancer. He serves as character designer, animation director and animator on countless anime series and contributes to a monthly comic strip to Newtype magazine.\n\nHe has been an animator since he graduated from high school at 18. Unlike most other animators Gotou had never gone to an art school. He became interested in animation after seeing an advertisement in an animation magazine saying that animators were needed. Without having any connections within the industry he went on and joined Atelier Giga and studied there for a year under [Akihiko Yamashita](https://anilist.co/staff/103299/) before marking his debut as animator on [Mister Ajikko](https://anilist.co/anime/3437/).\n\nIn 1988 Studio Atelier declared bancrupcy and he went to Project Team Muu, which later became Phoenix Entertainment. His first work there was as animator on Anime Sanjushi. When working on the Yuusha Saga, he met Ishida Atsuko on Densetsu no Yuusha Da Garn, who influenced Gotou in his character design, particularly the design of the eyes. Together with the experience from training under Yamashita Akihiko this influence resulted in Gotou's so called \"gocky picture\" later.\n\nHe made his debut as character designer on Choujin Densetsu Urotsukidouji 4 and his debut as series director on Kiddy Grade.\n\nMarried to [Megumi Kadonosono](https://anilist.co/staff/100963/).\n\n(Source: Anidb)",
+          "siteUrl": "https://anilist.co/staff/97307"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 100660,
+          "name": {
+            "first": "Masami",
+            "last": "Oobari",
+            "native": "大張正己"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100660-zVMpkdfkFk9g.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100660-zVMpkdfkFk9g.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/298477416)\n\nOobari began his career when he joined the animation studio Ashi Production, working on titles like [Tokusou Kihei Dorvack](https://anilist.co/anime/5143/) and [Sei Juushi Bismarck](https://anilist.co/anime/2361/). Soon after, at the age of 19, he got his first major break when he landed the role of mecha designer on [Dancouga: Super Beast Machine God](https://anilist.co/anime/2255/). Not too long after, at the young age of 21, he was given his first directorial role by directing episodes 5 and 6 of the [Bubblegum Crisis](https://anilist.co/anime/1347/) OVA series. \n\nOobari mainly likes to work within the sci-fi mecha and fighting genres. His designs are easily recognizable from the voluptuous female forms and well-toned pretty boys he tends to create to appeal to wide audiences. For references, he likes to use images of professional wrestlers and models. He is friends with fellow former animator and current freelance illustrator [Tsukasa Kotoboki](https://anilist.co/staff/97965/).\n\nHe wasn't originally interested in animation but was inspired by [Satoshi Urushihara](https://anilist.co/staff/98177/).",
+          "siteUrl": "https://anilist.co/staff/100660"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 101012,
+          "name": {
+            "first": "Satoshi",
+            "last": "Ishino",
+            "native": "石野聡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101012-MbH2cR5XbGRK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101012-MbH2cR5XbGRK.png"
+          },
+          "description": "[Twitter](https://twitter.com/imozuka) | [Wiki (jp)](https://ja.wikipedia.org/wiki/%E7%9F%B3%E9%87%8E%E8%81%A1)\n\nSatoshi Ishino is a Japanese animator, animation supervisor, character/mechanical designer and animation director.\n\nHe started working at Studio Giants, but later went to work at Studio Fantasia before becoming a freelance animator. Today he is a part of the animator group Studio Hercules (スタジオへらくれす), and he's also a part of the doujin circle TEAM Imozuka (TEAM いもずか).\n\nSatoshi is best known for his work as a character designer and animation supervisor in the show Excel Saga and the related Puni Puni Poemi.",
+          "siteUrl": "https://anilist.co/staff/101012"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 101185,
+          "name": {
+            "first": "Tadashi",
+            "last": "Hiramatsu",
+            "native": "平松禎史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101185-CJLT9YKxSDZC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101185-CJLT9YKxSDZC.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/156204341) | [Instagram](https://www.instagram.com/hiramatz/) | [Blog](https://ameblo.jp/tadashi-hiramatz/) | [YouTube](https://www.youtube.com/@hiramatz1963)\n\nAffiliated with [MAPPA](https://anilist.co/studio/569/).\n\nAlthough at first becoming a salary man after graduation, he later decided to become animator and joined Nakamura Production, where he debuted on [Bugtte Honey](https://anilist.co/anime/10210/) in 1987. He later joined Studio Gainax and was involved in the production of [Evangelion](https://anilist.co/anime/30/Shin-Seiki-Evangelion/). In 1998 he debuted as character designer of [Kare Kano](https://anilist.co/anime/145/Kareshi-Kanojo-no-Jijou/).",
+          "siteUrl": "https://anilist.co/staff/101185"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 102427,
+          "name": {
+            "first": "Naoyuki",
+            "last": "Onda",
+            "native": "恩田尚之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102427-ta8tGDvXKfNO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102427-ta8tGDvXKfNO.png"
+          },
+          "description": "[Twitter 1](https://twitter.com/i/user/110221339) | [Twitter 2](https://twitter.com/i/user/815589398720847872)\n\nHe joined studio Bebow in 1982, where he was referred to by [Masayuki Yagi](https://anilist.co/staff/143406/), a senior of his at Engaru High School. [Yoshikazu Yasuhiko](https://anilist.co/staff/97220/) and Bebow’s founder [Tomonori Kogawa](https://anilist.co/staff/105957/) were also graduates of the same school - the latter whom he would study under after joining the studio. There he made his debut as a key animator on [Seisenshi Dunbine](https://anilist.co/anime/929/) in the following year.\n\nHe left Bebow in the mid ‘80s and joined Pack, a small studio established by [Hiroyuki Kitazume](https://anilist.co/staff/106775/). During this time he was a follower of Kitazume’s, who has said that Onda was the one capable of replicating his drawing’s the best out of the people who worked at studio Pack. After that he joined [Atelier Giga](https://anilist.co/staff/106775/) and worked there until becoming a freelancer.\n\nHis drawings feature western-influenced delicate and sharp linework with an excellent grasp on three-dimensionality. His character art in particular is highly praised both inside and outside of the industry, which he gets to brandish whenever he works as an animation supervisor. He has stated that he prefers character design and supervision work over working as an animator himself.\n\nIn 2003, he took part as a key animator on [Production I.G](https://anilist.co/studio/10/)'s animated segment in Quentin Tarantino's \"Kill Bill: Vol. 1\" directed by [Kazuto Nakazawa](https://anilist.co/staff/101474/). He is also a huge fan of shoujo manga since a young age due to his older sister.",
+          "siteUrl": "https://anilist.co/staff/102427"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 103099,
+          "name": {
+            "first": "Naoyuki",
+            "last": "Konno",
+            "native": "紺野直幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8099.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8099.jpg"
+          },
+          "description": "[Sakugabooru](https://www.sakugabooru.com/post?tags=naoyuki_konno)\n\n__Naoyuki Konno__ is a Japanese animator and director. He is particularly known for his work on several adaptations of [Shoutarou Ishinomori's](https://anilist.co/staff/97478/Shoutarou-Ishinomori) works as well as his animation style, being renowned as one of the Kanada-school animators.",
+          "siteUrl": "https://anilist.co/staff/103099"
+        }
+      },
+      {
+        "role": "Animation Check",
+        "node": {
+          "id": 103099,
+          "name": {
+            "first": "Naoyuki",
+            "last": "Konno",
+            "native": "紺野直幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8099.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/8099.jpg"
+          },
+          "description": "[Sakugabooru](https://www.sakugabooru.com/post?tags=naoyuki_konno)\n\n__Naoyuki Konno__ is a Japanese animator and director. He is particularly known for his work on several adaptations of [Shoutarou Ishinomori's](https://anilist.co/staff/97478/Shoutarou-Ishinomori) works as well as his animation style, being renowned as one of the Kanada-school animators.",
+          "siteUrl": "https://anilist.co/staff/103099"
+        }
+      },
+      {
+        "role": "Digital Paint",
+        "node": {
+          "id": 105147,
+          "name": {
+            "first": "Takeshi",
+            "last": "Satou",
+            "native": "佐藤豪志"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with Kusanagi.",
+          "siteUrl": "https://anilist.co/staff/105147"
+        }
+      },
+      {
+        "role": "Executive Producer",
+        "node": {
+          "id": 105169,
+          "name": {
+            "first": "Tarou",
+            "last": "Maki",
+            "native": "真木太郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105169-B4nIkRmO8wKR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105169-B4nIkRmO8wKR.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/真木太郎)\n\nTarou Maki is a producer. He graduated from the Department of Law at Waseda University in 1977 and joined Pioneer. In 1997 he founded production studio [Genco](https://anilist.co/studio/79/) and serves today still as its president.",
+          "siteUrl": "https://anilist.co/staff/105169"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 106201,
+          "name": {
+            "first": "Hideki",
+            "last": "Araki",
+            "native": "荒木英樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/106201-mGFH476I8Ke8.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/106201-mGFH476I8Ke8.jpg"
+          },
+          "description": "Araki Hideki is an animator, animation supervisor and character designer. In recent years he has been working exclusively on 18+ titles, where he also took over as director additionally to his usual work. ",
+          "siteUrl": "https://anilist.co/staff/106201"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 106638,
+          "name": {
+            "first": "Moriyasu",
+            "last": "Taniguchi",
+            "native": "谷口守泰"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106638-3sAI4PgDShpl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106638-3sAI4PgDShpl.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/谷口守泰)\n\nA veteran animator with a career spanning nearly 60 years.",
+          "siteUrl": "https://anilist.co/staff/106638"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 106775,
+          "name": {
+            "first": "Hiroyuki",
+            "last": "Kitazume",
+            "native": "北爪宏幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106775-r9oSZhCRUdz5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106775-r9oSZhCRUdz5.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/北爪宏幸)\n\nHis representative works include [Mobile Suit Gundam ZZ](https://anilist.co/anime/86/), [Char's Counterattack](https://anilist.co/anime/87/) and [Moldiver](https://anilist.co/anime/571/).\n\nRetired from the anime industry in the early 2000s and has since worked on manga.",
+          "siteUrl": "https://anilist.co/staff/106775"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 106775,
+          "name": {
+            "first": "Hiroyuki",
+            "last": "Kitazume",
+            "native": "北爪宏幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106775-r9oSZhCRUdz5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106775-r9oSZhCRUdz5.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/北爪宏幸)\n\nHis representative works include [Mobile Suit Gundam ZZ](https://anilist.co/anime/86/), [Char's Counterattack](https://anilist.co/anime/87/) and [Moldiver](https://anilist.co/anime/571/).\n\nRetired from the anime industry in the early 2000s and has since worked on manga.",
+          "siteUrl": "https://anilist.co/staff/106775"
+        }
+      },
+      {
+        "role": "Animation Director  (ep 6)",
+        "node": {
+          "id": 106775,
+          "name": {
+            "first": "Hiroyuki",
+            "last": "Kitazume",
+            "native": "北爪宏幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106775-r9oSZhCRUdz5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106775-r9oSZhCRUdz5.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/北爪宏幸)\n\nHis representative works include [Mobile Suit Gundam ZZ](https://anilist.co/anime/86/), [Char's Counterattack](https://anilist.co/anime/87/) and [Moldiver](https://anilist.co/anime/571/).\n\nRetired from the anime industry in the early 2000s and has since worked on manga.",
+          "siteUrl": "https://anilist.co/staff/106775"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 107849,
+          "name": {
+            "first": "Hiroaki",
+            "last": "Inoue",
+            "native": "井上博明"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107849-ZO81QUpk7mI5.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107849-ZO81QUpk7mI5.png"
+          },
+          "description": "Hiroaki Inoue is a long-time producer for AIC. He was also to join Gainax, when it had been founded and served as producer on The Wings of Honneamise and Gunbuster.\n\nInoue won the Takumi Shibano Award for outstanding fan activity, 1998.\n\nHe was the Chairman of the: 6th SF Show (1984); 1st-4th SF X'mas (1983-86); and the Bid Chairman for Worldcon Nippon. He is now the Chairman for the Japanese Worldcon in 2007\nInoue was the co-Chair for both Mig-con (27th Japan National Science Fiction Convention, in 1988); and the Captain Future Con in 1990 (1990).\n\nSince 1977 he has been a member of the Space Force, Chief of the General Staff 1979-1987.\nAnd JASFIC (Japanese Association for Science Fiction International Communication), 2002-present, Chair.",
+          "siteUrl": "https://anilist.co/staff/107849"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 115831,
+          "name": {
+            "first": "Kei",
+            "last": "Wakakusa",
+            "native": "若草恵"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115831-kNCQzO3Cz1NM.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115831-kNCQzO3Cz1NM.png"
+          },
+          "description": "Wakakusa Kei is a composer and arranger.  His real name is Saitou Tooru (斉藤 徹).",
+          "siteUrl": "https://anilist.co/staff/115831"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 116819,
+          "name": {
+            "first": "Toshimitsu",
+            "last": "Kobayashi",
+            "native": "小林利充"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/116819-nUSr5EbGKeSM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/116819-nUSr5EbGKeSM.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/116819"
+        }
+      },
+      {
+        "role": "Animation Director  (ep 2)",
+        "node": {
+          "id": 116819,
+          "name": {
+            "first": "Toshimitsu",
+            "last": "Kobayashi",
+            "native": "小林利充"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/116819-nUSr5EbGKeSM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/116819-nUSr5EbGKeSM.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/116819"
+        }
+      },
+      {
+        "role": "Storyboard  (ep 3)",
+        "node": {
+          "id": 117289,
+          "name": {
+            "first": "Osamu",
+            "last": "Tsuruyama",
+            "native": "つるやまおさむ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117289-ZmIig44cv4wL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n117289-ZmIig44cv4wL.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/117289"
+        }
+      },
+      {
+        "role": "Key Animation  (ep 3)",
+        "node": {
+          "id": 117289,
+          "name": {
+            "first": "Osamu",
+            "last": "Tsuruyama",
+            "native": "つるやまおさむ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117289-ZmIig44cv4wL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n117289-ZmIig44cv4wL.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/117289"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 121182,
+          "name": {
+            "first": "Masahiko",
+            "last": "Kubo",
+            "native": "久保まさひこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121182-zLWhK27UQERa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121182-zLWhK27UQERa.png"
+          },
+          "description": "[Website](http://qbo.sakura.ne.jp/masahiko/) | [Twitter](https://twitter.com/macha_mkun) | [Flickr](https://www.flickr.com/people/39493978@N08/)\n\nIn recent years he has also been working as still photographer.",
+          "siteUrl": "https://anilist.co/staff/121182"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 121203,
+          "name": {
+            "first": "Hiroko",
+            "last": "Kazui",
+            "native": "数井浩子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121203-GQErzz9HQVdA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121203-GQErzz9HQVdA.png"
+          },
+          "description": "Directs on occasions.",
+          "siteUrl": "https://anilist.co/staff/121203"
+        }
+      },
+      {
+        "role": "Animation Director (ep 6)",
+        "node": {
+          "id": 104201,
+          "name": {
+            "first": "Masaki",
+            "last": "Kajishima",
+            "native": "梶島正樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104201-kQdxohazZDjn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104201-kQdxohazZDjn.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/梶島正樹)\n\nHe entered [Studio Junio](https://anilist.co/studio/280/) after graduating from Osaka Design College. Kajishima admired [Kenichi Sonoda](https://anilist.co/staff/97942/)'s designs and came to Tokyo to join the [Gall Force](https://anilist.co/anime/2060/) production team. After Gall Force, he continued to do a bunch of contract work for [AIC](https://anilist.co/studio/48/) as a freelancer and became mainly known for creating the [Tenchi Muyou!](https://anilist.co/anime/696/) universe.\n\nBesides his anime works, he's also written doujinshi and novels.",
+          "siteUrl": "https://anilist.co/staff/104201"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 48,
+          "name": "AIC",
+          "siteUrl": "https://anilist.co/studio/48"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 204,
+          "name": "Pioneer LDC",
+          "siteUrl": "https://anilist.co/studio/204"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 20127,
+      "rank": 27,
+      "type": "RATED",
+      "format": "OVA",
+      "year": 1993,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 20153,
+      "rank": 23,
+      "type": "POPULAR",
+      "format": "OVA",
+      "year": 1993,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 69552,
+          "rating": 2,
+          "media": {
+            "id": 571,
+            "title": {
+              "native": "モルダイバー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2522,
+            "title": {
+              "native": "楽勝! ハイパードール"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 196075,
+          "rating": 2,
+          "media": {
+            "id": 571,
+            "title": {
+              "native": "モルダイバー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 373,
+            "title": {
+              "native": "万能文化猫娘"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 205904,
+          "rating": 1,
+          "media": {
+            "id": 571,
+            "title": {
+              "native": "モルダイバー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1772,
+            "title": {
+              "native": "聖少女艦隊バージンフリート"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 314386,
+          "rating": 2,
+          "media": {
+            "id": 571,
+            "title": {
+              "native": "モルダイバー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 2094,
+            "title": {
+              "native": "レリックアーマーLEGACIAM"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 314395,
+          "rating": 2,
+          "media": {
+            "id": 571,
+            "title": {
+              "native": "モルダイバー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 4318,
+            "title": {
+              "native": "竜世紀"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 314397,
+          "rating": 3,
+          "media": {
+            "id": 571,
+            "title": {
+              "native": "モルダイバー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 6718,
+            "title": {
+              "native": "YAMATO2520"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 315064,
+          "rating": 1,
+          "media": {
+            "id": 571,
+            "title": {
+              "native": "モルダイバー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 4058,
+            "title": {
+              "native": "魔境外伝レ・ディウス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 322288,
+          "rating": 1,
+          "media": {
+            "id": 571,
+            "title": {
+              "native": "モルダイバー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 1529,
+            "title": {
+              "native": "創世聖紀デヴァダシー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 380001,
+          "rating": 1,
+          "media": {
+            "id": 571,
+            "title": {
+              "native": "モルダイバー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 5973,
+            "title": {
+              "native": "ファイト一発！充電ちゃん！！"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 15
+      },
+      {
+        "score": 20,
+        "amount": 7
+      },
+      {
+        "score": 30,
+        "amount": 30
+      },
+      {
+        "score": 40,
+        "amount": 34
+      },
+      {
+        "score": 50,
+        "amount": 78
+      },
+      {
+        "score": 60,
+        "amount": 64
+      },
+      {
+        "score": 70,
+        "amount": 48
+      },
+      {
+        "score": 80,
+        "amount": 56
+      },
+      {
+        "score": 90,
+        "amount": 46
+      },
+      {
+        "score": 100,
+        "amount": 34
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 64
+      },
+      {
+        "status": "PLANNING",
+        "amount": 838
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 532
+      },
+      {
+        "status": "DROPPED",
+        "amount": 48
+      },
+      {
+        "status": "PAUSED",
+        "amount": 43
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/571",
+  "modNotes": null
+}

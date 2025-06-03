@@ -1,0 +1,288 @@
+{
+  "id": 11835,
+  "idMal": 11835,
+  "title": {
+    "native": "秦时明月之诸子百家",
+    "romaji": "Qin Shi Mingyue: Zhuzi Baijia",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "Continues the story of Tianming from where the 2nd season left off.",
+  "startDate": {
+    "year": 2010,
+    "month": 6,
+    "day": 10
+  },
+  "endDate": {
+    "year": 2011,
+    "month": 8,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 34,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748625333,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11835-GNBzPXdhn5dT.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11835-GNBzPXdhn5dT.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11835-GNBzPXdhn5dT.jpg",
+    "color": "#f1bb5d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Qin's Moon 3: Hundred Schools of Thought",
+    "Qin's Moon Season 3",
+    "The Legend of Swordsman 3",
+    "The Legend of Qin III"
+  ],
+  "averageScore": 55,
+  "meanScore": 64,
+  "popularity": 358,
+  "favourites": 6,
+  "tags": [
+    {
+      "id": 25,
+      "name": "Historical",
+      "description": "Partly or completely set during a real period of world history.",
+      "category": "Setting-Time",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 89,
+      "name": "Full CGI",
+      "description": "Almost entirely created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1598,
+      "name": "Ancient China",
+      "description": "Setting in ancient china, does not apply to fantasy settings.",
+      "category": "Setting-Time",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 303,
+      "name": "Wuxia",
+      "description": "Chinese fiction concerning the adventures of martial artists in Ancient China.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 11841,
+          "title": {
+            "native": "秦时明月之夜尽天明"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 15905,
+          "title": {
+            "native": "秦时明月之万里长城"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 145829,
+          "title": {
+            "native": "新秦时明月"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 81053,
+          "name": {
+            "first": "Tianming",
+            "last": "Jing",
+            "native": "荆天明",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81053-T0WfgnatIW6c.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b81053-T0WfgnatIW6c.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/81053"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 265665,
+          "name": {
+            "first": "Sayling",
+            "last": "Wen",
+            "native": "温世仁"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n265665-pEkvM9TkHw0M.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n265665-pEkvM9TkHw0M.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/265665"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6393,
+          "name": "Sparkly Key Animation",
+          "siteUrl": "https://anilist.co/studio/6393"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 19783,
+      "url": "https://list.youku.com/show/id_zfa25d4ec61ad11e0bea1.html",
+      "site": "Youku"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 5153,
+      "rank": 84,
+      "type": "RATED",
+      "format": "TV",
+      "year": 2010,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 5245,
+      "rank": 88,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 2010,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 6
+      },
+      {
+        "score": 50,
+        "amount": 11
+      },
+      {
+        "score": 60,
+        "amount": 19
+      },
+      {
+        "score": 70,
+        "amount": 18
+      },
+      {
+        "score": 80,
+        "amount": 16
+      },
+      {
+        "score": 90,
+        "amount": 4
+      },
+      {
+        "score": 100,
+        "amount": 6
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 14
+      },
+      {
+        "status": "PLANNING",
+        "amount": 150
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 145
+      },
+      {
+        "status": "DROPPED",
+        "amount": 41
+      },
+      {
+        "status": "PAUSED",
+        "amount": 8
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/11835",
+  "modNotes": null
+}

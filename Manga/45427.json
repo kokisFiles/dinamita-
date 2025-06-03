@@ -1,0 +1,285 @@
+{
+  "id": 45427,
+  "idMal": 15427,
+  "title": {
+    "native": "シュガー",
+    "romaji": "Sugar",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A seinen boxing manga by Hideki Arai.",
+  "startDate": {
+    "year": 2001,
+    "month": 7,
+    "day": 17
+  },
+  "endDate": {
+    "year": 2004,
+    "month": 10,
+    "day": 19
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 65,
+  "volumes": 8,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748875601,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45427-GUvUvZUehJl8.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45427-GUvUvZUehJl8.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx45427-GUvUvZUehJl8.jpg",
+    "color": "#e49350"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/45427-ViVJ2l2c4Qji.jpg",
+  "genres": [
+    "Action",
+    "Drama",
+    "Slice of Life",
+    "Sports"
+  ],
+  "synonyms": [
+    "Sugar - The most elegant of champions"
+  ],
+  "averageScore": null,
+  "meanScore": 71,
+  "popularity": 451,
+  "favourites": 4,
+  "tags": [
+    {
+      "id": 169,
+      "name": "Boxing",
+      "description": "Centers around the sport of boxing.",
+      "category": "Theme-Game-Sport",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 45428,
+          "title": {
+            "native": "リン"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 258897,
+          "name": {
+            "first": "Rin",
+            "last": "Ichikawa",
+            "native": "石川凛",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b258897-d7we8fgwev9o.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b258897-d7we8fgwev9o.png"
+          },
+          "siteUrl": "https://anilist.co/character/258897"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 98035,
+          "name": {
+            "first": "Hideki",
+            "last": "Arai",
+            "native": "新井英樹"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98035-nLUrhesj2TzY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98035-nLUrhesj2TzY.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/arai_h_official) | [Wiki (jp)](https://ja.wikipedia.org/wiki/新井英樹)\n\nAfter studying at Meiji University, he worked at an office supplies company for a year while focusing on his passion for drawing. His manga The World is Mine was chosen by the editors of Pulp for their Manga Hell list of controversial manga. He is married to the mangaka [Kiwa Irie](https://anilist.co/staff/149869/Kiwa-Irie).",
+          "siteUrl": "https://anilist.co/staff/98035"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 107322,
+          "rating": 2,
+          "media": {
+            "id": 45427,
+            "title": {
+              "native": "シュガー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 45428,
+            "title": {
+              "native": "リン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 200906,
+          "rating": 3,
+          "media": {
+            "id": 45427,
+            "title": {
+              "native": "シュガー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30007,
+            "title": {
+              "native": "はじめの一歩"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 337584,
+          "rating": 1,
+          "media": {
+            "id": 45427,
+            "title": {
+              "native": "シュガー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 85475,
+            "title": {
+              "native": "リクドウ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 338260,
+          "rating": 1,
+          "media": {
+            "id": 45427,
+            "title": {
+              "native": "シュガー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 31303,
+            "title": {
+              "native": "あしたのジョー"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 5
+      },
+      {
+        "score": 80,
+        "amount": 11
+      },
+      {
+        "score": 90,
+        "amount": 6
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 63
+      },
+      {
+        "status": "PLANNING",
+        "amount": 338
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 31
+      },
+      {
+        "status": "DROPPED",
+        "amount": 8
+      },
+      {
+        "status": "PAUSED",
+        "amount": 11
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/45427",
+  "modNotes": null
+}

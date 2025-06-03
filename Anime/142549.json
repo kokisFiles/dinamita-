@@ -1,0 +1,938 @@
+{
+  "id": 142549,
+  "idMal": 50562,
+  "title": {
+    "native": "映画クレヨンしんちゃん もののけニンジャ珍風伝",
+    "romaji": "Crayon Shin-chan: Mononoke Ninja Chinpuuden",
+    "english": "Crayon Shinchan the Movie: The Tornado Legend of Ninja Mononoke"
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2022,
+    "month": 4,
+    "day": 22
+  },
+  "endDate": {
+    "year": 2022,
+    "month": 4,
+    "day": 22
+  },
+  "season": "SPRING",
+  "seasonYear": 2022,
+  "seasonInt": 222,
+  "episodes": 1,
+  "duration": 100,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": "#映画クレヨンしんちゃん",
+  "trailer": {
+    "id": "hCAaickO4gM",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/hCAaickO4gM/hqdefault.jpg"
+  },
+  "updatedAt": 1748858318,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142549-SNJu3dSJrM9l.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142549-SNJu3dSJrM9l.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142549-SNJu3dSJrM9l.jpg",
+    "color": "#f1bb43"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Shin - Cậu Bé Bút Chì: Truyền Thuyết Nhẫn Thuật Ninja"
+  ],
+  "averageScore": 69,
+  "meanScore": 74,
+  "popularity": 1083,
+  "favourites": 13,
+  "tags": [
+    {
+      "id": 255,
+      "name": "Ninja",
+      "description": "Prominently features Japanese warriors traditionally trained in espionage, sabotage and assasination.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 46,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 127331,
+          "title": {
+            "native": "映画クレヨンしんちゃん 謎メキ！花の天カス学園"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 966,
+          "title": {
+            "native": "クレヨンしんちゃん"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 32435,
+          "title": {
+            "native": "クレヨンしんちゃん"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 158595,
+          "title": {
+            "native": "しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7855,
+          "name": {
+            "first": "Himawari",
+            "last": "Nohara",
+            "native": "野原ひまわり",
+            "alternative": [
+              "Hima",
+              "Daisy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7855.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7855.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7855"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2951,
+          "name": {
+            "first": "Shinnosuke",
+            "last": "Nohara",
+            "native": "野原しんのすけ",
+            "alternative": [
+              "Shin-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2951-Bs571jmT5Xym.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2951-Bs571jmT5Xym.png"
+          },
+          "siteUrl": "https://anilist.co/character/2951"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 33466,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Nohara",
+            "native": "野原広志",
+            "alternative": [
+              "Hiroshi",
+              "Hiro",
+              "Harry"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/33466.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/33466.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/33466"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7862,
+          "name": {
+            "first": "Tooru",
+            "last": "Kazama",
+            "native": "風間トオル",
+            "alternative": [
+              "Georgie Prescott",
+              "Cosmo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7862.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7862.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7862"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7853,
+          "name": {
+            "first": "Bou-chan",
+            "last": "",
+            "native": "ボーちゃん",
+            "alternative": [
+              "Boo-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7853-dQihKEkfF8Hk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7853-dQihKEkfF8Hk.png"
+          },
+          "siteUrl": "https://anilist.co/character/7853"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7863,
+          "name": {
+            "first": "Masao",
+            "last": "Sato",
+            "native": "佐藤マサオ",
+            "alternative": [
+              "Max"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7863.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7863.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7863"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7856,
+          "name": {
+            "first": "Shiro",
+            "last": null,
+            "native": "シロ",
+            "alternative": [
+              "Whitey",
+              "Lucky"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7856.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7856.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7856"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7861,
+          "name": {
+            "first": "Nene",
+            "last": "Sakurada",
+            "native": "桜田ネネ",
+            "alternative": [
+              "Penny Milfer"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7861-J50MV4iGXl5U.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7861-J50MV4iGXl5U.png"
+          },
+          "siteUrl": "https://anilist.co/character/7861"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7854,
+          "name": {
+            "first": "Misae",
+            "last": "Nohara",
+            "native": "野原美冴",
+            "alternative": [
+              "nee Koyama",
+              "Mitzi",
+              "Misty"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7854.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7854.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7854"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 111395,
+          "name": {
+            "first": "Masakazu",
+            "last": "Hashimoto",
+            "native": "橋本昌和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/16395.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/16395.jpg"
+          },
+          "description": "[Twitter](http://twitter.com/u_ninike)",
+          "siteUrl": "https://anilist.co/staff/111395"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 98293,
+          "name": {
+            "first": "Yoshito",
+            "last": "Usui",
+            "native": "臼井儀人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98293-sPwWTGzCRKp3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98293-sPwWTGzCRKp3.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/臼井儀人)\n\nA mangaka known for the popular [Crayon Shin-chan](https://anilist.co/manga/32435/) series.",
+          "siteUrl": "https://anilist.co/staff/98293"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 111395,
+          "name": {
+            "first": "Masakazu",
+            "last": "Hashimoto",
+            "native": "橋本昌和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/16395.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/16395.jpg"
+          },
+          "description": "[Twitter](http://twitter.com/u_ninike)",
+          "siteUrl": "https://anilist.co/staff/111395"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 118493,
+          "name": {
+            "first": "Kimiko",
+            "last": "Ueno",
+            "native": "うえのきみこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118493-zaypQQMzsi1m.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118493-zaypQQMzsi1m.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/うえのきみこ)",
+          "siteUrl": "https://anilist.co/staff/118493"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 161875,
+          "name": {
+            "first": "Ryokuoushoku Shakai",
+            "last": "",
+            "native": "緑黄色社会"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n161875-oqxWba99nGED.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n161875-oqxWba99nGED.png"
+          },
+          "description": "__[Website](https://www.ryokushaka.com/)__ | __[Twitter](https://twitter.com/ryokushaka)__ | __[YouTube](https://www.youtube.com/channel/UC_1GPhYlXI2ka2ji5gnqWFQ)__ | __[Instagram](https://www.instagram.com/ryokushaka_official/)__\n\n__Formed:__ 2012\n__Genres:__ Pop, J-Pop, Rock\n\n__Biography:__\nRyokuoushoku Shakai is a Japanese four-piece band under record label Epic Records Japan (2018-), having previously been under record label Here, Play Pop! (2017-2018). They made their major debut on November 7 of 2018, with the release of their 3rd mini album through Epic Records Japan titled \"[Afureta Mizuno Yukue](https://open.spotify.com/album/63jw5JmK58auIqM9SoXwWf)\".\n\nThe band made their first appearance in anime performing the song \"[Shout Baby](https://www.youtube.com/watch?v=Ww8oxgqDQSs)\" as the second ending theme to [My Hero Academia 4](https://anilist.co/anime/104276/Boku-no-Hero-Academia-4/).\n\n__Members:__\n- [Haruko Nagaya](https://anilist.co/staff/161876/Haruko-Nagaya) (長屋晴子) – vocalist, guitarist and in-charge of lyrics and composition (2012-)\n- [Issei Kobayashi](https://anilist.co/staff/232273) (小林壱誓) – guitarist and in-charge of chorus (2012-)\n- [peppe](https://anilist.co/staff/232276) (ぺっぺ) – keyboardist and in-charge of chorus (2012-)\n- [Shingo Anami](https://anilist.co/staff/232277/Shingo-Anami) (穴見真吾) – bassist and in-charge of chorus (2012-)\n\n__Former Members:__\n- Yasuchika Sugie (杉江泰周) – drummer (2012-2015)",
+          "siteUrl": "https://anilist.co/staff/161875"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 124622,
+          "name": {
+            "first": "Youko",
+            "last": "Kuno",
+            "native": "久野遥子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124622-IEHkZh0agDQq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124622-IEHkZh0agDQq.png"
+          },
+          "description": "[Twitter](https://twitter.com/kunoyoko) | [Website](http://kunoyoko.tumblr.com)\n\nA graduate of the Department of Graphic Design at Tama Art University. While still a student, she created installations, sculptures, and animated works centering on themes of young girls, animals, delinquents and other motifs with an undefinable graphic quality.",
+          "siteUrl": "https://anilist.co/staff/124622"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 124622,
+          "name": {
+            "first": "Youko",
+            "last": "Kuno",
+            "native": "久野遥子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124622-IEHkZh0agDQq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124622-IEHkZh0agDQq.png"
+          },
+          "description": "[Twitter](https://twitter.com/kunoyoko) | [Website](http://kunoyoko.tumblr.com)\n\nA graduate of the Department of Graphic Design at Tama Art University. While still a student, she created installations, sculptures, and animated works centering on themes of young girls, animals, delinquents and other motifs with an undefinable graphic quality.",
+          "siteUrl": "https://anilist.co/staff/124622"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 124622,
+          "name": {
+            "first": "Youko",
+            "last": "Kuno",
+            "native": "久野遥子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124622-IEHkZh0agDQq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124622-IEHkZh0agDQq.png"
+          },
+          "description": "[Twitter](https://twitter.com/kunoyoko) | [Website](http://kunoyoko.tumblr.com)\n\nA graduate of the Department of Graphic Design at Tama Art University. While still a student, she created installations, sculptures, and animated works centering on themes of young girls, animals, delinquents and other motifs with an undefinable graphic quality.",
+          "siteUrl": "https://anilist.co/staff/124622"
+        }
+      },
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 124622,
+          "name": {
+            "first": "Youko",
+            "last": "Kuno",
+            "native": "久野遥子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124622-IEHkZh0agDQq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124622-IEHkZh0agDQq.png"
+          },
+          "description": "[Twitter](https://twitter.com/kunoyoko) | [Website](http://kunoyoko.tumblr.com)\n\nA graduate of the Department of Graphic Design at Tama Art University. While still a student, she created installations, sculptures, and animated works centering on themes of young girls, animals, delinquents and other motifs with an undefinable graphic quality.",
+          "siteUrl": "https://anilist.co/staff/124622"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 222617,
+          "name": {
+            "first": "Masami",
+            "last": "Ootsuka",
+            "native": "大塚正実"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[WIki (jp)](https://ja.wikipedia.org/wiki/大塚正実)",
+          "siteUrl": "https://anilist.co/staff/222617"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 222615,
+          "name": {
+            "first": "Yuuta",
+            "last": "Kanbe",
+            "native": "神戸佑太"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n222615-PPbwiPw82Hvw.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n222615-PPbwiPw82Hvw.jpg"
+          },
+          "description": "Affiliated with [Shin-Ei Animation](https://anilist.co/studio/247/).",
+          "siteUrl": "https://anilist.co/staff/222615"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 155005,
+          "name": {
+            "first": "Nishiki",
+            "last": "Itaoka",
+            "native": "板岡錦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n155005-A4RaIdQhWnYK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n155005-A4RaIdQhWnYK.jpg"
+          },
+          "description": "Itaoka Nishiki is an animator that last worked on Studio Live.\n\n[Twitter](https://twitter.com/Itaoka1)\n\n",
+          "siteUrl": "https://anilist.co/staff/155005"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 230796,
+          "name": {
+            "first": "Reiko",
+            "last": "Arai",
+            "native": "荒井怜子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/230796"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 156956,
+          "name": {
+            "first": "Kanae",
+            "last": "Aoki",
+            "native": "青木香奈枝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/156956"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 118933,
+          "name": {
+            "first": "Michio",
+            "last": "Mihara",
+            "native": "三原三千夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/23933-x9FWh7rrvQ3J.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/23933-x9FWh7rrvQ3J.png"
+          },
+          "description": "[Twitter](https://twitter.com/3and15) | [Wiki (jp)](https://ja.wikipedia.org/wiki/三原三千夫)",
+          "siteUrl": "https://anilist.co/staff/118933"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 164966,
+          "name": {
+            "first": "Shizuka",
+            "last": "Hayashi",
+            "native": "林静香"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/164966"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 236586,
+          "name": {
+            "first": "Natsumi",
+            "last": "Kurihara",
+            "native": "栗原なつ未"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n236586-Q9HTjf2YmWkc.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n236586-Q9HTjf2YmWkc.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/723_curry)",
+          "siteUrl": "https://anilist.co/staff/236586"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 212637,
+          "name": {
+            "first": "Fumie",
+            "last": "Konno",
+            "native": "今野史枝"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/212637"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 150897,
+          "name": {
+            "first": "Keiko",
+            "last": "Shimizu",
+            "native": "清水圭子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with [Madhouse](https://anilist.co/studio/11/).\n\n_Note: Not to be confused with the [other animator](https://anilist.co/staff/130398/) by the same name._",
+          "siteUrl": "https://anilist.co/staff/150897"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 138505,
+          "name": {
+            "first": "Miyako",
+            "last": "Kamiya",
+            "native": "神谷美也子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/138505"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 106561,
+          "name": {
+            "first": "Shirou",
+            "last": "Shibata",
+            "native": "柴田志朗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106561-4RjKOmj7Wi40.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106561-4RjKOmj7Wi40.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/106561"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 132087,
+          "name": {
+            "first": "Nao",
+            "last": "Takano",
+            "native": "高野菜央"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n132087-2FLCco0O3D68.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n132087-2FLCco0O3D68.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/132087"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 196771,
+          "name": {
+            "first": "Kazuhiro",
+            "last": "Koyama",
+            "native": "小山和弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/196771"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 155389,
+          "name": {
+            "first": "Yoshihiko",
+            "last": "Takakura",
+            "native": "高倉佳彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/155389"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 164512,
+          "name": {
+            "first": "Minoru",
+            "last": "Okabe",
+            "native": "岡部実"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/164512"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 245,
+          "name": "Toho",
+          "siteUrl": "https://anilist.co/studio/245"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 247,
+          "name": "Shin-Ei Animation",
+          "siteUrl": "https://anilist.co/studio/247"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6341,
+          "name": "ADK Emotions",
+          "siteUrl": "https://anilist.co/studio/6341"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 55,
+          "name": "TV Asahi",
+          "siteUrl": "https://anilist.co/studio/55"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 317775,
+          "airingAt": 1650553200,
+          "episode": 1,
+          "mediaId": 142549,
+          "media": {
+            "id": 142549
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 41541,
+      "url": "https://www.shinchan-movie.com/",
+      "site": "Official Site"
+    },
+    {
+      "id": 41542,
+      "url": "https://twitter.com/crayon_official",
+      "site": "Twitter"
+    },
+    {
+      "id": 41543,
+      "url": "https://www.instagram.com/shinchan_movie/",
+      "site": "Instagram"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 19272,
+      "rank": 32,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2022,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 19333,
+      "rank": 42,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2022,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 9
+      },
+      {
+        "score": 40,
+        "amount": 11
+      },
+      {
+        "score": 50,
+        "amount": 16
+      },
+      {
+        "score": 60,
+        "amount": 37
+      },
+      {
+        "score": 70,
+        "amount": 59
+      },
+      {
+        "score": 80,
+        "amount": 45
+      },
+      {
+        "score": 90,
+        "amount": 96
+      },
+      {
+        "score": 100,
+        "amount": 29
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 59
+      },
+      {
+        "status": "PLANNING",
+        "amount": 412
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 566
+      },
+      {
+        "status": "DROPPED",
+        "amount": 31
+      },
+      {
+        "status": "PAUSED",
+        "amount": 15
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/142549",
+  "modNotes": null
+}

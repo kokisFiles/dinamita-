@@ -1,0 +1,755 @@
+{
+  "id": 115474,
+  "idMal": 106016,
+  "title": {
+    "native": "あくむす",
+    "romaji": "AkuMusu",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "4-koma short stories depicting humorous \"what-ifs\" in the Aku no Musume story.",
+  "startDate": {
+    "year": 2013,
+    "month": 4,
+    "day": 24
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 12,
+    "day": 24
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 33,
+  "volumes": 2,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "LIGHT_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1747824259,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx115474-uIGQcCmifLBb.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115474-uIGQcCmifLBb.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx115474-uIGQcCmifLBb.jpg",
+    "color": "#e4931a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 61,
+  "popularity": 49,
+  "favourites": 2,
+  "tags": [
+    {
+      "id": 1752,
+      "name": "Medieval",
+      "description": "Partially or completely set in the Middle Ages or a Middle Ages-inspired setting. Commonly features elements such as European castles and knights.",
+      "category": "Setting-Time",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 39,
+      "name": "Parody",
+      "description": "Features deliberate exaggeration of popular tropes or a particular genre to comedic effect.",
+      "category": "Theme-Comedy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 89062,
+          "title": {
+            "native": "悪ノ娘"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 143073,
+          "name": {
+            "first": "Riliane",
+            "last": "Lucifen d'Autriche",
+            "native": "リリアンヌ・ルシフェン・ドートゥリシュ",
+            "alternative": [
+              "The Daughter of Evil"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143073-2UspY4ilaHOF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143073-2UspY4ilaHOF.png"
+          },
+          "siteUrl": "https://anilist.co/character/143073"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 259303,
+          "name": {
+            "first": "Gumillia",
+            "last": "Matsumoto",
+            "native": "グーミリア",
+            "alternative": [
+              "Heidemarie Lorre",
+              "Eighth Sniper",
+              "Master of the Hellish Yard"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b259303-DE4IuHTVbrmt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b259303-DE4IuHTVbrmt.png"
+          },
+          "siteUrl": "https://anilist.co/character/259303"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 259302,
+          "name": {
+            "first": "Clarith",
+            "last": "",
+            "native": "クラリス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b259302-FQG8zPPSP8Mg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b259302-FQG8zPPSP8Mg.png"
+          },
+          "siteUrl": "https://anilist.co/character/259302"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 143074,
+          "name": {
+            "first": "Allen",
+            "last": "Avadonia",
+            "native": "アレン・アヴァドニア",
+            "alternative": [
+              "Alexiel Lucifen d'Autriche",
+              "The Servant of Evil",
+              "Irregular",
+              "Ren"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143074-fhmqqRnAKy00.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143074-fhmqqRnAKy00.png"
+          },
+          "siteUrl": "https://anilist.co/character/143074"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 143071,
+          "name": {
+            "first": "Elluka ",
+            "last": "Clockworker",
+            "native": "エルルカ・クロックワーカー",
+            "alternative": [
+              "The Witch of Beelzenia",
+              "Sorceress of Time",
+              "Hanne Lorre",
+              "Margarita Blankenheim",
+              "Seventh Magician"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143071-d7a4SwdqrdJ2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143071-d7a4SwdqrdJ2.png"
+          },
+          "siteUrl": "https://anilist.co/character/143071"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 184900,
+          "name": {
+            "first": "Kyle",
+            "last": "Marlon",
+            "native": "カイル・マーロン",
+            "alternative": [
+              "Karchess Crim (カーチェス＝クリム)",
+              "Masked Man"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184900-5vtJgyZXkEDs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184900-5vtJgyZXkEDs.png"
+          },
+          "siteUrl": "https://anilist.co/character/184900"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 184899,
+          "name": {
+            "first": "Germaine",
+            "last": "Avadonia",
+            "native": "ジェルメイヌ・アヴァドニア",
+            "alternative": [
+              "Zita C. Beelzenia",
+              "Hero of the Revolution"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184899-VJVGSUDGEdpx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b184899-VJVGSUDGEdpx.png"
+          },
+          "siteUrl": "https://anilist.co/character/184899"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 143072,
+          "name": {
+            "first": "Chartette",
+            "last": "Langley",
+            "native": "シャルテット・ラングレー",
+            "alternative": [
+              "Saruteito"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143072-OfBd0vHf5gFp.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143072-OfBd0vHf5gFp.png"
+          },
+          "siteUrl": "https://anilist.co/character/143072"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 259299,
+          "name": {
+            "first": "Michaela",
+            "last": "",
+            "native": "ミカエラ",
+            "alternative": [
+              "Michael Arklow"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b259299-WPSpOuRYCHlI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b259299-WPSpOuRYCHlI.png"
+          },
+          "siteUrl": "https://anilist.co/character/259299"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 259300,
+          "name": {
+            "first": "Anne",
+            "last": "d'Autriche",
+            "native": "アンネ・ルシフェン・ドートゥリシュ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b259300-2aJVT1dxHdrg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b259300-2aJVT1dxHdrg.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/259300"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 260312,
+          "name": {
+            "first": "Yukina",
+            "last": "Freezis",
+            "native": "ユキナ・フリージス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260312-j64ULib0aSo2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260312-j64ULib0aSo2.png"
+          },
+          "siteUrl": "https://anilist.co/character/260312"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 260311,
+          "name": {
+            "first": "Ney",
+            "last": "Phutapie",
+            "native": "ネイ・フタピエ",
+            "alternative": [
+              "Ney Marlon"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260311-DmkUpPgAaqHF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260311-DmkUpPgAaqHF.png"
+          },
+          "siteUrl": "https://anilist.co/character/260311"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 260313,
+          "name": {
+            "first": "Keel",
+            "last": "Freezis",
+            "native": "キール・フリージス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260313-2uZUBjtN30dJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b260313-2uZUBjtN30dJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/260313"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 160371,
+          "name": {
+            "first": "Ken",
+            "last": null,
+            "native": "けん"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/160371"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 42218,
+      "url": "https://comic-walker.com/contents/detail/KDCW_AM09000001010000_68/",
+      "site": "ComicWalker"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 115324,
+          "rating": 4,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 94874,
+            "title": {
+              "native": "悪ノ娘 第一幕"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115326,
+          "rating": 2,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 61289,
+            "title": {
+              "native": "ちびミクさん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115328,
+          "rating": 2,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 94199,
+            "title": {
+              "native": "千本桜"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115330,
+          "rating": 2,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 41128,
+            "title": {
+              "native": "みくよん"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115332,
+          "rating": 2,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 48248,
+            "title": {
+              "native": "はちゅねミクの日常ろいぱら！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115334,
+          "rating": 2,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 115126,
+            "title": {
+              "native": "未来デリバリー ちいさなアシモフと緑の忘れ物"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115336,
+          "rating": 2,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 79753,
+            "title": {
+              "native": "GUMI from Vocaloid"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115339,
+          "rating": 1,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 91876,
+            "title": {
+              "native": "初音ミク -Project DIVA- オムニバスコミック"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115355,
+          "rating": 2,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 98545,
+            "title": {
+              "native": "Bad∞End∞Night～インセイン・パーティー～"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115365,
+          "rating": 1,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 85280,
+            "title": {
+              "native": "モザイクロール"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115381,
+          "rating": 1,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 91429,
+            "title": {
+              "native": "弱虫モンブラン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 115393,
+          "rating": 2,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 90104,
+            "title": {
+              "native": "リンちゃんなう"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 127743,
+          "rating": 1,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 90377,
+            "title": {
+              "native": "林檎売りの泡沫少女"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 127813,
+          "rating": 1,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 81773,
+            "title": {
+              "native": "シリョクケンサ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 263114,
+          "rating": 1,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 90071,
+            "title": {
+              "native": "ヴェノマニア公の狂気"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 263115,
+          "rating": 1,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 93166,
+            "title": {
+              "native": "悪ノ召使 ~おぺらぶっふぁ!~"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 263119,
+          "rating": 2,
+          "media": {
+            "id": 115474,
+            "title": {
+              "native": "あくむす"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 56196,
+            "title": {
+              "native": "悪ノ召使"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 1
+      },
+      {
+        "score": 70,
+        "amount": 3
+      },
+      {
+        "score": 80,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 4
+      },
+      {
+        "status": "PLANNING",
+        "amount": 34
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 8
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1
+      },
+      {
+        "status": "PAUSED",
+        "amount": 2
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/115474",
+  "modNotes": null
+}

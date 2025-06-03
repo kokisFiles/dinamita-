@@ -1,0 +1,513 @@
+{
+  "id": 107913,
+  "idMal": 38410,
+  "title": {
+    "native": "刺客伍六七 番外",
+    "romaji": "Cike Wu Liuqi Fanwai",
+    "english": "Scissor Seven Extras"
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "Extra episodes of Scissor Seven that focus on Thirteen and Dabao.",
+  "startDate": {
+    "year": 2018,
+    "month": 8,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2018,
+    "month": 8,
+    "day": 22
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 4,
+  "duration": 11,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748873924,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107913-kM9fv7X13cXe.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107913-kM9fv7X13cXe.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx107913-kM9fv7X13cXe.jpg",
+    "color": "#c97835"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mystery"
+  ],
+  "synonyms": [
+    "Cike Wuliuqi Fanwai",
+    "Ci Ke Wu Liu Qi: Fan Wai",
+    "Assassin Seven: Extra Story"
+  ],
+  "averageScore": 75,
+  "meanScore": 75,
+  "popularity": 9474,
+  "favourites": 131,
+  "tags": [
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 30,
+      "name": "Martial Arts",
+      "description": "Centers around the use of traditional hand-to-hand combat.",
+      "category": "Theme-Action",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 322,
+      "name": "Assassins",
+      "description": "Centers around characters who murder people as a profession.",
+      "category": "Theme-Other-Organisations",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 30,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 252,
+      "name": "Revenge",
+      "description": "Prominently features a character who aims to exact punishment in a resentful or vindictive manner.",
+      "category": "Theme-Drama",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 20,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 107912,
+          "title": {
+            "native": "刺客伍六七"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 183426,
+          "title": {
+            "native": "刺客伍六七"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 147099,
+          "name": {
+            "first": "Xiaofei",
+            "last": "Ji",
+            "native": "小飞鸡",
+            "alternative": [
+              "Little Flying Chicken"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b147099-4PNOfwhm9Deo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b147099-4PNOfwhm9Deo.png"
+          },
+          "siteUrl": "https://anilist.co/character/147099"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 147089,
+          "name": {
+            "first": "Dabao",
+            "last": "Ji",
+            "native": "鸡大保",
+            "alternative": [
+              "Dai Bo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b147089-ITLt2gV78acI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b147089-ITLt2gV78acI.png"
+          },
+          "siteUrl": "https://anilist.co/character/147089"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 147092,
+          "name": {
+            "first": "Shisan",
+            "last": "Meihua",
+            "native": "梅花十三",
+            "alternative": [
+              "Thirteen",
+              "Plum Blossom 13"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b147092-vZwfvoDCO71h.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b147092-vZwfvoDCO71h.png"
+          },
+          "siteUrl": "https://anilist.co/character/147092"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 227672,
+          "name": {
+            "first": "",
+            "last": "Shanji Wang",
+            "native": "山鸡王",
+            "alternative": [
+              "King Pheasant"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b227672-vAgpnlSmbPKr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b227672-vAgpnlSmbPKr.png"
+          },
+          "siteUrl": "https://anilist.co/character/227672"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 227671,
+          "name": {
+            "first": "Dafei",
+            "last": "Ji",
+            "native": "鸡大飞",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b227671-ZEmrBc45keq6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b227671-ZEmrBc45keq6.png"
+          },
+          "siteUrl": "https://anilist.co/character/227671"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 227673,
+          "name": {
+            "first": null,
+            "last": "Ji Chang Laoban",
+            "native": "鸡场老板",
+            "alternative": [
+              "Chickenfarm Owner"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b227673-Fl7SYZ4Jw1WB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b227673-Fl7SYZ4Jw1WB.png"
+          },
+          "siteUrl": "https://anilist.co/character/227673"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 227670,
+          "name": {
+            "first": "Qingfeng",
+            "last": "",
+            "native": "青凤",
+            "alternative": [
+              "Green Phoenix",
+              "十三师傅 (Shisan Shifu)",
+              "Thirteen's Master"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b227670-HDSsCdJAHonE.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b227670-HDSsCdJAHonE.png"
+          },
+          "siteUrl": "https://anilist.co/character/227670"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 228350,
+          "name": {
+            "first": null,
+            "last": "Meihua Daxia",
+            "native": "梅花大侠",
+            "alternative": [
+              "Plum Blossom Swordsman",
+              "Master Wintersweet"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b228350-zrxjwyPh85QA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b228350-zrxjwyPh85QA.png"
+          },
+          "siteUrl": "https://anilist.co/character/228350"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 227649,
+          "name": {
+            "first": null,
+            "last": "Chen Bo",
+            "native": "陈伯",
+            "alternative": [
+              "Uncle Chen"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b227649-7ul1DFyA7m7T.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b227649-7ul1DFyA7m7T.png"
+          },
+          "siteUrl": "https://anilist.co/character/227649"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 147093,
+          "name": {
+            "first": "Liuqi",
+            "last": "Wu",
+            "native": "伍六七",
+            "alternative": [
+              "Seven"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b147093-o39WBmBYj5Z1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b147093-o39WBmBYj5Z1.png"
+          },
+          "siteUrl": "https://anilist.co/character/147093"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 156837,
+          "name": {
+            "first": "Xiaofeng",
+            "last": "He",
+            "native": "何小疯"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156837-G4AN9cNYEWSo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n156837-G4AN9cNYEWSo.png"
+          },
+          "description": "__[Weibo](https://weibo.com/1766754864) | [Bilibili](https://space.bilibili.com/25175513)__",
+          "siteUrl": "https://anilist.co/staff/156837"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6333,
+          "name": "Sharefun Studio",
+          "siteUrl": "https://anilist.co/studio/6333"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6697,
+          "name": "Aha Entertainment",
+          "siteUrl": "https://anilist.co/studio/6697"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 14443,
+      "url": "https://www.netflix.com/title/81156880",
+      "site": "Netflix"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22774,
+      "rank": 11,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2018,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 22819,
+      "rank": 26,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2018,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 401123,
+          "rating": 1,
+          "media": {
+            "id": 107913,
+            "title": {
+              "native": "刺客伍六七 番外"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 159490,
+            "title": {
+              "native": "伍六七之暗影宿命"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 13
+      },
+      {
+        "score": 20,
+        "amount": 10
+      },
+      {
+        "score": 30,
+        "amount": 18
+      },
+      {
+        "score": 40,
+        "amount": 41
+      },
+      {
+        "score": 50,
+        "amount": 162
+      },
+      {
+        "score": 60,
+        "amount": 389
+      },
+      {
+        "score": 70,
+        "amount": 1195
+      },
+      {
+        "score": 80,
+        "amount": 1315
+      },
+      {
+        "score": 90,
+        "amount": 642
+      },
+      {
+        "score": 100,
+        "amount": 351
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 221
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1347
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 7803
+      },
+      {
+        "status": "DROPPED",
+        "amount": 49
+      },
+      {
+        "status": "PAUSED",
+        "amount": 54
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/107913",
+  "modNotes": null
+}

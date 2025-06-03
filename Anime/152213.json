@@ -1,0 +1,325 @@
+{
+  "id": 152213,
+  "idMal": null,
+  "title": {
+    "native": "斗罗大陆 奔赴前线",
+    "romaji": "Douluo Dalu: Benfu Qianxian",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "The 16th part of <i>Douluo Dalu</i>.\n<br><br>\n<i>Note: Episodes 218 to 220.</i>",
+  "startDate": {
+    "year": 2022,
+    "month": 7,
+    "day": 23
+  },
+  "endDate": {
+    "year": 2022,
+    "month": 8,
+    "day": 6
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 3,
+  "duration": 21,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "CN",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748905889,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152213-9lDVB4ZQ3Ijj.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152213-9lDVB4ZQ3Ijj.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx152213-9lDVB4ZQ3Ijj.png",
+    "color": "#50a1e4"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "synonyms": [
+    "斗罗大陆 第十六部分",
+    "Douluo Dalu Part 16",
+    "Soul Land Part 16"
+  ],
+  "averageScore": 77,
+  "meanScore": 83,
+  "popularity": 997,
+  "favourites": 40,
+  "tags": [
+    {
+      "id": 89,
+      "name": "Full CGI",
+      "description": "Almost entirely created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 326,
+      "name": "Cultivation",
+      "description": "Features characters using training, often martial arts-related, and other special methods to cultivate qi (a component of traditional Chinese philosophy, described as \"life force\") and gain strength or immortality.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 152212,
+          "title": {
+            "native": "斗罗大陆 归宗之路"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 153424,
+          "title": {
+            "native": "斗罗大陆 敌影来袭"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 142002,
+          "name": {
+            "first": "San ",
+            "last": "Tang",
+            "native": "唐三",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142002-UL8afUcmXJek.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142002-UL8afUcmXJek.png"
+          },
+          "siteUrl": "https://anilist.co/character/142002"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 142008,
+          "name": {
+            "first": "Xiaowu",
+            "last": null,
+            "native": "小舞",
+            "alternative": [
+              "Xiao Wu Jie",
+              "Mei Gongzi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142008-FYqp34I6Nxs9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b142008-FYqp34I6Nxs9.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/142008"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 118733,
+          "name": {
+            "first": "Tang Jia San Shao",
+            "last": "",
+            "native": "唐家三少"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118733-flMoWFcUFsDK.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118733-flMoWFcUFsDK.png"
+          },
+          "description": "__[Weibo](https://weibo.com/1213328234)__",
+          "siteUrl": "https://anilist.co/staff/118733"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 6382,
+          "name": "Tencent Penguin Pictures",
+          "siteUrl": "https://anilist.co/studio/6382"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 6393,
+          "name": "Sparkly Key Animation",
+          "siteUrl": "https://anilist.co/studio/6393"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 334806,
+          "airingAt": 1658541600,
+          "episode": 1,
+          "mediaId": 152213,
+          "media": {
+            "id": 152213
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 334807,
+          "airingAt": 1659146400,
+          "episode": 2,
+          "mediaId": 152213,
+          "media": {
+            "id": 152213
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 334808,
+          "airingAt": 1659751200,
+          "episode": 3,
+          "mediaId": 152213,
+          "media": {
+            "id": 152213
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 54117,
+      "url": "https://v.qq.com/detail/m/m441e3rjq9kwpsc.html",
+      "site": "Tencent Video"
+    },
+    {
+      "id": 54118,
+      "url": "https://weibo.com/u/5871795666",
+      "site": "Weibo"
+    },
+    {
+      "id": 54119,
+      "url": "https://www.youtube.com/playlist?list=PLxOs22nkVmnJV5YGIKqb1I7v-9g7KdMGk",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 23020,
+      "rank": 17,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2022,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 8
+      },
+      {
+        "score": 60,
+        "amount": 9
+      },
+      {
+        "score": 70,
+        "amount": 51
+      },
+      {
+        "score": 80,
+        "amount": 89
+      },
+      {
+        "score": 90,
+        "amount": 98
+      },
+      {
+        "score": 100,
+        "amount": 79
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 25
+      },
+      {
+        "status": "PLANNING",
+        "amount": 107
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 843
+      },
+      {
+        "status": "DROPPED",
+        "amount": 19
+      },
+      {
+        "status": "PAUSED",
+        "amount": 3
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/152213",
+  "modNotes": null
+}

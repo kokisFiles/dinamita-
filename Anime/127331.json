@@ -1,0 +1,834 @@
+{
+  "id": 127331,
+  "idMal": 44616,
+  "title": {
+    "native": "映画クレヨンしんちゃん 謎メキ！花の天カス学園",
+    "romaji": "Crayon Shin-chan: Nazo Meki! Hana no Tenkasu Gakuen",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": null,
+  "startDate": {
+    "year": 2021,
+    "month": 7,
+    "day": 30
+  },
+  "endDate": {
+    "year": 2021,
+    "month": 7,
+    "day": 30
+  },
+  "season": "SUMMER",
+  "seasonYear": 2021,
+  "seasonInt": 213,
+  "episodes": 1,
+  "duration": 105,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": "#クレヨンしんちゃん #しんちゃん",
+  "trailer": {
+    "id": "k_gm1vN1frw",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/k_gm1vN1frw/hqdefault.jpg"
+  },
+  "updatedAt": 1748859865,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127331-QvPf0RvbGSo9.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127331-QvPf0RvbGSo9.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx127331-QvPf0RvbGSo9.png",
+    "color": "#e4935d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [
+    "Crayon Shin-chan: Shrouded in Mystery! The Flowers of Tenkazu Academy"
+  ],
+  "averageScore": 73,
+  "meanScore": 76,
+  "popularity": 1286,
+  "favourites": 20,
+  "tags": [
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 446,
+      "name": "Primarily Child Cast",
+      "description": "Main cast is mostly composed of characters below a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 694,
+      "name": "Detective",
+      "description": "Features a character who investigates and solves crimes.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 356,
+      "name": "Gyaru",
+      "description": "Prominently features a female character who has a distinct American-emulated fashion style, such as tanned skin, bleached hair, and excessive makeup. Also known as gal.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 517,
+      "name": "Artificial Intelligence",
+      "description": "Intelligent non-organic machines that work and react similarly to humans.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 966,
+          "title": {
+            "native": "クレヨンしんちゃん"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 111312,
+          "title": {
+            "native": "映画クレヨンしんちゃん 激突！ラクガキングダムとほぼ四人の勇者"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 142549,
+          "title": {
+            "native": "映画クレヨンしんちゃん もののけニンジャ珍風伝"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7862,
+          "name": {
+            "first": "Tooru",
+            "last": "Kazama",
+            "native": "風間トオル",
+            "alternative": [
+              "Georgie Prescott",
+              "Cosmo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7862.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7862.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7862"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7853,
+          "name": {
+            "first": "Bou-chan",
+            "last": "",
+            "native": "ボーちゃん",
+            "alternative": [
+              "Boo-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7853-dQihKEkfF8Hk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7853-dQihKEkfF8Hk.png"
+          },
+          "siteUrl": "https://anilist.co/character/7853"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7861,
+          "name": {
+            "first": "Nene",
+            "last": "Sakurada",
+            "native": "桜田ネネ",
+            "alternative": [
+              "Penny Milfer"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7861-J50MV4iGXl5U.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7861-J50MV4iGXl5U.png"
+          },
+          "siteUrl": "https://anilist.co/character/7861"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2951,
+          "name": {
+            "first": "Shinnosuke",
+            "last": "Nohara",
+            "native": "野原しんのすけ",
+            "alternative": [
+              "Shin-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2951-Bs571jmT5Xym.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2951-Bs571jmT5Xym.png"
+          },
+          "siteUrl": "https://anilist.co/character/2951"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 7863,
+          "name": {
+            "first": "Masao",
+            "last": "Sato",
+            "native": "佐藤マサオ",
+            "alternative": [
+              "Max"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7863.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7863.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7863"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 98293,
+          "name": {
+            "first": "Yoshito",
+            "last": "Usui",
+            "native": "臼井儀人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98293-sPwWTGzCRKp3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n98293-sPwWTGzCRKp3.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/臼井儀人)\n\nA mangaka known for the popular [Crayon Shin-chan](https://anilist.co/manga/32435/) series.",
+          "siteUrl": "https://anilist.co/staff/98293"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 188100,
+          "name": {
+            "first": "Macaroni Enpitsu",
+            "last": null,
+            "native": "マカロニえんぴつ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188100-p1uT5IPglMyk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n188100-p1uT5IPglMyk.png"
+          },
+          "description": "[Official Site](http://macaroniempitsu.com/) | [YouTube](https://www.youtube.com/channel/UCA_UP6PQndF0bE2sUGkCX0g) | [Twitter](https://twitter.com/macarock0616) \n\n__Members:__\n- Hattori (はっとり, real name: Ryunosuke Kouno 河野瑠之介) — Vocals, Guitar, Songwriter\n- Kenya Takano (高野賢也) — Bass\n- Yoshiaki Tanabe (田辺由明) — Guitar\n- Daike Hasegawa (長谷川大喜) — Keyboard\n\n__Former Members:__\n- Sati (サティ, real name: Masayoshi Sato) — Drums (left September 24, 2017)",
+          "siteUrl": "https://anilist.co/staff/188100"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 124082,
+          "name": {
+            "first": "Hideo",
+            "last": "Hariganeya",
+            "native": "針金屋英郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124082-mB52fv12523Y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n124082-mB52fv12523Y.png"
+          },
+          "description": "[Twitter](https://x.com/Hariganeyan)",
+          "siteUrl": "https://anilist.co/staff/124082"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 118926,
+          "name": {
+            "first": "Maki",
+            "last": "Morio",
+            "native": "森尾麻紀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/118926"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 197454,
+          "name": {
+            "first": "Daisuke",
+            "last": "Yamazaki",
+            "native": "山崎大輔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Daisuke Yamazaki is a digital painter.",
+          "siteUrl": "https://anilist.co/staff/197454"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 153788,
+          "name": {
+            "first": "Katsunori",
+            "last": "Hara",
+            "native": "原勝徳"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/153788"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 116579,
+          "name": {
+            "first": "Toshiyuki",
+            "last": "Arakawa",
+            "native": "荒川敏行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116579-1Ruaecn05EZR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116579-1Ruaecn05EZR.jpg"
+          },
+          "description": "__Date of Birth:__ 1953 \n__Place of Birth:__ Japan \n\nA music composer and member of the Japanese Society for Rights of Authors, Composers and Publishers (JASRAC). He graduated from the Department of Literature at Chuo University and joined afterwards Nippon Columbia as music director. \n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/116579"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 118493,
+          "name": {
+            "first": "Kimiko",
+            "last": "Ueno",
+            "native": "うえのきみこ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118493-zaypQQMzsi1m.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118493-zaypQQMzsi1m.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/うえのきみこ)",
+          "siteUrl": "https://anilist.co/staff/118493"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 117345,
+          "name": {
+            "first": "Akira",
+            "last": "Ookuma",
+            "native": "大熊昭"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/大熊昭)",
+          "siteUrl": "https://anilist.co/staff/117345"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 130910,
+          "name": {
+            "first": "Yuuichirou",
+            "last": "Sueyoshi",
+            "native": "末吉裕一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n130910-70yLdyhGVN6V.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n130910-70yLdyhGVN6V.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/末吉裕一郎)",
+          "siteUrl": "https://anilist.co/staff/130910"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 118933,
+          "name": {
+            "first": "Michio",
+            "last": "Mihara",
+            "native": "三原三千夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/23933-x9FWh7rrvQ3J.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/23933-x9FWh7rrvQ3J.png"
+          },
+          "description": "[Twitter](https://twitter.com/3and15) | [Wiki (jp)](https://ja.wikipedia.org/wiki/三原三千夫)",
+          "siteUrl": "https://anilist.co/staff/118933"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 222277,
+          "name": {
+            "first": "Toshiyuki",
+            "last": "Umeda",
+            "native": "梅田俊之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/222277"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 100072,
+          "name": {
+            "first": "Kou",
+            "last": "Ootani",
+            "native": "大谷幸"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100072-FCkm3273M15s.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100072-FCkm3273M15s.png"
+          },
+          "description": "[Profile](https://www.imagine-music.co.jp/artist/index/9) | [Twitter](http://twitter.com/kowotani)\n\nAfter graduating from university, he became a founding member of Yuji Saito's music production company IMAGINE in November 1986. The company has grown to feature musicians like Kohei Tanaka, Shiro Hamaguchi, Hayato Matsuo, and Shinji Miyazaki, who have become well known for cinematic scoring and orchestration through Otani. \n\nIn 1987, he made his debut as an anime composer with the popular manga adaptation City Hunter, which earned him recognition in the industry. He later went on to work on titles such as Spy Games (1988), The Ultimate Teacher (1988), The Yadamura Waltz (1988), and You're Under Arrest (1994). The anime Future GPX Cyber Formula (1991) and Mobile Suit Gundam Wing (1995) and several films in the Gamera series are some of his most well-known works.  In 2001, he created the score to the film Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack. Other notable scores by Otani include Outlaw Star (1998), Gundam Wing: Endless Waltz (1998), Cross Fire (2000), The SoulTaker (2001), Haibane Renmei (2002), Zatch Bell! (2003), Eyeshield 21 (2005), Pumpkin Scissors (2006), Deltora Quest (2007), and Over Drive (2007). He has also been the music director and keyboardist of the band Dreams Come True. He appeared at Eminence Symphony Orchestra's events A Night in Fantasia 2007: Symphonic Games Edition and Unearthing Eden ~The sounds of AINARU~ in 2007.  \n\nThroughout his career, Otani has also composed music for several video games, making his debut with the 1995 shooter game Philosoma. In 2000, he created the soundtrack to the flight simulator Sky Odyssey. He scored Shadow of the Colossus in 2005, his most famous video game work. Otani was responsible for composing the music for Wild Arms: Twilight Venom (2000), an anime adaptation of the Wild Arms video game series; he also arranged compositions of Michiko Naruke's music from the series. He did two more video game to anime adaptations: Night Warriors: Darkstalkers' Revenge (1997) and Popolocrois Monogatari (1998). In 2005, he created the track \"Madness\" alongside Hiroko Shigezumi for the Square Enix game Heavy Metal Thunder.",
+          "siteUrl": "https://anilist.co/staff/100072"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 148341,
+          "name": {
+            "first": "Keiki",
+            "last": "Miyake",
+            "native": "三宅圭貴"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n148341-lSahyR41Fyyk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n148341-lSahyR41Fyyk.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/148341"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 156488,
+          "name": {
+            "first": "Kensuke",
+            "last": "Suzuki",
+            "native": "鈴木健介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/156488"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 267389,
+          "name": {
+            "first": "Takatoshi",
+            "last": "Oomori",
+            "native": "大森孝敏"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/267389"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 267392,
+          "name": {
+            "first": "Rinko",
+            "last": "Akiyama",
+            "native": "秋山倫子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/267392"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 267390,
+          "name": {
+            "first": "Takanobu",
+            "last": "Sano",
+            "native": "佐野敬信"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/267390"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 267391,
+          "name": {
+            "first": "Satoshi",
+            "last": "Yamazaki",
+            "native": "山﨑智史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/267391"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 118513,
+          "name": {
+            "first": "Wataru",
+            "last": "Takahashi",
+            "native": "高橋渉"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118513-gybp7H53Qt4x.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118513-gybp7H53Qt4x.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/高橋渉_(アニメ演出家%29)",
+          "siteUrl": "https://anilist.co/staff/118513"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 118933,
+          "name": {
+            "first": "Michio",
+            "last": "Mihara",
+            "native": "三原三千夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/23933-x9FWh7rrvQ3J.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/23933-x9FWh7rrvQ3J.png"
+          },
+          "description": "[Twitter](https://twitter.com/3and15) | [Wiki (jp)](https://ja.wikipedia.org/wiki/三原三千夫)",
+          "siteUrl": "https://anilist.co/staff/118933"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 148558,
+          "name": {
+            "first": "You",
+            "last": "Miura",
+            "native": "三浦陽"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/148558"
+        }
+      },
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 197608,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Suzuki",
+            "native": "鈴木大司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Hiroshi Suzuki is an animator.",
+          "siteUrl": "https://anilist.co/staff/197608"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 197608,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Suzuki",
+            "native": "鈴木大司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Hiroshi Suzuki is an animator.",
+          "siteUrl": "https://anilist.co/staff/197608"
+        }
+      },
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 118933,
+          "name": {
+            "first": "Michio",
+            "last": "Mihara",
+            "native": "三原三千夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/23933-x9FWh7rrvQ3J.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/23933-x9FWh7rrvQ3J.png"
+          },
+          "description": "[Twitter](https://twitter.com/3and15) | [Wiki (jp)](https://ja.wikipedia.org/wiki/三原三千夫)",
+          "siteUrl": "https://anilist.co/staff/118933"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 247,
+          "name": "Shin-Ei Animation",
+          "siteUrl": "https://anilist.co/studio/247"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 304718,
+          "airingAt": 1618498800,
+          "episode": 1,
+          "mediaId": 127331,
+          "media": {
+            "id": 127331
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 26097,
+      "url": "https://www.shinchan-movie.com/",
+      "site": "Official Site"
+    },
+    {
+      "id": 26098,
+      "url": "https://twitter.com/crayon_official",
+      "site": "Twitter"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 19103,
+      "rank": 35,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2021,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 19196,
+      "rank": 56,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2021,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 5
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 28
+      },
+      {
+        "score": 60,
+        "amount": 47
+      },
+      {
+        "score": 70,
+        "amount": 99
+      },
+      {
+        "score": 80,
+        "amount": 120
+      },
+      {
+        "score": 90,
+        "amount": 151
+      },
+      {
+        "score": 100,
+        "amount": 34
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 42
+      },
+      {
+        "status": "PLANNING",
+        "amount": 411
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 791
+      },
+      {
+        "status": "DROPPED",
+        "amount": 27
+      },
+      {
+        "status": "PAUSED",
+        "amount": 15
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/127331",
+  "modNotes": null
+}

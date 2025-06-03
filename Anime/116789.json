@@ -1,0 +1,840 @@
+{
+  "id": 116789,
+  "idMal": 41470,
+  "title": {
+    "native": "みっちりわんこ！あにめ～しょん",
+    "romaji": "Micchiri Wanko! Animation",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "Spin-off of Micchiri Neko.",
+  "startDate": {
+    "year": 2020,
+    "month": 4,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2020,
+    "month": 9,
+    "day": 9
+  },
+  "season": "SPRING",
+  "seasonYear": 2020,
+  "seasonInt": 202,
+  "episodes": 24,
+  "duration": 5,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748774682,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116789-QCRGjlJzvLjl.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116789-QCRGjlJzvLjl.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx116789-QCRGjlJzvLjl.jpg",
+    "color": "#ffae35"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 56,
+  "popularity": 345,
+  "favourites": 3,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 100849,
+          "title": {
+            "native": "みっちりねこ"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 164127,
+          "name": {
+            "first": "Louis",
+            "last": null,
+            "native": "ルイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164127-0kVkJY7mUBRY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164127-0kVkJY7mUBRY.png"
+          },
+          "siteUrl": "https://anilist.co/character/164127"
+        },
+        "voiceActors": [
+          {
+            "id": 125943,
+            "name": {
+              "first": "Yui",
+              "last": "Ninomiya",
+              "native": "二ノ宮ゆい"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n125943-d3vdb6kAbOzI.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n125943-d3vdb6kAbOzI.png"
+            },
+            "siteUrl": "https://anilist.co/staff/125943"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 164128,
+          "name": {
+            "first": "Haru",
+            "last": null,
+            "native": "ハル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164128-FHgY0H7vH40l.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164128-FHgY0H7vH40l.png"
+          },
+          "siteUrl": "https://anilist.co/character/164128"
+        },
+        "voiceActors": [
+          {
+            "id": 143712,
+            "name": {
+              "first": "Rin",
+              "last": "Aira",
+              "native": "逢来りん"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n143712-7to1zjoc9gGc.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n143712-7to1zjoc9gGc.png"
+            },
+            "siteUrl": "https://anilist.co/staff/143712"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 164130,
+          "name": {
+            "first": "Leo",
+            "last": null,
+            "native": "レオ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164130-OCInbKx2Qlme.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164130-OCInbKx2Qlme.png"
+          },
+          "siteUrl": "https://anilist.co/character/164130"
+        },
+        "voiceActors": [
+          {
+            "id": 125939,
+            "name": {
+              "first": "Akane",
+              "last": "Matsunaga",
+              "native": "松永あかね"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n125939-mkdxiBTIvNVN.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n125939-mkdxiBTIvNVN.png"
+            },
+            "siteUrl": "https://anilist.co/staff/125939"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 164129,
+          "name": {
+            "first": "Kotetsu",
+            "last": null,
+            "native": "コテツ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164129-YerFIcilh9S4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164129-YerFIcilh9S4.png"
+          },
+          "siteUrl": "https://anilist.co/character/164129"
+        },
+        "voiceActors": [
+          {
+            "id": 164131,
+            "name": {
+              "first": "Kentarou",
+              "last": "Mashiro",
+              "native": "真白健太朗"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164131-O71pY8fnjVah.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n164131-O71pY8fnjVah.png"
+            },
+            "siteUrl": "https://anilist.co/staff/164131"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 164134,
+          "name": {
+            "first": "Moko",
+            "last": null,
+            "native": "モコ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164134-vfjMnjSoNIbJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164134-vfjMnjSoNIbJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/164134"
+        },
+        "voiceActors": [
+          {
+            "id": 127059,
+            "name": {
+              "first": "Suzuna",
+              "last": "Kinoshita",
+              "native": "木下鈴奈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/127059-ehOViWSeo1uf.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/127059-ehOViWSeo1uf.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/127059"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 164135,
+          "name": {
+            "first": "Lucky",
+            "last": null,
+            "native": "ラッキー",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164135-2tNSnl8Nhrd4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164135-2tNSnl8Nhrd4.png"
+          },
+          "siteUrl": "https://anilist.co/character/164135"
+        },
+        "voiceActors": [
+          {
+            "id": 164137,
+            "name": {
+              "first": "Akari",
+              "last": "Miyazaki",
+              "native": "宮咲あかり"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164137-i1U1MieaXoye.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n164137-i1U1MieaXoye.png"
+            },
+            "siteUrl": "https://anilist.co/staff/164137"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 164132,
+          "name": {
+            "first": "Kotarou",
+            "last": null,
+            "native": "コタロウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164132-3LnWzMUzfD5L.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164132-3LnWzMUzfD5L.png"
+          },
+          "siteUrl": "https://anilist.co/character/164132"
+        },
+        "voiceActors": [
+          {
+            "id": 164136,
+            "name": {
+              "first": "Suguru",
+              "last": "Narisawa",
+              "native": "成澤卓"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164136-E89Pn78Jx6Qf.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n164136-E89Pn78Jx6Qf.png"
+            },
+            "siteUrl": "https://anilist.co/staff/164136"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 164133,
+          "name": {
+            "first": "Hikomaro",
+            "last": null,
+            "native": "ヒコマロ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b164133-CQ0SGREjA0AL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b164133-CQ0SGREjA0AL.png"
+          },
+          "siteUrl": "https://anilist.co/character/164133"
+        },
+        "voiceActors": [
+          {
+            "id": 164138,
+            "name": {
+              "first": "Chihiro",
+              "last": "Nishimori",
+              "native": "西森千豊"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164138-cFsgZhoosIkH.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n164138-cFsgZhoosIkH.png"
+            },
+            "siteUrl": "https://anilist.co/staff/164138"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 152880,
+          "name": {
+            "first": "Yuuzou",
+            "last": "Yamamoto",
+            "native": "山本雄三"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n152880-e01cTZdsFY2d.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n152880-e01cTZdsFY2d.jpg"
+          },
+          "description": "__Born:__ 1985\n\n[Website](http://charaction.biz/) | [Twitter](https://twitter.com/yuzoo_com/)",
+          "siteUrl": "https://anilist.co/staff/152880"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 163481,
+          "name": {
+            "first": "Tadashi",
+            "last": "Satou",
+            "native": "佐藤正"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n163481-KGfqh6clWZWl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n163481-KGfqh6clWZWl.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/163481"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 856,
+          "name": "Charaction",
+          "siteUrl": "https://anilist.co/studio/856"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 297718,
+          "airingAt": 1585693800,
+          "episode": 1,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297719,
+          "airingAt": 1586298600,
+          "episode": 2,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297720,
+          "airingAt": 1586903400,
+          "episode": 3,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297721,
+          "airingAt": 1587508200,
+          "episode": 4,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297722,
+          "airingAt": 1588113000,
+          "episode": 5,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297723,
+          "airingAt": 1588717800,
+          "episode": 6,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297724,
+          "airingAt": 1589322600,
+          "episode": 7,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297725,
+          "airingAt": 1589927400,
+          "episode": 8,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297726,
+          "airingAt": 1590532200,
+          "episode": 9,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297727,
+          "airingAt": 1591137000,
+          "episode": 10,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297728,
+          "airingAt": 1591741800,
+          "episode": 11,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297729,
+          "airingAt": 1592346600,
+          "episode": 12,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297730,
+          "airingAt": 1592951400,
+          "episode": 13,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297731,
+          "airingAt": 1593556200,
+          "episode": 14,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297732,
+          "airingAt": 1594161000,
+          "episode": 15,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297733,
+          "airingAt": 1594765800,
+          "episode": 16,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297734,
+          "airingAt": 1595370600,
+          "episode": 17,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297735,
+          "airingAt": 1595975400,
+          "episode": 18,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297736,
+          "airingAt": 1596580200,
+          "episode": 19,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297737,
+          "airingAt": 1597185000,
+          "episode": 20,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297738,
+          "airingAt": 1597789800,
+          "episode": 21,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297739,
+          "airingAt": 1598394600,
+          "episode": 22,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297740,
+          "airingAt": 1598999400,
+          "episode": 23,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297741,
+          "airingAt": 1599604200,
+          "episode": 24,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 297742,
+          "airingAt": 1600209000,
+          "episode": 25,
+          "mediaId": 116789,
+          "media": {
+            "id": 116789
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 16416,
+      "url": "https://www.tv-tokyo.co.jp/anime/kinder/intro/sakuhin22/",
+      "site": "Official Site"
+    },
+    {
+      "id": 16417,
+      "url": "https://twitter.com/mitchiri_wanko",
+      "site": "Twitter"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 14268,
+      "rank": 9,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2020,
+      "season": "SPRING",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 187673,
+          "rating": 1,
+          "media": {
+            "id": 116789,
+            "title": {
+              "native": "みっちりわんこ！あにめ～しょん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 140369,
+            "title": {
+              "native": "도기코기"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 187691,
+          "rating": 1,
+          "media": {
+            "id": 116789,
+            "title": {
+              "native": "みっちりわんこ！あにめ～しょん"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 121799,
+            "title": {
+              "native": "アニメ カピバラさん"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 17
+      },
+      {
+        "score": 60,
+        "amount": 7
+      },
+      {
+        "score": 70,
+        "amount": 4
+      },
+      {
+        "score": 80,
+        "amount": 3
+      },
+      {
+        "score": 90,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 2
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 14
+      },
+      {
+        "status": "PLANNING",
+        "amount": 227
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 65
+      },
+      {
+        "status": "DROPPED",
+        "amount": 31
+      },
+      {
+        "status": "PAUSED",
+        "amount": 8
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/116789",
+  "modNotes": null
+}

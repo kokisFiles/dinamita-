@@ -1,0 +1,548 @@
+{
+  "id": 3737,
+  "idMal": 3737,
+  "title": {
+    "native": "ウサビッチ",
+    "romaji": "Usavich",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "Collection of animated shorts from MTV Japan and produced by Studio Kanaban that follows the misadventures of Kirenenko and Putin, two rabbits stuck in a Russian prison. ",
+  "startDate": {
+    "year": 2006,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": 2007,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 13,
+  "duration": 1,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748884622,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3737.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3737.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3737.jpg",
+    "color": "#e4861a"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "synonyms": [],
+  "averageScore": 59,
+  "meanScore": 60,
+  "popularity": 1382,
+  "favourites": 12,
+  "tags": [
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 341,
+      "name": "No Dialogue",
+      "description": "This work contains no dialogue.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1304,
+      "name": "Anthropomorphism",
+      "description": "Contains non-human character(s) that have attributes or characteristics of a human being.",
+      "category": "Cast-Traits",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 90,
+      "name": "CGI",
+      "description": "Prominently features scenes created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1427,
+      "name": "Prison",
+      "description": "Partly or completely set in a prison.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 3738,
+          "title": {
+            "native": "ウサビッチ"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 102103,
+          "title": {
+            "native": "ウサビッチZERO"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16001,
+          "name": {
+            "first": "Putin",
+            "last": null,
+            "native": "プーチン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16001.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16001.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16001"
+        },
+        "voiceActors": [
+          {
+            "id": 110253,
+            "name": {
+              "first": "Hironori",
+              "last": "Ueno",
+              "native": "上野大典"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/110253"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16000,
+          "name": {
+            "first": "Kirenenko",
+            "last": null,
+            "native": "キレネンコ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16000.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/16000.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/16000"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 50739,
+          "name": {
+            "first": "Leningrad",
+            "last": null,
+            "native": "レニングラード",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/50739.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/50739.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/50739"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 50745,
+          "name": {
+            "first": "Comăneci",
+            "last": null,
+            "native": "コマネチ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/50745.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/50745.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/50745"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 237278,
+          "name": {
+            "first": "Kanschkov",
+            "last": null,
+            "native": "カンシュコフ",
+            "alternative": [
+              "Каньсюков"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b237278-6IUpxcpefFyP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b237278-6IUpxcpefFyP.png"
+          },
+          "siteUrl": "https://anilist.co/character/237278"
+        },
+        "voiceActors": [
+          {
+            "id": 237279,
+            "name": {
+              "first": "Arato",
+              "last": "Morimura",
+              "native": "森村新人"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/237279"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 109443,
+          "name": {
+            "first": "Satoshi",
+            "last": "Tomioka",
+            "native": "聡 富岡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14443.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14443.jpg"
+          },
+          "description": "Skilled in computer animation, he's the founder of animation studio Kanaban Graphics.",
+          "siteUrl": "https://anilist.co/staff/109443"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 109443,
+          "name": {
+            "first": "Satoshi",
+            "last": "Tomioka",
+            "native": "聡 富岡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14443.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14443.jpg"
+          },
+          "description": "Skilled in computer animation, he's the founder of animation studio Kanaban Graphics.",
+          "siteUrl": "https://anilist.co/staff/109443"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 109443,
+          "name": {
+            "first": "Satoshi",
+            "last": "Tomioka",
+            "native": "聡 富岡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14443.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14443.jpg"
+          },
+          "description": "Skilled in computer animation, he's the founder of animation studio Kanaban Graphics.",
+          "siteUrl": "https://anilist.co/staff/109443"
+        }
+      },
+      {
+        "role": "Screenplay",
+        "node": {
+          "id": 109443,
+          "name": {
+            "first": "Satoshi",
+            "last": "Tomioka",
+            "native": "聡 富岡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14443.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14443.jpg"
+          },
+          "description": "Skilled in computer animation, he's the founder of animation studio Kanaban Graphics.",
+          "siteUrl": "https://anilist.co/staff/109443"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 109443,
+          "name": {
+            "first": "Satoshi",
+            "last": "Tomioka",
+            "native": "聡 富岡"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14443.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/14443.jpg"
+          },
+          "description": "Skilled in computer animation, he's the founder of animation studio Kanaban Graphics.",
+          "siteUrl": "https://anilist.co/staff/109443"
+        }
+      },
+      {
+        "role": "Sound Effects",
+        "node": {
+          "id": 110253,
+          "name": {
+            "first": "Hironori",
+            "last": "Ueno",
+            "native": "上野大典"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Hironori Ueno is a musician.",
+          "siteUrl": "https://anilist.co/staff/110253"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 110253,
+          "name": {
+            "first": "Hironori",
+            "last": "Ueno",
+            "native": "上野大典"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Hironori Ueno is a musician.",
+          "siteUrl": "https://anilist.co/staff/110253"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 330,
+          "name": "Kanaban Graphics",
+          "siteUrl": "https://anilist.co/studio/330"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 12365,
+      "rank": 7,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2006,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 12381,
+      "rank": 6,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2006,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 46615,
+          "rating": 3,
+          "media": {
+            "id": 3737,
+            "title": {
+              "native": "ウサビッチ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 102941,
+            "title": {
+              "native": "イナズマデリバリー 同業者アタック編"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 50759,
+          "rating": 2,
+          "media": {
+            "id": 3737,
+            "title": {
+              "native": "ウサビッチ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 102940,
+            "title": {
+              "native": "イナズマデリバリー"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 109229,
+          "rating": 3,
+          "media": {
+            "id": 3737,
+            "title": {
+              "native": "ウサビッチ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 6560,
+            "title": {
+              "native": "ポピーザぱフォーマー"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 31
+      },
+      {
+        "score": 20,
+        "amount": 24
+      },
+      {
+        "score": 30,
+        "amount": 30
+      },
+      {
+        "score": 40,
+        "amount": 44
+      },
+      {
+        "score": 50,
+        "amount": 104
+      },
+      {
+        "score": 60,
+        "amount": 151
+      },
+      {
+        "score": 70,
+        "amount": 149
+      },
+      {
+        "score": 80,
+        "amount": 96
+      },
+      {
+        "score": 90,
+        "amount": 51
+      },
+      {
+        "score": 100,
+        "amount": 28
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 23
+      },
+      {
+        "status": "PLANNING",
+        "amount": 294
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 986
+      },
+      {
+        "status": "DROPPED",
+        "amount": 61
+      },
+      {
+        "status": "PAUSED",
+        "amount": 18
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/3737",
+  "modNotes": null
+}

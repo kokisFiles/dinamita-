@@ -1,0 +1,526 @@
+{
+  "id": 127716,
+  "idMal": 51091,
+  "title": {
+    "native": "HOLOGRAM CIRCUS",
+    "romaji": "HOLOGRAM CIRCUS",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Original song by Chiaki Natsume sung by Polka Omaru.",
+  "startDate": {
+    "year": 2020,
+    "month": 12,
+    "day": 26
+  },
+  "endDate": {
+    "year": 2020,
+    "month": 12,
+    "day": 26
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 5,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": "",
+  "trailer": {
+    "id": "LQ_eazT56FA",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/LQ_eazT56FA/hqdefault.jpg"
+  },
+  "updatedAt": 1748773627,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127716-q8B0nUbBtRD8.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127716-q8B0nUbBtRD8.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx127716-q8B0nUbBtRD8.png",
+    "color": "#f15078"
+  },
+  "bannerImage": null,
+  "genres": [],
+  "synonyms": [],
+  "averageScore": 68,
+  "meanScore": 72,
+  "popularity": 949,
+  "favourites": 14,
+  "tags": [
+    {
+      "id": 476,
+      "name": "Circus",
+      "description": "Prominently features a circus.",
+      "category": "Setting-Scene",
+      "rank": 100,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 115,
+      "name": "Idol",
+      "description": "Centers around the life and activities of an idol.",
+      "category": "Cast-Traits",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1047,
+      "name": "VTuber",
+      "description": "Prominently features a character who is either an actual or fictive VTuber.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 118123,
+          "title": {
+            "native": "ホロのぐらふぃてぃ"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 201428,
+          "name": {
+            "first": "Polka",
+            "last": "Omaru",
+            "native": "尾丸ポルカ",
+            "alternative": [
+              "Zachou (座長)",
+              "Omarun"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b201428-aeJpOw6HZY7Q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b201428-aeJpOw6HZY7Q.png"
+          },
+          "siteUrl": "https://anilist.co/character/201428"
+        },
+        "voiceActors": [
+          {
+            "id": 201429,
+            "name": {
+              "first": "Polka",
+              "last": "Omaru",
+              "native": "尾丸ポルカ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n201429-OhnAA89hh5ik.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n201429-OhnAA89hh5ik.png"
+            },
+            "siteUrl": "https://anilist.co/staff/201429"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 182764,
+          "name": {
+            "first": "Towa",
+            "last": "Tokoyami",
+            "native": "常闇トワ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b182764-BPSdeoqhRUp9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b182764-BPSdeoqhRUp9.png"
+          },
+          "siteUrl": "https://anilist.co/character/182764"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169503,
+          "name": {
+            "first": "Aki",
+            "last": "Rosenthal",
+            "native": "アキ・ローゼンタール",
+            "alternative": [
+              "Akirose"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169503-jpgVwXaE4ktI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169503-jpgVwXaE4ktI.png"
+          },
+          "siteUrl": "https://anilist.co/character/169503"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music Performance",
+        "node": {
+          "id": 201429,
+          "name": {
+            "first": "Polka",
+            "last": "Omaru",
+            "native": "尾丸ポルカ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n201429-OhnAA89hh5ik.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n201429-OhnAA89hh5ik.png"
+          },
+          "description": "__Height:__ 153 cm\n__Fanbase Name:__ Omaru-za\n__Illustrator:__ [Kou Mashiro](https://anilist.co/staff/183989)\n\n[Profile (hololive)](https://hololive.hololivepro.com/en/talents/omaru-polka/) | [YouTube](https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA/) | [Twitter](https://twitter.com/omarupolka)\n\nA female Japanese Virtual YouTuber endorsed by hololive.",
+          "siteUrl": "https://anilist.co/staff/201429"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 204445,
+          "name": {
+            "first": "Chiaki",
+            "last": "Natsume",
+            "native": "なつめ千秋"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n204445-BY98YsPNyhH6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n204445-BY98YsPNyhH6.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/cak_ntm)",
+          "siteUrl": "https://anilist.co/staff/204445"
+        }
+      },
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 204445,
+          "name": {
+            "first": "Chiaki",
+            "last": "Natsume",
+            "native": "なつめ千秋"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n204445-BY98YsPNyhH6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n204445-BY98YsPNyhH6.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/cak_ntm)",
+          "siteUrl": "https://anilist.co/staff/204445"
+        }
+      },
+      {
+        "role": "Music Arrangement",
+        "node": {
+          "id": 204445,
+          "name": {
+            "first": "Chiaki",
+            "last": "Natsume",
+            "native": "なつめ千秋"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n204445-BY98YsPNyhH6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n204445-BY98YsPNyhH6.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/cak_ntm)",
+          "siteUrl": "https://anilist.co/staff/204445"
+        }
+      },
+      {
+        "role": "Audio Mixing",
+        "node": {
+          "id": 204446,
+          "name": {
+            "first": "Hamahiro",
+            "last": null,
+            "native": "はまひろ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n204446-nb34fOYAcTDd.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n204446-nb34fOYAcTDd.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/hamahiro3)",
+          "siteUrl": "https://anilist.co/staff/204446"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 204447,
+          "name": {
+            "first": "Bokkun",
+            "last": null,
+            "native": "ぼっくん"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n204447-1mgYrEdIbi9c.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n204447-1mgYrEdIbi9c.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/bokkun168)",
+          "siteUrl": "https://anilist.co/staff/204447"
+        }
+      },
+      {
+        "role": "Animation",
+        "node": {
+          "id": 204448,
+          "name": {
+            "first": "Nebiru",
+            "last": null,
+            "native": "ねびる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n204448-FpncLTDl0ksY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n204448-FpncLTDl0ksY.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/n_prol)",
+          "siteUrl": "https://anilist.co/staff/204448"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 6450,
+          "name": "Cover Corp",
+          "siteUrl": "https://anilist.co/studio/6450"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 53921,
+          "rating": 10,
+          "media": {
+            "id": 127716,
+            "title": {
+              "native": "HOLOGRAM CIRCUS"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 126676,
+            "title": {
+              "native": "ぺこみこ大戦争！！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 53923,
+          "rating": 4,
+          "media": {
+            "id": 127716,
+            "title": {
+              "native": "HOLOGRAM CIRCUS"
+            }
+          },
+          "mediaRecommendation": null
+        }
+      },
+      {
+        "node": {
+          "id": 53925,
+          "rating": 9,
+          "media": {
+            "id": 127716,
+            "title": {
+              "native": "HOLOGRAM CIRCUS"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 126663,
+            "title": {
+              "native": "Ahoy!! 我ら宝鐘海賊団☆"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 53927,
+          "rating": 4,
+          "media": {
+            "id": 127716,
+            "title": {
+              "native": "HOLOGRAM CIRCUS"
+            }
+          },
+          "mediaRecommendation": null
+        }
+      },
+      {
+        "node": {
+          "id": 73017,
+          "rating": 1,
+          "media": {
+            "id": 127716,
+            "title": {
+              "native": "HOLOGRAM CIRCUS"
+            }
+          },
+          "mediaRecommendation": null
+        }
+      },
+      {
+        "node": {
+          "id": 73035,
+          "rating": 5,
+          "media": {
+            "id": 127716,
+            "title": {
+              "native": "HOLOGRAM CIRCUS"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 130318,
+            "title": {
+              "native": "もぐもぐYUMMY！"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 96511,
+          "rating": 13,
+          "media": {
+            "id": 127716,
+            "title": {
+              "native": "HOLOGRAM CIRCUS"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 137978,
+            "title": {
+              "native": "ぽ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 165567,
+          "rating": 2,
+          "media": {
+            "id": 127716,
+            "title": {
+              "native": "HOLOGRAM CIRCUS"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 153775,
+            "title": {
+              "native": "サイキョウチックポルカ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 6
+      },
+      {
+        "score": 40,
+        "amount": 16
+      },
+      {
+        "score": 50,
+        "amount": 33
+      },
+      {
+        "score": 60,
+        "amount": 57
+      },
+      {
+        "score": 70,
+        "amount": 63
+      },
+      {
+        "score": 80,
+        "amount": 83
+      },
+      {
+        "score": 90,
+        "amount": 54
+      },
+      {
+        "score": 100,
+        "amount": 54
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 12
+      },
+      {
+        "status": "PLANNING",
+        "amount": 68
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 855
+      },
+      {
+        "status": "DROPPED",
+        "amount": 9
+      },
+      {
+        "status": "PAUSED",
+        "amount": 5
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/127716",
+  "modNotes": null
+}

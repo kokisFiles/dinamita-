@@ -1,0 +1,695 @@
+{
+  "id": 109603,
+  "idMal": 39836,
+  "title": {
+    "native": "闇芝居 7",
+    "romaji": "Yami Shibai 7",
+    "english": "Theatre of Darkness: Yamishibai 7"
+  },
+  "type": "ANIME",
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "description": "The seventh season of <i>Yami Shibai</i>.",
+  "startDate": {
+    "year": 2019,
+    "month": 7,
+    "day": 8
+  },
+  "endDate": {
+    "year": 2019,
+    "month": 9,
+    "day": 30
+  },
+  "season": "SUMMER",
+  "seasonYear": 2019,
+  "seasonInt": 193,
+  "episodes": 13,
+  "duration": 5,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748888558,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109603-ToNTtS3MMJJw.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109603-ToNTtS3MMJJw.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx109603-ToNTtS3MMJJw.jpg",
+    "color": "#a10d00"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109603-IvrdD8S6Rh5F.jpg",
+  "genres": [
+    "Horror",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "Yamishibai: Japanese Ghost Stories 7",
+    "เรื่องเล่าผีญี่ปุ่น ภาค 7"
+  ],
+  "averageScore": 55,
+  "meanScore": 55,
+  "popularity": 5352,
+  "favourites": 26,
+  "tags": [
+    {
+      "id": 220,
+      "name": "Ghost",
+      "description": "Prominently features a character who is a ghost.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 193,
+      "name": "Episodic",
+      "description": "Features story arcs that are loosely tied or lack an overarching plot.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 101743,
+          "title": {
+            "native": "闇芝居 6"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 126678,
+          "title": {
+            "native": "闇芝居 8"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 139456,
+          "name": {
+            "first": "Kamishibaiya",
+            "last": null,
+            "native": "紙芝居屋",
+            "alternative": [
+              "Storyteller"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b139456-BAznrkqsl3pC.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b139456-BAznrkqsl3pC.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/139456"
+        },
+        "voiceActors": [
+          {
+            "id": 101372,
+            "name": {
+              "first": "Kanji",
+              "last": "Tsuda",
+              "native": "津田寛治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101372-p7f3H459Q6Zq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101372-p7f3H459Q6Zq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/101372"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 140371,
+          "name": {
+            "first": "betcover!!",
+            "last": null,
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n140371-wGkkzBkDgqTh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n140371-wGkkzBkDgqTh.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/140371"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 175364,
+          "name": {
+            "first": "Satoshi",
+            "last": "Umetsu",
+            "native": "梅津智史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n175364-E7XVwrt7Q0tH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n175364-E7XVwrt7Q0tH.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/175364"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 175362,
+          "name": {
+            "first": "Akira",
+            "last": "Funada",
+            "native": "船田晃"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Akira Funada is a producer at ILCA.",
+          "siteUrl": "https://anilist.co/staff/175362"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 153821,
+          "name": {
+            "first": "Takuya ",
+            "last": "Iwasaki",
+            "native": "岩崎拓矢"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n153821-F7NNl7dGNNBD.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n153821-F7NNl7dGNNBD.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/153821"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 150569,
+          "name": {
+            "first": "Norio",
+            "last": "Yamakawa",
+            "native": "山川典夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with TV Tokyo.",
+          "siteUrl": "https://anilist.co/staff/150569"
+        }
+      },
+      {
+        "role": "ADR Director (Brazilian Portuguese)",
+        "node": {
+          "id": 319307,
+          "name": {
+            "first": "Augusto",
+            "last": "Alberton",
+            "native": null
+          },
+          "language": "PORTUGUESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n319307-gTadc8PL9gSp.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n319307-gTadc8PL9gSp.jpg"
+          },
+          "description": "[Instagram](https://www.instagram.com/augustoalberton/) | [Facebook](https://facebook.com/augusto.albertondelima) | [Youtube](https://www.youtube.com/augustoalbertonlima)\n\nAugusto Alberton de Lima is an actor, voice actor, dubbing director, and sound designer.",
+          "siteUrl": "https://anilist.co/staff/319307"
+        }
+      },
+      {
+        "role": "ADR Director (Brazilian Portuguese)",
+        "node": {
+          "id": 318078,
+          "name": {
+            "first": "Bruno",
+            "last": "Rodrigues",
+            "native": null
+          },
+          "language": "PORTUGUESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n318078-dhS1OD42fWoS.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n318078-dhS1OD42fWoS.jpg"
+          },
+          "description": "[Instagram](https://www.instagram.com/brunorodrigues.ator/) | [Twitter](https://twitter.com/obrunoator) | [Facebook](https://facebook.com/100090623022348)\n\nBruno Rodrigues is a Brazilian actor, voice actor, and dubbing director.",
+          "siteUrl": "https://anilist.co/staff/318078"
+        }
+      },
+      {
+        "role": "ADR Director (Brazilian Portuguese)",
+        "node": {
+          "id": 317571,
+          "name": {
+            "first": "Jhonny",
+            "last": "Ferri",
+            "native": null
+          },
+          "language": "PORTUGUESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n317571-oyJqUUYsnLmN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n317571-oyJqUUYsnLmN.jpg"
+          },
+          "description": "[Instagram](https://www.instagram.com/jhonnyferri/) | [Facebook](https://facebook.com/jhonny.ferridossantos) | [TikTok](https://www.tiktok.com/@jhonny.ferri) | [Youtube](https://www.youtube.com/jhonnyferri1515)\n\nJhonny Ferri dos Santos is a Brazilian actor, voice actor, dubbing director, and theater director.",
+          "siteUrl": "https://anilist.co/staff/317571"
+        }
+      },
+      {
+        "role": "ADR Director (Brazilian Portuguese)",
+        "node": {
+          "id": 317317,
+          "name": {
+            "first": "Júlio",
+            "last": "Muzzi",
+            "native": null
+          },
+          "language": "PORTUGUESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n317317-c4Dpyf1puMVA.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n317317-c4Dpyf1puMVA.jpg"
+          },
+          "description": "[Instagram](https://www.instagram.com/julio.muzzi/)\n\nJúlio Muzzi is a Brazilian actor, voice actor, dubbing director, and composer.",
+          "siteUrl": "https://anilist.co/staff/317317"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6078,
+          "name": "ILCA",
+          "siteUrl": "https://anilist.co/studio/6078"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 275787,
+          "airingAt": 1562523180,
+          "episode": 1,
+          "mediaId": 109603,
+          "media": {
+            "id": 109603
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 275788,
+          "airingAt": 1563667200,
+          "episode": 2,
+          "mediaId": 109603,
+          "media": {
+            "id": 109603
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 275789,
+          "airingAt": 1563732780,
+          "episode": 3,
+          "mediaId": 109603,
+          "media": {
+            "id": 109603
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 275790,
+          "airingAt": 1564337580,
+          "episode": 4,
+          "mediaId": 109603,
+          "media": {
+            "id": 109603
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 275791,
+          "airingAt": 1564942380,
+          "episode": 5,
+          "mediaId": 109603,
+          "media": {
+            "id": 109603
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 275792,
+          "airingAt": 1565547180,
+          "episode": 6,
+          "mediaId": 109603,
+          "media": {
+            "id": 109603
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 275793,
+          "airingAt": 1566151980,
+          "episode": 7,
+          "mediaId": 109603,
+          "media": {
+            "id": 109603
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 275794,
+          "airingAt": 1566756780,
+          "episode": 8,
+          "mediaId": 109603,
+          "media": {
+            "id": 109603
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 275795,
+          "airingAt": 1567361580,
+          "episode": 9,
+          "mediaId": 109603,
+          "media": {
+            "id": 109603
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 275796,
+          "airingAt": 1567966380,
+          "episode": 10,
+          "mediaId": 109603,
+          "media": {
+            "id": 109603
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 275797,
+          "airingAt": 1568571180,
+          "episode": 11,
+          "mediaId": 109603,
+          "media": {
+            "id": 109603
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 275798,
+          "airingAt": 1569175980,
+          "episode": 12,
+          "mediaId": 109603,
+          "media": {
+            "id": 109603
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 275799,
+          "airingAt": 1569801600,
+          "episode": 13,
+          "mediaId": 109603,
+          "media": {
+            "id": 109603
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 9834,
+      "url": "https://www.tv-tokyo.co.jp/anime/yamishibai7/",
+      "site": "Official Site"
+    },
+    {
+      "id": 10510,
+      "url": "https://www.crunchyroll.com/yamishibai-japanese-ghost-stories",
+      "site": "Crunchyroll"
+    }
+  ],
+  "streamingEpisodes": [
+    {
+      "title": "Episode 12 - Inside / Flower Reading / Sleepless Pair",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/607c1fa98e343b0e6a49e1fa98fc66501606302371_full.jpg",
+      "url": "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories/episode-12-inside-flower-reading-sleepless-pair-797641",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 11 - Echoes / The Veranda / Little Sister's Room",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/bafe3dc86845473ea13d1e373bf2256c1605683531_full.jpg",
+      "url": "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories/episode-11-echoes-the-veranda-little-sisters-room-797640",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 10 - Shadows of Women / Empty Seat / The Umbrella Goddess",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/5be24259db596b2c667b05d648fc08911605074774_full.jpg",
+      "url": "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories/episode-10-shadows-of-women-empty-seat-the-umbrella-goddess-797639",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 9 - Sakura / Bag Woman / Family Rules",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/202bc1d2fd31d66e53a430d4967479c01604454006_full.jpg",
+      "url": "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories/episode-9-sakura-bag-woman-family-rules-797638",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 8 - Home Tutor / Wind's Wisdom / Zanbai",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/ada33ecf8cff4e874ed907cab3431e581603854819_full.jpg",
+      "url": "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories/episode-8-home-tutor-winds-wisdom-zanbai-797637",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 7 - Ominie-san / Greeting / Family Photo",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/c6970b0046b919bb0fd5cf50d28945451603271829_full.jpg",
+      "url": "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories/episode-7-ominie-san-greeting-family-photo-797636",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 6 - Special-Made Doll / Howl / Black Bebe",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/ffc237d1dfba79ef44cbb78cf6646be61602647152_full.jpg",
+      "url": "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories/episode-6-special-made-doll-howl-black-bebe-797635",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 5 - Kitchen / Tongue / Ring",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9793c90b20754494e9356aabb2b12fff1602061161_full.jpg",
+      "url": "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories/episode-5-kitchen-tongue-ring-797634",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 4 - The Woman in the Elevator / Cassette Tape / Delivery",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/5030344606b2c5213145b4dfbd7f159c1601457174_full.jpg",
+      "url": "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories/episode-4-the-woman-in-the-elevator-cassette-tape-delivery-797633",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 3 - Perishables / Non-withering Flower / Contradiction",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/1396d7ec93daed6571dfc80bfc0374601600845807_full.jpg",
+      "url": "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories/episode-3-perishables-non-withering-flower-contradiction-797632",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 2 - The Friendless Cave / Light in the Darkness / Visiting Storm",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/fdd04d01de8d3f9bd7860febe240978e1600246424_full.jpg",
+      "url": "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories/episode-2-the-friendless-cave-light-in-the-darkness-visiting-storm-797631",
+      "site": "Crunchyroll"
+    },
+    {
+      "title": "Episode 1 - The Talisman Woman / Rough Stretch / The Neighbors",
+      "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/6333376277c754d624816307765ff1981600246403_full.jpg",
+      "url": "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories/episode-1-the-talisman-woman-rough-stretch-the-neighbors-797630",
+      "site": "Crunchyroll"
+    }
+  ],
+  "rankings": [
+    {
+      "id": 14055,
+      "rank": 18,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 14082,
+      "rank": 15,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2019,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    },
+    {
+      "id": 14148,
+      "rank": 4,
+      "type": "RATED",
+      "format": "TV_SHORT",
+      "year": 2019,
+      "season": "SUMMER",
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 14153,
+      "rank": 3,
+      "type": "POPULAR",
+      "format": "TV_SHORT",
+      "year": 2019,
+      "season": "SUMMER",
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 9088,
+          "rating": 2,
+          "media": {
+            "id": 109603,
+            "title": {
+              "native": "闇芝居 7"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 21224,
+            "title": {
+              "native": "こわぼん"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 83
+      },
+      {
+        "score": 20,
+        "amount": 83
+      },
+      {
+        "score": 30,
+        "amount": 134
+      },
+      {
+        "score": 40,
+        "amount": 186
+      },
+      {
+        "score": 50,
+        "amount": 473
+      },
+      {
+        "score": 60,
+        "amount": 520
+      },
+      {
+        "score": 70,
+        "amount": 367
+      },
+      {
+        "score": 80,
+        "amount": 156
+      },
+      {
+        "score": 90,
+        "amount": 115
+      },
+      {
+        "score": 100,
+        "amount": 66
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 222
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1581
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 3317
+      },
+      {
+        "status": "DROPPED",
+        "amount": 147
+      },
+      {
+        "status": "PAUSED",
+        "amount": 85
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/109603",
+  "modNotes": null
+}

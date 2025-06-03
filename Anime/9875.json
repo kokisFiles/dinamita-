@@ -1,0 +1,458 @@
+{
+  "id": 9875,
+  "idMal": 9875,
+  "title": {
+    "native": "アニメ店長x東方Project",
+    "romaji": "Anime Tenchou x Touhou Project",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "A collaboration anime project of Anime Tenchou and Touhou animated by ufotable. The anime was shown at the 2010 Animate Ichioshi Bishojo Anime Matsuri.",
+  "startDate": {
+    "year": 2010,
+    "month": 11,
+    "day": 20
+  },
+  "endDate": {
+    "year": 2010,
+    "month": 11,
+    "day": 20
+  },
+  "season": "FALL",
+  "seasonYear": 2010,
+  "seasonInt": 104,
+  "episodes": 1,
+  "duration": 10,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748883253,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9875-gw5Db9SNgeyz.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9875-gw5Db9SNgeyz.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b9875-gw5Db9SNgeyz.png",
+    "color": "#e4a128"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Fantasy"
+  ],
+  "synonyms": [],
+  "averageScore": 60,
+  "meanScore": 62,
+  "popularity": 3314,
+  "favourites": 15,
+  "tags": [
+    {
+      "id": 233,
+      "name": "Youkai",
+      "description": "Prominently features supernatural creatures from Japanese folklore.",
+      "category": "Theme-Fantasy",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 158,
+      "name": "Crossover",
+      "description": "Centers around the placement of two or more otherwise discrete fictional characters, settings, or universes into the context of a single story.",
+      "category": "Theme-Other",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 3080,
+          "title": {
+            "native": "アニメ店長"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 9861,
+          "title": {
+            "native": "アニメ店長 激情版"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 38276,
+          "name": {
+            "first": "Flandre",
+            "last": "Scarlet",
+            "native": "フランドール・スカーレット",
+            "alternative": [
+              "Frandle Scarlet",
+              "Frandoll Scarlet"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38276-PQcBqH4Ucj1E.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b38276-PQcBqH4Ucj1E.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/38276"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97003,
+          "name": {
+            "first": "ZUN",
+            "last": "",
+            "native": "太田順也"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97003-6IBGgxRYTCY6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97003-6IBGgxRYTCY6.jpg"
+          },
+          "description": "[Blog](https://kourindou.exblog.jp) | [Twitter](https://twitter.com/korindo) | [YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | [Official Website](http://www16.big.or.jp/~zun)\n\nThe sole known member of Team Shanghai Alice, and the designer, programmer, script writer, and composer of the extremely popular _Touhou Project_ series. He is seen to be rather reclusive, and thus very little is known about him except that he's very fond of beer. He was employed by Taito Corporation, and had been involved in the production of various Taito titles as a programmer.",
+          "siteUrl": "https://anilist.co/staff/97003"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97479,
+          "name": {
+            "first": "Kazuhiko",
+            "last": "Shimamoto",
+            "native": "島本和彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97479-hY0cVpOycuiV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97479-hY0cVpOycuiV.png"
+          },
+          "description": "[Twitter](https://twitter.com/simakazu)",
+          "siteUrl": "https://anilist.co/staff/97479"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 146702,
+          "name": {
+            "first": "Masayuki",
+            "last": "Kunihiro",
+            "native": "國弘昌之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146702-24ktqjqVZIKw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146702-24ktqjqVZIKw.png"
+          },
+          "description": "Affiliated with [ufotable](https://anilist.co/studio/43/), where he is one of the studio's leading animators.\n\nSpecializes in action animation.",
+          "siteUrl": "https://anilist.co/staff/146702"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 146696,
+          "name": {
+            "first": "Atsushi",
+            "last": "Ogasawara",
+            "native": "小笠原篤"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146696-2QHWxBhBD3xd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146696-2QHWxBhBD3xd.png"
+          },
+          "description": "[Twitter](https://twitter.com/ogadelie)\n\nOriginating from [Studio Pierrot](https://anilist.co/studio/1/). Former [Ufotable](https://anilist.co/studio/43/) employee.",
+          "siteUrl": "https://anilist.co/staff/146696"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 107167,
+          "name": {
+            "first": "Takahiro",
+            "last": "Miura",
+            "native": "三浦貴博"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107167-G5TT8DAqPiVl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107167-G5TT8DAqPiVl.png"
+          },
+          "description": "Originating from [Imagin](https://anilist.co/studio/75/).",
+          "siteUrl": "https://anilist.co/staff/107167"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 130063,
+          "name": {
+            "first": "Yuuichi",
+            "last": "Terao",
+            "native": "寺尾優一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n130063-cgVRghewBqvV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n130063-cgVRghewBqvV.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/寺尾優一)\n\nAffiliated with [ufotable](https://anilist.co/studio/43/). Married to [Momoko Kamiya](https://anilist.co/staff/250361).\n\nUpon enrolling at Osaka University of Arts, Yuuichi Terao, alongside [Takashi Suhara](https://anilist.co/staff/146678/Takashi-Suhara) and others, embarked on the autonomous creation of animated films, even organizing screenings through university circles in the Kanto region. After joining animation production company ufotable in December 2003, Terao, initially aspiring for the production department as a production manager but he was assigned to the newly formed photography department (now the Digital Imaging Department) due to presenting visual materials during his interview. Despite lacking prior photography expertise, he learned from scratch, commencing his career as a compositor. From 2007 onwards, Terao transitioned to the role of \"Director of Photography\" in notable works such as \"The Garden of Sinners.\" Presently serving as Chief of ufotable's Digital Imaging Department, he oversees photography and CG, contributing significantly to ufotable's works. Beyond photography and CG, Terao actively engages in various roles, including animation, background sections, directing, and storyboarding, even participating in the early stages of background art creation. Noteworthy for his involvement in promotional videos and commercials, Terao gained attention for creating faction-specific commercials for the TV anime [Fate/Zero](https://anilist.co/anime/10087/FateZero/) in 2011. \n\nHis directorial contributions extend to ufotable works' opening sequences and game animations, with a notable debut as a storyboard artist and director in the final episode of the 2019 TV anime [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922/Demon-Slayer-Kimetsu-no-Yaiba/). Terao's multifaceted contributions align with his belief in animation as a collective art form, emphasizing teamwork in production. \n\nRecognized for his expertise in integrating 3DCG seamlessly with characters and background art, Terao's artistic approach aims for high-quality animation. His \"photorealistic\" visuals, adopted since 2007, have been praised, contributing to his receipt of the Tokyo Anime Award 2022's \"Individual Award\".",
+          "siteUrl": "https://anilist.co/staff/130063"
+        }
+      },
+      {
+        "role": "Editing",
+        "node": {
+          "id": 146725,
+          "name": {
+            "first": "Manabu",
+            "last": "Kamino",
+            "native": "神野学"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146725-CWyH4UzQgt5E.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146725-CWyH4UzQgt5E.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/146725"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 103076,
+          "name": {
+            "first": "Hikaru",
+            "last": "Kondou",
+            "native": "近藤光"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103076-2DE794RafWLy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103076-2DE794RafWLy.png"
+          },
+          "description": "[Twitter](https://twitter.com/hikaruufo) | [Wiki (jp)](https://ja.wikipedia.org/wiki/近藤光)\n\nFounder and representative director of [ufotable](https://anilist.co/studio/43/). Animation producer, sound director and music director for almost every ufotable production. He's also one of the scriptwriters in the studio.",
+          "siteUrl": "https://anilist.co/staff/103076"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 103075,
+          "name": {
+            "first": "Emi",
+            "last": "Chiba",
+            "native": "千葉絵美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103075-9ZqLUj8NtKBt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103075-9ZqLUj8NtKBt.png"
+          },
+          "description": "Married to [Takayuki Hirao](https://anilist.co/staff/102247/).",
+          "siteUrl": "https://anilist.co/staff/103075"
+        }
+      },
+      {
+        "role": "Producer",
+        "node": {
+          "id": 249847,
+          "name": {
+            "first": "Daisuke",
+            "last": "Hagiwara",
+            "native": "萩原大輔"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/249847"
+        }
+      },
+      {
+        "role": "Sound Production Manager",
+        "node": {
+          "id": 138285,
+          "name": {
+            "first": "Ryousuke",
+            "last": "Naya",
+            "native": "納谷僚介"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n138285-ub2Rju5WuVtC.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n138285-ub2Rju5WuVtC.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/suke_mausu)\n\nAffiliated with [Studio Mausu](https://anilist.co/studio/719/Studio-Mausu).\n",
+          "siteUrl": "https://anilist.co/staff/138285"
+        }
+      },
+      {
+        "role": "Production Assistant",
+        "node": {
+          "id": 226356,
+          "name": {
+            "first": "Masaru",
+            "last": "Takanaka",
+            "native": "高中優"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "\nAffiliated with [ufotable](https://anilist.co/studio/43/).",
+          "siteUrl": "https://anilist.co/staff/226356"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 142692,
+          "name": {
+            "first": "Kouji",
+            "last": "Etou",
+            "native": "衛藤功二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142692-I0Hb1leizdUW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n142692-I0Hb1leizdUW.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/衛藤功二)\n\nAffiliated with [ufotable](https://anilist.co/studio/43/).\n\nBorn in Hyogo Prefecture, he developed a passion for gaming, leading him to join Studio Sparrow to pursue a career in game animation background art. With little prior experience in drawing, he began honing his skills under the guidance of renowned art director [Masanori Kikuchi](https://anilist.co/staff/156492/Masanori-Kikuchi). He transitioned to Studio Easter in 2003, specializing in background art production, and later served as art director for various anime series including [Speed Grapher](https://anilist.co/anime/198/Speed-Grapher/), [Steins;Gate](https://anilist.co/anime/9253/SteinsGate/) and [Psycho-Pass](https://anilist.co/anime/13601/PSYCHOPASS/).\n\nHis involvement with ufotable's theatrical production \"The Garden of Sinners\" began when a superior at Studio Easter asked for his assistance. Initially planning to contribute only a few cuts, he ended up handling nearly 50 cuts of art in the [Chapter 5](https://anilist.co/anime/4282/the-Garden-of-sinners-Chapter-5-Paradox-Paradigm/). Recognizing his talent, Studio Easter's representative recommended him for the art director role in the [Chapter 6](https://anilist.co/anime/5204/the-Garden-of-sinners-Chapter-6-Fairy-Tale-Oblivion-Recording/) and [Chapter 7](https://anilist.co/anime/5205/the-Garden-of-sinners-Chapter-7-not-nothing-heart-Murder-Speculation-Part-B/).\n\nIn 2013, he made a significant career move, transitioning from Studio Easter to ufotable's art department. This shift was prompted by individual requests from ufotable for his involvement in projects like the anime series [Fate/stay night: Unlimited Blade Works](https://anilist.co/anime/19603/Fatestay-night-Unlimited-Blade-Works/). At ufotable, he served as the art director for numerous projects, contributing to the development of the in-house art team alongside ufotable's art department chief, [Kazuo Ebisawa](https://anilist.co/staff/115408/Kazuo-Ebisawa).\n\nOn February 9, 2023, he was honored with the [Individual Award in the Art, Color, and Visual Effects](https://animefestival.jp/en/award/aoy/archive/#2023) category at the Tokyo Anime Awards 2023.",
+          "siteUrl": "https://anilist.co/staff/142692"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 43,
+          "name": "ufotable",
+          "siteUrl": "https://anilist.co/studio/43"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 16
+      },
+      {
+        "score": 20,
+        "amount": 5
+      },
+      {
+        "score": 30,
+        "amount": 15
+      },
+      {
+        "score": 40,
+        "amount": 24
+      },
+      {
+        "score": 50,
+        "amount": 65
+      },
+      {
+        "score": 60,
+        "amount": 94
+      },
+      {
+        "score": 70,
+        "amount": 103
+      },
+      {
+        "score": 80,
+        "amount": 42
+      },
+      {
+        "score": 90,
+        "amount": 27
+      },
+      {
+        "score": 100,
+        "amount": 31
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 97
+      },
+      {
+        "status": "PLANNING",
+        "amount": 2397
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 693
+      },
+      {
+        "status": "DROPPED",
+        "amount": 63
+      },
+      {
+        "status": "PAUSED",
+        "amount": 64
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/9875",
+  "modNotes": null
+}

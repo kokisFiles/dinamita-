@@ -1,0 +1,621 @@
+{
+  "id": 94710,
+  "idMal": 88564,
+  "title": {
+    "native": "DIABOLIK LOVERS アンソロジー Cardinal",
+    "romaji": "Diabolik Lovers: Anthology Cardinal",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "An anthology by various mangaka based on the otome game Diabolik Lovers.",
+  "startDate": {
+    "year": 2012,
+    "month": 12,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2012,
+    "month": 12,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 13,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VISUAL_NOVEL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748650115,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b94710-gHcFl7S4hon3.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b94710-gHcFl7S4hon3.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b94710-gHcFl7S4hon3.png",
+    "color": "#ae1a6b"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Romance",
+    "Supernatural"
+  ],
+  "synonyms": [],
+  "averageScore": 52,
+  "meanScore": 62,
+  "popularity": 272,
+  "favourites": 8,
+  "tags": [
+    {
+      "id": 471,
+      "name": "Anthology",
+      "description": "A collection of separate works collated into a single release.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 74,
+      "name": "Vampire",
+      "description": "Prominently features a character who is a vampire.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 123,
+      "name": "Male Harem",
+      "description": "Main cast features the protagonist plus several male characters who are romantically interested in them.",
+      "category": "Theme-Romance",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 53,
+      "name": "Shoujo",
+      "description": "Target demographic is teenage and young adult females.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 94305,
+          "title": {
+            "native": "DIABOLIK LOVERS アニメ公式アンソロジー"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 78641,
+          "title": {
+            "native": "DIABOLIK LOVERS アンソロジー"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 94305,
+          "title": {
+            "native": "DIABOLIK LOVERS アニメ公式アンソロジー"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 78731,
+          "title": {
+            "native": "DIABOLIK LOVERS Prequel"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 79539,
+          "name": {
+            "first": "Yui",
+            "last": "Komori",
+            "native": "小森ユイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b79539-oiOXqWAO8ANW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b79539-oiOXqWAO8ANW.png"
+          },
+          "siteUrl": "https://anilist.co/character/79539"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 79543,
+          "name": {
+            "first": "Kanato",
+            "last": "Sakamaki",
+            "native": "逆巻カナト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b79543-4mWh8GuibwoS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b79543-4mWh8GuibwoS.png"
+          },
+          "siteUrl": "https://anilist.co/character/79543"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 79545,
+          "name": {
+            "first": "Raito",
+            "last": "Sakamaki",
+            "native": "逆巻ライト",
+            "alternative": [
+              "Laito"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b79545-meUF1sRZWKVy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b79545-meUF1sRZWKVy.png"
+          },
+          "siteUrl": "https://anilist.co/character/79545"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 79541,
+          "name": {
+            "first": "Ayato",
+            "last": "Sakamaki",
+            "native": "逆巻アヤト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b79541-JYwzgcXuhh76.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b79541-JYwzgcXuhh76.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/79541"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 79551,
+          "name": {
+            "first": "Subaru",
+            "last": "Sakamaki",
+            "native": "逆巻スバル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/79551.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/79551.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/79551"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 79547,
+          "name": {
+            "first": "Shuu",
+            "last": "Sakamaki",
+            "native": "逆巻シュウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b79547-sGuEPXefPRF2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b79547-sGuEPXefPRF2.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/79547"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 79549,
+          "name": {
+            "first": "Reiji",
+            "last": "Sakamaki",
+            "native": "逆巻レイジ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b79549-Jioc7rtP0gMx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b79549-Jioc7rtP0gMx.png"
+          },
+          "siteUrl": "https://anilist.co/character/79549"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 116443,
+          "name": {
+            "first": "Carawey",
+            "last": "",
+            "native": "Carawey"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116443-25Ea8ZE0YGCA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116443-25Ea8ZE0YGCA.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/116443"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 116445,
+          "name": {
+            "first": "Papiko",
+            "last": "Nanjou",
+            "native": "南條パピ子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116445-t3SbauinolcX.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116445-t3SbauinolcX.jpg"
+          },
+          "description": "[Pixiv](http://www.pixiv.net/member.php?id=8742668)\n\nGender: Female\nCircle: Cache-Cache",
+          "siteUrl": "https://anilist.co/staff/116445"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 225672,
+          "name": {
+            "first": "Satoi",
+            "last": null,
+            "native": "さとい"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n225672-4DDPDFGC4BMX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n225672-4DDPDFGC4BMX.png"
+          },
+          "description": "[Twitter](https://twitter.com/tekitounisatoi)\n\nSatoi is a Japanese illustrator. She is the co-founder of Poni-Pachet alongside [Yumas](https://anilist.co/staff/286812/).\n\n",
+          "siteUrl": "https://anilist.co/staff/225672"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 116449,
+          "name": {
+            "first": "Shina",
+            "last": "Suzaka",
+            "native": "須坂紫那"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116449-iHzk4BUJ5PV9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116449-iHzk4BUJ5PV9.jpg"
+          },
+          "description": "__Circle:__ GO MAD\n\n[Twitter](https://twitter.com/shina_gomad) | [Pixiv](https://www.pixiv.net/member.php?id=585803)",
+          "siteUrl": "https://anilist.co/staff/116449"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 102975,
+          "name": {
+            "first": "Natsuki",
+            "last": "Ooishi",
+            "native": "大石なつき"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/102975"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 108723,
+          "name": {
+            "first": "",
+            "last": "Rejet",
+            "native": "Rejet"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/13723.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/13723.jpg"
+          },
+          "description": "Rejet is a Japanese games developer that specializes in otome games.",
+          "siteUrl": "https://anilist.co/staff/108723"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 99651,
+          "name": {
+            "first": "Toshimi",
+            "last": "Nigoshi",
+            "native": "ニ越としみ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99651-31XlNr1gfyY5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99651-31XlNr1gfyY5.jpg"
+          },
+          "description": "[Website](http://chico.x0.com/top.html) | [Twitter](https://twitter.com/cotatuchico) | [Pixiv 1](https://www.pixiv.net/users/3433602) | [Pixiv 2](https://www.pixiv.net/users/2072148)",
+          "siteUrl": "https://anilist.co/staff/99651"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 142540,
+          "name": {
+            "first": "Enya",
+            "last": "Uraki",
+            "native": "浦稀えんや"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142540-7xnZ3KcQRKuy.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n142540-7xnZ3KcQRKuy.png"
+          },
+          "description": "[Twitter](https://twitter.com/enya_dayo) | [Tumblr](https://es-yard.tumblr.com/)",
+          "siteUrl": "https://anilist.co/staff/142540"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 279943,
+          "name": {
+            "first": "Kazushi",
+            "last": "Kuroi",
+            "native": "黒井和志"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/279943"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 103335,
+          "name": {
+            "first": "Mizuki",
+            "last": "Fuuju",
+            "native": "風樹みずき"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/103335"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 191943,
+          "name": {
+            "first": "Satoru",
+            "last": "Ryuka",
+            "native": "龍華哲"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n191943-U1Jq5ZEjFBLI.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n191943-U1Jq5ZEjFBLI.jpg"
+          },
+          "description": "[Website](http://jerktrick.web.fc2.com/html/top.html) | [Twitter](https://twitter.com/ryuka_satoru) | [Pixiv](https://www.pixiv.net/en/users/3310683)",
+          "siteUrl": "https://anilist.co/staff/191943"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 144724,
+          "name": {
+            "first": "Maro",
+            "last": "Yanagiya",
+            "native": "柳矢真呂"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144724-1CwSha58XV1i.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n144724-1CwSha58XV1i.jpg"
+          },
+          "description": "[Twitter 1](https://twitter.com/kerokero_mai) | [Twitter 2](https://twitter.com/yanagiyamaro) | [Pixiv](https://www.pixiv.net/member.php?id=778389)",
+          "siteUrl": "https://anilist.co/staff/144724"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 279569,
+          "name": {
+            "first": "Banri",
+            "last": "Mutow",
+            "native": "武藤万里"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n279569-IrlsDJioxQjV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n279569-IrlsDJioxQjV.png"
+          },
+          "description": "__Circle:__ Enigma\n\n[Twitter](https://twitter.com/mutowzzz) | [Pixiv](https://www.pixiv.net/users/2260181)",
+          "siteUrl": "https://anilist.co/staff/279569"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 279945,
+          "name": {
+            "first": "Aruto",
+            "last": "Aoyama",
+            "native": "青山アルト"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/279945"
+        }
+      },
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 279944,
+          "name": {
+            "first": "Megumi",
+            "last": "Toshimitsu",
+            "native": "利光メグミ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/279944"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 3
+      },
+      {
+        "score": 50,
+        "amount": 12
+      },
+      {
+        "score": 60,
+        "amount": 8
+      },
+      {
+        "score": 70,
+        "amount": 15
+      },
+      {
+        "score": 80,
+        "amount": 9
+      },
+      {
+        "score": 90,
+        "amount": 8
+      },
+      {
+        "score": 100,
+        "amount": 8
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 11
+      },
+      {
+        "status": "PLANNING",
+        "amount": 123
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 135
+      },
+      {
+        "status": "DROPPED",
+        "amount": 1
+      },
+      {
+        "status": "PAUSED",
+        "amount": 2
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/94710",
+  "modNotes": null
+}

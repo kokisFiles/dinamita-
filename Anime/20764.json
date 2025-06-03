@@ -1,0 +1,951 @@
+{
+  "id": 20764,
+  "idMal": 24921,
+  "title": {
+    "native": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza",
+    "romaji": "Aoki Hagane no Arpeggio: Ars Nova - Cadenza",
+    "english": "Arpeggio of Blue Steel - Cadenza"
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "This is one of the movies announced in the August issue of Shonengahosha's Young King Ours magazine. This will be an entirely brand-new work.",
+  "startDate": {
+    "year": 2015,
+    "month": 10,
+    "day": 3
+  },
+  "endDate": {
+    "year": 2015,
+    "month": 10,
+    "day": 3
+  },
+  "season": "FALL",
+  "seasonYear": 2015,
+  "seasonInt": 154,
+  "episodes": 1,
+  "duration": 105,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "LIGHT_NOVEL",
+  "hashtag": null,
+  "trailer": {
+    "id": "ZOcb5NjiiIM",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/ZOcb5NjiiIM/hqdefault.jpg"
+  },
+  "updatedAt": 1748899330,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20764-JSDg9zsnqPgs.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20764-JSDg9zsnqPgs.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20764-JSDg9zsnqPgs.jpg",
+    "color": "#93aef1"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20764-Z8SEbZP3XvHu.jpg",
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": 75,
+  "meanScore": 76,
+  "popularity": 7446,
+  "favourites": 88,
+  "tags": [
+    {
+      "id": 305,
+      "name": "Ships",
+      "description": "Prominently features the use of sea-based transportation vessels.",
+      "category": "Theme-Other-Vehicle",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 89,
+      "name": "Full CGI",
+      "description": "Almost entirely created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 34,
+      "name": "Military",
+      "description": "Centered around the life and activities of military personnel.",
+      "category": "Theme-Other-Organisations",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 779,
+      "name": "Kuudere",
+      "description": "Prominently features a character who generally retains a cold, blunt and cynical exterior, but once one gets to know them, they have a very warm and loving interior.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 18893,
+          "title": {
+            "native": "蒼き鋼のアルペジオ"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 20763,
+          "title": {
+            "native": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ-  DC"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 55861,
+          "title": {
+            "native": "蒼き鋼のアルペジオ"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45713,
+          "name": {
+            "first": "Shouzou",
+            "last": "Chihaya",
+            "native": "千早翔像",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b45713-XAdfb2bC2EUh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b45713-XAdfb2bC2EUh.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45713"
+        },
+        "voiceActors": [
+          {
+            "id": 95091,
+            "name": {
+              "first": "Jouji",
+              "last": "Nakata",
+              "native": "中田譲治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95091-idoMaN26z80B.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95091-idoMaN26z80B.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95091"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 45679,
+          "name": {
+            "first": "Iona",
+            "last": null,
+            "native": "イオナ",
+            "alternative": [
+              "Submarine i-401"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45679.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45679.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45679"
+        },
+        "voiceActors": [
+          {
+            "id": 104593,
+            "name": {
+              "first": "Mai",
+              "last": "Fuchigami",
+              "native": "渕上舞"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104593-yZz5rvm3oIXH.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104593-yZz5rvm3oIXH.png"
+            },
+            "siteUrl": "https://anilist.co/staff/104593"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45697,
+          "name": {
+            "first": "Kirishima",
+            "last": null,
+            "native": "キリシマ",
+            "alternative": [
+              "Battleship Kirishima"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45697.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45697.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45697"
+        },
+        "voiceActors": [
+          {
+            "id": 106784,
+            "name": {
+              "first": "Yumi",
+              "last": "Uchiyama",
+              "native": "内山夕実"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106784-reDoHBLWxi7J.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106784-reDoHBLWxi7J.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/106784"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45719,
+          "name": {
+            "first": "Hyuuga",
+            "last": null,
+            "native": "ヒュウガ",
+            "alternative": [
+              "Battleship Hyuga"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45719.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45719.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45719"
+        },
+        "voiceActors": [
+          {
+            "id": 95504,
+            "name": {
+              "first": "Saki",
+              "last": "Fujita",
+              "native": "藤田咲"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95504-pDIKpd8t2EYU.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95504-pDIKpd8t2EYU.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95504"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45689,
+          "name": {
+            "first": "Shizuka",
+            "last": "Hozumi",
+            "native": "八月一日静",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45689.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45689.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45689"
+        },
+        "voiceActors": [
+          {
+            "id": 106184,
+            "name": {
+              "first": "Nao",
+              "last": "Touyama",
+              "native": "東山奈央"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106184-rFA0sHFJrbk4.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106184-rFA0sHFJrbk4.png"
+            },
+            "siteUrl": "https://anilist.co/staff/106184"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45699,
+          "name": {
+            "first": "Haruna",
+            "last": null,
+            "native": "ハルナ",
+            "alternative": [
+              "Battleship Haruna"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45699.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45699.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45699"
+        },
+        "voiceActors": [
+          {
+            "id": 107750,
+            "name": {
+              "first": "Hibiku",
+              "last": "Yamamura",
+              "native": "山村響"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107750-ncaOycwTveFP.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107750-ncaOycwTveFP.png"
+            },
+            "siteUrl": "https://anilist.co/staff/107750"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 45681,
+          "name": {
+            "first": "Gunzou",
+            "last": "Chihaya",
+            "native": "千早群像",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b45681-xzL03K14ztHa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b45681-xzL03K14ztHa.png"
+          },
+          "siteUrl": "https://anilist.co/character/45681"
+        },
+        "voiceActors": [
+          {
+            "id": 102288,
+            "name": {
+              "first": "Kazuyuki",
+              "last": "Okitsu",
+              "native": "興津和幸"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102288-xqcBKreDyZYN.png"
+            },
+            "siteUrl": "https://anilist.co/staff/102288"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45693,
+          "name": {
+            "first": "Kongou",
+            "last": null,
+            "native": "コンゴウ",
+            "alternative": [
+              "Battleship Kongo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45693.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45693.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45693"
+        },
+        "voiceActors": [
+          {
+            "id": 95140,
+            "name": {
+              "first": "Yukana",
+              "last": "",
+              "native": "ゆかな"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95140-sFp0uedEmZ9f.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95140-sFp0uedEmZ9f.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95140"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45683,
+          "name": {
+            "first": "Kyouhei",
+            "last": "Kashihara",
+            "native": "橿原\t杏平\t",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45683.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45683.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45683"
+        },
+        "voiceActors": [
+          {
+            "id": 95784,
+            "name": {
+              "first": "Eiji",
+              "last": "Miyashita",
+              "native": "宮下栄治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/784.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/784.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95784"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45685,
+          "name": {
+            "first": "Iori",
+            "last": "Watanuki",
+            "native": "四月一日いおり",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45685.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45685.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45685"
+        },
+        "voiceActors": [
+          {
+            "id": 106492,
+            "name": {
+              "first": "Minami",
+              "last": "Tsuda",
+              "native": "津田美波"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106492-9DRvAekKdhDq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106492-9DRvAekKdhDq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/106492"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169018,
+          "name": {
+            "first": "Nachi",
+            "last": null,
+            "native": "ナチ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169018-Ed3xZe5MqBr1.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169018-Ed3xZe5MqBr1.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/169018"
+        },
+        "voiceActors": [
+          {
+            "id": 101560,
+            "name": {
+              "first": "Satomi",
+              "last": "Satou",
+              "native": "佐藤聡美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101560-YN8w6EZZtIhb.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101560-YN8w6EZZtIhb.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101560"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45691,
+          "name": {
+            "first": "Yamato",
+            "last": null,
+            "native": "ヤマト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45691.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45691.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45691"
+        },
+        "voiceActors": [
+          {
+            "id": 95031,
+            "name": {
+              "first": "Mai",
+              "last": "Nakahara",
+              "native": "中原麻衣"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95031-tipPIz2k0Ncw.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95031-tipPIz2k0Ncw.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95031"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 45715,
+          "name": {
+            "first": "Musashi",
+            "last": null,
+            "native": "ムサシ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/45715.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/45715.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/45715"
+        },
+        "voiceActors": [
+          {
+            "id": 95008,
+            "name": {
+              "first": "Rie",
+              "last": "Kugimiya",
+              "native": "釘宮理恵"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95008-2y0EeuSTHIri.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95008"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 287799,
+          "name": {
+            "first": "Hiei",
+            "last": null,
+            "native": "ヒエイ",
+            "alternative": [
+              "Fast battleship Hiei"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287799-ZqPINHKayBWp.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b287799-ZqPINHKayBWp.png"
+          },
+          "siteUrl": "https://anilist.co/character/287799"
+        },
+        "voiceActors": [
+          {
+            "id": 118510,
+            "name": {
+              "first": "Mao",
+              "last": "Ichimichi",
+              "native": "市道真央"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118510-iMUv5D7W99C1.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118510-iMUv5D7W99C1.png"
+            },
+            "siteUrl": "https://anilist.co/staff/118510"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 101151,
+          "name": {
+            "first": "Ark",
+            "last": "Performance",
+            "native": "Ark Performance "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Studio composed of Kenji Mitsuyoshi and Koichi Ishikawa.",
+          "siteUrl": "https://anilist.co/staff/101151"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 101909,
+          "name": {
+            "first": "Seiji",
+            "last": "Kishi",
+            "native": "岸誠二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101909-aZwVsWQv0LXB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101909-aZwVsWQv0LXB.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/995498317)\n\nInterested in films and comics from his early childhood on. After graduating high school he went to Yoyogi Animation Gakuin and afterwards started working as animator for [Ajia-do](https://anilist.co/studio/30/). After becoming a freelancer for a short time, he joined Logistics where he worked in the software development section and was responsible for animation work and later developing tools for animation work in games. In 2002 he founded [Team Till Dawn](https://anilist.co/studio/6412/), which was also the beginning of his career as anime director.\n\nHis hobbies outside of work include bodybuilding, in which he has gone as far as to take part in competitions",
+          "siteUrl": "https://anilist.co/staff/101909"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 101929,
+          "name": {
+            "first": "Makoto",
+            "last": "Uezu",
+            "native": "上江洲誠"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101929-gsiCxUBGUOWn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101929-gsiCxUBGUOWn.png"
+          },
+          "description": "[Twitter](https://twitter.com/uezux) | [Website](http://uezu.soregashi.com/)",
+          "siteUrl": "https://anilist.co/staff/101929"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 117377,
+          "name": {
+            "first": "Masato",
+            "last": "Kouda",
+            "native": "甲田雅人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117377-xnxL7ds5aGWp.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n117377-xnxL7ds5aGWp.png"
+          },
+          "description": "[Twitter](https://twitter.com/mtocoda/)\n\nHe worked as a music composer for Capcom after graduating from the Kunitachi College of Music. He left the company in 2003 and founded Design Wave in 2007, and is still working as a composer for video games.  He is known for his work on the Devil May Cry and Monster Hunter series.",
+          "siteUrl": "https://anilist.co/staff/117377"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 537,
+          "name": "SANZIGEN",
+          "siteUrl": "https://anilist.co/studio/537"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 54242,
+          "airingAt": 1443798000,
+          "episode": 1,
+          "mediaId": 20764,
+          "media": {
+            "id": 20764
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 663,
+      "url": "http://aokihagane.com/",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 15127,
+      "rank": 293,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": null,
+      "season": null,
+      "allTime": true,
+      "context": "highest rated all time"
+    },
+    {
+      "id": 18002,
+      "rank": 17,
+      "type": "RATED",
+      "format": "MOVIE",
+      "year": 2015,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 18102,
+      "rank": 33,
+      "type": "POPULAR",
+      "format": "MOVIE",
+      "year": 2015,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 79027,
+          "rating": 0,
+          "media": {
+            "id": 20764,
+            "title": {
+              "native": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 97667,
+            "title": {
+              "native": "ハイスクール・フリート OVA"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85774,
+          "rating": 2,
+          "media": {
+            "id": 20764,
+            "title": {
+              "native": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 20553,
+            "title": {
+              "native": "艦隊これくしょん -艦これ-"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 85778,
+          "rating": 6,
+          "media": {
+            "id": 20764,
+            "title": {
+              "native": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 21316,
+            "title": {
+              "native": "ハイスクール・フリート"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 90119,
+          "rating": 5,
+          "media": {
+            "id": 20764,
+            "title": {
+              "native": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 101499,
+            "title": {
+              "native": "劇場版 ハイスクール・フリート"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 93631,
+          "rating": 7,
+          "media": {
+            "id": 20764,
+            "title": {
+              "native": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 21295,
+            "title": {
+              "native": "劇場版 艦これ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 310532,
+          "rating": 2,
+          "media": {
+            "id": 20764,
+            "title": {
+              "native": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 100878,
+            "title": {
+              "native": "劇場版 幼女戦記"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 310546,
+          "rating": 2,
+          "media": {
+            "id": 20764,
+            "title": {
+              "native": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 9751,
+            "title": {
+              "native": "ストライクウィッチーズ 劇場版"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 10
+      },
+      {
+        "score": 20,
+        "amount": 15
+      },
+      {
+        "score": 30,
+        "amount": 40
+      },
+      {
+        "score": 40,
+        "amount": 61
+      },
+      {
+        "score": 50,
+        "amount": 127
+      },
+      {
+        "score": 60,
+        "amount": 263
+      },
+      {
+        "score": 70,
+        "amount": 607
+      },
+      {
+        "score": 80,
+        "amount": 750
+      },
+      {
+        "score": 90,
+        "amount": 517
+      },
+      {
+        "score": 100,
+        "amount": 327
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 212
+      },
+      {
+        "status": "PLANNING",
+        "amount": 2906
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 4158
+      },
+      {
+        "status": "DROPPED",
+        "amount": 74
+      },
+      {
+        "status": "PAUSED",
+        "amount": 96
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/20764",
+  "modNotes": null
+}

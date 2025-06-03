@@ -1,0 +1,393 @@
+{
+  "id": 5303,
+  "idMal": 5303,
+  "title": {
+    "native": "ザブングルグラフィティ",
+    "romaji": "Xabungle Graffiti",
+    "english": "Xabungle Graffiti"
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "A movie recapping the events of the Xabungle TV series.",
+  "startDate": {
+    "year": 1983,
+    "month": 7,
+    "day": 9
+  },
+  "endDate": {
+    "year": 1983,
+    "month": 7,
+    "day": 9
+  },
+  "season": "SUMMER",
+  "seasonYear": 1983,
+  "seasonInt": 833,
+  "episodes": 1,
+  "duration": 84,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": null,
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748803379,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5303-yiVmUCm5D5ZZ.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5303-yiVmUCm5D5ZZ.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5303-yiVmUCm5D5ZZ.jpg",
+    "color": "#f1a150"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5303-ksxt9yMvQylj.jpg",
+  "genres": [
+    "Mecha"
+  ],
+  "synonyms": [],
+  "averageScore": 58,
+  "meanScore": 64,
+  "popularity": 576,
+  "favourites": 5,
+  "tags": [
+    {
+      "id": 175,
+      "name": "Robots",
+      "description": "Prominently features humanoid machines.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 111,
+      "name": "War",
+      "description": "Partly or completely set during wartime.",
+      "category": "Theme-Other",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 83,
+      "name": "Slapstick",
+      "description": "Prominently features comedy based on deliberately clumsy actions or embarrassing events.",
+      "category": "Theme-Comedy",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 139,
+      "name": "Love Triangle",
+      "description": "Centered around romantic feelings between more than two people. Includes all love polygons.",
+      "category": "Theme-Romance",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2254,
+          "title": {
+            "native": "戦闘メカザブングル"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 40203,
+          "name": {
+            "first": "Timp",
+            "last": "Sharon",
+            "native": "ティンプ・シャローン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40203-ASGKUODlXXZl.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b40203-ASGKUODlXXZl.png"
+          },
+          "siteUrl": "https://anilist.co/character/40203"
+        },
+        "voiceActors": [
+          {
+            "id": 95330,
+            "name": {
+              "first": "Banjou",
+              "last": "Ginga",
+              "native": "銀河万丈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95330-PHDm9uDhKAsT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95330-PHDm9uDhKAsT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95330"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 40209,
+          "name": {
+            "first": "Fatman",
+            "last": "Big",
+            "native": "ファットマン・ビッグ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/40209.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/40209.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/40209"
+        },
+        "voiceActors": [
+          {
+            "id": 95330,
+            "name": {
+              "first": "Banjou",
+              "last": "Ginga",
+              "native": "銀河万丈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95330-PHDm9uDhKAsT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95330-PHDm9uDhKAsT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95330"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 38885,
+          "name": {
+            "first": "Jiron",
+            "last": "Amos",
+            "native": "ジロン・アモス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/38885.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/38885.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/38885"
+        },
+        "voiceActors": [
+          {
+            "id": 104080,
+            "name": {
+              "first": "Shinya",
+              "last": "Ootaki",
+              "native": "大滝進矢"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9080.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9080.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/104080"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97337,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Tomino",
+            "native": "富野由悠季"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97337-kXpaK7OANmr9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97337-kXpaK7OANmr9.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/富野由悠季) | [Wiki (en)](https://en.wikipedia.org/wiki/Yoshiyuki_Tomino)\n\nYoshiyuki Tomino is an anime creator best known for creating the Gundam anime franchise.\n\nBegan his career in 1963 with [Osamu Tezuka](https://anilist.co/staff/96938/)'s company, [Mushi Production](https://anilist.co/studio/68/), scripting and directing episodes of the first Japanese anime television series, [Astro Boy](https://anilist.co/anime/2747/). He later became one of the most important members of the anime studio [Sunrise](https://anilist.co/studio/14/), going on to direct numerous anime through the '70s, '80s and '90s. He is perhaps best known for his transformation of the \"Super Robot\" mecha anime genre into the \"Real Robot\" genre with 1979's [Mobile Suit Gundam](https://anilist.co/anime/80/), the first in the Gundam franchise.\n\nKnown for using numerous pseudonyms.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/97337"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 97337,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Tomino",
+            "native": "富野由悠季"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97337-kXpaK7OANmr9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97337-kXpaK7OANmr9.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/富野由悠季) | [Wiki (en)](https://en.wikipedia.org/wiki/Yoshiyuki_Tomino)\n\nYoshiyuki Tomino is an anime creator best known for creating the Gundam anime franchise.\n\nBegan his career in 1963 with [Osamu Tezuka](https://anilist.co/staff/96938/)'s company, [Mushi Production](https://anilist.co/studio/68/), scripting and directing episodes of the first Japanese anime television series, [Astro Boy](https://anilist.co/anime/2747/). He later became one of the most important members of the anime studio [Sunrise](https://anilist.co/studio/14/), going on to direct numerous anime through the '70s, '80s and '90s. He is perhaps best known for his transformation of the \"Super Robot\" mecha anime genre into the \"Real Robot\" genre with 1979's [Mobile Suit Gundam](https://anilist.co/anime/80/), the first in the Gundam franchise.\n\nKnown for using numerous pseudonyms.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/97337"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 102491,
+          "name": {
+            "first": "Akira",
+            "last": "Kushida",
+            "native": "串田アキラ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102491-D2blo7m5s1jz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102491-D2blo7m5s1jz.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/102491"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 104222,
+          "name": {
+            "first": "MIQ",
+            "last": "",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104222-fYHbrJBSbz8j.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104222-fYHbrJBSbz8j.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/104222"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 106687,
+          "name": {
+            "first": "Yoshitake",
+            "last": "Suzuki",
+            "native": "鈴木良武"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106687-OYmIThqQISTI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106687-OYmIThqQISTI.png"
+          },
+          "description": "Started his career at [Mushi Production](https://anilist.co/studio/68/) in 1963. Later went freelance to further pursue his career as a scriptwriter.",
+          "siteUrl": "https://anilist.co/staff/106687"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 14,
+          "name": "Sunrise",
+          "siteUrl": "https://anilist.co/studio/14"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 7
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 9
+      },
+      {
+        "score": 50,
+        "amount": 29
+      },
+      {
+        "score": 60,
+        "amount": 14
+      },
+      {
+        "score": 70,
+        "amount": 19
+      },
+      {
+        "score": 80,
+        "amount": 28
+      },
+      {
+        "score": 90,
+        "amount": 3
+      },
+      {
+        "score": 100,
+        "amount": 17
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 25
+      },
+      {
+        "status": "PLANNING",
+        "amount": 308
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 203
+      },
+      {
+        "status": "DROPPED",
+        "amount": 23
+      },
+      {
+        "status": "PAUSED",
+        "amount": 17
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/5303",
+  "modNotes": null
+}

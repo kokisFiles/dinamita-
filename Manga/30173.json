@@ -1,0 +1,637 @@
+{
+  "id": 30173,
+  "idMal": 173,
+  "title": {
+    "native": "カウボーイビバップ",
+    "romaji": "Cowboy Bebop",
+    "english": "Cowboy Bebop"
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Spike, Jet, Faye and Ed&mdash;cowboys on the new frontier. Together this band of interplanetary bounty hunters takes on the jobs that anyone in their right mind would turn down. <br><br>\n(Source: Tokyopop) ",
+  "startDate": {
+    "year": 1999,
+    "month": 4,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2000,
+    "month": 4,
+    "day": 1
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 11,
+  "volumes": 3,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748891851,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30173-SU7cu3H9jLXT.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30173-SU7cu3H9jLXT.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx30173-SU7cu3H9jLXT.jpg",
+    "color": "#fec950"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "synonyms": [],
+  "averageScore": 66,
+  "meanScore": 67,
+  "popularity": 4581,
+  "favourites": 93,
+  "tags": [
+    {
+      "id": 63,
+      "name": "Space",
+      "description": "Partly or completely set in outer space.",
+      "category": "Setting-Universe",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 648,
+      "name": "Crime",
+      "description": "Centers around unlawful activities punishable by the state or other authority.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 157,
+      "name": "Guns",
+      "description": "Prominently features the use of guns in combat.",
+      "category": "Theme-Action",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 327,
+      "name": "Noir",
+      "description": "Stylized as a cynical crime drama with low-key visuals.",
+      "category": "Theme-Other",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 109,
+      "name": "Primarily Adult Cast",
+      "description": "Main cast is mostly composed of characters above a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 53,
+      "name": "Shoujo",
+      "description": "Target demographic is teenage and young adult females.",
+      "category": "Demographic",
+      "rank": 64,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 801,
+      "name": "Cyborg",
+      "description": "Prominently features a human character whose physiological functions are aided or enhanced by artificial means.",
+      "category": "Cast-Traits",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 586,
+      "name": "Cult",
+      "description": "Features a social group with unorthodox religious, spiritual, or philosophical beliefs and practices.",
+      "category": "Theme-Other-Organisations",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 60,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 391,
+      "name": "Philosophy",
+      "description": "Relating or devoted to the study of the fundamental nature of knowledge, reality, and existence.",
+      "category": "Theme-Other",
+      "rank": 55,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 91,
+      "name": "Gambling",
+      "description": "Centers around the act of gambling.",
+      "category": "Theme-Other",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1,
+          "title": {
+            "native": "カウボーイビバップ"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 30174,
+          "title": {
+            "native": "シューティングスタービバップ カウボーイビバップ"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3,
+          "name": {
+            "first": "Jet",
+            "last": "Black",
+            "native": "ジェット・ブラック",
+            "alternative": [
+              "Running Rock",
+              "Black Dog",
+              "Jet Jet"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3-JjH9Si9UM1NZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3-JjH9Si9UM1NZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/3"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1,
+          "name": {
+            "first": "Spike",
+            "last": "Spiegel",
+            "native": "スパイク・スピーゲル",
+            "alternative": [
+              "Spike Spike",
+              "Swimming Bird"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1-ChxaldmieFlQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b1-ChxaldmieFlQ.png"
+          },
+          "siteUrl": "https://anilist.co/character/1"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2,
+          "name": {
+            "first": "Faye",
+            "last": "Valentine",
+            "native": "フェイ・バレンタイン",
+            "alternative": [
+              "Poker Alice",
+              "Queen of Hearts",
+              "Romani"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2-0Iszg6Izgt4p.png"
+          },
+          "siteUrl": "https://anilist.co/character/2"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 16,
+          "name": {
+            "first": "Edward",
+            "last": "Wong Hau Pepelu Tivrusky IV",
+            "native": "エドワード・ウォン・ハウ・ペペル・チブルスキー4世",
+            "alternative": [
+              "Edward IV",
+              "Ed",
+              "Radical Ed",
+              "Radical Edward",
+              "Ed the Hacker",
+              "Françoise"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16-80wd87nl1Rue.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b16-80wd87nl1Rue.png"
+          },
+          "siteUrl": "https://anilist.co/character/16"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4,
+          "name": {
+            "first": "Ein",
+            "last": null,
+            "native": "アイン",
+            "alternative": [
+              "Poochie"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 19117,
+          "name": {
+            "first": "Bob",
+            "last": null,
+            "native": "ボブ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19117-h2JeUQavQxfz.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b19117-h2JeUQavQxfz.png"
+          },
+          "siteUrl": "https://anilist.co/character/19117"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13249,
+          "name": {
+            "first": "Appledelhi Siniz Hesap Lütfen",
+            "last": "",
+            "native": "アップルデリー・シニズ・ヘサップ・リュトフェン",
+            "alternative": [
+              "Afedersiniz Hesap Lutfen"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13249-cRGVNX7B9RRY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b13249-cRGVNX7B9RRY.png"
+          },
+          "siteUrl": "https://anilist.co/character/13249"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 97009,
+          "name": {
+            "first": "Shinichirou",
+            "last": "Watanabe",
+            "native": "渡辺信一郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97009-4K1Wc7JG9iLR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97009-4K1Wc7JG9iLR.png"
+          },
+          "description": "Most known for directing critically and commercially successful series, [Cowboy Bebop](https://anilist.co/anime/1/) and [Samurai Champloo](https://anilist.co/anime/205/).\n\nHe is noted for blending together multiple genres in his anime. For example, in Cowboy Bebop, classic cowboy western mixes with '60s/'70s New York City film noir, jazz/blues music, Hong Kong action movies, and to top it off the series is set in space. In his later work, Samurai Champloo, he unites the cultures of Okinawa, hip hop, modern-day Japan, and chanbara.",
+          "siteUrl": "https://anilist.co/staff/97009"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 97196,
+          "name": {
+            "first": "Nanten",
+            "last": "Yutaka",
+            "native": "佑南天"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/97196"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 97197,
+          "name": {
+            "first": "Hajime",
+            "last": "Yatate",
+            "native": "矢立肇"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97197-6NsKNt4EPoul.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97197-6NsKNt4EPoul.jpg"
+          },
+          "description": "[Website](http://www.yatate.net/) | [Twitter](https://twitter.com/yatate_hajime) | [Wiki (jp)](https://ja.wikipedia.org/wiki/矢立肇) | [Wiki (en)](https://en.wikipedia.org/wiki/Hajime_Yatate)\n\nHajime Yatate is a collective pseudonym for [Sunrise](https://anilist.co/studio/14/)'s staff.",
+          "siteUrl": "https://anilist.co/staff/97197"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 25803,
+      "rank": 38,
+      "type": "RATED",
+      "format": "MANGA",
+      "year": 1999,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 25880,
+      "rank": 15,
+      "type": "POPULAR",
+      "format": "MANGA",
+      "year": 1999,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 17579,
+          "rating": 8,
+          "media": {
+            "id": 30173,
+            "title": {
+              "native": "カウボーイビバップ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30703,
+            "title": {
+              "native": "トライガン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 17585,
+          "rating": 8,
+          "media": {
+            "id": 30173,
+            "title": {
+              "native": "カウボーイビバップ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30704,
+            "title": {
+              "native": "トライガン・マキシマム"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 99493,
+          "rating": 0,
+          "media": {
+            "id": 30173,
+            "title": {
+              "native": "カウボーイビバップ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 32701,
+            "title": {
+              "native": "GREY"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 109805,
+          "rating": 1,
+          "media": {
+            "id": 30173,
+            "title": {
+              "native": "カウボーイビバップ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30481,
+            "title": {
+              "native": "プラネテス"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 244187,
+          "rating": 1,
+          "media": {
+            "id": 30173,
+            "title": {
+              "native": "カウボーイビバップ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 44483,
+            "title": {
+              "native": "宇宙兄弟"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 265388,
+          "rating": 4,
+          "media": {
+            "id": 30173,
+            "title": {
+              "native": "カウボーイビバップ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30642,
+            "title": {
+              "native": "ヴィンランド・サガ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 267458,
+          "rating": 1,
+          "media": {
+            "id": 30173,
+            "title": {
+              "native": "カウボーイビバップ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30438,
+            "title": {
+              "native": "ルパン三世"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 21
+      },
+      {
+        "score": 20,
+        "amount": 19
+      },
+      {
+        "score": 30,
+        "amount": 27
+      },
+      {
+        "score": 40,
+        "amount": 69
+      },
+      {
+        "score": 50,
+        "amount": 119
+      },
+      {
+        "score": 60,
+        "amount": 214
+      },
+      {
+        "score": 70,
+        "amount": 335
+      },
+      {
+        "score": 80,
+        "amount": 231
+      },
+      {
+        "score": 90,
+        "amount": 138
+      },
+      {
+        "score": 100,
+        "amount": 119
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 302
+      },
+      {
+        "status": "PLANNING",
+        "amount": 2260
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1802
+      },
+      {
+        "status": "DROPPED",
+        "amount": 102
+      },
+      {
+        "status": "PAUSED",
+        "amount": 115
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/30173",
+  "modNotes": null
+}

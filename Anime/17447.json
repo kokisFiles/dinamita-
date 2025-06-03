@@ -1,0 +1,584 @@
+{
+  "id": 17447,
+  "idMal": 17447,
+  "title": {
+    "native": "巨人の星 宿命の対決",
+    "romaji": "Kyojin no Hoshi: Shukumei no Taiketsu",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "description": "Fourth Kyojin no Hoshi movie.",
+  "startDate": {
+    "year": 1970,
+    "month": 8,
+    "day": 1
+  },
+  "endDate": {
+    "year": 1970,
+    "month": 8,
+    "day": 1
+  },
+  "season": "SUMMER",
+  "seasonYear": 1970,
+  "seasonInt": 703,
+  "episodes": 1,
+  "duration": 60,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748712744,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17447-4vlVn0qp7HPz.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17447-4vlVn0qp7HPz.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx17447-4vlVn0qp7HPz.png",
+    "color": "#e4ae0d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Drama",
+    "Sports"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 47,
+  "popularity": 210,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 149,
+      "name": "Baseball",
+      "description": "Centers around the sport of baseball.",
+      "category": "Theme-Game-Sport",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 45305,
+          "title": {
+            "native": "巨人の星"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 17445,
+          "title": {
+            "native": "巨人の星 大リーグボール"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 5834,
+          "title": {
+            "native": "巨人の星"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 33600,
+          "name": {
+            "first": "Hyuuma",
+            "last": "Hoshi",
+            "native": "星飛雄馬",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b33600-XctGfvgKnP2f.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b33600-XctGfvgKnP2f.png"
+          },
+          "siteUrl": "https://anilist.co/character/33600"
+        },
+        "voiceActors": [
+          {
+            "id": 95326,
+            "name": {
+              "first": "Tooru",
+              "last": "Furuya",
+              "native": "古谷徹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95326-OfRv2DBnFVZU.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95326-OfRv2DBnFVZU.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95326"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 36309,
+          "name": {
+            "first": "Narrator",
+            "last": null,
+            "native": "ナレーター",
+            "alternative": [
+              "語り手",
+              "ナレーション",
+              "Narrador",
+              "Rozprávač",
+              "Vyprávěč",
+              "Dış ses",
+              "Narratore",
+              "Pripovjedač",
+              "Narradora",
+              "Рассказчик",
+              "Người dẫn chuyện",
+              "Tagapagsalaysay",
+              "내레이터",
+              "Narratore",
+              "Erzählperson",
+              "מספר",
+              "Narrátor",
+              "讲述人",
+              "راوي",
+              "Forteller",
+              "Berättare",
+              "Αφηγητής",
+              "Narrateur",
+              "なれーしょん",
+              "旁白",
+              "Narrato"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36309"
+        },
+        "voiceActors": [
+          {
+            "id": 164199,
+            "name": {
+              "first": "Kyouji",
+              "last": "Kobayashi",
+              "native": "小林恭治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164199-TpH0MGZHR3Cw.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n164199-TpH0MGZHR3Cw.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/164199"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 211931,
+          "name": {
+            "first": "Mitsuru",
+            "last": "Hanagata",
+            "native": "花形満",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211931-cib1OXD8OqhY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211931-cib1OXD8OqhY.png"
+          },
+          "siteUrl": "https://anilist.co/character/211931"
+        },
+        "voiceActors": [
+          {
+            "id": 96148,
+            "name": {
+              "first": "Makio",
+              "last": "Inoue",
+              "native": "井上真樹夫"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96148-1qMEEmg8Ev8R.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96148-1qMEEmg8Ev8R.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96148"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 211935,
+          "name": {
+            "first": "Chuuta",
+            "last": "Ban",
+            "native": "伴宙太",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211935-rNyG6rxQtroZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211935-rNyG6rxQtroZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/211935"
+        },
+        "voiceActors": [
+          {
+            "id": 95670,
+            "name": {
+              "first": "Jouji",
+              "last": "Yanami",
+              "native": "八奈見乗児"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95670-fTFcKuDyrOjc.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95670-fTFcKuDyrOjc.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95670"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 211934,
+          "name": {
+            "first": "Hosaku",
+            "last": "Samon",
+            "native": "左門豊作",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211934-5dXTYRO1ldId.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211934-5dXTYRO1ldId.png"
+          },
+          "siteUrl": "https://anilist.co/character/211934"
+        },
+        "voiceActors": [
+          {
+            "id": 102178,
+            "name": {
+              "first": "Shingo",
+              "last": "Kanemoto",
+              "native": "兼本新吾"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7178.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/7178.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102178"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 211933,
+          "name": {
+            "first": "Ittetsu",
+            "last": "Hoshi",
+            "native": "星一徹",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211933-4paz14TxmEON.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211933-4paz14TxmEON.png"
+          },
+          "siteUrl": "https://anilist.co/character/211933"
+        },
+        "voiceActors": [
+          {
+            "id": 96036,
+            "name": {
+              "first": "Seizou",
+              "last": "Katou",
+              "native": "加藤精三"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96036-i2L5KwYbS8KR.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96036-i2L5KwYbS8KR.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96036"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 211932,
+          "name": {
+            "first": "Akiko",
+            "last": "Hoshi",
+            "native": "星明子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211932-EpGEBxa57KTt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211932-EpGEBxa57KTt.png"
+          },
+          "siteUrl": "https://anilist.co/character/211932"
+        },
+        "voiceActors": [
+          {
+            "id": 103860,
+            "name": {
+              "first": "Fuyumi",
+              "last": "Shiraishi",
+              "native": "白石冬美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103860-jVyAdLz2MZf1.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103860-jVyAdLz2MZf1.png"
+            },
+            "siteUrl": "https://anilist.co/staff/103860"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 211936,
+          "name": {
+            "first": "Armstrong",
+            "last": "Ozuma",
+            "native": "アームストロング・オズマ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b211936-nn01rZrg7Neq.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b211936-nn01rZrg7Neq.png"
+          },
+          "siteUrl": "https://anilist.co/character/211936"
+        },
+        "voiceActors": [
+          {
+            "id": 95339,
+            "name": {
+              "first": "Kiyoshi",
+              "last": "Kobayashi",
+              "native": "小林清志 "
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95339-lEIGi2vIa2hN.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95339-lEIGi2vIa2hN.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95339"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 99017,
+          "name": {
+            "first": "Ikki",
+            "last": "Kajiwara",
+            "native": "梶原一騎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99017-MtlVDsk5ZaiP.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99017-MtlVDsk5ZaiP.jpg"
+          },
+          "description": "Asaki Takamori, better known by this pen names Ikki Kajiwara and Asao Takamori, was a Japanese author, manga writer, and film producer. He is known for series about sports and martial arts. He considered [Tiger Mask](https://anilist.co/manga/60575/) and [Kyojin no Hoshi](https://anilist.co/manga/45305/) to be his life's work.\n\nFormerly married to [Bingbing Pai](https://anilist.co/staff/256250) from 1979 to 1981.",
+          "siteUrl": "https://anilist.co/staff/99017"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 102880,
+          "name": {
+            "first": "Masaki",
+            "last": "Tsuji",
+            "native": "辻真先"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102880-z2HDT2fhu9BQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102880-z2HDT2fhu9BQ.png"
+          },
+          "description": "[Twitter](https://twitter.com/mtsujiji) | [Wiki (jp)](https://ja.wikipedia.org/wiki/辻真先) | [Wiki (en)](https://en.wikipedia.org/wiki/Masaki_Tsuji)\n\nTsuji was most active in the business from the '60s through the '80s, and worked as a screenwriter on many popular anime television series for [Mushi Production](https://anilist.co/studio/68/), [Toei Animation](https://anilist.co/studio/18/), and [Tokyo Movie Shinsha](https://anilist.co/studio/65/). He is well known for his association with the animated adaptations of the works of [Osamu Tezuka](https://anilist.co/staff/96938/) and [Go Nagai](https://anilist.co/staff/97992/). In April 2007, Tsuji headed Japan's first international anime research lab as part of Digital Hollywood University. In 2007, he was given a lifetime achievement award at the 11th Japan Media Arts Festival. In 2008, he won a Special Award in the 13th Animation Kobe for his writing work.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/102880"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 103611,
+          "name": {
+            "first": "Noboru",
+            "last": "Kawasaki",
+            "native": "川崎のぼる"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103611-3LHBtgVnT9aV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103611-3LHBtgVnT9aV.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/103611"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 106839,
+          "name": {
+            "first": "Takeo",
+            "last": "Watanabe",
+            "native": "渡辺岳夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106839-WnsEFFU6zXHA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106839-WnsEFFU6zXHA.png"
+          },
+          "description": "He was a music composer for anime, drama and jidaigeki from Tokyo, Japan. He passed away from renal failure.",
+          "siteUrl": "https://anilist.co/staff/106839"
+        }
+      },
+      {
+        "role": "Episode Director",
+        "node": {
+          "id": 114964,
+          "name": {
+            "first": "Tadao",
+            "last": "Nagahama",
+            "native": "長浜忠夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/19964.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/19964.jpg"
+          },
+          "description": "Tadao Nagahama was a director of both puppet shows and animation.\n\nHe is best known as the director of Sunrise and Toei Company's Robot Romance Trilogy, which added human drama to the Super Robot Genre. Nagahama also directed several hit anime series that are still well known among Japanese viewers. Moreover, he produced hits with works of all genres, including sports, comedies, shounen, shoujo, and Super Robots. He has been referred to as \"the Emperor\" in imitation of film director Akira Kurosawa.\n\n He and his wife contracted hepatitis while traveling overseas. Although his wife survived, he died from the disease at the age of 48.",
+          "siteUrl": "https://anilist.co/staff/114964"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 65,
+          "name": "Tokyo Movie Shinsha",
+          "siteUrl": "https://anilist.co/studio/65"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 10
+      },
+      {
+        "score": 40,
+        "amount": 2
+      },
+      {
+        "score": 50,
+        "amount": 4
+      },
+      {
+        "score": 60,
+        "amount": 2
+      },
+      {
+        "score": 70,
+        "amount": 2
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 90,
+        "amount": 3
+      },
+      {
+        "score": 100,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 9
+      },
+      {
+        "status": "PLANNING",
+        "amount": 90
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 73
+      },
+      {
+        "status": "DROPPED",
+        "amount": 32
+      },
+      {
+        "status": "PAUSED",
+        "amount": 6
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/17447",
+  "modNotes": null
+}

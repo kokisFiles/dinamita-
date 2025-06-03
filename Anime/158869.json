@@ -1,0 +1,989 @@
+{
+  "id": 158869,
+  "idMal": 53873,
+  "title": {
+    "native": "ポケットモンスター 遥かなる青い空",
+    "romaji": "Pocket Monsters: Haruka Naru Aoi Sora",
+    "english": "Pokémon: Distant Blue Sky!"
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "A special <i>Pocket Monsters</i> episode depicting the encounter between Satoshi, Pikachu, and the mysterious boy Haruto.",
+  "startDate": {
+    "year": 2022,
+    "month": 12,
+    "day": 23
+  },
+  "endDate": {
+    "year": 2022,
+    "month": 12,
+    "day": 23
+  },
+  "season": "FALL",
+  "seasonYear": 2022,
+  "seasonInt": 224,
+  "episodes": 1,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": "#アニポケ",
+  "trailer": {
+    "id": "Hyh3lQPNo0A",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/Hyh3lQPNo0A/hqdefault.jpg"
+  },
+  "updatedAt": 1748857038,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158869-hu2pGpekzQlx.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158869-hu2pGpekzQlx.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158869-hu2pGpekzQlx.jpg",
+    "color": "#2886e4"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158869-lc1GKXHsIiRa.jpg",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "synonyms": [
+    "Pokémon: The Distant Blue Sky",
+    "Pokémon: Blå himmel i det fjerne! ",
+    "Pokémon: Avlägsen blå himmel",
+    "Pokémon: Odległe błękitne niebo"
+  ],
+  "averageScore": 71,
+  "meanScore": 72,
+  "popularity": 2909,
+  "favourites": 28,
+  "tags": [
+    {
+      "id": 220,
+      "name": "Ghost",
+      "description": "Prominently features a character who is a ghost.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 112153,
+          "title": {
+            "native": "ポケットモンスター (2019)"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3891,
+          "name": {
+            "first": "Pikachu",
+            "last": null,
+            "native": "ピカチュウ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3891-edgrZOgCJ9do.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3891"
+        },
+        "voiceActors": [
+          {
+            "id": 95128,
+            "name": {
+              "first": "Ikue",
+              "last": "Ootani",
+              "native": "大谷育江"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95128-9YWpE1d2U8Sj.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95128"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2473,
+          "name": {
+            "first": "Satoshi",
+            "last": null,
+            "native": "サトシ",
+            "alternative": [
+              "Ash Ketchum",
+              "Sacha Ketchum"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b2473-JDoo3I82Km4l.png"
+          },
+          "siteUrl": "https://anilist.co/character/2473"
+        },
+        "voiceActors": [
+          {
+            "id": 95678,
+            "name": {
+              "first": "Rica",
+              "last": "Matsumoto",
+              "native": "松本梨香"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95678-U0iKFbhteND6.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95678-U0iKFbhteND6.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95678"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 294397,
+          "name": {
+            "first": "Haruto",
+            "last": null,
+            "native": "ハルト",
+            "alternative": [
+              "Sunny"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294397-l5Spvgu9T8H9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294397-l5Spvgu9T8H9.png"
+          },
+          "siteUrl": "https://anilist.co/character/294397"
+        },
+        "voiceActors": [
+          {
+            "id": 125130,
+            "name": {
+              "first": "Arisa",
+              "last": "Sekine",
+              "native": "関根有咲"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/125130-0tQuMPLTpr8V.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/125130-0tQuMPLTpr8V.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/125130"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3937,
+          "name": {
+            "first": "Nyarth",
+            "last": null,
+            "native": "ニャース",
+            "alternative": [
+              "Meowth",
+              "Nyaasu",
+              "Miaouss"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3937-qBtTAn2SZqhB.png"
+          },
+          "siteUrl": "https://anilist.co/character/3937"
+        },
+        "voiceActors": [
+          {
+            "id": 96024,
+            "name": {
+              "first": "Inuko",
+              "last": "Inuyama",
+              "native": "犬山イヌコ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96024-z7W9WbvflI6S.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96024-z7W9WbvflI6S.png"
+            },
+            "siteUrl": "https://anilist.co/staff/96024"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3935,
+          "name": {
+            "first": "Musashi",
+            "last": null,
+            "native": "ムサシ",
+            "alternative": [
+              "Jessie",
+              "Jessica",
+              "Jessebella",
+              "Musa-pyon",
+              "Jessadia",
+              "Pretty Musalin",
+              "Jessilina",
+              "Candy Musalina",
+              "Jessilee",
+              "Jessileia",
+              "Musavie",
+              "Musasina"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3935-m000RuoIVOGI.png"
+          },
+          "siteUrl": "https://anilist.co/character/3935"
+        },
+        "voiceActors": [
+          {
+            "id": 95014,
+            "name": {
+              "first": "Megumi",
+              "last": "Hayashibara",
+              "native": "林原めぐみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95014-tFYQYYhlVOF0.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95014-tFYQYYhlVOF0.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95014"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3936,
+          "name": {
+            "first": "Kojirou",
+            "last": null,
+            "native": "コジロウ",
+            "alternative": [
+              "James"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3936-5sX4EZIY2BRU.png"
+          },
+          "siteUrl": "https://anilist.co/character/3936"
+        },
+        "voiceActors": [
+          {
+            "id": 95022,
+            "name": {
+              "first": "Shinichirou",
+              "last": "Miki",
+              "native": "三木眞一郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95022-BXggjIr4KHqd.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95022"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 29184,
+          "name": {
+            "first": "Hanako",
+            "last": null,
+            "native": "ハナコ ",
+            "alternative": [
+              "Delia Ketchum"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/29184.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/29184.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/29184"
+        },
+        "voiceActors": [
+          {
+            "id": 105559,
+            "name": {
+              "first": "Masami",
+              "last": "Toyoshima",
+              "native": "豊島まさみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105559-YhLPYh0q5ehk.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n105559-YhLPYh0q5ehk.png"
+            },
+            "siteUrl": "https://anilist.co/staff/105559"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 144635,
+          "name": {
+            "first": "Sonans",
+            "last": null,
+            "native": "ソーナンス",
+            "alternative": [
+              "Wobbuffet",
+              "Woingenau",
+              "Qulbutoké"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144635-gUHUUYtPcxuV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b144635-gUHUUYtPcxuV.png"
+          },
+          "siteUrl": "https://anilist.co/character/144635"
+        },
+        "voiceActors": [
+          {
+            "id": 95058,
+            "name": {
+              "first": "Yuuji",
+              "last": "Ueda",
+              "native": "うえだゆうじ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95058-fGnId7E4tgx3.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95058-fGnId7E4tgx3.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95058"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 7558,
+          "name": {
+            "first": "Joy",
+            "last": null,
+            "native": "ジョーイ",
+            "alternative": [
+              "Nurse Joy"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7558-LzxI6BSiinA3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b7558-LzxI6BSiinA3.png"
+          },
+          "siteUrl": "https://anilist.co/character/7558"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 294936,
+          "name": {
+            "first": "Sae",
+            "last": null,
+            "native": "サエ",
+            "alternative": [
+              "Sue"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b294936-2U0Ibr7Pa5oX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b294936-2U0Ibr7Pa5oX.png"
+          },
+          "siteUrl": "https://anilist.co/character/294936"
+        },
+        "voiceActors": [
+          {
+            "id": 95076,
+            "name": {
+              "first": "Akemi",
+              "last": "Okamura",
+              "native": "岡村明美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95076-itRGy8F3x5Em.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95076-itRGy8F3x5Em.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95076"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36309,
+          "name": {
+            "first": "Narrator",
+            "last": null,
+            "native": "ナレーター",
+            "alternative": [
+              "語り手",
+              "ナレーション",
+              "Narrador",
+              "Rozprávač",
+              "Vyprávěč",
+              "Dış ses",
+              "Narratore",
+              "Pripovjedač",
+              "Narradora",
+              "Рассказчик",
+              "Người dẫn chuyện",
+              "Tagapagsalaysay",
+              "내레이터",
+              "Narratore",
+              "Erzählperson",
+              "מספר",
+              "Narrátor",
+              "讲述人",
+              "راوي",
+              "Forteller",
+              "Berättare",
+              "Αφηγητής",
+              "Narrateur",
+              "なれーしょん",
+              "旁白",
+              "Narrato"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b36309-6KM0riV4lqfN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36309"
+        },
+        "voiceActors": [
+          {
+            "id": 95357,
+            "name": {
+              "first": "Unshou",
+              "last": "Ishizuka",
+              "native": "石塚運昇"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95357-umndcceko65h.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95357"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Script",
+        "node": {
+          "id": 119191,
+          "name": {
+            "first": "Shouji",
+            "last": "Yonemura",
+            "native": "米村正二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119191-L6sNap17Rcfm.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119191-L6sNap17Rcfm.png"
+          },
+          "description": "[Twitter](https://twitter.com/yonemura_s)",
+          "siteUrl": "https://anilist.co/staff/119191"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 146669,
+          "name": {
+            "first": "Shuuhei",
+            "last": "Yasuda",
+            "native": "安田周平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146669-uswN7fp7TQQi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146669-uswN7fp7TQQi.png"
+          },
+          "description": "[Twitter](https://twitter.com/alien18183go/)",
+          "siteUrl": "https://anilist.co/staff/146669"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 106994,
+          "name": {
+            "first": "Shinji",
+            "last": "Miyazaki",
+            "native": "宮崎慎二"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106994-Hei1pZ2kJr14.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106994-Hei1pZ2kJr14.png"
+          },
+          "description": "Shinji Miyazaki  is a Japanese composer and arranger. He was born in Kobe, and lived in a variety of areas on the island of Shikoku for much of his childhood. He developed a taste for pop music, which eventually led him to study musical arrangement and piano instruction at the Shobi College of Music. He took some time in deciding that music would become his career, but eventually decided to become an arranger, and later a composer.\n\nHis work has dealt primarily with musical scores for anime. His most well known contributions include music for the Crayon Shin-chan series and music for much of the Pokémon anime series and most of the films in it from 1997 to 2019. His work pulls from many inspirations, among them J-Pop and American pop influences, as well as jazz artist Gil Evans. Many of his compositions utilize string and brass instruments, particularly the french horn.\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/106994"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100180,
+          "name": {
+            "first": "Kunihiko",
+            "last": "Yuyama",
+            "native": "湯山邦彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100180-iex6OEpSH5kG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100180-iex6OEpSH5kG.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/100180"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 146878,
+          "name": {
+            "first": "Sayuri",
+            "last": "Ichiishi",
+            "native": "一石小百合"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146878-UQ5a67WLAGiR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146878-UQ5a67WLAGiR.png"
+          },
+          "description": "[Twitter](https://twitter.com/sayuri_ichiishi)\n\nLong-time employee at [OLM](https://anilist.co/studio/28/), and one of the studio's most respected animators.\n\nFamous as the lead character designer for the extremely long-running [Pokémon](https://anilist.co/anime/527/) anime series. Her work faithfully resembles [Ken Sugimori](https://anilist.co/staff/107479/)'s original designs to transfer the characters into the anime. Ichiishi is also responsible for designing the majority of the original characters exclusive to the anime.",
+          "siteUrl": "https://anilist.co/staff/146878"
+        }
+      },
+      {
+        "role": "ADR Director (Brazilian Portuguese)",
+        "node": {
+          "id": 197297,
+          "name": {
+            "first": "Karina",
+            "last": "Fonseca",
+            "native": "Karina de Figueiredo Fonseca"
+          },
+          "language": "PORTUGUESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n197297-UB3afhRwfFy5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n197297-UB3afhRwfFy5.jpg"
+          },
+          "description": "[Instagram](https://Instagram.com/karina.f.fonseca/) | [Twitter](https://twitter.com/karinaffonseca) | [Facebook](https://facebook.com/karina.f.fonseca) | [TikTok](https://www.tiktok.com/@karina.f.fonseca)\n\nKarina de Figueiredo Fonseca, better known simply as Karina Fonseca, is a Brazilian actress, voice actress, dubbing director, dubbing teacher and biologist.",
+          "siteUrl": "https://anilist.co/staff/197297"
+        }
+      },
+      {
+        "role": "ADR Director (Swedish)",
+        "node": {
+          "id": 321047,
+          "name": {
+            "first": "Vincent",
+            "last": "Werner",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/321047"
+        }
+      },
+      {
+        "role": "ADR Translator (Norwegian)",
+        "node": {
+          "id": 237990,
+          "name": {
+            "first": "Lise",
+            "last": "Knudsen",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Lise Knudsen is a Norwegian translator at SDI Media Oslo.",
+          "siteUrl": "https://anilist.co/staff/237990"
+        }
+      },
+      {
+        "role": "ADR Translator (Swedish)",
+        "node": {
+          "id": 321042,
+          "name": {
+            "first": "Douglas",
+            "last": "Leijgård",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n321042-j1zxYlVtlKWr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n321042-j1zxYlVtlKWr.png"
+          },
+          "description": "Douglas Leijgård is a Swedish Translator affiliated with A TransUnion Brand",
+          "siteUrl": "https://anilist.co/staff/321042"
+        }
+      },
+      {
+        "role": "ADR Director (Norwegian)",
+        "node": {
+          "id": 237991,
+          "name": {
+            "first": "Magnus",
+            "last": "Bakke",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n237991-BtwfrHLSlGmV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n237991-BtwfrHLSlGmV.jpg"
+          },
+          "description": "Magnus Møller Bakke is a Norwegian director, scriptwriter, sound designer, re-recording mixer at the SDI Media Oslo. He has studied sound design at Westerdals Oslo School of Arts, Communication and Technology.",
+          "siteUrl": "https://anilist.co/staff/237991"
+        }
+      },
+      {
+        "role": "ADR Director (Norwegian)",
+        "node": {
+          "id": 322326,
+          "name": {
+            "first": "Else",
+            "last": "Ljøstad",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n322326-QZfMG0khBKF7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n322326-QZfMG0khBKF7.png"
+          },
+          "description": "[Instagram](https://www.instagram.com/elsegunhild/) | [Twitter](https://twitter.com/someoneelses?lang=en)",
+          "siteUrl": "https://anilist.co/staff/322326"
+        }
+      },
+      {
+        "role": "ADR Director (Polish)",
+        "node": {
+          "id": 278997,
+          "name": {
+            "first": "Adam",
+            "last": "Łonicki",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n278997-YDcFQrOlvO35.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n278997-YDcFQrOlvO35.jpg"
+          },
+          "description": "[Instagram](https://www.instagram.com/dyzma_lonicki/) | [Threads](https://www.threads.net/@dyzma_lonicki)\n\nDubbing director and audio engineer at Iyuno Poland.",
+          "siteUrl": "https://anilist.co/staff/278997"
+        }
+      },
+      {
+        "role": "ADR Sound (Polish)",
+        "node": {
+          "id": 278997,
+          "name": {
+            "first": "Adam",
+            "last": "Łonicki",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n278997-YDcFQrOlvO35.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n278997-YDcFQrOlvO35.jpg"
+          },
+          "description": "[Instagram](https://www.instagram.com/dyzma_lonicki/) | [Threads](https://www.threads.net/@dyzma_lonicki)\n\nDubbing director and audio engineer at Iyuno Poland.",
+          "siteUrl": "https://anilist.co/staff/278997"
+        }
+      },
+      {
+        "role": "ADR Script (Polish)",
+        "node": {
+          "id": 278996,
+          "name": {
+            "first": "Anna",
+            "last": "Wysocka",
+            "native": null
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/278996"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 28,
+          "name": "OLM",
+          "siteUrl": "https://anilist.co/studio/28"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 16,
+          "name": "TV Tokyo",
+          "siteUrl": "https://anilist.co/studio/16"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 135,
+          "name": "MediaNet",
+          "siteUrl": "https://anilist.co/studio/135"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 345759,
+          "airingAt": 1671746100,
+          "episode": 1,
+          "mediaId": 158869,
+          "media": {
+            "id": 158869
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 63226,
+      "url": "https://twitter.com/anipoke_PR",
+      "site": "Twitter"
+    },
+    {
+      "id": 78988,
+      "url": "https://www.netflix.com/watch/81670593",
+      "site": "Netflix"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 185510,
+          "rating": 7,
+          "media": {
+            "id": 158869,
+            "title": {
+              "native": "ポケットモンスター 遥かなる青い空"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 527,
+            "title": {
+              "native": "ポケットモンスター"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 185512,
+          "rating": 7,
+          "media": {
+            "id": 158869,
+            "title": {
+              "native": "ポケットモンスター 遥かなる青い空"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 19291,
+            "title": {
+              "native": "ポケットモンスターXY"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 185514,
+          "rating": 6,
+          "media": {
+            "id": 158869,
+            "title": {
+              "native": "ポケットモンスター 遥かなる青い空"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 21356,
+            "title": {
+              "native": "ポケットモンスター XY&Z"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 191014,
+          "rating": 2,
+          "media": {
+            "id": 158869,
+            "title": {
+              "native": "ポケットモンスター 遥かなる青い空"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 98298,
+            "title": {
+              "native": "劇場版 ポケットモンスター キミにきめた!"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 4
+      },
+      {
+        "score": 40,
+        "amount": 22
+      },
+      {
+        "score": 50,
+        "amount": 74
+      },
+      {
+        "score": 60,
+        "amount": 166
+      },
+      {
+        "score": 70,
+        "amount": 379
+      },
+      {
+        "score": 80,
+        "amount": 264
+      },
+      {
+        "score": 90,
+        "amount": 132
+      },
+      {
+        "score": 100,
+        "amount": 74
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 61
+      },
+      {
+        "status": "PLANNING",
+        "amount": 982
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1832
+      },
+      {
+        "status": "DROPPED",
+        "amount": 21
+      },
+      {
+        "status": "PAUSED",
+        "amount": 13
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/158869",
+  "modNotes": null
+}

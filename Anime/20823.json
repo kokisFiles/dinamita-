@@ -1,0 +1,626 @@
+{
+  "id": 20823,
+  "idMal": 25689,
+  "title": {
+    "native": "百花繚乱 サムライアフター",
+    "romaji": "Hyakka Ryouran: Samurai After",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "The \"Samurai Sousenkyo\" (Samurai General Election) episode is set one year after Samurai Bride's story.",
+  "startDate": {
+    "year": 2014,
+    "month": 12,
+    "day": 19
+  },
+  "endDate": {
+    "year": 2015,
+    "month": 7,
+    "day": 1
+  },
+  "season": "WINTER",
+  "seasonYear": 2015,
+  "seasonInt": 151,
+  "episodes": 2,
+  "duration": 30,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "LIGHT_NOVEL",
+  "hashtag": "#hyakka_anime #hyakka",
+  "trailer": null,
+  "updatedAt": 1748879493,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20823.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20823.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/20823.jpg",
+    "color": "#d6e45d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Ecchi"
+  ],
+  "synonyms": [],
+  "averageScore": 62,
+  "meanScore": 63,
+  "popularity": 5355,
+  "favourites": 48,
+  "tags": [
+    {
+      "id": 291,
+      "name": "Samurai",
+      "description": "Prominently features warriors of medieval Japanese nobility bound by a code of honor.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 100,
+      "name": "Nudity",
+      "description": "Features a character wearing no clothing or exposing intimate body parts.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 23,
+      "name": "Female Harem",
+      "description": "Main cast features the protagonist plus several female characters who are romantically interested in them.",
+      "category": "Theme-Romance",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 15377,
+          "title": {
+            "native": "百花繚乱 サムライブライド"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 21299,
+          "title": {
+            "native": "百花繚乱サムライアフター 妄想新婚日記"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 31732,
+          "name": {
+            "first": "Juubei",
+            "last": "Yagyuu",
+            "native": "柳生 十兵衛",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31732.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31732.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31732"
+        },
+        "voiceActors": [
+          {
+            "id": 101686,
+            "name": {
+              "first": "Aoi",
+              "last": "Yuuki",
+              "native": "悠木碧"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101686-PTd0lQZMsmcv.png"
+            },
+            "siteUrl": "https://anilist.co/staff/101686"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34367,
+          "name": {
+            "first": "Gisen",
+            "last": "Yagyuu",
+            "native": "柳生 義仙",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34367.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34367.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34367"
+        },
+        "voiceActors": [
+          {
+            "id": 95579,
+            "name": {
+              "first": "Kaoru",
+              "last": "Mizuhara",
+              "native": "水原薫"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95579-5ZsNx7VamyqG.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95579-5ZsNx7VamyqG.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95579"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 34340,
+          "name": {
+            "first": "Muneakira",
+            "last": "Yagyuu",
+            "native": "柳生 宗朗",
+            "alternative": [
+              "Mune"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34340.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34340.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34340"
+        },
+        "voiceActors": [
+          {
+            "id": 95183,
+            "name": {
+              "first": "Daisuke",
+              "last": "Hirakawa",
+              "native": "平川大輔"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95183-5C42gbrKIP7L.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95183-5C42gbrKIP7L.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95183"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 31993,
+          "name": {
+            "first": "Yukimura",
+            "last": "Sanada",
+            "native": "真田 幸村",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/31993.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/31993.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/31993"
+        },
+        "voiceActors": [
+          {
+            "id": 95008,
+            "name": {
+              "first": "Rie",
+              "last": "Kugimiya",
+              "native": "釘宮理恵"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95008-2y0EeuSTHIri.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95008"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34344,
+          "name": {
+            "first": "Charles",
+            "last": "D'Artagnan",
+            "native": "シャルル・ド・ダルタニアン",
+            "alternative": [
+              "Nia"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34344.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34344.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34344"
+        },
+        "voiceActors": [
+          {
+            "id": 95070,
+            "name": {
+              "first": "Ami",
+              "last": "Koshimizu",
+              "native": "小清水亜美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95070-klkIfKz1VItS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95070"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 34341,
+          "name": {
+            "first": "Sen",
+            "last": "Tokugawa",
+            "native": "徳川 千 (千姫)",
+            "alternative": [
+              "Senhime"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34341.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34341.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34341"
+        },
+        "voiceActors": [
+          {
+            "id": 101634,
+            "name": {
+              "first": "Minako",
+              "last": "Kotobuki",
+              "native": "寿美菜子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101634-IiPW117K0ybp.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101634-IiPW117K0ybp.png"
+            },
+            "siteUrl": "https://anilist.co/staff/101634"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34342,
+          "name": {
+            "first": "Matabei",
+            "last": "Gotou",
+            "native": "後藤 又兵衛",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34342.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34342.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34342"
+        },
+        "voiceActors": [
+          {
+            "id": 95034,
+            "name": {
+              "first": "Yuu",
+              "last": "Kobayashi",
+              "native": "小林ゆう"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95034-AwobjrcmkMi9.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95034-AwobjrcmkMi9.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95034"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34345,
+          "name": {
+            "first": "Kanetsugu",
+            "last": "Naoe",
+            "native": "直江 兼続",
+            "alternative": [
+              "Gutsugutsu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/34345.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/34345.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34345"
+        },
+        "voiceActors": [
+          {
+            "id": 95599,
+            "name": {
+              "first": "Aki",
+              "last": "Toyosaki",
+              "native": "豊崎愛生"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95599-XDGiluZB7IXL.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95599-XDGiluZB7IXL.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95599"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 76018,
+          "name": {
+            "first": "Keiji",
+            "last": "Maeda",
+            "native": "前田 慶次",
+            "alternative": [
+              "The best dandy of Japan",
+              "Maeda of Yonezawa"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/76018.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/76018.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/76018"
+        },
+        "voiceActors": [
+          {
+            "id": 95040,
+            "name": {
+              "first": "Mamiko",
+              "last": "Noto",
+              "native": "能登麻美子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95040-hSONMMOAmiJ6.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95040"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 34343,
+          "name": {
+            "first": "Hanzou",
+            "last": "Hattori",
+            "native": "服部半蔵",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b34343-FrfsotnFAVFM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b34343-FrfsotnFAVFM.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/34343"
+        },
+        "voiceActors": [
+          {
+            "id": 95211,
+            "name": {
+              "first": "Saori",
+              "last": "Gotou",
+              "native": "後藤沙緒里"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95211-d04fFmOyVpfz.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95211-d04fFmOyVpfz.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95211"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 143514,
+          "name": {
+            "first": "Kagekatsu",
+            "last": "Uesugi",
+            "native": "上杉景勝",
+            "alternative": [
+              "Kagenu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143514-RZgIvyuQnYud.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143514-RZgIvyuQnYud.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/143514"
+        },
+        "voiceActors": [
+          {
+            "id": 108639,
+            "name": {
+              "first": "Maaya",
+              "last": "Uchida",
+              "native": "内田真礼"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n108639-LLrR4WptCh5s.png"
+            },
+            "siteUrl": "https://anilist.co/staff/108639"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": []
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 47818,
+          "airingAt": 1435676400,
+          "episode": 2,
+          "mediaId": 20823,
+          "media": {
+            "id": 20823
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 454,
+      "url": "http://hyakka-ryoran.net/",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 316980,
+          "rating": 1,
+          "media": {
+            "id": 20823,
+            "title": {
+              "native": "百花繚乱 サムライアフター"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 17345,
+            "title": {
+              "native": "閃乱カグラ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 316982,
+          "rating": 1,
+          "media": {
+            "id": 20823,
+            "title": {
+              "native": "百花繚乱 サムライアフター"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 21129,
+            "title": {
+              "native": "閃乱カグラ ESTIVAL VERSUS -水着だらけの前夜祭"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 33
+      },
+      {
+        "score": 20,
+        "amount": 24
+      },
+      {
+        "score": 30,
+        "amount": 66
+      },
+      {
+        "score": 40,
+        "amount": 93
+      },
+      {
+        "score": 50,
+        "amount": 201
+      },
+      {
+        "score": 60,
+        "amount": 403
+      },
+      {
+        "score": 70,
+        "amount": 398
+      },
+      {
+        "score": 80,
+        "amount": 173
+      },
+      {
+        "score": 90,
+        "amount": 90
+      },
+      {
+        "score": 100,
+        "amount": 87
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 205
+      },
+      {
+        "status": "PLANNING",
+        "amount": 2229
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2725
+      },
+      {
+        "status": "DROPPED",
+        "amount": 86
+      },
+      {
+        "status": "PAUSED",
+        "amount": 110
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/20823",
+  "modNotes": null
+}

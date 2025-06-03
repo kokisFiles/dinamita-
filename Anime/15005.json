@@ -1,0 +1,493 @@
+{
+  "id": 15005,
+  "idMal": 15005,
+  "title": {
+    "native": "今日のあすかショー",
+    "romaji": "Kyou no Asuka Show",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "Asuka is a cute and clueless high school girl who habitually does things, in all innocence, that seem sexually suggestive to the men around her. Each chapter in \"Today's Asuka Show\" features a different awkward situation. <br><br>\n(Source: tethysdust) ",
+  "startDate": {
+    "year": 2012,
+    "month": 8,
+    "day": 3
+  },
+  "endDate": {
+    "year": 2013,
+    "month": 1,
+    "day": 5
+  },
+  "season": "SUMMER",
+  "seasonYear": 2012,
+  "seasonInt": 123,
+  "episodes": 20,
+  "duration": 3,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748908969,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15005-GmhHNlB6eCuS.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15005-GmhHNlB6eCuS.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx15005-GmhHNlB6eCuS.jpg",
+    "color": null
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Ecchi"
+  ],
+  "synonyms": [
+    "Today's Asuka show"
+  ],
+  "averageScore": 62,
+  "meanScore": 62,
+  "popularity": 12413,
+  "favourites": 96,
+  "tags": [
+    {
+      "id": 193,
+      "name": "Episodic",
+      "description": "Features story arcs that are loosely tied or lack an overarching plot.",
+      "category": "Technical",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 50,
+      "name": "Seinen",
+      "description": "Target demographic is adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 83,
+      "name": "Slapstick",
+      "description": "Prominently features comedy based on deliberately clumsy actions or embarrassing events.",
+      "category": "Theme-Comedy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 46709,
+          "title": {
+            "native": "今日のあすかショー"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 67515,
+          "name": {
+            "first": "Asuka",
+            "last": "Kyouno",
+            "native": "京野あすか",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67515-BuLVMmFIdDog.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b67515-BuLVMmFIdDog.png"
+          },
+          "siteUrl": "https://anilist.co/character/67515"
+        },
+        "voiceActors": [
+          {
+            "id": 104775,
+            "name": {
+              "first": "Arisa",
+              "last": "Noto",
+              "native": "能登有沙"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9775.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9775.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/104775"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 134069,
+          "name": {
+            "first": "Otou-san",
+            "last": "",
+            "native": "お父さん",
+            "alternative": [
+              "Father"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134069-srGmoO9OMHB0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b134069-srGmoO9OMHB0.png"
+          },
+          "siteUrl": "https://anilist.co/character/134069"
+        },
+        "voiceActors": [
+          {
+            "id": 95063,
+            "name": {
+              "first": "Keiji",
+              "last": "Fujiwara",
+              "native": "藤原啓治"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95063-xAsEUzspuLMG.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95063-xAsEUzspuLMG.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95063"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 101891,
+          "name": {
+            "first": "Masashi",
+            "last": "Kudou",
+            "native": "工藤昌史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101891-aqzjPfHuh3E9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101891-aqzjPfHuh3E9.png"
+          },
+          "description": "[Twitter](https://twitter.com/Kudo_M_) | [Instagram](https://www.instagram.com/kudo_m_/) | [Youtube](https://www.youtube.com/channel/UCVcxdd04vCuhr-1t7mDh3gg)\n\nOriginating from [Artland](https://anilist.co/studio/8/). Most known for his work on the [Bleach](https://anilist.co/anime/269/) franchise.",
+          "siteUrl": "https://anilist.co/staff/101891"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 101891,
+          "name": {
+            "first": "Masashi",
+            "last": "Kudou",
+            "native": "工藤昌史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101891-aqzjPfHuh3E9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101891-aqzjPfHuh3E9.png"
+          },
+          "description": "[Twitter](https://twitter.com/Kudo_M_) | [Instagram](https://www.instagram.com/kudo_m_/) | [Youtube](https://www.youtube.com/channel/UCVcxdd04vCuhr-1t7mDh3gg)\n\nOriginating from [Artland](https://anilist.co/studio/8/). Most known for his work on the [Bleach](https://anilist.co/anime/269/) franchise.",
+          "siteUrl": "https://anilist.co/staff/101891"
+        }
+      },
+      {
+        "role": "Theme Song Performance",
+        "node": {
+          "id": 104775,
+          "name": {
+            "first": "Arisa",
+            "last": "Noto",
+            "native": "能登有沙"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9775.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9775.jpg"
+          },
+          "description": "__Height:__ 153 cm\n__Nicknames:__ のっち (Nocchi)\n__Close friends:__ Oose Kaede, Aoki Erina, Korenaga Miki, [Yuuka Maeda](https://anilist.co/staff/105080/)\n__Hobby:__ Karaoke, collecting stamps, drawing, baking cakes\n__Favorite food:__ Fried shrimp, udon\n__Least favorite food:__ Tartar sauce, white fish (Atka mackerel, flatfish), walleye pollack\n__Dislikes:__ Waking up early\n\n[Profile](http://solidcube.jp/contents/artist/noto.html) | [Blog](http://ameblo.jp/noto-arisa/) | [Twitter](https://twitter.com/notoarisa) | [Instagram](https://www.instagram.com/notoarisa) | [YouTube](https://www.youtube.com/channel/UCYEkUXIOd-LICc7hFjYwx1Q) | [Wiki (en)](https://en.wikipedia.org/wiki/Arisa_Noto) | [Wiki (jp)](https://ja.wikipedia.org/wiki/能登有沙)\n\n__Introduction:__\nArisa Noto is a Japanese voice actress affiliated with talent agency and video production company Style Cube, while also being affiliated with entertainment content production and management company L&L Victor Entertainment, Inc.\n\n__Biography:__\nArisa Noto joined Hello! Project as a member of Hello! Pro Egg in June 2004 when she passed the auditions alongside thirty-two other girls. In June 2007, she joined the Gatas Brillantes H.P futsal team as a reserve player, alongside joining the pop girl group Ongaku Gatas with some of her teammates.\nIn August 2009, It was announced that Arisa would graduate from Hello! Pro Egg, becoming an Up-Front Egg during the 2009 Hello! Project Shinjin Kouen 9gatsu ~Yokohama JUMP!~ concert.\n\nAs of July 2011, she left Up-Front Agency to be managed by Style Cube.\n\nShe is a founding member of [StylipS](https://anilist.co/staff/111177).",
+          "siteUrl": "https://anilist.co/staff/104775"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 111259,
+          "name": {
+            "first": "Taishi",
+            "last": "Mori",
+            "native": "モリタイシ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/16259.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/16259.jpg"
+          },
+          "description": "\nHe was the assistant of Tanaka Motoyuki and is friends with Fujiki Shun.\n\n[Twitter](https://twitter.com/moritai4)",
+          "siteUrl": "https://anilist.co/staff/111259"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 104,
+          "name": "Lantis",
+          "siteUrl": "https://anilist.co/studio/104"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 213,
+          "name": "Half H.P Studio",
+          "siteUrl": "https://anilist.co/studio/213"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 300,
+          "name": "SILVER LINK.",
+          "siteUrl": "https://anilist.co/studio/300"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22409,
+      "rank": 6,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2012,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 22438,
+      "rank": 5,
+      "type": "POPULAR",
+      "format": "ONA",
+      "year": 2012,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 21217,
+          "rating": 11,
+          "media": {
+            "id": 15005,
+            "title": {
+              "native": "今日のあすかショー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 97716,
+            "title": {
+              "native": "月曜日のたわわ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 68211,
+          "rating": 4,
+          "media": {
+            "id": 15005,
+            "title": {
+              "native": "今日のあすかショー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 841,
+            "title": {
+              "native": "COLORFUL"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 76010,
+          "rating": 2,
+          "media": {
+            "id": 15005,
+            "title": {
+              "native": "今日のあすかショー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 98251,
+            "title": {
+              "native": "アホガール"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 94549,
+          "rating": 5,
+          "media": {
+            "id": 15005,
+            "title": {
+              "native": "今日のあすかショー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 104147,
+            "title": {
+              "native": "女子かう生"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 163451,
+          "rating": 2,
+          "media": {
+            "id": 15005,
+            "title": {
+              "native": "今日のあすかショー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 122137,
+            "title": {
+              "native": "土下座で頼んでみた"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 405370,
+          "rating": 2,
+          "media": {
+            "id": 15005,
+            "title": {
+              "native": "今日のあすかショー"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 4591,
+            "title": {
+              "native": "よいこ"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 68
+      },
+      {
+        "score": 20,
+        "amount": 71
+      },
+      {
+        "score": 30,
+        "amount": 146
+      },
+      {
+        "score": 40,
+        "amount": 268
+      },
+      {
+        "score": 50,
+        "amount": 638
+      },
+      {
+        "score": 60,
+        "amount": 926
+      },
+      {
+        "score": 70,
+        "amount": 1125
+      },
+      {
+        "score": 80,
+        "amount": 524
+      },
+      {
+        "score": 90,
+        "amount": 214
+      },
+      {
+        "score": 100,
+        "amount": 132
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 578
+      },
+      {
+        "status": "PLANNING",
+        "amount": 5481
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 5585
+      },
+      {
+        "status": "DROPPED",
+        "amount": 404
+      },
+      {
+        "status": "PAUSED",
+        "amount": 365
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/15005",
+  "modNotes": null
+}

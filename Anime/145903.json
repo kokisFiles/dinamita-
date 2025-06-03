@@ -1,0 +1,253 @@
+{
+  "id": 145903,
+  "idMal": 50518,
+  "title": {
+    "native": "こまねこショートムービー2021",
+    "romaji": "Komaneko Short Movie 2021",
+    "english": "Komaneko's Season's Greetings 2021"
+  },
+  "type": "ANIME",
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "description": "Komaneko's Season's Greetings from dwarf studios especially for you. <br><br>\n(Source: YouTube)",
+  "startDate": {
+    "year": 2020,
+    "month": 12,
+    "day": 23
+  },
+  "endDate": {
+    "year": 2020,
+    "month": 12,
+    "day": 23
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 1,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": {
+    "id": "YM5cQf1ZtDM",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/YM5cQf1ZtDM/hqdefault.jpg"
+  },
+  "updatedAt": 1748858020,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145903-2CtcccBl4TRc.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145903-2CtcccBl4TRc.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145903-2CtcccBl4TRc.png",
+    "color": "#e4ae50"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 44,
+  "popularity": 81,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 323,
+      "name": "Stop Motion",
+      "description": "Animation style characterized by physical objects being moved incrementally between frames to create the illusion of movement.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 341,
+      "name": "No Dialogue",
+      "description": "This work contains no dialogue.",
+      "category": "Technical",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 147928,
+          "title": {
+            "native": "こまねこ はじめのいっぽ"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 36367,
+          "name": {
+            "first": "Komaneko",
+            "last": null,
+            "native": "こまねこ",
+            "alternative": [
+              "こまちゃん",
+              "Koma-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/36367.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/36367.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/36367"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 115570,
+          "name": {
+            "first": "Tsuneo",
+            "last": "Gouda",
+            "native": "合田経郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115570-s6IW1BU7G95A.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115570-s6IW1BU7G95A.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/115570"
+        }
+      },
+      {
+        "role": "Animation",
+        "node": {
+          "id": 205971,
+          "name": {
+            "first": "Hirokazu",
+            "last": "Minegishi",
+            "native": "峰岸裕和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/205971"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6179,
+          "name": "dwarf",
+          "siteUrl": "https://anilist.co/studio/6179"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 44569,
+      "url": "https://youtu.be/YM5cQf1ZtDM",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 4
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 4
+      },
+      {
+        "score": 50,
+        "amount": 7
+      },
+      {
+        "score": 60,
+        "amount": 8
+      },
+      {
+        "score": 70,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 5
+      },
+      {
+        "status": "PLANNING",
+        "amount": 17
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 51
+      },
+      {
+        "status": "DROPPED",
+        "amount": 7
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/145903",
+  "modNotes": null
+}

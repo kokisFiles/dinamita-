@@ -1,0 +1,845 @@
+{
+  "id": 4195,
+  "idMal": 4195,
+  "title": {
+    "native": "こどものじかん 2学期",
+    "romaji": "Kodomo no Jikan: Ni Gakki",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "OVA",
+  "status": "FINISHED",
+  "description": "The second season of Kodomo no Jikan.",
+  "startDate": {
+    "year": 2009,
+    "month": 2,
+    "day": 20
+  },
+  "endDate": {
+    "year": 2009,
+    "month": 7,
+    "day": 24
+  },
+  "season": "WINTER",
+  "seasonYear": 2009,
+  "seasonInt": 91,
+  "episodes": 3,
+  "duration": 23,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748884522,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4195.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4195.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4195.jpg",
+    "color": "#e46b50"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Ecchi"
+  ],
+  "synonyms": [
+    "Kodomo no Jikan: Second Term",
+    "Kodomo no Jikan OVA 3"
+  ],
+  "averageScore": 66,
+  "meanScore": 66,
+  "popularity": 6738,
+  "favourites": 35,
+  "tags": [
+    {
+      "id": 46,
+      "name": "School",
+      "description": "Partly or completely set in a primary or secondary educational institution.",
+      "category": "Setting-Scene",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 254,
+      "name": "Kemonomimi",
+      "description": "Prominently features humanoid characters with animal ears.",
+      "category": "Cast-Traits",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 446,
+      "name": "Primarily Child Cast",
+      "description": "Main cast is mostly composed of characters below a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 2403,
+          "title": {
+            "native": "こどものじかん"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 30582,
+          "title": {
+            "native": "こどものじかん"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7181,
+          "name": {
+            "first": "Reiji",
+            "last": "Kokonoe",
+            "native": "九重レイジ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7181.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7181.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7181"
+        },
+        "voiceActors": [
+          {
+            "id": 95002,
+            "name": {
+              "first": "Tomokazu",
+              "last": "Sugita",
+              "native": "杉田智和"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95002-nDIvHaynicEg.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95002"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5660,
+          "name": {
+            "first": "Mimi",
+            "last": "Usa",
+            "native": "宇佐美々",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5660.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5660.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5660"
+        },
+        "voiceActors": [
+          {
+            "id": 95117,
+            "name": {
+              "first": "Mai",
+              "last": "Kadowaki",
+              "native": "門脇舞以"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95117-TpLo1AeJRfVJ.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95117-TpLo1AeJRfVJ.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95117"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4163,
+          "name": {
+            "first": "Rin",
+            "last": "Kokonoe",
+            "native": "九重 りん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4163.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4163.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4163"
+        },
+        "voiceActors": [
+          {
+            "id": 95413,
+            "name": {
+              "first": "Eri",
+              "last": "Kitamura",
+              "native": "喜多村英梨"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95413-FwAIrc8Ishpt.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95413"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4942,
+          "name": {
+            "first": "Kuro",
+            "last": "Kagami",
+            "native": "鏡 黒",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4942.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/4942.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/4942"
+        },
+        "voiceActors": [
+          {
+            "id": 95594,
+            "name": {
+              "first": "Kei",
+              "last": "Shindou",
+              "native": "真堂圭"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95594-uUAU6lh6TMQW.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95594-uUAU6lh6TMQW.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95594"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5757,
+          "name": {
+            "first": "Daisuke",
+            "last": "Aoki",
+            "native": "青木 大介",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/5757.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/5757.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/5757"
+        },
+        "voiceActors": [
+          {
+            "id": 95820,
+            "name": {
+              "first": "Junji",
+              "last": "Majima",
+              "native": "間島淳司"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95820-5Fuosf1ljdSc.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95820-5Fuosf1ljdSc.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95820"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 11996,
+          "name": {
+            "first": "Sae",
+            "last": "Shirai",
+            "native": "白井紗江",
+            "alternative": [
+              "Shiro-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/11996.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/11996.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/11996"
+        },
+        "voiceActors": [
+          {
+            "id": 95912,
+            "name": {
+              "first": "Youko",
+              "last": "Soumi",
+              "native": "沢海陽子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95912-8ZUpdG5UjcAL.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95912-8ZUpdG5UjcAL.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95912"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 7520,
+          "name": {
+            "first": "Kyouko",
+            "last": "Houin",
+            "native": "宝院京子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/7520.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/7520.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/7520"
+        },
+        "voiceActors": [
+          {
+            "id": 96132,
+            "name": {
+              "first": "Ryouko",
+              "last": "Tanaka",
+              "native": "田中涼子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96132-zxza4Qnd5otA.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96132-zxza4Qnd5otA.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/96132"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 19856,
+          "name": {
+            "first": "Kenta",
+            "last": "Oyajima",
+            "native": "小矢島 剣太",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/19856.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/19856.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/19856"
+        },
+        "voiceActors": [
+          {
+            "id": 102455,
+            "name": {
+              "first": "Yuuichi",
+              "last": "Ishigami",
+              "native": "石上裕一"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7455.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/7455.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102455"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Theme Song Performance (ED2)",
+        "node": {
+          "id": 95117,
+          "name": {
+            "first": "Mai",
+            "last": "Kadowaki",
+            "native": "門脇舞以"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95117-TpLo1AeJRfVJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95117-TpLo1AeJRfVJ.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/kadomaita) | [Youtube](https://youtube.com/@maitach?si=xA-RVZlZtLD2PQ4Q) | [TikTok](https://www.tiktok.com/@maita_ayuta.ch)\n\n**Non anime roles:**\n- [Yaoyao] - Genshin Impact (Video Game)",
+          "siteUrl": "https://anilist.co/staff/95117"
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP, ED2)",
+        "node": {
+          "id": 95413,
+          "name": {
+            "first": "Eri",
+            "last": "Kitamura",
+            "native": "喜多村英梨"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95413-FwAIrc8Ishpt.png"
+          },
+          "description": "__Height:__ 157 cm (5'2\")\n\n[Website](https://erikitamura.com/) | [Twitter](https://twitter.com/KITAxERI) | [King Records](http://king-cr.jp/artist/kitaeri/)\n\nA Japanese voice actress and singer. She used to be a child actress by the name of Eri Okamura. \n\nShe is primarily known for her role in Blood+ as Saya Otonashi and singing \"Tsuyogari,\" the third ending for the anime series Konjiki No Gash Bell!! She is also known to be an amateur manga artist in Japan in her spare time. Kitamura is affiliated with talent agency Early Wing and was formerly affiliated with Kaleidoscope.\n\nCurrently works in the music unit ARTERY VEIN with Asami Imai. Also provides the voice of CUL, a Vocaloid. \n\n__Non-Anime Roles:__\n~!Abner in \"Shin Ken to Mahou to Gakuen Mono. Toki no Gakuen\" (VG) (Japanese)\nAkane Senri in \"Rewrite\" (VG) (Japanese)\nAlicia in \"BLUE ROSES ~Yousei to Aoi Hitomi no Senshitachi~\" (VG) (Japanese)\nArtina in \"Makai Senki Disgaea 4\" (VG) (Japanese)\nArtina in \"Makai Senki Disgaea 4: Return\" (VG) (Japanese)\nBrunhild in \"Wakusaga\" (VG) (Japanese)\nCham Cham in \"Queen's Gate Spiral Chaos\" (VG) (Japanese)\nCinderella in \"SINoALICE\" (VG) (Japanese)\nCudellia (Cordelia) in \"Atelier Rorona: The Alchemist of Arland\" (VG) (Japanese)\nCynthia Lo in \"CYNTHIA THE MISSION\" (Drama CD) (Japanese)\nDCD in \"Nepunepu ☆ Connect Chaos Chanpuru\" (VG) (Japanese)\nElena in \"Metal Senki\" (VG) (Japanese)\nEmma Wilson in \"Hospital.: 6-nin no Ishi\" (VG) (Japanese)\nEsmeralda in \"Shironeko Project\" (VG) (Japanese)\nFinnel in \"Ar Tonelico 3\" (VG)\nGan-chan/Yatterman 1 in \"Tatsunoko vs. Capcom\" (VG) (Japanese)\nHaru in \"Koiken!\" (VG) (Japanese)\nHiei in \"Azur Lane\" (VG) (Japanese)\nHibiki Teraobi in \"L@ve once Mermaid's tears\" (PS3 VG) (Japanese)\nHibiki Teraobi in \"L@ve once\" (PSP VG) (Japanese)\nJuliet Starling in \"Lollipop Chainsaw\" (VG/Xbox 360 Version) (Japanese)\nJuri Han in \"Project X Zone\" (VG) (Japanese)\nJuri Han in \"Street Fighter V\" (VG) (Japanese)\nJuri Han in \"Street Fighter X Tekken\" (VG) (Japanese)\nJuri Han in \"Super Street Fighter IV\" (VG) (Japanese)\nKeqing in \"Genshin Impact\" (VG) (Japanese)\nKizuna in \"Dengeki Gakuen: Cross of Venus\" (VG) (Japanese)\nKukurihime in \"Ichibanketsu Online\" (VG) (Japanese)\nLauca Meia in \"Avalon Code\" (VG) (Japanese)\nLondrine E. Effenberg in \"Tales of Phantasia: Narikiri Dungeon X\" (VG) (Japanese)\nMahiro Yasaka in \"Haiyore! Nyaruko-san\" (Drama CD) (Japanese)\nManon in \"Hortensia Saga\" (VG) (Japanese)\nMio in \"Dream Club\" (Dating simulation) (Japanese)\nMMS Type Dog HOWLING in \"Busō Shinki BATTLE RONDO\" (VG) (Japanese)\nNakahara in \"Amatsuki\" (Drama CD) (Japanese)\nNelly in \"Luna Princess from the Angel Empire\" (VG) (Japanese)\nNora Döbereiner in \"LUX-PAIN\" (VG) (Japanese)\nOruhida in \"Samurai Spirits Oni\" (VG) (Japanese)\nPapalymo in \"FINAL FANTASY XIV\" (MMORPG) (Japanese)\nQuna in \"Phantasy Star Online 2\" (VG) (Japanese)\nRemilia Scarlet in \"Kōmajō Densetsu II: Stranger's Requiem\" (VG) (Japanese)\nRimi Sakihata in \"CHAOS;HEAD\" (VG) (Japanese)\nRio Wesley in \"Magical Girl Lyrical Nanoha The Movie 2nd A's Audio Commentary\" (Japanese)\nRio Wesley in \"Magical Girl Lyrical Nanoha The Movie 2nd A's Drama CD Side-T\" (Drama CD) (Japanese)\nSalia in \"Cross Ange: Tenshi to Ryū no Rondo tr.\" (VG) (Japanese)\nSeraph in \"World of Final Fantasy\" (VG) (Japanese)\nShinobu in \"No More Heroes: Heroes' Paradise\" (VG) (Japanese)\nShinonome Rei in \"Girlfriend Kari\" (VG) (Smartphone Game) (Japanese)\nSnowdrop in \"Shinkyoku Sōkai Polyphonica\" (VG) (Japanese)\nTowa in \"Toki to Eien ~Toki Towa~\" (VG) (Japanese)\nTsutsuji in \"Pocket Monsters Omega Ruby and Alpha Sapphire Mega Special Animation\" (VG trailer) (Japanese)\nUni / Black Sister in \"Cyberdimension Neptunia: 4 Goddesses Online\" (VG) (Japanese)\nUni / Black Sister in \"Hyperdimension Neptunia\" (VG) (Japanese)\nUni / Black Sister in \"Hyperdimension Neptunia Mk2\" (VG) (Japanese)\nUni / Black Sister in \"Hyperdimension Neptunia Victory\" (VG) (Japanese)\nUni / Black Sister in \"Hyperdimension Neptunia: Producing Perfection\" (VG) (Japanese)\nUni / Black Sister in \"Hyperdimension Neptunia U: Action Unleashed\" (VG) (Japanese)\nUni / Black Sister in \"Megadimension Neptunia VII\" (VG) (Japanese)\nUni / Black Sister in \"MegaTagmension Blanc + Neptune vs Zombies\" (VG) (Japanese)\nVanity Smurf in \"The Smurfs\" (animated TV series/Animax dub) (Japanese)\nYasuho Hirose in \"JoJo's Bizarre Adventure: All Star Battle\" (VG) (Japanese)\nYuka Mochida in \"Corpse Party\" (PSP VG)\nYuu in \"Luminous Arc 3: Eyes\" (VG) (Japanese)!~",
+          "siteUrl": "https://anilist.co/staff/95413"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97516,
+          "name": {
+            "first": "Kaworu",
+            "last": "Watashiya",
+            "native": "私屋カヲル"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97516-m7GbukQgnioR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97516-m7GbukQgnioR.png"
+          },
+          "description": "**Education:** Tokyo Metropolitan Yukigaya High School\n\n[Website](http://watashiya-kaworu.cocolog-nifty.com/) | [Twitter](https://twitter.com/watashiya) | [Pixiv](https://www.pixiv.net/en/users/29074939)\n\n",
+          "siteUrl": "https://anilist.co/staff/97516"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 100978,
+          "name": {
+            "first": "Mari",
+            "last": "Okada",
+            "native": "岡田麿里"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100978-UxzIJg7zXAC9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100978-UxzIJg7zXAC9.png"
+          },
+          "description": "Recipient of the Individual Award at The 16th Animation Kobe Awards in 2011.",
+          "siteUrl": "https://anilist.co/staff/100978"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 100978,
+          "name": {
+            "first": "Mari",
+            "last": "Okada",
+            "native": "岡田麿里"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100978-UxzIJg7zXAC9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100978-UxzIJg7zXAC9.png"
+          },
+          "description": "Recipient of the Individual Award at The 16th Animation Kobe Awards in 2011.",
+          "siteUrl": "https://anilist.co/staff/100978"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 101013,
+          "name": {
+            "first": "Masakazu",
+            "last": "Ishikawa",
+            "native": "石川雅一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/101013"
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 101013,
+          "name": {
+            "first": "Masakazu",
+            "last": "Ishikawa",
+            "native": "石川雅一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/101013"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 109167,
+          "name": {
+            "first": "Eiji",
+            "last": "Suganuma",
+            "native": "菅沼栄治"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109167-ZldNPf1YuQoa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n109167-ZldNPf1YuQoa.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/1339133912)\n\nMarried to [Youko Kikuchi](https://anilist.co/staff/101327/).",
+          "siteUrl": "https://anilist.co/staff/109167"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED2)",
+        "node": {
+          "id": 95594,
+          "name": {
+            "first": "Kei",
+            "last": "Shindou",
+            "native": "真堂圭"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95594-uUAU6lh6TMQW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95594-uUAU6lh6TMQW.png"
+          },
+          "description": "Released her first single \"Jump up!\" on August 24, 2005.",
+          "siteUrl": "https://anilist.co/staff/95594"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 105293,
+          "name": {
+            "first": "Little",
+            "last": "Non",
+            "native": "リトル・ノン"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10293.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/10293.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/105293"
+        }
+      },
+      {
+        "role": "Theme Song Lyrics (ED)",
+        "node": {
+          "id": 105293,
+          "name": {
+            "first": "Little",
+            "last": "Non",
+            "native": "リトル・ノン"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10293.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/10293.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/105293"
+        }
+      },
+      {
+        "role": "Theme Song Composition (ED)",
+        "node": {
+          "id": 105293,
+          "name": {
+            "first": "Little",
+            "last": "Non",
+            "native": "リトル・ノン"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10293.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/10293.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/105293"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 146262,
+          "name": {
+            "first": "Kenji",
+            "last": "Takahashi",
+            "native": "高橋賢司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/146262"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 140950,
+          "name": {
+            "first": "Kazuhiro",
+            "last": "Yamada ",
+            "native": "山田和弘"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n140950-y7KxJ03nrX4Z.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n140950-y7KxJ03nrX4Z.jpg"
+          },
+          "description": "[Profile](https://asahi-pro.co.jp/creator/yamada-kazuhiro)\n\nAffiliated with Asahi Production.\n\n_Note: Not to be confused with the other [composite artist](https://anilist.co/staff/252146/) by the same name._",
+          "siteUrl": "https://anilist.co/staff/140950"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 102284,
+          "name": {
+            "first": "Masara",
+            "last": "Nishida",
+            "native": "西田マサラ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102284-pXzPS8tP5lid.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102284-pXzPS8tP5lid.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/西田マサラ)",
+          "siteUrl": "https://anilist.co/staff/102284"
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (ED)",
+        "node": {
+          "id": 105293,
+          "name": {
+            "first": "Little",
+            "last": "Non",
+            "native": "リトル・ノン"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10293.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/10293.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/105293"
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 101016,
+          "name": {
+            "first": "Yoshikazu",
+            "last": "Iwanami",
+            "native": "岩浪美和"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101016-H7RaX55ooWr0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101016-H7RaX55ooWr0.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/岩浪美和) | [Twitter](https://x.com/i/user/169097071)",
+          "siteUrl": "https://anilist.co/staff/101016"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 118616,
+          "name": {
+            "first": "Ayu",
+            "last": "Kawamoto",
+            "native": "川本亜夕"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118616-ED6sCCQNAkkg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118616-ED6sCCQNAkkg.jpg"
+          },
+          "description": "Affiliated with KUSANAGI.",
+          "siteUrl": "https://anilist.co/staff/118616"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 51,
+          "name": "diomedéa",
+          "siteUrl": "https://anilist.co/studio/51"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 399,
+          "name": "Dream Force",
+          "siteUrl": "https://anilist.co/studio/399"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 21087,
+      "rank": 27,
+      "type": "RATED",
+      "format": "OVA",
+      "year": 2009,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 21108,
+      "rank": 18,
+      "type": "POPULAR",
+      "format": "OVA",
+      "year": 2009,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 68203,
+          "rating": 3,
+          "media": {
+            "id": 4195,
+            "title": {
+              "native": "こどものじかん 2学期"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 20681,
+            "title": {
+              "native": "無邪気の楽園"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 80
+      },
+      {
+        "score": 20,
+        "amount": 68
+      },
+      {
+        "score": 30,
+        "amount": 93
+      },
+      {
+        "score": 40,
+        "amount": 164
+      },
+      {
+        "score": 50,
+        "amount": 309
+      },
+      {
+        "score": 60,
+        "amount": 556
+      },
+      {
+        "score": 70,
+        "amount": 889
+      },
+      {
+        "score": 80,
+        "amount": 643
+      },
+      {
+        "score": 90,
+        "amount": 328
+      },
+      {
+        "score": 100,
+        "amount": 190
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 161
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1396
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 5024
+      },
+      {
+        "status": "DROPPED",
+        "amount": 77
+      },
+      {
+        "status": "PAUSED",
+        "amount": 80
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/4195",
+  "modNotes": null
+}

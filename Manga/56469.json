@@ -1,0 +1,238 @@
+{
+  "id": 56469,
+  "idMal": 26469,
+  "title": {
+    "native": "イース太陽の仮面",
+    "romaji": "Ys Taiyou no Kamen",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Adol has returned to the town of Minea, where his adventures began. After hanging around for a while and conversing with old friends, he decides to set sail for the overseas land of Celceta. ",
+  "startDate": {
+    "year": 1993,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": 1994,
+    "month": null,
+    "day": null
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 15,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1745326499,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx56469-DOmusSB5eMLf.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56469-DOmusSB5eMLf.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx56469-DOmusSB5eMLf.png",
+    "color": "#f15d50"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Ys: Mask of the Sun"
+  ],
+  "averageScore": null,
+  "meanScore": 70,
+  "popularity": 47,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 96697,
+          "title": {
+            "native": "イース"
+          }
+        },
+        "relationType": "PREQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24041,
+          "name": {
+            "first": "Dogi",
+            "last": null,
+            "native": "ドギ",
+            "alternative": [
+              "Dogi the Wallcrusher"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24041-wrp9fnTZUmpu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24041-wrp9fnTZUmpu.png"
+          },
+          "siteUrl": "https://anilist.co/character/24041"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5752,
+          "name": {
+            "first": "Adol",
+            "last": "Christin",
+            "native": "アドル・クリスティン",
+            "alternative": [
+              "Red hair",
+              "Adol the Red"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5752-j2oFeKIeswp8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b5752-j2oFeKIeswp8.png"
+          },
+          "siteUrl": "https://anilist.co/character/5752"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24047,
+          "name": {
+            "first": "Lilia",
+            "last": null,
+            "native": "リリア",
+            "alternative": [
+              "Lilian"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24047-MFSQRJ4pRPbp.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b24047-MFSQRJ4pRPbp.png"
+          },
+          "siteUrl": "https://anilist.co/character/24047"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Art",
+        "node": {
+          "id": 97242,
+          "name": {
+            "first": "Hitoshi",
+            "last": "Okuda",
+            "native": "奥田ひとし"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97242-xUTVRaDIhvA1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n97242-xUTVRaDIhvA1.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/97242"
+        }
+      },
+      {
+        "role": "Story",
+        "node": {
+          "id": 198577,
+          "name": {
+            "first": "Kenichi",
+            "last": "Itoi",
+            "native": "糸井健一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/198577"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 30,
+        "amount": 1
+      },
+      {
+        "score": 80,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 1
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 4
+      },
+      {
+        "status": "PLANNING",
+        "amount": 34
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 6
+      },
+      {
+        "status": "DROPPED",
+        "amount": 2
+      },
+      {
+        "status": "PAUSED",
+        "amount": 1
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/56469",
+  "modNotes": null
+}

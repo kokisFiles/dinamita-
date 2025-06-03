@@ -1,0 +1,1583 @@
+{
+  "id": 101169,
+  "idMal": 36963,
+  "title": {
+    "native": "アイドリッシュセブンVibrato",
+    "romaji": "IDOLiSH7 Vibrato",
+    "english": "IDOLiSH7 Vibrato"
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "A spin-off series of the IDOLiSH7 TV series streamed exclusively on YouTube.",
+  "startDate": {
+    "year": 2018,
+    "month": 2,
+    "day": 17
+  },
+  "endDate": {
+    "year": 2019,
+    "month": 3,
+    "day": 7
+  },
+  "season": "WINTER",
+  "seasonYear": 2018,
+  "seasonInt": 181,
+  "episodes": 8,
+  "duration": 14,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": "#アイナナ",
+  "trailer": {
+    "id": "y4Id2KGDbb8",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/y4Id2KGDbb8/hqdefault.jpg"
+  },
+  "updatedAt": 1748782421,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101169-t5TB7NleAkKr.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101169-t5TB7NleAkKr.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101169-t5TB7NleAkKr.jpg",
+    "color": "#e4bb86"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101169-yHNUIrnpbzvt.jpg",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music",
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": 78,
+  "meanScore": 79,
+  "popularity": 4801,
+  "favourites": 109,
+  "tags": [
+    {
+      "id": 105,
+      "name": "Ensemble Cast",
+      "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+      "category": "Cast-Main Cast",
+      "rank": 90,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 115,
+      "name": "Idol",
+      "description": "Centers around the life and activities of an idol.",
+      "category": "Cast-Traits",
+      "rank": 85,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 53,
+      "name": "Shoujo",
+      "description": "Target demographic is teenage and young adult females.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 88,
+      "name": "Primarily Male Cast",
+      "description": "Main cast is mostly composed of male characters.",
+      "category": "Cast-Main Cast",
+      "rank": 73,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1063,
+      "name": "Cute Boys Doing Cute Things",
+      "description": "Centers around male characters doing cute activities, usually with little to no emphasis on drama and conflict.",
+      "category": "Theme-Slice of Life",
+      "rank": 70,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 153,
+      "name": "Time Skip",
+      "description": "Features a gap in time used to advance the story.",
+      "category": "Setting-Time",
+      "rank": 70,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 494,
+      "name": "Twins",
+      "description": "Prominently features two or more siblings that were born at one birth.",
+      "category": "Cast-Traits",
+      "rank": 66,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 209,
+      "name": "Dancing",
+      "description": "Centers around the art of dance.",
+      "category": "Theme-Arts-Music",
+      "rank": 62,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 285,
+      "name": "Terrorism",
+      "description": "Centers around the activities of a terrorist or terrorist organization.",
+      "category": "Theme-Other",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 40,
+      "name": "Police",
+      "description": "Centers around the life and activities of law enforcement officers.",
+      "category": "Theme-Other-Organisations",
+      "rank": 50,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": true,
+      "isAdult": false
+    },
+    {
+      "id": 109,
+      "name": "Primarily Adult Cast",
+      "description": "Main cast is mostly composed of characters above a high school age.",
+      "category": "Cast-Main Cast",
+      "rank": 45,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 1165,
+      "name": "Transgender",
+      "description": "Features a character whose gender identity differs from the sex they were assigned at birth.",
+      "category": "Cast-Traits",
+      "rank": 40,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 90,
+      "name": "CGI",
+      "description": "Prominently features scenes created with computer-generated imagery.",
+      "category": "Technical",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "description": "Main character is male.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 87495,
+          "title": {
+            "native": "アイドリッシュセブン"
+          }
+        },
+        "relationType": "PARENT"
+      },
+      {
+        "node": {
+          "id": 113448,
+          "title": {
+            "native": "小説 アイドリッシュセブン 流星に祈る"
+          }
+        },
+        "relationType": "ADAPTATION"
+      },
+      {
+        "node": {
+          "id": 113444,
+          "title": {
+            "native": "アイドリッシュセブン TRIGGER -before The Radiant Glory-"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 89894,
+          "name": {
+            "first": "Tenn",
+            "last": "Kujo",
+            "native": "九条天",
+            "alternative": [
+              "Tenn-nii (天にぃ)",
+              "Tenn Tenn (てんてん)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89894-royCGylW0TwD.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b89894-royCGylW0TwD.png"
+          },
+          "siteUrl": "https://anilist.co/character/89894"
+        },
+        "voiceActors": [
+          {
+            "id": 113227,
+            "name": {
+              "first": "Souma",
+              "last": "Saitou",
+              "native": "斉藤壮馬"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n113227-x0UXLNL6v08X.png"
+            },
+            "siteUrl": "https://anilist.co/staff/113227"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126250,
+          "name": {
+            "first": "Gaku",
+            "last": "Yaotome",
+            "native": "八乙女楽",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126250-c0JKhjXD7x1D.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126250-c0JKhjXD7x1D.png"
+          },
+          "siteUrl": "https://anilist.co/character/126250"
+        },
+        "voiceActors": [
+          {
+            "id": 95098,
+            "name": {
+              "first": "Wataru",
+              "last": "Hatano",
+              "native": "羽多野渉"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95098-x6T2xOTuvkuY.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95098-x6T2xOTuvkuY.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95098"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126249,
+          "name": {
+            "first": "Ryuunosuke",
+            "last": "Tsunashi",
+            "native": "十龍之介",
+            "alternative": [
+              "Ryuu"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126249-gK2KBhVzlRLG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126249-gK2KBhVzlRLG.png"
+          },
+          "siteUrl": "https://anilist.co/character/126249"
+        },
+        "voiceActors": [
+          {
+            "id": 104580,
+            "name": {
+              "first": "Takuya",
+              "last": "Satou",
+              "native": "佐藤拓也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104580-UtA5zydwu3ai.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104580-UtA5zydwu3ai.png"
+            },
+            "siteUrl": "https://anilist.co/staff/104580"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126106,
+          "name": {
+            "first": "Yamato",
+            "last": "Nikaidou",
+            "native": "二階堂大和",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126106-V5VZFlzoBaiY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126106-V5VZFlzoBaiY.png"
+          },
+          "siteUrl": "https://anilist.co/character/126106"
+        },
+        "voiceActors": [
+          {
+            "id": 114641,
+            "name": {
+              "first": "Yuusuke",
+              "last": "Shirai",
+              "native": "白井悠介"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114641-sFxCz9z3KQC9.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n114641-sFxCz9z3KQC9.png"
+            },
+            "siteUrl": "https://anilist.co/staff/114641"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126095,
+          "name": {
+            "first": "Tamaki",
+            "last": "Yotsuba",
+            "native": "四葉環",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126095-OsZ0wjvuSrH0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126095-OsZ0wjvuSrH0.png"
+          },
+          "siteUrl": "https://anilist.co/character/126095"
+        },
+        "voiceActors": [
+          {
+            "id": 95857,
+            "name": {
+              "first": "KENN",
+              "last": "",
+              "native": "KENN"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95857-oHOhHwEDyAlL.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95857-oHOhHwEDyAlL.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95857"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126159,
+          "name": {
+            "first": "Iori",
+            "last": "Izumi",
+            "native": "和泉一織",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126159-JP89KQJs2J5o.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126159-JP89KQJs2J5o.png"
+          },
+          "siteUrl": "https://anilist.co/character/126159"
+        },
+        "voiceActors": [
+          {
+            "id": 107017,
+            "name": {
+              "first": "Toshiki",
+              "last": "Masuda",
+              "native": "増田俊樹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107017-Jv96B9DBJOy9.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107017-Jv96B9DBJOy9.png"
+            },
+            "siteUrl": "https://anilist.co/staff/107017"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 125894,
+          "name": {
+            "first": "Mitsuki",
+            "last": "Izumi",
+            "native": "和泉三月",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125894-dQdnk7GPrHri.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b125894-dQdnk7GPrHri.png"
+          },
+          "siteUrl": "https://anilist.co/character/125894"
+        },
+        "voiceActors": [
+          {
+            "id": 95556,
+            "name": {
+              "first": "Tsubasa",
+              "last": "Yonaga",
+              "native": "代永翼"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95556-Tgolp8AzO49n.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95556-Tgolp8AzO49n.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95556"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126247,
+          "name": {
+            "first": "Sougo",
+            "last": "Osaka",
+            "native": "逢坂壮五",
+            "alternative": [
+              "Sogo Osaka"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126247-56SleuAnKbVJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126247-56SleuAnKbVJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/126247"
+        },
+        "voiceActors": [
+          {
+            "id": 95991,
+            "name": {
+              "first": "Atsushi",
+              "last": "Abe",
+              "native": "阿部敦"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95991-4u24gUBgqeTA.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95991-4u24gUBgqeTA.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95991"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126246,
+          "name": {
+            "first": "Riku",
+            "last": "Nanase",
+            "native": "七瀬陸",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126246-RvhjVQ6iNoBC.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126246-RvhjVQ6iNoBC.png"
+          },
+          "siteUrl": "https://anilist.co/character/126246"
+        },
+        "voiceActors": [
+          {
+            "id": 95819,
+            "name": {
+              "first": "Kenshou",
+              "last": "Ono",
+              "native": "小野賢章"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95819-O4fosAY0a1Ml.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95819-O4fosAY0a1Ml.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95819"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 126248,
+          "name": {
+            "first": "Nagi",
+            "last": "Rokuya",
+            "native": "六弥ナギ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126248-TQtG2jVaVvdb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b126248-TQtG2jVaVvdb.png"
+          },
+          "siteUrl": "https://anilist.co/character/126248"
+        },
+        "voiceActors": [
+          {
+            "id": 102695,
+            "name": {
+              "first": "Takuya",
+              "last": "Eguchi",
+              "native": "江口拓也"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102695-dGzsJkor0KMj.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102695-dGzsJkor0KMj.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102695"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 127081,
+          "name": {
+            "first": "Tsumugi",
+            "last": "Takanashi",
+            "native": "小鳥遊紡",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127081-nuRCpkrxVf7v.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b127081-nuRCpkrxVf7v.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/127081"
+        },
+        "voiceActors": [
+          {
+            "id": 101560,
+            "name": {
+              "first": "Satomi",
+              "last": "Satou",
+              "native": "佐藤聡美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101560-YN8w6EZZtIhb.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101560-YN8w6EZZtIhb.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101560"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 190930,
+          "name": {
+            "first": "Sousuke",
+            "last": "Yaotome",
+            "native": "八乙女宗助",
+            "alternative": [
+              "Yaotome Papa (八乙女パパ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b190930-eGu53pJQNXir.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b190930-eGu53pJQNXir.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/190930"
+        },
+        "voiceActors": [
+          {
+            "id": 95020,
+            "name": {
+              "first": "Katsuyuki",
+              "last": "Konishi",
+              "native": "小西克幸"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95020-uOJO2IlwpcX0.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95020"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 143807,
+          "name": {
+            "first": "Momose",
+            "last": "Sunohara",
+            "native": "春原百瀬",
+            "alternative": [
+              "Momo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143807-53bbiEPYHzkB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143807-53bbiEPYHzkB.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/143807"
+        },
+        "voiceActors": [
+          {
+            "id": 95030,
+            "name": {
+              "first": "Souichirou",
+              "last": "Hoshi",
+              "native": "保志総一朗"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95030-kj64Uy6Zr3bq.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95030-kj64Uy6Zr3bq.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95030"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 143808,
+          "name": {
+            "first": "Yukito",
+            "last": "Orikasa",
+            "native": "折笠千斗",
+            "alternative": [
+              "Yuki"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143808-Q3kmz4Y93V4a.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143808-Q3kmz4Y93V4a.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/143808"
+        },
+        "voiceActors": [
+          {
+            "id": 95792,
+            "name": {
+              "first": "Shinnosuke",
+              "last": "Tachibana",
+              "native": "立花慎之介"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95792-5413Ip70mSdV.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95792-5413Ip70mSdV.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95792"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 190928,
+          "name": {
+            "first": "Kaoru",
+            "last": "Anesagi",
+            "native": "姉鷺カオル",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b190928-zY2XmjzjRnRN.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b190928-zY2XmjzjRnRN.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/190928"
+        },
+        "voiceActors": [
+          {
+            "id": 95409,
+            "name": {
+              "first": "Yoshihisa",
+              "last": "Kawahara",
+              "native": "川原慶久"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95409-87S6L0u8gQNf.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95409-87S6L0u8gQNf.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95409"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 190929,
+          "name": {
+            "first": "Otoharu",
+            "last": "Takanashi",
+            "native": "小鳥遊音晴",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b190929-eXYDtc4hxiId.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b190929-eXYDtc4hxiId.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/190929"
+        },
+        "voiceActors": [
+          {
+            "id": 95260,
+            "name": {
+              "first": "Susumu",
+              "last": "Chiba",
+              "native": "千葉進歩"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95260-pKyM0LbhEznc.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95260-pKyM0LbhEznc.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95260"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 354456,
+          "name": {
+            "first": "Kinako",
+            "last": null,
+            "native": "きなこ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b354456-l6kRHcXZfF3N.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b354456-l6kRHcXZfF3N.png"
+          },
+          "siteUrl": "https://anilist.co/character/354456"
+        },
+        "voiceActors": [
+          {
+            "id": 101560,
+            "name": {
+              "first": "Satomi",
+              "last": "Satou",
+              "native": "佐藤聡美"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101560-YN8w6EZZtIhb.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101560-YN8w6EZZtIhb.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101560"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 152146,
+          "name": {
+            "first": "Banri",
+            "last": "Oogami",
+            "native": "大神万理",
+            "alternative": [
+              "Ban"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b152146-PdvVvuBCZ0zd.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b152146-PdvVvuBCZ0zd.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/152146"
+        },
+        "voiceActors": [
+          {
+            "id": 102288,
+            "name": {
+              "first": "Kazuyuki",
+              "last": "Okitsu",
+              "native": "興津和幸"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102288-xqcBKreDyZYN.png"
+            },
+            "siteUrl": "https://anilist.co/staff/102288"
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 354488,
+          "name": {
+            "first": "Cocona",
+            "last": null,
+            "native": "ここな",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b354488-iD4oGMqh5L0Z.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b354488-iD4oGMqh5L0Z.png"
+          },
+          "siteUrl": "https://anilist.co/character/354488"
+        },
+        "voiceActors": [
+          {
+            "id": 100250,
+            "name": {
+              "first": "Rina",
+              "last": "Hidaka",
+              "native": "日高里菜"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100250-L8WsoaLevibT.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100250-L8WsoaLevibT.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/100250"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 96878,
+          "name": {
+            "first": "Arina",
+            "last": "Tanemura",
+            "native": "種村有菜"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96878-lBwNTlL3cDck.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n96878-lBwNTlL3cDck.jpg"
+          },
+          "description": "**Doujin Circle:** Meguro Teikoku (目黒帝国, with [Meguro](https://anilist.co/staff/150816/Meguro)), Strawberry Lunch (with [Ai Minase](https://anilist.co/staff/100342/Ai-Minase))\n\n[Twitter](https://twitter.com/arinacchi) | [Website](http://tanemuraarina.com/)\n\nArina Tanemura likes Japanese pop music very much (especially [Maaya Sakamoto](https://anilist.co/staff/95090/Maaya-Sakamoto), Aya Matsuura and the all-girl, [Morning Musume](https://anilist.co/staff/150336/Morning-Musume)) and she loves the game series Final Fantasy. She has one elder and one younger sister and one brother. She hates to lose (in every point of view) and she loves the Margaret Magazine of Shueisha. She says that she is too fat and that she dislikes her face. She has two cats named Riku and Kai, and at Tanemura's homepage you can find many photos of them. She wants to draw like no-one else (she can't lose...) and she loves to go to karaoke with her assistants (friends). She is good friends with the manga-ka [Ryo Maekawa](https://anilist.co/staff/98904/Ryo-Maekawa) and [Ruka Kazuki](https://anilist.co/staff/100291/Ruka-Kazuki).\n\nShe's not really a fan of yaoi (boys' love) manga, but she has made a yaoi doujinshi (no specified title) for one of her friends. She has also made a few adults-only comics on Full Moon wo Sagashite and Kamikaze Kaitou Jeanne.\n\nHer nicknames include the sobriquets \"Arinacchi\" and \"Arinaccho\" (Arinaccho is a humorous play on Arinacchi, and was said just because of the ridiculousness of it all).\n\nArina participated in Shinshi Doumei Cross drama CDs as [Yoshitaka Ichinomiya](https://anilist.co/character/3507/Yoshitaka-Ichinomiya) and Postman.",
+          "siteUrl": "https://anilist.co/staff/96878"
+        }
+      },
+      {
+        "role": "Insert Song Performance (\"Diamond Fusion\"; eps 1-2)",
+        "node": {
+          "id": 265546,
+          "name": {
+            "first": "TRIGGER",
+            "last": null,
+            "native": "TRIGGER"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n265546-ClEPOXmOb1lk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n265546-ClEPOXmOb1lk.png"
+          },
+          "description": "[Spotify](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH)\n\nTRIGGER is a 3 member idol group from the Japanese rhythm game 'Idolish7'. The game later received it's own anime adaptation and manga, which the group TRIGGER and it's individual members have made multiple appearances. Their names contain numbers 8~10 in kanji. Their music symbols mainly consist of clefs.\n\nThe members consist of the leader of the group [Gaku Yaotome](https://anilist.co/character/126250) voiced by Wataru Hatano, their center [Tenn Kujo](https://anilist.co/character/89894) voiced by Souma Saito, and [Ryuunosuke Tsunashi](https://anilist.co/character/126249) voiced by Takuya Satou.\n\nIn the game they are signed under Yaotome Production Company, an in game record label and entertainment company. Their manager is [Kaoru Anesagi](https://anilist.co/character/190928/) voiced by [Yoshihisa Kawahara](https://anilist.co/staff/95409/).",
+          "siteUrl": "https://anilist.co/staff/265546"
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED1)",
+        "node": {
+          "id": 265546,
+          "name": {
+            "first": "TRIGGER",
+            "last": null,
+            "native": "TRIGGER"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n265546-ClEPOXmOb1lk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n265546-ClEPOXmOb1lk.png"
+          },
+          "description": "[Spotify](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH)\n\nTRIGGER is a 3 member idol group from the Japanese rhythm game 'Idolish7'. The game later received it's own anime adaptation and manga, which the group TRIGGER and it's individual members have made multiple appearances. Their names contain numbers 8~10 in kanji. Their music symbols mainly consist of clefs.\n\nThe members consist of the leader of the group [Gaku Yaotome](https://anilist.co/character/126250) voiced by Wataru Hatano, their center [Tenn Kujo](https://anilist.co/character/89894) voiced by Souma Saito, and [Ryuunosuke Tsunashi](https://anilist.co/character/126249) voiced by Takuya Satou.\n\nIn the game they are signed under Yaotome Production Company, an in game record label and entertainment company. Their manager is [Kaoru Anesagi](https://anilist.co/character/190928/) voiced by [Yoshihisa Kawahara](https://anilist.co/staff/95409/).",
+          "siteUrl": "https://anilist.co/staff/265546"
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 120748,
+          "name": {
+            "first": "Ayumi",
+            "last": "Sekine",
+            "native": "関根アユミ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/120748"
+        }
+      },
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 111033,
+          "name": {
+            "first": "Bunta",
+            "last": "Tsushimi",
+            "native": "都志見文太"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111033-dsqsRRdqZcel.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n111033-dsqsRRdqZcel.jpg"
+          },
+          "description": "[Official Website](https://tsmbnt.wixsite.com/entak) | [Twitter](https://twitter.com/bunta_hard)",
+          "siteUrl": "https://anilist.co/staff/111033"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 122261,
+          "name": {
+            "first": "Kasumi",
+            "last": "Fukagawa",
+            "native": "深川可純"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122261-y11UjcRA4Xa7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n122261-y11UjcRA4Xa7.png"
+          },
+          "description": "[Twitter](https://twitter.com/4_7t)\n\nAffiliated with [MAPPA](https://anilist.co/studio/569/).",
+          "siteUrl": "https://anilist.co/staff/122261"
+        }
+      },
+      {
+        "role": "Supervisor",
+        "node": {
+          "id": 107163,
+          "name": {
+            "first": "Ei",
+            "last": "Aoki",
+            "native": "あおきえい"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107163-bLDe2WLLImcY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n107163-bLDe2WLLImcY.png"
+          },
+          "description": "[Twitter](https://twitter.com/ei_aoki)\n\nEi Aoki is a Japanese storyboard artist and director. He credits the anime Megazone 23 as his inspiration to have a career in animation. In 2013, he created the animation studio Troyca with Toshiyuki Nagano and Tomonobu Kato, which began animation production on its first work in the fall of 2014. ",
+          "siteUrl": "https://anilist.co/staff/107163"
+        }
+      },
+      {
+        "role": "Theme Song Lyrics (ED1-ED2)",
+        "node": {
+          "id": 103810,
+          "name": {
+            "first": "Aira",
+            "last": "Yuuki",
+            "native": "結城アイラ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103810-XaAKUzsRFBB5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103810-XaAKUzsRFBB5.jpg"
+          },
+          "description": "__Real name:__ Asuka Kato (加藤あすか)\n\n[Website](http://www.spacecraft.co.jp/yuuki_aira/)\n\nA J pop singer attached to the company Lantis. She began her career in 2007 performing in [Yuki Kajura](https://anilist.co/staff/100077)'s [FictionJunction](https://anilist.co/staff/103691) as \"FictionJunction ASUKA\". She released her debut album- Reflection on July 2, 2008.\n\nNon-anime roles:\nHom-kun in \"Atelier Meruru\" (VG) (Japanese)\nTheme Song Performance (OP/ED) for \"Root Double -Before Crime * After Days-\" (Visual novel) (Japanese)",
+          "siteUrl": "https://anilist.co/staff/103810"
+        }
+      },
+      {
+        "role": "Theme Song Composition (ED1)",
+        "node": {
+          "id": 354453,
+          "name": {
+            "first": "Masashi",
+            "last": "Kusano",
+            "native": "草野将史"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n354453-m8gS2FSA3FLr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n354453-m8gS2FSA3FLr.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/354453"
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 112645,
+          "name": {
+            "first": "Makoto",
+            "last": "Bessho",
+            "native": "別所誠人"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112645-hjVuDkXNldiM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n112645-hjVuDkXNldiM.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/739726003056955393)",
+          "siteUrl": "https://anilist.co/staff/112645"
+        }
+      },
+      {
+        "role": "Production Desk",
+        "node": {
+          "id": 222576,
+          "name": {
+            "first": "Shigehisa",
+            "last": "Okamura",
+            "native": "岡村繁久"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/222576"
+        }
+      },
+      {
+        "role": "Animation Producer",
+        "node": {
+          "id": 223094,
+          "name": {
+            "first": "Naoto",
+            "last": "Kasahara",
+            "native": "笠原直徒"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/223094"
+        }
+      },
+      {
+        "role": "Production Office",
+        "node": {
+          "id": 225509,
+          "name": {
+            "first": "Sanae",
+            "last": "Tomura",
+            "native": "戸村早苗"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/225509"
+        }
+      },
+      {
+        "role": "Design Manager",
+        "node": {
+          "id": 225510,
+          "name": {
+            "first": "Haruna",
+            "last": "Ishige",
+            "native": "石毛春菜"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/225510"
+        }
+      },
+      {
+        "role": "Design Manager",
+        "node": {
+          "id": 225506,
+          "name": {
+            "first": "Minori",
+            "last": "Mizuno",
+            "native": "水野みのり"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/225506"
+        }
+      },
+      {
+        "role": "Design Manager",
+        "node": {
+          "id": 225508,
+          "name": {
+            "first": "Kanako",
+            "last": "Kawamata",
+            "native": "川俣奏子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/225508"
+        }
+      },
+      {
+        "role": "Insert Song Arrangement (\"Diamond Fusion\"; eps 1-2)",
+        "node": {
+          "id": 212178,
+          "name": {
+            "first": "Tomohiro",
+            "last": "Nakatsuchi",
+            "native": "中土智博"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n212178-QnJT6LhwA3ym.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n212178-QnJT6LhwA3ym.jpg"
+          },
+          "description": "Japanese music producer, composer, and arranger.\n\nHe was the sound producer for the group Remark Spirits until the end of 2009, under the name ナカツチトモヒロ.\n\nLoves: Cats, Saunas and Ramen\nTools of the Trade: Pro Tools and Ableton Live",
+          "siteUrl": "https://anilist.co/staff/212178"
+        }
+      },
+      {
+        "role": "Insert Song Lyrics (\"Diamond Fusion\"; eps 1-2)",
+        "node": {
+          "id": 103810,
+          "name": {
+            "first": "Aira",
+            "last": "Yuuki",
+            "native": "結城アイラ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103810-XaAKUzsRFBB5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n103810-XaAKUzsRFBB5.jpg"
+          },
+          "description": "__Real name:__ Asuka Kato (加藤あすか)\n\n[Website](http://www.spacecraft.co.jp/yuuki_aira/)\n\nA J pop singer attached to the company Lantis. She began her career in 2007 performing in [Yuki Kajura](https://anilist.co/staff/100077)'s [FictionJunction](https://anilist.co/staff/103691) as \"FictionJunction ASUKA\". She released her debut album- Reflection on July 2, 2008.\n\nNon-anime roles:\nHom-kun in \"Atelier Meruru\" (VG) (Japanese)\nTheme Song Performance (OP/ED) for \"Root Double -Before Crime * After Days-\" (Visual novel) (Japanese)",
+          "siteUrl": "https://anilist.co/staff/103810"
+        }
+      },
+      {
+        "role": "Insert Song Composition (\"Diamond Fusion\"; eps 1-2)",
+        "node": {
+          "id": 212178,
+          "name": {
+            "first": "Tomohiro",
+            "last": "Nakatsuchi",
+            "native": "中土智博"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n212178-QnJT6LhwA3ym.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n212178-QnJT6LhwA3ym.jpg"
+          },
+          "description": "Japanese music producer, composer, and arranger.\n\nHe was the sound producer for the group Remark Spirits until the end of 2009, under the name ナカツチトモヒロ.\n\nLoves: Cats, Saunas and Ramen\nTools of the Trade: Pro Tools and Ableton Live",
+          "siteUrl": "https://anilist.co/staff/212178"
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 141938,
+          "name": {
+            "first": "Masami",
+            "last": "Inomata",
+            "native": "猪股雅美"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/141938"
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 114924,
+          "name": {
+            "first": "Michio",
+            "last": "Satou",
+            "native": "サトウミチオ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/114924"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 147822,
+          "name": {
+            "first": "Shunji",
+            "last": "Inoue",
+            "native": "井上俊次"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n147822-X7spq2ihuIQW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n147822-X7spq2ihuIQW.png"
+          },
+          "description": "__Aliases:__ ポッキー (Pocky), 社長 (President)\n\n__Shunji Inoue__ is a Japanese musician, composer, arranger, producer and animation planner. He founded the music publishing company Lantis in 1999 and became its president.",
+          "siteUrl": "https://anilist.co/staff/147822"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 104317,
+          "name": {
+            "first": "Kazumi",
+            "last": "Kawashiro",
+            "native": "川城和実"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104317-N9rBXBzesMsb.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n104317-N9rBXBzesMsb.png"
+          },
+          "description": "Kawashiro Kazumi is the president & CEO of Bandai Visual. He graduated from Sophia University - a private university in Japan famous for its international climate. In April of 1982, a month after graduation, he started working at Canyon Records. In July of 1989 he joined Bandai and in April of 1994 he was transferred to Bandai Visual of which he became the president of in May of 2003. In 2010, he was succeeded by Ooshita Satoshi, although Kawashiro remained in the company as the vice-president. In April 2012, he was again appointed the president of Bandai Visual.\n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/104317"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 171248,
+          "name": {
+            "first": "Takashi",
+            "last": "Shouji",
+            "native": "東海林隆"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n171248-6Zfj18QAKTcw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n171248-6Zfj18QAKTcw.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/171248"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 225498,
+          "name": {
+            "first": "Toshiyuki",
+            "last": "Nagano",
+            "native": "長野敏之"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/225498"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 23,
+          "name": "Bandai Visual",
+          "siteUrl": "https://anilist.co/studio/23"
+        }
+      },
+      {
+        "isMain": true,
+        "node": {
+          "id": 6068,
+          "name": "TROYCA",
+          "siteUrl": "https://anilist.co/studio/6068"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 7299,
+          "name": "Bandai Namco Online",
+          "siteUrl": "https://anilist.co/studio/7299"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 104,
+          "name": "Lantis",
+          "siteUrl": "https://anilist.co/studio/104"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": [
+      {
+        "id": null,
+        "node": {
+          "id": 269024,
+          "airingAt": 1517047200,
+          "episode": 4,
+          "mediaId": 101169,
+          "media": {
+            "id": 101169
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269025,
+          "airingAt": 1517997600,
+          "episode": 5,
+          "mediaId": 101169,
+          "media": {
+            "id": 101169
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269026,
+          "airingAt": 1518948000,
+          "episode": 6,
+          "mediaId": 101169,
+          "media": {
+            "id": 101169
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269027,
+          "airingAt": 1519898400,
+          "episode": 7,
+          "mediaId": 101169,
+          "media": {
+            "id": 101169
+          }
+        }
+      },
+      {
+        "id": null,
+        "node": {
+          "id": 269028,
+          "airingAt": 1520848800,
+          "episode": 8,
+          "mediaId": 101169,
+          "media": {
+            "id": 101169
+          }
+        }
+      }
+    ]
+  },
+  "externalLinks": [
+    {
+      "id": 8079,
+      "url": "https://twitter.com/ID7_anime",
+      "site": "Twitter"
+    },
+    {
+      "id": 14268,
+      "url": "https://www.youtube.com/playlist?list=PLKPsuBIKuejPW5LhKsMO287VuM-p11lPM",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 22767,
+      "rank": 4,
+      "type": "RATED",
+      "format": "ONA",
+      "year": 2018,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    }
+  ],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 141794,
+          "rating": 2,
+          "media": {
+            "id": 101169,
+            "title": {
+              "native": "アイドリッシュセブンVibrato"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 136192,
+            "title": {
+              "native": "フルーツバスケット -prelude-"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 179062,
+          "rating": 1,
+          "media": {
+            "id": 101169,
+            "title": {
+              "native": "アイドリッシュセブンVibrato"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 134710,
+            "title": {
+              "native": "ギヴン うらがわの存在"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 208821,
+          "rating": 9,
+          "media": {
+            "id": 101169,
+            "title": {
+              "native": "アイドリッシュセブンVibrato"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 128890,
+            "title": {
+              "native": "アイドリッシュセブン Third BEAT! 第2クール"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 14
+      },
+      {
+        "score": 20,
+        "amount": 5
+      },
+      {
+        "score": 30,
+        "amount": 23
+      },
+      {
+        "score": 40,
+        "amount": 20
+      },
+      {
+        "score": 50,
+        "amount": 49
+      },
+      {
+        "score": 60,
+        "amount": 118
+      },
+      {
+        "score": 70,
+        "amount": 346
+      },
+      {
+        "score": 80,
+        "amount": 472
+      },
+      {
+        "score": 90,
+        "amount": 408
+      },
+      {
+        "score": 100,
+        "amount": 320
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 216
+      },
+      {
+        "status": "PLANNING",
+        "amount": 1385
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 2936
+      },
+      {
+        "status": "DROPPED",
+        "amount": 125
+      },
+      {
+        "status": "PAUSED",
+        "amount": 139
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/101169",
+  "modNotes": null
+}

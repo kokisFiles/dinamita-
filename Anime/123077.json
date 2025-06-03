@@ -1,0 +1,343 @@
+{
+  "id": 123077,
+  "idMal": 33512,
+  "title": {
+    "native": "「アニメガタリ」×「攻殻機動隊 新劇場版」コラボ映像 ",
+    "romaji": "Animegatari x Koukaku Kidoutai Collab Eizou",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "ONA",
+  "status": "FINISHED",
+  "description": "A collaboration work between Animegatari and the Ghost in the Shell to promote the movie Ghost in the Shell: The New Movie.",
+  "startDate": {
+    "year": 2015,
+    "month": 6,
+    "day": 12
+  },
+  "endDate": {
+    "year": 2015,
+    "month": 6,
+    "day": 12
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 2,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748860300,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123077-nqWcO4tlMBMX.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123077-nqWcO4tlMBMX.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx123077-nqWcO4tlMBMX.png",
+    "color": "#e4ae43"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123077-bam7TWJKfI2V.jpg",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [],
+  "averageScore": 44,
+  "meanScore": 45,
+  "popularity": 497,
+  "favourites": 0,
+  "tags": [
+    {
+      "id": 779,
+      "name": "Kuudere",
+      "description": "Prominently features a character who generally retains a cold, blunt and cynical exterior, but once one gets to know them, they have a very warm and loving interior.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 105973,
+          "title": {
+            "native": "アニメガタリ"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 98607,
+          "title": {
+            "native": "アニメガタリズ"
+          }
+        },
+        "relationType": "CHARACTER"
+      },
+      {
+        "node": {
+          "id": 21057,
+          "title": {
+            "native": "攻殻機動隊 新劇場版"
+          }
+        },
+        "relationType": "PARENT"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 177401,
+          "name": {
+            "first": "",
+            "last": "Nishiazabu",
+            "native": "西麻布",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b177401-RIuhjw0PE07Q.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b177401-RIuhjw0PE07Q.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/177401"
+        },
+        "voiceActors": [
+          {
+            "id": 95186,
+            "name": {
+              "first": "Shintarou",
+              "last": "Asanuma",
+              "native": "浅沼晋太郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95186-XMdPPqYhMrwN.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95186-XMdPPqYhMrwN.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95186"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 123856,
+          "name": {
+            "first": "Maya",
+            "last": "Asagaya",
+            "native": "阿佐ヶ谷麻耶",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/123856-wIFC4xRDm8kz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/123856-wIFC4xRDm8kz.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/123856"
+        },
+        "voiceActors": [
+          {
+            "id": 106297,
+            "name": {
+              "first": "Inori",
+              "last": "Minase",
+              "native": "水瀬いのり"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106297-DYjwI6p4yZNJ.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106297-DYjwI6p4yZNJ.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/106297"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 123598,
+          "name": {
+            "first": "Erika",
+            "last": "Aoyama",
+            "native": "青山絵里香",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/123598-lXehMKMOqvBj.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/123598-lXehMKMOqvBj.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/123598"
+        },
+        "voiceActors": [
+          {
+            "id": 118577,
+            "name": {
+              "first": "Anju",
+              "last": "Inami",
+              "native": "伊波杏樹"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118577-e6foJC8Qzlmf.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n118577-e6foJC8Qzlmf.png"
+            },
+            "siteUrl": "https://anilist.co/staff/118577"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 123898,
+          "name": {
+            "first": "Neko-senpai",
+            "last": null,
+            "native": "ネコ先輩",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/123898-YVuds7353vaP.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/123898-YVuds7353vaP.png"
+          },
+          "siteUrl": "https://anilist.co/character/123898"
+        },
+        "voiceActors": [
+          {
+            "id": 106840,
+            "name": {
+              "first": "Hironori",
+              "last": "Kondou",
+              "native": "近藤浩徳"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106840-AC03w0OTFovU.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n106840-AC03w0OTFovU.png"
+            },
+            "siteUrl": "https://anilist.co/staff/106840"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 122366,
+          "name": {
+            "first": "Kenshirou",
+            "last": "Morii",
+            "native": "森井ケンシロウ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122366-ELtzO3akhsja.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n122366-ELtzO3akhsja.png"
+          },
+          "description": "He is married to [Soushi Kinutani](https://anilist.co/staff/123116/Soushi-Kinutani)\n\n[Website](http://www.kenshiro.tv/) | [Twitter](https://twitter.com/morii) | [Bluesky](https://bsky.app/profile/morii.bsky.social) | [Pixiv](https://www.pixiv.net/member.php?id=26596)\n",
+          "siteUrl": "https://anilist.co/staff/122366"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 6258,
+          "name": "W-Toon Studio",
+          "siteUrl": "https://anilist.co/studio/6258"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 13
+      },
+      {
+        "score": 20,
+        "amount": 11
+      },
+      {
+        "score": 30,
+        "amount": 13
+      },
+      {
+        "score": 40,
+        "amount": 26
+      },
+      {
+        "score": 50,
+        "amount": 51
+      },
+      {
+        "score": 60,
+        "amount": 21
+      },
+      {
+        "score": 70,
+        "amount": 8
+      },
+      {
+        "score": 80,
+        "amount": 5
+      },
+      {
+        "score": 90,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 9
+      },
+      {
+        "status": "PLANNING",
+        "amount": 223
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 232
+      },
+      {
+        "status": "DROPPED",
+        "amount": 23
+      },
+      {
+        "status": "PAUSED",
+        "amount": 10
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/123077",
+  "modNotes": null
+}

@@ -1,0 +1,422 @@
+{
+  "id": 131967,
+  "idMal": 55372,
+  "title": {
+    "native": "End Like This",
+    "romaji": "End Like This",
+    "english": "End Like This"
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Music video for Chapter 7, based on the final fight between Rhodes Island and Patriot. The song was produced by Steve Aoki and Yellow Claw, featuring RUNN. ",
+  "startDate": {
+    "year": 2021,
+    "month": 1,
+    "day": 9
+  },
+  "endDate": {
+    "year": 2021,
+    "month": 1,
+    "day": 9
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 2,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": null,
+  "trailer": {
+    "id": "i8seBJzVOnI",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/i8seBJzVOnI/hqdefault.jpg"
+  },
+  "updatedAt": 1748773133,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131967-HfSNyA0xnTf4.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131967-HfSNyA0xnTf4.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx131967-HfSNyA0xnTf4.jpg",
+    "color": "#f15035"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "synonyms": [],
+  "averageScore": 63,
+  "meanScore": 69,
+  "popularity": 487,
+  "favourites": 12,
+  "tags": [
+    {
+      "id": 85,
+      "name": "Tragedy",
+      "description": "Centers around tragic events and unhappy endings.",
+      "category": "Theme-Drama",
+      "rank": 60,
+      "isGeneralSpoiler": true,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 111,
+      "name": "War",
+      "description": "Partly or completely set during wartime.",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 217,
+      "name": "Dystopian",
+      "description": "Partly or completely set in a society characterized by poverty, squalor or oppression.",
+      "category": "Setting-Time",
+      "rank": 60,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 254,
+      "name": "Kemonomimi",
+      "description": "Prominently features humanoid characters with animal ears.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 29,
+      "name": "Magic",
+      "description": "Prominently features magical elements or the use of magic.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 140660,
+          "title": {
+            "native": "アークナイツ 黎明前奏"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 182730,
+          "name": {
+            "first": "FrostNova",
+            "last": null,
+            "native": "霜星",
+            "alternative": [
+              "프로스트 노바"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b182730-ufM404Qpg8cK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b182730-ufM404Qpg8cK.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/182730"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 174801,
+          "name": {
+            "first": "Amiya",
+            "last": null,
+            "native": "阿米娅",
+            "alternative": [
+              "アーミヤ",
+              "아미야"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174801-TMQak4mRHb1p.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174801-TMQak4mRHb1p.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/174801"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 174803,
+          "name": {
+            "first": "Kal'tsit",
+            "last": null,
+            "native": "凯尔希",
+            "alternative": [
+              "ケルシー",
+              "켈시"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174803-JNJkYC4lOJE9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b174803-JNJkYC4lOJE9.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/174803"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 182729,
+          "name": {
+            "first": "Doctor",
+            "last": null,
+            "native": "博士",
+            "alternative": [
+              "ドクター",
+              "박사님"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b182729-1uJe1ghqllBs.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b182729-1uJe1ghqllBs.png"
+          },
+          "siteUrl": "https://anilist.co/character/182729"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 216638,
+          "name": {
+            "first": "Talulah",
+            "last": null,
+            "native": "塔露拉",
+            "alternative": [
+              "She-Dragon",
+              "Tal"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b216638-OkXtfWEHdBoJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b216638-OkXtfWEHdBoJ.png"
+          },
+          "siteUrl": "https://anilist.co/character/216638"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 203998,
+          "name": {
+            "first": "Rosmontis",
+            "last": null,
+            "native": "迷迭香",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b203998-adriFrtbdj5D.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b203998-adriFrtbdj5D.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/203998"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music Producer",
+        "node": {
+          "id": 187892,
+          "name": {
+            "first": "Steven Hiroyuki",
+            "last": "Aoki",
+            "native": "スティーヴン・ヒロユキ・アオキ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n187892-nIwAoeW27Lyv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n187892-nIwAoeW27Lyv.png"
+          },
+          "description": "__[Website](https://www.steveaoki.com/) | [Profile (SonyMusic)](https://www.sonymusic.co.jp/artist/steveaoki/) | [Twitter](https://twitter.com/steveaoki) | [Instagram](https://www.instagram.com/steveaoki/) | [Facebook](https://www.facebook.com/steveaoki) | [YouTube](https://www.youtube.com/user/steveaoki) | [Soundcloud](https://soundcloud.com/steveaoki) | [MySpace](https://myspace.com/steveaoki) | [Spotify](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs)__\n\n__Birthplace:__ Miami, Florida, USA\n__Hometown:__ Newport Beach, California, USA\n\n__Steven Hiroyuki Aoki__, better known as Steve Aoki, is an American-Japanese born DJ and music producer.",
+          "siteUrl": "https://anilist.co/staff/187892"
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 282347,
+          "name": {
+            "first": "Hypergryph",
+            "last": null,
+            "native": "鹰角网络"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n282347-87oG7ueZ3qzU.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n282347-87oG7ueZ3qzU.png"
+          },
+          "description": "[Website](https://www.hypergryph.com/)\n\nHypergryph Network Technology Co. Ltd., commonly known as Hypergryph or HG, is a video game development company based in Shanghai, China. It is known as the creator and developer of Arknights and the publisher of the game's original Chinese version. It was founded on January 24, 2017 by Hai Mao and his colleagues from Google, Cygames and MICA Team (now [Sunborn](https://anilist.co/studio/6593/SUNBORN-Network-Technology)), the latter of which is notable for being the developer of [Girls' Frontline](https://anilist.co/anime/128828/Dolls-Frontline/). Hypergryph consists of several subsidiaries such as the development teams for their games or their own label Monster Siren Records for the music related to Arknights.\n\n(Source: Arknights Wikia, edited)",
+          "siteUrl": "https://anilist.co/staff/282347"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 6453,
+          "name": "Hypergryph",
+          "siteUrl": "https://anilist.co/studio/6453"
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 7307,
+          "name": "Yostar",
+          "siteUrl": "https://anilist.co/studio/7307"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 69889,
+          "rating": 6,
+          "media": {
+            "id": 131967,
+            "title": {
+              "native": "End Like This"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 131969,
+            "title": {
+              "native": "Last Of Me"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 184685,
+          "rating": 2,
+          "media": {
+            "id": 131967,
+            "title": {
+              "native": "End Like This"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 156065,
+            "title": {
+              "native": "Running In The Dark"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 2
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 5
+      },
+      {
+        "score": 40,
+        "amount": 10
+      },
+      {
+        "score": 50,
+        "amount": 26
+      },
+      {
+        "score": 60,
+        "amount": 27
+      },
+      {
+        "score": 70,
+        "amount": 37
+      },
+      {
+        "score": 80,
+        "amount": 36
+      },
+      {
+        "score": 90,
+        "amount": 28
+      },
+      {
+        "score": 100,
+        "amount": 21
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 6
+      },
+      {
+        "status": "PLANNING",
+        "amount": 72
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 397
+      },
+      {
+        "status": "DROPPED",
+        "amount": 6
+      },
+      {
+        "status": "PAUSED",
+        "amount": 6
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/131967",
+  "modNotes": null
+}

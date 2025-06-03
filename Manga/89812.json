@@ -1,0 +1,366 @@
+{
+  "id": 89812,
+  "idMal": 63613,
+  "title": {
+    "native": "ベヨネッタ ブラッディフェイト",
+    "romaji": "Bayonetta: Bloody Fate",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "Bayonetta: Bloody Fate is a manga adaptation of the anime film of the same name.",
+  "startDate": {
+    "year": 2013,
+    "month": 11,
+    "day": 9
+  },
+  "endDate": {
+    "year": 2013,
+    "month": 12,
+    "day": 9
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 2,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748705230,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/89812-i9uShIihuiHT.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/89812-i9uShIihuiHT.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/89812-i9uShIihuiHT.jpg",
+    "color": "#e4bb5d"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action",
+    "Ecchi",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "synonyms": [],
+  "averageScore": null,
+  "meanScore": 65,
+  "popularity": 236,
+  "favourites": 7,
+  "tags": [
+    {
+      "id": 15,
+      "name": "Demons",
+      "description": "Prominently features malevolent otherworldly creatures.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "description": "Target demographic is teenage and young adult males.",
+      "category": "Demographic",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 66,
+      "name": "Super Power",
+      "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+      "category": "Theme-Fantasy",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 20442,
+          "title": {
+            "native": "ベヨネッタ ブラッディフェイト"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 87496,
+          "name": {
+            "first": "Bayonetta",
+            "last": null,
+            "native": "ベヨネッタ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87496-pBhFLnxrCi7y.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b87496-pBhFLnxrCi7y.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/87496"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 219275,
+          "name": {
+            "first": "Jeanne",
+            "last": null,
+            "native": "ジャンヌ",
+            "alternative": [
+              "Cutie J",
+              "Platinum Knight",
+              "Silver-Haired Knight"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219275-fGijIVw2jnag.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b219275-fGijIVw2jnag.png"
+          },
+          "siteUrl": "https://anilist.co/character/219275"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 219272,
+          "name": {
+            "first": "Luka",
+            "last": "Redgrave",
+            "native": "ルカ・レッドグレイヴ",
+            "alternative": [
+              "Cheshire"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219272-hVsRGflttyM8.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b219272-hVsRGflttyM8.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/219272"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 219274,
+          "name": {
+            "first": "Cereza",
+            "last": null,
+            "native": "セレッサ",
+            "alternative": [
+              "Cerezita",
+              "Little One"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219274-P9RmNHp3VJTO.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b219274-P9RmNHp3VJTO.png"
+          },
+          "siteUrl": "https://anilist.co/character/219274"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story & Art",
+        "node": {
+          "id": 108769,
+          "name": {
+            "first": "Mizuki",
+            "last": "Sakakibara",
+            "native": "榊原瑞紀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108769-FWHooV9g63vK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n108769-FWHooV9g63vK.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/miz1991) | [Official Website](https://mophat1991.wixsite.com/mizukisakakibara) | [Pixiv](https://www.pixiv.net/en/users/776043)",
+          "siteUrl": "https://anilist.co/staff/108769"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 42399,
+          "rating": 2,
+          "media": {
+            "id": 89812,
+            "title": {
+              "native": "ベヨネッタ ブラッディフェイト"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30893,
+            "title": {
+              "native": "魔砲使い黒姫"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 323847,
+          "rating": 3,
+          "media": {
+            "id": 89812,
+            "title": {
+              "native": "ベヨネッタ ブラッディフェイト"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 30287,
+            "title": {
+              "native": "デビルメイクライ3"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 323849,
+          "rating": 3,
+          "media": {
+            "id": 89812,
+            "title": {
+              "native": "ベヨネッタ ブラッディフェイト"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 108427,
+            "title": {
+              "native": "Devil May Cry 5 - Visions of V -"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 334832,
+          "rating": 2,
+          "media": {
+            "id": 89812,
+            "title": {
+              "native": "ベヨネッタ ブラッディフェイト"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 127809,
+            "title": {
+              "native": "ヨルハ 真珠湾降下作戦記録"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 341443,
+          "rating": 1,
+          "media": {
+            "id": 89812,
+            "title": {
+              "native": "ベヨネッタ ブラッディフェイト"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 59553,
+            "title": {
+              "native": "タイガー・アンド・バニー"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 40,
+        "amount": 1
+      },
+      {
+        "score": 60,
+        "amount": 5
+      },
+      {
+        "score": 70,
+        "amount": 1
+      },
+      {
+        "score": 80,
+        "amount": 4
+      },
+      {
+        "score": 90,
+        "amount": 2
+      },
+      {
+        "score": 100,
+        "amount": 4
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 9
+      },
+      {
+        "status": "PLANNING",
+        "amount": 177
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 48
+      },
+      {
+        "status": "DROPPED",
+        "amount": 2
+      },
+      {
+        "status": "PAUSED",
+        "amount": 0
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/89812",
+  "modNotes": null
+}

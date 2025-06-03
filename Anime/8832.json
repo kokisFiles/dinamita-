@@ -1,0 +1,281 @@
+{
+  "id": 8832,
+  "idMal": 8832,
+  "title": {
+    "native": "少年アシベ2",
+    "romaji": "Shounen Ashibe 2",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "The sequel to Shounen Ashibe.",
+  "startDate": {
+    "year": 1992,
+    "month": 10,
+    "day": 3
+  },
+  "endDate": {
+    "year": 1993,
+    "month": 3,
+    "day": 27
+  },
+  "season": "FALL",
+  "seasonYear": 1992,
+  "seasonInt": 924,
+  "episodes": 25,
+  "duration": 25,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748279846,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8832.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8832.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8832.jpg",
+    "color": "#f1ae35"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "synonyms": [
+    "Shonen Ashibe 2",
+    "Young Ashibe 2"
+  ],
+  "averageScore": 55,
+  "meanScore": 65,
+  "popularity": 259,
+  "favourites": 1,
+  "tags": [],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 8829,
+          "title": {
+            "native": "少年アシベ"
+          }
+        },
+        "relationType": "PREQUEL"
+      },
+      {
+        "node": {
+          "id": 96776,
+          "title": {
+            "native": "少年アシベ"
+          }
+        },
+        "relationType": "ADAPTATION"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 137625,
+          "name": {
+            "first": "Goma-chan",
+            "last": null,
+            "native": "ゴマちゃん",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137625-ZV2G0Ueg0svT.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137625-ZV2G0Ueg0svT.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/137625"
+        },
+        "voiceActors": [
+          {
+            "id": 95470,
+            "name": {
+              "first": "Satomi",
+              "last": "Koorogi",
+              "native": "こおろぎさとみ"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95470-xZYG14WGMlmS.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95470-xZYG14WGMlmS.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95470"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 137626,
+          "name": {
+            "first": "Ashibe",
+            "last": "Ashiya",
+            "native": "芦屋アシベ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137626-yTVo6ypdGhWQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137626-yTVo6ypdGhWQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/137626"
+        },
+        "voiceActors": [
+          {
+            "id": 95387,
+            "name": {
+              "first": "Chika",
+              "last": "Sakamoto",
+              "native": "坂本千夏"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95387-CLYs2OZwhe9c.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95387-CLYs2OZwhe9c.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95387"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music",
+        "node": {
+          "id": 116579,
+          "name": {
+            "first": "Toshiyuki",
+            "last": "Arakawa",
+            "native": "荒川敏行"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116579-1Ruaecn05EZR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116579-1Ruaecn05EZR.jpg"
+          },
+          "description": "__Date of Birth:__ 1953 \n__Place of Birth:__ Japan \n\nA music composer and member of the Japanese Society for Rights of Authors, Composers and Publishers (JASRAC). He graduated from the Department of Literature at Chuo University and joined afterwards Nippon Columbia as music director. \n\n(Source: AniDB)",
+          "siteUrl": "https://anilist.co/staff/116579"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 145,
+          "name": "TBS",
+          "siteUrl": "https://anilist.co/studio/145"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [],
+  "streamingEpisodes": [],
+  "rankings": [
+    {
+      "id": 1130,
+      "rank": 24,
+      "type": "RATED",
+      "format": "TV",
+      "year": 1992,
+      "season": null,
+      "allTime": false,
+      "context": "highest rated"
+    },
+    {
+      "id": 1165,
+      "rank": 30,
+      "type": "POPULAR",
+      "format": "TV",
+      "year": 1992,
+      "season": null,
+      "allTime": false,
+      "context": "most popular"
+    }
+  ],
+  "recommendations": {
+    "edges": []
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 6
+      },
+      {
+        "score": 20,
+        "amount": 2
+      },
+      {
+        "score": 30,
+        "amount": 2
+      },
+      {
+        "score": 40,
+        "amount": 3
+      },
+      {
+        "score": 50,
+        "amount": 5
+      },
+      {
+        "score": 60,
+        "amount": 10
+      },
+      {
+        "score": 70,
+        "amount": 2
+      },
+      {
+        "score": 80,
+        "amount": 41
+      },
+      {
+        "score": 90,
+        "amount": 1
+      },
+      {
+        "score": 100,
+        "amount": 3
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 16
+      },
+      {
+        "status": "PLANNING",
+        "amount": 106
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 98
+      },
+      {
+        "status": "DROPPED",
+        "amount": 34
+      },
+      {
+        "status": "PAUSED",
+        "amount": 5
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/8832",
+  "modNotes": null
+}

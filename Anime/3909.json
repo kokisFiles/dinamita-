@@ -1,0 +1,689 @@
+{
+  "id": 3909,
+  "idMal": 3909,
+  "title": {
+    "native": "ビックリマン",
+    "romaji": "Bikkuriman",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "TV",
+  "status": "FINISHED",
+  "description": "In a world divided between angels and evil creatures, only the young hero Yamato Shintei has the power to defeat the demons...",
+  "startDate": {
+    "year": 1987,
+    "month": 10,
+    "day": 11
+  },
+  "endDate": {
+    "year": 1989,
+    "month": 4,
+    "day": 2
+  },
+  "season": "FALL",
+  "seasonYear": 1987,
+  "seasonInt": 874,
+  "episodes": 75,
+  "duration": 24,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "OTHER",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748884798,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3909.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3909.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3909.jpg",
+    "color": "#f1c928"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "synonyms": [
+    "Prince Hercule"
+  ],
+  "averageScore": 55,
+  "meanScore": 64,
+  "popularity": 485,
+  "favourites": 6,
+  "tags": [
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 79,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 9885,
+          "title": {
+            "native": "新ビックリマン"
+          }
+        },
+        "relationType": "SEQUEL"
+      },
+      {
+        "node": {
+          "id": 10203,
+          "title": {
+            "native": "ビックリマン 第一次聖魔大戦"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 10200,
+          "title": {
+            "native": "ビックリマン 無縁ゾーンの秘宝"
+          }
+        },
+        "relationType": "SIDE_STORY"
+      },
+      {
+        "node": {
+          "id": 163364,
+          "title": {
+            "native": "ビックリメン"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      },
+      {
+        "node": {
+          "id": 144757,
+          "title": {
+            "native": "ビックリマン"
+          }
+        },
+        "relationType": "ALTERNATIVE"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 71999,
+          "name": {
+            "first": "Super",
+            "last": "Zeus",
+            "native": "スーパーゼウス",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/71999.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/71999.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/71999"
+        },
+        "voiceActors": [
+          {
+            "id": 95670,
+            "name": {
+              "first": "Jouji",
+              "last": "Yanami",
+              "native": "八奈見乗児"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95670-fTFcKuDyrOjc.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95670-fTFcKuDyrOjc.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95670"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 74155,
+          "name": {
+            "first": "Yamato Ouji",
+            "last": null,
+            "native": "ヤマト王子",
+            "alternative": [
+              "Prince Yamato",
+              "Yamato Shintei (ヤマト神帝)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74155-R8aEJPKIu67h.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b74155-R8aEJPKIu67h.png"
+          },
+          "siteUrl": "https://anilist.co/character/74155"
+        },
+        "voiceActors": [
+          {
+            "id": 104077,
+            "name": {
+              "first": "Tomiko",
+              "last": "Suzuki",
+              "native": "富子鈴木"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9077.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/9077.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/104077"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 72003,
+          "name": {
+            "first": "Tenshidan Jack",
+            "last": null,
+            "native": "天子男ジャック",
+            "alternative": [
+              "Emperor Jack"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72003-suzaqAK5XdgS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b72003-suzaqAK5XdgS.png"
+          },
+          "siteUrl": "https://anilist.co/character/72003"
+        },
+        "voiceActors": [
+          {
+            "id": 102965,
+            "name": {
+              "first": "Keiko",
+              "last": "Yamamoto",
+              "native": "山本圭子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102965-9VD9FbA7pNyV.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n102965-9VD9FbA7pNyV.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/102965"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 301760,
+          "name": {
+            "first": "Shaman Khan",
+            "last": null,
+            "native": "シャーマンカーン",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301760-qNkdwQiIDhlk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301760-qNkdwQiIDhlk.png"
+          },
+          "siteUrl": "https://anilist.co/character/301760"
+        },
+        "voiceActors": [
+          {
+            "id": 101730,
+            "name": {
+              "first": "Ichirou",
+              "last": "Nagai",
+              "native": "永井一郎"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101730-PQO9AMRtT5jB.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n101730-PQO9AMRtT5jB.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/101730"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 301757,
+          "name": {
+            "first": "Saint Phoenix",
+            "last": null,
+            "native": "聖フェニックス",
+            "alternative": [
+              "Head Rokoko (ヘッドロココ)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301757-hRDpnqTNloz6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301757-hRDpnqTNloz6.png"
+          },
+          "siteUrl": "https://anilist.co/character/301757"
+        },
+        "voiceActors": [
+          {
+            "id": 95752,
+            "name": {
+              "first": "Yasuhiro",
+              "last": "Takato",
+              "native": "高戸靖広"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95752-9T4nDuosYWTu.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95752-9T4nDuosYWTu.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/95752"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 301761,
+          "name": {
+            "first": "Herchrist",
+            "last": null,
+            "native": "ヘラクライスト",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301761-LuOvgtzMlyFr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301761-LuOvgtzMlyFr.png"
+          },
+          "siteUrl": "https://anilist.co/character/301761"
+        },
+        "voiceActors": [
+          {
+            "id": 95330,
+            "name": {
+              "first": "Banjou",
+              "last": "Ginga",
+              "native": "銀河万丈"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95330-PHDm9uDhKAsT.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95330-PHDm9uDhKAsT.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95330"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 301763,
+          "name": {
+            "first": "Venus Shirayuki",
+            "last": null,
+            "native": "ヴィーナス白雪",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301763-Gy4nyPWjxUaX.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301763-Gy4nyPWjxUaX.png"
+          },
+          "siteUrl": "https://anilist.co/character/301763"
+        },
+        "voiceActors": [
+          {
+            "id": 95437,
+            "name": {
+              "first": "Michie",
+              "last": "Tomizawa",
+              "native": "富沢美智恵"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95437-E2FrR8aqJoFm.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95437-E2FrR8aqJoFm.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95437"
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 74157,
+          "name": {
+            "first": "Juujika Tenshi",
+            "last": "",
+            "native": "十字架天使",
+            "alternative": [
+              "Cross Angel",
+              "Arrow Angel (アローエンジェル)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74157-PSkGhUNdF9U1.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b74157-PSkGhUNdF9U1.png"
+          },
+          "siteUrl": "https://anilist.co/character/74157"
+        },
+        "voiceActors": [
+          {
+            "id": 100035,
+            "name": {
+              "first": "Hinako",
+              "last": "Yoshino",
+              "native": "芳野日向子"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5035.jpg",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/5035.jpg"
+            },
+            "siteUrl": "https://anilist.co/staff/100035"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 301755,
+          "name": {
+            "first": "Ushiwaka Tenshi",
+            "last": null,
+            "native": "牛若天子",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b301755-3EAeWX5oNOiZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b301755-3EAeWX5oNOiZ.png"
+          },
+          "siteUrl": "https://anilist.co/character/301755"
+        },
+        "voiceActors": [
+          {
+            "id": 95134,
+            "name": {
+              "first": "Takeshi",
+              "last": "Kusao",
+              "native": "草尾毅"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95134-OZzRIDS8eAUd.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95134-OZzRIDS8eAUd.png"
+            },
+            "siteUrl": "https://anilist.co/staff/95134"
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 100724,
+          "name": {
+            "first": "Akio",
+            "last": "Watanabe",
+            "native": "渡辺明夫"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100724-bZxekioUpzXS.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n100724-bZxekioUpzXS.jpg"
+          },
+          "description": "__Associated Names:__ Poyoyon Rock (ぽよよんろっく), Poyoyon♥Rock (ぽよよん♥ろっく), Pucchin Purin\n\n[Twitter (NSFW)](https://twitter.com/punipoyo)\n\nA Japanese animator, character designer, and animation director currently living in Tokyo, Japan. He often goes by the pseudonym Poyoyon Rock.  He is also a member of the doujinshi circle Pokopii.  \n\n(Source: Wikipedia)  ",
+          "siteUrl": "https://anilist.co/staff/100724"
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 102424,
+          "name": {
+            "first": "Takanori",
+            "last": "Arisawa",
+            "native": "有澤孝紀"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7424.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/7424.jpg"
+          },
+          "description": "Takanori Arisawa was a Japanese composer and arranger from Tokyo. He wrote the background music for several notable anime, including the award-winning soundtrack of the Sailor Moon anime series.    He died of bladder cancer at 54 years of age.    As the Music Director for Sailor Moon, Arisawa's first award was the 1993 Golden Disk Grand Prize from Columbia Records. He continued to compose for the entire anime series, plus several video games and some of the stage musicals. In 1998, 2000, and 2001 he won the JASRAC International Award for most international royalties, owing largely to the popularity of Sailor Moon music in other nations.    Arisawa expressed an admiration of Hollywood-style music, drawing his initial inspiration for the tone of the Sailor Moon soundtrack from the Charlie's Angels TV series. He frequently made use of symbolism when writing themes for specific characters or groups, borrowing thematic elements from diverse genres and from other countries. As the series progressed, his music gravitated from a pop feeling toward more classical arrangements to represent the protagonist having passed through painful experiences and grown as a person.    Source: Wikipedia",
+          "siteUrl": "https://anilist.co/staff/102424"
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 115040,
+          "name": {
+            "first": "Mitsuru",
+            "last": "Aoyama",
+            "native": "青山充"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115040-YFH0QHRjI2u2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n115040-YFH0QHRjI2u2.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/青山充)",
+          "siteUrl": "https://anilist.co/staff/115040"
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 116615,
+          "name": {
+            "first": "Mami",
+            "last": "Watanabe",
+            "native": "渡辺麻実"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116615-9HD4kwtBUqju.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n116615-9HD4kwtBUqju.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/渡辺麻実)",
+          "siteUrl": "https://anilist.co/staff/116615"
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 117139,
+          "name": {
+            "first": "Yasuo",
+            "last": "Yamaguchi",
+            "native": "山口康男"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117139-swU9NrefD4xn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n117139-swU9NrefD4xn.png"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/山口康男)\n\nYamaguchi started his career in 1963 as an assistant director at Toei Douga's Tokyo Studio and later transferred to the Production Department where he conducted planning on future series. He planned titles such as Wolf Boy Ken, Ge Ge Ge no Kitarou, Getter Robo, King Kong, and became an anime picture producer, producing titles including Candy, Candy, Story of Maple Town and Tatsu no ko Tarou. As chief of the production section, he produced Sailor Moon.",
+          "siteUrl": "https://anilist.co/staff/117139"
+        }
+      },
+      {
+        "role": "Theme Song Arrangement",
+        "node": {
+          "id": 119527,
+          "name": {
+            "first": "Kazuhiko",
+            "last": "Toyama",
+            "native": "外山和彦"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/24527-aJg7OD0nm68q.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/24527-aJg7OD0nm68q.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/119527"
+        }
+      },
+      {
+        "role": "Episode Director (eps 13, 18, 21, 25, 29, 32, 51, 57, 63, 70)",
+        "node": {
+          "id": 99002,
+          "name": {
+            "first": "Junichi",
+            "last": "Satou",
+            "native": "佐藤順一"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99002-OQBPLNU1ZcoV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n99002-OQBPLNU1ZcoV.png"
+          },
+          "description": "[Twitter](https://twitter.com/satojumichi) | [Wiki (jp)](https://ja.wikipedia.org/wiki/佐藤順一)\n\nJunichi Satou is a Japanese anime director, best known for working on shoujo-based anime and in the magical girl genre. He was formerly associated with [TYO Animations](https://anilist.co/studio/333/), formerly known as [Hal Film Maker](https://anilist.co/studio/34/).\n\nSatou’s first major work was directing the first, and a portion of the second season of [Sailor Moon](https://anilist.co/anime/530/) for [Toei Animation](https://anilist.co/studio/18/), after which he handed the position over to [Kunihiko Ikuhara](https://anilist.co/staff/100082/), although he continued to storyboard and direct episodes for the later seasons. Satou later went on to co-direct [Ojamajo Doremi](https://anilist.co/anime/350/) alongside [Takuya Igarashi](https://anilist.co/staff/105087/), as well as the critically acclaimed [Princess Tutu](https://anilist.co/anime/721/). Satou served as chief director for long-runner [Sgt. Frog](https://anilist.co/anime/516/), and in recent years has become more known for his iyashikei works such as [Aria](https://anilist.co/anime/477/) and [Tamayura](https://anilist.co/anime/9055/).\n\nHe's married to [Yasuno Satou](https://anilist.co/staff/144094/).\n\n(Source: Wikipedia)",
+          "siteUrl": "https://anilist.co/staff/99002"
+        }
+      },
+      {
+        "role": "Art Director (eps 19, 34, 56)",
+        "node": {
+          "id": 135805,
+          "name": {
+            "first": "Shinzou",
+            "last": "Yuki ",
+            "native": "行信三"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Wiki (jp)](https://ja.wikipedia.org/wiki/行信三)\n\nAffiliated with [Toei Animation](https://anilist.co/studio/18/) since the early '80s.\n\nMarried to [Yukie Yuki](https://anilist.co/staff/135806/).",
+          "siteUrl": "https://anilist.co/staff/135805"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": false,
+        "node": {
+          "id": 18,
+          "name": "Toei Animation",
+          "siteUrl": "https://anilist.co/studio/18"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 84449,
+      "url": "https://www.toei-anim.co.jp/sp/bikkuri-man/intro/index.html",
+      "site": "Official Site"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 298268,
+          "rating": 2,
+          "media": {
+            "id": 3909,
+            "title": {
+              "native": "ビックリマン"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 3672,
+            "title": {
+              "native": "とっても！ラッキーマン"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 5
+      },
+      {
+        "score": 20,
+        "amount": 3
+      },
+      {
+        "score": 30,
+        "amount": 9
+      },
+      {
+        "score": 40,
+        "amount": 3
+      },
+      {
+        "score": 50,
+        "amount": 11
+      },
+      {
+        "score": 60,
+        "amount": 5
+      },
+      {
+        "score": 70,
+        "amount": 6
+      },
+      {
+        "score": 80,
+        "amount": 29
+      },
+      {
+        "score": 90,
+        "amount": 3
+      },
+      {
+        "score": 100,
+        "amount": 12
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 92
+      },
+      {
+        "status": "PLANNING",
+        "amount": 198
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 124
+      },
+      {
+        "status": "DROPPED",
+        "amount": 47
+      },
+      {
+        "status": "PAUSED",
+        "amount": 24
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/3909",
+  "modNotes": null
+}

@@ -1,0 +1,912 @@
+{
+  "id": 170985,
+  "idMal": 57302,
+  "title": {
+    "native": "ぎゅーどんかーにばる！",
+    "romaji": "Gyudon Carnival!",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "Music video animated by Chajou for the song <i>Gyudon Carnival!</i> by Shirogane Noel.",
+  "startDate": {
+    "year": 2023,
+    "month": 11,
+    "day": 22
+  },
+  "endDate": {
+    "year": 2023,
+    "month": 11,
+    "day": 22
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 4,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "ORIGINAL",
+  "hashtag": "#ぎゅーどんかーにばる",
+  "trailer": {
+    "id": "65HJRp_GAig",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/65HJRp_GAig/hqdefault.jpg"
+  },
+  "updatedAt": 1748856076,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170985-bOzhlnnWJ2vl.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170985-bOzhlnnWJ2vl.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170985-bOzhlnnWJ2vl.jpg",
+    "color": "#e47828"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Comedy"
+  ],
+  "synonyms": [],
+  "averageScore": 54,
+  "meanScore": 61,
+  "popularity": 245,
+  "favourites": 1,
+  "tags": [
+    {
+      "id": 1047,
+      "name": "VTuber",
+      "description": "Prominently features a character who is either an actual or fictive VTuber.",
+      "category": "Cast-Traits",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 98,
+      "name": "Female Protagonist",
+      "description": "Main character is female.",
+      "category": "Cast-Main Cast",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 209,
+      "name": "Dancing",
+      "description": "Centers around the art of dance.",
+      "category": "Theme-Arts-Music",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 118123,
+          "title": {
+            "native": "ホロのぐらふぃてぃ"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 169495,
+          "name": {
+            "first": "Noel",
+            "last": "Shirogane",
+            "native": "白銀ノエル",
+            "alternative": [
+              "Danchou"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169495-tZfll0a8y8BV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169495-tZfll0a8y8BV.png"
+          },
+          "siteUrl": "https://anilist.co/character/169495"
+        },
+        "voiceActors": [
+          {
+            "id": 197906,
+            "name": {
+              "first": "Noel",
+              "last": "Shirogane",
+              "native": "白銀ノエル"
+            },
+            "language": "JAPANESE",
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n197906-JP5pZEAEggvN.png",
+              "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n197906-JP5pZEAEggvN.png"
+            },
+            "siteUrl": "https://anilist.co/staff/197906"
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169492,
+          "name": {
+            "first": "Pekora",
+            "last": "Usada",
+            "native": "兎田ぺこら",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169492-td5UVxwzQe5g.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169492-td5UVxwzQe5g.png"
+          },
+          "siteUrl": "https://anilist.co/character/169492"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169498,
+          "name": {
+            "first": "Flare",
+            "last": "Shiranui",
+            "native": "不知火フレア",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169498-t1J360vDV2JT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169498-t1J360vDV2JT.png"
+          },
+          "siteUrl": "https://anilist.co/character/169498"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169489,
+          "name": {
+            "first": "Marine",
+            "last": "Houshou",
+            "native": "宝鐘マリン",
+            "alternative": [
+              "Senchou (Captain)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169489-PQ0lLCD2BoKG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169489-PQ0lLCD2BoKG.png"
+          },
+          "siteUrl": "https://anilist.co/character/169489"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169504,
+          "name": {
+            "first": "Suisei",
+            "last": "Hoshimachi",
+            "native": "星街すいせい",
+            "alternative": [
+              "Suisei Hosimati",
+              "Sui-chan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169504-3zEJa7EJGryQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169504-3zEJa7EJGryQ.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/169504"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169484,
+          "name": {
+            "first": "Miko",
+            "last": "Sakura",
+            "native": "さくらみこ",
+            "alternative": [
+              "Miko-chi",
+              "Virtual Elite Miko",
+              "Elite Miko",
+              "Goddess of Spring",
+              "Mikomiko"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169484-lb6ObyGaywVd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169484-lb6ObyGaywVd.png"
+          },
+          "siteUrl": "https://anilist.co/character/169484"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 282756,
+          "name": {
+            "first": "La+",
+            "last": "Darknesss",
+            "native": "ラプラス・ダークネス",
+            "alternative": [
+              "Laplus"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282756-64wAeoAppQGo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282756-64wAeoAppQGo.png"
+          },
+          "siteUrl": "https://anilist.co/character/282756"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 282107,
+          "name": {
+            "first": "Koyori",
+            "last": "Hakui",
+            "native": "博衣こより",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282107-Ztqu7GUWxQ3L.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282107-Ztqu7GUWxQ3L.png"
+          },
+          "siteUrl": "https://anilist.co/character/282107"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 280371,
+          "name": {
+            "first": "Iroha",
+            "last": "Kazama",
+            "native": "風真いろは",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280371-gWb3yX04258R.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b280371-gWb3yX04258R.png"
+          },
+          "siteUrl": "https://anilist.co/character/280371"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169500,
+          "name": {
+            "first": "Mel",
+            "last": "Yozora",
+            "native": "夜空メル",
+            "alternative": [
+              "Merumeru"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169500-iKci318vv8L4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169500-iKci318vv8L4.png"
+          },
+          "siteUrl": "https://anilist.co/character/169500"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 280955,
+          "name": {
+            "first": "Chloe",
+            "last": "Sakamata",
+            "native": "沙花叉クロヱ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280955-MsdtbkbUWFK6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b280955-MsdtbkbUWFK6.png"
+          },
+          "siteUrl": "https://anilist.co/character/280955"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 204877,
+          "name": {
+            "first": "AZKi",
+            "last": null,
+            "native": "AZKi",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b204877-RPNXZcxhERIY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b204877-RPNXZcxhERIY.png"
+          },
+          "siteUrl": "https://anilist.co/character/204877"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169491,
+          "name": {
+            "first": "Ayame",
+            "last": "Nakiri",
+            "native": "百鬼あやめ",
+            "alternative": [
+              "Ojou",
+              "Kijin Hyakki"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169491-ia2uxfeNMDt7.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169491-ia2uxfeNMDt7.png"
+          },
+          "siteUrl": "https://anilist.co/character/169491"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 180468,
+          "name": {
+            "first": "Kanata",
+            "last": "Amane",
+            "native": "天音かなた",
+            "alternative": [
+              "PPTenshi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180468-Dp56lXqOQE5q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b180468-Dp56lXqOQE5q.png"
+          },
+          "siteUrl": "https://anilist.co/character/180468"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 282754,
+          "name": {
+            "first": "Lui",
+            "last": "Takane",
+            "native": "鷹嶺ルイ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282754-1KD5R8BuRM6y.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b282754-1KD5R8BuRM6y.png"
+          },
+          "siteUrl": "https://anilist.co/character/282754"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 131750,
+          "name": {
+            "first": "Sora",
+            "last": "Tokino",
+            "native": "ときのそら",
+            "alternative": [
+              "Tokki~",
+              "〇〇's Sora",
+              "Daisenpai",
+              "Sora-chan",
+              "Soda"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131750-CYtTSMj64J8N.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b131750-CYtTSMj64J8N.png"
+          },
+          "siteUrl": "https://anilist.co/character/131750"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 206007,
+          "name": {
+            "first": "Nene",
+            "last": "Momosuzu",
+            "native": "桃鈴ねね",
+            "alternative": [
+              "Nenechi"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206007-aAuz040JELNR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206007-aAuz040JELNR.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/206007"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 169503,
+          "name": {
+            "first": "Aki",
+            "last": "Rosenthal",
+            "native": "アキ・ローゼンタール",
+            "alternative": [
+              "Akirose"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169503-jpgVwXaE4ktI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169503-jpgVwXaE4ktI.png"
+          },
+          "siteUrl": "https://anilist.co/character/169503"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 206008,
+          "name": {
+            "first": "Lamy",
+            "last": "Yukihana",
+            "native": "雪花ラミィ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206008-GXaFIS90CVYs.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206008-GXaFIS90CVYs.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/206008"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169486,
+          "name": {
+            "first": "Fubuki",
+            "last": "Shirakami",
+            "native": "白上フブキ",
+            "alternative": [
+              "Buki",
+              "Fubuki-chan",
+              "FBK",
+              "Friend",
+              "Waifriend"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169486-V1qjlgVBr8X9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169486-V1qjlgVBr8X9.png"
+          },
+          "siteUrl": "https://anilist.co/character/169486"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169485,
+          "name": {
+            "first": "Matsuri",
+            "last": "Natsuiro",
+            "native": "夏色まつり",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169485-GhkQ4RRIMATS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169485-GhkQ4RRIMATS.png"
+          },
+          "siteUrl": "https://anilist.co/character/169485"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169493,
+          "name": {
+            "first": "Korone",
+            "last": "Inugami",
+            "native": "戌神ころね",
+            "alternative": [
+              "Koro-san",
+              "Koronen"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169493-rdLkoVzej1vk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169493-rdLkoVzej1vk.png"
+          },
+          "siteUrl": "https://anilist.co/character/169493"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169497,
+          "name": {
+            "first": "Aqua",
+            "last": "Minato",
+            "native": "湊あくあ",
+            "alternative": [
+              "Dai Tenshi Aqua",
+              "Onion",
+              "Baqua",
+              "Aqu-tan"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169497-w777keD7LP7l.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169497-w777keD7LP7l.png"
+          },
+          "siteUrl": "https://anilist.co/character/169497"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 206019,
+          "name": {
+            "first": "Ina'nis",
+            "last": "Ninomae",
+            "native": "一伊那尓栖",
+            "alternative": [
+              "Inanis Ninomae",
+              "Ina",
+              "Suspicious",
+              "Tako"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b206019-DJ9tFFCDaEVt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b206019-DJ9tFFCDaEVt.png"
+          },
+          "siteUrl": "https://anilist.co/character/206019"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 169501,
+          "name": {
+            "first": "Shion",
+            "last": "Murasaki",
+            "native": "紫咲シオン",
+            "alternative": [
+              "Super Sleuth"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169501-oDaG9vUP3T2x.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b169501-oDaG9vUP3T2x.png"
+          },
+          "siteUrl": "https://anilist.co/character/169501"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Music Composition",
+        "node": {
+          "id": 206004,
+          "name": {
+            "first": "Maron",
+            "last": null,
+            "native": "まろん"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n206004-YWDJwNQ5WCD4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n206004-YWDJwNQ5WCD4.png"
+          },
+          "description": "__[Twitter](https://twitter.com/maron47)__\n\n__Maron__ is a Japanese lyricist, composer and arranger affiliated with IOSYS.",
+          "siteUrl": "https://anilist.co/staff/206004"
+        }
+      },
+      {
+        "role": "Music Performance",
+        "node": {
+          "id": 197906,
+          "name": {
+            "first": "Noel",
+            "last": "Shirogane",
+            "native": "白銀ノエル"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n197906-JP5pZEAEggvN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n197906-JP5pZEAEggvN.png"
+          },
+          "description": "**Height:** 158 cm\n**Fanbase name:** Order of Shirogane\n**Illustrator:** [Watao](https://twitter.com/wait_ar/)\n\n[YouTube](https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ) | [Twitter](https://twitter.com/shiroganenoel) | [Hololive Profile](https://hololive.hololivepro.com/en/talents/shirogane-noel/) | [Bilibili](https://space.bilibili.com/454733056)\n\n*\"Hey muscle! Shirogane Noel's here!\"*\n\nWhile she is easy-going, she has a dangerous side where she attempts to solve all her problems with muscle power. As much as this fluffy, meatheaded knight hungers for power, she came to the world of VTubers where all the stronk people are, for training.\n\nShirogane Noel is a female Japanese Virtual YouTuber endorsed by Hololive Production. Apart of the third generation wave of Hololive, also known as Hololive Fantasy. ",
+          "siteUrl": "https://anilist.co/staff/197906"
+        }
+      },
+      {
+        "role": "Music Arrangement",
+        "node": {
+          "id": 206004,
+          "name": {
+            "first": "Maron",
+            "last": null,
+            "native": "まろん"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n206004-YWDJwNQ5WCD4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n206004-YWDJwNQ5WCD4.png"
+          },
+          "description": "__[Twitter](https://twitter.com/maron47)__\n\n__Maron__ is a Japanese lyricist, composer and arranger affiliated with IOSYS.",
+          "siteUrl": "https://anilist.co/staff/206004"
+        }
+      },
+      {
+        "role": "Music Lyrics",
+        "node": {
+          "id": 206004,
+          "name": {
+            "first": "Maron",
+            "last": null,
+            "native": "まろん"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n206004-YWDJwNQ5WCD4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n206004-YWDJwNQ5WCD4.png"
+          },
+          "description": "__[Twitter](https://twitter.com/maron47)__\n\n__Maron__ is a Japanese lyricist, composer and arranger affiliated with IOSYS.",
+          "siteUrl": "https://anilist.co/staff/206004"
+        }
+      },
+      {
+        "role": "Music Guitar Performance",
+        "node": {
+          "id": 319189,
+          "name": {
+            "first": "Hiroto",
+            "last": "Kobayashi",
+            "native": "小林ヒロト"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/manmaru1610)",
+          "siteUrl": "https://anilist.co/staff/319189"
+        }
+      },
+      {
+        "role": "Audio Mastering",
+        "node": {
+          "id": 197898,
+          "name": {
+            "first": "Shibayan",
+            "last": null,
+            "native": "しばやん"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n197898-r3rDm6Z4uAf5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n197898-r3rDm6Z4uAf5.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/yaaaaaan)",
+          "siteUrl": "https://anilist.co/staff/197898"
+        }
+      },
+      {
+        "role": "Animation",
+        "node": {
+          "id": 319676,
+          "name": {
+            "first": "Chajou",
+            "last": null,
+            "native": "茶条"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/chajo1225)",
+          "siteUrl": "https://anilist.co/staff/319676"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 319676,
+          "name": {
+            "first": "Chajou",
+            "last": null,
+            "native": "茶条"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/chajo1225)",
+          "siteUrl": "https://anilist.co/staff/319676"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 82298,
+      "url": "https://www.youtube.com/watch?v=65HJRp_GAig",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 241640,
+          "rating": 1,
+          "media": {
+            "id": 170985,
+            "title": {
+              "native": "ぎゅーどんかーにばる！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 137978,
+            "title": {
+              "native": "ぽ"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 241642,
+          "rating": 3,
+          "media": {
+            "id": 170985,
+            "title": {
+              "native": "ぎゅーどんかーにばる！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 170914,
+            "title": {
+              "native": "ねねちのギラギラファンミーティング"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 287725,
+          "rating": 1,
+          "media": {
+            "id": 170985,
+            "title": {
+              "native": "ぎゅーどんかーにばる！"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 180797,
+            "title": {
+              "native": "Wander!"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 4
+      },
+      {
+        "score": 20,
+        "amount": 1
+      },
+      {
+        "score": 30,
+        "amount": 4
+      },
+      {
+        "score": 40,
+        "amount": 5
+      },
+      {
+        "score": 50,
+        "amount": 19
+      },
+      {
+        "score": 60,
+        "amount": 25
+      },
+      {
+        "score": 70,
+        "amount": 18
+      },
+      {
+        "score": 80,
+        "amount": 8
+      },
+      {
+        "score": 90,
+        "amount": 5
+      },
+      {
+        "score": 100,
+        "amount": 8
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 2
+      },
+      {
+        "status": "PLANNING",
+        "amount": 46
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 187
+      },
+      {
+        "status": "DROPPED",
+        "amount": 8
+      },
+      {
+        "status": "PAUSED",
+        "amount": 2
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/170985",
+  "modNotes": null
+}

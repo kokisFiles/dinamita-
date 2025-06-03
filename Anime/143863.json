@@ -1,0 +1,856 @@
+{
+  "id": 143863,
+  "idMal": 50815,
+  "title": {
+    "native": "It'll be fine!",
+    "romaji": "It'll be fine!",
+    "english": null
+  },
+  "type": "ANIME",
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "description": "An animated music video from Project Pochama, a special medley called <i>It'll be fine!</i> performed by Megumi Toyoguchi. The songs featured consists of \"Kimi no Soba de ~Hikari no Theme~\" (君のそばで〜ヒカリのテーマ〜), \"Ashita wa Kitto\" (あしたはきっと), \"Kimi no Mune ni LaLaLa\" (君の胸にLaLaLa), and \"Kaze no Message\" (風のメッセージ) all of which were ending theme songs used in the <i>Pocket Monsters Diamond & Pearl</i> anime.\n",
+  "startDate": {
+    "year": 2022,
+    "month": 1,
+    "day": 13
+  },
+  "endDate": {
+    "year": 2022,
+    "month": 1,
+    "day": 13
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": 1,
+  "duration": 3,
+  "chapters": null,
+  "volumes": null,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "VIDEO_GAME",
+  "hashtag": "#プロジェクトポッチャマ",
+  "trailer": {
+    "id": "__HPQPjSdzw",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/__HPQPjSdzw/hqdefault.jpg"
+  },
+  "updatedAt": 1748858181,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143863-bboT6Iw5YlVX.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143863-bboT6Iw5YlVX.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143863-bboT6Iw5YlVX.png",
+    "color": "#1aa1d6"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143863-1ozSMwVXeITF.jpg",
+  "genres": [],
+  "synonyms": [],
+  "averageScore": 68,
+  "meanScore": 70,
+  "popularity": 1546,
+  "favourites": 23,
+  "tags": [
+    {
+      "id": 433,
+      "name": "Animals",
+      "description": "Prominently features animal characters in a leading role.",
+      "category": "Theme-Other",
+      "rank": 92,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 28,
+      "name": "Kids",
+      "description": "Target demographic is young children.",
+      "category": "Demographic",
+      "rank": 63,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 341,
+      "name": "No Dialogue",
+      "description": "This work contains no dialogue.",
+      "category": "Technical",
+      "rank": 62,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 1565,
+          "title": {
+            "native": "ポケットモンスター ダイヤモンド&パール"
+          }
+        },
+        "relationType": "CHARACTER"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 133224,
+          "name": {
+            "first": "Pocchama",
+            "last": null,
+            "native": "ポッチャマ ",
+            "alternative": [
+              "Piplup"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133224-e024AiBEkKQY.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b133224-e024AiBEkKQY.png"
+          },
+          "siteUrl": "https://anilist.co/character/133224"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 3966,
+          "name": {
+            "first": "Hikari",
+            "last": null,
+            "native": "ヒカリ",
+            "alternative": [
+              "Dawn",
+              "Pikari",
+              "Dee Dee",
+              "Maya",
+              "Lucinda",
+              "Aurore"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3966-Kz88gYqc5EcL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b3966-Kz88gYqc5EcL.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/3966"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 192407,
+          "name": {
+            "first": "Mimirol",
+            "last": null,
+            "native": "ミミロル",
+            "alternative": [
+              "Buneary",
+              "Laporeille",
+              "Haspiror"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b192407-UZFiUK0fVIg9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b192407-UZFiUK0fVIg9.png"
+          },
+          "siteUrl": "https://anilist.co/character/192407"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 211516,
+          "name": {
+            "first": "Masashi",
+            "last": "Itou",
+            "native": "伊東正志"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n211516-1xkZLTeutCDv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n211516-1xkZLTeutCDv.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/114495642)\n\nAffiliated with Stereotype.",
+          "siteUrl": "https://anilist.co/staff/211516"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 199331,
+          "name": {
+            "first": "Hiromi",
+            "last": "Sakai",
+            "native": "酒井裕未"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "**Hiromi Sakai** is an animation director and animator.",
+          "siteUrl": "https://anilist.co/staff/199331"
+        }
+      },
+      {
+        "role": "Music Vocal Performance",
+        "node": {
+          "id": 95144,
+          "name": {
+            "first": "Megumi",
+            "last": "Toyoguchi",
+            "native": "豊口めぐみ"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95144-9Y8CtDVmxogE.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n95144-9Y8CtDVmxogE.jpg"
+          },
+          "description": "__Hobbies:__ anime, games  \n\n[Profile](https://www.81produce.co.jp/actor_search/index.php/item?id=252) | [Blog](https://ameblo.jp/tokyojyanken/)",
+          "siteUrl": "https://anilist.co/staff/95144"
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 146669,
+          "name": {
+            "first": "Shuuhei",
+            "last": "Yasuda",
+            "native": "安田周平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146669-uswN7fp7TQQi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146669-uswN7fp7TQQi.png"
+          },
+          "description": "[Twitter](https://twitter.com/alien18183go/)",
+          "siteUrl": "https://anilist.co/staff/146669"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 216352,
+          "name": {
+            "first": "Mai",
+            "last": "Sugita",
+            "native": "杉田真衣"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with STuDio PaTHoS.",
+          "siteUrl": "https://anilist.co/staff/216352"
+        }
+      },
+      {
+        "role": "In-Between Animation",
+        "node": {
+          "id": 216758,
+          "name": {
+            "first": "Kiwamu",
+            "last": "Noguchi",
+            "native": "野口極"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n216758-hqHTzKbdw7TT.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n216758-hqHTzKbdw7TT.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/promochimochi) | [Twitter 2](https://twitter.com/obfGJ)",
+          "siteUrl": "https://anilist.co/staff/216758"
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 211516,
+          "name": {
+            "first": "Masashi",
+            "last": "Itou",
+            "native": "伊東正志"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n211516-1xkZLTeutCDv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n211516-1xkZLTeutCDv.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/114495642)\n\nAffiliated with Stereotype.",
+          "siteUrl": "https://anilist.co/staff/211516"
+        }
+      },
+      {
+        "role": "Animation Supervisor",
+        "node": {
+          "id": 121224,
+          "name": {
+            "first": "Daiki",
+            "last": "Tomiyasu",
+            "native": "冨安大貴"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121224-r8HX5UK56HJS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n121224-r8HX5UK56HJS.png"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/121224"
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 146669,
+          "name": {
+            "first": "Shuuhei",
+            "last": "Yasuda",
+            "native": "安田周平"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146669-uswN7fp7TQQi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146669-uswN7fp7TQQi.png"
+          },
+          "description": "[Twitter](https://twitter.com/alien18183go/)",
+          "siteUrl": "https://anilist.co/staff/146669"
+        }
+      },
+      {
+        "role": "In-Betweens Check",
+        "node": {
+          "id": 216758,
+          "name": {
+            "first": "Kiwamu",
+            "last": "Noguchi",
+            "native": "野口極"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n216758-hqHTzKbdw7TT.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n216758-hqHTzKbdw7TT.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/promochimochi) | [Twitter 2](https://twitter.com/obfGJ)",
+          "siteUrl": "https://anilist.co/staff/216758"
+        }
+      },
+      {
+        "role": "Finishing",
+        "node": {
+          "id": 216352,
+          "name": {
+            "first": "Mai",
+            "last": "Sugita",
+            "native": "杉田真衣"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with STuDio PaTHoS.",
+          "siteUrl": "https://anilist.co/staff/216352"
+        }
+      },
+      {
+        "role": "In-Betweens Check",
+        "node": {
+          "id": 216352,
+          "name": {
+            "first": "Mai",
+            "last": "Sugita",
+            "native": "杉田真衣"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with STuDio PaTHoS.",
+          "siteUrl": "https://anilist.co/staff/216352"
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 136923,
+          "name": {
+            "first": "Yoshifumi",
+            "last": "Hagano",
+            "native": "波賀野義文"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n136923-LfAsekx6mmVz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n136923-LfAsekx6mmVz.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/yoshi_moco1)",
+          "siteUrl": "https://anilist.co/staff/136923"
+        }
+      },
+      {
+        "role": "Finishing Check",
+        "node": {
+          "id": 155378,
+          "name": {
+            "first": "Fumiko",
+            "last": "Tanaka",
+            "native": "田中文子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/155378"
+        }
+      },
+      {
+        "role": "Video Director",
+        "node": {
+          "id": 211516,
+          "name": {
+            "first": "Masashi",
+            "last": "Itou",
+            "native": "伊東正志"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n211516-1xkZLTeutCDv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n211516-1xkZLTeutCDv.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/114495642)\n\nAffiliated with Stereotype.",
+          "siteUrl": "https://anilist.co/staff/211516"
+        }
+      },
+      {
+        "role": "Finishing",
+        "node": {
+          "id": 216758,
+          "name": {
+            "first": "Kiwamu",
+            "last": "Noguchi",
+            "native": "野口極"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n216758-hqHTzKbdw7TT.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n216758-hqHTzKbdw7TT.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/promochimochi) | [Twitter 2](https://twitter.com/obfGJ)",
+          "siteUrl": "https://anilist.co/staff/216758"
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 146600,
+          "name": {
+            "first": "Katsumi",
+            "last": "Takao",
+            "native": "高尾克己"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146600-yn03wnjxf1Sv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n146600-yn03wnjxf1Sv.jpg"
+          },
+          "description": "Formerly affiliated with [OLM](https://anilist.co/studio/28/OLM), now affiliated with ARED.",
+          "siteUrl": "https://anilist.co/staff/146600"
+        }
+      },
+      {
+        "role": "Color Coordination",
+        "node": {
+          "id": 155378,
+          "name": {
+            "first": "Fumiko",
+            "last": "Tanaka",
+            "native": "田中文子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/155378"
+        }
+      },
+      {
+        "role": "Color Design",
+        "node": {
+          "id": 146881,
+          "name": {
+            "first": "Norimichi",
+            "last": "Yoshino",
+            "native": "吉野記通"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": null,
+          "siteUrl": "https://anilist.co/staff/146881"
+        }
+      },
+      {
+        "role": "Background Art",
+        "node": {
+          "id": 238532,
+          "name": {
+            "first": "Shintarou",
+            "last": "Nagisa",
+            "native": "渚慎太郎"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Affiliated with [OLM](https://anilist.co/studio/28/OLM).",
+          "siteUrl": "https://anilist.co/staff/238532"
+        }
+      },
+      {
+        "role": "Director of Photography",
+        "node": {
+          "id": 211516,
+          "name": {
+            "first": "Masashi",
+            "last": "Itou",
+            "native": "伊東正志"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n211516-1xkZLTeutCDv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n211516-1xkZLTeutCDv.png"
+          },
+          "description": "[Twitter](https://twitter.com/i/user/114495642)\n\nAffiliated with Stereotype.",
+          "siteUrl": "https://anilist.co/staff/211516"
+        }
+      },
+      {
+        "role": "3DCG",
+        "node": {
+          "id": 224345,
+          "name": {
+            "first": "Shuuji",
+            "last": "Nagai",
+            "native": "長井秀司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Motion designer and animator associated with STEREOTYPE Inc.",
+          "siteUrl": "https://anilist.co/staff/224345"
+        }
+      },
+      {
+        "role": "Motion Graphics",
+        "node": {
+          "id": 194770,
+          "name": {
+            "first": "Yuusaku",
+            "last": "Iwami",
+            "native": "石見優作"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n194770-kYVRpTTY4fxB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n194770-kYVRpTTY4fxB.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/saku1251)\n\nAssociated with STEREOTYPE Inc.",
+          "siteUrl": "https://anilist.co/staff/194770"
+        }
+      },
+      {
+        "role": "Photography",
+        "node": {
+          "id": 194770,
+          "name": {
+            "first": "Yuusaku",
+            "last": "Iwami",
+            "native": "石見優作"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n194770-kYVRpTTY4fxB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n194770-kYVRpTTY4fxB.jpg"
+          },
+          "description": "[Twitter](https://twitter.com/saku1251)\n\nAssociated with STEREOTYPE Inc.",
+          "siteUrl": "https://anilist.co/staff/194770"
+        }
+      },
+      {
+        "role": "Photography",
+        "node": {
+          "id": 224345,
+          "name": {
+            "first": "Shuuji",
+            "last": "Nagai",
+            "native": "長井秀司"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/default.jpg"
+          },
+          "description": "Motion designer and animator associated with STEREOTYPE Inc.",
+          "siteUrl": "https://anilist.co/staff/224345"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 28,
+          "name": "OLM",
+          "siteUrl": "https://anilist.co/studio/28"
+        }
+      }
+    ]
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 42888,
+      "url": "https://www.pokemon.jp/special/project_pochama/pochamaDPMV/",
+      "site": "Official Site"
+    },
+    {
+      "id": 42889,
+      "url": "https://twitter.com/prj_pochama",
+      "site": "Twitter"
+    },
+    {
+      "id": 42890,
+      "url": "https://www.youtube.com/watch?v=__HPQPjSdzw",
+      "site": "YouTube"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 123723,
+          "rating": 27,
+          "media": {
+            "id": 143863,
+            "title": {
+              "native": "It'll be fine!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 124561,
+            "title": {
+              "native": "GOTCHA!"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 127657,
+          "rating": 22,
+          "media": {
+            "id": 143863,
+            "title": {
+              "native": "It'll be fine!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 144990,
+            "title": {
+              "native": "Piplup Step"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 135111,
+          "rating": 1,
+          "media": {
+            "id": 143863,
+            "title": {
+              "native": "It'll be fine!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 115143,
+            "title": {
+              "native": "どないやねんヤドン"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 135113,
+          "rating": 2,
+          "media": {
+            "id": 143863,
+            "title": {
+              "native": "It'll be fine!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 126908,
+            "title": {
+              "native": "メタモンのうた「モンモンメタモン」"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 135115,
+          "rating": 6,
+          "media": {
+            "id": 143863,
+            "title": {
+              "native": "It'll be fine!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 118082,
+            "title": {
+              "native": "I LOVE コイキング"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 135119,
+          "rating": 1,
+          "media": {
+            "id": 143863,
+            "title": {
+              "native": "It'll be fine!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 126909,
+            "title": {
+              "native": "カモネギのかぞえうた"
+            }
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 135123,
+          "rating": 2,
+          "media": {
+            "id": 143863,
+            "title": {
+              "native": "It'll be fine!"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 133469,
+            "title": {
+              "native": "ゲンガーのうた「よなよなゲンガー」"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 3
+      },
+      {
+        "score": 20,
+        "amount": 4
+      },
+      {
+        "score": 30,
+        "amount": 9
+      },
+      {
+        "score": 40,
+        "amount": 22
+      },
+      {
+        "score": 50,
+        "amount": 65
+      },
+      {
+        "score": 60,
+        "amount": 101
+      },
+      {
+        "score": 70,
+        "amount": 160
+      },
+      {
+        "score": 80,
+        "amount": 107
+      },
+      {
+        "score": 90,
+        "amount": 79
+      },
+      {
+        "score": 100,
+        "amount": 59
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 11
+      },
+      {
+        "status": "PLANNING",
+        "amount": 221
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1297
+      },
+      {
+        "status": "DROPPED",
+        "amount": 13
+      },
+      {
+        "status": "PAUSED",
+        "amount": 4
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/anime/143863",
+  "modNotes": null
+}

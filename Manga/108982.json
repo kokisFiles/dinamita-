@@ -1,0 +1,464 @@
+{
+  "id": 108982,
+  "idMal": 115098,
+  "title": {
+    "native": "ケンガンアシュラゼロ",
+    "romaji": "Kengan Ashura Zero",
+    "english": null
+  },
+  "type": "MANGA",
+  "format": "MANGA",
+  "status": "FINISHED",
+  "description": "A prequel for Kengan Ashura.",
+  "startDate": {
+    "year": 2015,
+    "month": 8,
+    "day": 27
+  },
+  "endDate": {
+    "year": 2016,
+    "month": 1,
+    "day": 12
+  },
+  "season": null,
+  "seasonYear": null,
+  "seasonInt": null,
+  "episodes": null,
+  "duration": null,
+  "chapters": 8,
+  "volumes": 1,
+  "countryOfOrigin": "JP",
+  "isLicensed": true,
+  "source": "MANGA",
+  "hashtag": null,
+  "trailer": null,
+  "updatedAt": 1748516572,
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108982-0uWZ3ZBR14UM.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108982-0uWZ3ZBR14UM.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx108982-0uWZ3ZBR14UM.jpg",
+    "color": "#e4c950"
+  },
+  "bannerImage": null,
+  "genres": [
+    "Action"
+  ],
+  "synonyms": [
+    "Kengan Asura Zero"
+  ],
+  "averageScore": 70,
+  "meanScore": 71,
+  "popularity": 2644,
+  "favourites": 35,
+  "tags": [
+    {
+      "id": 30,
+      "name": "Martial Arts",
+      "description": "Centers around the use of traditional hand-to-hand combat.",
+      "category": "Theme-Action",
+      "rank": 80,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 199,
+      "name": "Yakuza",
+      "description": "Centered around Japanese organised crime syndicates.",
+      "category": "Theme-Other-Organisations",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 198,
+      "name": "Foreign",
+      "description": "Partly or completely set in a country outside the country of origin.",
+      "category": "Setting-Scene",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 322,
+      "name": "Assassins",
+      "description": "Centers around characters who murder people as a profession.",
+      "category": "Theme-Other-Organisations",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    },
+    {
+      "id": 169,
+      "name": "Boxing",
+      "description": "Centers around the sport of boxing.",
+      "category": "Theme-Game-Sport",
+      "rank": 20,
+      "isGeneralSpoiler": false,
+      "isMediaSpoiler": false,
+      "isAdult": false
+    }
+  ],
+  "relations": {
+    "edges": [
+      {
+        "node": {
+          "id": 86265,
+          "title": {
+            "native": "ケンガンアシュラ"
+          }
+        },
+        "relationType": "SEQUEL"
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 143849,
+          "name": {
+            "first": "Saw Paing",
+            "last": "Yoroizuka",
+            "native": "鎧塚サーパイン",
+            "alternative": [
+              "The Howling Fighting Spirit",
+              "Yoroizuka Sa-pain"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143849-WAXOxnWOszE0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143849-WAXOxnWOszE0.png"
+          },
+          "siteUrl": "https://anilist.co/character/143849"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 137446,
+          "name": {
+            "first": "Ouma",
+            "last": "Tokita",
+            "native": "十鬼蛇王馬",
+            "alternative": [
+              "The Asura",
+              "Ohma Tokita"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137446-umIgsem3URij.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137446-umIgsem3URij.png"
+          },
+          "siteUrl": "https://anilist.co/character/137446"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 143838,
+          "name": {
+            "first": "Kazuo",
+            "last": "Yamashita",
+            "native": "山下一夫",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143838-1bMajQ35FKh9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143838-1bMajQ35FKh9.png"
+          },
+          "siteUrl": "https://anilist.co/character/143838"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 143861,
+          "name": {
+            "first": "Gaolang",
+            "last": "Wongsawat",
+            "native": "ガオラン・ウォンサワット",
+            "alternative": [
+              "Kaolan Wongsawat",
+              "Thai God of War (タイの闘神)"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143861-2X70Iq8Uo7js.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143861-2X70Iq8Uo7js.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/143861"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 137447,
+          "name": {
+            "first": "Cosmo",
+            "last": "Imai",
+            "native": "今井コスモ",
+            "alternative": [
+              "The King of Stranglers"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137447-wKRjmEss598q.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b137447-wKRjmEss598q.png"
+          },
+          "siteUrl": "https://anilist.co/character/137447"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 143859,
+          "name": {
+            "first": "Takeshi",
+            "last": "Wakatsuki",
+            "native": "若槻武士",
+            "alternative": [
+              "The Wild Tiger"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143859-rMvR9SoGLKXf.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143859-rMvR9SoGLKXf.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/143859"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 187553,
+          "name": {
+            "first": "Katahara ",
+            "last": "Retsudo",
+            "native": "片原 烈堂 ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187553-k68mBnUXzFOi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187553-k68mBnUXzFOi.png"
+          },
+          "siteUrl": "https://anilist.co/character/187553"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 143844,
+          "name": {
+            "first": "Hajime",
+            "last": "Hanafusa",
+            "native": "英はじめ",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b143844-ovHhASQAZaQI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b143844-ovHhASQAZaQI.png"
+          },
+          "siteUrl": "https://anilist.co/character/143844"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 187555,
+          "name": {
+            "first": "Metsudo",
+            "last": "Katahara",
+            "native": "片原滅堂",
+            "alternative": []
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187555-O4ePeYwHFV6s.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187555-O4ePeYwHFV6s.jpg"
+          },
+          "siteUrl": "https://anilist.co/character/187555"
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 187557,
+          "name": {
+            "first": "Kure",
+            "last": "Eriou",
+            "native": "呉恵利央",
+            "alternative": [
+              "Gouma (強魔‚ The Mighty Demon)",
+              "First Fang of Metsudo"
+            ]
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187557-gdndNpNT0AB0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/character/medium/b187557-gdndNpNT0AB0.png"
+          },
+          "siteUrl": "https://anilist.co/character/187557"
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Story",
+        "node": {
+          "id": 120489,
+          "name": {
+            "first": "Yabako",
+            "last": "Sandrovich",
+            "native": "サンドロビッチ・ヤバ子"
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/120489-lN1vZXagpVG0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/120489-lN1vZXagpVG0.png"
+          },
+          "description": "[Twitter](https://twitter.com/yabakostardust)",
+          "siteUrl": "https://anilist.co/staff/120489"
+        }
+      },
+      {
+        "role": "Art",
+        "node": {
+          "id": 119244,
+          "name": {
+            "first": "Daromeon",
+            "last": null,
+            "native": "だろめおん "
+          },
+          "language": "JAPANESE",
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119244-HMJAglCKHIJh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/staff/medium/n119244-HMJAglCKHIJh.png"
+          },
+          "description": "[Twitter](https://twitter.com/daromeon/)",
+          "siteUrl": "https://anilist.co/staff/119244"
+        }
+      }
+    ]
+  },
+  "studios": {
+    "edges": []
+  },
+  "isAdult": false,
+  "airingSchedule": {
+    "edges": []
+  },
+  "externalLinks": [
+    {
+      "id": 9384,
+      "url": "https://urasunday.com/kengan_zero/index.html",
+      "site": "Ura Sunday"
+    }
+  ],
+  "streamingEpisodes": [],
+  "rankings": [],
+  "recommendations": {
+    "edges": [
+      {
+        "node": {
+          "id": 96246,
+          "rating": 3,
+          "media": {
+            "id": 108982,
+            "title": {
+              "native": "ケンガンアシュラゼロ"
+            }
+          },
+          "mediaRecommendation": {
+            "id": 41425,
+            "title": {
+              "native": "グラップラー刃牙"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "stats": {
+    "scoreDistribution": [
+      {
+        "score": 10,
+        "amount": 8
+      },
+      {
+        "score": 20,
+        "amount": 5
+      },
+      {
+        "score": 30,
+        "amount": 16
+      },
+      {
+        "score": 40,
+        "amount": 16
+      },
+      {
+        "score": 50,
+        "amount": 74
+      },
+      {
+        "score": 60,
+        "amount": 147
+      },
+      {
+        "score": 70,
+        "amount": 364
+      },
+      {
+        "score": 80,
+        "amount": 264
+      },
+      {
+        "score": 90,
+        "amount": 116
+      },
+      {
+        "score": 100,
+        "amount": 68
+      }
+    ],
+    "statusDistribution": [
+      {
+        "status": "CURRENT",
+        "amount": 134
+      },
+      {
+        "status": "PLANNING",
+        "amount": 746
+      },
+      {
+        "status": "COMPLETED",
+        "amount": 1741
+      },
+      {
+        "status": "DROPPED",
+        "amount": 5
+      },
+      {
+        "status": "PAUSED",
+        "amount": 18
+      }
+    ]
+  },
+  "siteUrl": "https://anilist.co/manga/108982",
+  "modNotes": null
+}
